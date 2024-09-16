@@ -1,0 +1,816 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+#afrosyncretic
+
+ tenet_nsala_malekum_name:0 "Nsala Malekum"
+ tenet_bhakti_personal_orisha:0 "Personal Orisha"
+ tenet_bhakti_winti_spirits:0 "Winti Spirits"
+ tenet_bhakti_ori:0 "Ori"
+ 
+ tenet_roots_of_rasta_name:0 "Roots of Rasta"
+
+#amazonian
+
+ tenet_eusebian_leadership_name:0 "Eusebian Leadership"
+ tenet_eusebian_leadership_desc:0 "We can only trust our leadership to the most pious, and trust them as they guide our people."
+ doctrine_parameter_eusebian_leadership_active:0 "The most pious leader of this faith is always picked as Head of Faith"
+
+#astronomer
+
+ tenet_speaking_to_the_stars_name:0 "Speaking to the Stars"
+ tenet_speaking_to_the_stars_desc:0 "Our faith considers communicating with [ROOT.Faith.HighGodName] of [ROOT.Faith.DivineRealm] the true path to reaching the truth. It is through pilgrimage to the observatories, where we can best read these messages, and through the drawing of great geoglyphs, that we can best ask for their favor."
+ doctrine_parameter_draw_geoglyph_active:0 "Allows adherents to Draw Geoglyphs in their capital"
+ 
+ tenet_divine_avatars_name:0 "Divine Avatars"
+ tenet_divine_avatars_desc:0 "We know that those who reach the pinnacle of piety are usually chosen by [ROOT.Faith.PantheonTerm] to be a vessel of divine power and bring about change in the mortal realm."
+ doctrine_parameter_divine_avatars_active:0 "Allows adherents to channel divine figures into themselves"
+ 
+ #defunct 
+ tenet_crop_circles_name:0 "Crop Circles" 
+ tenet_crop_circles_desc:0 "Through the ritual construction of crop circles we signal to the Zetans our devotion and loyalty to their traditions, and show to the world the beauty of their path, calling everyone's attention."
+ doctrine_parameter_construct_crop_circles_enabled:0 "Allows adherents to construct crop circles, granting monthly [piety|E]" 
+
+#americanist
+
+ tenet_interventionism_name:0 "Interventionism"
+ tenet_interventionism_desc:0 "Although we would prefer it if our ways were adopted peacefully, this cannot always happen. As such, we must always be ready to intervene in foreign lands."
+ 
+ tenet_pacifism_nap:0 "Non-Aggression Principle"
+ tenet_advanced_placement_name:0 "Advanced Placement"
+ tenet_taxation_and_representation_name:0 "Taxation & Representation"
+ tenet_internal_revenue_service_name:0 "Internal Revenue Service"
+ tenet_the_new_colossus_name:0 "The New Colossus"
+ tenet_the_new_colossus_desc:0 "Give me your tired, your poor,\nYour huddled masses yearning to breathe free,\nThe wretched refuse of your teeming shore.\nSend these, the homeless, tempest-tost to me,\nI lift my lamp beside the golden door!"
+ tenet_legalism_common_law:0 "Common Law"
+ tenet_literalism_originalism:0 "Originalism"
+ tenet_religious_legal_pronouncements_judicial_review:0 "Judicial Review"
+ tenet_revolutionary_patriotism:0 "Revolutionary Patriotism" 
+
+
+ tenet_bootstrapping_name:0 "Bootstrapping"
+ tenet_bootstrapping_desc:0 "Old America was built on the backs of people who created enduring prosperity from nothing. It is only right that we emulate this virtue."
+ 
+ tenet_liberty_or_death_name:0 "Liberty or Death"
+ tenet_liberty_or_death_desc:0 "To be free is to be close to divinity, and to be a tyrant is to deprive people of holiness. It is our sacred duty to assure that all people live free and prosperous, and must be willing to give everything, even our very lives, to grant people their freedom."
+ doctrine_parameter_overthrow_tyrant_cb_enabled:0 "Enables the Overthrow Tyrant casus belli"
+ doctrine_parameter_intervention_cb_enabled:0 "Enables the Intervention casus belli"
+ doctrine_parameter_unlocks_incite_revolts_interaction:2 "Unlocks the [incite_revolts_interaction|E] [interaction|E] against opposing [rulers|E]"
+ doctrine_parameter_grants_to_lowborns_bonuses:0 "Granting [counties|E] to [commoners|E] increases [county_control|E] and makes them a [GetTrait('peasant_leader').GetName( GetNullCharacter )]"
+ doctrine_parameter_headless_conversion_resistance:0 "If no [head_of_faith|E] exists, hostile [convert_county|E] speed: #P -50%#!"
+ 
+ tenet_rationing_name:0 "Rationing"
+ tenet_rationing_desc:0 "The wealth and resources of our nation should not be squandered on idle luxuries. It is the responsibility of the sovereign to ensure their people have enough to eat and their soldiers are well-supplied."
+ 
+ tenet_shoot_for_the_moon_name:0 "Shoot for the Moon" #defunct
+ tenet_shoot_for_the_moon_desc:0 "The Journey to providence is not only physical, it is also internal. We must never rest on our laurels, never be content with the present, but always strive for me. If we miss, we will land amongs the stars. "
+ 
+ tenet_among_the_stars_name:0 "Among the Stars" 
+ tenet_among_the_stars_desc:0 "The people of Old America praised those who achieved mastery of a craft or art. We must enshrine this respect for skill and strive to "Reach the Moon"."
+ 
+ tenet_heroes_journey_name:0 "Hero's Journey"
+ tenet_heroes_journey_desc:0 "Only by undertaking an arduous journey, forming a band of boon companions, and overcoming impossible odds can we truly know ourselves."
+ 
+ tenet_volunteer_forces_name:0 "Volunteer Forces"
+ tenet_volunteer_forces_desc:0 "Rather than conscripting citizens from the peasantry, volunteer forces are called upon to fight. While this does mean that those who do not adhere to [ROOT.Faith.GetAdjectiveNoTooltip] thought often choose not to join, those that do are far more motivated and effective than their conscripted counterparts."
+ 
+ tenet_civic_duty_name:0 "Civic Duty"
+ 
+#amero-syncretic
+
+ tenet_native_syncretism_name:0 "Syncretic Amerindian Spirituality"
+ tenet_native_syncretism_desc:0 "The Amerindians have lived on this land for thousands of years, there must be truths within their teachings."
+ doctrine_parameter_hostility_override_special_doctrine_is_amerindian_faith:0 ""
+ doctrine_parameter_is_native_faith_bilateral_loc_override:2 "Considers Amerindian [faiths|E], and is considered by Amerindian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_native_syncretic_actor_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Amerindian [faiths|E]"
+ doctrine_parameter_opinion_of_native_syncretic_recipient_opinion_active:0 ""
+ doctrine_parameter_native_syncretic_recipient_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have the $tenet_native_syncretism_name$ [core_tenet|E]"
+ doctrine_parameter_opinion_of_native_syncretic_actor_opinion_active:0 ""
+
+ native_syncretic_recipient_opinion_active_opinion_name:0 "$faith_syncretic_opinion_active_control$"
+ native_syncretic_actor_opinion_active_opinion_name:0 "$faith_syncretic_opinion_active_control$"
+
+ tenet_thousand_year_resistance_name:0 "Thousand Year Resistance"
+ tenet_thousand_year_resistance_desc:0 "For a thousand years we have resisted outside invasion. We will resist for a thousand more."
+ doctrine_parameter_hostility_override_tenet_thousand_year_resistance:0 "Considers other [faiths|E] with this [core_tenet|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_thousand_year_resistance_holy_war_defense:0 "Able to join [holy_wars|E] against members of any [faith|E] with this [core_tenet|E] as a defender"
+
+#andean
+
+ tenet_inti_raymi:0 "Inti Raymi"
+ tenet_fragments_of_inkarri_name:0 "Fragments of [ROOT.Faith.HighGodName]"
+ tenet_fragments_of_inkarri_desc:0 "The avatar of our god, [ROOT.Faith.HighGodName], has been shattered and spread far through the land. It is our mission to reunite it, and bring [ROOT.Faith.HighGodHerHis] glory back into the Andes."
+ tenet_religious_legal_pronouncements_sun:0 "Laws of the Sun"
+ tenet_truth_of_the_huaca_name:0 "Truths of the Huaca"
+ tenet_truth_of_the_huaca_desc:0 "The Huaca, hallowed places and being that compose all of our world, can be found wherever we go. They are ideal sites to build our temples, and can bring visions of the future as oracles."
+ doctrine_parameter_inkarri_expeditions_enabled:0 "May go on expeditions to search for the fragments of the Inkarri, and possibly find other treasures along the way" 
+ doctrine_parameter_consult_the_huacas_enabled:0 "May consult the huacas, using them as oracles to guide our people"
+ special_doctrine_crown_of_the_andes_name:0 "Crown of the Andes"
+ special_doctrine_crown_of_the_andes_desc:0 "We claim the Crown of the Andes. As leaders of the Andean world and the variety of beliefs that have originated in it, we understand not everyone has yet come to see the grace of our god, but we accept them as long as they do not challenge our rule."
+ 
+ tenet_pacha_ayni_name:0 "Pacha Ayni"
+ tenet_pacha_ayni_desc:0 "Living in harmony with the land and having reciprocity with everything it gives us, allows us to hold ever closer contact with the world itself."
+ tenet_challa_name:0 "Ch'alla"
+ tenet_challa_desc:0 "Reciprocity is core to our beliefs, and there is no greater act of reciprocity than the rite of Ch'alla, giving our ritual beverages for Earth to taste."
+ doctrine_parameter_challa_ritual_enabled:0 "May hold the Ch'alla Ritual ceremony to the Pachamama, thanking her for everything she has given us and bringing our realm together in this special occasion." 
+
+
+#atheletic
+
+ tenet_mary_jane_name:0 "Mary Jane"
+ tenet_mary_jane_desc:0 "Using cannabis is a regular and celebrated part of our rituals." 
+ doctrine_parameter_mary_jane_active:0 "Characters of this [faith|E] can smoke cannabis via decision"
+
+#atlantean
+
+ tenet_laws_of_the_maxim_stone_name:1 "Laws of the Maxim-Stone"
+ tenet_laws_of_the_maxim_stone_desc:1 "Our laws dictate that the Rai must never be weak, and that all believers may claim the Throne of Atlantis."
+ doctrine_parameter_claim_the_maxim_stone_active:1 "Allows you to select the 'Claim the Throne of Atlantis' [decision|E]"
+ 
+ tenet_soul_travel_name:0 "Soul Travel"
+ tenet_megaliths_pyramid_name:0 "Pyramid Builders"
+ tenet_bhakti_ascended_masters_name:0 "Ascended Masters"
+ tenet_bhakti_ascended_masters_desc:0 "The Ascended Masters are a brotherhood of wise and spiritually enlightened teachers who seek to guide humanity further along the journey to spiritual truth. [ROOT.Faith.GetAdherentNamePluralNoTooltip] may enter into "chelaship," or apprenticeship, under the auspices of certain Ascended Masters of Ancient Wisdom."
+
+#Britannic
+
+ tenet_zenith_of_nature_name:0 "Zenith of Nature"
+ tenet_zenith_of_nature_desc:0 "There is no beauty greater that can be found in the world than our islands. Their rocky shores are majestic, the chilly winds invigorating, and their creatures holy. They are gifts from glorious [ROOT.Faith.CreatorName] to us!"
+
+#buddhist
+
+ tenet_melodic_transmission_name:0 "Melodic Transmission"
+ tenet_melodic_transmission_desc:0 "Expressing belief through oral communication is holy, and worshipping through music especially is a sacred art."
+ 
+ tenet_harmonic_syncretism_name:0 "Harmonic Syncretism"
+ tenet_harmonic_syncretism_desc:0 "There is something to be learned from the way the different Harmonic religions tolerate each other. They may not follow the true faith, but that does not make them evil."
+
+#capitalist
+
+ tenet_multi_level_marketing_name:0 "Multi-Level Marketing"
+ tenet_multi_level_marketing_desc:0 "By constantly encouraging non-believers to spend their gold, we can ensure a strong flow of [capital_CON|E] in our lands, pleasing [ROOT.Faith.HighGodName]."
+  
+ tenet_conspicuous_consumption_name:0 "Conspicuous Consumption"
+ tenet_conspicuous_consumption_desc:0 "It is our sacred duty to show off our wealth to others, as this injects [capital_CON|E] into [ROOT.Faith.PantheonTerm]. We must strive to live lavishly!"
+
+#christian
+
+ tenet_christian_syncretism_ecumenism_name:0 "Ecumenism"
+ tenet_christian_syncretism_ecumenism_desc:0 "Beyond denominations, beyond church affiliation, beyond councils ancient and modern, we are all Christians. The [Concept('the_event_ate','Event')|E] is the greatest crisis to befall the true faith in all of history - we must put our petty divisions aside and work together, not against one another."
+
+ tenet_bhakti_patron_saints_name:0 "Patron Saints"
+ tenet_bhakti_patron_saints_desc:0 "The saints, those recognized as most holy and virtuous, can play a part in believers' lives. They can be called by devotion and veneration to intercede in our lives to help us in our path to holiness."
+
+ tenet_sola_scriptura_name:0 "Sola Scriptura"
+ tenet_prima_scriptura:0 "Prima Scriptura"
+ tenet_sola_scriptura_desc:0 "The only infallible source of authority in a Christian church should be scripture. If one's beliefs or teachings stray from scripture, they must be corrected to conform with it."
+
+ tenet_sola_fide_name:0 "Sola Fide"
+ tenet_sola_fide_desc:0 "Men are forgiven for their sins through faith alone. Good works are laudable, but they amount to nothing if they are not coupled with true faith in Christ."
+
+ tenet_open_air_preachers_name:0 "Open-Air Preachers"
+ tenet_open_air_preachers_desc:0 "Our pastors spread their teachings not just in church, but on the streets and footpaths as well. This ensures that all can hear the true word of God and be saved."
+
+ tenet_monastic_institute_name:0 "Monastic Institutes"
+ tenet_monastic_institute_desc:0 "Our monastic institutions have a deep influence in the laity through education, and bringing knowledge of the truths of God to everyone is part of our mission."
+
+ tenet_crusading_clergy_name:0 "Crusading Clergy"
+ tenet_crusading_clergy_desc:0 "We must stand up at arms to protect our faith, and united be willing to set our differences aside to bring God’s truth to those who do not follow it, it is only natural that the holiest amongst us lead the charge."
+
+ tenet_tropical_isolation:0 "Tropical Isolation"
+ tenet_gifts_of_the_spirit_name:0 "Gifts of the Spirit"
+ tenet_gifts_of_the_spirit_desc:0 "The Gifts of the Spirit, or Charismata; such as healing and glossolalia, did not end with the ascension of Christ and the beginning of the Apostolic Age. Rather, all those who believe in the Savior can access them."
+
+ tenet_faith_healing_name:0 "Faith Healing"
+ tenet_faith_healing_desc:0 "Having true faith can grant abilities such as being able to heal the sick and wounded. Our adherents know it, and putting this ability to practice only strengthens their faith."
+
+ tenet_religious_legal_pronouncements_fivefold:0 "Five-Fold Ministry"
+ tenet_spiritual_warfare_name:0 "Spiritual Warfare"
+ tenet_spiritual_warfare_desc:0 "Evil spirits that lead people into the dark path are to be found everywhere. It is the duty of the faithful to deliver salvation to those who are controlled or have been misguided by them."
+
+ tenet_lovefeasts:0 "Lovefeast Tradition"
+ tenet_tithe_name:0 "Tithe"
+ tenet_tithe_desc:0 "We consider it is not only through the practical rites of our faith that we are blessed. Rather, the faithful should support the faith's cause and our leaders, paying a ritual tithe."
+
+ tenet_hallowed_shrines_name:0 "Hallowed Shrines"
+ tenet_hallowed_shrines_desc:0 "From time to time, tragedies happen, and the souls of those who the tragedy has befallen are distinct from those who find a natural death. We believe that through shrines we can venerate and help these departed souls, just as they can give us their blessing."
+ doctrine_parameter_patron_anima_active:0 "Ánima-related traits are active"
+
+ tenet_messianic_figures_name:0 "Messianic Figures"
+ tenet_patroness_of_the_new_world_name:0 "Patroness of the New World"
+ tenet_patroness_of_the_new_world_desc:0 "Our Lady of Guadalupe's apparition did not just signify the evangelization of this world, but also the birth of a people. The Virgin is the patroness of the New World and the people of Mexico, as well as all of Latin America."
+
+ tenet_santa_cristiada_name:0 "Santa Cristiada"
+ tenet_santa_cristiada_desc:0 "As the heathens and heretics have broken the Catholic communion apart across the continent, we must stand ready to fight for our faith, and liberate the land from the wicked in a new Cruzada, the Cristiada."
+ 
+ tenet_saintly_justice_name:0 "Saintly Justice"
+ tenet_saintly_justice_desc:0 "Fighting for justice and to protecting the weak is the pillar of our devotion, so our faithful are always prepared to serve the Lord by fighting."
+
+ tenet_masked_friars_name:0 "Masked Friars"
+ tenet_masked_friars_desc:0 "Giving up one's face is one of the sacrifices our faithfuls do, and while some wear masks in only certain moments, the most devout take the vows and wear masks all of the time."
+
+ tenet_code_of_combat_name:0 "Code of Combat"
+ tenet_code_of_combat_desc:0 "One of our most important rites is the wrestling match. In a fair and just fight, we can show our devotion and training in the martial arts, as we keep ourselves ready to fight for God's will."
+
+ tenet_ancestor_veneration_name:0 "Ancestor Veneration"
+
+ tenet_all_equal_in_death_name:0 "All Equal in Death"
+ tenet_all_equal_in_death_desc:0 "Our faithful believe that in the end, Death reaches all of us the same; thus, we are all fundamentally equal and worth the same, in our full diversity of beliefs, so one should always adapt and treat others with respect."
+
+ tenet_just_exchange_name:0 "Just Exchange"
+ tenet_just_exchange_desc:0 "Many are the powers and blessings that Death possesses. But while she might be powerful, she is first of all just, and for everything she gives us, she will ask back in return. Thus, bargaining and giving to Death is essential, when asking for something."
+
+ tenet_option_for_the_poor_name:0 "Option for the Poor"
+ tenet_option_for_the_poor_desc:0 "The principle of preferential option for the poor drives our faith, as we strive to do what we can to fight injustice and help the poor and downtrodden, for serving them is equal to serving [ROOT.Faith.HighGodName]."
+
+ tenet_non_conformist_conscience_name:0 "Non-Conformist Conscience"
+ tenet_non_conformist_conscience_desc:0 "Different and varied as our faith is in beliefs amongst its adherents, we still hold high a moral standard, a \"Non-Conformist conscience,\" of equality, fairness, and mutual respect between one another."
+
+ tenet_constituyente_primario_name:0 "Constituyente Primario"
+ tenet_constituyente_primario_desc:0 "The Consituent Assembly is essential to our faith, handing out decrees which are vital to upholding orthodoxy despite a constantly changing world."
+
+ tenet_bhakti_national_pantheon_name:0 "National Pantheon"
+ tenet_bhakti_national_pantheon_desc:0 "Prócers are venerated in our faith. We accept and welcome their divine assistance."
+ 
+ tenet_bhakti_orago:0 "Orago"
+ tenet_bhakti_orago_desc:0 "An orago or patron saint is a Catholic figure, often conflated with an orixá, to whom we may ask for protection and spiritual assistance."
+
+ tenet_saintly_mission_name:0 "Saintly Mission"
+ tenet_saintly_mission_desc:0 "Since our foundation, spreading and strengthening the faith is our mission. Through this selfless venture we can connect with God and bring prosperity to our people."
+
+ tenet_inter_faith_services_name:0 "Inter-Faith Services"
+ tenet_inter_faith_services_desc:0 "[ROOT.Faith.HighGodName|U] has called us to join with [ROOT.Faith.HighGodHerHis] other servants from different communities of faith and commitment. By joining together in ritual dialogue, we can better understand the divine will."
+ doctrine_parameter_hostility_override_doctrine_pluralism_pluralistic:0 "Considers Pluralistic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_doctrine_pluralism_righteous:0 "Considers Righteous [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_doctrine_pluralism_fundamentalist:0 "Considers Fundamentalist [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_ifs_hostility_explanation:0 "The above hostility overrides take priority above all other hostility overrides a [faith|E] may have"
+
+ tenet_memento_mori_name:0 "Memento Mori"
+ tenet_memento_mori_desc:0 "Even in death, our family will always be a part of us, and bless us with their wisdom, if we know how to keep them close. By keeping small bones as tokens of our dynasty, we can have their blessing giving us luck, strengthening our family ties."
+ tenet_mission_service_name:0 "Mission Service"
+ tenet_mission_service_desc:0 "Our faith expects every young man to spend time preaching the faith to nonbelievers. When done right, this can cause huge numbers of people to join our flock very quickly."
+ tenet_serpentine_knowledge_name:0 "Serpentine Knowledge" #defunct
+ tenet_serpentine_knowledge_desc:0 "It was the Serpent who was cast aside for their attempts to gift knowledge unto humanity. Only by living in accordance with such philosophy might such an opportunity might arise again."
+ tenet_knightly_honor_name:0 "Knightly Honor"
+ tenet_knightly_honor_desc:0 "Our stalwart nobles abide by a strict code which allows them to empower our faith through their service."
+ tenet_shunning_name:0 "Ritual Shunning"
+ tenet_shunning_desc:0 "We isolate sinners to teach them to overcome their passions, and to avoid spreading their filth to the rest of the flock."
+ tenet_evangelical_crusade_name:0 "Evangelical Crusade"
+ tenet_evangelical_crusade_desc:0 "The only just war is the one waged in the name of God. Although periods of peace will bless our land with prosperity, only the battle against the forces of evil will bring true glory to the Lord."
+ tenet_pastoral_isolation_protestant_name:0 "Pastoral Isolation"
+ tenet_pastoral_isolation_protestant_desc:0 "All we want is to be left alone. Our practices are our own, and no more the business of anyone else than theirs are of ours."
+
+ doctrine_parameter_select_national_pantheon_active:0 "Enables to select a Prócer from the National Pantheon as your Patron"
+ doctrine_parameter_enables_constituent_assembly:0 "Enables the Caudillo to call for one Constituent Assembly during their reign and in no less than forty years since the last Assembly was called"
+ doctrine_parameter_constituent_assembly_voting:0 "During the Assembly, landed rulers of the faith may vote on several issues and determine different doctrines of the faith until the next Assembly is called and modifies them"
+ doctrine_parameter_meditate_on_the_marquess_active:0 "May Meditate on the writings of the Marquess of García, trying to understand the underlying prophecies."
+ doctrine_parameter_create_gran_colombia_active:0 "Enables the Restoration of the Gran Colombia, uniting the Patria Grande under the same banner once again."
+ doctrine_parameter_enables_memento_mori:0 "When dynasty members die, you can take one of their bones as a memento mori, granting a stacking bonus"
+ doctrine_parameter_enables_memento_mori_crypt:0 "If you have acquired 5 memento mori, you can build a crypt to periodically visit for bonuses"
+ doctrine_parameter_lay_on_hands_enabled:0 "May Pray for the Health of the sick and wounded in exchange for [piety|E]. If they get better, they might become [GetTrait('zealous').GetName( GetNullCharacter )] if they belong to the same faith as you, or might convert to your faith otherwise."
+ doctrine_parameter_deliverance_ministry_enabled:0 "May enact a deliverance ministry on the possessed, if possession is not viewed as virtuous"
+ doctrine_patron_anima_active:0 "May select one of the major ánimas as your Patron by decision"
+ doctrine_parameter_anima_shrines_active:0 "May build and dedicate a shrine in your capital to the ánima of someone close to you that has perished before their time, allowing for veneration"
+ doctrine_parameter_wrestling_match_enabled:0 "Enables the Challenge to a Wrestling Match interaction of characters of the same faith"
+ doctrine_parameter_bargain_death_enabled:0 "Enables the Bargain with Death decision, seeking the Holiest Death's blessing, for a price"
+ doctrine_parameter_inter_faith_services_active:0 "Rulers may organize inter-faith services to gain [piety|E] and increase relations between vassals of different religions"
+ doctrine_parameter_shunning_active:0 "Sinners are isolated from society, and may not participate in feast and most interactions"
+
+ tenet_inward_light_name:0 "Inward Light"
+ tenet_inward_light_desc:0 "We believe that God speaks to us in meditation, and these revelations in quiet reflection guide us to be better for it."
+
+ tenet_blessed_miracle_workers_name:0 "Blessed Miracle Workers"
+ tenet_blessed_miracle_workers_desc:0 "Alongside the formal clergy, our faithful also follow the lead of popular preachers and folk mystics, often traveling the land and dispensing their wisdoms and sermons to all believers."
+ doctrine_parameter_popular_saints_active:0 "Popular saints and other pious miracle workers might appear"
+ tenet_messianic_leadership_name:0 "Messianic Leadership"
+ tenet_messianic_leadership_desc:0 "When times are dire, holy men and women will appear to lead the faithful to victory."
+ doctrine_parameter_messianic_leadership_active:0 "Saintly people will appear from time to time to lead the faithful, and then return to their life as hermit pilgrims"
+ 
+ tenet_the_guilt_we_bear_name:0 "The Guilt We Bear"
+ doctrine_parameter_enables_piety_from_flagellant:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in self-flagellation, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('flagellant').GetName( GetNullCharacter )]."
+ tenet_the_guilt_we_bear_desc:0 "Through acts of extreme penance we can cleanse ourselves of sin and bring ourselves closer to salvation in the world to come."
+ doctrine_parameter_enables_piety_from_coping:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in self-flagellation, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('flagellant').GetName( GetNullCharacter )]."
+ 
+ tenet_sola_gratia_name:0 "Sola Gratia"
+ tenet_sola_gratia_desc:0 "Our faith holds it as essential doctrine that salvation comes to us not through our own works but by grace alone."
+ tenet_hidden_treasures_name:0 "Hidden Treasures"
+ tenet_pastoral_isolation_name_new:0 "Religious Isolation"
+
+#conterraneo
+
+ tenet_shoreline_reverence_name:0 "Shoreline Reverence"
+ tenet_shoreline_reverence_desc:0 "There is nothing more divine than water. Elegant in its life-giving splendor, we honor the places in nature where it exists in unfathomable quantities, and bless the holy power which congregates in these places."
+ doctrine_parameter_can_recruit_forder_active:0 "Gain a [decision|E] to recruit [commanders|E] with [GetTrait('forder').GetName( GetNullCharacter )]"
+
+ recruit_water_specialist_decision:0 "Recruit Water Crossing Specialist"
+ recruit_water_specialist_decision_desc:0 "The [ROOT.Char.GetFaith.GetAdjective] are used to interacting with rushing rivers, swimming in its waters or wading through its mud. If I wish to move my armies without having them perish trying to cross bodies of water, I should ask for their guidance."
+ recruit_water_specialist_decision.tt:0 "A high-[martial|E] [commander|E] with the [GetTrait('forder').GetName( GetNullCharacter )] [trait|E] joins your [court|E]"
+ recruit_water_specialist_decision_tooltip:0 "$recruit_water_specialist_decision.tt$"
+ recruit_water_specialist_decision_confirm:0 "$invite_knights_decision_confirm$"
+
+ #tenet_river_burials_name:0 "River Burials"
+
+ tenet_boi_name:0 "Boi de Piranha"
+ tenet_boi_desc:0 "The 'boi de piranha' - literally, the "piranha's ox" - is a traditional practice in the Cerrado and the Pantanal where a sick or old bull is used as a bait to distract piranhas and other predators while the rest of the herd safely crosses a river."
+ doctrine_parameter_boi_active:0 "Gain access to the Animal Sacrifice [activity|E]"
+ boi_active_name:0 "Boi de Piranha [core_tenet|E]"
+
+#darian
+
+ tenet_follow_the_swan_name:0 "Follow The Swan"
+ tenet_follow_the_swan_desc:0 "We consider the Swan to be the epitome of perfection, we strive to achieve the very same state of being."
+ doctrine_parameter_follow_the_swan_active:0 ""
+ 
+ tenet_value_in_art_name:0 "Value in Art"
+ tenet_value_in_art_desc:0 "Our faith considers art and the skills it fosters to be of great value, not only to the individual, but society as a whole."
+ doctrine_parameter_value_in_art_active:0 ""
+
+#digital
+ tenet_debugging_name:0 "Debugging"
+ tenet_debugging_desc:0 "Debugging is the process by which [ROOT.Faith.GetAdherentNamePluralNoTooltip] interpret [ROOT.Faith.HighGodName] to fix ailments of their clientele."
+
+#gardenian
+
+ tenet_divine_change_name:0 "Divine Change"
+ 
+ tenet_inward_perfection_name:0 "Inward Perfection"
+ tenet_inward_perfection_desc:0 "The innate human drive for self-improvement is not only laudable, it is sacred. Mastering one's chosen craft is a holy duty of every follower of our faith, and it must be the priority"
+ tenet_survival_of_the_fittest_name:0 "Survival of the Fittest"
+ tenet_survival_of_the_fittest_desc:0 "Only the strongest survive to pass on the next generation; not only through the lineage of life, but also the lineage of ideas and trades. We revere the expertise present in all things."
+
+#guruism
+
+ tenet_wisdom_of_gurus_name:0 "Wisdom of the Gurus"
+ tenet_wisdom_of_gurus_desc:0 "Our philosophy incorporates lessons from a diverse array of philosophies and religions. Although we do not fully agree with the conclusions drawn by any of them, we recognize that they are all interpretations of a deep and universal truth."
+ doctrine_parameter_wisdom_of_gurus_conversion_active:0 "County Conversion Speed: #N -25%#!"
+ doctrine_parameter_select_personal_guru_active:0 "May select a personal Guru to study under" 
+ 
+#hinduism
+
+ tenet_bhajanam_name:0 "Bhajanam"
+
+#industrial
+
+ tenet_united_in_labor_name:0 "United in Labor"
+ tenet_united_in_labor_desc:0 "All those who toil in the same profession are brothers and sisters in labor. This relationship should serve as the foundation for our communities and our faith."
+ 
+ tenet_salvager_name:0 "Salvager"
+ tenet_salvager_desc:0 "The secrets of the Old World will be revealed to us if we examine the work of the ancients. All of us must do our part to discover these sacred artifacts."
+ doctrine_parameter_salvage_expeditions_active:1 "Characters of this [faith|E] are able to go on a special [pilgrimage|E] called a Salvage Expedition"
+  
+ tenet_bhakti_patron_gods:0 "Patron Gods"
+ tenet_one_big_union:0 "One Big Union"
+ 
+ tenet_knights_of_labor_name:0 "Knights of Labor"
+
+#inuit
+
+ tenet_megaliths_inukshuk_name:0 "Inukshuk Constructions"
+
+#islam
+
+ tenet_greater_jihad_name:0 "Greater Jihad"
+ 
+ tenet_bhakti_patron_spirits_name:0 "Patron Spirits"
+ tenet_bhakti_patron_spirits_desc:0 "We believe a variety of divinely inspired spirits can personally intercede on the behalf of their followers on Earth."
+
+#judaism
+
+ tenet_tikkun_olam_name:0 "Tikkun Olam"
+ tenet_tikkun_olam_desc:0 "'Tikkun olam', or 'repairing the world,' is a concept referring to the obligation for creating a model society. The primary way we do this is through social welfare programs targeting the needy in society, for serving them is how we strengthen faith in [ROOT.Faith.HighGodName]."
+ 
+ tenet_zakat_name:0 "Zakat"
+
+ tenet_baal_teshuva_name:0 "Ba'al Teshuvah"
+ 
+ tenet_sanctity_of_nature_eretz_amazonia:0 "Eretz Amazonah"
+ 
+ tenet_interfaith_deep_ecumenism_name:0 "Deep Ecumenism"
+ 
+ tenet_nazarite_vows_name:0 "Nazarite Vows"
+
+ tenet_bhakti_honorable_mentshen_name: "Honorable Mentshen"
+ tenet_bhakti_honorable_mentshen_desc: "Our tradition is filled with great heroes, worthy of admiration and serving as exemplars of our ideals.  While all are worthy of emulation, it is often best to focus on one at a time to better take in their lessons."
+
+ tenet_bhakti_avot_vimahot_name: "Avot v'Imahot"
+ tenet_bhakti_avot_vimahot_desc: "#italic Blessed are You, Lord our God and God of our ancestors, Shield of Abraham and Gracious Visitor of Sarah#!"
+
+#lacustrine
+
+ tenet_lightkeeper_name:0 "Lighthouse Keepers"
+ tenet_lightkeeper_desc:0 "We must maintain the eternal lights granted to us by [ROOT.Faith.HighGodName] in order to guide both the living and the dead. We shall dot the coasts with our lights such that no soul will become lost."
+ doctrine_parameter_can_build_lighthouses:0 "Enables the construction of Lighthouses in [temple|E] holdings and Grand Lighthouses in Duchy Capitals"
+ province_is_of_a_lighthouse_faith_tt:0 "The people of this [county|E] must follow a [faith|E] that believes in the significance of lighthouses"
+ tenet_beauty_of_the_lakes_name:0 "Beauty of The Lakes"
+
+
+ tenet_gruesome_festivals_the_big_game_name:0 "The Big Game"
+ tenet_gruesome_festivals_the_big_game_desc:0 "There are few things more noble than to die a glorious death on the field." 
+ 
+ tenet_terror_of_the_seas_terror_of_the_lakes_name:0 "Terror of The Lakes"
+
+ tenet_pursuit_of_power_allstar_roster_name:0 "All-Star Roster"
+ tenet_pursuit_of_power_allstar_roster_desc:0 "[ragnarok|E] wiped out many of the Gods of old, we must replenish the ranks of [valhallafame|E] by proving our strength here in this realm."
+
+ tenet_sacrificial_ceremonies_no_sacrifice_too_great_name:0 "No Sacrifice Too Great"
+ tenet_sacrificial_ceremonies_no_sacrifice_too_great_desc:0 "Victory in [ragnarok|E] must be achieved at all costs. In order to achieve this we must be prepared to sacrifice everything, including ourselves."
+
+ doctrine_parameter_can_raid_at_sea_even_if_feudal:0 "Unlocks the ability to [raid|E] and to Raid over seas"
+ doctrine_parameter_piety_for_forced_conversions_active:0 "Forcibly converting [prisoners|E] earns [piety|E]"
+
+#llanoism
+
+ tenet_horrors_of_the_plains_name:0 "Horrors of the Plains"
+ tenet_horrors_of_the_plains_desc:0 "Powerful and capricious as they are, the Espantos can intervene on all matters of men and women. Those deeply devoted and with the right knowledge can call for their direct intervention over themselves or others."
+
+ tenet_songs_of_machete_name:0 "Songs of Machete"
+ tenet_songs_of_machete_desc:0 "Lyrics and music connect us with the spirits and the divine. Instead of striking on our foes physically, we can also strike them lyrically through music."
+ doctrine_parameter_select_machete_spells_active:0 "May be initiated in a dark sect, enabling the use of different spells and rituals corresponding to the sect" 
+ doctrine_parameter_enable_contrapunteo_interaction:0 "Enables the Challenge to Contrapunteo interaction"
+
+
+#mapuche
+
+ tenet_tain_futakeche_name:0 "Taiñ Futakeche"
+ tenet_marichiweu_name:0 "Marichiweu"
+ tenet_marichiweu_desc:0 "We will be Ten Times Victorious! It is the rally call of our faith. As we have spend centuries defending ourselves from outside invaders, we are bound together by a common call, a common struggle, and we will give everything we can to save our people and our lands."
+ tenet_kume_mongen_name:0 "Kume Mongen"
+ tenet_kume_mongen_desc:0 ""Good Living", that is what Kume Mongen means, the ideal of living in harmony and peace with each other, according to our own traditions and practices, in mutual respect and help. When prosperity comes into our lands, only Kume Mongen is found."
+
+ doctrine_parameter_enables_hold_nguillatun_decision:0 "Enables the Hold Nguillatun decision, a ritual where you ask a blessing in the upcoming years."
+
+
+#mesoamerican
+
+ tenet_fire_in_the_sky_name:0 "Fire in The Sky"
+ tenet_fire_in_the_sky_desc:0 "Placeholder"
+
+#modernist
+
+ tenet_walking_metamorphosis_name:0 "Walking Metamorphosis"
+ tenet_walking_metamorphosis_desc:0 "Remaining the same way is fundamentally inhuman: true believers should constanstly change their goals in life and their points of view. It is better to be always changing than to grow weak through stagnation."
+ doctrine_parameter_walking_metamorphosis_active:0 "Every three years, believers may take a decision to randomly select a new lifestyle focus, gaining a #P +50%#! experience bonus for the next three years"
+ 
+ tenet_sacred_architecture_name:0 "Sacred Architecture"
+ tenet_sacred_architecture_desc:0 "The maintenance and knowledge of structures left behind by our ancestors is the sacred duty of believers, and the use of this holy knowledge for destruction is the ultimate form of evil."
+ 
+ tenet_the_hour_and_the_turn_name:0 "The Hour and the Turn"
+ tenet_heroic_stand_name:0 "Heroic Stand"
+ tenet_heroic_stand_desc:0 "There is no truer test of faith then avenging injustice with blood; and no truer test of character then doing it on your own. The job of a true believer is to take vengence into their own hands and set right what is wrong."
+ doctrine_parameter_heroic_stand_enabled:0 "Allows seeking out personal duels to the death against less virtuous members of the same faith, or against nearby tyrants should they accept"
+ doctrine_parameter_prowess_from_religious_traits:0 "[traits|E] such as [GetTrait('education_learning_3').GetName( GetNullCharacter )], [GetTrait('devoted').GetName( GetNullCharacter )] or [GetTrait('theologian').GetName( GetNullCharacter )] give [prowess|E]"
+ 
+ tenet_tupi_or_not_tupi_name:0 "Tupi or Not Tupi"
+ tenet_tupi_or_not_tupi_desc:0 "Cannibalism alone unites us. Socially. Culturally. Philosophically. The world's single law. Disguised expression of all individualism, of all collectivisms. It is through it we may find the true purpose of all religions. Of all peace treaties and of all foreignness."
+ doctrine_parameter_devour_cultural_other_active:0 "May consume characters of different cultures and faiths for extra [piety|E] rewards"
+ devour_sacrifice_as_execution_tooltip:0 "Perform the act of cultural consumption"
+ EXECUTION_DEVOUR_SACRIFICE:0 "Cultural Consumption"
+ 
+ tenet_revolutionary_zeal_name:0 "Revolutionary Zeal"
+ doctrine_parameter_overthrow_liege_enabled:0 "Can use the Overthrow Liege casus belli"
+ doctrine_parameter_revolution_cb_enabled:0 "Can use the Revolution casus belli" 
+ 
+ ### This was part of the old Ideological Studies tenet used by the first incarnation of the Saudosists. No longer pertinent, so I'm just commenting it out. - Cacá
+ ### tenet_ideological_studies_name:0 "Ideological Studies"
+ ### doctrine_parameter_ideological_studies_active:0 "May take a [decision|El] to adopt new ideologies\n\n#X Holding many differing and contradictory beliefs may cause [stress|El]!#!"
+ ### tenet_ideological_studies_desc:0 "It is only through the guidance and understanding of the virtues and ideas of the ancient leaders of our faith, and proper following of their rituals of governance that the government of a proper believer can be structured, and it is through following their many paths; even if those paths may guide us to different places, that a true leader can guide their people."
+
+#mormon
+
+ tenet_doctrine_and_covenants_name:0 "Doctrine and Covenants"
+ tenet_doctrine_and_covenants_desc:0 "Our faith continually updates our doctrine and covenants, creating a large and codified body of practices which are unique to our faith."
+ tenet_great_expeditions_name:0 "Great Expeditions"
+ tenet_great_expeditions_desc:0 "Placeholder"
+ tenet_animal_sacrifice_name:0 "Animal Sacrifice"
+ tenet_animal_sacrifice_desc:0 "We must periodically sacrifice our livestock and beasts of burden to [ROOT.Faith.HighGodName] in order to prove our devotion and make penance for our past misdeeds."
+
+ doctrine_parameter_animal_sacrifice_enabled:0 "Gain access to the Animal Sacrifice [activity|E]"
+ tenet_first_fruit_name:0 "Firstfruit Offer"
+ tenet_first_fruit_desc:0 "According to the [ROOT.Faith.ReligiousText], we must offer our "firstfruits" — beasts of the land. We do this not as penance for sins, but simply to prove our love and devotion to [ROOT.Faith.HighGodName] [ROOT.Faith.HighGodHerselfHimself] and to celebrate good tidings."
+ waiting_for_peacetime_sacrifice_result:0 "waiting for peacetime sacrifice result"
+ recent_peacetime_sacrifice:0 "recent peacetime sacrifice"
+
+ tenet_songs_of_everlasting_joy_name:0 "Songs of Everlasting Joy"
+ tenet_songs_of_everlasting_joy_desc:0 "The singing of our sacred hymns has a powerful effect in converting people to the principles of the gospel, and in promoting peace and spiritual growth.  We teach our children from a young age the language of music, that they may join their voices to the choir of the righteous."
+
+ tenet_as_the_stars_of_the_heaven_name:0 "As the Stars of the Heaven"
+ tenet_as_the_stars_of_the_heaven_desc:0 "The creations of our Heavenly Father our infinite but chief among them is Kolob, the star closest to where He lives.  By studying the stars we come to understand His will and our place within His plan.  We believe that through such study we open ourselves to the visitations of the Spirit, that we too may one day become exalted beings as He is."
+
+ tenet_one_eternal_round_name:0 "One Eternal Round"
+ tenet_one_eternal_round_desc:0 "The Plan of Salvation tells us that we have lived before, and will live again after death.  On very rare occasions the Veil between lives is lifted, allowing an individual to view experiences from the Pre-Existance.  Such an event is a blessing from our Heavenly Father, and we must pay heed to the knowledge it grants us."
+
+#naturalist
+
+ tenet_the_beauty_around_us_name:1 "The Beauty Around Us"
+ tenet_the_beauty_around_us_desc:1 "By going out and experiencing nature, we can learn more about ourselves."
+ doctrine_parameter_the_beauty_around_us_active:1 "Enables the "Go Hiking" [decision|E]"
+ tenet_hear_me_roar_name:0 "Hear Me Roar"
+ tenet_hear_me_roar_desc:0 "It is not enough for us to simply reject the structures of old. True freedom will only be achieved if we dismantle the patriarchy by the sword."
+ 
+ tenet_salvager_fossil_digs:0 "Fossil Digs"
+ tenet_salvager_fossil_digs_desc:0 "The remains of the Saurians lie below our very feet, by uncovering their bones we can grow spiritually closer to them."
+ 
+ tenet_adorcism_walk_the_saurian:0 "Walk the Saurian"
+ tenet_adorcism_walk_the_saurian_desc:0 "By allowing the spirits of the Saurians to enter our bodies, we may gain some of their ancient power."
+ 
+ tenet_ritual_cannibalism_primal_hunger:0 "Primal Hunger"
+ tenet_ritual_cannibalism_primal_hunger_desc:0 "In the Time of The Titans the consumption of your foe's flesh was common, and we have revived this tradition."
+
+#nautical
+ 
+ tenet_way_of_the_cutlass_name:0 "Way of the Cutlass"
+ tenet_way_of_the_cutlass_desc:0 "The mystic practices of privateers and corsairs are often called the Way of the Cutlass for their emphasis on bloodshed at sea. Too much peace is a sign of being overly restrained."
+ 
+ tenet_whale_hunts_name:0 "Whale Hunts"
+ tenet_whale_hunts_scrimshaws_name:0 "Scrimshaws"
+ tenet_whale_hunts_arviqsiuqtiit_name:0 "Arviqsiuqtiit"
+ tenet_whale_hunts_desc:0 "A single whale, hunted and killed with the proper honors to [ROOT.GetFaith.HighGodName] and [ROOT.GetFaith.WaterGodName], can provide an entire village with food to last months, and wealth to last years. For the whaling captain, the hunt is an opportunity to show strength and earn unmatched respect."
+ tenet_whale_hunts_active_name:0 "ability to go on whale hunts"
+ doctrine_parameter_tenet_whale_hunts_active:0 "Able to go on great whale hunts for [piety|E], [prestige|E] and [gold|E]."
+ 
+ tenet_terror_of_the_seas_name:0 "Terror of The Seas"
+
+ tenet_terror_of_the_seas_desc:0 "Our zeal takes us to distant shores to loot and pillage, for it is [ROOT.Faith.HighGodName]'s will."
+
+#neoponic
+ 
+ tenet_johrei_name:0 "Johrei"
+ tenet_johrei_desc:0 "We believe the direct Laying of Hands will cure people with God’s Healing Light."
+
+#northwest
+ 
+ tenet_potlatch:0 "Potlatch"
+ tenet_potlatch_desc:0 "The lavish ceremonial gift-giving feast and ceremony practiced by the people of the pacific northwest, marking important events and serving to bind together a community. Potlatches are characterized by conspicuous consumption, where the host gives, or destroys, significant wealth, strengthening their standing amongst their peers."
+ 
+ tenet_shaker_name:0 "Shaking"
+ 
+#occultist
+
+ tenet_inquisition_name:0 "Inquisition"
+ tenet_inquisition_desc:0 "The servants of [ROOT.Faith.DevilName] are everywhere, and we must be shrewd and decisive to root them out."
+ doctrine_parameter_loc_parameter_inquisition_hostility_explanation:0 "Any hostility overrides from other [core_tenets|E] or doctrines a [faith|E] has will take priority over the hostility sets of this tenet"
+
+ tenet_dark_rituals_name:0 "Dark Rituals"
+ tenet_dark_rituals_desc:0 "Dire times require dire measures - when all seems lost, chosing the lesser of two evils is our only possible choice, and morality becomes a distant afterthought. Sometimes when we gaze into the abyss we hope it will gaze back."
+ doctrine_parameter_dark_rituals_active:0 "Rulers can perform dark rituals - traumatic events that generate [piety|E] at the cost of [stress|E]"
+
+#originario
+
+ tenet_nohoch_tata_name:0 "Seat of Nohoch Tata"
+ tenet_grandparent_veneration_name:0 "Grandparent Veneration"
+ tenet_grand_council_name:0 "The Grand Council"
+
+#patagonic
+
+ tenet_cycle_of_sacrifice_name:0 "Cycle of Sacrifice"
+ tenet_cycle_of_sacrifice_desc:0 "Sacrifice of the self for the common good is the most important part of our beliefs. We maintain the balance with this cycle of sacrifice, and giving oneself up for the wellbeing of the community is the greatest honor for our people."
+ tenet_flicker_of_youth_name:0 "Flicker of Youth"
+ tenet_flicker_of_youth_desc:0 "There is nothing more holy to us than the power of youth. To be young is to be alive. To be old is to have already died."
+ doctrine_parameter_unlock_maa_hijos_e_hijas:0 "Can recruit [GetMaA('hijos_e_hijas').GetName] as [men_at_arms|E]"
+ doctrine_parameter_age_based_piety_prestige:0 "Characters' ages affect their [piety|E] and [prestige|E] gain rates"
+
+#petrobaron
+ tenet_geomantic_dowsing_name:0 "Geomantic Speculation"
+ tenet_geomantic_dowsing_desc:0 "Understanding the patterns presented in the tossed sand, in the inclines through sacred stratigraphy, and in the flickering of the flame are all crucial to finding places of power in the earth where the power below seeps upwards."
+ doctrine_parameter_tenets_geomantic_dowsing_active:0 "Active [holy_sites|E] eventually lose their properties, prompting believers into conquering new regions where new Holy Sites are dowsed."
+
+ tenet_oil_rush_name:0 "Oil Rush"
+ tenet_monopoly_name:0 "Monopoly"
+ tenet_fp3_cutthroat_business_name:0 "Cutthroat Business"
+ tenet_natures_gold_name:0 "Nature's Gold"
+ tenet_deep_drilling_name:0 "Deep Drilling"
+
+#peyotist
+ #moved to tolerance doctrines
+
+#plains
+ tenet_great_hunt_name:0 "Great Hunt"
+ tenet_great_hunt_desc:0 "Ritual ceremony has always been intrinsically tied to our spiritual practice; nowhere is this more evident than in hunting."
+ doctrine_parameter_sacred_hunts:0 "Completing a [GetActivityType('activity_hunt').GetName] [activity|E] provides [piety_i][piety|E]"
+ doctrine_parameter_hunter_traits_more_common:0 "The [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] [trait|E] is more common"
+
+#platinean
+ 
+ tenet_the_hand_of_god_name:0 "La Mano de Dios"
+ tenet_the_hand_of_god_desc:0 "Whether by destiny or deed, the faithful can become Chosen to represent their patron in [competencia_mundial|E]."
+ doctrine_parameter_the_hand_of_god_active:0 "Lucky and successful characters might find themselves chosen by the Hand of God"
+ tenet_las_veinte_verdades_name:0 "Las Veinte Verdades"
+ tenet_las_veinte_verdades_desc:0 "We are free to decide our own destiny, guided by the wisdom of the Man of Destiny and his twenty truths."
+ doctrine_parameter_hostility_override_tenet_the_hand_of_god:2 "Considers [faiths|E] with the La Mano de Dios to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_tenet_las_veinte_verdades:2 "Considers [faiths|E] with the Las Veinte Verdades doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#protestant
+
+ tenet_catholic_syncretism_high_church_name:0 "High Church"
+ 
+ tenet_social_gospel_name:0 "Social Gospel"
+ tenet_social_gospel_desc:0 "The principle of the Social Gospel drives our faith, as we strive to do what we can to fight injustice and help the poor and downtrodden, for serving them is equal to serving [ROOT.Faith.HighGodName]."
+
+
+#rastafarian
+ 
+ tenet_sacramental_herbs_name:0 "Sacramental Herbs"
+ tenet_sacramental_herbs_desc:0 "Our faith asserts that the use of sacramental herbs is necessary to fully open one's mind to divine truths."
+ doctrine_parameter_tenet_sacramental_herbs_active:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in sacrimental herbs, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('hashishiyah').GetName( GetNullCharacter )]"
+ 
+ tenet_livity_name:0 "Livity"
+ tenet_livity_desc:0 "Our faith holds that the divine is present within all of us, and that we must expand this connection through righteous living, meditation, and a strict diet."
+ 
+ tenet_israelite_identity_name:0 "Israelite Identity"
+ tenet_israelite_identity_desc:0 "We have a lot in common with our fellow sons of Abraham. These connections should be emphasized and celebrated."
+ 
+ tenet_chant_down_babylon_name:0 "Chant Down Babylon"
+ tenet_chant_down_babylon_desc:0 "We believe that one may become closer to Jah by celebrating him using the music and rhythms that have been passed down to us for centuries."
+
+#reawakened
+ tenet_pastor_of_the_church_name:0 "Pastor of the Church"
+ tenet_pastor_of_the_church_desc:0 "The textbook of the church, Science and Health with Key to the Scriptures, is not just a guide to understanding the Bible but the pastor of the church itself, standing as an eternal testament of God."
+
+#rezadeiros
+
+ tenet_sacred_plot_name:0 "Inconfidence"
+ tenet_sacred_plot_desc:0 "Certain aspects of our rituals must remain hidden from outsiders and nonbelievers. Eternal vigilance is the price of liberty!"
+ 
+ tenet_jesus_god_of_agriculture_name:0 "True Messianism"
+
+#rosicrucian
+ 
+ tenet_sacred_symbols_name:0 "Sacred Symbols"
+ tenet_sacred_symbols_desc:0 "The truth must be protected from those not ready for it. By using secret codes and symbols our true intent and knowledge is kept safe and sacred."
+ tenet_rose_cross_name:0 "Rose Cross"
+ tenet_rose_cross_desc:0 "The Rosicrucians possessed a heritage of all the arcane traditions of the earlier world. Only through these teachings can humanity be perfected from its fallen state."
+ 
+#satanism
+ tenet_black_mass_name:0 "Black Mass"
+ tenet_witches_sabbath_name:0 "Witches' Sabbath"
+ tenet_left_hand_path_name:0 "Left Hand Path"
+ tenet_devils_advocate_name:0 "Devil's Advocate"
+ tenet_fp3_satanic_panic_name:0 "Satanic Panic"
+
+#scientific
+ tenet_atom_worship_name:0 "Atomic Blessing"
+ tenet_atom_worship_desc:0 "The knowledge we have about the fabric of reality has allowed us to harness what the unenlightened shun. Our judge and protector is the incarnate universe, who doles out boons to the worthy and inflicts the unworthy with deserved pestilence."
+ 
+ tenet_defensive_shield_name:0 "Not A Place of Honor"
+ tenet_defensive_shield_desc:0 "The loss of knowledge after the [Concept('the_event_ate','Event')|E] has unfortunately made many ignorant of the great evil that plauges our land. We must do what we can to keep them safe and to cleanse those already afflicted."
+ doctrine_parameter_pilgrimage_decision_active_aphite:0 "Characters of this [faith|E] gain an additional bonus upon the successful completion of a [pilgrimage|E] to a controlled holy site."
+ 
+ doctrine_parameter_hostility_override_tenet_defensive_shield:0 "Considers [faiths|E] with the $tenet_defensive_shield_name$ [core_tenet|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_tenet_atom_worship:0 "Considers [faiths|E] with the $tenet_atom_worship_name$ [core_tenet|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_atom_blessings_active:0 "Enables the ability to bestow the Blessing of the Atom on your children and wards, or on yourself if you are an unblessed adult. This process is analagous to Christian baptism, but it utilizes an ancient atomic potion instead of mere water. The Atom may see fit to bless one with wonderous abilities, or it may deem one unworthy... there is no way of knowing without taking the plunge, both literally and spiritually."
+ 
+ 
+ #sikh
+
+ tenet_puja_name:0 "Puja"
+ tenet_puja_desc:0 ""
+ 
+ tenet_begumpura:0 "Begumpura"
+ 
+ tenet_seva_name:0 "Sevā"
+ tenet_seva_desc:0 "Sevā, in Sikhism, is applying the concept of "service" to the greater community. It is considered a divine good to work for the benefit of others or society as a whole, without any expectation of reward."
+ 
+ tenet_kirtan_name:0 "Kīrtan"
+ 
+#sombrist
+
+ tenet_equal_exchange_name:0 "Equal Exchange"
+ tenet_equal_exchange_desc:0 "Many are the powers and blessings that powers higher than us possess. But while they might be powerful, they are first of all just, and for everything they give us, they will ask back in return. Thus, bargaining with and giving back to these powers is essential, when asking for boons."
+ doctrine_parameter_equal_exchange_active:0 "Enables a [decision|E] that allows characters to make exchanges with higher powers"
+
+#spiritist
+
+ tenet_self_reliance_name:0 "Self-Reliance"
+
+#trailwalker
+ 
+ tenet_frontier_riding_name:1 "Frontier Riding"
+ tenet_frontier_riding_desc:1 "Though the Barbed Barrier limits movement between the worlds, the powers and echoes of the Frontier still suffuse all that exists in the Range. Through walking the trails of certain substances and the surrendering of one's self to trances, we may commune with and embrace the spirits of the next world."
+ doctrine_parameter_spirit_possession_active:1 "Enables the 'Seek Aid of The Spirits' [decision|E]"
+ tenet_sacred_wildfires_name:1 "Sacred Wildfires"
+ tenet_sacred_wildfires_desc:1 "With the burning of certain herbs, we can ensure that we are protected from any feasome critters that may roam the land."
+ doctrine_parameter_sacred_wildfires_active:1 "Enables the 'Ignite a Sacred Wildfire' [decision|E]"
+
+ tenet_blessings_from_the_barrens_name:0 "Blessings from the Barrens"
+ tenet_blessings_from_the_barrens_desc:0 "These unforgiven landscapes are home to divine secrets reserved for those wise enough to pay them their deserved reverence."
+
+ tenet_fp3_vigilante_justice_name:0 "Vigilante Justice"
+ tenet_fp3_vigilante_justice_desc:0 "It is in the hands of worthy individuals to carry out justice, to defend the faithful from those who would do harm to them by any means necessary."
+
+#universal
+
+ tenet_masonic_initiation_name:0 "Masonic Initiation"
+
+#vernacular
+ 
+ tenet_serpentine_strength_name:0 "Serpentine Strength"
+ #tenet_serpentine_strength_desc:0 "Our gods demand that our faith be tested frequently through the ancient practice of snake handling. The faith this practice engenders strengthens our bonds with each other and steels our nerves against outsiders."
+ tenet_washed_in_blood_name:0 "Washed In The Blood"
+ tenet_washed_in_blood_desc:0 "Through the mountains of Appalachia, over the hills of the Ozarks, along the delta of the mighty Mississippi, and from the Ohio to Savannah rivers, our warriors march endlessly, awash in the blood of our enemies, bringing forth the cleansing power of [ROOT.Faith.HealthGodName] by way of war."
+ tenet_blood_of_nephilim:0 "Blood of Nephilim"
+ 
+#veteranic
+
+ tenet_jus_ad_bellum_name:0 "Jus Ad Bellum"
+ tenet_jus_ad_bellum_desc:0 "Warfare is an obstacle to prosperity and frequently goes against the common good. Although occasionally warranted by a just cause, war should be seen as a last resort to re-establish peace instead of being a tool for personal interests."
+ doctrine_parameter_jus_ad_bellum_holy_wars_active:0 "It costs [rulers|E] of this [faith|E] #P -35%#! less [piety|E] to declare [holy_wars|E], winning [holy_wars|E] yields [prestige|E]"
+ doctrine_parameter_jus_ad_bellum_wars_active:0 "It costs [rulers|E] of this [faith|E] #N +25%#! more [prestige|E] to declare non-[holy_wars|E], declaring non-[holy_wars|E] yields [tyranny|E]"
+ doctrine_parameter_raids_forbidden:0 "Can not [raid|E]"
+ 
+ tenet_peacekeeping_missions_name:0 "Peacekeeping Missions"
+ tenet_peacekeeping_missions_desc:0 "Our believers flock in droves to keep the Tetramorphic Peace both here and abroad. We do not forcibly recruit unbelievers to our Missions, but they pay extra tax to keep the Missions well-equipped for their own good."
+ doctrine_parameter_peacekeeping_missions_different_religon_conversion_penalty_active:0 "Provinces of different [religion|E] take #N +50%#! longer to convert"
+ doctrine_parameter_peacekeeping_missions_culture_conversion_penalty_active:0 "Provinces of different [culture|E] take #N +20%#! longer to convert"
+ COURT_CHAPLAIN_CONVERSION_VOLUNTEER_FORCES_PENALTY:0 "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_volunteer_forces').GetBaseName]"
+ STEWARD_PROMOTE_CULTURE_VOLUNTEER_FORCES_PENALTY:0 "[steward.GetFaith.GetName] — [GetFaithDoctrine('tenet_volunteer_forces').GetBaseName]"
+
+ tenet_marathon_of_hope_name:0 "Marathon of Hope"
+ tenet_marathon_of_hope_desc:0 "Hope is not a short project, but a marathon, requiring the work of every person - especially those [paracletes|E] carrying the Holy Spirit within them just as Fox the Silverlegged had."
+
+ tenet_live_and_let_live_name:0 "Live and Let Live"
+
+ tenet_ancestor_shall_not_name:0 "We Shall Not Sleep"
+ tenet_ancestor_shall_not_desc:0 "They shall grow not old, as we that are left grow old.\nAge shall not weary them, nor the years condemn.\nAt the going down of the sun and in the morning,\nWe will [Concept('remembrance','remember them')|E]."
+
+#vodun
+
+ tenet_both_hands_name:0 "Service with Both Hands"
+ tenet_both_hands_desc:0 "Although dark magic is frowned upon in our faith, its use is not unheard of. It is shameful, but it can also be useful..."
+ tenet_seances_name:0 "Séances"
+ tenet_seances_desc:0 "Adherents of our faith are encouraged to commune with the dead, for they can provide wisdom and knowledge that would otherwise be inaccessible to the living."
+ tenet_talismans_name:0 "Talismans"
+ tenet_talismans_desc:0 "Our faith does not worship objects, but we do believe that objects can contain great mystical and spiritual power. One should handle such objects with care..."
+ 
+ doctrine_parameter_zombie_creation_active:0 "Characters of this [faith|E] can convince certain priests to turn prisoners into zombies"
+ doctrine_parameter_seances_active:0 "Characters of this [faith|E] can organize séances in an effort to commune with the dead"
+ doctrine_parameter_create_talismans_active:0 "Characters of this [faith|E] can commission the creation of mystical talismans"
+ 
+  
+ tenet_traitement_name:0 "Traitement"
+ tenet_traitement_desc:0 "Traiteurs and traiteuses are a special class of traditional healers who combine many eclectic cultures' folk medicine knowledge to perform faith healing."
+ 
+#wellness
+
+ tenet_charms_of_power_name:0 "Charms of Power"
+ tenet_charms_of_power_desc:0 "The powers of those versed in the ways of [ROOT.Faith.PantheonTerm] are not just contained in their techniques and practices, but in physical objects believers can use to ward off malign influences."
+ doctrine_parameter_charms_of_power_active:0 "Characters can seek out holy individuals to acquire charms from"
+
+ tenet_self_actualization_name:0 "Self-Actualization"
+ tenet_recruitment_network_name:0 "Recruitment Network"
+ tenet_hierarchy_of_needs_name:0 "Hierarchy of Needs"
+ tenet_hierarchy_of_needs_desc:0 "We are each governed by our hierarchy of needs, and must therefore prioritize our own self-care and self-interest above all else."
+ tenet_destruction_of_distractions_name:0 "Destruction of Distractions"
+ tenet_self_confidence_name:0 "Self-Confidence"
+ tenet_summer_of_love_name:0 "Summer of Love"
+
+ tenet_downline_name:0 "Downline"
+
+ #zoroastrian
+
+ tenet_seekers_of_asha_name:0 "Seekers of Asha"
+
+ tenet_good_thoughts_good_words_good_deeds_name:0 "Good Thoughts, Good Words, Good Deeds"
+ tenet_good_thoughts_good_words_good_deeds_desc:0 "Humata, Huxta, Huvarsta. These three principles define our faith and guide us on how to live in accordance to asha."
+
+
+#WIP
+
+ tenet_the_great_bind_name:0 "The Great Bind"
+ tenet_the_great_bind_desc:0 "The Great Bind"
+
+ tenet_bhakti_orixan_protectors_name:0 "Orixán Protectors"
+
+ tenet_messianic_leveling_name:0 "Messianic Leveling"
+ tenet_messianic_leveling_desc:0 "Our religion believes that the Messiah is bound to arrive and deliver us salvation, as has happened many times before. Only a truly faithful believer bound by righteous death will spare us of our suffering."
+ doctrine_parameter_messianic_leveling_active:0 "Martyrized paragons of virtue might be identified as the Messiah, reforming the faith. Their close friends, wards and relatives might become Apostles"
+
+ tenet_medicine_society_name:0 "Medicine Society"
+ tenet_medicine_society_desc:0 "Our faith inextricably ties the function of our spiritual leaders with those of healing. To protect the sanctity of these traditions, we closely guard the secrets and practices that our [ROOT.Faith.BishopNeuterPlural] gain their power and training from by creating organized societies that teach them in these sacred methods."
+ tenet_magical_cures_name:0 "Magical Cures"
+ tenet_magical_cures_desc:0 "Our faith inextricably ties the function of our spiritual leaders with those of healing. To protect ourselves from the dangerous forces and spirits that our [ROOT.Faith.BishopNeuterPlural] gain their power from, we respect their wisdom and obey the warnings that come with their magic."
+ doctrine_parameter_chaplain_physicians:0 "Characters of this [faith|E] must be medically trained, or have a virtuous personality, to be eligible for office as [court_chaplain|E] or [realm_priest|E]"
+ doctrine_parameter_faster_physicians:0 "Characters of this [faith|E] gain [GetTrait('lifestyle_physician').GetName( GetNullCharacter )] lifestyle experience more quickly"
+ doctrine_parameter_gives_medicine_society:0 "Characters of this [faith|E] favor physicians in elective systems"
+
+ tenet_programming_magicks_name:0 "Programming Magicks"
+ tenet_programming_magicks_desc:0 "Followers of the faith can become initiated into the ancient Hackere cult, granting them access to spells and rituals which can bring both good fortune and bad."
+ 
+ doctrine_parameter_dark_covens_active:0 "Able to recruit witches and be initiated into shadowy rites"
+ doctrine_parameter_toqui_leadership_active:0 "Upon the death of the previous $game_concept_head_of_faith$, the ruler with the most [prowess|E] or [martial_skill|E] will become the new $game_concept_head_of_faith$ for this [faith|E]"
+ 
+ tenet_scholasticism_name:0 "Scholasticism"
+ tenet_scholasticism_desc:0 "Our faith has a long tradition of encouraging theologians to think critically and question the intellectual status quo."
+ 
+ tenet_dark_covens_name:0 "Dark Covens"
+ tenet_dark_covens_desc:0 "Witchcraft is a gift from the divine, not something to be feared and shunned. Others condemn our practices as evil, but we shall use them to their fullest extent."
+ 
+ tenet_toquidom_generic_name:0 "Spiritual Stratocracy"
+ tenet_toquidom_generic_desc:0 "It is right and just that the ruler most physically able to spread the faith should also lead it."
+
+ tenet_communal_possessions_name:0 "Communal Possessions"
+ tenet_communal_possessions_desc:0 "[ROOT.Faith.HighGodName|U] intended for us all an equal share of the resources on earth. We should hold all things in common, and re-distribute the stolen wealth of the powerful." 

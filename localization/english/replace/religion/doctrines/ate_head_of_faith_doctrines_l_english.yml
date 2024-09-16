@@ -1,0 +1,11 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+ doctrine_holy_order_head_name:0 "Holy Order"
+ doctrine_holy_order_head_desc:0 "When the physical world comes under attack it is those blessed by the spiritual that should come to its defence. It only makes sense that those who lead the defence of the faith should lead the faith itself."
+ doctrine_parameter_holy_order_head_of_faith:0 "The [head_of_faith|E] [title|El] is an [unlanded|El] [holy_order|E] which can be hired by the faithful or have titles [leased|El] to them."
+ doctrine_parameter_no_holy_orders_til_hof:0 "[Concept('holy_order','Holy Orders')|E] cannot be established unless the [head_of_faith|E] exists."

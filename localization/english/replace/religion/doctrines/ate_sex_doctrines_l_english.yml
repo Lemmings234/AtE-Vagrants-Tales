@@ -1,0 +1,14 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+ doctrine_homosexuality_indifferent_name:1 "Indifferent"
+ doctrine_homosexuality_indifferent_desc:0 "Marriage exists between a man and a woman, but it is not our place to judge what happens between two people in the privacy of the bedroom."
+ doctrine_parameter_homosexuality_indifferent:0 "Same-sex relationships are partially accepted"
+ doctrine_gender_varied_domination_name:0 "Varied Domination"
+ doctrine_gender_varied_domination_desc:0 "Men and women have struggled since the origin of humanity for control over society, and while the power balance between them might shift, peace and equality can never be achieved."
+ doctrine_parameter_gender_varied_law:0 "Enables [laws|E]: [GetLaw('male_only_law').GetName], [GetLaw('male_preference_law').GetName],[GetLaw('female_preference_law').GetName], and [GetLaw('female_only_law').GetName] Succession"
+ doctrine_parameter_gender_assigned_dynasty:0 "Children take the dynasty of their parent of the same gender, as long as they were born in regular legal circumstances." 

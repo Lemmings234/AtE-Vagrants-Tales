@@ -1,0 +1,438 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ reawakened_religion:1 "Reawakened"
+ reawakened_religion_adj:1 "Reawakened"
+ reawakened_religion_adherent:1 "Reawakened"
+ reawakened_religion_adherent_plural:1 "Reawakened"
+ reawakened_religion_desc:1 "The Reawakened are a broad category of Christian faiths who seek to forge an identity independent of the Catholic-Protestant divide which dominated religion in the Americas prior to the [Concept('the_event_ate','Event')|E]. So named for the truths revealed to their founders, the Reawakened realize that the Event was but one of many confirmations that the old churches had lost their ways and that Christianity needed to be set back upon the righteous path as the world inched ever closer to Armageddon - though what exactly that righteous path is can vary wildly between denominations."
+
+ christian_science:0 "Church of Christ, Scientist"
+ christian_science_adj:0 "Christian Scientist"
+ christian_science_adherent:0 "Christian Scientist"
+ christian_science_adherent_plural:0 "Christian Scientists"
+ christian_science_desc:0 "When Mary Baker Eddy was near death, she read from her Bible an account of Jesus’ healings, and was herself healed. In this moment, she realized the truth - that injury and illness were no match for the all-power and all-love of God, and that sin and error had no place in God’s creation. The practices she had rediscovered were codified in the textbook Science and Health with Key to the Scriptures, and the Christian Scientist movement was born. Believing that material reality itself is an illusion born of error and that humanity is a spiritual reflection of God, Christian Scientists seek to heal themselves of the errors they believe result in disease and injury, and continued misguided belief in material existence in order to achieve atonement with God."
+ 
+ christian_science_high_god_name:0 "Father-Mother God"
+ christian_science_high_god_name_possessive:0 "Father-Mother God's"
+ christian_science_high_god_name_alternate:0 "The Divine Mind"
+ christian_science_high_god_name_alternate_possessive:0 "The Divine Mind's"
+
+ christian_science_creator_god_name:0 "All-in-All"
+ christian_science_creator_god_name_possessive:0 "All-in-All's"
+
+ christian_science_health_god_name:0 "Life"
+ christian_science_health_god_name_possessive:0 "Life's"
+
+ christian_science_fertility_god_name:0 "Love"
+ christian_science_fertility_god_name_possessive:0 "Love's"
+
+ christian_science_wealth_god_name:0 "Principle"
+ christian_science_wealth_god_name_possessive:0 "Principle's"
+
+ christian_science_household_god_name:0 "Spirit"
+ christian_science_household_god_name_possessive:0 "Spirit's"
+
+ christian_science_fate_god_name:0 "Soul"
+ christian_science_fate_god_name_possessive:0 "Soul's"
+
+ christian_science_knowledge_god_name:0 "Truth"
+ christian_science_knowledge_god_name_possessive:0 "Truth's"
+
+ christian_science_war_god_name:0 "Truth"
+ christian_science_war_god_name_possessive:0 "Truth's"
+
+ christian_science_trickster_god_name:0 "Animal Magnetism"
+ christian_science_trickster_god_name_possessive:0 "Animal Magnetism's"
+
+ christian_science_night_god_name:0 "Mind"
+ christian_science_night_god_name_possessive:0 "Mind's"
+
+ christian_science_water_god_name:0 "Mind"
+ christian_science_water_god_name_possessive:0 "Mind's"
+
+ christian_science_pantheon:0 "the Seven Synonyms"
+
+ christian_science_devil_name:0 "Error"
+ christian_science_devil_name_possessive:0 "Error's"
+
+ christian_science_religious_text:0 "Science and Health with Key to the Scriptures"
+ christian_science_religious_head_title:0 "Publisher of Doctrine"
+ christian_science_religious_head_title_name:0 "Board of Directors"
+
+ christian_science_devotee:0 "practitioner"
+ christian_science_devotee_plural:0 "practitioners"
+
+ christian_science_priest:0 "Reader"
+ christian_science_priest_plural:0 "Readers"
+
+ christian_science_death_deity_name:0 "Sin, Sickness, and Death"
+ christian_science_death_deity_name_possessive:0 "Sin, Sickness, and Death's"
+
+ ghw_christian_science:0 "Great Healing"
+ ghws_christian_science:0 "Great Healings"
+
+ new_jerusalem:0 "Society for a New Jerusalem"
+ new_jerusalem_adj:0 "New Jerusalem"
+ new_jerusalem_adherent:0 "New Jerusalemite"
+ new_jerusalem_adherent_plural:0 "New Jerusalemites"
+ new_jerusalem_desc:0 "The idea of the New Jerusalem, the capital of Kingdom of God, is understood by some Protestant churches to be a literal city which will be restored in the Holy Land. A small minority, however, believe that the process of restoration had already begun. The societies of the old world, who could transform the face of the world to service their needs, built great cities and other works of engineering which were to serve as the foundations of God’s Kingdom on Earth. However, Babylon invaded and corrupted the hearts of the Builders, who turned from God’s path and destroyed one another’s works. Intending to restart God’s plan which was delayed by the [Concept('the_event_ate','Event')|E], the Society for a New Jerusalem models itself, in a literal and figurative sense, after the Old World, emulating their governance and their architecture in a bid to restore the Kingdom and usher in the world to come."
+ 
+ new_jerusalem_high_god_name:0 "God the Architect"
+ new_jerusalem_high_god_name_possessive:0 "God the Architect's"
+ new_jerusalem_high_god_name_alternate:0 "God of the Temple"
+ new_jerusalem_high_god_name_alternate_possessive:0 "God of the Temple's"
+
+ new_jerusalem_creator_god_name:0 "God the Architect"
+ new_jerusalem_creator_god_name_possessive:0 "God the Architect's"
+
+ new_jerusalem_health_god_name:0 "The Tree of Life"
+ new_jerusalem_health_god_name_possessive:0 "The Tree of Life's"
+
+ new_jerusalem_fertility_god_name:0 "The Tree of Life"
+ new_jerusalem_fertility_god_name_possessive:0 "The Tree of Life's"
+
+ new_jerusalem_wealth_god_name:0 "King Solomon"
+ new_jerusalem_wealth_god_name_possessive:0 "King Solomon's"
+
+ new_jerusalem_household_god_name:0 "The Carpenter's Son"
+ new_jerusalem_household_god_name_possessive:0 "The Carpenter's Son's"
+
+ new_jerusalem_fate_god_name:0 "The Twelve Gates"
+ new_jerusalem_fate_god_name_possessive:0 "The Twelve Gates'"
+
+ new_jerusalem_knowledge_god_name:0 "God the Architect"
+ new_jerusalem_knowledge_god_name_possessive:0 "God the Architect's"
+
+ new_jerusalem_war_god_name:0 "King Solomon"
+ new_jerusalem_war_god_name_possessive:0 "King Solomon's"
+
+ new_jerusalem_trickster_god_name:0 "Babylon"
+ new_jerusalem_trickster_god_name_possessive:0 "Babylon's"
+
+ new_jerusalem_night_god_name:0 "The Lamb"
+ new_jerusalem_night_god_name_possessive:0 "The Lamb's"
+
+ new_jerusalem_water_god_name:0 "The Carpenter's Son"
+ new_jerusalem_water_god_name_possessive:0 "The Carpenter's Son's"
+
+ new_jerusalem_pantheon:0 "the Kingdom of the New Jerusalem"
+
+ new_jerusalem_devil_name:0 "Babylon"
+ new_jerusalem_devil_name_possessive:0 "Babylon's"
+
+ new_jerusalem_house_of_worship:0 "temple"
+ new_jerusalem_house_of_worship_plural:0 "temples"
+ new_jerusalem_religious_head_title:0 "Keeper of the Ark"
+ new_jerusalem_religious_head_title_name:0 "Heir to Solomon"
+
+ new_jerusalem_devotee:0 "builder"
+ new_jerusalem_devotee_plural:0 "builders"
+
+ new_jerusalem_bishop:0 "architect"
+ new_jerusalem_bishop_plural:0 "architects"
+
+ new_jerusalem_divine_realm:0 "Kingdom of God"
+ new_jerusalem_positive_afterlife:0 "The Elect"
+ new_jerusalem_negative_afterlife:0 "The Lake of Fire"
+ 
+ 
+ 
+ quinitarian:0 "Quinitarian Church of Spiri-Maria"
+ quinitarian_adj:0 "Quinitarian"
+ quinitarian_adherent:0 "Quinitarian"
+ quinitarian_adherent_plural:0 "Quinitarian"
+ quinitarian_desc:0 "The Quinitarian Church of Spiri-Maria advances the teachings of the reincarnation of Marie-Paule Giguère, a pious woman who lived in the time before the Deluge who herself was the reincarnation of Mary, the Mother of God. Unlike their Catholic precursors, the church preaches that the godhead consists of five persons, a Quinternity of the Father, the Son, the Holy Spirit, the Mother (Mary), and the Daughter (Marie Paule’s current reincarnation on earth, who is revered as God). Proclaiming that the [Concept('the_event_ate','Deluge')|E] brought about the age of the Daughter, they teach that a new church which is truly open to the perpetual revelation of God in the person of Christ as Woman (or in other words, of their current leader) must ultimately supplant the Church God founded in Rome. Denouncing the corruption of the Ursuline order, the faithful march out from Quebec to bring the good news to the rest of the world. "
+ 
+ quinitarian_high_god_name:0 "The Quinternity"
+ quinitarian_high_god_name_possessive:0 "The Quinternity's"
+ quinitarian_high_god_name_alternate:0 "God"
+ quinitarian_high_god_name_alternate_possessive:0 "God's"
+
+ quinitarian_creator_god_name:0 "Theotokos"
+ quinitarian_creator_god_name_possessive:0 "Theotokos'"
+
+ quinitarian_health_god_name:0 "Mother of Mercy"
+ quinitarian_health_god_name_possessive:0 "Mother of Mercy's"
+
+ quinitarian_fertility_god_name:0 "Queen of Families"
+ quinitarian_fertility_god_name_possessive:0 "Queen of Families'"
+
+ quinitarian_wealth_god_name:0 "Our Lady of Charity"
+ quinitarian_wealth_god_name_possessive:0 "Our Lady of Charity's"
+
+ quinitarian_household_god_name:0 "Queen of Patriarchs"
+ quinitarian_household_god_name_possessive:0 "Queen of Patriarchs'"
+
+ quinitarian_fate_god_name:0 "The Lady of All Nations"
+ quinitarian_fate_god_name_possessive:0 "The Lady of All Nations'"
+
+ quinitarian_knowledge_god_name:0 "Marie-Paule Giguère"
+ quinitarian_knowledge_god_name_possessive:0 "Marie-Paule Giguère's"
+
+ quinitarian_war_god_name:0 "Our Lady of Arc"
+ quinitarian_war_god_name_possessive:0 "Our Lady of Arc's"
+
+ quinitarian_trickster_god_name:0 "Mystical Rose"
+ quinitarian_trickster_god_name_possessive:0 "Mystical Rose's"
+
+ quinitarian_night_god_name:0 "Our Lady of Solitude"
+ quinitarian_night_god_name_possessive:0 "Our Lady of Solitude's"
+
+ quinitarian_water_god_name:0 "Our Lady, Star of the Seas"
+ quinitarian_water_god_name_possessive:0 "Our Lady, Star of the Seas'"
+
+ quinitarian_pantheon:0 "the Godhead"
+
+ quinitarian_devil_name:0 "Satan"
+ quinitarian_devil_name_possessive:0 "Satan's"
+
+ quinitarian_religious_text:0 "Vie d’Amour"
+ quinitarian_religious_head_title:0 "Co-Redemptrix"
+ quinitarian_religious_head_title_name:0 "Motherhood of All Souls"
+
+ quinitarian_priest_male:0 "father"
+ quinitarian_priest_male_plural:0 "fathers"
+ quinitarian_priest_female:0 "mother"
+ quinitarian_priest_female_plural:0 "mothers"
+ 
+ quinitarian_bishop_male:0 "bishop"
+ quinitarian_bishop_male_plural:0 "bishops"
+ quinitarian_bishop_female:0 "abbess"
+ quinitarian_bishop_female_plural:0 "abbesses"
+ quinitarian_bishop_neuter:0 "cleric"
+ quinitarian_bishop_neuter_plural:0 "clerics"
+
+ quinitarian_death_deity_name:0 "Death"
+ quinitarian_death_deity_name_possessive:0 "Death's"
+ 
+ 
+ 
+ israelite:0 "Israelites of the New Universal Pact"
+ israelite_adj:0 "Israelite"
+ israelite_adherent:0 "Israelite"
+ israelite_adherent_plural:0 "Israelites"
+ israelite_desc:0 "The Evangelical Israelites of the New Universal Pact are a millennarian faith founded in Peru in antediluvian times by the Prophet Ezequiel. They regard themselves as the new chosen people of God, residing in the land given to them by the Almighty in the West like Israel was given to Moses' people in the East. Likewise, Ezequiel is considered the Christ of the West, the reincarnation of the Christ of the East, Jesus of the New Testament. The Inca built Machu Picchu and their kingdom with the aid of God in ther Holy Land of the East, but the people strayed from God's commandments and became separated from Him. The New Universal Pact is a restoration of the covenant God made with His people - Israelites therefore keep to all of the laws described in Leviticus, wearing only clothes described in the Bible and growing their hair and beards long. They believe that God will soon come to judge mankind, but He will spare the people of privileged Peru and grant heaven on earth to those who remain steadfast in their faith." 
+ #should give them a unique godlist someday
+ 
+ 
+ 
+ 
+ #Comfa
+ comfa:0 "Comfa Faithist Church"
+ comfa_adj:0 "Comfa Faithist"
+ comfa_adherent:0 "Comfa Faithist"
+ comfa_adherent_plural:0 "Comfa Faithists"
+ comfa_desc:0 "The Comfa Faithist Church is a millenarian Christian movement founded in pre-[Concept('the_event_ate','Event')|E] Guyana by prophets from Trinidad and Grenada, with heavy influence from Afro-Diasporic traditions. Adherents believe that they are the adopted descendants of the Twelve Tribes of Israel and thus strongly emphasize Judaic elements of Christianity. The faithful also acknowledge the existence of spirits, especially those of deceased ancestors, who may do both good and evil at the beckoning of 'obeah' holy men and women. These entities sit beneath God the Father in a hierarchy of celestial and terrestrial spirits, alongside Mother Earth and various Hindu deities, a theological order similar to other Kongo-influenced cosmologies such as Kumina or Palo."
+ 
+ comfa_high_god_name:0 "God the Father"
+ comfa_high_god_name_possessive:0 "God the Father's"
+ comfa_high_god_name_alternate:0 "Zambi Akongo"
+ comfa_high_god_name_alternate_possessive:0 "Zambi Akongo's"
+
+ comfa_creator_god_name:0 "Zambi Akongo"
+ comfa_creator_god_name_possessive:0 "Zambi Akongo's"
+
+ comfa_health_god_name:0 "Jesus Christ"
+ comfa_health_god_name_possessive:0 "Jesus Christ's"
+
+ comfa_fertility_god_name:0 "Nyame"
+ comfa_fertility_god_name_possessive:0 "Nyame's"
+
+ comfa_wealth_god_name:0 "Lakshmi"
+ comfa_wealth_god_name_possessive:0 "Lakshmi's"
+
+ comfa_household_god_name:0 "Jesus Christ"
+ comfa_household_god_name_possessive:0 "Jesus Christ's"
+
+ comfa_fate_god_name:0 "Zambi Akongo"
+ comfa_fate_god_name_possessive:0 "Zambi Akongo's"
+
+ comfa_knowledge_god_name:0 "Moses"
+ comfa_knowledge_god_name_possessive:0 "Moses's"
+
+ comfa_war_god_name:0 "Ancestor Spirits"
+ comfa_war_god_name_possessive:0 "Ancestor Spirits'"
+
+ comfa_trickster_god_name:0 "Mother Earth"
+ comfa_trickster_god_name_possessive:0 "Mother Earth's"
+
+ comfa_night_god_name:0 "Zambi Akongo"
+ comfa_night_god_name_possessive:0 "Zambi Akongo's"
+
+ comfa_water_god_name:0 "Jesus Christ"
+ comfa_water_god_name_possessive:0 "Jesus Christ's"
+
+ comfa_pantheon:0 "God and his Servants"
+
+ comfa_devil_name:0 "Graveyard Spirits"
+ comfa_devil_name_possessive:0 "Graveyard Spirits'"
+
+ comfa_religious_text:0 "Aquarian Scriptures"
+ comfa_religious_head_title:0 "Archbishop"
+ comfa_religious_head_title_name:0 "Evangelical Millennium Council"
+
+ comfa_devotee_male:0 "priest"
+ comfa_devotee_male_plural:0 "priests"
+ comfa_devotee_female:0 "deacon"
+ comfa_devotee_female_plural:0 "deacons"
+ comfa_devotee_neuter:0 "scribe"
+ comfa_devotee_neuter_plural:0 "scribes"
+
+ comfa_priest_male:0 "shepherd"
+ comfa_priest_male_plural:0 "shepherds"
+ comfa_priest_female:0 "shepherdess"
+ comfa_priest_female_plural:0 "shepherdesses"
+ comfa_priest_neuter:0 "shepherd"
+ comfa_priest_neuter_plural:0 "shepherds"
+ 
+ comfa_bishop:0 "bishop"
+ comfa_bishop_plural:0 "bishops"
+
+ comfa_death_deity_name:0 "Mother Earth"
+ comfa_death_deity_name_possessive:0 "Mother Earth's"
+ comfa_positive_afterlife:0 "Celestial Realm"
+ comfa_negative_afterlife:0 "Eternal Wandering"
+ 
+ 
+ 
+ 
+
+ #Swedenborgianism
+ swedenborgian:0 "Swedenborgianism"
+ swedenborgian_adj:0 "Swedenborgian"
+ swedenborgian_adherent:0 "Swedenborgian"
+ swedenborgian_adherent_plural:0 "Swedenborgians"
+ swedenborgian_desc:0 "Swedenborgianism is a small but influential church tradition stemming from the theological teachings of pre-event mystic Emmanuel Swedenborg. The New Church, they claim, is the restored church of Jesus Christ, who was the incarnate Jehovah. Specifically, they believe that Jesus progressed towards Jehovah during his life by gradually making his human body one with divinity, putting it as "the Lord's Human is Divine". Love and charity, coupled with acknowledgment of the Lord, provide the pathway to salvation and union with Jesus. Indeed, some of the most famous American folk heroes are claimed as believers by the Swedenborgians; however, they are often treated harshly by other Christians for their occultic practices and their rejection of the Trinity as three persons in one."
+ 
+ swedenborgian_high_god_name:0 "Divine Love"
+ swedenborgian_high_god_name_possessive:0 "Divine Love's"
+ swedenborgian_high_god_name_alternate:0 "The Holy Spirit"
+ swedenborgian_high_god_name_alternate_possessive:0 "The Holy Spirit's"
+ 
+ swedenborgian_creator_god_name:0 "Divine Love"
+ swedenborgian_creator_god_name_possessive:0 "Divine Love's"
+ 
+ swedenborgian_health_god_name:0 "Divine Wisdom"
+ swedenborgian_health_god_name_possessive:0 "Divine Wisdom's"
+ 
+ swedenborgian_fertility_god_name:0 "Divine Love"
+ swedenborgian_fertility_god_name_possessive:0 "Divine Love's"
+ 
+ swedenborgian_wealth_god_name:0 "Divine Word"
+ swedenborgian_wealth_god_name_possessive:0 "Divine Word's"
+ 
+ swedenborgian_household_god_name:0 "Christ"
+ swedenborgian_household_god_name_possessive:0 "Christ's"
+ 
+ swedenborgian_fate_god_name:0 "Divine Wisdom"
+ swedenborgian_fate_god_name_possessive:0 "Divine Wisdom's"
+ 
+ swedenborgian_knowledge_god_name:0 "Divine Wisdom"
+ swedenborgian_knowledge_god_name_possessive:0 "Divine Wisdom's"
+ 
+ swedenborgian_war_god_name:0 "Christ"
+ swedenborgian_war_god_name_possessive:0 "Christ's"
+ 
+ swedenborgian_trickster_god_name:0 "God"
+ swedenborgian_trickster_god_name_possessive:0 "God's"
+ 
+ swedenborgian_night_god_name:0 "Divine Love"
+ swedenborgian_night_god_name_possessive:0 "Divine Love's"
+ 
+ swedenborgian_water_god_name:0 "Jesus"
+ swedenborgian_water_god_name_possessive:0 "Jesus's"
+ 
+ swedenborgian_pantheon:0 "the Heavenly Community"
+ 
+ swedenborgian_devil_name:0 "Satan"
+ swedenborgian_devil_name_possessive:0 "Satan's"
+
+ swedenborgian_religious_text:0 "Divine Providence"
+ 
+ swedenborgian_devotee_male:0 "disciple"
+ swedenborgian_devotee_male_plural:0 "disciples"
+ swedenborgian_devotee_female:0 "disciple"
+ swedenborgian_devotee_female_plural:0 "disciples"
+ swedenborgian_devotee_neuter:0 "disciple"
+ swedenborgian_devotee_neuter_plural:0 "disciples"
+ 
+ swedenborgian_priest_male:0 "reverend"
+ swedenborgian_priest_male_plural:0 "reverends"
+ swedenborgian_priest_female:0 "reverend"
+ swedenborgian_priest_female_plural:0 "reverends"
+ 
+ swedenborgian_bishop_male:0 "reverend"
+ swedenborgian_bishop_male_plural:0 "reverends"
+ swedenborgian_bishop_female:0 "reverend"
+ swedenborgian_bishop_female_plural:0 "reverends"
+ swedenborgian_bishop_neuter:0 "reverend"
+ swedenborgian_bishop_neuter_plural:0 "reverends"
+ 
+ swedenborgian_death_deity_name:0 "God"
+ swedenborgian_death_deity_name_possessive:0 "God's"
+
+ # Pour one out for a real one
+ watcher:0 "Tomb Watchers"
+ watcher_adj:0 "Tomb Watcher"
+ watcher_adherent:0 "Tomb Watcher"
+ watcher_adherent_plural:0 "Tomb Watchers"
+ watcher_desc:0 "The Second Coming as they knew it did not come to fruition.  When the King of Men descended down from heaven he was struck down by the Many Heads Crowned, his body swallowed up by the Earth.  Now the Tomb Watchers wait patiently for what they will know as the Third Coming.  Until then, the secrets of the faith are a closely guarded secret, protected by the Witnesses, an all female religious body who saw the First and Second Coming, and will remain to see the Third."
+ watcher_old:0 "Old Tomb Watchers"
+ watcher_old_adj:0 "Old Tomb Watcher"
+ watcher_old_adherent:0 "Old Tomb Watcher"
+ watcher_old_adherent_plural:0 "Old Tomb Watchers"
+ 
+ tomb_watcher_high_god_name:0 "The Son of Man"
+ tomb_watcher_high_god_name_possessive:0 "The Son of Man's"
+ tomb_watcher_high_god_name_alternate:0 "King of the Earth"
+ tomb_watcher_high_god_name_alternate_possessive:0 "King of the Earth's"
+ tomb_watcher_creator_god_name:0 "The Father in the Heavens"
+ tomb_watcher_creator_god_name_possessive:0 "The Father in the Heavens'"
+ tomb_watcher_health_god_name:0 "$tomb_watcher_high_god_name$"
+ tomb_watcher_health_god_name_possessive:0 "$tomb_watcher_high_god_name_possessive$"
+ tomb_watcher_fertility_god_name:0 "The Woman Clothed in the Stars"
+ tomb_watcher_fertility_god_name_possessive:0 "The Woman Clothed in the Stars'"
+ tomb_watcher_wealth_god_name:0 "$tomb_watcher_high_god_name$"
+ tomb_watcher_wealth_god_name_possessive:0 "$tomb_watcher_high_god_name_possessive$"
+ tomb_watcher_household_god_name:0 "Holiest"
+ tomb_watcher_household_god_name_possessive:0 "Holiest's"
+ tomb_watcher_fate_god_name:0 "$tomb_watcher_high_god_name$"
+ tomb_watcher_fate_god_name_possessive:0 "$tomb_watcher_high_god_name_possessive$"
+ tomb_watcher_knowledge_god_name:0 "The Cleansed Harlot"
+ tomb_watcher_knowledge_god_name_possessive:0 "The Cleansed Harlot's"
+ tomb_watcher_war_god_name:0 "The Judge of Palms"
+ tomb_watcher_war_god_name_possessive:0 "The Judge of Palms'"
+ tomb_watcher_trickster_god_name:0 "The Beast From The Sea"
+ tomb_watcher_trickster_god_name_possessive:0 "The Beast From The Sea's"
+ tomb_watcher_night_god_name:0 "The Great Red Dragon" 
+ tomb_watcher_night_god_name_possessive:0 "The Great Red Dragon's"
+ tomb_watcher_water_god_name:0 "$tomb_watcher_trickster_god_name$" 
+ tomb_watcher_water_god_name_possessive:0 "$tomb_watcher_trickster_god_name_possessive$"
+ 
+ tomb_watcher_devil_name:0 "The Many Heads Crowned"
+ tomb_watcher_devil_name_possessive:0 "The Many Heads Crowned's"
+ tomb_watcher_death_deity_name:0 "The Many Heads Crowned"
+ tomb_watcher_death_deity_name_possessive:0 "The Many Heads Crowned's"
+ tomb_watcher_religious_symbol:0 "tomb"
+ tomb_watcher_religious_text:0 "Bible"
+ tomb_watcher_divine_realm:0 "Heaven"
+ tomb_watcher_positive_afterlife:0 "The World to Come"
+ tomb_watcher_negative_afterlife:0 "Gehenna"
+ tomb_watcher_house_of_worship:0 "tomb"
+ tomb_watcher_house_of_worship_plural:0 "tombs"
+ tomb_watcher_religious_head_title:0 "Resurrector"
+ tomb_watcher_religious_head_title_name:0 "Resurrectorship"
+ tomb_watcher_devotee:0 "watcher"
+ tomb_watcher_devotee_plural:0 "watchers"
+ tomb_watcher_priest:0 "watcher"
+ tomb_watcher_priest_plural:0 "watchers"
+ tomb_watcher_bishop:0 "witnesser"
+ tomb_watcher_bishop_plural:0 "witnessers"
+ 
+ religion_witnesses:0 "The Witnesses"

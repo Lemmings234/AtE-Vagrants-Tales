@@ -1,0 +1,5 @@
+noosfaith_religion = {
+	family = rf_anachronous
+	graphical_faith = noosfaith_religion_gfx
+	doctrine = anachronous_hostility_doctrine
+}

@@ -1,0 +1,188 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+ 
+ idiosyncratic_religion_adj: "Idiosyncratic"
+ idiosyncratic_religion_adherent: "Idiosyncratic"
+ idiosyncratic_religion_adherent_plural: "Idiosyncratics"
+ idiosyncratic_religion: "Idiosyncratism"
+ idiosyncratic_religion_desc: "These are the faiths born out of Old Mexico, its memory, and its collective wisdom regarding the nature of Cosmos, the supreme consciousness that inhabits everything material and immaterial within existence. The idiosyncracies inherent within the Old Mexican people, and therefore within the first preachers of these faiths, continue to influence their interpretation and theology surrounding Cosmos. These faiths may differ in many of their beliefs, but they do agree on something: the people of Mexico have a cosmic destiny awaiting them."
+
+ idiosyncratic_el_cosmos: "el Cosmos"
+ idiosyncratic_el_cosmos_possessive: "el Cosmos'"
+ idiosyncratic_cosmos: "Cosmos"
+ idiosyncratic_cosmos_possessive: "Cosmos'"
+
+#hexagonal
+ el_santo: "Hexagonal"
+ el_santo_adj: "Hexagonal"
+ el_santo_adherent: "Hexagonal"
+ el_santo_adherent_plural: "Hexagonales"
+ el_santo_desc: "After the [Concept('the_event_ate','Event')|E], México City fell into the hands of a decadent class of pseudo-intellectuals, known as the Auditoristas, who hypocritically rambled about how they were the epitome of all peoples while they wasted their physical cosmic energy in worthless vice. Their armies of luchadores soon realized that in order to restore the shine to their bronze beings they would need to oust the Auditoristas and return to the six corners of their faith. Led by the spirits of six legendary cosmic warriors of the past, they retook México City in the name of the Hexagonal faithful and so the six laws were written: Search for Wisdom like Mil Máscaras, Exercise the Body like Blue Demon, Respect the Worthy like La Parka, Disdain the Decadent like Tinieblas, Listen to the People like Kemonito and Remove the Rotten like El Santo."
+
+ hexagonal_la_parka: "La Parka"
+ hexagonal_la_parka_possessive: "La Parka's"
+
+ hexagonal_kemonito: "Kemonito"
+ hexagonal_kemonito_possessive: "Kemonito's"
+ hexagonal_el_santo: "el Santo"
+ hexagonal_el_santo_possessive: "el Santo's"
+ hexagonal_mil_mascaras: "Mil Máscaras"
+ hexagonal_mil_mascaras_possessive: "Mil Máscaras'"
+ hexagonal_blue_demon: "Blue Demon"
+ hexagonal_blue_demon_possessive: "Blue Demon's"
+ hexagonal_tinieblas: "Tinieblas"
+ hexagonal_tinieblas_possessive: "Tinieblas'"
+
+ hexagonal_ocio: "Ocio" 
+ hexagonal_ocio_possessive: "Ocio's"
+ hexagonal_olvido: "Olvido"
+ hexagonal_olvido_possessive: "Olvido's"
+
+ el_santo_religious_symbol: "Hexágono"
+ el_santo_religious_text: "Six Laws"
+
+ el_santo_house_of_worship: "arena"
+ el_santo_house_of_worship_plural: "arenas"
+ el_santo_religious_head_title: "Lucha"
+ el_santo_religious_head_title_name: "Lucha"
+ el_santo_devotee_male: "novato"
+ el_santo_devotee_male_plural: "novatos"
+ el_santo_devotee_female: "novata"
+ el_santo_devotee_female_plural: "novatas"
+ el_santo_priest_male: "enmascarado"
+ el_santo_priest: "enmascarade"
+ el_santo_priest_plural: "enmascarades"
+ el_santo_priest_female_plural: "enmascaradas"
+ el_santo_priest_female: "enmascarada"
+ el_santo_priest_male_plural: "enmascarados"
+ el_santo_bishop_male: "campeón"
+ el_santo_bishop_male_plural: "campeóns"
+ el_santo_bishop_female: "campeona"
+ el_santo_bishop_female_plural: "campeonas"
+ 
+ el_santo_priest_alternate: "enmascarade"
+ el_santo_priest_alternate_plural: "enmascarades"
+ 
+ el_santo_pantheon_the_cosmos: "the Cosmos"
+ 
+ ghw_la_gran_lucha: "Gran Lucha"
+ ghw_la_gran_luchas: "Gran Luchas"
+ 
+ auditorista: "Auditorismo"
+ auditorista_adj: "Auditorista"
+ auditorista_adherent: "Auditorista"
+ auditorista_adherent_plural: "Auditoristas"
+ auditorista_desc: "According to the Auditoristas, the people of Mexico are the Cosmic People, the perfect mix between all the cultures of the world, which was intended by el Cosmos when he decided to be reborn in them to roam the mortal plane. During the [Concept('the_event_ate','Alternance')|E] many of the institutions of México City fell or fled into exile - all except la Universidad, which was saved by, and later thrived under, its students, who came to be known as the Auditoristas. They believe that anything a person decides to do, so long as it does not directly impede the decisions of others, is holy. However, the Auditoristas are not complacent, aspiring to become great philosophers and achieve a greater understanding of el Cosmos, be it by researching ancient literature, the divine substances or the bodies where their god now resides. Auditoristas see it as their mission to liberate the Cosmic People from tyrannical rule by any means necessary."
+
+
+ auditorista_represion: "Represión"
+ auditorista_represion_possessive: "Represión's"
+
+ auditorista_religious_symbol: "Escudo Universitario"
+ auditorista_religious_text: "Cosmic Knowledge"
+
+ auditorista_house_of_worship: "auditorio"
+ auditorista_house_of_worship_plural: "auditorios"
+ auditorista_religious_head_title: "Rector"
+ auditorista_religious_head_title_name: "Rectoría Universitaria"
+ auditorista_devotee_male: "becado"
+ auditorista_devotee_male_plural: "becados"
+ auditorista_devotee_female: "becada"
+ auditorista_devotee_female_plural: "becadas"
+ auditorista_priest_male: "docente"
+ auditorista_priest_female_plural: "docentes"
+ auditorista_priest_female: "docente"
+ auditorista_priest_male_plural: "docentes"
+ auditorista_bishop_male: "decano"
+ auditorista_bishop_male_plural: "decanos"
+ auditorista_bishop_female: "decana"
+ auditorista_bishop_female_plural: "decanas"
+ 
+ auditorista_priest_alternate: "docente"
+ auditorista_priest_alternate_plural: "docentes"
+ 
+ ghw_el_gran_paro: "Gran Paro"
+ ghw_el_gran_paros: "Gran Paros"
+ 
+ 
+ alineado: "Alineadorato"
+ alineado_adj: "Alineado"
+ alineado_adherent: "Alineado"
+ alineado_adherent_plural: "Alineados"
+ alineado_desc: "In the times before [Concept('the_event_ate','la Transición')|E], there used to exist a powerful societal order, led by an elite cadre within Mexico that kept the realm stable and brought Orden y Progreso to all in the land. No single individual could ever bring back that lost and half-forgotten paradise, for peace and stability are a disciplined collective effort. Alineados believe that only through the complete surrender of individuality can the collective unanimity draw the line that guides mortals towards the divine duality of Order and Progress. They must strictly follow that line lest they fall to Faccionalismo, Corrupción, e Inestabilidad, children of the dreaded and chaotic Cosmos, who endlessly roam the world created by their father in search of a realm and people to consume next. To the Alineados, there can be no more ground lost to chaos in the unending struggle Mexico faces to impose its will upon an unruly universe."
+
+
+ alineado_orden_y_progreso: "Orden y Progreso"
+ alineado_orden_y_progreso_possessive: "Orden y Progreso's"
+
+ alineado_faccionalismo_corrupcion_e_inestabilidad: "Faccionalismo, Corrupción, e Inestabilidad"
+ alineado_faccionalismo_corrupcion_e_inestabilidad_possessive: "Faccionalismo, Corrupción, e Inestabilidad's"
+
+ alineado_religious_symbol: "Tricolor"
+ alineado_religious_text: "Plan de Desarrollo"
+ alineado_divine_realm: "Plano Abstracto"
+ alineado_positive_afterlife: "Paz"
+ alineado_negative_afterlife: "Caos"
+ alineado_house_of_worship: "sede"
+ alineado_house_of_worship_plural: "sedes"
+ alineado_religious_head_title: "el Alineador"
+ alineado_religious_head_title_name: "Secretaría General"
+ alineado_devotee_male: "burócrata"
+ alineado_devotee_male_plural: "burócratas"
+ alineado_devotee_female: "burócrata"
+ alineado_devotee_female_plural: "burócratas"
+ alineado_priest_male: "funcionario"
+ alineado_priest_female_plural: "funcionarias"
+ alineado_priest_female: "funcionaria"
+ alineado_priest_male_plural: "funcionarios"
+ alineado_bishop_male: "subsecretario"
+ alineado_bishop_male_plural: "subsecretarios"
+ alineado_bishop_female: "subsecretaria"
+ alineado_bishop_female_plural: "subsecretarias"
+ 
+ alineado_priest_alternate: "funcionario"
+ alineado_priest_alternate_plural: "funcionarios"
+ 
+ ghw_mal_patriotico: "Mal Patriótico"
+ ghw_mal_patrioticos: "Mal Patrióticos"
+ 
+ religion_fuerzas_del_mundo: "Fuerzas del Mundo"
+ religion_the_cosmos: "el Cosmos"
+
+ enigmatismo: "Enigmatología"
+ enigmatismo_adj: "Enigmático"
+ enigmatismo_adherent: "Enigmático"
+ enigmatismo_adherent_plural: "Enigmáticos"
+ #enigmatismo_desc: "The Tribunal for the Study of Enigmas is an esoteric order dedicated to the monistic force of Ingenuity, a concept variously described as a God, a higher power, and a force of nature; whatever the specifics, Enigmaticos believe that Ingenuity is the wellspring of all Power, both physical - like electrical and mechanical force - and spiritual - such as the concept of Chi found in some Harmonic faiths. Through communion with the ethereal force of Ingenuity, one can learn to harness Power; Enigmaticos dedicate themselves to the study of the world and its mysterious Enigmas - forces, places, concepts, and things - to decipher the meaning which Ingenuity has bestowed within them."
+ enigmatismo_desc: "Enigmáticos believe that in the times before [Concept('the_event_ate','el Gran Apagón')|E], an erudite clique of Científicos had managed to subdue the chaotic Cosmos, after learning the entirety of its Enigmas - the forces, places, and concepts from which they extracted a great gift that powered a subservient race of Gólems who made humanity's lives easier and much longer. Unfortunately, the Científicos shared their gift with too many lesser minds who could not distinguish cognizance from belief, and thus the chains of knowledge that imprisoned Cosmos were broken, its furious vengeance rained down upon a defenseless world with now powerless Gólems. Yet the Enigmáticos remain, scouring the land in search of precious lost Enigmas of Cosmos; the knowledge which they hoard and decipher in the hope that, once enough of it is learned, Cosmos will be reimprisoned, and it's great power returned to their control."
+
+ enigmatismo_los_golems: "los Gólems"
+ enigmatismo_los_golems_possessive: "los Gólems'"
+ enigmatismo_el_gran_apagon: "el Gran Apagón"
+ enigmatismo_el_gran_apagon_possessive: "el Gran Apagón's"
+ 
+ enigmatismo_religious_symbol: "Lightning Bolts"
+ enigmatismo_religious_text: "Ancient Enigmas"
+ enigmatismo_divine_realm: "Energy"
+ enigmatismo_positive_afterlife: "Energetic Realm"
+ enigmatismo_negative_afterlife: "Depowered Realm"
+ enigmatismo_house_of_worship: "laboratorio"
+ enigmatismo_house_of_worship_plural: "laboratorios"
+ enigmatismo_religious_head_title: "el Autónomo"
+ enigmatismo_religious_head_title_name: "la Facultad Autónoma"
+ enigmatismo_devotee: "maquinista"
+ enigmatismo_devotee_plural: "maquinistas"
+ enigmatismo_priest_male: "mecánico"
+ enigmatismo_priest_male_plural: "mecánicos"
+ enigmatismo_priest_female: "mecánica"
+ enigmatismo_priest_female_plural: "mecánicas"
+ enigmatismo_bishop_male: "ingeniero"
+ enigmatismo_bishop_male_plural: "ingenieros"
+ enigmatismo_bishop_female: "ingeniera"
+ enigmatismo_bishop_female_plural: "ingenieras"
+ 

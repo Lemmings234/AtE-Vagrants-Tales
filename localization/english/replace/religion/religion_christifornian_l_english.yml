@@ -1,0 +1,200 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ christifornian_religion:1 "Christifornian"
+ christifornian_religion_adj:1 "Christifornian"
+ christifornian_religion_adherent:1 "Christifornian"
+ christifornian_religion_adherent_plural:1 "Christifornians"
+ christifornian_religion_desc:1 "The chaos of the [Concept('the_event_ate','Event')|E] forced the diverse Christian populations of California and the West Coast together as their once dominant position over the region was overturned by upstart belief systems. Adapting and evolving to the changing social and political conditions of the region, the constituent faith systems now collectively known as Christifornians have been isolated from the rest of mainstream Christianity and now exist in a land where they are, like the ancient church in the mythical Old World, the minority."
+
+ christifornian_high_god_name:0 "Guru Jesus Christ"
+ christifornian_high_god_name_possessive:0 "Guru Jesus Christ's"
+ christifornian_high_god_name_alternate:0 "the Messianic Guru"
+ christifornian_high_god_name_alternate_possessive:0 "the Messianic Guru's"
+
+ christifornian_creator_god_name:0 "God the Father"
+ christifornian_creator_god_name_possessive:0 "God the Father's"
+
+ christifornian_health_god_name:0 "Guru Jesus Christ"
+ christifornian_health_god_name_possessive:0 "Guru Jesus Christ's"
+
+ christifornian_fertility_god_name:0 "the Holy Free Spirit"
+ christifornian_fertility_god_name_possessive:0 "the Holy Free Spirit's"
+
+ christifornian_wealth_god_name:0 "God the Father"
+ christifornian_wealth_god_name_possessive:0 "God the Father's"
+
+ christifornian_household_god_name:0 "Guru Jesus Christ"
+ christifornian_household_god_name_possessive:0 "Guru Jesus Christ's"
+
+ christifornian_fate_god_name:0 "God the Father"
+ christifornian_fate_god_name_possessive:0 "God the Father's"
+
+ christifornian_knowledge_god_name:0 "the Saintly Gurus"
+ christifornian_knowledge_god_name_possessive:0 "the Saintly Gurus'"
+
+ christifornian_war_god_name:0 "Guru Joshua the Son"
+ christifornian_war_god_name_possessive:0 "Guru Joshua the Son's"
+
+ christifornian_trickster_god_name:0 "the Psalmist Guru"
+ christifornian_trickster_god_name_possessive:0 "the Psalmist Guru's"
+
+ christifornian_night_god_name:0 "the Angelic Gurus"
+ christifornian_night_god_name_possessive:0 "the Angelic Gurus'"
+
+ christifornian_water_god_name:0 "the Apostolic Gurus"
+ christifornian_water_god_name_possessive:0 "the Apostolic Gurus'"
+
+ christifornian_heavenly_court:0 "the Heavenly Court"
+
+ christifornian_devil_name:0 "Satan the Oppressor"
+ christifornian_devil_name_possessive:0 "Satan the Oppressor's"
+
+ christifornian_evil_god_babylon:0 "Babylon"
+
+ christifornian_house_of_worship:0 "sermon gathering"
+ christifornian_house_of_worship_plural:0 "sermon gatherings"
+ christifornian_religious_symbol:0 "Peace Cross"
+ christifornian_religious_text:0 "Bible"
+ christifornian_religious_head_title:0 "Superstar"
+ christifornian_religious_head_title_name:0 "Radical Archpastorship"
+
+ christifornian_devotee:0 "preacher"
+ christifornian_devotee_plural:0 "preacher"
+
+ christifornian_priest:0 "pastor"
+ christifornian_priest_plural:0 "pastors"
+ christifornian_priest_alternate_plural:0 "preachers"
+ christifornian_bishop:0 "pastor"
+ christifornian_bishop_plural:0 "pastors"
+
+ christifornian_divine_realm:0 "High Heaven"
+ christifornian_positive_afterlife:0 "High Heaven"
+ christifornian_negative_afterlife:0 "the Lake of Fire"
+
+ christifornian_death_god_name:0 "the Holy Free Spirit"
+ christifornian_death_god_name_possessive:0 "the Holy Free Spirit's"
+
+ ghw_peace_and_love_mission:0 "Peace and Love Mission"
+ ghws_peace_and_love_mission:0 "Peace and Love Missions"
+
+ christifornian_witch_god_name:0 "Satan the Oppressor"
+
+ jesusfreak:0 "Freaky Fellowships of Jesus"
+ jesusfreak_adj:0 "Jesus Freak"
+ jesusfreak_adherent:0 "Jesus Freak"
+ jesusfreak_adherent_plural:0 "Jesus Freaks"
+ jesusfreak_desc:0 "Revelling in Guru Jesus of Nazareth’s teachings of radical pacifism and universal love, the Jesus Freaks unite the hippie traditions of the Gurus with that of the Shepherd of Bethlehem. Jesus Freaks preach that everyone holds the Holy Free Spirit within them, meaning that all are saved under the Father. Therefore, necessary righteous wisdom is to be found within the messages of all Saintly Gurus who expounded virtues of peace and love, no matter their creed. In addition to the teachings of the Gurus, the Jesus Freaks recognize the great insights those with the Charismatic Gifts are given by God, providing a dynamic understanding of scripture. Above all, the Jesus Freaks seek to live lives full of love and free-spiritedness, allowing them to cultivate a personal relationship with the Messianic Guru."
+
+ hermandad:0 "La Hermandad de los Braceros"
+ hermandad_adj:0 "La Hermandad"
+ hermandad_adherent:0 "Bracero"
+ hermandad_adherent_plural:0 "Braceros"
+ hermandad_desc:0 "With humble origins in farm workers, Bracero rulers are expected to be workers, in the field as in the castle, to build a New Earth for the glory of God. The Braceros have endured through countless petty kingdoms and would-be tyrants, surviving thanks to their strong core organization around diverse communities and the revered elders who care for them. This struggle against evil on Earth has only amplified as the Antichrist, the office that seeks to unite all religions under the power of the state, unveiled itself in Sacramento. In the face of this apocalyptic evil, the Braceros are willing to fight against any who seek to eradicate their beliefs and way of life."
+ 
+ hermandad_high_god_name:0 "God"
+ hermandad_high_god_name_possessive:0 "God's"
+ hermandad_high_god_name_alternate:0 "the Father"
+ hermandad_high_god_name_alternate_possessive:0 "the Father's"
+
+ hermandad_creator_god_name:0 "the Father"
+ hermandad_creator_god_name_possessive:0 "the Father's"
+
+ hermandad_health_god_name:0 "Saint Francis"
+ hermandad_health_god_name_possessive:0 "Saint Francis'"
+
+ hermandad_fertility_god_name:0 "Our Lady of Guadalupe"
+ hermandad_fertility_god_name_possessive:0 "Our Lady of Guadalupe's"
+
+ hermandad_wealth_god_name:0 "Saint César Chavez"
+ hermandad_wealth_god_name_possessive:0 "Saint César Chavez's"
+
+ hermandad_household_god_name:0 "the Carpenter's Son"
+ hermandad_household_god_name_possessive:0 "the Carpenter's Son's"
+
+ hermandad_fate_god_name:0 "the Father"
+ hermandad_fate_god_name_possessive:0 "the Father's"
+
+ hermandad_knowledge_god_name:0 "Saint Dorothy Day"
+ hermandad_knowledge_god_name_possessive:0 "Saint Dorothy Day's"
+
+ hermandad_war_god_name:0 "Saint Rodolfo Gonzales"
+ hermandad_war_god_name_possessive:0 "Saint Rodolfo Gonzales'"
+
+ hermandad_trickster_god_name:0 "Saint Itliong"
+ hermandad_trickster_god_name_possessive:0 "Saint Itliong's"
+
+ hermandad_night_god_name:0 "Saint Junípero"
+ hermandad_night_god_name_possessive:0 "Saint Junípero's"
+
+ hermandad_water_god_name:0 "Saint Dolores Huerta"
+ hermandad_water_god_name_possessive:0 "Saint Dolores Huerta's"
+
+ hermandad_heavenly_council:0 "the Heavenly Council"
+
+ hermandad_devil_name:0 "Satan"
+ hermandad_devil_name_possessive:0 "Satan's"
+
+ hermandad_evil_god_la_migra:0 "la Migra"
+
+ hermandad_house_of_worship:0 "mutualista"
+ hermandad_house_of_worship_plural:0 "mutualistas"
+ hermandad_religious_symbol:0 "eagle cross"
+ hermandad_religious_text:0 "Bible"
+ hermandad_religious_head_title:0 "Viejo Roble"
+ hermandad_religious_head_title_name:0 "Concejo de Caridad"
+
+ hermandad_devotee:0 "catechist"
+ hermandad_devotee_plural:0 "catchists"
+
+ hermandad_priest_male:0 "padre"
+ hermandad_priest_male_plural:0 "padres"
+ hermandad_priest_female:0 "madre"
+ hermandad_priest_female_plural:0 "madres"
+ hermandad_priest_neuter:0 "parent"
+ hermandad_priest_neuter_plural:0 "parents"
+ hermandad_bishop_male:0 "viejito"
+ hermandad_bishop_male_plural:0 "viejitos"
+ hermandad_bishop_female:0 "viejita"
+ hermandad_bishop_female_plural:0 "viejitas"
+ hermandad_bishop_neuter:0 "elder"
+ hermandad_bishop_neuter_plural:0 "elders"
+
+ hermandad_divine_realm:0 "Unchained Heaven"
+ hermandad_positive_afterlife:0 "the New Earth"
+ hermandad_negative_afterlife:0 "the Lake of Fire"
+
+ hermandad_death_god_name:0 "Death"
+ hermandad_death_god_name_possessive:0 "Death's"
+
+ ghw_gran_huelga:0 "Gran Huelga"
+ ghws_gran_huelgas:0 "Gran Huelgas"
+
+ hermandad_witch_god_name:0 "Antichrist"
+ 
+ armenian_apostolic:0 "Armenian Union Church"
+ armenian_apostolic_desc:0 "In the wake of the [Concept('the_event_ate','Deluge')|E], the Armenian Apostolic churches of the diaspora found themselves cut off from the Catholicos of their far-off homeland. In order to survive this new world, the various churches convened to establish a ‘Subcatholicos’ based in Los Angeles. While effectively taking the place of the Catholicos of Armenia in terms of hierarchical relationship to the priests and primates of Armenian Apostolic Churches, the Subcatholicos makes no claim to replace the position entirely, merely acting in its stead. The ancient church of the first Christian kingdom has managed to survive, but the continued independence of the Subcatholicos has been increasingly threatened by the rise of the Californian Empire, whose attempts to politically and theologically subjugate the Apostolic Churches have been resisted so far."
+ armenian_apostolic_adj:0 "Armenian Apostolic"
+ armenian_apostolic_adherent:0 "Armenian Apostolic"
+ armenian_apostolic_adherent_plural:0 "Armenian Apostolics"
+ 
+ armenian_health_god_name:0 "Saint Blaise"
+ armenian_health_god_name_possessive:0 "Saint Blaise's"
+ armenian_fertility_god_name:0 "Asdvadzamayr-Asdvadzadzin"
+ armenian_fertility_god_name_possessive:0 "Asdvadzamayr-Asdvadzadzin's"
+ armenian_wealth_god_name:0 "Saint Meletius"
+ armenian_wealth_god_name_possessive:0 "Saint Meletius'"
+ armenian_knowledge_god_name:0 "Saint Gregory the Illuminator"
+ armenian_knowledge_god_name_possessive:0 "Saint Gregory the Illuminator's"
+ armenian_war_god_name:0 "Saint Tiridates the Great"
+ armenian_war_god_name_possessive:0 "Saint Tiridates the Great's"
+ armenian_devil_name:0 "Satanan"
+ armenian_devil_name_possessive:0 "Satanan's"
+ armenian_religious_head_title:0 "Subcatholicos"
+ armenian_religious_head_title_name:0 "Armenian Diocesan Union"
+ 

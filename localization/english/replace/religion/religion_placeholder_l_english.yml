@@ -1,0 +1,19 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ tenets_placeholder_1_name:1 "Placeholder 1"
+ tenets_placeholder_1:1 "This a placeholder so we can add in approved faiths that haven't been fully proposed"
+ doctrine_parameter_placeholder_1_active:1 "Enables nothing"
+ 
+ tenets_placeholder_2_name:1 "Placeholder 2"
+ tenets_placeholder_2:1 "This a placeholder so we can add in approved faiths that haven't been fully proposed"
+ doctrine_parameter_placeholder_2_active:1 "Enables nothing"
+ 
+ tenets_placeholder_3_name:1 "Placeholder 3"
+ tenets_placeholder_3:1 "This a placeholder so we can add in approved faiths that haven't been fully proposed"
+ doctrine_parameter_placeholder_3_active:1 "Enables nothing"

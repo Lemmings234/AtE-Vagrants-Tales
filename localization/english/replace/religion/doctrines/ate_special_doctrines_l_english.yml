@@ -1,0 +1,223 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+
+ rf_anachronous:0 "Anachronous"
+ ananchronous_hostility_doctrine_name:0 "Anachronous"
+ ananchronous_hostility_doctrine_desc:0 "The following religions are Anachronous:\n[GetReligionFamily('rf_anachronous').GetReligions]"
+
+ afrosyncretic_hostility_doctrine_name:0 "Afro-Syncretic Hostility"
+ afrosyncretic_hostility_doctrine_desc:0 "Afro-Syncretic Hostility"
+
+ rf_harmonic:0 "Harmonic"
+ harmonic_hostility_doctrine_name:0 "Harmonic"
+ harmonic_hostility_doctrine_desc:0 "The following religions are Harmonic:\n[GetReligionFamily('rf_harmonic').GetReligions]"
+ 
+ rf_amerindian:0 "Amerindian"
+ amerindian_hostility_doctrine_name:0 "Amerindian"
+ amerindian_hostility_doctrine_desc:0 "The following religions are Amerindian:\n[GetReligionFamily('rf_amerindian').GetReligions]"
+
+ mesoamerican_hostility_doctrine_name:0 "Mesoamerican Hostility"
+ mesoamerican_hostility_doctrine_desc:0 "Mesoamerican Hostility"
+
+ # New Funeral Doctrines
+ doctrine_funeral_water_burial_name:0 "Water Burial"
+ doctrine_funeral_water_burial_desc:0 "The current of water, be it the greatest ocean or the smallest stream, carries in its flows the spirits of the dead. It is our duty to send them on their way."
+ doctrine_parameter_water_burials_active:2 "Conducting a [funeral|E] increases [vassal|E] Opinion"
+
+#amerindian
+
+ special_doctrine_is_amerindian_faith_name:0 "Indigenous Wisdom"
+ is_amerindian_faith_name:0 "$special_doctrine_is_amerindian_faith_name$"
+ special_doctrine_is_amerindian_faith_desc:0 "Though they may have greatly deviated, it is important to recognise the common ancestry we have with faiths that apply our teachings to their doctrine."
+ doctrine_parameter_hostility_override_tenet_native_syncretism:0 "Non-Amerindian [faiths|E] with the $tenet_native_syncretism_name$ tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#andean
+
+ special_doctrine_earth_mother_name:0 "Earth Mother"
+ special_doctrine_earth_mother_desc:0 "While it has many names in different cultures, the core of our beliefs in Mother Earth, by whichever name it goes, and wherever it is found."
+ doctrine_parameter_hostility_override_special_doctrine_earth_mother:2 "Considers [faiths|E] with the Earth Mother doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_naked_priests:2 "Considers [faiths|E] with the Naked Priests doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#astronomer
+
+ doctrine_astronomer_tolerance_name:0 "Astronomer Tolerance"
+ special_doctrine_spiritualistic_cosmology_name:0 "Spiritualistic Cosmology"
+ special_doctrine_spiritualistic_cosmology_desc:0 "We believe that the extraterrestrials which visit humanity possess a pure spiritual truth, which has historically been misinterpreted by earth dwellers. Once humanity is aware of the pure truth, they too shall ascend and join the enlightened galactic community."
+ doctrine_parameter_hostility_override_special_doctrine_spiritualistic_cosmology:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_spiritualistic_cosmology').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_atheistic_cosmology_name:0 "Atheistic Cosmology"
+ special_doctrine_atheistic_cosmology_desc:0 "We believe in an atheistic worldview, where the entities that have been mistaken as divine by outsiders are as mortal as anyone who dwells on the earth, having achieved their power by rejecting the primitive trappings of their own cultures."
+ doctrine_parameter_hostility_override_special_doctrine_atheistic_cosmology:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_atheistic_cosmology').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_harmonic_hostility_doctrine:0 "Harmonic [faiths|E] are considered only [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_anachronous_hostility_doctrine:0 "Anachronous [faiths|E] are considered only [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_digital_hostility_doctrine:0 ""
+ doctrine_parameter_harmonic_hostility_exemption:0 ""
+ 
+#atlantean
+
+ special_doctrine_heirs_of_atlantis_name:0 "Heirs of Atlantis"
+ special_doctrine_heirs_of_atlantis_desc:0 "The Guruists are nothing more than usurpers, a crude imitation of the glory that was Atlantis."
+ 
+
+#buddhist
+ 
+ special_doctrine_noble_eightfold_path_name:0 "Noble Eightfold Path"
+ special_doctrine_noble_eightfold_path_desc:0 "Right view, right resolve, right speech, right conduct, right livelihood, right effort, right mindfulness, and right samadhi."
+ doctrine_parameter_hostility_override_special_doctrine_noble_eightfold_path:2 "Considers [faiths|E] with the Noble Eightfold Path doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_is_harmonic_faith_name:0 "Multireligious Harmony"
+ is_harmonic_faith_name:0 "$special_doctrine_is_harmonic_faith_name$"
+ special_doctrine_is_harmonic_faith_desc:0 "Together we are bound not by a single faith, but by the many faiths that make up the religious fabric of our society. Though we may call ourselves different names and follow different paths, some from outside our own belief system have learned to coexist in our society as if they were one of us."
+ doctrine_parameter_hostility_override_tenet_harmonic_syncretism:0 "Non-Harmonic [faiths|E] with the $tenet_harmonic_syncretism_name$ tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ harmonic_syncretic_recipient_opinion_active_opinion_name:0 "$faith_syncretic_opinion_active_control$"
+ harmonic_syncretic_actor_opinion_active_opinion_name:0 "$faith_syncretic_opinion_active_control$"
+
+ doctrine_parameter_hostility_override_special_doctrine_is_harmonic_faith:0 ""
+
+ doctrine_parameter_harmonic_syncretic_actor_opinion_active:0 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Harmonic [faiths|E]"
+ doctrine_parameter_opinion_of_harmonic_syncretic_recipient_opinion_active:0 ""
+ doctrine_parameter_harmonic_syncretic_recipient_opinion_active:0 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have the $tenet_harmonic_syncretism_name$ [core_tenet|E]"
+ doctrine_parameter_opinion_of_harmonic_syncretic_actor_opinion_active:0 ""
+ doctrine_parameter_is_harmonic_faith_bilateral_loc_override:0 "Considers Harmonic [faiths|E], and is considered by Harmonic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ 
+#christian
+
+ SPECIAL_DOCTRINE_RENDER_UNTO_CAESAR_CANNOT_PICK:0 "In splitting with the Church of the Nazarene we have upset the delicate harmony of the Pacific East."
+ SPECIAL_DOCTRINE_LATIN_RITE_CANNOT_PICK:0 "In openly breaking from the mainline Latin Rite we are no longer regarded as an acceptable deviation by Protestants."
+ SPECIAL_DOCTRINE_MAINSTREAM_PROTESTANT_CANNOT_PICK:0 "With our open defiance of the traditional churches we are unlikely to find allies amongst the Catholic diaspora."
+ DOCTRINES_CATHOLIC_TRIGGER:0 "We must have either the Latin Rite or Catholic Heritage doctrines."
+ DOCTRINES_PROTESTANT_TRIGGER:0 "We must have either the Mainstream Protestant or Protestant Background doctrines."
+ SPECIAL_DOCTRINE_SAINTLY_DEATH_TRIGGER:0 "Must have the Saintly Death doctrine."
+ #doctrine_parameter_hostility_override_tenet_pastoral_isolation:0 "Considers [faiths|E] with the Pastoral Isolation tenet to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ #doctrine_parameter_hostility_override_tenet_pastoral_isolation_protestant:0 "Considers [faiths|E] with the pastoral_isolation_protestant_name tenet to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ FAITH_DOCTRINES_THEOLOGY:0 "Theology"
+ doctrine_baptism_name:0 "Baptism"
+ doctrine_baptism_none_name:0 "No Baptism"
+ doctrine_baptism_none_desc:0 "Our faith does not practice the sacrament of Baptism."
+ doctrine_baptism_infant_name:0 "Infant Baptism"
+ doctrine_baptism_infant_desc:0 "Baptism should be practiced on any who may recieve it, even those who are newly born."
+ doctrine_baptism_accountability_name:0 "Accountability Baptism"
+ doctrine_baptism_accountability_desc:0 "The sacrament of Baptism is reserved for those who we may be sure know of good and evil, no later than the age of eight."
+ doctrine_baptism_believers_name:0 "Believer's Baptism"
+ doctrine_baptism_believers_desc:0 "Baptism is only for those who have professed their faith in Christ."
+
+#dene
+
+ special_doctrine_na_dene_traditions_name:0 "Na-Dené Traditions"
+ special_doctrine_na_dene_traditions_desc:0 "Although they are separated from us by long distances, we remember our distant relatives in heritage and culture and respect them."
+ doctrine_parameter_hostility_override_special_doctrine_na_dene_traditions:2 "Considers [faiths|E] with the $special_doctrine_na_dene_traditions_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_dene_tolerance_name:0 "Dene Tolerance"
+
+#guruist
+
+ doctrine_karmic_tolerance_name:0 "Karmic Tolerance"
+ special_doctrine_manyfold_path_name:0 "Manyfold Path"
+ special_doctrine_manyfold_path_desc:0 "The path to enlightenment is twisted and varied, and we can hardly blame others for getting it wrong."
+ doctrine_parameter_hostility_override_special_doctrine_manyfold_path:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_manyfold_path').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_manyfold_concubine_doctrine: "The [GetTrait('child_of_concubine_female').GetName( GetNullCharacter )] [trait|E] has no penalties"
+
+#islam
+
+ doctrine_abbasiyya_tolerance:0 "Abbasiyya Tolerance"
+
+ doctrine_muslim_tolerance_name:0 "Islamic Tolerance"
+ muslim_tolerance_sunni_doctrine_name:0 "Sunni"
+ muslim_tolerance_sunni_doctrine_desc:0 "Despite the ravages of the [Concept('the_event_ate','Event')|E], we continue to maintain the tradition of the Sunnah, recognize the Khutub Al Sittah as holy and believe the first four Caliphs are the rightful successors of Muhammad."
+
+ muslim_tolerance_shia_doctrine_name:0 "Shia"
+ muslim_tolerance_shia_doctrine_desc:0 "Through many hardships and times of change, we still hold true that Ali was the rightfully named heir to Muhammad, and it is from his lineage that spiritual authority of the Ummah can be traced."
+ 
+ muslim_tolerance_non_denominational_doctrine_name:0 "Bila Tayifa"
+ muslim_tolerance_non_denominational_doctrine_desc:0 "In the wake of the world being fundamentally altered by the [Concept('the_event_ate','Event')|E], we have chosen to put aside sectarian disputes and come together for the good of the Ummah."
+
+ muslim_tolerance_ahmadi_doctrine_name:0 "Ahmadi"
+ muslim_tolerance_ahmadi_doctrine_desc:0 "In our effort to bring a rennaissance to the Ummah, many of our brothers in faith have come to view us with distrust and hostility. Nevertheless, we accept them as fellow Muslims that may eventually see the error of their ways."
+
+ muslim_tolerance_american_doctrine_name:0 "Amriki"
+ muslim_tolerance_american_doctrine_desc:0 "Our faith is defined by its genesis in the throes of the [Concept('the_event_ate','Event')|E] and the shaping of the Americas, rather than tracing its origin to far off lands. Our interpretation of Islam has caused us to be branded as heretics by other Muslims, but we will wear this label proudly."
+
+ doctrine_parameter_hostility_override_muslim_tolerance_sunni_doctrine:0 "Considers [GetFaithDoctrine('muslim_tolerance_sunni_doctrine').GetBaseName] [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_hostility_override_muslim_tolerance_shia_doctrine:0 "Considers [GetFaithDoctrine('muslim_tolerance_shia_doctrine').GetBaseName] [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_hostility_override_muslim_tolerance_non_denominational_doctrine:0 "Considers [faiths|E] with the [GetFaithDoctrine('muslim_tolerance_non_denominational_doctrine').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_hostility_override_muslim_tolerance_ahmadi_doctrine:0 "Considers [GetFaithDoctrine('muslim_tolerance_ahmadi_doctrine').GetBaseName] [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_hostility_override_muslim_tolerance_american_doctrine:0 "Considers [GetFaithDoctrine('muslim_tolerance_american_doctrine').GetBaseName] [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+
+ special_doctrine_occidental_coexistence_name:0 "Occidental Coexistence"
+ special_doctrine_occidental_coexistence_desc:0 "Our loyalty to the Californian emperors has allowed our people to flourish." 
+ doctrine_parameter_hostility_override_special_doctrine_occidental_coexistence:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_occidental_coexistence').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#judaism
+
+ special_doctrine_shema_yisrael_name:0 "Shema Yisrael"
+ special_doctrine_shema_yisrael_desc:0 "Although we Jews may disagree on the particulars of each other's practices, we are united in our worship of the One God of Israel. We must set aside our differences in these strange times, for we are all children of Israel."
+ doctrine_parameter_hostility_override_special_doctrine_shema_yisrael:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_shema_yisrael').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_righteous_among_gentiles_name:0 "Righteous Among Gentiles"
+ special_doctrine_righteous_among_gentiles_desc:0 "Although they do not follow the Talmud, the Guru followers have shown themselves to be righteous."
+ doctrine_parameter_hostility_override_special_doctrine_righteous_among_gentiles:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_righteous_among_gentiles').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_temp_jewish_apostate_name:0 "$special_doctrine_apostate_name$"
+ special_doctrine_temp_jewish_apostate_desc:0 "$special_doctrine_apostate_desc$"
+
+#medicine
+
+ doctrine_medicine_tolerance_name:0 "Medicine Tolerance"
+
+#nanakapanthi (Sikh)
+ 
+ special_doctrine_ik_onkar_name:0 "Ik Onkar"
+ special_doctrine_ik_onkar_desc:0 "There is only one Creator; this is a central tenet of Sikh faith. With this in mind, new and old relationships alike have blossomed in these strange times, and shown us that there are those among our diverse neighbors who are not necessarily our enemies." 
+ doctrine_parameter_hostility_override_special_doctrine_ik_onkar:0 "Considers Sikh [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ 
+ doctrine_parameter_hostility_override_special_doctrine_natural_order:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_natural_order').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#naturalist
+ doctrine_naturalist_tolerance_name:0 "Naturalist Tolerance"
+ special_doctrine_natural_order_name:0 "Natural Order"
+ special_doctrine_natural_order_desc:0 "While the Californian Guruists' systems are a twisted mockery of the Natural Order laid out by Mother Earth, living with practitioners for centuries has shown us there is considerable merit in the Dharmic and Indigenous perspectives." 
+ doctrine_parameter_hostility_override_amerindian_hostility_doctrine:0 "Amerindian [faiths|E] are considered only [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ #doctrine_athletic_tolerance_name:0 "Friendly Competition"
+ special_doctrine_hang_loose_name:0 "Hang Loose"
+ special_doctrine_hang_loose_desc:0 "Everybody should just chill, get along and enjoy some outdoor activity. There is no better way to honor nature than the pursuit of athletics!"
+ doctrine_parameter_hostility_override_special_doctrine_hang_loose:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_hang_loose').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+#peyotist
+ 
+ special_doctrine_seven_fires_name:0 "Seven Fires"
+ special_doctrine_seven_fires_desc:0 "The Seven Fires Prophecy was handed to the Anishinaabeg by their ancient prophets leading them on their long migration west. Now their descendants keep the ancient traditions to fulfill the Seventh and Final prophecy."
+ doctrine_parameter_hostility_override_special_doctrine_seven_fires:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_seven_fires').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ 
+#roscrucian
+ 
+ doctrine_parameter_hostility_override_abrahamic_hostility_doctrine:0 "Considers Abrahamic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_rosicrucian_tolerance_name:0 "Rosicrucian Tolerance"
+
+#trailwalker (all of this is defunct, but it's here for consistency)
+ 
+ doctrine_trailwalker_hero_name:0 "Hero"
+ doctrine_colt_name:0 "Colt Worship"
+ doctrine_colt_desc:0 "The Colt is the son of Iron Horse and Lockwood, the master of cavalry and nomads."
+ doctrine_wild_bill_name:0 "Wild Bill"
+ doctrine_wild_bill_desc:0 "Wild Bill was the greatest gunslinger to walk upon the range, who had powers unsurpassed by any mortal man. But for all his might, he was full of violence and destruction. The devotees of Wild Bill believe that his soul went into the Ghost Country, and will come again to the Range."
+ doctrine_the_marshal_name:0 "The Marshal"
+ doctrine_the_marshal_desc:0 "The Marshal is a god of law and justice, an intercessor between the Man in Black, the Almighty, and mankind. A former slave, he accepted the Man in Black's power and used it to cleanse Oklahoma of banditry and wickedness, even facing down his own son. For his devotion, he was raised up to godhood at the end of his days."
+  
+ FAITH_DOCTRINES_FOLK_TRAILS:0 "Folk Trails"
+ doctrine_hero_name:0 "Cult of the Hero"
+
+#universal
+
+ special_doctrine_progressive_revelation_name:0 "Progressive Revelation"
+ special_doctrine_progressive_revelation_desc:0 "All religions are part of the same universal spiritual truth, which has merely been expressed in different ways by different teachers. Therefore, we should treat followers of other traditions with kindness and understanding."
+
+#Occultists
+
+doctrine_occultist_guardians_name:0 "Guardians against the Old Ones"
+doctrine_occultist_guardians_desc:0 "While other Occultists may use different rituals to protect against the Occult, they are still share our goal of defending this New World against the predations of the Old Ones, and for that, they command our utmost respect."

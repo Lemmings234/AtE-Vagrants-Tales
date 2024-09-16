@@ -1,0 +1,29 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ # New Funeral Doctrines
+ doctrine_funeral_water_burial_name:0 "Water Burial"
+ doctrine_funeral_water_burial_desc:0 "The current of water, be it the greatest ocean or the smallest stream, carries in its flows the spirits of the dead. It is our duty to send them on their way."
+ doctrine_parameter_water_burials_active:2 "The [funeral|E] [activity|E] increases [vassal|E] Opinion"
+
+ doctrine_funeral_celebration_of_life_name:0 "Celebration of Life"
+ doctrine_funeral_celebration_of_life_desc:0 "Death is not a time of sadness, but a time to celebrate the life of the passed and the joy they brought to our lives. They would want us to be happy, after all."
+ doctrine_parameter_celebration_of_life_funeral:2 "The [funeral|E] [activity|E] will have Feast events and offer many more opportunities to lose [stress|E], but will provide no [piety|E]"
+
+ doctrine_funeral_consecrative_name:0 "Consecrative"
+ doctrine_funeral_consecrative_desc:0 "The honored dead deserved to be remembered for their deeds in the name of [ROOT.Faith.PantheonTerm] and sacrifices for us all. They will be publicly honored in a state ceremony, and then laid to rest in a place where future generations can come to remember them."
+ doctrine_parameter_consecrative_funeral:2 "The [funeral|E] [activity|E] costs more gold and offers more opportunities to gain [legitimacy|E]"
+
+ doctrine_funeral_nature_burial_name:0 "Nature Burial"
+ doctrine_funeral_nature_burial_desc:0 "We arose from the earth, and in death we are returned to the soil. Rather than imprison the body in a casket or destroy it in fire, the body is interred in the earth simply, so it might continue the natural cycle. Plants may be seeded above the location, so life can spring from death."
+ doctrine_parameter_nature_burials_active:0 "The [funeral|E] [activity|E], on conclusion, applies a [county_modifier|E] to the [location|E] of the [activity|E]"
+
+ doctrine_funeral_taboo_name:0 "Taboo"
+ doctrine_funeral_taboo_desc:0 "Death is something to be feared and reviled. The unclean bodies of the deceased must be disposed of quickly, and then those close to them must clean themselves of the whole affair, lest [ROOT.Faith.DeathDeityName] bring ill omens upon them."
+ doctrine_parameter_cannot_do_funeral_activity:0 "Cannot conduct nor attend [funeral|E] [activities|E]"
+

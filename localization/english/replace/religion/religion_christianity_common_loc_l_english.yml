@@ -1,0 +1,76 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ #Common Christian Localization
+ #christianity_religion:0 "Christianity"
+ #christianity_religion_adj:0 "Christian"
+ #christianity_religion_adherent:0 "Christian"
+ #christianity_religion_adherent_plural:0 "Christians"
+ #christianity_religion_desc:0 "Christianity has been fundamentally altered by the [Concept('the_event_ate','Deluge')|E], splintering into innumerable new sects which sometimes diverge far from traditional orthodoxy. However, they are united in their belief that Jesus Christ was the Messiah, the only begotten son of God who died for mankind's sins on the cross. Christian sects believe that, if one accepts Jesus as their savior and repents for their sins, they can join him in Heaven."
+ 
+ christianity_high_god_name:0 "God"
+ christianity_high_god_name_possessive:0 "God's"
+ christianity_high_god_name_alternate:0 "the Lord"
+ christianity_high_god_name_alternate_possessive:0 "the Lord's"
+ chistianity_good_god_jesus:0 "$christianity_health_god_name$"
+ chistianity_good_god_christ:0 "Christ"
+ christianity_devil_name:0 "Satan"
+ christianity_devil_name_possessive:0 "Satan's"
+ christianity_evil_god_lucifer:0 "Lucifer"
+ christianity_evil_god_beelzebub:0 "Beelzebub"
+ christianity_evil_god_the_devil:0 "the Devil"
+ christianity_death_deity_name:0 "Death"
+ christianity_death_deity_name_possessive:0 "Death's"
+ christianity_house_of_worship:0 "church"
+ christianity_house_of_worship_plural:0 "churches"
+ christianity_religious_symbol:0 "cross"
+ christianity_religious_text:0 "scriptures"
+ #christianity_religious_head_title:0 "Pope"
+ #christianity_religious_head_title_name:0 "Papacy"
+ christianity_religious_head_title:0 "Patriarch"
+ christianity_religious_head_title_name:0 "Patriarchate"
+ christianity_devotee_male:0 "monk"
+ christianity_devotee_male_plural:0 "monks"
+ christianity_devotee_female:0 "nun"
+ christianity_devotee_female_plural:0 "nuns"
+ christianity_devotee_neuter:0 "monastic"
+ christianity_devotee_neuter_plural:0 "monastics"
+ christianity_priest_male:0 "priest"
+ christianity_priest_male_plural:0 "priests"
+ christianity_priest_alternate_plural:0 "clergy"
+ christianity_bishop:0 "bishop"
+ christianity_bishop_plural:0 "bishops"
+ christianity_positive_afterlife:0 "heaven"
+ christianity_negative_afterlife:0 "hell"
+
+ christianity_creator_god_name:0 "$christianity_high_god_name$"
+ christianity_creator_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_health_god_name:0 "Jesus"
+ christianity_health_god_name_possessive:0 "Jesus'"
+ christianity_fertility_god_name:0 "$christianity_high_god_name$"
+ christianity_fertility_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_wealth_god_name:0 "$christianity_high_god_name$"
+ christianity_wealth_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_household_god_name:0 "$christianity_health_god_name$"
+ christianity_household_god_name_possessive:0 "$christianity_health_god_name_possessive$"
+ christianity_fate_god_name:0 "$christianity_high_god_name$"
+ christianity_fate_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_knowledge_god_name:0 "$christianity_high_god_name$"
+ christianity_knowledge_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_war_god_name:0 "$christianity_high_god_name$"
+ christianity_war_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_trickster_god_name:0 "$christianity_high_god_name$"
+ christianity_trickster_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_night_god_name:0 "$christianity_high_god_name$"
+ christianity_night_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ christianity_water_god_name:0 "$christianity_health_god_name$"
+ christianity_water_god_name_possessive:0 "$christianity_health_god_name_possessive$"
+
+ jesus_spanish_name:0 "Jesús"
+
+ 

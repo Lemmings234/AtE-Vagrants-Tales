@@ -1,0 +1,191 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+ petrobaron_religion:1 "Petrobaron"
+ petrobaron_religion_adj:1 "Petrobaron"
+ petrobaron_religion_adherent:1 "Baron"
+ petrobaron_religion_adherent_plural:1 "Baron"
+ petrobaron_religion_desc:1 "The Petrobarons worship the ground of the Americas and, more importantly, what lies beneath it. A wellspring of divine energy, the power to shape the future itself, lies just below the surface, and the tycoons of the Old World harnessed it to make their fantasies reality. Petrobarons emulate those barons both in their never-ending quest to rediscover how to wield the now-hidden energies of the world and in their insatiable desire to bend that power to their own interests."
+
+ petrobaron_high_god_name:0 "the Source"
+ petrobaron_high_god_name_possessive:0 "the Source's"
+ petrobaron_devil_name:0 "Extinguishment"
+ petrobaron_devil_name_possessive:0 "Extinguishment's"
+ petrobaron_death_deity_name:0 "$petrobaron_devil_name$"
+ petrobaron_death_deity_name_possessive:0 "$petrobaron_devil_name_possesive$"
+ petrobaron_religious_symbol:0 "oildrop"
+ petrobaron_religious_text:0 "Secrets of the Flame"
+ petrobaron_divine_realm:0 "the Lifeblood of the World"
+ petrobaron_negative_afterlife:0 "the Abyss"
+ petrobaron_house_of_worship:0 "site"
+ petrobaron_house_of_worship_plural:0 "sites"
+ petrobaron_religious_head_title:0 "Baron-of-Barons"
+ petrobaron_religious_head_title_name:0 "Association"
+ petrobaron_devotee:0 "seeker"
+ petrobaron_devoteeplural:0 "seekers"
+ petrobaron_priest:0 "soiltapper"
+ petrobaron_priest_plural:0 "soiltappers"
+ ghw_petrobaron:0 "Great Oil Rush"
+ ghws_petrobaron:0 "Great Oil Rushes"
+
+ petrobaron_pantheon_forces_of_the_earth:0 "the Forces of the Earth"
+ petrobaron_creator_god_name:0 "$petrobaron_high_god_name$"
+ petrobaron_creator_god_name_possessive:0 "$petrobaron_high_god_name_possessive$"
+ petrobaron_health_god_name:0 "the Inner Flame"
+ petrobaron_health_god_name_possessive:0 "the Inner Flame's"
+ petrobaron_fertility_god_name:0 "Springwell"
+ petrobaron_fertility_god_name_possessive:0 "Springwell's"
+ petrobaron_wealth_god_name:0 "$petrobaron_health_god_name$"
+ petrobaron_wealth_god_name_possessive:0 "$petrobaron_health_god_name_possessive$"
+ petrobaron_household_god_name:0 "Carrier"
+ petrobaron_household_god_name_possessive:0 "Carrier's"
+ petrobaron_fate_god_name:0 "the Well of Life"
+ petrobaron_fate_god_name_possessive:0 "the Well of Life's"
+ petrobaron_knowledge_god_name:0 "$petrobaron_high_god_name$"
+ petrobaron_knowledge_god_name_possessive:0 "$petrobaron_high_god_name_possessive$"
+ petrobaron_war_god_name:0 "Volatile Flame"
+ petrobaron_war_god_name_possessive:0 "Volatile Flame's"
+ petrobaron_trickster_god_name:0 "Soot"
+ petrobaron_trickster_god_name_possessive:0 "Soot"
+ petrobaron_night_god_name:0 "$petrobaron_trickster_god_name$"
+ petrobaron_night_god_name_possessive:0 "$petrobaron_trickster_god_name_possessive$"
+ petrobaron_water_god_name:0 "$petrobaron_fertility_god_name$"
+ petrobaron_water_god_name_possessive:0 "$petrobaron_fertility_god_name_possessive$"
+ 
+ petrobaron_witch_god:0 "the Inner Flame"
+
+ soiltapper:0 "Soiltapping"
+ soiltapper_adj:0 "Soiltapper"
+ soiltapper_adherent:0 "Soiltapper"
+ soiltapper_adherent_plural:0 "Soiltappers"
+ soiltapper_desc:0 "The Old World ran on fire and smoke, it is said, fueled by a mystical Flame which could burn forever. Mankind prospered under the guidance of those who tended and fed the fires, but those who feared its might connived to snuff it out. They nearly succeeded - but the fire still burns in the hearts of the Soiltappers. Believing themselves to be the last vessels of the Flame in a world gone dark, Soiltappers seek out the wellsprings from which the first spark emerged from beneath the earth. Militant in their cause, their fervent searches, which often take them across vast distances, lead them to clash with nonbelievers over territories the Soiltappers hope might be their deliverance."
+
+ tycoon:0 "Tycoons of the Apotheosis"
+ tycoon_adj:0 "Tycoon"
+ tycoon_adherent:0 "Tycoon"
+ tycoon_adherent_plural:0 "Tycoons"
+ tycoon_desc:0 "In the days before the Depletion, men of caliber and strength took the black gold, the lifeblood of the earth itself, and used it to fuel their ascension to godhood, gaining dominion over Old America above any petty emperor or president. When the soil was sucked dry and the land shivered and died, the old Tycoons left, but some discovered a new way to become divine - in place of black gold, red gold. Fancying themselves the rightful gods and rulers of the world, the new Tycoons regularly harvest the lifeblood of faithful and heretic alike in their quest for temporal and spiritual domination. Tycoon society is strictly hierarchical and tightly controlled, with all heeding the orders of their nascent gods."
+ 
+ tycoon_high_god_name:0 "Tycoon Rockefeller"
+ tycoon_high_god_name_possessive:0 "Tycoon Rockefeller's"
+ tycoon_high_god_name_alternate:0 "the Kraken"
+ tycoon_high_god_name_alternate_possessive:0 "the Kraken's"
+
+ tycoon_creator_god_name:0 "the Black Gold"
+ tycoon_creator_god_name_possessive:0 "the Black Gold's"
+
+ tycoon_health_god_name:0 "the Red Gold"
+ tycoon_health_god_name_possessive:0 "the Red Gold's"
+
+ tycoon_fertility_god_name:0 "the Kraken"
+ tycoon_fertility_god_name_possessive:0 "the Kraken's"
+
+ tycoon_wealth_god_name:0 "the Consortium"
+ tycoon_wealth_god_name_possessive:0 "the Consortium's"
+
+ tycoon_household_god_name:0 "the Seven Sisters"
+ tycoon_household_god_name_possessive:0 "the Seven Sisters'"
+
+ tycoon_fate_god_name:0 "the Saurian"
+ tycoon_fate_god_name_possessive:0 "the Saurian's"
+
+ tycoon_knowledge_god_name:0 "the Investors"
+ tycoon_knowledge_god_name_possessive:0 "the Investors'"
+
+ tycoon_war_god_name:0 "the Kraken"
+ tycoon_war_god_name_possessive:0 "the Kraken's"
+
+ tycoon_trickster_god_name:0 "Subversives"
+ tycoon_trickster_god_name_possessive:0 "Subversives'"
+
+ tycoon_night_god_name:0 "the Black Gold"
+ tycoon_night_god_name_possessive:0 "the Black Gold's"
+
+ tycoon_water_god_name:0 "the Black Gold"
+ tycoon_water_god_name_possessive:0 "the Black Gold's"
+
+ tycoon_pantheon:0 "the Seven Sisters"
+
+ tycoon_devil_name:0 "Trust-Bustin' Teddy"
+ tycoon_devil_name_possessive:0 "Trust-Bustin' Teddy's"
+
+ tycoon_religious_symbol:0 "gold"
+ tycoon_religious_text:0 "Edicts of the Tycoons"
+ tycoon_religious_head_title:0 "Tycoon-of-Tycoons"
+ tycoon_religious_head_title_name:0 "Tycoonship"
+
+ tycoon_devotee:0 "laborer"
+ tycoon_devotee_plural:0 "laborers"
+
+ tycoon_priest:0 "manager"
+ tycoon_priest_plural:0 "managers"
+ tycoon_bishop:0 "overseer"
+ tycoon_bishop_plural:0 "overseer"
+
+ tycoon_divine_realm:0 "Godhood"
+ tycoon_negative_afterlife:0 "Obscurity"
+
+ tycoon_death_deity_name:0 "Trust-Bustin' Teddy"
+ tycoon_death_deity_name_possessive:0 "Trust-Bustin' Tedy's"
+
+ tycoon_witch_god_name:0 "the Seven Sisters"
+ 
+
+
+ petromancy:0 "Petromancy"
+ petromancy_adj:0 "Petromancer"
+ petromancy_adherent:0 "Petromancer"
+ petromancy_adherent_plural:0 "Petromancers"
+ petromancy_desc:0 "Petromancers believe that the Eternal Flame which burns in each individual's soul did not come from underground; rather it is humanity's ambition and lust for success that lit the fire of the heart. This power can be amplified with "aetheroleum", specially crafted herbal liquid mixtures stored in special decanters. These holy vials are kept on a person to enhance existing connections to fragments of the World's Soul, the numen which once acted as the fuel for the Ancients. Adherents ruthlessly compete to produce and obtain the highest quality mixtures, as the art of aetheroleum production is believed to be the key to reigniting the fiery vitality of the World's Soul."
+
+ petromancy_high_god_name:0 "The World's Soul"
+ petromancy_high_god_name_possessive:0 "The World's Soul's"
+ petromancy_high_god_name_alt:0 "The Soul of the World"
+ petromancy_high_god_name_alt_possessive:0 "The Soul of the World's"
+ petromancy_witch_god:0 "Soulfire"
+ petromancy_devil_name:0 "Corruption"
+ petromancy_devil_name_possessive:0 "Corruption's"
+ petromancy_death_deity_name:0 "$petromancy_devil_name$"
+ petromancy_death_deity_name_possessive:0 "$petromancy_devil_name_possesive$"
+ petromancy_religious_symbol:0 "soulfire"
+ petromancy_religious_text:0 "Aetheroleum Instructions"
+ petromancy_divine_realm:0 "the Soul of the World"
+ petromancy_positive_afterlife:0 "Rekindlement"
+ petromancy_negative_afterlife:0 "Extinguishment"
+ petromancy_house_of_worship:0 "holy distillery"
+ petromancy_house_of_worship_plural:0 "holy distilleries"
+ petromancy_religious_head_title:0 "Essential Baron"
+ petromancy_religious_head_title_name:0 "High Council of Aetheroleum"
+ petromancy_devotee:0 "essentialist"
+ petromancy_devoteeplural:0 "essentialists"
+ petromancy_priest:0 "lavender spreader"
+ petromancy_priest_plural:0 "lavender spreaders"
+ petromancy_bishop:0 "eucalyptus spreader"
+ petromancy_bishop_plural:0 "eucalyptus spreaders"
+
+ petromancy_creator_god_name:0 "the Source"
+ petromancy_creator_god_name_possessive:0 "the Source's"
+ petromancy_health_god_name:0 "Soulfire"
+ petromancy_health_god_name_possessive:0 "Soulfire's"
+ petromancy_fertility_god_name:0 "Soulfire"
+ petromancy_fertility_god_name_possessive:0 "Soulfire's"
+ petromancy_wealth_god_name:0 "$petromancy_health_god_name$"
+ petromancy_wealth_god_name_possessive:0 "$petromancy_health_god_name_possessive$"
+ petromancy_household_god_name:0 "Soulfire"
+ petromancy_household_god_name_possessive:0 "Soulfire's"
+ petromancy_fate_god_name:0 "the World's Soul"
+ petromancy_fate_god_name_possessive:0 "the World's Soul's"
+ petromancy_knowledge_god_name:0 "$petromancy_high_god_name$"
+ petromancy_knowledge_god_name_possessive:0 "$petromancy_high_god_name_possessive$"
+ petromancy_war_god_name:0 "Soulfire"
+ petromancy_war_god_name_possessive:0 "Soulfire's"
+ petromancy_trickster_god_name:0 "Aetheroleum's Blessing"
+ petromancy_trickster_god_name_possessive:0 "Aetheroleum's Blessing"
+ petromancy_night_god_name:0 "$petromancy_creator_god_name$"
+ petromancy_night_god_name_possessive:0 "$petromancy_creator_god_name_possessive$"
+ petromancy_water_god_name:0 "$petromancy_creator_god_name$"
+ petromancy_water_god_name_possessive:0 "$petromancy_creator_god_name_possessive$"

@@ -1,0 +1,1072 @@
+﻿l_english:
+ doctrine_parameter_hostility_override_abrahamic_hostility_doctrine:0 "Considers Abrahamic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_loc_parameter_template_desc:0 ""
+ doctrine_parameter_loc_parameter_template_astray:0 "Click here to view what doctrines [template_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_template_hostile:0 "Click here to view what doctrines [template_hostile|L] considers to be Hostile"
+
+ # Freemasons
+ special_doctrine_masonic_origins_name:0 "Masonic Influence"
+ special_doctrine_masonic_origins_desc:0 "Our faith has its origins intertwined with the enigmatic orders of Freemasonry. While members of the faith may or may not participate in these fraternities, there is no denying their influence on our rites and practices. Our relation to these Masonic bodies has given our faith some common ground with others scattered across the world who are like us in this way, resulting in a unique interfaith tolerance."
+ doctrine_parameter_hostility_override_special_doctrine_masonic_origins:0 "Considers [faiths|E] with a background in Freemasonry to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+
+
+
+ # Platinean and friends doctrines
+ doctrine_platinean_tolerance_name:0 "Platinean Regional Tolerance"
+
+ special_doctrine_cultos_de_los_heroes_name:0 "Cultos de los Héroes"
+ special_doctrine_cultos_de_los_heroes_desc:0 "Our faith centers itself around the heroes of the past, present, and future, those who lead their nations and people to greatness and beyond."
+
+ special_doctrine_cultos_de_los_heroes_astronomer_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
+ special_doctrine_cultos_de_los_heroes_astronomer_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
+ special_doctrine_cultos_de_los_heroes_catholic_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
+ special_doctrine_cultos_de_los_heroes_catholic_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
+ special_doctrine_cultos_de_los_heroes_platinean_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
+ special_doctrine_cultos_de_los_heroes_platinean_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
+ special_doctrine_cultos_de_los_heroes_pampeano_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
+ special_doctrine_cultos_de_los_heroes_pampeano_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
+ doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_astronomer:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_catholic:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_platinean:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_pampeano:0 ""
+
+ doctrine_parameter_loc_parameter_cultos_de_los_heroes:2  "Considers [faiths|E] of different religions with the $special_doctrine_cultos_de_los_heroes_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_cantos_de_los_pueblos_name:0 "Cantos de los Pueblos"
+ special_doctrine_cantos_de_los_pueblos_desc:0 "Our faith centers itself around the people and their stories, holding the legends which shape the narrative of our nations above compare."
+
+ # Guianan and Amazonian Spirituality
+ doctrine_amazonian_tolerance_name:0 "Amazonian Regional Tolerance"
+ special_doctrine_guianan_spirituality_name:0 "Guianan Spirituality"
+ special_doctrine_guianan_spirituality_desc:0 "Though our beliefs may differ from one another, we ultimately all share a common heritage with the other faiths that hail from the Guianas."
+
+ special_doctrine_guianan_spirituality_hindu_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_hindu_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+ special_doctrine_guianan_spirituality_islam_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_islam_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+ special_doctrine_guianan_spirituality_afro_diasporic_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_afro_diasporic_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+ special_doctrine_guianan_spirituality_astronomer_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_astronomer_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+ special_doctrine_guianan_spirituality_reawakened_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_reawakened_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+
+ doctrine_parameter_opinion_of_guianan_spirituality_opinion_active:0 ""
+ doctrine_parameter_guianan_spirituality_opinion_active:0 "Mutual #positive_value +15#! [opinion|E] bonus with [faiths|E] that have the [GetFaithDoctrine('special_doctrine_guianan_spirituality_hindu').GetBaseName] or [GetFaithDoctrine('special_doctrine_amazonian_spirituality_amazonian').GetBaseName] doctrines"
+ guianan_spirituality_opinion_active_opinion_name:0 "Amazonian Regional Tolerance"
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_hindu:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_islam:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_afro_diasporic:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_astronomer:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_reawakened:0 ""
+ doctrine_parameter_loc_parameter_guianan_spirituality:0 "Considers [faiths|E] of different religions with the $special_doctrine_guianan_spirituality_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_amazonian_spirituality_name:0 "Amazonian Spirituality"
+ special_doctrine_amazonian_spirituality_desc:0 "In this vast jungle, the lungs of the planet, we are all equally humbled by the magnificence of the natural world. Though we may differ in doctrine, we can find commonality with other faiths hailing from the Amazon."
+
+ special_doctrine_amazonian_spirituality_catimbo_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_catimbo_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+ special_doctrine_amazonian_spirituality_judaism_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_judaism_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+ special_doctrine_amazonian_spirituality_afro_diasporic_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_afro_diasporic_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+ special_doctrine_amazonian_spirituality_amazonian_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_amazonian_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+ special_doctrine_amazonian_spirituality_bumbotheism_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_bumbotheism_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+ special_doctrine_amazonian_spirituality_spiritist_name:0 "$special_doctrine_amazonian_spirituality_name$"
+ special_doctrine_amazonian_spirituality_spiritist_desc:0 "$special_doctrine_amazonian_spirituality_desc$"
+
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_catimbo:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_judaism:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_afro_diasporic:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_amazonian:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_bumbotheism:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_amazonian_spirituality_spiritist:0 ""
+ doctrine_parameter_loc_parameter_amazonian_spirituality:0 "Considers [faiths|E] of different religions with the $special_doctrine_amazonian_spirituality_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_jungle_isolation_name:0 "Jungle Isolation"
+ special_doctrine_jungle_isolation_desc:0 "Our beliefs are ours and ours alone. We have defended our way of life in these vast jungles for generations, and we will continue to do so for as long as the trees stand tall."
+
+
+ #Thousand Year Resistance
+ special_doctrine_thousand_year_resistance_name:0 "$tenet_thousand_year_resistance_name$"
+ special_doctrine_thousand_year_resistance_desc:0 "$tenet_thousand_year_resistance_desc$"
+ 
+ doctrine_parameter_hostility_override_special_doctrine_thousand_year_resistance:2  "Considers [faiths|E] with the $special_doctrine_thousand_year_resistance_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+
+ # Wisdom of the Hinterlands
+ special_doctrine_wisdom_of_the_hinterlands_name:0 "Wisdom of the Hinterlands"
+ special_doctrine_wisdom_of_the_hinterlands_desc:0 "Despite following a number of disparate religions, the peoples in the fringes of [old_brazil|E] still share certain common traditions and a similar worldview."
+ 
+ doctrine_parameter_hostility_override_special_doctrine_wisdom_of_the_hinterlands:2  "Considers [faiths|E] with the $special_doctrine_wisdom_of_the_hinterlands_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Digital internal tolerance
+ doctrine_digital_internal_tolerance_name:0 "Digital Internal Tolerance"
+ special_doctrine_silicon_covens_name:0 "Silicon Covens"
+ special_doctrine_silicon_covens_desc:0 "It is in the best interest of our covens to keep friendly relations with others."
+ doctrine_parameter_hostility_override_special_doctrine_silicon_covens:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_silicon_covens').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_silicon_covens_opinion_active:0 ""
+ doctrine_parameter_opinion_of_glitch_in_the_matrix_opinion_active:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_glitch_in_the_matrix').GetBaseName] doctrine"
+
+ special_doctrine_glitch_in_the_matrix_name:0 "Glitch in the Matrix"
+ special_doctrine_glitch_in_the_matrix_desc:0 "The doctrine peddled by the Gurus is an aberration of the cosmic design, not a harmony of it. We must find our own way without them."
+ doctrine_parameter_hostility_override_special_doctrine_glitch_in_the_matrix:0 "Considers [faiths|E] with the $special_doctrine_glitch_in_the_matrix_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_glitch_in_the_matrix_opinion_active:0 ""
+ doctrine_parameter_opinion_of_silicon_covens_opinion_active:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_silicon_covens').GetBaseName] doctrine"
+
+ glitch_in_the_matrix_opinion_active_opinion_name:0 "$special_doctrine_glitch_in_the_matrix_name$"
+ silicon_covens_opinion_active_opinion_name:0 "$special_doctrine_silicon_covens_name$"
+
+ # Americanist Internal Tolerance
+ doctrine_americanist_internal_tolerance_name:0 "Americanist Electoral Politics"
+ special_doctrine_freedom_of_speech_name:0 "Freedom of Speech"
+ special_doctrine_freedom_of_speech_desc:0 "The people of Old America tolerated those who held different views, so long as they respected the Law and the Flag. We, too, must tolerate our misguided neighbors."
+ doctrine_parameter_hostility_override_special_doctrine_freedom_of_speech:2 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_freedom_of_speech').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_executive_overreach_name:0 "Executive Overreach"
+ special_doctrine_executive_overreach_desc:0 "Despite what those in Washington might say, America is not just her government. America can be found amongst the people, and so we should prioritize their interests over those of some far-off bureaucrat's."
+ doctrine_parameter_executive_overreach_opinion_active:0 ""
+ doctrine_parameter_opinion_of_executive_overreach_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_executive_overreach_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the $special_doctrine_executive_overreach_name$, [GetFaithDoctrine('special_doctrine_entrepreneurial_spirit').GetBaseName], [GetFaithDoctrine('special_doctrine_black_gold').GetBaseName], or [GetFaithDoctrine('special_doctrine_industry_trust').GetBaseName] doctrines"
+
+ executive_overreach_opinion_active_opinion_name:0 "$special_doctrine_executive_overreach_name$"
+
+ # Capitalist Internal Tolerance
+ doctrine_capitalist_internal_tolerance_name:0 "Capitalist Internal Tolerance"
+ special_doctrine_products_of_the_prophet_name:0 "Products of the Prophet"
+ special_doctrine_products_of_the_prophet_desc:0 "We recognize the supreme authority of the Prophet as the Hand of the [Concept('free_market','Market')|E] and the messenger of the [Concept('almighty_dollar','Almighty Dollar')|E]. All who deny the Catalog are communists in the eyes of the faithful, and will not reap the boon of Infinite Growth."
+ doctrine_parameter_follows_ceo:0 "Our faith recognizes the divine authority of the Chief Executive, considering the title to be our [head_of_faith|E]."
+ doctrine_parameter_hostility_override_special_doctrine_products_of_the_prophet:0  "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_products_of_the_prophet').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_free_enterprise_name:0 "Free Enterprise"
+ special_doctrine_free_enterprise_desc:0 "While the Prophet may be divinely guided, is not the essential trait of the [Concept('free_market','Market')|E] that it is Free? We can follow their teachings without being part of the Corporation that the Prophet founded."
+ doctrine_parameter_hostility_override_special_doctrine_free_enterprise:0  "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_free_enterprise').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_free_enterprise_opinion_active:0 ""
+ doctrine_parameter_opinion_of_free_enterprise_opinion_active:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_free_enterprise').GetBaseName] doctrine"
+
+ free_enterprise_opinion_active_opinion_name:0 "$special_doctrine_free_enterprise_name$"
+
+ special_doctrine_market_competition_name:0 "Market Competition"
+ special_doctrine_market_competition_desc:0 "Ideas are what makes the [Concept('free_market','Market')|E] flow, not just [capital_CON|E]. If the Prophet’s words are true, then they will triumph in the hearts of believers and the battlefield alike - the [Concept('almighty_dollar','Dollar')|E]'s will be done."
+
+ doctrine_parameter_market_competition_opinion_active:0 ""
+ doctrine_parameter_opinion_of_market_competition_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_market_competition_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_hostile_takeover').GetBaseName] doctrine"
+
+ market_competition_opinion_active_opinion_name:0 "$special_doctrine_market_competition_name$"
+
+ special_doctrine_hostile_takeover_name:0 "Hostile Takeover"
+ special_doctrine_hostile_takeover_desc:0 "The supposed Prophet is nothing more than a false idol, another ideologue who diverts the [capital_CON|E] of the faithful away from the [Concept('free_market','Market')|E] and towards themselves. If this heresy is allowed to continue, a second [Concept('the_event_ate','Event')|E] will surely befall us!"
+ doctrine_parameter_hostility_override_special_doctrine_hostile_takeover:0  "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_hostile_takeover').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_hostile_takeover_opinion_active:0 ""
+ doctrine_parameter_opinion_of_hostile_takeover_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_hostile_takeover_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_market_competition').GetBaseName] or $special_doctrine_hostile_takeover_name$ doctrine"
+
+ # Peace Church internal tolerance
+ doctrine_peace_church_internal_tolerance_name:0 "Peace Church Membership"
+ special_doctrine_peace_church_name:0 "Peace Church"
+ special_doctrine_peace_church_desc:0 "We count ourselves among the so-called 'Peace Churches', a variety of denominations who hold Christ's exhortations to put away the sword and love one another in the highest esteem."
+ doctrine_parameter_hostility_override_special_doctrine_peace_church:0  "Considers [faiths|E] with the $special_doctrine_peace_church_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_radical_reform:0  "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_radical_reform').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ special_doctrine_radical_reform_name:0 "Radical Reform"
+ special_doctrine_radical_reform_desc:0 "For one reason or another, the so-called 'Peace Churches' we trace our ancestry to have disowned us, calling us too radical for our beliefs."
+ doctrine_parameter_loc_parameter_radical_reform:0 "[faiths|E] with the [GetFaithDoctrine('special_doctrine_peace_church').GetBaseName] doctrine consider us to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Exovedate internal tolerance
+ doctrine_exovedate_internal_tolerance_name:0 "Exovedate Internal Tolerance"
+ special_doctrine_exovedate_chosen_flock_name:0 "Chosen Flock"
+ special_doctrine_exovedate_chosen_flock_desc:0 "Our faith is deeply connected to the struggles of the prophet-martyr Louis David Riel, and through his many writings we can derive the source of our ancestry. Through descent from the ancient Hebrews brought by an off-course Egyptian slave ship, the Indigenous peoples of America are the chosen people of God, and we find common ground with our neighbors who recognize this spiritual primacy."
+ doctrine_parameter_loc_parameter_chosen_flock_evil:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_heirs_to_the_vatican').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_exovedate_chosen_flock:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_exovedate_chosen_flock').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_exovedate_beyond_riel_name:0 "Beyond Riel"
+ special_doctrine_exovedate_beyond_riel_desc:0 "While we know Louis Riel fought for the freedom of his tribe and others, we cannot endorse some of his more eccentric beliefs. We must incorporate the religious reforms that strengthened the Church of the New World, while still taking care to support our brothers and sisters within our own cultures."
+ doctrine_parameter_hostility_override_special_doctrine_exovedate_beyond_riel:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_exovedate_beyond_riel').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_beyond_riel_hostile:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_native_american_church').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #idk why this even exists any more.
+ doctrine_parameter_follows_exovedate:0 "Our faith recognizes the divine authority of the Infallible Pontificate, considering the title to be our [head_of_faith|E]."
+
+
+ # Maya internal tolerance
+ doctrine_maya_internal_tolerance_name:0 "Maya Internal Tolerance"
+ special_doctrine_maya_harmony_name:0 "Maya Harmony"
+ special_doctrine_maya_harmony_desc:0 "Our faith is inseparable from the traditions of our people. In the family of the Nohoch Tata, we are united."
+ doctrine_parameter_follows_nohoch_tata:0 "Our faith recognizes the divine authority of the Nohoch Tata, considering the title to be our [head_of_faith|E]."
+ doctrine_parameter_hostility_override_special_doctrine_maya_harmony:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_maya_harmony').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_maya_heritage_name:0 "Maya Heritage"
+ special_doctrine_maya_heritage_desc:0 "Our faith is intimately bonded with the customs of its practitioners, and we respect those who similarly value our traditions."
+ doctrine_parameter_hostility_override_special_doctrine_maya_heritage:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_maya_heritage').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_maya_modernism_name:0 "Maya Modernism"
+ special_doctrine_maya_modernism_desc:0 "While we recognize the value of tradition, a more… modern approach is needed to truly bring our beliefs into the current age."
+ doctrine_parameter_hostility_override_special_doctrine_maya_modernism:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_maya_modernism').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_maya_madness_name:0 "Maya Madness"
+ special_doctrine_maya_madness_desc:0 "Our faith is viewed as a twisted perversion of the old ways by our supposed brothers, but we know better."
+ special_doctrine_authentic_maya_name:0 "Authentic Maya"
+ special_doctrine_authentic_maya_desc:0 "While others have let the beliefs of the cross-worshippers or strange doctrines of the new age influence them, we have kept the old ways secure and safe."
+
+ # Californian internal tolerance
+ doctrine_californian_internal_tolerance_name:0 "Californian Internal Tolerance"
+ special_doctrine_render_unto_caesar_name:0 "Render Unto Caesar"
+ special_doctrine_render_unto_caesar_desc:0 "Though we are devoted to God in Heaven, we must not forget our duty to the law of the land. It would be senseless to disturb this long-lived harmony."
+ doctrine_parameter_hostility_override_special_doctrine_render_unto_caesar:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_render_unto_caesar').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_get_behind_me_name:0 "Get Behind Me"
+ special_doctrine_get_behind_me_desc:0 "Get behind me, Satan! You are a stumbling block to me; you do not have in mind the concerns of God, but merely human concerns."
+ doctrine_parameter_hostility_override_special_doctrine_get_behind_me:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_get_behind_me').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Evangelical internal tolerance
+ doctrine_evangelical_internal_tolerance_name:0 "Evangelical Internal Tolerance"
+ special_doctrine_convention_communion_name:0 "Convention Communion"
+ special_doctrine_convention_communion_desc:0 "We count ourselves among the members of the Evangelical Convention. While we may disagree with other members on the finer points of doctrine, we strive to live up to the maxim ‘in essentials unity, in non-essentials liberty’."
+ doctrine_parameter_follows_council_presidency:0 "Our faith recognizes the divine authority of the Evangelical Council President, considering the title to be our [head_of_faith|E]."
+ doctrine_parameter_hostility_override_special_doctrine_convention_communion:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_convention_communion').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_calvert_camp_name:0 "Calvert Camp"
+ special_doctrine_calvert_camp_desc:0 "Calvert spoke the truth - the Evangelical ‘Convention’ is nothing more than a charade, a tool by the corrupt to mislead the faithful."
+ doctrine_parameter_hostility_override_special_doctrine_calvert_camp:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_calvert_camp').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+# Non-Chalcedonian Christianity variation
+ doctrine_non_chalcedonian_set_picker_name:0 "Non-Chalcedonian Rite"
+ special_doctrine_assyrian_name:0 "Syriac Rite"
+ special_doctrine_assyrian_desc:0 ""
+ doctrine_parameter_assyrian_rites:0 "This doctrine changes the localization of [GetFaithDoctrine('special_doctrine_non_chalcedonian').GetBaseName] to the Syriac Rite"
+ special_doctrine_miaphysite_name:0 "Miaphysite Rite"
+ special_doctrine_miaphysite_desc:0 ""
+ doctrine_parameter_miaphysite_rites:0 "This doctrine changes the localization of [GetFaithDoctrine('special_doctrine_non_chalcedonian').GetBaseName] to the Miaphysite Rite"
+
+ ###### THE BIG TOLERANCE GROUP
+
+ doctrine_universal_tolerance_group_name:0 "Universal Tolerance"
+
+ #### ANACHRONOUS DOCTRINES
+
+ # Americanist doctrines
+ special_doctrine_living_constitution_name:0 "Living Constitution"
+ special_doctrine_living_constitution_desc:0 "The Constitution is not a static monolith, given down from Providence once and forever, but constantly changing alongside the people of our great nation."
+ special_doctrine_originalism_name:0 "Originalism"
+ special_doctrine_originalism_desc:0 "The Constitution is a divinely ordained document of unquestionable and supreme authority - the law of the land. To question the Constitution is to question the gods themselves."
+ special_doctrine_partisan_politics_name:0 "Partisan Politics"
+ special_doctrine_partisan_politics_desc:0 "The wisdom of the Founders exists to serve the people, not the state. Disagreements over how to serve our constituents must be decided with debate and on the battlefield."
+ special_doctrine_sister_republics_name:0 "Sister Republics"
+ special_doctrine_sister_republics_desc:0 "The United States and Mexico share a common heritage and unity as the two great republics of North America. Our shared interest in liberty binds us together even now."
+ special_doctrine_political_machine_name:0 "Political Machine"
+ special_doctrine_political_machine_desc:0 "The divine blessed Old America to be a land of bounty and prosperity. Whether you call them Founders or Titans, the gods came together to make America a powerhouse beyond compare."
+ special_doctrine_one_nation_indivisible_name:0 "One Nation Indivisible"
+ special_doctrine_one_nation_indivisible_desc:0 "Though we may not invest in the institution of the Presidency the authority others do, we are all still Americans, working together to restore the Union."
+ special_doctrine_sic_semper_tyrannis_name:0 "Sic Semper Tyrannis"
+ special_doctrine_sic_semper_tyrannis_desc:0 "It is clear that the rest of Americanism is no longer guided by Providence - their corrupted teachings will surely lead America to Tyranny!"
+ doctrine_parameter_hostility_override_special_doctrine_living_constitution:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_originalism:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_partisan_politics:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_sister_republics:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_political_machine:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_one_nation_indivisible:0 ""
+ doctrine_parameter_loc_parameter_one_nation_indivisible_hostility:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_one_nation_indivisible').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ 
+ # Americanist loc parameters
+ doctrine_parameter_loc_parameter_sister_republics_desc:0 "Our faith seeks to elevate the cultural, social, and religious connections between the beliefs of Old Mexico and Old America. The divine liberating force, the clarion call for democracy and freedom, came to both peoples of both nations, and only together can they fulfill their missions on this world. The stately doctrines of both institutions view us as $hostility_astray_tooltippable$, while relations are slightly worse with more subversive elements of either tradition."
+ doctrine_parameter_loc_parameter_sister_republics_astray:0 "Click here to view what doctrines [sister_republics_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_political_machine_desc:0 "Our faith recognizes that whether you call them Titans or Founders, the divine agents of the world sought to build America into something better. Though they might be estranged now, the Industrialists and Americanists both share a common vision of rebuiding that society. Our shared mission results in the mainstream of both denominations viewing us as $hostility_astray_tooltippable$, but revolutionary or insurgent practices which seek to tear America down are still considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_political_machine_astray:0 "Click here to view what doctrines [political_machine_astray|L] considers to be Astray"
+
+ doctrine_parameter_sister_republics_opinion_active:0 ""
+ doctrine_parameter_opinion_of_sister_republics_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_sister_republics_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_children_of_the_cosmos').GetBaseName] doctrine"
+ sister_republics_opinion_active_opinion_name:0 "$special_doctrine_sister_republics_name$"
+
+ doctrine_parameter_political_machine_opinion_active:0 ""
+ doctrine_parameter_opinion_of_political_machine_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_political_machine_opinions:0 "Mutual #negative_value -30#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_workers_of_the_world').GetBaseName] doctrine"
+ political_machine_opinion_active_opinion_name:0 "$special_doctrine_political_machine_name$"
+
+ doctrine_parameter_one_nation_indivisible_opinion_active:0 "Mutual #negative_value -30#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_freedom_of_speech').GetBaseName] doctrine"
+ doctrine_parameter_opinion_of_one_nation_indivisible_opinion_active:0 "Mutual #negative_value -30#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_one_nation_indivisible').GetBaseName] doctrine"
+ one_nation_indivisible_opinion_active_opinion_name:0 "$special_doctrine_one_nation_indivisible_name$"
+
+ doctrine_parameter_loc_parameter_sic_semper_tyrannis_anti_syncretism:0 "[faiths|E] with the [GetFaithDoctrine('tenet_americanist_syncretism').GetBaseName] tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Idiosyncratic doctrines
+ special_doctrine_children_of_the_cosmos_name:0 "Children of the Cosmos"
+ special_doctrine_children_of_the_cosmos_desc:0 "We are the children of the universe itself, the great unification of all people from all corners of this earth."
+ special_doctrine_order_and_progress_name:0 "Order and Progress"
+ special_doctrine_order_and_progress_desc:0 "The project of perfection is not yet complete, but must be continued along strict, delineated, controlled lines."
+ special_doctrine_shout_of_the_universe_name:0 "Shout of the Universe"
+ special_doctrine_shout_of_the_universe_desc:0 "Long Live America! Long Live Religion! Death to Bad Government!"
+ doctrine_parameter_hostility_override_special_doctrine_children_of_the_cosmos:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_order_and_progress:0 ""
+
+ # Idiosyncratic loc parameters
+ doctrine_parameter_loc_parameter_children_of_the_cosmos_desc:0 "Our faith is the elevation of the best from all faiths, and our people are the elevation of the best from all peoples. Our mission now is to unite the world under our banner and message. Other denominations with missions akin to ours are viewed as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_children_of_the_cosmos_astray:0 "Click here to view what doctrines [children_of_the_cosmos_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_order_and_progress_desc:0 "Our faith recognizes that the mission towards progress cannot be done haphazardly, and requires a strong guiding hand in order to lead the faith - and the people - towards perfection. Wisdom is with those who respect the power structure, not those who tear it down. Those who agree with our respect for the past are considered $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_order_and_progress_astray:0 "Click here to view what doctrines [order_and_progress_astray|L] considers to be Astray"
+
+ doctrine_parameter_children_of_the_cosmos_opinion_active:0 ""
+ doctrine_parameter_opinion_of_children_of_the_cosmos_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_children_of_the_cosmos_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_order_and_progress').GetBaseName] doctrine"
+ children_of_the_cosmos_opinion_active_opinion_name:0 "$special_doctrine_children_of_the_cosmos_name$"
+
+ doctrine_parameter_order_and_progress_opinion_active:0 ""
+ doctrine_parameter_opinion_of_order_and_progress_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_order_and_progress_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_children_of_the_cosmos').GetBaseName] doctrine"
+ order_and_progress_opinion_active_opinion_name:0 "$special_doctrine_order_and_progress_name$"
+
+ doctrine_parameter_loc_parameter_shout_of_the_universe_anti_syncretism:0 "[faiths|E] with the [GetFaithDoctrine('tenet_idiosyncratic_syncretism').GetBaseName] tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Capitalist doctrines
+ special_doctrine_capital_gains_name:0 "Capital Gains"
+ special_doctrine_capital_gains_desc:0 "There is no force greater than the [Concept('free_market','Market')|E], and only through serving it can the world be saved."
+ special_doctrine_gospel_of_wealth_name:0 "Gospel of Wealth"
+ special_doctrine_gospel_of_wealth_desc:0 "The [Concept('titans_of_industry','Titans')|E] were agents of the [Concept('free_market','Market')|E], helping to build the instruments of $capitalist_the_invisible_hand$ on this world."
+ special_doctrine_entrepreneurial_spirit_name:0 "Entrepreneural Spirit"
+ special_doctrine_entrepreneurial_spirit_desc:0 "America is the land of opportunity, where any enterprising individual can pull themselves up by their bootstraps and succeed."
+ special_doctrine_musharakah_name:0 "Musharakah"
+ special_doctrine_musharakah_desc:0 "To be wealthy is a blessing, and to share in the bounty of profit is divine. Arrangements to facilitate such a thing are not objectionable at all."
+ special_doctrine_prosperity_gospel_name:0 "Prosperity Gospel"
+ special_doctrine_prosperity_gospel_desc:0 "Prosperity in the here and now is a clear indication of being favored by the divine. Each person must strive to ascend from their poor station through devotion."
+ special_doctrine_roman_indulgence_name:0 "Roman Indulgence"
+ special_doctrine_roman_indulgence_desc:0 "One must work in order to remit their actions before the divine. It is not improper for such work to take a fiscal form."
+ doctrine_parameter_hostility_override_special_doctrine_capital_gains:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_gospel_of_wealth:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_entrepreneurial_spirit:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_musharakah:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_prosperity_gospel:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_roman_indulgence:0 ""
+
+ # Capitalist loc parameters
+ doctrine_parameter_loc_parameter_gospel_of_wealth_desc:0 "Our faith seeks to find unity between the Industrialist and Capitalist teachings, pulling from the antediluvian works which established a mission for the betterment of society by those blessed with great wealth. It is the station of the powerful to reap material and spiritual reward, and for them to then use that bounty to better their society. The Titan-cults and other centralizing doctrines view us as $hostility_astray_tooltippable$, but the rabble-rousing communitarians hold a special hate for us in their hearts."
+ doctrine_parameter_loc_parameter_gospel_of_wealth_astray:0 "Click here to view what doctrines [gospel_of_wealth_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_prosperity_gospel_desc:0 "Our faith seeks to find unity between Protestantism and Capitalism, using the sometimes-controversial theology of prosperity as evidence of commonality. Success in the here and now is a clear indication of divine favor, and it is through one's faith that such success can be found. This approach has borne fruit, with the Protestant mainstream regarding us as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_prosperity_gospel_astray:0 "Click here to view what doctrines [prosperity_gospel_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_roman_indulgence_desc:0 "Our faith seeks to find unity between Catholic and Capitalist doctrine, emphasizing how one can earn remission for themselves through their actions. One's good works on this world earn them divine favor, and it is not objectionable at all for this to be monetarially quantified. Despite the controversial nature of this teaching, it has reaped some reward, with the Catholic mainstream considering us as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_roman_indulgence_astray:0 "Click here to view what doctrines [roman_indulgence_astray|L] considers to be Astray"
+
+ doctrine_parameter_gospel_of_wealth_opinion_active:0 ""
+ doctrine_parameter_opinion_of_gospel_of_wealth_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_gospel_of_wealth_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_industrial_band').GetBaseName] doctrine"
+ doctrine_parameter_loc_parameter_gospel_of_wealth_negative_opinions:0 "Mutual #negative_value -30#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_workers_of_the_world').GetBaseName] doctrine"
+
+ doctrine_parameter_entrepreneurial_spirit_opinion_active:0 ""
+ doctrine_parameter_opinion_of_entrepreneurial_spirit_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_entrepreneurial_spirit_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_executive_overreach').GetBaseName] doctrine"
+
+ # Industrialist doctrines
+ special_doctrine_cult_of_the_titans_name:0 "Cult of the Titans"
+ special_doctrine_cult_of_the_titans_desc:0 "The Titans laid out the plans by which Industry might be built into a God, and to deviate from their schema is heresy of the highest order."
+ special_doctrine_industrial_band_name:0 "Industrial Band"
+ special_doctrine_industrial_band_desc:0 "To restore the Gilded Age and humanity's prosperity, we must carefully follow the guidance given to us by the learned and professionally trained."
+ special_doctrine_workers_of_the_world_name:0 "Workers of the World"
+ special_doctrine_workers_of_the_world_desc:0 "Industry must serve the worker, not the worker serve Industry. Each person contributes equally to the reconstruction of the Gilded Age - no master, temporal or spiritual, can rule another."
+ special_doctrine_industrial_hazard_name:0 "Industrial Hazard"
+ special_doctrine_industrial_hazard_desc:0 "Reckless pursuit of Industry threatens the very balance of the Forces of this world. We must put a stop to those who would sacrifice the planet to their 'god', before any attempt to restore the age lost to us."
+ doctrine_parameter_hostility_override_special_doctrine_cult_of_the_titans:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_industrial_band:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_workers_of_the_world:0 ""
+
+ # Industrialist loc parameters
+ doctrine_parameter_loc_parameter_cult_of_the_titans_desc:0 "Our faith reveres the great Titans of the Gilded Age, the gods among men, who crafted Industry into a force beyond compare. It is through their guidance and the leadership of those who can credibly claim that office that Industry might yet be rebuilt. Other faiths that respect the vision of the Titans are seen as $hostility_astray_tooltippable$, though there is competition over which vision. Those who wholly reject the leadership of the Titans in favor of 'the workers' are seen as $hostility_evil_tooltippable$."
+ doctrine_parameter_loc_parameter_cult_of_the_titans_astray:0 "Click here to view what doctrines [cult_of_the_titans_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_industrial_band_desc:0 "Our faith understands that only through rigorous procedure and regulation can Industry be reconstructed successfully. The Titans might have succeeded in the past, but a new schematic is needed for Industry to be built to last. Others who share our vision and respect for the divine ordination view us as $hostility_astray_tooltippable$, though their deviation from regulation somewhat hampers relations."
+ doctrine_parameter_loc_parameter_industrial_band_astray:0 "Click here to view what doctrines [industrial_band_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_workers_of_the_world_desc:0 "Our faith rejects the notion that mankind exists to serve the gods - for if humanity can construct a god, who is the greater? Instead, man and the divine must work for the common benefit, without the strong oppressing the weak or the greedy taking from the needy. Those who at least accomodate the interests of the people in the divine ordination are seen as $hostility_astray_tooltippable$, cling to the tyrannical Titans and their oppressive leadership are seen as $hostility_evil_tooltippable$, and rightly so."
+ doctrine_parameter_loc_parameter_workers_of_the_world_astray:0 "Click here to view what doctrines [workers_of_the_world_astray|L] considers to be Astray"
+
+ doctrine_parameter_cult_of_the_titans_opinion_active:0 ""
+ doctrine_parameter_opinion_of_cult_of_the_titans_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_cult_of_the_titans_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_cult_of_the_titans').GetBaseName] doctrine. The Same Faith Opinion bonus will counteract this for this faith specifically"
+ cult_of_the_titans_opinion_active_opinion_name:0 "$special_doctrine_cult_of_the_titans_name$"
+
+ doctrine_parameter_industrial_band_opinion_active:0 ""
+ doctrine_parameter_opinion_of_industrial_band_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_industrial_band_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_gospel_of_wealth').GetBaseName] doctrine"
+ doctrine_parameter_loc_parameter_industrial_band_negative_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_cult_of_the_titans').GetBaseName] or [GetFaithDoctrine('special_doctrine_workers_of_the_world').GetBaseName] doctrine"
+ industrial_band_opinion_active_opinion_name:0 "$special_doctrine_industrial_band_name$"
+
+ doctrine_parameter_workers_of_the_world_opinion_active:0 ""
+ doctrine_parameter_opinion_of_workers_of_the_world_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_workers_of_the_world_fifteen_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_industrial_band').GetBaseName] doctrine"
+ doctrine_parameter_loc_parameter_workers_of_the_world_thirty_opinions:0 "Mutual #negative_value -30#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_gospel_of_wealth').GetBaseName] or [GetFaithDoctrine('special_doctrine_political_machine').GetBaseName] doctrine"
+ workers_of_the_world_opinion_active_opinion_name:0 "$special_doctrine_workers_of_the_world_name$"
+
+ doctrine_parameter_loc_parameter_industrial_hazard_anti_syncretism:0 "[faiths|E] with the [GetFaithDoctrine('tenet_industrialist_syncretism').GetBaseName] tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Petrobaron doctrines 
+ special_doctrine_black_gold_name:0 "Black Gold"
+ special_doctrine_black_gold_desc:0 "temp desc"
+ special_doctrine_industry_trust_name:0 "Industry Trust"
+ special_doctrine_industry_trust_desc:0 "temp desc"
+ special_doctrine_national_reserve_name:0 "National Reserve"
+ special_doctrine_national_reserve_desc:0 "temp desc"
+ doctrine_parameter_hostility_override_special_doctrine_black_gold:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_industry_trust:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_national_reserve:0 ""
+
+ # Petrobaron loc parameters
+ doctrine_parameter_loc_parameter_petrobaron_shared_evil:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_frigid_preservation').GetBaseName], [GetFaithDoctrine('special_doctrine_the_midnight_sun').GetBaseName], or [GetFaithDoctrine('special_doctrine_the_polar_night').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_loc_parameter_black_gold_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_black_gold_astray:0 "Click here to view what doctrines [black_gold_astray|L] considers to be Astray"
+ doctrine_parameter_black_gold_opinion_active:0 ""
+ doctrine_parameter_opinion_of_black_gold_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_black_gold_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_executive_overreach').GetBaseName] doctrine"
+ doctrine_parameter_loc_parameter_black_gold_negative_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_industry_trust').GetBaseName] doctrine"
+
+ doctrine_parameter_loc_parameter_industry_trust_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_industry_trust_astray:0 "Click here to view what doctrines [industry_trust_astray|L] considers to be Astray"
+ doctrine_parameter_industry_trust_opinion_active:0 ""
+ doctrine_parameter_opinion_of_industry_trust_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_industry_trust_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_executive_overreach').GetBaseName] doctrine"
+ doctrine_parameter_loc_parameter_industry_trust_negative_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_black_gold').GetBaseName] doctrine"
+
+ doctrine_parameter_loc_parameter_national_reserve_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_national_reserve_astray:0 "Click here to view what doctrines [national_reserve_astray|L] considers to be Astray"
+ doctrine_parameter_national_reserve_reply_to_capitalist:0 ""
+ doctrine_parameter_opinion_of_capitalist_reply_to_national_reserve:0 "Mutual #positive_value +15#! [opinion|E] bonus with Capitalist faiths"
+
+
+ # Platinean doctrines
+ special_doctrine_rules_of_the_game_name:0 "Rules of the Game"
+ special_doctrine_rules_of_the_game_desc:0 "Though we might differ on the tactics, we all seek to secure victory in the Competencia Mundial and reunite the motherland and her people."
+ special_doctrine_unity_for_unification_name:0 "Unity for Unification"
+ special_doctrine_unity_for_unification_desc:0 "It was the Hero's selfishness that caused their folly and the nation's destruction - we must unite the people in order to unite the provinces."
+ special_doctrine_masters_of_competition_name:0 "Masters of Competition"
+ special_doctrine_masters_of_competition_desc:0 "Wisdom can come from places beyond the Southern Cone. The insights of the Masters of Brazil are of equal interest to us as the Heroes of our homeland."
+ special_doctrine_popular_justice_name:0 "Popular Justice"
+ special_doctrine_popular_justice_desc:0 "Perón's wisdom is not limited by ideology or denomination, but is instead a message for all people of all stripes and creeds."
+ special_doctrine_renovation_of_justice_name:0 "Renovation of Justice"
+ special_doctrine_renovation_of_justice_desc:0 "Perón's wisdom is centered on the order and reform that it provides for the people and the stability of the province - a renovation of the old order for the new world."
+ special_doctrine_revolution_of_justice_name:0 "Revolution of Justice"
+ special_doctrine_revolution_of_justice_desc:0 "Perón's wisdom is a message of liberation for the people oppressed by the old order, and a rebirth of the provinces into a new united people."
+ doctrine_parameter_hostility_override_special_doctrine_rules_of_the_game:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_unity_for_unification:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_masters_of_competition:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_popular_justice:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_renovation_of_justice:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_revolution_of_justice:0 ""
+
+ # Platinean loc parameters
+ doctrine_parameter_loc_parameter_unity_for_unification_desc:0 "Our faith understands that the principle purpose of the Competencia Mundial is to unite the people, not further the interests of individuals. While we may disagree on how to achieve victory, that victory cannot come at the expense of those we are fighting for. Our mission of unity means that other Platineans who respect the Heroes and the Competencia Mundial see us as  $hostility_astray_tooltippable$, but relations with other Anachronous traditions are worsened as a result."
+ doctrine_parameter_loc_parameter_masters_of_competition_desc:0 "Our faith acknowledges that the Heroes are not the sole repository of guidance on how to win in the cosmic competition for unity. The Old Masters of Brazil to our north and their teachings are equally useful as those of our own Heroes. As a result, we regard those who elevate the Masters as  $hostility_astray_tooltippable$, while those who do not revere them to the same degree are seen in a better light."
+ doctrine_parameter_loc_parameter_masters_of_competition_astray:0 "Click here to view what doctrines [masters_of_competition_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_popular_justice_desc:0 "Our faith strives to unite all the followers of the Man of Destiny under a single creed, transcending traditional barriers like ideology or nation under the guidance of Perón. Those who share our vision are seen as $hostility_righteous_tooltippable$, while the rest of the Peronist movement is regarded as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_renovation_of_justice_desc:0 "Our faith recognizes that the Justicialist movement must have structure and clarity in order to best serve the people of Argentina, and cannot be distracted by stretching itself too thin or appealing to the interests of extremists. Those who share our vision are seen as $hostility_righteous_tooltippable$, while the rest of the Peronist movement is regarded as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_revolution_of_justice_desc:0 "Our faith recognizes that the Man of Destiny is not the deliverance of the nation from tyranny, but the people. The Twenty Truths and the people's interests must always come first, regardless of whether that is to the ruler's interests or not. Those who share our vision are seen as $hostility_righteous_tooltippable$, while the rest of the Peronist movement is regarded as $hostility_astray_tooltippable$."
+
+ doctrine_parameter_heroic_platinean_opinion_active:0 ""
+ doctrine_parameter_opinion_of_heroic_platinean_opinion_active:0 ""
+ doctrine_parameter_masters_of_competition_opinion_active:0 ""
+ doctrine_parameter_opinion_of_masters_of_competition_opinion_active:0 ""
+ doctrine_parameter_peronist_platinean_opinion_active:0 ""
+ doctrine_parameter_opinion_of_peronist_platinean_opinion_active:0 ""
+
+ doctrine_parameter_loc_parameter_rules_of_the_game_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_rules_of_the_game').GetBaseName], [GetFaithDoctrine('special_doctrine_unity_for_unification').GetBaseName], or [GetFaithDoctrine('special_doctrine_masters_of_competition').GetBaseName] doctrines"
+ heroic_platinean_opinion_active_opinion_name:0 "Heroic Platinean"
+
+ doctrine_parameter_loc_parameter_masters_of_competition_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_rules_of_the_game').GetBaseName], [GetFaithDoctrine('special_doctrine_unity_for_unification').GetBaseName], [GetFaithDoctrine('special_doctrine_masters_of_competition').GetBaseName], [GetFaithDoctrine('special_doctrine_quest_for_the_future').GetBaseName], or [GetFaithDoctrine('special_doctrine_worship_of_the_past').GetBaseName] doctrines"
+ masters_of_competition_opinion_active_opinion_name:0 "$special_doctrine_masters_of_competition_name$"
+
+ doctrine_parameter_loc_parameter_peronist_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the Popular Justice, Renovation of Justice, or Revolution of Justice doctrines"
+ peronist_platinean_opinion_active_opinion_name:0 "Justicialist Platinean"
+
+ # Idunnic/Concentric doctrines
+ special_doctrine_frigid_preservation_name:0 "Frigid Preservation"
+ special_doctrine_frigid_preservation_desc:0 "Here, in this cold and inhospitable land, we are tasked with preserving life against all odds."
+ special_doctrine_the_midnight_sun_name:0 "The Midnight Sun"
+ special_doctrine_the_midnight_sun_desc:0 "Life perseveres always, even in this bleak and snow-covered land. There is joy to be found in this truth, and to be shared as well."
+ special_doctrine_the_polar_night_name:0 "The Polar Night"
+ special_doctrine_the_polar_night_desc:0 "The bitter and biting cold has steeled life to survive despite it all, and to fight for its continued existence against a world set against it."
+ doctrine_parameter_hostility_override_special_doctrine_frigid_preservation:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_the_midnight_sun:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_the_polar_night:0 ""
+ # Idunnic/Concentric loc parameters
+ doctrine_parameter_loc_parameter_concentric_shared_evil:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_black_gold').GetBaseName], [GetFaithDoctrine('special_doctrine_industry_trust').GetBaseName], or [GetFaithDoctrine('special_doctrine_national_reserve').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_loc_parameter_frigid_preservation_astray:0 "Considers [faiths|E] with the Frigid Preservation doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Digital doctrines
+ special_doctrine_global_village_name:0 "Global Village"
+ special_doctrine_global_village_desc:0 "Despite our differences, be they cultural, social, or religious, we are all bound together by the underlying laws which govern reality - one world-wide community."
+ special_doctrine_digital_apostate_name:0 "Unorthodox Programming"
+ special_doctrine_digital_apostate_desc:0 "While we believe in one form or another in the language which governs the phenomena of this world, our divergent beliefs have caused other Digital faiths to brand us unorthodox."
+ doctrine_parameter_hostility_override_special_doctrine_global_village:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_digital_apostate:0 ""
+
+ doctrine_parameter_loc_parameter_digital_apostate:0 "[faiths|E] with the [GetFaithDoctrine('special_doctrine_global_village').GetBaseName] doctrine consider us to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # Artistic doctrines
+ special_doctrine_children_of_modernity_name:0 "Children of Modernity"
+ special_doctrine_children_of_modernity_desc:0 "We are all the children of the pursuit of perfection, striving ever forward to something beautiful."
+ special_doctrine_magic_of_reality_name:0 "Magic of Reality"
+ special_doctrine_magic_of_reality_desc:0 "There is no barrier between our world and the divine, between the mundane and the magical. To ignore one is to deny the beauty of the whole."
+ doctrine_parameter_hostility_override_special_doctrine_children_of_modernity:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_magic_of_reality:0 ""
+ # Artistic loc parameters
+ doctrine_parameter_loc_parameter_children_of_modernity_desc:0 "Our faith seeks to continually refine and perfect itself in pursuit of the great modernist goal - the perfection of society. This process is most keenly felt through expression, whether that takes the form of words or the brush. Those who share our vision of the future, or respect for the expressions of luminaries of the past, are seen as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_children_of_modernity_astray:0 "Click here to view what doctrines [children_of_modernity_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_children_of_modernity_hostile:0 "Click here to view what doctrines [children_of_modernity_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_magic_of_reality_desc:0 "Our faith seeks to tear down the barrier between the divine and the mundane that is put up by those who lack the ability or imagination to see the beauty and power around us. The world is supernatural, and it is only responsible for us to recognize and use what others call magical. Those who share our wonderment for our world are seen as $hostility_astray_tooltippable$, while the Divina Patriota mainstream and their divine liberation of the New World are seen as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_magic_of_reality_astray:0 "Click here to view what doctrines [magic_of_reality_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_magic_of_reality_hostile:0 "Click here to view what doctrines [magic_of_reality_hostile|L] considers to be Hostile"
+
+ # Modernist doctrines
+ special_doctrine_quest_for_the_future_name:0 "Quest for the Future"
+ special_doctrine_quest_for_the_future_desc:0 "The push for innovation must be directed ever forwards, not stuck in the drudgeries of the past. Creativity is the way, not adherence."
+ special_doctrine_worship_of_the_past_name:0 "Worship of the Past"
+ special_doctrine_worship_of_the_past_desc:0 "All that is to be known was discovered by the sages of old. Innovation is a distraction - we must dedicate ourselves to deciphering their secrets."
+ special_doctrine_the_hidden_truth_name:0 "The Hidden Truth"
+ special_doctrine_the_hidden_truth_desc:0 "The order of the world cannot be discovered through conventional means, but must be unlocked through the defiance of norms and the transcendence of the known into the unknown."
+ doctrine_parameter_hostility_override_special_doctrine_quest_for_the_future:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_worship_of_the_past:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_the_hidden_truth:0 ""
+ # Modernist loc parameters
+ doctrine_parameter_loc_parameter_quest_for_the_future_desc:0 "Our faith seeks to uncover the deep truths behind the nature of existence and the turmoil of change through the embrace of that change. Innovation and imagination is the key to unlocking the secrets of the world. Those who agree with our pursuit of change are viewed as $hostility_astray_tooltippable$, while those who stick to rigidity and the status quo are seen as $hostility_hostile_tooltippable$, albeit misguided."
+ doctrine_parameter_loc_parameter_quest_for_the_future_astray:0 "Click here to view what doctrines [quest_for_the_future_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_quest_for_the_future_hostile:0 "Click here to view what doctrines [quest_for_the_future_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_worship_of_the_past_desc:0 "Our faith recognizes that though it may appear that change is the only norm, the substance of the world remains, fundamentally, the same. The wise of the antediluvian age were able to comprehend and master this constancy, and it is through their teachings that we can as well. Those who agree with our veneration of the old knowledge are considered $hostility_astray_tooltippable$, while those who foolishly embrace the illusion of change are looked down upon."
+ doctrine_parameter_loc_parameter_worship_of_the_past_astray:0 "Click here to view what doctrines [worship_of_the_past_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_worship_of_the_past_hostile:0 "Click here to view what doctrines [worship_of_the_past_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_the_hidden_truth_desc:0 "Our faith understands that #italic true#! knowledge cannot be found through the limited conceptions of constancy or change bound to pervasive norms. In order to truly discover the divine, those norms must be flouted and destroyed, and in their destruction the Truth can be found. Othe denominations which accept the supernatural nature of the divine are considered $hostility_astray_tooltippable$, but those who worship the past are seen as the enforcers of the norm and considered $hostility_evil_tooltippable$."
+ doctrine_parameter_loc_parameter_the_hidden_truth_astray:0 "Click here to view what doctrines [the_hidden_truth_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_the_hidden_truth_hostile:0 "Click here to view what doctrines [the_hidden_truth_hostile|L] considers to be Hostile"
+
+ doctrine_parameter_quest_for_the_future_opinion_active:0 ""
+ doctrine_parameter_opinion_of_quest_for_the_future_opinion_active:0 ""
+ doctrine_parameter_worship_of_the_past_opinion_active:0 ""
+ doctrine_parameter_opinion_of_worship_of_the_past_opinion_active:0 ""
+ doctrine_parameter_loc_parameter_quest_for_the_future_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_worship_of_the_past').GetBaseName] or [GetFaithDoctrine('special_doctrine_masters_of_competition').GetBaseName] doctrine"
+ quest_for_the_future_opinion_active_opinion_name:0 "$special_doctrine_quest_for_the_future_name$"
+
+ doctrine_parameter_loc_parameter_worship_of_the_past_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_quest_for_the_future').GetBaseName] or [GetFaithDoctrine('special_doctrine_masters_of_competition').GetBaseName] doctrine"
+ worship_of_the_past_opinion_active_opinion_name:0 "$special_doctrine_worship_of_the_past_name$"
+
+ special_doctrine_anti_art_name:0 "Anti-Art"
+ special_doctrine_anti_art_desc:0 "What others call 'art' is just a perpetuation of the rigid, stale, status quo. True change can only come from challenging the fundamental values of what others hold dear, regardless of the consequences."
+ doctrine_parameter_loc_parameter_anti_art_anti_syncretism:0 "[faiths|E] with the [GetFaithDoctrine('tenet_modernist_syncretism_name').GetBaseName] tenet are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ #### CHRISTIANIC DOCTRINES
+
+ # NEW Vernacular doctrines
+ special_doctrine_rural_revelations_name:0 "Rural Revelations"
+ special_doctrine_rural_revelations_desc:0 "We are bound to the gods, angels, monsters, and spirits that can be found in the scriptures and legends of our 'country' creeds."
+ special_doctrine_young_earth_yearnings_name:0 "Young-Earth Yearnings"
+ special_doctrine_young_earth_yearnings_desc:0 "We yearn for a world free of struggle and sin, one similar to an earlier stage of the earth's history. We will recreate it if we must."
+ doctrine_parameter_hostility_override_special_doctrine_rural_revelations:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_young_earth_yearnings:0 ""
+
+ # Vernacular loc parameters
+ doctrine_parameter_loc_parameter_rural_revelations_desc:0 "After the desolation of the [Concept('the_event_ate','Fall')|E], our faith adapted and evolved alongside our people, forming distinct belief systems often seen as backwards or degenerate by outsiders unwilling to open their hearts and minds to our truths. As a result, we have frequently found ourselves beset by foreign aggressors seeking to bring us back into the fold. We consider other faiths with similar ‘unorthodox’ Protestant-related interpretations $hostility_astray_tooltippable$, while those whose interests and doctrines overlap more often than not are considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_rural_revelations_astray:0 "Click here to view what doctrines [rural_revelations_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_rural_revelations_hostile:0 "Click here to view what doctrines [rural_revelations_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_young_earth_yearnings_desc:0 "The scourge of the [Concept('the_event_ate','Fall')|E] reminded our faith that it was not mankind's place to look to the future or encourage new interpretations. Any changes we have made are founded on the true, original ways of doing things which were forgotten by others. While we accept our $hostility_astray_tooltippable$ brethren who still have their hearts in the right place, we tolerate fewer outside groups as merely $hostility_hostile_tooltippable$ to our goals."
+ doctrine_parameter_loc_parameter_young_earth_yearnings_astray:0 "Click here to view what doctrines [young_earth_yearnings_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_young_earth_yearnings_hostile:0 "Click here to view what doctrines [young_earth_yearnings_hostile|L] considers to be Hostile"
+
+ # Vernacular doctrines (defunct)
+ # technically, these are internal tolerances, but since Vernacular needs to be able to select other Christianic doctrines, they're in the big group instead of their own one like Maya or Californian
+ special_doctrine_victory_of_darkness_name:0 "Victory of Darkness"
+ special_doctrine_victory_of_darkness_desc:0 "And it was given authority over every tribe, people, language and nation. 8 All inhabitants of the earth will worship the beast—all whose names have not been written in the Lamb’s book of life, the Lamb who was slain from the creation of the world."
+ special_doctrine_victory_of_light_name:0 "Victory of Light"
+ special_doctrine_victory_of_light_desc:0 "I saw thrones on which were seated those who had been given authority to judge. And I saw the souls of those who had been beheaded because of their testimony about Jesus and because of the word of God. They had not worshiped the beast or his image and had not received his mark on their foreheads or their hands. They came to life and reigned with Christ a thousand years."
+ special_doctrine_ongoing_name:0 "Ongoing Battle"
+ special_doctrine_ongoing_desc:0 "Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give the right to eat from the tree of life, which is in the paradise of God."
+ special_doctrine_stalled_name:0 "Stalled Battle"
+ special_doctrine_stalled_desc:0 "Wake up! Strengthen what remains and is about to die, for I have found your deeds unfinished in the sight of my God. Remember, therefore, what you have received and heard; hold it fast, and repent."
+ special_doctrine_next_evolution_name:0 "Next Evolution"
+ special_doctrine_next_evolution_desc:0 "The one who is victorious I will make a pillar in the temple of my God. Never again will they leave it. I will write on them the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on them my new name."
+ doctrine_parameter_hostility_override_special_doctrine_victory_of_darkness:0 "Considers [faiths|E] with the Victory of Darkness doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_victory_of_light:0 "Considers [faiths|E] with the Victory of Light doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_ongoing:0 "Considers [faiths|E] with the Ongoing Battle doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_stalled:0 "Considers [faiths|E] with the Stalled Battle doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ special_doctrine_flock_of_the_faithful_name:0 "Flock of the Faithful"
+ special_doctrine_flock_of_the_faithful_desc:0 "Placeholder"
+ doctrine_parameter_hostility_override_special_doctrine_flock_of_the_faithful:0 ""
+ doctrine_parameter_loc_parameter_flock_of_the_faithful_desc:0 "placeholder"
+ doctrine_parameter_loc_parameter_flock_of_the_faithful_astray:0 "Click here to view what doctrines [flock_of_the_faithful_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_flock_of_the_faithful_hostile:0 "Click here to view what doctrines [flock_of_the_faithful_hostile|L] considers to be Hostile"
+
+ # NEW Rezadeiros doctrines
+ special_doctrine_land_of_the_messiah_name:0 "Land of the Messiah"
+ special_doctrine_land_of_the_messiah_desc:0 "The Messiah, the Chosen One, once walked among our ancestors and blessed this land with His very presence. Whether He will return once again or not, it is in our sacred homeland that His Kingdom on Earth will be established."
+ special_doctrine_lost_kings_teachings_name:0 "Lost King's Teachings"
+ special_doctrine_lost_kings_teachings_desc:0 "We eagerly await the prophesied return of the King of Kings, the Messiah, and will do whatever it takes to hasten His return and the establishment of His Kingdom - even if that necessitates the blood of infidels or ourselves."
+ doctrine_parameter_hostility_override_special_doctrine_land_of_the_messiah:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_lost_kings_teachings:0 ""
+ doctrine_parameter_loc_parameter_land_of_the_messiah_desc:0 "Our faith holds that the Messiah, the savior of humanity, once lived in these hills and valleys. While we share much in common with folk Catholicism and the other spiritual beliefs of Brazil, our focus on our Messiah alienates them and causes our relationship with them to be $hostility_hostile_tooltippable$. However, we do enjoy better relations with the Orishan faiths."
+ doctrine_parameter_loc_parameter_land_of_the_messiah_astray:0 "Click here to view what doctrines [land_of_the_messiah_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_land_of_the_messiah_hostile:0 "Click here to view what doctrines [land_of_the_messiah_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_lost_kings_teachings_desc:0 "Our faith anticipates the imminent return of our Messiah - but that does not mean we can be complacent. The world must be made ready for His arrival, and only we are up to the task. Our relationship with the infidels naturally suffers from our 'extremist' position, but other folk traditions who recognize figures similar to our Messiah, such as the Orishan faiths, are seen as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_lost_kings_teachings_astray:0 "Click here to view what doctrines [lost_kings_teachings_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_lost_kings_teachings_hostile:0 "Click here to view what doctrines [lost_kings_teachings_hostile|L] considers to be Hostile"
+
+ # Rezadeiros doctrines (defunct)
+ # Technically, these are internal tolerances, but since Rezadeiros needs to be able to select other Christianic doctrines, they're in the big group instead of their own one like Maya or Californian
+ special_doctrine_return_of_the_king_name:0 "Return of the King"
+ special_doctrine_return_of_the_king_desc:0 "The final coming of the Messiah is essential to our faith, and we will do whatever it takes to hasten His return and establish His Kingdom - even if it means we must shed our own blood or the blood of infidels."
+ special_doctrine_thy_kingdom_come_name:0 "Thy Kingdom Come"
+ special_doctrine_thy_kingdom_come_desc:0 "The Messiah is bound to come, to deliver us from evil and grant us salvation forevermore. We must be prepared to battle against the forces of darkness until then, even if His return is a thousand years away."
+ special_doctrine_the_blessed_times_name:0 "The Blessed Times"
+ special_doctrine_the_blessed_times_desc:0 "The Messiah has already blessed the world with His presence, and His sacrifice has granted salvation to all mankind. Now, we must strive to live righteously and spread His word, so that we may stand by His side in eternity."
+ special_doctrine_the_hidden_savior_name:0 "The Hidden Savior"
+ special_doctrine_the_hidden_savior_desc:0 "The Messiah walks among us, spreading his influence covertly and carefully in order to evade the sight of the evil ones. We must listen carefully to His whispered teachings, so that His work may be done without interruption from our enemies."
+ doctrine_parameter_hostility_override_special_doctrine_return_of_the_king:0 "Considers [faiths|E] with the Return of the King doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_thy_kingdom_come:0 "Considers [faiths|E] with the Thy Kingdom Come doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_the_blessed_times:0 "Considers [faiths|E] with the The Blessed Times doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_the_hidden_savior:0 "Considers [faiths|E] with the The Hidden Savior doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # New Vodun doctrines
+ special_doctrine_spirit_nations_name:0 "Spirit Nations"
+ special_doctrine_spirit_nations_desc:0 "We worship the great nations, the families of spirits who are intermediaries between this world and the divine."
+ special_doctrine_magical_masters_name:0 "Magical Masters"
+ special_doctrine_magical_masters_desc:0 "We emphasize mystical practices and a supernatural understanding of the spirits, particularly how they can intervene in the mortal world and work magical wonders."
+ special_doctrine_houses_of_saints_name:0 "Houses of Saints"
+ special_doctrine_houses_of_saints_desc:0 "We venerate the great saints and their houses, calling upon them with dance and prayer to protect us and the faithful."
+ special_doctrine_spirit_medium_name:0 "Spirit Medium"
+ special_doctrine_spirit_medium_desc:0 "Though the spirits are mighty, they require assistance to exert their powers. That is where the mediums serve, to be the body through which the spirits may influence this world."
+ doctrine_parameter_hostility_override_special_doctrine_spirit_nations:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_magical_masters:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_houses_of_saints:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_spirit_medium:0 ""
+ # Afro-Diasporic loc parameters
+ doctrine_parameter_loc_parameter_spirit_nations_desc:0 "Our faith can trace itself back to Africa, venerating great and powerful spirits who act as the intermediaries between mere mortals and the divine. Faiths which exalt similar figures, whether they be spirits or saints, or emphasize their African heritage consider us $hostility_astray_tooltippable$. While we disagree with more Catholic-suffused faiths that venerate saints who consider us $hostility_hostile_tooltippable$, we can empathize with those near us who have faced persecution for their 'heterodox' beliefs."
+ doctrine_parameter_loc_parameter_spirit_nations_astray:0 "Click here to view what doctrines [spirit_nations_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_spirit_nations_hostile:0 "Click here to view what doctrines [spirit_nations_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_magical_masters_desc:0 "Our faith has elevated the mystical and supernatural aspects of spirit worship to be a primary feature of its beliefs. With proper supplication, the spirits can be invoked by one trained in their arts and asked to perform great wonders. The called-upon spirits are sometimes likened to guardian angels, akin to beliefs present among Protestants. While this newfound synergy has rendered our relationship with other diasporic faiths more $hostility_hostile_tooltippable$, folk Protestants now view us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_magical_masters_astray:0 "Click here to view what doctrines [magical_masters_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_magical_masters_hostile:0 "Click here to view what doctrines [magical_masters_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_houses_of_saints_desc:0 "Our faith has deepened the already existing connections between diaspora spirit-worship and Catholicism, organizing the various saints into houses based on their origin, affiliation, and temperament. Though doctrinaire Catholics still view our practices as $hostility_hostile_tooltippable$, Catholic and nearby Catholic-adjacent faiths that similarly elevate saint worship view us as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_houses_of_saints_astray:0 "Click here to view what doctrines [houses_of_saints_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_houses_of_saints_hostile:0 "Click here to view what doctrines [houses_of_saints_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_spirit_medium_desc:0 "Our faith has elaborated upon the intricate connections which bind the beliefs of the diaspora and Spiritism, detailing the complex ways in which a practitioner might commune with and contact them in order to request their service in mortal matters. With our adoption of Spiritist beliefs, our opinion of many other different practices has improved, though not all of them reciprocate our friendly attitude."
+ doctrine_parameter_loc_parameter_spirit_medium_astray:0 "Click here to view what doctrines [spirit_medium_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_spirit_medium_hostile:0 "Click here to view what doctrines [spirit_medium_hostile|L] considers to be Hostile"
+
+
+ # New Rasta doctrines
+ special_doctrine_lion_of_zion_name:0 "Lion of Zion"
+ special_doctrine_lion_of_zion_desc:0 "Our beliefs are rooted in Jah and the land of Zion, lost to us across the sea. We must not quarrel too harshly with those who can trace their beliefs back to the Promised Land, no matter how misguided they may be."
+ special_doctrine_children_of_jah_name:0 "Children of Jah"
+ special_doctrine_children_of_jah_desc:0 "Though they may be unduly influenced by Babylon, we should not turn away other children of Jah, for we are ultimately all family."
+ special_doctrine_root_of_david_name:0 "Root of David"
+ special_doctrine_root_of_david_desc:0 "We are the descendants of the house of David, led by the incarnation of Jah, the Conquering Lion. All those who do not accept this truth are lost to us."
+ doctrine_parameter_hostility_override_special_doctrine_lion_of_zion:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_children_of_jah:0 ""
+ doctrine_parameter_loc_parameter_children_of_jah_exclusive:0 "Considers [faiths|E] with the Children of Jah doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_root_of_david:0 ""
+ # Rasta loc parameters
+ doctrine_parameter_loc_parameter_lion_of_zion_desc:0 "Our faith counts itself among the Afro-centric Mansions of the Rastafari movement, considering other mansions with similar pursuasions to us as $hostility_righteous_tooltippable$, with the other mansions seen as $hostility_astray_tooltippable$. As a result, we afford some respect to faiths which can back up any claims of African descendance, as well as to the folk churches of those who still follow the God of the oppressor, considering these faiths $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_lion_of_zion_astray:0 "Click here to view what doctrines [lion_of_zion_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_lion_of_zion_hostile:0 "Click here to view what doctrines [lion_of_zion_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_children_of_jah_desc:0 "Our faith counts itself among the Christian-centric Mansions of the Rastafari movement, considering other mansions with similar pursuasions to us as $hostility_righteous_tooltippable$, with the other mansions seen as $hostility_astray_tooltippable$. As a result, we have much broader appeal among the the Catholic and Protestant churches which surround us compared to the other mansions, though in most cases those churches still reject our message, rendering our relationship with them $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_children_of_jah_astray:0 "Click here to view what doctrines [children_of_jah_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_children_of_jah_hostile:0 "Click here to view what doctrines [children_of_jah_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_root_of_david_desc:0 "Our faith counts itself among the more exclusive Mansions of the Rastafari movement, considering other mansions with similar pursuasions to us as $hostility_righteous_tooltippable$, with the other mansions seen as $hostility_astray_tooltippable$. Unlike other the other mansions, ours is much more exclusive in how it regards interfaith relations, associating only with those who have recognized Jah and the Conquering Lion as their savior."
+ doctrine_parameter_loc_parameter_root_of_david_astray:0 "Click here to view what doctrines [root_of_david_astray|L] considers to be Astray"
+
+
+ # Diasporic Unity
+ special_doctrine_diasporic_unity_name:0 "Diasporic Unity"
+ special_doctrine_diasporic_unity_desc:0 "Though we may not be from this land, we can still call it home, and welcome our fellow brothers who find themselves here with us. We are stronger together."
+ doctrine_parameter_hostility_override_special_doctrine_diasporic_unity:0 ""
+ # Diasporic Unity loc parameters
+ doctrine_parameter_loc_parameter_diasporic_unity_desc:0 "Our faith seeks to bring together all of the many traditional beliefs of African descendants living in the New World, considering those faiths to be $hostility_astray_tooltippable$. We regard those with the same mission as our own as $hostility_righteous_tooltippable$, though our efforts come at the expense of being considered completely foreign by other religious movements like Christianity or the Anachronistic religions."
+ doctrine_parameter_loc_parameter_diasporic_unity_astray:0 "Click here to view what doctrines [diasporic_unity_astray|L] considers to be Astray"
+ # Afro-Diasporic Apostate
+ special_doctrine_afro_diasporic_apostate_name:0 "Unorthodox Ase"
+ special_doctrine_afro_diasporic_apostate_desc:0 "While we believe in one form or another in the existence of the supernatural powers of this world, our divergent beliefs have caused other members of the diaspora to brand us unorthodox."
+ doctrine_parameter_hostility_override_special_doctrine_afro_diasporic_apostate:0 ""
+ doctrine_parameter_loc_parameter_afro_diasporic_apostate:0 "[faiths|E] with the Spirit Nations, Magical Masters, Houses of Saints, or Spirit Medium doctrines consider us to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ # New Peyotist and Indigenaelecti doctrines
+ special_doctrine_native_american_church_name:0 "Native American Church"
+ special_doctrine_native_american_church_desc:0 "Although our liturgy and rituals diverge from the rest of mainstream Christianity, we are nevertheless recognized as Christian by the churches we have existed alongside since the antediluvian world."
+ special_doctrine_great_spirits_servants_name:0 "Great Spirit's Servants"
+ special_doctrine_great_spirits_servants_desc:0 "The Great Spirit may stand supreme, but there are countless other forces of this world, natural or supernatural, who can be called upon for help or harm. We find commonality with those who understand this truth."
+ special_doctrine_revival_dance_name:0 "Revival Dance"
+ special_doctrine_revival_dance_desc:0 "We seek to revive the ways of our people, to lead them to a new church, a new world, a new era."
+ special_doctrine_red_road_name:0 "Red Road"
+ special_doctrine_red_road_desc:0 "We believe in the Great Spirit and maintain our ancient traditions against the contamination of Christendom."
+ doctrine_parameter_hostility_override_special_doctrine_native_american_church:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_great_spirits_servants:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_revival_dance:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_red_road:0 ""
+ # Peyotist and Indigenaelecti loc parameters
+ doctrine_parameter_loc_parameter_native_american_church_desc:0 "Our faith merges tradition and Christianity together, creating a syncretic belief system that resonates with our people deeply. We consider faiths which share those traditions, alongside faiths of the Christian mainstream around us, to be $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_native_american_church_astray:0 "Click here to view what doctrines [native_american_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_great_spirits_servants_desc:0 "Our faith recognizes that while there is a single god, there are many lesser spirits which inhabit this world and the next one, who can be called upon for help or harm. The Vodun faiths, who agree with this theological structure, alongside the periphery of Christendom that venerates spiritual beings to be $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_great_spirits_servants_astray:0 "Click here to view what doctrines [great_spirits_servants_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_revival_dance_desc:0 "Our faith, merging Christendom and our traditional ways, has been appointed to be the church of our people, to lead them in this new world, this new era, towards prosperity. While we consider other indigenous faiths with similar beliefs to be $hostility_astray_tooltippable$, our relationship with Christendom is far worse, with only the faiths that have traditionally been associated with the indigenous people of the Americas considering us $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_revival_dance_astray:0 "Click here to view what doctrines [revival_dance_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_revival_dance_hostile:0 "Click here to view what doctrines [revival_dance_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_red_road_desc:0 "Our faith, unlike our brethren, seeks to preserve our customs and beliefs against Christian contamination and intermixing. Despite our differing beliefs, we still ultimately see our sibling faiths as $hostility_astray_tooltippable$, as misguided as they may be with regards to their opinion of Christian theological mixing."
+ doctrine_parameter_loc_parameter_red_road_astray:0 "Click here to view what doctrines [red_road_astray|L] considers to be Astray"
+ 
+ # New Originario doctrine
+ special_doctrine_ancestral_church_name:0 "Ancestral Church"
+ special_doctrine_ancestral_church_desc:0 "Our faith is the faith of two worlds, a middle way between the beliefs of those who lived on this land since before history began and the beliefs of those who came to this new world. Those with similar origins to our own have our respect."
+ doctrine_parameter_hostility_override_special_doctrine_ancestral_church:0 ""
+ doctrine_parameter_loc_parameter_ancestral_church_desc:0 "Our faith is of two worlds - one being the world of those who have lived on this land before history began, and one being the world of those who came from across the sea. We consider other ancestral churches to be $hostility_astray_tooltippable$, while those faiths that resemble the Christian world we draw upon are considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_ancestral_church_hostile:0 "Click here to view what doctrines [ancestral_church_hostile|L] considers to be Hostile"
+
+ # New Seaspray doctrines
+ special_doctrine_child_of_the_ocean_name:0 "Child of the Ocean"
+ special_doctrine_child_of_the_ocean_desc:0 "We are the children of the great sea, sustained by his bounty and subject to his love and wrath. To say otherwise would be to deny our heritage."
+ special_doctrine_sea_sacrament_name:0 "Sea Sacrament"
+ special_doctrine_sea_sacrament_desc:0 "The ocean welcomes us, cleansing away our sins in its waves. While we may preserve the old rites used by outsiders, our primary focus is still the lifegiving waters around us."
+ doctrine_parameter_hostility_override_special_doctrine_child_of_the_ocean:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_sea_sacrament:0 ""
+ doctrine_parameter_loc_parameter_child_of_the_ocean_desc:0 "Our faith is inextricably bound to the great ocean, in low or high tide, in calm or storm. We consider other faiths that respect the ocean as we do to be $hostility_astray_tooltippable$, while those who have strayed from the sea's welcoming embrace are regarded as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_child_of_the_ocean_astray:0 "Click here to view what doctrines [child_of_the_ocean_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_child_of_the_ocean_hostile:0 "Click here to view what doctrines [child_of_the_ocean_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_sea_sacrament_desc:0 "Our faith respects both the ocean and the old rites, seeing them not as mutually exclusive but complementary to each other. Though outsiders still regard us as $hostility_hostile_tooltippable$, those who respect the sea consider us $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_sea_sacrament_astray:0 "Click here to view what doctrines [sea_sacrament_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_sea_sacrament_hostile:0 "Click here to view what doctrines [sea_sacrament_hostile|L] considers to be Hostile"
+
+
+ # Occult easter egg doctrine
+ special_doctrine_secrets_of_the_occult_name:0 "Secrets of the Occult"
+ special_doctrine_secrets_of_the_occult_desc:0 "We have dedicated ourselves to rediscovering and protecting the ancient secrets of this world, which are beyond mere materiality."
+ doctrine_parameter_hostility_override_special_doctrine_secrets_of_the_occult:0 "Considers [faiths|E] with the Secrets of the Occult doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+
+ # Satanic easter egg doctrine
+ special_doctrine_enemies_of_god_name:0 "Enemies of God"
+ special_doctrine_enemies_of_god_desc:0 "Let the slaves of the tyrant shepherd decry us as demonic - we have cast aside their lies! Though our cause is just, our allies are scarce, and we must value those who have recognized the truth of things."
+ doctrine_parameter_hostility_override_special_doctrine_enemies_of_god:0 ""
+ doctrine_parameter_loc_parameter_enemies_of_god:0 "Considers [faiths|E] with the Enemies of God doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V], but the overwhelming majority of Christian faiths consider us $hostility_evil_tooltippable$."
+
+ # Human sacrifice easter egg doctrine
+ special_doctrine_divine_wine_name:0 "Divine Wine"
+ special_doctrine_divine_wine_desc:0 "The body and blood of the savior runs through us all. It is only logical, then, to partake in the most holy communion possible..."
+ doctrine_parameter_hostility_override_special_doctrine_divine_wine:0 ""
+ doctrine_parameter_loc_parameter_divine_wine:0 "Considers [faiths|E] with the Divine Wine doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V], but the overwhelming majority of Christian faiths consider us $hostility_evil_tooltippable$."
+
+# Human sacrifice easter egg doctrine
+ special_doctrine_neo_gnosticism_name:0 "Neo-Gnosticism"
+ special_doctrine_neo_gnosticism_desc:0 "Hidden for centuries, we have uncovered the deep, transcendental truth about this flawed world and its creator."
+ doctrine_parameter_hostility_override_special_doctrine_neo_gnosticism:0 ""
+ doctrine_parameter_loc_parameter_neo_gnosticism:0 "Considers [faiths|E] with the Neo-Gnosticism doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] while Spiritist faiths and the Perfect Spirit doctrine are considered to be $hostility_astray_tooltippable$. However, the majority of traditional and hierarchical Christian faiths consider us $hostility_evil_tooltippable$."
+
+
+ # New Catholic doctrines
+ special_doctrine_stewards_of_the_church_name:0 "Stewards of the Church"
+ special_doctrine_stewards_of_the_church_desc:0 "We protect the flock of the Church of Saint Peter in these trying times, where keys are lost and the faithful forget. We respect other Christians who have similarly ancient origins as us, misguided as they may be."
+ special_doctrine_memory_of_rome_name:0 "Memory of Rome"
+ special_doctrine_memory_of_rome_desc:0 "Though our beliefs have evolved over time, we still remember the mother church in the Holy See across the ocean. Other Christians with similar beliefs as the ones we have now view us positively."
+ special_doctrine_heirs_to_the_vatican_name:0 "Heirs to the Vatican"
+ special_doctrine_heirs_to_the_vatican_desc:0 "We are the successors of Saint Peter, the one, holy, catholic, and apostolic Church. Though other misguided Catholics reject us, we might find more purchase with other Christians."
+ special_doctrine_independent_church_name:0 "Independent Church"
+ special_doctrine_independent_church_desc:0 "Other Catholics bicker amongst themselves over the status of Rome and the matter of succession, we no longer concern ourselves with such matters. We are well and truly independent, and enjoy better relations with other similarly free Christians."
+ special_doctrine_canon_of_saints_name:0 "Canon of Saints"
+ special_doctrine_canon_of_saints_desc:0 "Our faith places special emphasis on the vast list of canonized saints, both those from the Old World and the New. Many churches have shrines to a local saint, who are believed to intervene to help the lives of their followers."
+ special_doctrine_syllabus_of_errors_name:0 "Syllabus of Errors"
+ special_doctrine_syllabus_of_errors_desc:0 "Countless mistakes, heresies and errors have come into the world and led mankind far from God's intended path, even amongst those that dare call themselves Christians."
+ doctrine_parameter_is_orthodox_catholic_loc:5 "Is considered an orthodox Catholic faith"
+ doctrine_parameter_is_unorthodox_catholic_loc:5 "Is considered an unorthodox Catholic faith"
+ doctrine_parameter_hostility_override_special_doctrine_stewards_of_the_church:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_memory_of_rome:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_heirs_to_the_vatican:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_canon_of_saints:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_independent_church:0 ""
+ # Catholic loc parameters
+ doctrine_parameter_loc_parameter_stewards_of_the_church_desc:0 "Our faith maintains the traditions of the Catholic Church of old, protecting the faithful who remain after contact with Rome was lost. As representatives of the church, we consider other Catholics who respect Rome as $hostility_astray_tooltippable$, while Christians with similarly ancient origins, or former Catholics who have forsaken the Vatican, are seen as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_stewards_of_the_church_astray:0 "Click here to view what doctrines [stewards_of_the_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_stewards_of_the_church_hostile:0 "Click here to view what doctrines [stewards_of_the_church_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_memory_of_rome_desc:0 "Our faith maintains the trappings of Catholicism, and holds dear the memory of contact with the Holy See. Still, times have changed greatly, and we cannot allow ourselves to be bogged down in theological disputes when the church is under constant threat from foes new and old. We regard many other Catholics, alongside the ancient Eastern churches, as $hostility_astray_tooltippable$, while mainstream Protestants and traditions descended from Catholicism are $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_memory_of_rome_astray:0 "Click here to view what doctrines [memory_of_rome_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_memory_of_rome_hostile:0 "Click here to view what doctrines [memory_of_rome_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_heirs_to_the_vatican_desc:0 "Our faith is not a steward or devolution, but the direct continuation of the church founded by Saint Peter himself. As the one true Catholic church, most other Catholics consider us $hostility_hostile_tooltippable$, alongside many other Christian denominations, old and new."
+ doctrine_parameter_loc_parameter_heirs_to_the_vatican_astray:0 "Click here to view what doctrines [heirs_to_the_vatican_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_heirs_to_the_vatican_hostile:0 "Click here to view what doctrines [heirs_to_the_vatican_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_independent_church_desc:0 "Our faith preserves Catholic traditions, but has distinguished itself from the majority of Catholicism by proclaiming independence from the church in Rome. Eastern Christians, who have a similar history to our own, regard us as $hostility_astray_tooltippable$, while the rest of Catholicism considers us $hostility_hostile_tooltippable$. Thanks to our independent status, other Christian denominations who are similarly free from the burden of the Vatican consider us $hostility_hostile_tooltippable$ as well."
+ doctrine_parameter_loc_parameter_independent_church_astray:0 "Click here to view what doctrines [independent_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_independent_church_hostile:0 "Click here to view what doctrines [independent_church_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_canon_of_saints_desc:0 "Our faith is focused upon the veneration of saints, those figures who have been canonized for the miracles they worked in their lifetimes and can intercede in the lives of believers. Other more rigid Catholics accuse us of elevating veneration to the exclusion of other doctrine, making our relations with them $hostility_hostile_tooltippable$, but we have improved relations with other Christians who respect the saints, or even non-Christians with figures we recognize to be our saints."
+ doctrine_parameter_loc_parameter_canon_of_saints_astray:0 "Click here to view what doctrines [canon_of_saints_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_canon_of_saints_hostile:0 "Click here to view what doctrines [canon_of_saints_hostile|L] considers to be Hostile"
+
+
+ # New Protestant doctrines
+ special_doctrine_mainstream_protestant_name:0 "Mainstream Protestant"
+ special_doctrine_mainstream_protestant_desc:0 "Our faith can trace its heritage back to the ancient world, when the errors of the Catholics were rectified by the visionaries of the Reformation. Though they may be misguided, we respect those Christians who share that mission of reform with us."
+ special_doctrine_low_church_name:0 "Low Church"
+ special_doctrine_low_church_desc:0 "While our origins still lie in the Reformation, our faith has evolved to suit the people who practice it. Other Christians with similar histories, or similar attitudes towards folk practices, view us positively."
+ special_doctrine_charismata_name:0 "Charismata" 
+ special_doctrine_charismata_desc:0 "The gifts of the spirit which the Apostles experienced in the Bible did not end with their passing. Other faiths which experience God’s gifts view us better than those churches which reject our truth."
+ special_doctrine_old_covenant_name:0 "Old Covenant"
+ special_doctrine_old_covenant_desc:0 "The Hebrew roots of our faith are both obvious and undeniable. It would be wrong of us to condemn faiths with similar roots as our own."
+ special_doctrine_infallible_doctrine_name:0 "Infallible Doctrine"
+ special_doctrine_infallible_doctrine_desc:0 "We alone hold the true interpretation of the infallible and inerring truth of Jesus and the Bible. All other supposed 'Christians' are little more than heretics and impostors."
+ doctrine_parameter_is_orthodox_protestant_loc:5 "Is considered an orthodox Protestant faith"
+ doctrine_parameter_is_unorthodox_protestant_loc:5 "Is considered an unorthodox Protestant faith"
+ doctrine_parameter_hostility_override_special_doctrine_mainstream_protestant:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_low_church:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_charismata:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_old_covenant:0 ""
+ # Protestant loc parameters
+ doctrine_parameter_loc_parameter_mainstream_protestant_desc:0 "Our faith is a byproduct of the Reformation, the ancient event in the antediluvian world in which the visionary Reformers corrected the church after the Catholics had led it astray. Other pre-[Concept('the_event_ate','Event')|E] Reformation denominations are usually regarded as $hostility_astray_tooltippable$. Ancient Christian denominations, alongside Protestant-derived faiths with significant deviations from the Reformers' visions, are viewed as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_mainstream_protestant_astray:0 "Click here to view what doctrines [mainstream_protestant_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_mainstream_protestant_hostile:0 "Click here to view what doctrines [mainstream_protestant_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_low_church_desc:0 "Our faith is descended from the Reformation, but it has evolved to meet the needs of its believers, especially in a world still reeling from the [Concept('the_event_ate','Event')|E]. Unlike the more doctrinaire Protestants, we consider more post-Event evolutions of Protestantism to be $hostility_astray_tooltippable$, though this comes at the cost of fewer pre-Event denominations like Catholicism seeing us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_low_church_astray:0 "Click here to view what doctrines [low_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_low_church_hostile:0 "Click here to view what doctrines [low_church_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_charismata_desc:0 "Our faith cherishes the charismata, the spiritual gifts and miracles given directly from God to His believers. Our recognition of these gifts earns us no friends among non-Protestant-derived faiths. However, denominations that recognize the mystical power of God regard us as $hostility_astray_tooltippable$, while other similarly-marginalized Christians consider us $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_charismata_astray:0 "Click here to view what doctrines [charismata_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_charismata_hostile:0 "Click here to view what doctrines [charismata_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_old_covenant_desc:0 "Our faith acknowledges that Christianity and Judaism share a common origin and history. While many Protestants claim to be the original church, only we back those words up with action to restore connections between two children of Abraham. We consider faiths with similar projects to our own as $hostility_astray_tooltippable$, while other ancient denominations are viewed as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_old_covenant_astray:0 "Click here to view what doctrines [old_covenant_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_old_covenant_hostile:0 "Click here to view what doctrines [old_covenant_hostile|L] considers to be Hostile"
+
+
+ # New Mormon doctrines
+ special_doctrine_latter_day_saints_name:0 "Latter-Day Saints"
+ special_doctrine_latter_day_saints_desc:0 "We are the followers of Jesus Christ in the latter days of the world, close to His advent and Second Coming. Though we try to find common ground with the Christians of the former day, our unique beliefs cause us to be seen with disdain by some."
+ special_doctrine_original_church_name:0 "Original Church"
+ special_doctrine_original_church_desc:0 "Although we trace our spiritual heritage to the message of Moroni, we have also gone to great lengths to achieve harmony with our fellow Christians. These efforts have paid off, mostly."
+ special_doctrine_mormon_fundamentalism_name:0 "Last Dispensation"
+ special_doctrine_mormon_fundamentalism_desc:0 "The mainstream Latter Day Saint movement has forgotten the original teachings of Joseph Smith, bending themselves to contort to the societal expectations of nonbelievers. We preserve the old doctrine."
+ special_doctrine_final_revelation_name:0 "Final Revelation"
+ special_doctrine_final_revelation_desc:0 "God has given us the final revelation: that we alone defend the faith against the infidels and perverters of truth. The Latter Days are ending, and the Second Coming is nigh!"
+ doctrine_parameter_hostility_override_special_doctrine_latter_day_saints:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_original_church:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_mormon_fundamentalism:0 ""
+ # Mormon loc parameters
+ doctrine_parameter_loc_parameter_latter_day_saints_desc:0 "Our faith is the church restored by Joseph Smith, with our preparations for the Latter Days justified by the [Concept('the_event_ate','Event')|E]. We regard many Christians with origins in Protestantism, alongside those who acknowledge the special divine place of the Americas, as $hostility_astray_tooltippable$, while many other Christians are seen as $hostility_hostile_tooltippable$. Unfortunately, many Christians view our unique beliefs with suspicion, causing them to not reciprocate our overtures for understanding."
+ doctrine_parameter_loc_parameter_latter_day_saints_astray:0 "Click here to view what doctrines [latter_day_saints_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_latter_day_saints_hostile:0 "Click here to view what doctrines [latter_day_saints_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_original_church_desc:0 "Our faith seeks to restore the original church created by Jesus Christ by bringing together all of his flock. We consider other faiths who restore the original church to be $hostility_righteous_tooltippable$, while other pre-[Concept('the_event_ate','Event')|E] Christian denominations who are part of our project are $hostility_astray_tooltippable$. Unfortunately, the Mormon Fundamentalists reject our message, forcing relations between us to be $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_original_church_astray:0 "Click here to view what doctrines [original_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_original_church_hostile:0 "Click here to view what doctrines [original_church_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_mormon_fundamentalism_desc:0 "Our faith has stayed true to the gospel preached by Joseph Smith, refusing to change to appease the heretics and non-believers. Our refusal to bend God's word to worldly pressures has isolated us; only other Mormons, Protestants, and faiths that see the Americas as holy are considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_mormon_fundamentalism_astray:0 "Click here to view what doctrines [mormon_fundamentalism_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_mormon_fundamentalism_hostile:0 "Click here to view what doctrines [mormon_fundamentalism_hostile|L] considers to be Hostile"
+
+
+ # New Eastern Christian doctrines
+ special_doctrine_eastern_rite_name:0 "Eastern Rite"
+ special_doctrine_eastern_rite_desc:0 "Our faith descends from the ancient Orthodox Church across the sea. This antique origin earns us respect from some of our fellow Christians, and we in turn respect them."
+ special_doctrine_non_chalcedonian_name:0 "Non-Chalcedonian Christology"
+ special_doctrine_non_chalcedonian_desc:0 "In general, certain ancient churches which reject parts of the Council of Chalcedon can find purchase with similarly old traditions."
+
+ special_doctrine_non_chalcedonian_miaphysite_rite_name:0 "Miaphysite Rite"
+ special_doctrine_non_chalcedonian_miaphysite_rite_desc:0 "As one of the oldest branches of Christianity, fellow followers of Miaphysite traditions are few and far between in the Americas. This ancient origin gives us commonality with other older denominations, though we struggle to find such with newer doctrines."
+ special_doctrine_non_chalcedonian_assyrian_rite_name:0 "Syriac Rite"
+ special_doctrine_non_chalcedonian_assyrian_rite_desc:0 "Once derisively called 'Nestorian,' in the post-[Concept('the_event_ate','Event')|E] Americas followers of rites in the Syriac style are especially rare. However, our venerable age and history of peaceful ecumenism gives us some purchase with similarly old traditions, at the expense of relations with newer ones."
+ special_doctrine_autocephalous_church_name:0 "Autocephalous Church"
+ special_doctrine_autocephalous_church_desc:0 "Our faith has developed a number of unique traditions and beliefs which distinguish us from the mainstream of Eastern Christianity, but we still enjoy recognition as an autonomous church."
+ special_doctrine_eastern_catholic_name:0 "Eastern Catholic"
+ special_doctrine_eastern_catholic_desc:0 "While our liturgical rites may be Catholic, we are culturally Eastern. As a result, we tread a middle road between the oldest churches of Christendom."
+ special_doctrine_spiritual_christianity_name:0 "Spiritual Christianity"
+ special_doctrine_spiritual_christianity_desc:0 "While we may trace our culture to the Eastern churches, we resemble the Protestants in our practices. As a result, we tread a middle road between the two movements who demurred with Rome."
+ special_doctrine_theoria_and_theosis_name:0 "Theoria and Theosis"
+ special_doctrine_theoria_and_theosis_desc:0 "We emphasize the venerable spiritual and monastic traditions preserved by Eastern Christianity. Other faiths with similarly esoteric doctrines find much to agree with us on, though most view us with suspicion."
+ special_doctrine_unaltered_church_name:0 "Unaltered Church"
+ special_doctrine_unaltered_church_desc:0 "All other denominations have twisted the original message of Christ. Only we have kept true to God amongst the sea of nonbelievers."
+ doctrine_parameter_is_orthodox_eastern_loc:5 "Is considered an orthodox Eastern Christian faith"
+ doctrine_parameter_is_unorthodox_eastern_loc:5 "Is considered an unorthodox Eastern Christian faith"
+ doctrine_parameter_hostility_override_special_doctrine_eastern_rite:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_non_chalcedonian:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_autocephalous_church:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_eastern_catholic:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_spiritual_christianity:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_theoria_and_theosis:0 ""
+ # Eastern Christian loc parameters
+ doctrine_parameter_loc_parameter_eastern_rite_desc:0 "Our faith descends from the ancient Orthodox church, who split with the Catholics millennia ago in the hazy past. Faiths with similar Eastern heritage to our own, as well as Catholics who have rejected the Pope in Rome, are viewed as $hostility_astray_tooltippable$, while other pre-[Concept('the_event_ate','Event')|E] churches are considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_eastern_rite_astray:0 "Click here to view what doctrines [eastern_rite_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_eastern_rite_hostile:0 "Click here to view what doctrines [eastern_rite_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_non_chalcedonian_desc:0 "Our faith professes a Christology that differs in some way from the ancient Council of Chalcedon. Once a source of extreme debate in Christendom, the divide separating us from the Chalcedonians has been mostly set aside after the [Concept('the_event_ate','Event')|E], resulting in us seeing other Eastern churches and most Catholics as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_non_chalcedonian_astray:0 "Click here to view what doctrines [non_chalcedonian_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_non_chalcedonian_hostile:0 "Click here to view what doctrines [non_chalcedonian_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_autocephalous_church_desc:0 "Our faith, while maintaining the cultural heritage of Eastern Christianity, has evolved to the point of distinguishing itself from the old pre-[Concept('the_event_ate','Event')|E] doctrines. Still, these differences can be accomodated for, resulting in us being viewed as a valid $hostility_astray_tooltippable$ autonomous church. Our adaptations give us more common ground with other Christians, with many of them considering us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_autocephalous_church_astray:0 "Click here to view what doctrines [autocephalous_church_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_autocephalous_church_hostile:0 "Click here to view what doctrines [autocephalous_church_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_eastern_catholic_desc:0 "Our faith is an intersection between the two ancient churches of Christianity, the Catholic and Eastern Churches. While we may follow Catholic doctrine, we preserve the unique aspects Eastern cultural tradition brings to our faith. Other more traditional Catholic faiths and the major Eastern churches see us as $hostility_astray_tooltippable$, while non-traditional churches from either denomination view us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_eastern_catholic_astray:0 "Click here to view what doctrines [eastern_catholic_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_eastern_catholic_hostile:0 "Click here to view what doctrines [eastern_catholic_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_spiritual_christianity_desc:0 "Our faith is categorized among the so-called ‘folk Protestants’, originating from movements which rejected the needless rituals and posturings of the traditional Eastern churches and instead sought solace with God and God alone. While we may resemble Protestantism in doctrine and practice, we preserve the unique aspects Eastern cultural tradition brings to our faith. Other Protestant faiths and the major Eastern churches see us as $hostility_astray_tooltippable$, while non-traditional churches from either denominations view us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_spiritual_christianity_astray:0 "Click here to view what doctrines [spiritual_christianity_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_spiritual_christianity_hostile:0 "Click here to view what doctrines [spiritual_christianity_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_theoria_and_theosis_desc:0 "Our faith continues the Eastern Christianity's preservation of the mystical and spiritual traditions of the ancient church, such as the hesychasm and the Jesus prayer. Other Eastern Christians respect our efforts and view us as $hostility_astray_tooltippable$, but only the unorthodox Catholics consider us to be $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_theoria_and_theosis_astray:0 "Click here to view what doctrines [theoria_and_theosis_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_theoria_and_theosis_hostile:0 "Click here to view what doctrines [theoria_and_theosis_hostile|L] considers to be Hostile"
+
+
+ # New Post-Adventist doctrines
+ special_doctrine_new_dispensation_name:0 "New Dispensation"
+ special_doctrine_new_dispensation_desc:0 "The [Concept('the_event_ate','Event')|E] has heralded a new age for humanity, in a physical, societal, and spiritual sense. Accordingly, a new teaching is needed to guide us to God's grace."
+ special_doctrine_millennial_age_name:0 "Millennial Age"
+ special_doctrine_millennial_age_desc:0 "The [Concept('the_event_ate','Event')|E] was the opening shot to the End of Days. While old practices may hold some merit, we must make sure they stay true in the final hours of this world."
+ special_doctrine_perfect_spirit_name:0 "Perfect Spirit"
+ special_doctrine_perfect_spirit_desc:0 "We have opened our eyes to the ultimate truth, and seek to perfect ourselves in God’s grace. Let the fallen quarrel with each other - we shall find greatness in the divine."
+ special_doctrine_new_universal_revelation_name:0 "New Universal Revelation"
+ special_doctrine_new_universal_revelation_desc:0 "Catholicism is to us as Judaism was to Christianity. The tragedies that have befallen the church have proven that she has lost her way, and a radical renewal of doctrine must be made in order to recapture the teachings of Christ and the lineage of Saint Peter."
+ special_doctrine_exclusive_elect_name:0 "Exclusive Elect"
+ special_doctrine_exclusive_elect_desc:0 "The apocalypse is here, now. The old world has crumbled, and in this anarchy we alone are the chosen flock who will find salvation."
+ doctrine_parameter_is_orthodox_post_adventist_loc:5 "Is considered an orthodox Post-Adventist faith"
+ doctrine_parameter_is_unorthodox_post_adventist_loc:5 "Is considered an unorthodox Post-Adventist faith"
+ doctrine_parameter_hostility_override_special_doctrine_new_dispensation:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_millennial_age:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_new_universal_revelation:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_perfect_spirit:0 ""
+ # Post-Adventist loc parameters
+ doctrine_parameter_loc_parameter_new_dispensation_desc:0 "Our faith considers the [Concept('the_event_ate','Event')|E] to have been the decisive end of the old days and the beginning of a new era. Other denominations that recognize the necessity for a new church in these times are seen as $hostility_astray_tooltippable$, while other theologically similar Protestant-derived denominations are seen as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_new_dispensation_astray:0 "Click here to view what doctrines [new_dispensation_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_new_dispensation_hostile:0 "Click here to view what doctrines [new_dispensation_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_millennial_age_desc:0 "Our faith considers the [Concept('the_event_ate','Event')|E] to have been the beginning of the end, the first of many cataclysms which will end this world and usher in the new heaven and earth. By retaining more connections to the Protestant fold, those denominations see us as $hostility_astray_tooltippable$, while fewer post-Event denominations have positive relations with us."
+ doctrine_parameter_loc_parameter_millennial_age_astray:0 "Click here to view what doctrines [millennial_age_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_millennial_age_hostile:0 "Click here to view what doctrines [millennial_age_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_perfect_spirit_desc:0 "Our faith cares not for the other Christian denominations squabbling for dominance in this doomed world. We instead strive to live up to our title as God's children, to perfect ourselves in mind, body, and spirit. A select few denominations with similar missions to our own see us as $hostility_astray_tooltippable$, while other Reawakened and the orthodox Protestants regard us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_perfect_spirit_astray:0 "Click here to view what doctrines [perfect_spirit_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_perfect_spirit_hostile:0 "Click here to view what doctrines [perfect_spirit_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_new_universal_revelation_desc:0 "Our faith is the one true universal church, the legitimate heir to Saint Peter's lineage from which others have strayed. The old church, once the master of the Americas, has been laid low, and she must be renewed and restored in order to survive in this new age. While we retain many of the trappings of Catholicism, our alleged "deviations" have caused most of those stuck in the old ways to regard us as anathema. However, those faiths which understand the necessity of restoring the original church now see us as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_new_universal_revelation_astray:0 "Click here to view what doctrines [new_universal_revelation_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_new_universal_revelation_hostile:0 "Click here to view what doctrines [new_universal_revelation_hostile|L] considers to be Hostile"
+
+
+ # New Divina Patriota doctrines
+ special_doctrine_libertadores_name:0 "Libertadores"
+ special_doctrine_libertadores_desc:0 "We place special emphasis on the pantheon of saints who first freed the peoples of the Americas from oppression."
+ special_doctrine_revolucionarios_name:0 "Revolucionario"
+ special_doctrine_revolucionarios_desc:0 "We place special emphasis on the newer pantheon of saints, who sought to upturn the status quo and bring liberation and prosperity to the peoples of the Americas."
+ special_doctrine_liberacion_de_la_patria_name:0 "Liberación de la Patria"
+ special_doctrine_liberacion_de_la_patria_desc:0 "We have done away with the unnecessary baggage we brought when the Divina Patriota movement began. We venerate the forces which liberated the fatherland alone, without contamination from old doctrine."
+ special_doctrine_la_tierra_santa_name:0 "La Tierra Santa"
+ special_doctrine_la_tierra_santa_desc:0 "'Si de Rómulo, Roma; de Bolívar, Bolivia.' We seek the liberation of the Holy Land at any cost, bringing us into conflict with pagans, nonbelievers, and more complacent among the Divina Patriota movement."
+ doctrine_parameter_is_orthodox_divina_patriota_loc:5 "Is considered an orthodox Divina Patriota faith"
+ doctrine_parameter_hostility_override_special_doctrine_libertadores:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_revolucionarios:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_liberacion_de_la_patria:0 ""
+ doctrine_parameter_loc_parameter_libertadores_desc:0 "Our faith regards the liberation of the Americas as a uniquely divine act, one led by a cast of saints who still watch over the inhabitants of the land they freed. Other Catholic-adjacent faiths who venerate saints, alongside those who recognize the divine status of the Americas, are considered $hostility_astray_tooltippable$, while Catholics who still look to foreign lands for guidance are considered $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_libertadores_astray:0 "Click here to view what doctrines [libertadores_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_libertadores_hostile:0 "Click here to view what doctrines [libertadores_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_revolucionarios_desc:0 "Our faith regards the liberation of the Americas as a uniquely divine act, one led by a cast of saints who rose to represent the people and the ideals they represent. Due to the revolutionary nature of our beliefs, many doctrinaire Catholics see us as $hostility_hostile_tooltippable$ or even $hostility_evil_tooltippable$, but those who similarly suffered under persecution in the past, such as the diasporic faiths of the Caribbean, or in the present, such as the folk post-Catholics, find common ground with us and view us as  $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_revolucionarios_astray:0 "Click here to view what doctrines [revolucionarios_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_revolucionarios_hostile:0 "Click here to view what doctrines [revolucionarios_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_liberacion_de_la_patria_desc:0 "Our faith no longer considers itself part of the main Christian continuum, revering the freedom of the Americas alone without doctrinal interference from the churchs that cling to the past. Other post-Christian faiths, as well as those who recognize the sacred status of this land, are viewed as $hostility_astray_tooltippable$, but Divina Patriota faiths who retain vestiges of the old ways are seen as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_liberacion_de_la_patria_astray:0 "Click here to view what doctrines [liberacion_de_la_patria_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_liberacion_de_la_patria_hostile:0 "Click here to view what doctrines [liberacion_de_la_patria_hostile|L] considers to be Hostile"
+
+
+ # New Veteranic doctrines
+ special_doctrine_lest_we_forget_name:0 "Lest We Forget"
+ special_doctrine_lest_we_forget_desc:0 "Our core belief rests on recognizing the the sacrifice of the Unknown Saviour. Whatever small differences exist, other faiths which also acknowedge his death for us are valid."
+ doctrine_parameter_follows_grand_command:0 "We recognize the spiritual authority of the Grand Command, considering the title to be our [head_of_faith|E]."
+ special_doctrine_in_flanders_field_name:0 "In Flanders Field"
+ special_doctrine_in_flanders_field_desc:0 "While we may agree with the theology of the Grand Command and her followers, their reverence for the institution of the legion distracts them from the good work of the Unknown Saviour and why he died for us."
+ special_doctrine_legion_of_believers_name:0 "Legion of Believers"
+ special_doctrine_legion_of_believers_desc:0 "There is commonality to be found amongst all of the followers of the Unknown Saviour, even those who only recognize His first sacrifice for this world."
+ special_doctrine_live_and_let_live_name:0 "Live and Let Live"
+ special_doctrine_live_and_let_live_desc:0 "'Put your sword back in its place… for all who draw the sword will die by the sword. Blessed are the peacemakers, for they shall be called sons of God'."
+ special_doctrine_hold_the_torch_high_name:0 "Hold the Torch High"
+ special_doctrine_hold_the_torch_high_desc:0 "The old churches have fallen, condemned for their choice to side with the Enemy in the War to End All. The Unknown Saviour has entrusted us and us alone with the burden of carrying the torch of the new church."
+ doctrine_parameter_hostility_override_special_doctrine_lest_we_forget:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_in_flanders_field:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_legion_of_believers:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_live_and_let_live:0 ""
+ doctrine_parameter_loc_parameter_lest_we_forget_desc:0 "Our faith venerates the Unknown Savior and his sacrifice, with the Grand Command being the church he established in his second lifetime to be the new church on this world. Those who acknowledge the Command's supremacy are seen as $hostility_righteous_tooltippable$, but we have increasingly worse relations with other Veteranics who do not recognize the Command's authority."
+ doctrine_parameter_loc_parameter_lest_we_forget_astray:0 "Click here to view what doctrines [lest_we_forget_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_lest_we_forget_hostile:0 "Click here to view what doctrines [lest_we_forget_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_in_flanders_field_desc:0 "Our faith venerates the Unknown Savior, but declares that blind devotion to the Grand Command distracts from the true nature of his sacrifice and misleads the faithful from his message. Other orthodox Veteranics who reject the Command are seen as $hostility_righteous_tooltippable$, and the mislead under the Command are regard as $hostility_astray_tooltippable$, but the unorthodox Veteranics see us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_in_flanders_field_astray:0 "Click here to view what doctrines [in_flanders_field_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_in_flanders_field_hostile:0 "Click here to view what doctrines [in_flanders_field_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_legion_of_believers_desc:0 "Our faith emphasizes the common ground between the Veteranic denomination and other Christian groups, seeking to bring all who recognize either of the Unknown Saviour's lives under one banner. The orthodox Veteranics consider us to be $hostility_hostile_tooltippable$, but unlike them, many nearby Christian faiths view us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_legion_of_believers_astray:0 "Click here to view what doctrines [legion_of_believers_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_legion_of_believers_hostile:0 "Click here to view what doctrines [legion_of_believers_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_live_and_let_live_desc:0 "Our faith does not judge those who do not believe the exact doctrine we profess - the Unknown Saviour died for all of us, even those who do not believe in Him. Other faiths with a similar perspective are considered $hostility_righteous_tooltippable$, while many Christian denominations, both new and old, are seen as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_live_and_let_live_astray:0 "Click here to view what doctrines [live_and_let_live_astray|L] considers to be Astray"
+
+ # New Extatico and friends doctrines (Called Intercessory)
+ special_doctrine_saintly_spirits_name:0 "Saintly Spirits"
+ special_doctrine_saintly_spirits_desc:0 "Some call them saints, some call them spirits, but we all acknowledge the power of those who are less than the divine but more than a common man."
+ special_doctrine_saintly_death_name:0 "Saintly Death"
+ special_doctrine_saintly_death_desc:0 "There might be many saints able to intercede between God and man, but the most powerful of them all is, without a doubt, Death herself."
+ special_doctrine_saints_and_devils_name:0 "Saints and Devils"
+ special_doctrine_saints_and_devils_desc:0 "There are forces beyond the human in this world, not all of which are aligned with the light of good. We must fear and respect them, and try not to draw their ire."
+ special_doctrine_new_prophets_name:0 "New Prophets"
+ special_doctrine_new_prophets_desc:0 "We have evolved past Christianity completely - what the cross-worshippers call saints, we recognize for their true nature."
+ doctrine_parameter_hostility_override_special_doctrine_saintly_spirits:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_saintly_death:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_saints_and_devils:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_new_prophets:0 ""
+ doctrine_parameter_loc_parameter_saintly_spirits_desc:0 "Our faith recognizes the supernatural power of the saints, who can intercede in the mortal world to help believers. Other faiths that venerate saints in similar ways to our own practices are viewed as $hostility_astray_tooltippable$, while the Catholic faiths we evolved from, and the orthodox Eastern churches who also venerate saints, regard us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_saintly_spirits_astray:0 "Click here to view what doctrines [saintly_spirits_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_saintly_spirits_hostile:0 "Click here to view what doctrines [saintly_spirits_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_saintly_death_desc:0 "Our faith venerates the greatest saint of all- Death itself. Historically, veneration of figures associated with Death have been rejected by mainstream Catholicism, meaning that though other faiths on the Christian periphery see us as $hostility_astray_tooltippable$, fewer Catholics compared to more mainstream saint-veneration faiths see us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_saintly_death_astray:0 "Click here to view what doctrines [saintly_death_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_saintly_death_hostile:0 "Click here to view what doctrines [saintly_death_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_saints_and_devils_desc:0 "Our faith acknowledges that there are both the saints on the side of justness and the devils on the side of evil. Allegations that we worship demons are categorically untrue - we acknowledge the terrible power they wield and give then respect to avoid their wrath. Other saint-veneration faiths, as well as mystical and spiritual traditions, see us as $hostility_astray_tooltippable$, but the mainstream Catholics and Divina Patriota regard us as $hostility_hostile_tooltippable$."
+ doctrine_parameter_loc_parameter_saints_and_devils_astray:0 "Click here to view what doctrines [saints_and_devils_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_saints_and_devils_hostile:0 "Click here to view what doctrines [saints_and_devils_hostile|L] considers to be Hostile"
+ doctrine_parameter_loc_parameter_new_prophets_desc:0 "Our faith no longer considers itself to be Christian - while others still cling to figures they call saints or holy men, we understand them for what they truly are. They were prophets of the true gospel, which the Christ-worshippers twisted and warped to their own ends. Now that we have restored the undiluted truth, many of our former religious brethren consider us irredeemably $hostility_evil_tooltippable$, though the Reawakened and Divina Patriotas who have evolved similarly to us regard us as $hostility_astray_tooltippable$."
+ doctrine_parameter_loc_parameter_new_prophets_astray:0 "Click here to view what doctrines [new_prophets_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_new_prophets_hostile:0 "Click here to view what doctrines [new_prophets_hostile|L] considers to be Hostile"
+
+ # New Spiritist doctrines
+ special_doctrine_unity_of_the_spirit_name:0 "Unity of the Spirit"
+ special_doctrine_unity_of_the_spirit_desc:0 "While we believe in the One and Supreme God, the teachings of spiritism tell us that there are many ways to reach Him. What others call saints or gods might be part of the spirit world we recognize, and God might be reached through them the same."
+ special_doctrine_gospel_according_to_spiritism_name:0 "Gospel According to Spiritism"
+ special_doctrine_gospel_according_to_spiritism_desc:0 "Rather than quibble over the particularities of the spirits and their supernatural world, we should focus on the guidance given to us by the great teacher, Jesus Christ. This message resonates with the Christians, improving our relations with them dramatically compared to our ‘devil-worshipping’ brothers."
+ doctrine_parameter_hostility_override_special_doctrine_unity_of_the_spirit:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_gospel_according_to_spiritism:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_spiritist_apostate:0 ""
+ doctrine_parameter_loc_parameter_unity_of_the_spirit_desc:0 ""
+ doctrine_parameter_loc_parameter_unity_of_the_spirit_astray:0 "Click here to view what doctrines [unity_of_the_spirit_astray|L] considers to be Astray"
+ doctrine_parameter_loc_parameter_gospel_according_to_spiritism_desc:0 ""
+ doctrine_parameter_loc_parameter_gospel_according_to_spiritism_astray:0 "Click here to view what doctrines [gospel_according_to_spiritism_astray|L] considers to be Astray"
+ special_doctrine_spiritist_apostate_name:0 "Unorthodox Spiritism"
+ special_doctrine_spiritist_apostate_desc:0 "While we believe in one form or another in the existence of the spiritual world, our divergent beliefs have caused other Spiritists to brand us unorthodox."
+ doctrine_parameter_loc_parameter_spiritist_apostate:0 "[faiths|E] with the Unity of the Spirit, Gospel According to Spiritism, or Spirit Medium doctrines consider us to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+
+ # New Jewish set
+ 
+ special_doctrine_prayer_focus_name:0 "Prayer Focus"
+ special_doctrine_prayer_focus_desc:0 "It is taught that on three things the world stands: Torah, prayer, and acts of lovingkindness. While all are necessary, we put special emphasis on prayer."
+ special_doctrine_torah_focus_name:0 "Torah Focus"
+ special_doctrine_torah_focus_desc:0 "It is taught that on three things the world stands: Torah, prayer, and acts of lovingkindness. While all are necessary, we put special emphasis on the Torah."
+ special_doctrine_lovingkindness_focus_name:0 "Lovingkindness Focus"
+ special_doctrine_lovingkindness_focus_desc:0 "It is taught that on three things the world stands: Torah, prayer, and acts of lovingkindness. While all are necessary, we put special emphasis on acts of lovingkindness."
+ special_doctrine_klal_yisrael_name:0 "K’lal Yisrael"
+ special_doctrine_klal_yisrael_desc:0 "Regardless of the nuances of our practices, at the end of the day we are all the children of Israel, and that still counts for something."
+ special_doctrine_jewish_apostate_name:0 "Herem"
+ special_doctrine_jewish_apostate_desc:0 "While other Jewish faiths may declare us outcasts, we will not let that sway us from our righteous convictions."
+ 
+ doctrine_parameter_hostility_override_special_doctrine_prayer_focus:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_torah_focus:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_lovingkindness_focus:0 ""
+ 
+ doctrine_parameter_hostility_override_special_doctrine_klal_yisrael:0 "Considers [faiths|E] with the K’lal Yisrael doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_jewish_apostate:0 "Considers [faiths|E] with the Herem doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ 
+ doctrine_parameter_loc_paramter_virtue_doctrines_righteous:0 "Considers [faiths|E] with the [jewish_virtues_doctrines|L] doctrines to be $hostility_righteous_tooltippable$"
+ doctrine_parameter_loc_paramter_virtue_doctrines_astray:0 "Considers [faiths|E] with the [jewish_virtues_doctrines|L] doctrines to be $hostility_astray_tooltippable$"
+
+ # Apostate
+ special_doctrine_apostate_name:0 "Apostate"
+ special_doctrine_apostate_desc:0 "Though our faith might once have fallen in line with more traditional theologies, our divergent beliefs have caused others to brand us Apostates."
+
+
+ # Archived
+ doctrine_parameter_is_ecumenical_doctrine_loc:0 "Is considered an ecumenical faith. This means it views itself as $hostility_righteous_tooltippable$ and most Christian doctrines as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_autocephalous_ecumenism_loc:0 "Is considered an autocephalous faith. This means it views Eastern Christian, Memory of Rome, and Canon of Saints [faiths|E] to be $hostility_astray_tooltippable$ and most Christian doctrines as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_is_diasporic_unifier:0 "Is considered a pan-diaspora [faith|E]. This means it views itself as $hostility_righteous_tooltippable$ and all faiths of the African diaspora as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_diasporic_unity_member:0 "Considers [faiths|E] with the Diasporic Unity doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_all_seasprays:0 "Considers Seaspray [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_catholics:0 "Considers orthodox Catholic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_unorthodox_catholics:0 "Considers unorthodox Catholic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_all_catholics:0 "Considers orthodox and unorthodox Catholic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_protestants:0 "Considers orthodox Protestant [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_unorthodox_protestants:0 "Considers unorthodox Protestant [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_mormons:0 "Considers orthodox Latter Day Saints [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_easterns:0 "Considers orthodox Eastern Christian [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_unorthodox_easterns:0 "Considers unorthodox Eastern Christian [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_divina_patriotas:0 "Considers orthodox Divina Patriota [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_post_adventist:0 "Considers orthodox Post-Adventist [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_unorthodox_post_adventist:0 "Considers unorthodox Post-Adventist [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_orthodox_veteranics:0 "Considers orthodox Veteranic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_unorthodox_veteranics:0 "Considers unorthodox Veteranic [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_loc_parameter_children_of_jah_exclusive:0 "Considers [faiths|E] with the Children of Jah doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_loc_parameter_red_road_and_revival_dance:0 "Considers [faiths|E] with the Red Road doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ INQUISITION_REQUIRES_APOSTATE_TO_FUNCTION:0 "The Inquisition tenet requires the Apostate doctrine to function correctly."
