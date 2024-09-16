@@ -1,6 +1,6 @@
-noosfaith_religion = {
+japonic_religion = {
 	family = rf_harmonic
-	graphical_faith = noosfaith_religion_gfx
-	doctrine = anachronous_hostility_doctrine
+	graphical_faith = japonic_religion_gfx
+	doctrine = harmonic_hostility_doctrine
 	
 }
