@@ -1,0 +1,67 @@
+﻿post_christians_can_pick = {
+	group = "theology"
+
+	# These doctrines act as internal flags for Vernacular, Rezadeiros, Or Bumbotheist faiths to gain access to other denominations' doctrines.
+	# Only Covenantoclast lacks the Vernacular version, as they instead start out with and can maintain Enemies of God
+	# The Rezadeiros doctrine is currently redundant, as all Rezadeiros faiths have it. It is kept in case a future one is added in the same boat as Covenantoclast
+	# The Bumbotheist doctrine is a placeholder doctrine to enable Boi Regio to access the Sebastianic doctrine. It is NOT final and will be replaced later on
+
+	is_available_on_create = {
+		OR = {
+			has_doctrine = special_doctrine_vernacular_can_pick
+			has_doctrine = special_doctrine_rezadeiros_can_pick
+			has_doctrine = special_doctrine_bumbotheists_can_pick
+		}
+	}
+	special_doctrine_vernacular_can_pick = {
+		parameters = {
+			gives_access_to_christianic_doctrines = yes
+		}
+	}
+	special_doctrine_rezadeiros_can_pick = {
+		parameters = {
+			gives_access_to_christianic_doctrines = yes
+		}
+	}
+
+	special_doctrine_bumbotheists_can_pick = {
+		parameters = {
+			gives_access_to_christianic_doctrines = yes
+		}
+	}
+}
+
+doctrine_non_chalcedonian_set_picker = {
+	group = "theology"
+	is_available_on_create = {
+		always = no # you get this in an event after selecting the non-chalcedonian doctrine
+	}
+	
+	special_doctrine_assyrian = {
+		parameters = {
+			assyrian_rites = yes
+		}
+	}
+
+	special_doctrine_miaphysite = {
+		parameters = {
+			miaphysite_rites = yes
+		}
+	}
+}
+
+doctrine_inkarri_salvage_loc = {
+	group = "theology"
+
+	is_available_on_create = {
+		OR = {
+			religion_tag = andean_religion
+		}
+	}
+
+	doctrine_inkarri_salvage = {
+		parameters = {
+			can_form_ayllu = yes
+		}
+	}
+}

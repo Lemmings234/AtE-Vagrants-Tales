@@ -1,0 +1,294 @@
+﻿doctrine_karmic_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = guruist_religion
+	}
+	
+	special_doctrine_manyfold_path = {
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 1
+			hostility_override_special_doctrine_hang_loose = 1
+			hostility_override_special_doctrine_spiritualistic_cosmology = 1
+			hostility_override_special_doctrine_silicon_covens = 1
+			hostility_override_special_doctrine_righteous_among_gentiles = 1
+			hostility_override_special_doctrine_render_unto_caesar = 1
+			hostility_override_special_doctrine_occidental_coexistence = 1
+			manyfold_concubine_doctrine = yes
+		}
+	}
+	
+	special_doctrine_sagely_resistance = {
+		is_shown = {
+			has_doctrine = special_doctrine_sagely_resistance
+		}
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 2
+			hostility_override_special_doctrine_hang_loose = 1
+			hostility_override_special_doctrine_spiritualistic_cosmology = 1
+			hostility_override_special_doctrine_silicon_covens = 1
+			hostility_override_special_doctrine_righteous_among_gentiles = 1
+			hostility_override_special_doctrine_render_unto_caesar = 1
+			hostility_override_special_doctrine_occidental_coexistence = 1
+		}
+	}
+	special_doctrine_heirs_of_atlantis = {
+		is_shown = {
+			has_doctrine = special_doctrine_heirs_of_atlantis
+		}
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 2
+		}
+	}
+}
+doctrine_naturalist_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = naturalist_religion
+	}
+	special_doctrine_natural_order = {
+		is_shown = {
+			religion_tag = naturalist_religion
+		}
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = special_doctrine_natural_order }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 2
+			hostility_override_harmonic_hostility_doctrine = 1
+			hostility_override_amerindian_hostility_doctrine = 1
+		}
+	}
+
+	special_doctrine_hang_loose = {
+		is_shown = {
+			religion_tag = naturalist_religion
+		}
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = special_doctrine_hang_loose }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_harmonic_hostility_doctrine = 1
+		}
+		traits = {
+			virtues = { athletic }
+		}
+	}
+}
+
+doctrine_sikh_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = nanakpanthi_religion
+	}
+	special_doctrine_ik_onkar = {
+		is_shown = {
+			has_doctrine = special_doctrine_ik_onkar
+		}
+		parameters = {
+			hostility_override_special_doctrine_natural_order = 1
+			hostility_override_muslim_tolerance_non_denominational_doctrine = 1
+			hostility_override_muslim_tolerance_sunni_doctrine = 1
+			hostility_override_muslim_tolerance_shia_doctrine = 1
+			hostility_override_muslim_tolerance_ahmadi_doctrine = 1
+		}
+	}
+}
+
+doctrine_abbasiyya_tolerance = { 
+	group = "main_group"
+	is_available_on_create = {
+		has_doctrine = special_doctrine_occidental_coexistence
+	}
+	
+	special_doctrine_occidental_coexistence = {
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 1
+		}
+	}
+}
+
+doctrine_medicine_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = medicine_religion
+	}
+	
+	special_doctrine_seven_fires = {
+		is_shown = { has_doctrine = special_doctrine_seven_fires }
+		
+		parameters = {
+			hostility_override_special_doctrine_red_road = 1
+			loc_parameter_red_road_and_revival_dance = 1
+		}
+	}
+}
+
+
+doctrine_dene_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		has_doctrine = special_doctrine_na_dene_traditions
+	}
+
+	special_doctrine_na_dene_traditions = {
+		parameters = {
+			hostility_override_special_doctrine_na_dene_traditions = 1
+		}
+	}
+}
+
+doctrine_muslim_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = islam_religion
+	}
+	
+	muslim_tolerance_sunni_doctrine = { #Sunni
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_sunni_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			#sees other sunni as righteous, sees shia as astray, all others as hostile
+			hostility_override_muslim_tolerance_sunni_doctrine = 0
+			hostility_override_muslim_tolerance_shia_doctrine = 1
+		}
+	}
+	
+	muslim_tolerance_shia_doctrine = { #Shia
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_shia_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			#sees other shia as righteous, sees sunni as astray, all others as hostile
+			hostility_override_muslim_tolerance_shia_doctrine = 0
+			hostility_override_muslim_tolerance_sunni_doctrine = 1
+		}
+	}
+	
+	muslim_tolerance_non_denominational_doctrine = { #Non-Denominational
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_non_denominational_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			#sees sunnis and shias as astray, sees americans and ahmadis as hostile
+			hostility_override_muslim_tolerance_non_denominational_doctrine = 0
+			hostility_override_muslim_tolerance_sunni_doctrine = 1
+			hostility_override_muslim_tolerance_shia_doctrine = 1
+			hostility_override_muslim_tolerance_ahmadi_doctrine = 1
+		}
+	}
+
+	muslim_tolerance_ahmadi_doctrine = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_ahmadi_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			#sees sunnis shia and non denoms as astray, sees americans as hostile
+			hostility_override_muslim_tolerance_ahmadi_doctrine = 0
+			hostility_override_muslim_tolerance_sunni_doctrine = 1
+			hostility_override_muslim_tolerance_shia_doctrine = 1
+			hostility_override_muslim_tolerance_non_denominational_doctrine = 1
+			hostility_override_special_doctrine_ik_onkar = 2
+		}
+	}
+
+	muslim_tolerance_american_doctrine = { #American
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_american_doctrine }
+				multiply = 0
+			}
+		}
+		character_modifier = {
+			advantage_against_coreligionists = 5
+		}
+	}
+}
+
+is_harmonic_faith = {
+	group = "special"
+	
+	is_available_on_create = {
+		has_doctrine = special_doctrine_is_harmonic_faith
+	}
+
+	special_doctrine_is_harmonic_faith = {
+		parameters = {
+			# Since doctrines cannot modify other faith's views of us, only our view of others, all Harmonic faiths are given this special doctrine which makes them friendlier to Faiths with the Harmonic Syncretism tenet.
+			hostility_override_tenet_harmonic_syncretism = 1
+			harmonic_syncretic_recipient_opinion_active = yes
+			opinion_of_harmonic_syncretic_actor_opinion_active = 30
+		}
+	}
+}
+
+doctrine_lacustrine_virsin = {
+	group = "theology"
+
+	is_available_on_create = {
+		OR = {
+			religion_tag = lacustrine_religion
+		}
+	}
+
+	doctrine_lakeshore_virsin = {
+		parameters = {
+			hostility_override_doctrine_viking_virsin = 2
+		}
+		traits = {
+			virtues = { compassionate }
+			sins = { vengeful }
+		}
+	}
+	doctrine_viking_virsin = {
+		parameters = {
+			hostility_override_doctrine_lakeshore_virsin = 2
+		}
+		traits = {
+			virtues = { vengeful }
+			sins = { compassionate }
+		}
+	}
+}
+
+doctrine_satanism_virsin = {
+	group = "theology"
+
+	is_available_on_create = {
+		OR = {
+			religion_tag = satanism_religion
+		}
+	}
+
+	doctrine_covenantoclast_virsin = {
+		traits = {
+			virtues = { brave }
+			sins = { craven }
+		}
+	}
+}

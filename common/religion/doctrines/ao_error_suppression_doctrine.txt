@@ -1,0 +1,15 @@
+﻿ao_error_suppression = {
+	group = "ao_error_suppression"
+
+	is_available_on_create = {
+		always = no
+	}
+
+	ao_error_suppression_doctrine = {
+		parameters = {
+			homosexuality_celebrated = no
+			homosexuality_virtuous = no
+			cc_allows_sibling_marriage = no
+		}
+	}
+}

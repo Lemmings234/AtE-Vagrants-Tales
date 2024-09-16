@@ -1,0 +1,389 @@
+﻿doctrine_ao_adoption_prevalence = {
+	group = "marriage"
+	doctrine_ao_adoption_prevalence_none = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_none }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_rare }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_uncommon }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_common }
+				multiply = faith_changed_doctrine_cost_mult_four_step
+			}
+		}
+		parameters = {
+			ao_no_adoption = yes
+			ao_disputed_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = REQUIRES_DOCTRINE_AO_ADOPTION_TYPE_FAMILIAL_TRIGGER
+				doctrine:doctrine_ao_adoption_type_familial = { is_in_list = selected_doctrines }
+			}
+			custom_tooltip = {
+				text = REQUIRES_DOCTRINE_AO_ADOPTION_TARGET_NON_ORPHAN_TRIGGER
+				doctrine:doctrine_ao_adoption_target_non_orphan = { is_in_list = selected_doctrines }
+			}
+		}
+	}
+	doctrine_ao_adoption_prevalence_illegitimate = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_illegitimate }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_uncommon }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_common }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_infertile_adoption = yes
+			ao_preferred_gender_adoption = yes
+			ao_no_displacement_adoption = yes
+			ao_illegitimate_adoption = yes
+			ao_disputed_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TYPE_NOBLE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_type_noble = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TYPE_RULER_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_type_ruler = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TARGET_YOUNG_ADULT_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_target_young_adult = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TARGET_ADULT_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_target_adult = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_prevalence_rare = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_rare }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_none }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_common }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			ao_infertile_adoption = yes
+			ao_preferred_gender_adoption = yes
+			ao_no_displacement_adoption = yes
+		}
+	}
+	doctrine_ao_adoption_prevalence_uncommon = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_uncommon }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_illegitimate }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_none }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_no_displacement_adoption = yes
+			ao_no_renown_cost_adoption = yes
+		}
+	}
+	doctrine_ao_adoption_prevalence_common = {
+		piety_cost = {
+			value = faith_doctrine_cost_high
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_common }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_rare }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_illegitimate }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_prevalence_none }
+				multiply = faith_changed_doctrine_cost_mult_four_step
+			}
+		}
+		parameters = {
+			ao_free_adoption = yes
+			ao_displacement_costs_legitimacy = yes
+			ao_common_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TYPE_FAMILIAL_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_type_familial = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_TARGET_NON_ORPHAN_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_target_non_orphan = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+}
+
+doctrine_ao_adoption_type = {
+	group = "marriage"
+	doctrine_ao_adoption_type_familial = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_familial }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_noble }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_ruler }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_familial_adoption = yes
+			ao_no_ruler_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_COMMON_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_common = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_type_lowborn = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_lowborn }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_ruler }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			ao_lowborn_adoption = yes
+			ao_can_visit_orphanage = yes
+			ao_familial_adoption = yes
+			ao_no_ruler_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_type_noble = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_noble }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_familial }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			ao_anyone_adoption = yes
+			ao_can_visit_orphanage = yes
+			ao_no_ruler_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_ILLEGITIMATE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_illegitimate = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_type_ruler = {
+		piety_cost = {
+			value = faith_doctrine_cost_high
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_ruler }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_lowborn }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_type_familial }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_anyone_adoption = yes
+			ao_can_visit_orphanage = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_ILLEGITIMATE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_illegitimate = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+}
+
+doctrine_ao_adoption_target = {
+	group = "marriage"
+	doctrine_ao_adoption_target_non_orphan = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_non_orphan }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_young_adult }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_adult }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_non_orphan_adoption = yes
+			ao_can_visit_orphanage = no
+			ao_15_years_younger_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_COMMON_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_common = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_target_child = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_child }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_adult }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			ao_child_adoption = yes
+			ao_15_years_younger_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_target_young_adult = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_young_adult }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_non_orphan }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			ao_child_adoption = yes
+			ao_adult_adoption = yes
+			ao_15_years_younger_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_ILLEGITIMATE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_illegitimate = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+	doctrine_ao_adoption_target_adult = {
+		piety_cost = {
+			value = faith_doctrine_cost_high
+			if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_adult }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_child }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_ao_adoption_target_non_orphan }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+		}
+		parameters = {
+			ao_child_adoption = yes
+			ao_adult_adoption = yes
+			ao_younger_adoption = yes
+		}
+		can_pick = {
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_NONE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_none = { is_in_list = selected_doctrines } }
+			}
+			custom_tooltip = {
+				text = INCOMPATIBLE_DOCTRINE_AO_ADOPTION_PREVALENCE_ILLEGITIMATE_TRIGGER
+				NOT = { doctrine:doctrine_ao_adoption_prevalence_illegitimate = { is_in_list = selected_doctrines } }
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+﻿rf_anachronous = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = anachronous_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	piety_icon_group = zoroastrian
+}

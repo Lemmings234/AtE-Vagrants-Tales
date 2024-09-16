@@ -1,0 +1,136 @@
+﻿Listed below are the religions and faiths that use specific types of holy site buildings
+
+	Additionally: What temple type is activated through which syncretism
+	Also: Inter-Faith Services can use any holy site building and should not choose to demolish holy buildings
+
+Cathedral
+
+	catholic_religion
+	christifornian_religion
+	divina_patriota_religion
+	eastern_christian_religion
+	spiritualist_religion
+	extatico_religion
+	mormon_religion #Give them a unique Mormon Temple?
+	originario_religion
+	orisha_religion
+	#post_adventism_religion #Cut for now
+	protestant_religion
+	rastafari_religion
+	rezadeiros_religion
+	sombrism_religion
+	tributist_religion
+	veteranic_religion #Set them to use the fire temple?
+	vodun_religion
+
+	tenet_christian_syncretism
+	tenet_vodun_syncretism
+	tenet_orishan_syncretism
+	tenet_rastafari_syncretism
+	tenet_catholic_syncretism
+	tenet_protestant_syncretism
+	tenet_mormon_syncretism #for now
+	tenet_eastern_christian_syncretism
+	tenet_post_adventist_syncretism
+	tenet_veteranic_syncretism
+
+Mosque
+
+	islam_religion
+	muwahhidun_religion
+
+	tenet_islamic_syncretism
+
+Synagogue
+
+	judaism_religion
+
+	tenet_jewish_syncretism
+
+Temple - Civic
+
+	americanist_religion
+	britannic_religion
+	capitalist_religion
+	idiosyncratic_religion
+	industrialist_religion
+	modernist_religion
+	platinean_religion
+
+	tenet_americanist_syncretism
+	tenet_industrialist_syncretism
+	tenet_capitalist_syncretism
+	tenet_idiosyncratic_syncretism
+	tenet_modernist_syncretism
+
+Temple - Fire
+
+	vernacular_religion
+	occultist_religion
+	wellness_religion
+	zoroastrianism_religion
+	faith:lakeshore #Tie this to the lighthouse tenet?
+
+Temple - Harmonic
+
+	atlantean_religion
+	buddhism_religion
+	cao_dai_religion #Possibly switch to cathedral
+	guruist_religion
+	hinduism_religion
+	mayanism_religion
+	neoniponic_religion
+
+	tenet_harmonic_syncretism
+
+Temple - Pagan
+
+	amazonian_religion
+	catimbo_religion
+	chon_religion
+	columbian_religion
+	mapuche_religion
+	guaranitic_religion
+	haudenosaunee_religion
+	inuit_religion
+	medicine_religion
+	mesoamerican_religion #Mesoamerican revival temple would be good
+	navajo_religion
+	neltococayotl_religion
+	northwest_religion
+	peyotist_religion
+	plains_religion
+	tarahumara_religion
+	
+	bumbotheist_religion
+	conterraneo_religion
+	gardenerian_religion
+	
+	llanoism_religion
+	naturalist_religion #Having a "grove" building would be good
+	nautical_religion #Maybe having a lighthouse would work here
+	
+	pampeano_religion
+	patagonian_religion
+	seaspray_religion #Maybe having a lighthouse would work here
+	trailwalker_religion
+	viticulturian_religion #Could use grove
+
+	faith:viking
+
+	tenet_native_syncretism
+	tenet_unreformed_syncretism #No one uses this currently, just in case for now
+
+Temple - Other
+
+	#Set apart as their main temples don't fit their broader grouping
+
+	universal_religion
+	nanakpanthi_religion
+	andean_religion
+	astronomer_religion
+
+	artistic_religion
+	concentric_religion
+	digital_religion
+	scientific_religion

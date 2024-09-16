@@ -1,0 +1,35 @@
+﻿heresy_hostility = {
+	group = "not_creatable"
+	is_available_on_create = {
+		has_doctrine = heresy_hostility_doctrine
+	}
+	heresy_hostility_doctrine = {
+		parameters = {
+			hostility_same_religion = 2
+		}
+	}
+}
+
+harmonic_hostility_exemption_group = {
+	group = "hostility"
+	is_available_on_create = {
+		has_doctrine = harmonic_hostility_exemption
+	}
+	harmonic_hostility_exemption = {
+		parameters = {
+			harmonic_hostility_exemption = yes
+		}
+	}
+}
+
+holy_site_heresy_exemption_group = {
+	group = "hostility"
+	is_available_on_create = {
+		has_doctrine = holy_site_heresy_exemption
+	}
+	holy_site_heresy_exemption = {
+		parameters = {
+			holy_site_heresy_exemption = yes
+		}
+	}
+}

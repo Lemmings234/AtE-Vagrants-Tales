@@ -1,0 +1,235 @@
+﻿tarahumara_religion = {
+	family = rf_amerindian
+    graphical_faith = tarahumara_religion_gfx
+
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	doctrine = amerindian_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_pilgrimage_encouraged	
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_disallowed
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_restricted
+	doctrine = doctrine_ao_adoption_prevalence_common
+	doctrine = doctrine_ao_adoption_type_noble
+	doctrine = doctrine_ao_adoption_target_adult
+
+	#Crimes
+	doctrine = doctrine_homosexuality_indifferent
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_shunned
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_alms_and_pacification
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+	doctrine = doctrine_building_temple_pagan
+	doctrine = doctrine_funeral_stoic
+	
+	# Syncretism
+	doctrine = special_doctrine_is_amerindian_faith
+
+	traits = {
+		virtues = { generous stubborn humble }
+		sins = { greedy fickle arrogant }
+	}
+
+	custom_faith_icons = {
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+    }
+
+	holy_order_names = {
+		{ name = "holy_order_raramuri_nakoame" }
+		{ name = "holy_order_sontarusi_raramuri" }
+		{ name = "holy_order_nimikiriame_raramuri" }
+	}
+
+	holy_order_maa = { paladin }
+
+	localization = {
+		#HighGod
+		HighGodName = raichari_high_god_name
+		HighGodNamePossessive = raichari_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = raichari_high_god_name
+		HighGodNameAlternatePossessive = raichari_high_god_name_possessive
+
+		#Creator
+		CreatorName = raichari_creator_god_name
+		CreatorNamePossessive = raichari_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = raichari_health_god_name
+		HealthGodNamePossessive = raichari_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_IT
+		HealthGodHerHis = CHARACTER_HERHIS_ITS
+		HealthGodHerHim = CHARACTER_HERHIM_IT
+
+		#FertilityGod
+		FertilityGodName = raichari_fertility_god_name
+		FertilityGodNamePossessive = raichari_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_IT
+		FertilityGodHerHis = CHARACTER_HERHIS_ITS
+		FertilityGodHerHim = CHARACTER_HERHIM_IT
+
+		#WealthGod
+		WealthGodName = raichari_wealth_god_name
+		WealthGodNamePossessive = raichari_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_IT
+		WealthGodHerHis = CHARACTER_HERHIS_ITS
+		WealthGodHerHim = CHARACTER_HERHIM_IT
+
+		#HouseholdGod
+		HouseholdGodName = raichari_household_god_name
+		HouseholdGodNamePossessive = raichari_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = raichari_fate_god_name
+		FateGodNamePossessive = raichari_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_SHE
+		FateGodHerHis = CHARACTER_HERHIS_HER
+		FateGodHerHim = CHARACTER_HERHIM_HER
+
+		#KnowledgeGod
+		KnowledgeGodName = raichari_knowledge_god_name
+		KnowledgeGodNamePossessive = raichari_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+		KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+
+		#WarGod
+		WarGodName = raichari_war_god_name
+		WarGodNamePossessive = raichari_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_IT
+		WarGodHerHis = CHARACTER_HERHIS_ITS
+		WarGodHerHim = CHARACTER_HERHIM_IT
+
+		#TricksterGod
+		TricksterGodName = raichari_trickster_god_name
+		TricksterGodNamePossessive = raichari_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_IT
+		TricksterGodHerHis = CHARACTER_HERHIS_ITS
+		TricksterGodHerHim = CHARACTER_HERHIM_IT
+
+		#NightGod
+		NightGodName = raichari_night_god_name
+		NightGodNamePossessive = raichari_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_SHE
+		NightGodHerHis = CHARACTER_HERHIS_HER
+		NightGodHerHim = CHARACTER_HERHIM_HER
+
+		#WaterGod
+		WaterGodName = raichari_water_god_name
+		WaterGodNamePossessive = raichari_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_IT
+		WaterGodHerHis = CHARACTER_HERHIS_ITS
+		WaterGodHerHim = CHARACTER_HERHIM_IT
+
+		PantheonTerm = raichari_positive_afterlife
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = {
+			raichari_high_god_name
+			raichari_health_god_name
+			raichari_water_god_name
+			raichari_household_god_name
+			raichari_fertility_god_name
+			raichari_wealth_god_name
+			raichari_war_god_name
+			raichari_trickster_god_name
+		}
+		DevilName = raichari_devil_name
+		DevilNamePossessive = raichari_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			raichari_devil_name
+		}
+		HouseOfWorship = raichari_house_of_worship
+		HouseOfWorshipPlural = raichari_house_of_worship_plural
+		ReligiousSymbol = raichari_religious_symbol
+		ReligiousText = raichari_religious_text
+		ReligiousHeadName = raichari_religious_head_title
+		ReligiousHeadTitleName = raichari_religious_head_title_name
+		DevoteeMale = raichari_devotee
+		DevoteeMalePlural = raichari_devotee_plural
+		DevoteeFemale = raichari_devotee
+		DevoteeFemalePlural = raichari_devotee_plural
+		DevoteeNeuter = raichari_devote
+		DevoteeNeuterPlural = raichari_devotee_plural
+		PriestMale = raichari_priest
+		PriestMalePlural = raichari_priest_plural
+		PriestFemale = raichari_priest
+		PriestFemalePlural = raichari_priest_plural
+		PriestNeuter = raichari_priest
+		PriestNeuterPlural = raichari_priest_plural
+		AltPriestTermPlural = raichari_priest_alternate_plural
+		BishopMale = raichari_bishop
+		BishopMalePlural = raichari_bishop_plural
+		BishopFemale = raichari_bishop
+		BishopFemalePlural = raichari_bishop_plural
+		BishopNeuter = raichari_bishop
+		BishopNeuterPlural = raichari_bishop_plural
+		DivineRealm = raichari_positive_afterlife
+		PositiveAfterLife = raichari_positive_afterlife
+		NegativeAfterLife = raichari_negative_afterlife
+		DeathDeityName = raichari_death_deity_name
+		DeathDeityNamePossessive = raichari_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		DeathDeityHerHim = CHARACTER_HERHIM_HIM
+		WitchGodName = raichari_devil_name
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+
+		GHWName = ghw_wa_ru_nakowame
+		GHWNamePlural = ghw_wa_ru_nakowames
+
+	}
+
+	piety_icon_group = "christian"
+
+	faiths = {
+		raichari = {
+			color = { 45 185 85 }
+
+			icon = raichari
+			
+			holy_site = guanacevi
+			holy_site = guachochi
+			holy_site = chihuahua
+			holy_site = ciudad_juarez
+			holy_site = basaseachi_cascade
+
+			doctrine = tenet_cthonic_redoubts
+			doctrine = tenet_communal_identity
+			doctrine = tenet_christian_syncretism
+			
+			doctrine = special_doctrine_thousand_year_resistance
+		}
+	}
+}

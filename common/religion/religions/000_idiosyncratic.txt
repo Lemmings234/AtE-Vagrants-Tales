@@ -1,0 +1,787 @@
+﻿idiosyncratic_religion = {
+	family = rf_anachronous
+    graphical_faith = idiosyncratic_religion_gfx
+
+	doctrine = anachronous_hostility_doctrine
+	doctrine = special_doctrine_is_idiosyncratic_faith
+
+	#Main Group
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_restricted
+	doctrine = doctrine_ao_adoption_prevalence_common
+	doctrine = doctrine_ao_adoption_type_noble
+	doctrine = doctrine_ao_adoption_target_child
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	doctrine = doctrine_building_temple_civic
+	doctrine = doctrine_funeral_stoic
+
+	traits = {
+		virtues = { ambitious brave diligent }
+		sins = { content craven lazy }
+	}
+
+	custom_faith_icons = {
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+    }
+
+	holy_order_maa = { luchadore }
+
+	localization = {
+		HighGodName = idiosyncratic_el_cosmos
+		HighGodNamePossessive = idiosyncratic_el_cosmos_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameAlternate = idiosyncratic_cosmos
+		HighGodNameAlternatePossessive = idiosyncratic_cosmos_possessive
+
+		#Creator
+		CreatorName = idiosyncratic_el_cosmos
+		CreatorNamePossessive = idiosyncratic_el_cosmos_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = hexagonal_la_parka
+		HealthGodNamePossessive = hexagonal_la_parka_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = hexagonal_kemonito
+		FertilityGodNamePossessive = hexagonal_kemonito_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = hexagonal_el_santo
+		WealthGodNamePossessive = hexagonal_el_santo_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = hexagonal_el_santo
+		HouseholdGodNamePossessive = hexagonal_el_santo_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = hexagonal_mil_mascaras
+		FateGodNamePossessive = hexagonal_mil_mascaras_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = hexagonal_mil_mascaras
+		KnowledgeGodNamePossessive = hexagonal_mil_mascaras_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = hexagonal_blue_demon
+		WarGodNamePossessive = hexagonal_blue_demon_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = hexagonal_kemonito
+		TricksterGodNamePossessive = hexagonal_kemonito_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = hexagonal_tinieblas
+		NightGodNamePossessive = hexagonal_tinieblas_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = hexagonal_blue_demon
+		WaterGodNamePossessive = hexagonal_blue_demon_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		PantheonTerm = el_santo_pantheon_the_cosmos
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = {
+			idiosyncratic_el_cosmos
+			hexagonal_la_parka
+			hexagonal_kemonito
+			hexagonal_blue_demon
+			hexagonal_tinieblas
+			hexogonal_mil_mascaras
+			hexagonal_el_santo
+		}
+		DevilName = hexagonal_olvido
+		DevilNamePossessive = hexagonal_olvido_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = CHARACTER_ITSELF
+		EvilGodNames = {
+			hexagonal_olvido
+		}
+		HouseOfWorship = el_santo_house_of_worship
+		HouseOfWorshipPlural = el_santo_house_of_worship_plural
+		ReligiousSymbol = el_santo_religious_symbol
+		ReligiousText = el_santo_religious_text
+		ReligiousHeadName = el_santo_religious_head_title
+		ReligiousHeadTitleName = el_santo_religious_head_title_name
+		DevoteeMale = el_santo_devotee
+		DevoteeMalePlural = el_santo_devotee_plural
+		DevoteeFemale = el_santo_devotee
+		DevoteeFemalePlural = el_santo_devotee_plural
+		DevoteeNeuter = el_santo_devotee
+		DevoteeNeuterPlural = el_santo_devotee_plural
+		PriestMale = el_santo_priest
+		PriestMalePlural = el_santo_priest_plural
+		PriestFemale = el_santo_priest
+		PriestFemalePlural = el_santo_priest_plural
+		PriestNeuter = el_santo_priest
+		PriestNeuterPlural = el_santo_priest_plural
+		AltPriestTermPlural = el_santo_priest_alternate_plural
+		BishopMale = el_santo_priest_alternate
+		BishopMalePlural = el_santo_priest_alternate_plural
+		BishopFemale = el_santo_priest_alternate
+		BishopFemalePlural = el_santo_priest_alternate_plural
+		BishopNeuter = el_santo_priest_alternate
+		BishopNeuterPlural = el_santo_priest_alternate_plural
+		DivineRealm = idiosyncratic_cosmos
+		PositiveAfterLife = idiosyncratic_cosmos
+		NegativeAfterLife = hexagonal_olvido
+		DeathDeityName = hexagonal_la_parka
+		DeathDeityNamePossessive = hexagonal_la_parka_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		DeathDeityHerHim = CHARACTER_HERHIM_HIM
+		WitchGodName = hexagonal_ocio
+		WitchGodSheHe = CHARACTER_SHEHE_IT
+		WitchGodHerHis = CHARACTER_HERHIS_ITS
+		WitchGodHerHim = CHARACTER_HERHIM_IT
+		WitchGodMistressMaster = witch_master
+ 		WitchGodMotherFather = witch_father
+		
+		GHWName = ghw_la_gran_lucha
+		GHWNamePlural = ghw_la_gran_luchas
+	}	
+
+	faiths = {
+		
+		
+		
+		el_santo = {
+			color = { 164 127 232 }
+			icon = el_santo
+			graphical_faith = "catholic_gfx"
+
+			holy_site = mx_ciudad_mexico
+			holy_site = puebla
+			holy_site = guadalajara
+			holy_site = monterrey
+			holy_site = tulancingo
+			holy_site = tijuana
+			
+			religious_head = k_hexagonal
+
+			#Tenets
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_liberty_or_death
+			doctrine = tenet_heroic_stand
+
+			doctrine = special_doctrine_children_of_the_cosmos
+			
+			holy_order_names = {
+				{ name = "holy_order_orden_de_la_mascara" }
+				{ name = "holy_order_consejo_hexagonal_de_lucha" }
+				{ name = "holy_order_la_sixtuple_a" }
+			}
+
+		}
+		
+		auditorista = {
+			color = { 0 61 121 }
+			icon = auditorista
+
+			holy_site = mx_ciudad_mexico
+			holy_site = cuernavaca
+			holy_site = iguala
+			holy_site = macuspana
+			holy_site = selva_lacandona
+			holy_site = tijuana
+
+			doctrine = tenet_hedonistic
+			doctrine = tenet_carnal_exaltation
+			doctrine = tenet_liberty_or_death
+
+			doctrine = special_doctrine_children_of_the_cosmos
+			
+			doctrine = doctrine_gender_equal
+			
+			doctrine = doctrine_concubines
+			doctrine = doctrine_pluralism_fundamentalist
+
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+			doctrine = doctrine_deviancy_shunned
+			
+			holy_order_names = {
+				{ name = "holy_order_facultad_de_letras" }
+				{ name = "holy_order_facultad_de_filosofia" }
+				{ name = "holy_order_los_seseaches" }
+				{ name = "holy_order_los_pumas" }
+			}
+
+			
+			localization = {
+				#HighGod
+				HighGodName = idiosyncratic_el_cosmos
+				HighGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameAlternate = idiosyncratic_cosmos
+				HighGodNameAlternatePossessive = idiosyncratic_cosmos_possessive
+	
+				#Creator
+				CreatorName = idiosyncratic_el_cosmos
+				CreatorNamePossessive = idiosyncratic_el_cosmos_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = idiosyncratic_el_cosmos
+				HealthGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = idiosyncratic_el_cosmos
+				FertilityGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = idiosyncratic_el_cosmos
+				WealthGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = idiosyncratic_el_cosmos
+				HouseholdGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = idiosyncratic_el_cosmos
+				FateGodNamePossessive = aidiosyncratic_el_cosmos_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = idiosyncratic_el_cosmos
+				KnowledgeGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = idiosyncratic_el_cosmos
+				WarGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = idiosyncratic_el_cosmos
+				TricksterGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+		
+				#NightGod
+				NightGodName = idiosyncratic_el_cosmos
+				NightGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = idiosyncratic_el_cosmos
+				WaterGodNamePossessive = idiosyncratic_el_cosmos_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+				PantheonTerm = religion_the_cosmos
+				PantheonTermHasHave = pantheon_term_has
+				GoodGodNames = {
+					idiosyncratic_el_cosmos
+					}
+				DevilName = auditorista_represion
+				DevilNamePossessive = auditorista_represion_possessive
+				DevilSheHe = CHARACTER_SHEHE_SHE
+				DevilHerHis = CHARACTER_HERHIS_HER
+				DevilHerselfHimself = CHARACTER_HERSELF
+				EvilGodNames = {
+					auditorista_represion
+					}
+				HouseOfWorship = auditorista_house_of_worship
+				HouseOfWorshipPlural = auditorista_house_of_worship_plural
+				ReligiousSymbol = auditorista_religious_symbol
+				ReligiousText = auditorista_religious_text
+				ReligiousHeadName = auditorista_religious_head_title
+				ReligiousHeadTitleName = auditorista_religious_head_title_name
+				DevoteeMale = auditorista_devotee_male
+				DevoteeMalePlural = auditorista_devotee_male_plural
+				DevoteeFemale = auditorista_devotee_female
+				DevoteeFemalePlural = auditorista_devotee_female_plural
+				DevoteeNeuter = auditorista_devotee_neuter
+				DevoteeNeuterPlural = auditorista_devotee_neuter_plural
+				PriestMale = auditorista_priest_male
+				PriestMalePlural = auditorista_priest_male_plural
+				PriestFemale = auditorista_priest_female
+				PriestFemalePlural = auditorista_priest_female_plural
+				PriestNeuter = auditorista_priest_alternate
+				PriestNeuterPlural = auditorista_priest_alternate_plural
+				AltPriestTermPlural = auditorista_priest_alternate_plural
+				BishopMale = auditorista_bishop_male
+				BishopMalePlural = auditorista_bishop_male_plural
+				BishopFemale = auditorista_bishop_female
+				BishopFemalePlural = auditorista_bishop_female_plural
+				DivineRealm = idiosyncratic_el_cosmos
+				PositiveAfterLife = idiosyncratic_el_cosmos
+				NegativeAfterLife = auditorista_represion
+				DeathDeityName = auditorista_represion
+				DeathDeityNamePossessive = auditorista_represion_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
+				WitchGodName = auditorista_represion
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+
+				GHWName = ghw_el_gran_paro
+				GHWNamePlural = ghw_el_gran_paros
+			}
+
+		}
+		
+  		alineado = {
+			color = { 0 99 65 }
+			icon = alineado
+
+			holy_site = mx_ciudad_mexico
+			holy_site = veracruz
+			holy_site = guadalajara
+			holy_site = monterrey
+			holy_site = acapulco
+			holy_site = tijuana
+
+			doctrine = tenet_pentarchy
+			doctrine = tenet_interventionism
+			doctrine = tenet_pursuit_of_power
+			
+			religious_head = d_alineado
+
+			doctrine = special_doctrine_order_and_progress
+			
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_pluralism_fundamentalist
+			doctrine = doctrine_divorce_allowed
+
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
+			doctrine = doctrine_deviancy_crime
+
+			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+			doctrine = doctrine_funeral_consecrative	
+			
+			holy_order_names = {
+				{ name = "holy_order_corporacion_rauda_y_operadores_capaces" }
+				{ name = "holy_order_corporacion_de_tropas_meritocraticas" }
+				{ name = "holy_order_corporacion_del_notable_control" }
+			}
+
+			
+			localization = {
+				#HighGod
+				HighGodName = alineado_orden_y_progreso
+				HighGodNamePossessive = alineado_orden_y_progreso_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_THEY
+				HighGodHerselfHimself = CHARACTER_THEMSELF
+				HighGodHerHis = CHARACTER_HERHIS_THEIR
+				HighGodNameAlternate = alineado_orden_y_progreso
+				HighGodNameAlternatePossessive = alineado_orden_y_progreso_possessive
+	
+				#Creator
+				CreatorName = alineado_orden_y_progreso
+				CreatorNamePossessive = alineado_orden_y_progreso_possessive
+				CreatorSheHe = CHARACTER_SHEHE_THEY
+				CreatorHerHis = CHARACTER_HERHIS_THEIR
+				CreatorHerHim = CHARACTER_HERHIM_THEM
+
+				#HealthGod
+				HealthGodName = alineado_orden_y_progreso
+				HealthGodNamePossessive = alineado_orden_y_progreso_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_THEY
+				HealthGodHerHis = CHARACTER_HERHIS_THEIR
+				HealthGodHerHim = CHARACTER_HERHIM_THEM
+
+				#FertilityGod
+				FertilityGodName = alineado_orden_y_progreso
+				FertilityGodNamePossessive = alineado_orden_y_progreso_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_THEY
+				FertilityGodHerHis = CHARACTER_HERHIS_THEIR
+				FertilityGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WealthGod
+				WealthGodName = alineado_orden_y_progreso
+				WealthGodNamePossessive = alineado_orden_y_progreso_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_THEY
+				WealthGodHerHis = CHARACTER_HERHIS_THEIR
+				WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+				#HouseholdGod
+				HouseholdGodName = alineado_orden_y_progreso
+				HouseholdGodNamePossessive = alineado_orden_y_progreso_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+				HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+				HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+				#FateGod
+				FateGodName = idiosyncratic_cosmos
+				FateGodNamePossessive = idiosyncratic_cosmos_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = alineado_orden_y_progreso
+				KnowledgeGodNamePossessive = alineado_orden_y_progreso_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_THEY
+				KnowledgeGodHerHis = CHARACTER_HERHIS_THEIR
+				KnowledgeGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WarGod
+				WarGodName = alineado_orden_y_progreso
+				WarGodNamePossessive = alineado_orden_y_progreso_possessive
+				WarGodSheHe = CHARACTER_SHEHE_THEY
+				WarGodHerHis = CHARACTER_HERHIS_THEIR
+				WarGodHerHim = CHARACTER_HERHIM_THEM
+
+				#TricksterGod
+				TricksterGodName = alineado_faccionalismo_corrupcion_e_inestabilidad
+				TricksterGodNamePossessive = alineado_faccionalismo_corrupcion_e_inestabilidad_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+		
+				#NightGod
+				NightGodName = alineado_faccionalismo_corrupcion_e_inestabilidad
+				NightGodNamePossessive = alineado_faccionalismo_corrupcion_e_inestabilidad_possessive
+				NightGodSheHe = CHARACTER_SHEHE_THEY
+				NightGodHerHis = CHARACTER_HERHIS_THEIR
+				NightGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WaterGod
+				WaterGodName = alineado_orden_y_progreso
+				WaterGodNamePossessive = alineado_orden_y_progreso_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_THEY
+				WaterGodHerHis = CHARACTER_HERHIS_THEIR
+				WaterGodHerHim = CHARACTER_HERHIM_THEM
+
+
+				PantheonTerm = religion_fuerzas_del_mundo
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					alineado_orden_y_progreso
+					}
+				DevilName = alineado_faccionalismo_corrupcion_e_inestabilidad
+				DevilNamePossessive = alineado_faccionalismo_corrupcion_e_inestabilidad_possessive
+				DevilSheHe = CHARACTER_SHEHE_THEY
+				DevilHerHis = CHARACTER_HERHIS_THEIR
+				DevilHerselfHimself = CHARACTER_THEMSELVES
+				EvilGodNames = {
+					alineado_faccionalismo_corrupcion_e_inestabilidad
+					idiosyncratic_cosmos
+					}
+				HouseOfWorship = alineado_house_of_worship
+				HouseOfWorshipPlural = alineado_house_of_worship_plural
+				ReligiousSymbol = alineado_religious_symbol
+				ReligiousText = alineado_religious_text
+				ReligiousHeadName = alineado_religious_head_title
+				ReligiousHeadTitleName = alineado_religious_head_title_name
+				DevoteeMale = alineado_devotee_male
+				DevoteeMalePlural = alineado_devotee_male_plural
+				DevoteeFemale = alineado_devotee_female
+				DevoteeFemalePlural = alineado_devotee_female_plural
+				DevoteeNeuter = alineado_devotee_neuter
+				DevoteeNeuterPlural = alineado_devotee_neuter_plural
+				PriestMale = alineado_priest_male
+				PriestMalePlural = alineado_priest_male_plural
+				PriestFemale = alineado_priest_female
+				PriestFemalePlural = alineado_priest_female_plural
+				PriestNeuter = alineado_priest_alternate
+				PriestNeuterPlural = alineado_priest_alternate_plural
+				AltPriestTermPlural = alineado_priest_alternate_plural
+				BishopMale = alineado_bishop_male
+				BishopMalePlural = alineado_bishop_male_plural
+				BishopFemale = alineado_bishop_female
+				BishopFemalePlural = alineado_bishop_female_plural
+				DivineRealm = alineado_divine_realm
+				PositiveAfterLife = alineado_positive_afterlife
+				NegativeAfterLife = alineado_negative_afterlife
+				DeathDeityName = alineado_faccionalismo_corrupcion_e_inestabilidad
+				DeathDeityNamePossessive = alineado_faccionalismo_corrupcion_e_inestabilidad_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_THEY
+				DeathDeityHerHis = CHARACTER_HERHIS_THEIR
+				DeathDeityHerHim = CHARACTER_HERHIM_THEM
+				WitchGodName = alineado_faccionalismo_corrupcion_e_inestabilidad
+				WitchGodSheHe = CHARACTER_SHEHE_THEY
+				WitchGodHerHis = CHARACTER_HERHIS_THEIR
+				WitchGodHerHim = CHARACTER_HERHIM_THEM
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+
+				GHWName = ghw_mal_patriotico
+				GHWNamePlural = ghw_mal_patrioticos
+			}
+
+		}
+		
+		enigmatismo = {
+			color = { 0 51 153 }
+			icon = enigmatismo
+			
+			religious_head = k_enigmatismo
+
+			holy_site = mx_ciudad_mexico
+			holy_site = monterrey
+			holy_site = puebla
+			holy_site = guadalajara
+			holy_site = batopilas
+			holy_site = laguna_verde
+
+			#Tenets
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_literalism
+			doctrine = tenet_gnosticism ##placeholder?
+
+			doctrine = special_doctrine_order_and_progress
+			
+			#Main Group
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_righteous
+
+			#Marriage
+			doctrine = doctrine_polygamy
+			doctrine = doctrine_bastardry_none
+			doctrine = doctrine_consanguinity_cousins
+
+			#Crimes
+			doctrine = doctrine_homosexuality_indifferent
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+			doctrine = doctrine_kinslaying_close_kin_crime
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_taxation
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+		
+			holy_order_names = {
+				{ name = "holy_order_escuela_y_prepertoria_de_tecnicos" }
+				{ name = "holy_order_prepertoria_tecnica_de_mecanicos" }
+				{ name = "holy_order_prepertoria_ten_unidad_five" }
+			}
+			
+			localization = { 
+				#HighGod
+				HighGodName = idiosyncratic_cosmos
+				HighGodNamePossessive = idiosyncratic_cosmos_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_IT
+				HighGodHerselfHimself = CHARACTER_ITSELF
+				HighGodHerHis = CHARACTER_HERHIS_ITS
+			
+				#Creator
+				CreatorName = idiosyncratic_cosmos
+				CreatorNamePossessive = idiosyncratic_cosmos_possessive
+				CreatorSheHe = CHARACTER_SHEHE_IT
+				CreatorHerHis = CHARACTER_HERHIS_ITS
+				CreatorHerHim = CHARACTER_HERHIM_IT
+
+				#HealthGod
+				HealthGodName = enigmatismo_los_golems
+				HealthGodNamePossessive = enigmatismo_los_golems_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_THEY
+				HealthGodHerHis = CHARACTER_HERHIS_THEIR
+				HealthGodHerHim = CHARACTER_HERHIM_THEM
+				
+				#FertilityGod
+				FertilityGodName = enigmatismo_los_golems
+				FertilityGodNamePossessive = enigmatismo_los_golems_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_THEY
+				FertilityGodHerHis = CHARACTER_HERHIS_THEIR
+				FertilityGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WealthGod
+				WealthGodName = enigmatismo_los_golems
+				WealthGodNamePossessive = enigmatismo_los_golems_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_THEY
+				WealthGodHerHis = CHARACTER_HERHIS_THEIR
+				WealthGodHerHim = CHARACTER_HERHIM_THEM
+				
+				#HouseholdGod
+				HouseholdGodName = enigmatismo_los_golems
+				HouseholdGodNamePossessive = enigmatismo_los_golems_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+				HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+				HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+				#FateGod
+				FateGodName = idiosyncratic_cosmos
+				FateGodNamePossessive = idiosyncratic_cosmos_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_IT
+
+				#KnowledgeGod
+				KnowledgeGodName = idiosyncratic_cosmos
+				KnowledgeGodNamePossessive = idiosyncratic_cosmos_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+
+				#WarGod
+				WarGodName = enigmatismo_los_golems
+				WarGodNamePossessive = enigmatismo_los_golems_possessive
+				WarGodSheHe = CHARACTER_SHEHE_THEY
+				WarGodHerHis = CHARACTER_HERHIS_THEIR
+				WarGodHerHim = CHARACTER_HERHIM_THEM
+
+				#TricksterGod
+				TricksterGodName = idiosyncratic_cosmos
+				TricksterGodNamePossessive = idiosyncratic_cosmos_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_IT
+				TricksterGodHerHis = CHARACTER_HERHIS_ITS
+				TricksterGodHerHim = CHARACTER_HERHIM_IT
+				
+				#NightGod
+				NightGodName = idiosyncratic_cosmos
+				NightGodNamePossessive = idiosyncratic_cosmos_possessive
+				NightGodSheHe = CHARACTER_SHEHE_IT
+				NightGodHerHis = CHARACTER_HERHIS_ITS
+				NightGodHerHim = CHARACTER_HERHIM_IT
+
+				#WaterGod
+				WaterGodName = idiosyncratic_cosmos
+				WaterGodNamePossessive = idiosyncratic_cosmos_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_IT
+				WaterGodHerHis = CHARACTER_HERHIS_ITS
+				WaterGodHerHim = CHARACTER_HERHIM_IT
+				
+				PantheonTerm = idiosyncratic_cosmos
+				PantheonTermHasHave = pantheon_term_has
+				GoodGodNames = {
+					enigmatismo_los_golems
+				}
+				DevilName = enigmatismo_el_gran_apagon
+				DevilNamePossessive = enigmatismo_el_gran_apagon_possessive
+				DevilSheHe = CHARACTER_SHEHE_IT
+				DevilHerHis = CHARACTER_HERHIS_ITS
+				DevilHerselfHimself = CHARACTER_ITSELF
+				EvilGodNames = {
+					idiosyncratic_cosmos
+					enigmatismo_el_gran_apagon
+				}
+				HouseOfWorship = enigmatismo_house_of_worship
+				HouseOfWorshipPlural = enigmatismo_house_of_worship_plural
+				ReligiousSymbol = enigmatismo_religious_symbol
+				ReligiousText = enigmatismo_religious_text
+				ReligiousHeadName = enigmatismo_religious_head_title
+				ReligiousHeadTitleName = enigmatismo_religious_head_title_name
+				DevoteeMale = enigmatismo_devotee
+				DevoteeMalePlural = enigmatismo_devotee_plural
+				DevoteeFemale = enigmatismo_devotee
+				DevoteeFemalePlural = enigmatismo_devotee_plural
+				DevoteeNeuter = enigmatismo_devotee
+				DevoteeNeuterPlural = enigmatismo_devotee_plural
+				PriestMale = enigmatismo_priest_male
+				PriestMalePlural = enigmatismo_priest_male_plural
+				PriestFemale = enigmatismo_priest_female
+				PriestFemalePlural = enigmatismo_priest_female_plural
+				PriestNeuter = enigmatismo_priest_male
+				PriestNeuterPlural = enigmatismo_priest_male_plural
+				AltPriestTermPlural = enigmatismo_priest_male_plural
+				BishopMale = enigmatismo_bishop_male
+				BishopMalePlural = enigmatismo_bishop_male_plural
+				BishopFemale = enigmatismo_bishop_female
+				BishopFemalePlural = enigmatismo_bishop_female_plural
+				BishopNeuter = enigmatismo_bishop_male
+				BishopNeuterPlural = enigmatismo_bishop_male_plural
+				DivineRealm = enigmatismo_divine_realm
+				PositiveAfterLife = enigmatismo_positive_afterlife
+				NegativeAfterLife = enigmatismo_negative_afterlife
+				DeathDeityName = idiosyncratic_cosmos
+				DeathDeityNamePossessive = idiosyncratic_cosmos_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_IT
+				DeathDeityHerHis = CHARACTER_HERHIS_ITS
+				DeathDeityHerHim = CHARACTER_HERHIM_IT
+				WitchGodName = idiosyncratic_cosmos
+				WitchGodHerHis = CHARACTER_HERHIS_ITS
+				WitchGodSheHe = CHARACTER_SHEHE_IT
+				WitchGodHerHim = CHARACTER_HERHIM_IT
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+			}
+		}
+		
+	}	
+}

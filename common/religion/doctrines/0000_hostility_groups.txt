@@ -1,0 +1,191 @@
+﻿#Game rule only
+full_tolerance = {
+	group = "special"
+	is_available_on_create = {
+		has_doctrine = special_doctrine_full_tolerance
+	}
+	
+	special_doctrine_full_tolerance = {
+		parameters = {
+			hostility_override_special_doctrine_full_tolerance = 0
+		}
+	}
+}
+
+doctrine_thousand_year_resistance = {
+	group = "main_group"
+	is_available_on_create = { has_doctrine = special_doctrine_thousand_year_resistance }
+
+	special_doctrine_thousand_year_resistance = {
+	
+		is_shown = { has_doctrine = special_doctrine_thousand_year_resistance }
+		parameters = {
+			hostility_override_special_doctrine_thousand_year_resistance = 0
+		}
+	}
+}
+
+ifs_override_doctrine_group = {
+	group = "not_creatable"
+	# Like the Syncretism override doctrines below this one, this doctrine exists to make IFS function correctly. 
+	# It is written on a separate line so that there's no possible weirdness with having IFS and a syncretism tenet
+
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. The faith creation on_action applies the appropriate doctrine if the created faith has Inter-Faith Services
+		always = no
+	}
+
+	ifs_override_doctrine = {
+		parameters = {
+			hostility_override_doctrine_pluralism_pluralistic = 0
+			hostility_override_doctrine_pluralism_righteous = 1
+			hostility_override_doctrine_pluralism_fundamentalist = 1
+		}
+	}
+}
+
+hand_of_god_twenty_truths_doctrine_group = {
+	group = "not_creatable"
+	# Like the Syncretism override doctrines below this one, this doctrine exists to make Hand of God and Twenty Truths function correctly. 
+	# It is written on a separate line so that there's no possible weirdness with having either of the two doctrines and a syncretism tenet
+
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. The faith creation on_action applies the appropriate doctrine if the created faith has Inter-Faith Services
+		always = no
+	}
+
+	hand_of_god_override_doctrine = {
+		parameters = {
+			hostility_override_tenet_las_veinte_verdades = 3
+			
+		}
+	}
+
+	twenty_truths_override_doctrine = {
+		parameters = {
+			hostility_override_tenet_the_hand_of_god = 3
+			
+		}
+	}
+}
+
+hostility_group = {
+	group = "not_creatable"
+	abrahamic_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 2
+			hostility_same_family = 3
+			hostility_others = 3
+		}
+	}
+	pagan_hostility_doctrine = {
+		visible = no
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 3
+		}
+	}
+	anachronous_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 2
+			hostility_same_family = 2
+			hostility_others = 3
+		}
+	}
+	afrosyncretic_hostility_doctrine = {
+		visible = no
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 2
+		}
+	}
+	digital_hostility_doctrine = {
+		visible = no
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 2
+		}
+	}
+	spiritist_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 1
+			hostility_others = 2
+		}
+	}
+	harmonic_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 1
+			hostility_others = 2
+		}
+	}
+	amerindian_hostility_doctrine = {
+		visible = no
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 3
+		}
+	}
+	mesoamerican_hostility_doctrine = {
+		visible = no
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 2
+			hostility_same_family = 2
+			hostility_others = 3
+		}
+	}
+	universal_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 1
+			hostility_others = 1
+		}
+	}
+	patagonic_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 3
+			hostility_same_family = 2
+			hostility_others = 3
+		}
+	}
+	naturalist_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 2
+		}
+	}
+	trailwalker_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 0
+			hostility_same_family = 2
+			hostility_others = 2
+		}
+	}
+	satanist_hostility_doctrine = {
+		parameters = {
+			same_hof_hostility_override = 1
+			hostility_same_religion = 2
+			hostility_same_family = 3
+			hostility_others = 3
+		}
+	}
+}

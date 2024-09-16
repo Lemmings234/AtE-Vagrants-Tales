@@ -1,0 +1,83 @@
+﻿## Christianity
+doctrine_baptism = {
+	group = "theology"
+	is_available_on_create = {
+		OR = { 
+			religion_tag = catholic_religion
+			religion_tag = protestant_religion
+			religion_tag = mormon_religion
+			religion_tag = eastern_christian_religion
+		}
+	}
+	
+	doctrine_baptism_none = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+	
+	doctrine_baptism_infant = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_baptism_accountability = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_baptism_believers = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+}
+
+## Trailwalker
+doctrine_hero = {
+	group = "folk_trail"
+	is_available_on_create = {
+		religion_tag = trailwalker_religion
+	}
+	
+	doctrine_colt = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_wild_bill = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_the_marshal = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+}

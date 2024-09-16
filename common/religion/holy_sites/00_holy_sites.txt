@@ -1,0 +1,7269 @@
+﻿#apostolic + terra benta holy sites
+
+aparecida = {
+	county = c_guaratingueta
+	barony = b_br_sp_aparecida_do_norte
+
+	character_modifier = {
+		name = holy_site_aparecida_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+rio_de_janeiro = {
+	county = c_rio_de_janeiro
+
+	character_modifier = {
+		name = holy_site_rio_de_janeiro_effect_name
+		intrigue_per_piety_level = 1
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+salvador = {
+	county = c_salvador
+
+	character_modifier = {
+		name = holy_site_salvador_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+mariana = {
+	county = c_ouro_preto
+	barony = b_br_15_mariana
+
+	character_modifier = {
+		name = holy_site_mariana_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+uberlandia = {
+	county = c_uberlandia
+	barony = b_br_15_uberl_ndia
+
+	character_modifier = {
+		name = holy_site_uberlandia_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+serro = {
+	county = c_serro
+	barony = b_br_15_serro
+	
+	character_modifier = {
+		name = holy_site_serro_effect_name
+		mountains_advantage = 5
+	}
+}
+
+aracuai = {
+	county = c_aracuai
+	barony = b_br_15_ara_ua_
+
+	character_modifier = {
+		name = holy_site_aracuai_effect_name
+		stress_loss_mult = 0.2
+	}
+}
+
+belmonte = {
+	county = c_porto_seguro
+	barony = b_br_05_belmonite
+	
+	character_modifier = {
+		name = holy_site_belmonte_effect_name
+		retreat_losses = -0.1
+		martial = 1
+	}
+}
+
+ouro_preto = {
+	county = c_ouro_preto
+	barony = b_br_15_ouro_preto
+
+	character_modifier = {
+		name = holy_site_ouro_preto_effect_name
+		development_growth_factor = 0.1
+		stewardship_per_piety_level = 1
+	}
+}
+
+paraty = {
+	county = c_paraty
+	barony = b_br_21_paraty
+	character_modifier = {
+		name = holy_site_paraty_effect_name
+		domain_tax_same_faith_mult = 0.1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+manaus = {
+	county = c_manaus
+
+	character_modifier = {
+		name = holy_site_manaus_effect_name
+		jungle_advantage = 5
+		deep_jungle_advantage = 5
+		supply_duration = 0.25
+	}
+}
+parintins = {
+	county = c_parintins
+	character_modifier = {
+		name = holy_site_parintins_effect_name
+		domain_tax_same_faith_mult = 0.1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+sao_lourenco = {
+	county = c_sao_lourenco
+
+	character_modifier = {
+		name = holy_site_sao_lourenco_effect_name
+		health = 0.15
+		#could also be stress loss, life expectancy or fertility, or even hill advantage
+	}
+}
+
+arinos = {
+	county = c_buritis
+	barony = b_br_15_arinos
+	
+	character_modifier = {
+		name = holy_site_arinos_effect_name
+		supply_duration = 0.25
+	}
+}
+
+juazeiro = {
+	county = c_juazeiro
+	barony = b_br_05_juazeiro
+	
+	character_modifier = {
+		name = holy_site_juazeiro_effect_name
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+joao_pessoa = {
+	county = c_joao_pessoa
+	barony = b_br_17_jo_o_pessoa
+
+	character_modifier = {
+		name = holy_site_joao_pessoa_effect_name
+		development_growth_factor = 0.1
+		stewardship_per_piety_level = 1
+	}
+}
+
+catalao = {
+	county = c_caldas_novas
+	barony = b_br_29_catal_o
+	
+	character_modifier = {
+		name = holy_site_catalao_effect_name
+		martial_per_piety_level = 1
+	}
+}
+
+patrocinio = {
+	county = c_patrocinio
+	barony = b_br_15_patroc_nio
+
+	character_modifier = {
+		name = holy_site_patrocinio_effect_name
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+colares = {
+	county = c_belem
+	character_modifier = {
+		name = holy_site_colares_effect_name
+		martial_per_piety_level = 1
+		intrigue = 1
+	}
+}
+
+varginha = {
+	county = c_varginha
+	character_modifier = {
+		name = holy_site_varginha_effect_name
+		intrigue_per_piety_level = 1
+		piety_level_impact_mult = 0.2
+	}
+}
+
+vilas_boas = {
+	county = c_frutal
+	character_modifier = {
+		name = holy_site_vilas_boas_effect_name
+		learning = 1
+		sway_scheme_power_mult = 0.2
+	}
+}
+
+#modernist holy sites
+
+santo_amaro_da_purificacao = {
+	county = c_feira_de_santana
+	barony = b_br_05_santo_amaro
+	
+	character_modifier = {
+		name = holy_site_santo_amaro_da_purificacao_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+sao_tome_das_letras = {
+	county = c_sao_lourenco
+	barony = b_br_mg_sao_tome_das_letras
+	
+	character_modifier = {
+		name = holy_site_sao_tome_das_letras_effect_name
+		health = 0.15
+	}
+}
+
+capivari = {
+	county = c_campinas
+	barony = b_br_27_capivari
+	
+	character_modifier = {
+		name = holy_site_capivari_effect_name
+		martial_per_piety_level = 1
+	}
+}
+
+coruripe = {
+	county = c_penedo
+	barony = b_br_02_coruripe
+	
+	character_modifier = {
+		name = holy_site_coruripe_effect_name
+		embarkation_cost_mult = -0.10
+		naval_movement_speed_mult = 0.20
+	}
+}
+
+brasilia = {
+	county = c_brasilia
+
+	character_modifier = {
+		name = holy_site_brasilia_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+belo_horizonte = {
+	county = c_belo_horizonte
+
+	character_modifier = {
+		name = holy_site_belo_horizonte_effect_name
+		clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.2
+	}
+}
+
+sao_paulo = {
+	county = c_sao_paulo
+
+	character_modifier = {
+		name = holy_site_sao_paulo_effect_name
+		cultural_head_fascination_mult = 0.1
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+palmas = {
+	county = c_palmas
+
+	character_modifier = {
+		name = holy_site_palmas_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+niteroi = {
+	county = c_niteroi
+
+	character_modifier = {
+		name = holy_site_niteroi_effect_name
+		diplomacy = 1
+		monthly_prestige_gain_mult = 0.05
+	}
+}
+
+###Saudosism
+sao_borja = {
+	county = c_sao_borja
+
+	character_modifier = {
+		name = holy_site_sao_borja_effect_name
+		tyranny_loss_mult = 0.2
+	}
+}
+
+diamantina = {
+	county = c_diamantina
+
+	character_modifier = {
+		name = holy_site_diamantina_effect_name
+		monthly_piety_from_buildings_mult = 0.2
+		monthly_prestige_from_buildings_mult = 0.2
+	}
+}
+
+##alternative_society
+chapada_dos_veadeiros = {
+	county = c_uruacu
+
+	character_modifier = {
+		name = holy_site_chapada_dos_veadeiros_effect_name
+		stress_loss_mult = 0.2
+	}
+}
+
+chapada_diamantina = {
+	county = c_caetite
+
+	character_modifier = {
+		name = holy_site_chapada_diamantina_effect_name
+		army_maintenance_mult = -0.1
+	}
+}
+
+##sagarana
+curvelo = {
+	county = c_curvelo
+	character_modifier = {
+		name = holy_site_curvelo_effect_name
+		same_faith_opinion = 10
+	}
+}
+
+santa_maria_da_vitoria = {
+	county = c_santa_maria_da_vitoria
+	character_modifier = {
+		name = holy_site_santa_maria_da_vitoria_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+}
+
+joao_pinheiro = {
+	county = c_joao_pinheiro
+	character_modifier = {
+		name = holy_site_joao_pinheiro_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+pirapora = {
+	county = c_pirapora
+	character_modifier = {
+		name = holy_site_pirapora_effect_name
+		martial = 1
+		# supply_duration = 0.25
+		levy_size = 0.05
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+
+## Cicerite holy sites
+juazeiro_do_norte = {
+	county = c_juazeiro_do_norte
+	character_modifier = {
+		name = holy_site_juazeiro_do_norte_effect_name
+		monthly_piety_gain_mult = 0.2
+	}
+	flag = juazeiro_do_norte_conversion_bonus # +20% County Conversion
+}
+
+bom_jesus_da_lapa = {
+	county = c_bom_jesus_da_lapa
+	character_modifier = {
+		name = holy_site_bom_jesus_da_lapa_effect_name
+		drylands_advantage = 5
+		same_faith_opinion = 5
+	}
+}
+
+canudos = {
+	county = c_euclides_da_cunha
+	character_modifier = {
+		name = holy_site_canudos_effect_name
+		knight_effectiveness_mult = 0.2
+		prowess_per_piety_level = 1
+	}
+
+}
+
+recife = {
+	county = c_recife
+	character_modifier = {
+		name = holy_site_recife_effect_name
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.02
+	}
+}
+
+mazagao = {
+	county = c_mazagao
+	character_modifier = {
+		name = holy_site_mazagao_effect_name
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+###Anussim
+uruacu = {
+	county = c_natal
+	character_modifier = {
+		name = holy_site_uruacu_effect_name
+		prowess_per_piety_level = 1
+	}
+}
+
+sao_raimundo_nonato = {
+	county = c_sao_raimundo_nonato
+	character_modifier = {
+		name = holy_site_sao_raimundo_nonato_effect_name
+		drylands_advantage = 5
+		health = 0.1
+	}
+}
+
+fortaleza = {
+	county = c_fortaleza
+	character_modifier = {
+		name = holy_site_fortaleza_effect_name
+		development_growth_factor = 0.1
+		liege_opinion = 5
+	}
+}
+teresina = {
+	county = c_teresina
+	character_modifier = {
+		name = holy_site_teresina_effect_name
+		prestige_level_impact_mult  = 0.1
+	}
+
+}
+
+#+ Salvador
+
+##celestes as muckers
+nova_trento = { #nova trento
+	county = c_brusque
+	character_modifier = {
+		name = holy_site_nova_trento_effect_name
+		#learning_per_piety_level = 1
+		same_faith_opinion = 10
+	}
+}
+
+irani = { #irani
+	county = c_concordia_br
+	character_modifier = {
+		name = holy_site_irani_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+sao_miguel_das_missoes = {
+	county = c_santo_angelo
+	character_modifier = {
+		name = holy_site_sao_miguel_das_missoes_effect_name
+		army_maintenance_mult = -0.05
+		martial_per_prestige_level = 1
+	}
+}
+
+santa_maria = {
+	county = c_santa_maria_br
+	character_modifier = {
+		name = holy_site_santa_maria_effect_name
+		diplomacy = 1
+		sway_scheme_power_mult = 0.2
+	}
+}
+
+rolandia = {
+	county = c_londrina
+	character_modifier = {
+		name = holy_site_londrina_effect_name
+		fertility = 0.05
+		monthly_prestige_gain_per_knight_mult = 0.01
+
+	}
+}
+
+riogrande = {
+	county = c_rio_grande_br
+	character_modifier = {
+		name = holy_site_riogrande_effect_name
+		same_faith_opinion = 5
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+sao_leopoldo = { #mucker
+	county = c_canoas
+	character_modifier = {
+		name = holy_site_sao_leopoldo_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+prudentopolis = {
+	county = c_irati
+	character_modifier = {
+		name = holy_site_prudentopolis_effect_name
+		same_faith_opinion = 5
+		monthly_piety_gain_mult = 0.1
+	}
+}
+curitiba = {
+	county = c_curitiba
+	character_modifier = {
+		name = holy_site_curitiba_effect_name
+		defender_advantage = 5
+		direct_vassal_opinion = 5
+	}
+}
+paysandu = {
+	county = c_paysandu
+	character_modifier = {
+		name = holy_site_paysandu_effect_name
+		stewardship_per_piety_level = 1
+		embarkation_cost_mult =  -0.2
+	}
+}
+encarnacion = {
+	county = c_encarnacion
+	character_modifier = {
+		name = holy_site_encarnacion_effect_name
+		intrigue_per_piety_level = 1
+		plains_advantage =  3
+	}
+}
+
+###muhsins
+foz_do_iguacu = {
+	county = c_foz_do_iguacu
+	character_modifier = {
+		name = holy_site_foz_do_iguacu_effect_name
+		martial_per_piety_level = 1
+		plains_advantage =  3
+	}
+}
+
+ciudad_del_este = {
+	county = c_minga_guazu
+	character_modifier = {
+		name = holy_site_ciudad_del_este_effect_name
+		different_culture_opinion = 10
+	}
+}
+
+mendoza = {
+	county = c_mendoza
+	character_modifier = {
+		name = holy_site_mendoza_effect_name
+		development_growth_factor = 0.1
+		diplomacy = 1
+	}
+}
+
+##Cultos dos santos
+
+#Salvador, olinda, ...?
+
+palmas_de_monte_alto = { #guanambi, festa do divino
+	county = c_guanambi
+	character_modifier = {
+		name = holy_site_palmas_de_monte_alto_effect_name
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+caninde = { #pacatuba, são francisco
+	county = c_br_06_caucaia
+	character_modifier = {
+		name = holy_site_caninde_effect_name
+		direct_vassal_opinion = 5
+	}
+}
+
+nova_jerusalem = { #brejo da madre de deus
+	county = c_caruaru
+	character_modifier = {
+		name = holy_site_nova_jerusalem_effect_name
+		piety_level_impact_mult = 0.2
+		church_holding_build_gold_cost = -0.1
+	}
+}
+
+##Pentecostal
+belem = {
+	county = c_belem
+	character_modifier = {
+		name = holy_site_belem_effect_name
+		different_culture_opinion = 10
+	}
+	flag = belem_conversion_bonus
+}
+
+georgetown = {
+	county = c_georgetown
+	character_modifier = {
+		name = holy_site_georgetown_effect_name
+		learning_per_prestige_level = 1
+	}
+	flag = georgetown_conversion_resistance_bonus # 50% County Conversion Resistance
+}
+
+resistencia = {
+	county = c_resistencia
+	character_modifier = {
+		name = holy_site_resistencia_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+vitoria = {
+	county = c_vitoria
+	character_modifier = {
+		name = holy_site_vitoria_effect_name
+		liege_opinion = 10
+	}
+}
+
+## Global Throne
+ji_parana = {
+	county = c_ji_parana
+
+	character_modifier = {
+		name = holy_site_ji_parana_effect_name
+		jungle_advantage = 5
+		#deep_jungle_advantage = 5
+		supply_duration = 0.25
+	}
+}
+
+## Templarios
+sorocaba = {
+	county = c_sorocaba
+
+	character_modifier = {
+		name = holy_site_manaus_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+
+
+##Kardecist holy sites
+araxa = {
+	county = c_araxa
+	character_modifier = {
+		name = holy_site_araxa_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+caldas_novas = {
+	county = c_caldas_novas
+	character_modifier = {
+		name = holy_site_caldas_novas_effect_name
+		stress_loss_mult = 0.1
+		life_expectancy = 5
+	}
+}
+
+#+ Rio de Janeiro, Recife and São Paulo
+
+##neoniponic
+
+guarapiranga = {
+	county = c_osasco
+	character_modifier = {
+		name = holy_site_guarapiranga_effect_name
+		stress_loss_mult = 0.2
+	}
+}
+
+##liberationist
+solentiname_islands = {
+	county = c_rio_san_juan
+	character_modifier = {
+		name = holy_site_solentiname_islands_effect_name
+		county_opinion_add = 5
+	}
+	flag = solentiname_islands_conversion_bonus
+}
+
+medellin = {
+	county = c_medellin
+	character_modifier = {
+		name = holy_site_medellin_effect_name
+		diplomacy_per_piety_level = 1
+		clergy_opinion = 5
+	}
+}
+
+montevideo = {
+	county = c_montevideo
+	character_modifier = {
+		name = holy_site_montevideo_effect_name
+		monthly_piety_gain_mult = 0.1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+gurupa = {
+	county = c_mazagao
+	character_modifier = {
+		name = holy_site_gurupa_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		enemy_hostile_scheme_success_chance_add = -5
+	}
+}
+
+##Theosophist
+cordoba = {
+	county = c_cordoba
+	character_modifier = {
+		name = holy_site_cordoba_effect_name
+		learning_per_prestige_level = 1
+		learn_language_scheme_power_mult = 0.25
+	}
+}
+
+###posadist
+guantanamo = {
+	county = c_guantanamo
+	character_modifier = {
+		name = holy_site_guantanamo_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.05
+	}
+}
+
+###platinean
+
+buenos_aires = {
+	county = c_buenos_aires
+	character_modifier = {
+		name = holy_site_buenos_aires_effect_name
+		tyranny_loss_mult = 0.2
+		accolade_glory_gain_mult = 0.4
+	}
+}
+
+concepcion = {
+	county = c_mburucuya
+	barony = b_ar_06_concepci_n
+	character_modifier = {
+		name = holy_site_concepcion_effect_name
+		stewardship = 1
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+campina_grande = {
+	county = c_campina_grande
+	barony = b_br_17_campina_grande
+	character_modifier = {
+		name = holy_site_campina_grande_effect_name
+		drylands_advantage = 5
+		same_faith_opinion = 5
+	}
+}
+
+san_miguel_de_tucuman = {
+	county = c_san_miguel_de_tucuman
+	character_modifier = {
+		name = holy_site_san_miguel_de_tucuman_effect_name
+		domain_limit = 1
+		direct_vassal_opinion = 5
+	}
+
+}
+
+agraciada = {
+	county = c_soriano
+	barony = b_uy_17_mercedes
+	character_modifier = {
+		name = holy_site_agraciada_effect_name
+		naval_movement_speed_mult = 0.2
+		stewardship = 1
+	}
+}
+
+yapeyu = {
+	county = c_mirinay
+	character_modifier = {
+		name = holy_site_yapeyu_effect_name
+		plains_advantage = 3
+		martial = 1
+	}
+}
+
+
+###animist and particularist
+
+asuncion = { #patriarchy of asuncion, paraguay + caacupé
+	county = c_asuncion
+	character_modifier = {
+		name = holy_site_asuncion_effect_name
+		same_faith_opinion = 10
+		monthly_piety_gain_mult = 0.1
+	}
+	#TODO
+}
+
+lujan = { #our lady of luján, argentina
+	county = c_merlo
+	character_modifier = {
+		name = holy_site_lujan_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+mercedes = { #our lady of itatí, corrients, argentina
+#gauchito gil too
+	county = c_paiubre
+	barony = b_ar_06_mercedes
+	character_modifier = {
+		name = holy_site_mercedes_effect_name
+		intrigue_per_piety_level = 1
+	}
+
+}
+
+#maipu = { #our lady of carmen, chile
+#
+#}
+
+#cordoba = { #san gabriel brochero, el cura gaucho
+#
+#}
+
+#buenos_aires = {
+#
+#}
+
+santiago_de_chile = {
+	county = c_santiago_cl
+	character_modifier = {
+		name = holy_site_santiago_de_chile_effect_name
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.03
+	}
+}
+
+##folk saints from argentina and chile
+vallecito = { #defunta correa, caucete, san juan, argentina
+	county = c_caucete
+	character_modifier = {
+		name = holy_site_vallecito_effect_name
+		monthly_piety_from_buildings_mult = 0.1
+	}
+	flag = vallecito_conversion_bonus # +20% County Conversion
+}
+
+#mercedes = { #gauchito gil, corrientes, argentina
+#
+#}
+
+rio_negro = { #cefrino namuncurá, argentina
+	county = c_choele_choel
+	character_modifier = {
+		name = holy_site_rio_negro_effect_name
+		different_faith_opinion = 10
+	}
+
+}
+
+villa_union = { #angelito milagroso, la rioja, argentina
+	county = c_la_rioja
+	character_modifier = {
+		name = holy_site_villa_union_effect_name
+		county_opinion_add = 10
+	}
+}
+
+rosario = { #maradona
+	county = c_rosario
+	character_modifier = {
+		name = holy_site_rosario_effect_name
+		prowess_per_piety_level = 1
+		knight_limit = 1
+	}
+
+}
+
+
+###non-conformists
+trelew = {
+	county = c_trelew
+	character_modifier = {
+		name = holy_site_trelew_effect_name
+		close_relative_opinion = 10
+	}
+}
+
+blumenau = {
+	county = c_blumenau
+	character_modifier = {
+		name = holy_site_blumenau_effect_name
+		diplomacy_per_piety_level = 1
+		learning = 1
+	}
+}
+
+##gauchada
+azul = {
+	county = c_azul
+	character_modifier = {
+		name = holy_site_azul_effect_name
+		learning_per_prestige_level = 1
+		intrigue = 1
+	}
+}
+
+santa_rosa_ar = {
+	county = c_santa_rosa
+	character_modifier = {
+		name = holy_site_santa_rosa_ar_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+}
+
+bahia_blanca = {
+	county = c_bahia_blanca
+	character_modifier = {
+		name = holy_site_bahia_blanca_effect_name
+		stewardship = 1
+		light_cavalry_damage_mult = 0.05
+	}
+}
+
+stanley = {
+	county = c_east_falkland
+	character_modifier = {
+		name = holy_site_stanley_effect_name
+		embarkation_cost_mult = -0.25
+		naval_movement_speed_mult = 0.25
+	}
+}
+
+#calafatist
+
+el_calafate = {
+	county = c_el_calafate
+	character_modifier = {
+		name = holy_site_el_calafate_effect_name
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+rio_gallegos = {
+	county = c_rio_gallegos
+	character_modifier = {
+		name = holy_site_rio_gallegos_effect_name
+		supply_duration = 0.25
+		stewardship = 1
+	}
+}
+
+esquel = {
+	county = c_esquel
+	character_modifier = {
+		name = holy_site_esquel_effect_name
+		hostile_county_attrition = -0.25
+		learning = 1
+	}
+}
+
+bariloche = {
+	county = c_san_carlos_de_bariloche
+	character_modifier = {
+		name = holy_site_bariloche_effect_name
+		stress_loss_mult = 0.2
+		diplomacy = 1
+	}
+}
+
+aconcagua = {
+	county = c_aconcagua
+	character_modifier = {
+		name = holy_site_aconcagua_effect_name
+		prowess_per_piety_level = 1
+		martial = 1
+	}
+}
+
+#xo'on
+ushuaia = {
+	county = c_ushuaia
+	character_modifier = {
+		name = holy_site_ushuaia_effect_name
+		negate_health_penalty_add = 1.0
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+punta_arenas = {
+	county = c_punta_arenas
+	character_modifier = {
+		name = holy_site_punta_arenas_effect_name
+		stewardship_per_piety_level = 1
+		monthly_diplomacy_lifestyle_xp_gain_mult = 0.05
+	}
+}
+
+comodoro_rivadavia = {
+	county = c_comodoro_rivadavia
+	character_modifier = {
+		name = holy_site_comodoro_rivadavia_effect_name
+		development_growth_factor = 0.05
+		intrigue = 1
+
+	}
+}
+
+##christian bolivia
+
+cotoca = { #santa cruz, bolivia
+	county = c_santa_cruz_de_la_sierra
+	character_modifier = {
+		name = holy_site_cotoca_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		owned_hostile_scheme_success_chance_add = 5
+	}
+}
+
+cochabamba = { #urqupiña / pachamama
+	county = c_cochabamba
+	character_modifier = {
+		name = holy_site_cochabamba_effect_name
+		fertility = 0.1
+		years_of_fertility = 5
+	}
+}
+
+nancahuazu = {
+	county = c_nancahuazu
+	character_modifier = {
+		name = holy_site_nancahuazu_effect_name
+		jungle_advantage = 5
+		prowess_per_piety_level = 1
+	}
+}
+
+
+#copacabana = { #our lady of copacabana, titicaca lake, bolivia
+#
+#}
+
+##santo daime
+
+rio_branco = {
+	county = c_rio_branco
+	character_modifier = {
+		name = holy_site_rio_branco_effect_name
+		learning = 1
+		fertility = 0.1
+	}
+}
+
+eirunepe = {
+	county = c_eirunepe
+	character_modifier = {
+		name = holy_site_eirunepe_effect_name
+		health = 0.15
+	}
+
+}
+
+sao_luis = {
+	county = c_sao_luis
+	character_modifier = {
+		name = holy_site_sao_luis_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		intrigue = 1
+	}
+}
+
+barreirinhas = {
+	county = c_barreirinhas
+	character_modifier = {
+		name = holy_site_barreirinhas_effect_name
+		army_maintenance_mult = -0.05
+		controlled_province_advantage = 3
+	}
+}
+
+
+soure = {
+	county = c_soure
+	character_modifier = {
+		name = holy_site_soure_effect_name
+		health = 0.15
+		fertility = 0.1
+		prestige_level_impact_mult  = 0.1
+	}
+}
+
+capao_da_canoa = {
+	county = c_capao_da_canoa
+	barony = b_br_23_os_rio
+	character_modifier = {
+		name = holy_site_capao_da_canoa_effect_name
+		different_culture_opinion = 10
+	}
+}
+
+seabra = {
+	county = c_seabra
+	barony = b_br_05_aba_ra
+	character_modifier = {
+		name = holy_site_seabra_effect_name
+		health = minor_health_bonus
+	}
+}
+
+##Conterrâneos
+
+cuiaba = {
+	county = c_cuiaba
+	character_modifier = {
+		name = holy_site_cuiaba_effect_name
+		learning = 1
+		fertility = 0.1
+	}
+
+}
+
+campo_grande = {
+	county = c_campo_grande
+	character_modifier = {
+		name = holy_site_campo_grande_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+
+}
+
+barretos = {
+	county = c_barretos
+	barony = b_br_27_barretos
+	character_modifier = {
+		name = holy_site_barretos_effect_name
+		prowess_per_piety_level = 1
+		light_cavalry_toughness_mult = 0.1
+	}
+
+}
+
+corumba = {
+	county = c_corumba
+	barony = b_br_11_corumb_
+	character_modifier = {
+		name = holy_site_corumba_effect_name
+		prestige_level_impact_mult  = 0.1
+	}
+
+}
+
+bonito = {
+	county = c_bonito
+	barony = b_br_11_bonito
+	character_modifier = {
+		name = holy_site_bonito_effect_name
+		stress_loss_mult = 0.1
+		supply_capacity_mult = 0.1
+	}
+
+}
+
+ouro_fino = {
+	county = c_pouso_alegre
+	barony = b_br_15_jacutinga
+	character_modifier = {
+		name = holy_site_ouro_fino_effect_name
+		stewardship_per_piety_level = 1 
+		domain_tax_same_faith_mult = 0.01
+	}
+
+}
+
+veadeiros = {
+	county = c_uruacu
+	barony = b_br_29_s_o_jorge
+	character_modifier = {
+		name = holy_site_veadeiros_effect_name
+		learning = 1
+	}
+
+}
+
+###farrapo
+porto_alegre = {
+	county = c_porto_alegre
+	character_modifier = {
+		name = holy_site_porto_alegre_effect_name
+		monthly_piety_gain_mult = 0.1
+		learning = 1
+	}
+}
+
+piratini = {
+	county = c_cangucu
+	character_modifier = {
+		name = holy_site_piratini_effect_name
+		light_cavalry_damage_mult = 0.05
+		prowess_per_prestige_level = 1
+	}
+}
+
+laguna = {
+	county = c_imbituba
+	character_modifier = {
+		name = holy_site_laguna_effect_name
+		army_maintenance_mult = -0.05
+		controlled_province_advantage = 3
+	}
+}
+
+
+### Mexico's holy site, Christian ###
+mx_ciudad_mexico = {
+	county = c_mexico
+
+	character_modifier = {
+		monthly_county_control_growth_factor = 0.1
+	}
+	flag = ciudad_mexico_conversion_bonus
+}
+guanajuato = {
+	county = c_guanajuato
+
+	character_modifier = {
+		stress_loss_mult = 0.1
+		stewardship = 1
+	}
+}
+veracruz = {
+	county = c_veracruz
+
+	character_modifier = {
+		domain_tax_mult = 0.05
+		men_at_arms_maintenance = -0.05
+	}
+}
+tijuana = {
+	county = c_tijuana
+
+	character_modifier = {
+		direct_vassal_opinion = 5
+		levy_size = 0.1
+	}
+}
+## Suggested sites
+san_juan_de_los_lagos = {
+    county = c_san_juan_de_los_lagos
+
+    character_modifier = {
+		life_expectancy = 2
+        health = minor_health_bonus
+    }
+}
+zapopan = {
+    county = c_guadalajara
+
+    character_modifier = {
+        knight_effectiveness_mult = 0.1
+		holy_order_hire_cost_mult = -0.1
+    }
+}
+monterrey = {  # Monterrey really isn't a holy site IRL, but makes sense as a goal
+    county = c_monterrey
+
+    character_modifier = {
+        learning_per_piety_level = 1
+		development_growth_factor = 0.10
+    }
+}
+juquila = {
+    county = c_juquila
+
+    character_modifier = {
+        controlled_province_advantage = 3
+		accolade_glory_gain_mult = 0.2
+    }
+}
+izamal = {
+    county = c_kanasin
+	barony = b_mx_31_izamal
+    character_modifier = {
+        same_culture_opinion = 10
+    }
+}
+
+
+#####Atlantica
+
+#americanist, diabolist and masonic
+boston = {
+    county = c_boston
+    character_modifier = {
+        cultural_head_fascination_mult = 0.1
+		learn_language_scheme_power_mult = 0.15
+    }
+}
+
+providence = {
+	county = c_rhode_island
+	barony = b_us_ri_providence
+    character_modifier = {
+        intrigue_per_piety_level = 1
+    }
+}
+
+manhattan = {
+    county = c_new_york
+    character_modifier = {
+        development_growth_factor = 0.1
+		monthly_county_control_growth_factor = 0.05
+    }
+}
+
+albany = {
+    county = c_albany
+    character_modifier = {
+        direct_vassal_opinion = 5
+    }
+	flag = albany_conversion_bonus
+}
+
+rochester = {
+    county = c_rochester
+    character_modifier = {
+        stewardship_per_piety_level = 1
+    }
+}
+
+seneca = {
+    county = c_seneca
+    character_modifier = {
+        learning_per_piety_level = 1
+    }
+}
+
+washington_tower = {
+    county = c_washington
+    character_modifier = {
+        clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.1
+    }
+}
+
+bangor = {
+    county = c_bangor
+	barony = b_us_me_bangor
+    character_modifier = {
+        supply_duration = 0.25
+		prowess = 1
+    }
+}
+
+
+
+nantucket = {
+	county = c_nantucket
+    character_modifier = {
+        coastal_advantage = 5
+		naval_movement_speed_mult = 0.2
+    }
+}
+
+newport = {
+	county = c_rhode_island
+	barony = b_us_ri_newport
+    character_modifier = {
+        stewardship = 1
+		life_expectancy = 3
+    }
+}
+
+sleepy_hollow = {
+	county = c_westchester
+	character_modifier = {
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+salem = {
+	county = c_essex_mass
+	barony = b_us_ma_salem
+	character_modifier = {
+		cultural_head_fascination_mult = 0.1
+		learn_language_scheme_power_mult = 0.15
+	}
+}
+
+montpelier = {
+	county = c_montpelier
+	character_modifier = {
+		raid_speed = 0.1
+	}
+	flag = montpelier_conversion_resistance_bonus
+}
+
+frederick = {
+    county = c_frederick
+    character_modifier = {
+        monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.05
+    }
+}
+
+washington = {	#Haredi uses this too
+    county = c_washington
+    character_modifier = {
+        monthly_piety_gain_mult = 0.2
+    }
+	flag = washington_conversion_bonus
+}
+
+philadelphia = {
+    county = c_philadelphia
+    character_modifier = {
+        supply_duration = 0.2
+		holy_order_hire_cost_mult = -0.1
+    }
+}
+
+mt_rushmore = {
+    county = c_rapid_city
+    character_modifier = {
+		build_speed = -0.1
+		build_gold_cost = -0.1
+    }
+}
+
+the_alamo = {
+	county = c_bexar
+	barony = b_us_tx_san_antonio
+	character_modifier = {
+		monthly_piety_gain_per_knight_mult = 0.02
+		light_cavalry_damage_mult = 0.05
+	}
+}
+
+lexington_concord = {
+	county = c_essex_mass
+	barony = b_us_ma_lowell
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+san_juan_hill = {
+	county = c_santiago_de_cuba
+	barony = b_cu_santiago_de_cuba
+	character_modifier = {
+		monthly_prestige_gain_per_knight_mult = 0.02
+		heavy_infantry_damage_mult = 0.05
+	}
+}
+
+new_orleans_americanist = {
+	county = c_new_orleans
+	character_modifier = {
+		supply_duration = 0.2
+		holy_order_hire_cost_mult = -0.1
+	}
+}
+
+west_point = {
+	county = c_rockland
+	barony = b_us_ny_monroe
+	character_modifier = {
+		monthly_piety_gain_per_knight_mult = 0.01
+		monthly_prestige_gain_per_knight_mult = 0.01
+		prowess_per_prestige_level = 1
+	}
+}
+
+plymouth = {
+	county = c_plymouth
+	barony = b_us_ma_plymouth
+	character_modifier = {
+		same_faith_opinion = 5
+		monthly_piety_gain_mult = 0.1
+		tyranny_loss_mult = -0.05
+	}
+}
+
+##old order and peaceful
+
+lengeschder = {
+    county = c_lancaster
+    character_modifier = {
+		stewardship_per_piety_level = 1
+		fertility = 0.1
+    }
+}
+
+lechaa = {
+	county = c_berks
+	barony = b_us_pa_allentown
+    character_modifier = {
+		learning = 1
+		same_faith_opinion = 5
+    }
+}
+
+kitchener = {
+    county = c_waterloo
+	barony = b_ca_on_kitchener
+    character_modifier = {
+		development_growth_factor = 0.1
+    }
+}
+
+yohogania = {
+    county = c_pittsburgh
+    character_modifier = {
+		domain_tax_mult = 0.05
+		domain_tax_same_faith_mult = 0.1
+    }
+}
+
+york = {
+    county = c_york
+    character_modifier = {
+		general_opinion = 5
+		cultural_head_acceptance_gain_mult = 0.2
+    }
+}
+
+## Haredi
+
+#Washington - See above
+
+brooklyn = {
+	county = c_kings #wont work until thomas does his thing
+	barony = b_us_ny_brooklyn #This barony is mis-named, key may change in future
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		learning = 2
+	}
+}
+
+montefiore = {
+	county = c_kings
+	barony = b_us_ny_queens
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		learning = 2
+	}
+}
+
+charleston_jewish = {
+	county = c_charleston
+	character_modifier = {
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.02
+		close_relative_opinion = 5
+	}
+}
+
+montreal = {
+	county = c_hochelaga
+	barony = b_ca_qc_montr_al
+	character_modifier = {
+		development_growth_factor = 0.1
+		build_gold_cost = -0.10
+		build_speed = 0.1
+	}
+}
+
+palm_beach_jewish = {	#Note there is another Palm Beach site with different modifiers
+	county = c_palm_beach
+	character_modifier = {
+		stress_loss_mult = 0.2
+		life_expectancy = 1
+	}
+}
+lakewood = {
+	county = c_ocean
+	barony = b_us_nj_lakewood #wont work until thomas does his thing
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		learning_per_piety_level = 1
+	}
+}
+pico_robertson = { #different bonuses
+	county = c_los_angeles
+	barony = b_us_ca_santa_monica
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		direct_vassal_opinion = 5
+	}
+}
+beverly_hills = { #different bonuses
+	county = c_los_angeles
+	barony = b_us_ca_santa_monica
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		different_faith_opinion = 5
+	}
+}
+santarem = {
+	county = c_santarem
+	character_modifier = {
+		name = holy_site_santarem_effect_name
+		build_gold_cost = -0.05
+		development_growth_factor = 0.05
+	}
+}
+
+###Florida
+orlando = {
+	county = c_orlando
+	character_modifier = {
+		#name = holy_site_orlando_effect_name
+		learning_per_prestige_level = 1
+		child_opinion = 10
+
+		wetlands_advantage = 5
+	}
+}
+kennedy_space_center = {
+	county = c_space_coast
+	barony = b_us_fl_merritt_island
+	character_modifier = {
+		#name = holy_site_kennedy_space_center_effect_name
+		councillor_opinion = 5
+		monthly_prestige_gain_mult = 0.10
+		flooded_forests_advantage = 5
+	}
+}
+johnson_space_center = {
+	county = c_houston
+	barony = b_us_tx_houston
+	character_modifier = {
+		#name = holy_site_johnson_space_center_effect_name
+		fertility = 0.05
+		different_faith_opinion = 5
+	}
+}
+
+dallas = {
+	county = c_dallas
+	character_modifier = {
+		prowess_per_piety_level = 1
+		martial = 1
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+louisville = {
+	county = c_louisville
+	character_modifier = {
+		guest_opinion = 10
+		diplomacy = 1
+	}
+}
+
+
+
+####Caribbean
+
+havana = {
+	county = c_havana
+	character_modifier = {
+		#name = holy_site_havana_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+santa_ifigenia = {
+	county = c_santiago_de_cuba
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+santo_domingo = {
+	county = c_santo_domingo
+	character_modifier = {
+		martial = 1
+	}
+	flag = santo_domingo_conversion_resistance_bonus
+}
+
+miami = {
+	county = c_miami_dade
+	character_modifier = {
+		stewardship_per_piety_level = 1
+		learn_language_scheme_power_mult = 0.25
+	}
+}
+
+san_juan = {
+	county = c_san_juan_pr
+	character_modifier = {
+		martial = 1
+		hard_casualty_modifier = -0.1
+	}
+}
+
+villa_clara = {
+	county = c_villa_clara
+	character_modifier = {
+		name = holy_site_villa_clara_effect_name
+		stewardship = 1
+		prowess_per_piety_level = 1
+	}
+}
+
+#Mexico City already listed as mx_ciudad_mexico_site
+
+port_au_prince = {
+	county = c_port_au_prince
+	character_modifier = {
+		learning = 1
+	}
+	flag = port_au_prince_conversion_bonus #+20% county conversion speed
+}
+
+new_orleans = {
+	county = c_new_orleans
+	character_modifier = {
+		cultural_head_fascination_mult = 0.1
+	}
+}
+
+martinique = {
+	county = c_martinique
+	character_modifier = {
+		same_culture_opinion = 5
+	}
+}
+
+la_gonave = {
+	county = c_la_gonave
+	character_modifier = {
+		learning = 1
+	}
+}
+
+kingston = {
+	county = c_surrey #temporary fix for Rasta faiths losing this holy site
+	character_modifier = {
+		build_gold_cost = -0.05
+	}
+}
+
+barbados = {
+	county = c_barbados
+	character_modifier = {
+		naval_movement_speed_mult = 0.2
+	}
+}
+
+nassau = {
+	county = c_nassau
+	character_modifier = {
+		knight_effectiveness_mult = 0.1
+		prowess_per_piety_level = 1
+	}
+}
+
+palm_beach = {
+	county = c_palm_beach
+	character_modifier = {
+		build_gold_cost = -0.05
+	}
+}
+
+monmouth = {
+	county = c_monmouth
+	character_modifier = {
+		men_at_arms_maintenance = -0.1
+	}
+}
+
+bermuda = {
+	county = c_bermuda
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+aruba = {
+	county = c_aruba
+	character_modifier = {
+		health = 0.1
+	}
+}
+
+belize = {
+	county = c_belize
+	character_modifier = {
+		development_growth_factor = 0.05
+		learn_language_scheme_power_mult = 0.25
+	}
+}
+
+#georgetown already exists
+
+paramaribo = {
+	county = c_paramaribo
+	character_modifier = {
+		knight_effectiveness_mult = 0.1
+		monthly_piety_gain_per_knight_mult = 0.01
+	}
+}
+
+#port_of_spain already exist
+
+st_kitts = {
+	county = c_saint_kitts_and_nevis
+	character_modifier = {
+		fertility = 0.15
+		build_gold_cost = -0.05
+	}
+}
+
+cayman = {
+	county = c_cayman_islands
+	character_modifier = {
+		health = 0.1
+		levy_reinforcement_rate_same_faith = 0.1
+	}
+}
+
+tortuga = {
+	county = c_tortuga
+	character_modifier = {
+		monthly_piety_gain_per_knight_mult = 0.01
+		heavy_infantry_damage_mult = 0.05
+	}
+}
+
+port_royal_jamaica = {
+	county = c_surrey
+	character_modifier = {
+		dread_baseline_add = 5
+		accolade_glory_gain_mult = 0.2
+	}
+}
+croatan_pirate = {
+	county = c_croatan
+	character_modifier = {
+		men_at_arms_maintenance = -0.1
+		controlled_province_advantage = 3
+	}
+}
+
+#traditionalist
+port_of_spain = {
+	county = c_port_of_spain
+	character_modifier = {
+		development_growth_factor = 0.05
+		learn_language_scheme_power_mult = 0.2
+	}
+}
+detroit = {
+	county = c_detroit
+	character_modifier = {
+		name = holy_site_detroit_effect_name
+		men_at_arms_maintenance = -0.15
+		build_gold_cost = -0.1
+	}
+}
+
+lakeshore_detroit = {
+	county = c_detroit
+	character_modifier = {
+		name = holy_site_lakeshore_detroit_effect_name
+		stewardship_per_piety_level = 1
+		build_speed = -0.10
+		build_gold_cost = -0.10
+	}
+}
+
+#veracruz already exists
+
+##add this back in once San Andrés is in:
+
+san_andres = {
+	county = c_co_25_san_andr_s
+	character_modifier = {
+		prowess_per_piety_level = 1
+	}
+}
+
+#Conclavian
+saint_louis_ca = {
+	county = c_st_louis
+	character_modifier = {
+		name = holy_site_saint_louis_ca_effect_name
+		monthly_county_control_growth_factor = 0.1
+		stewardship = 2
+	}
+}
+
+washington_ca = {
+	county = c_washington
+	character_modifier = {
+		name = holy_site_washington_ca_effect_name
+		different_culture_opinion = 5
+		different_faith_opinion = 5
+	}
+	flag = washington_conversion_bonus
+}
+
+saint_paul = {
+	county = c_minneapolis
+	barony = b_us_mn_saint_paul
+	character_modifier = {
+		name = holy_site_saint_paul_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		dread_baseline_add = 5
+	}
+}
+
+redemption = {
+	county = c_kossuth
+	character_modifier = {
+	name = holy_site_redemption_effect_name
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+chicago = {
+	county = c_chicago
+	character_modifier = {
+	name = holy_site_chicago_effect_name
+		domain_tax_mult = 0.05
+		development_growth_factor = 0.1
+	}
+}
+
+peoria = {
+	county = c_peoria
+	character_modifier = {
+	name = holy_site_chicago_effect_name
+		domain_tax_mult = 0.05
+		development_growth_factor = 0.1
+	}
+}
+
+chimayo = {
+	county = c_santa_fe
+	character_modifier = {
+		name = holy_site_chimayo_name
+		same_faith_opinion = 5
+	}
+}
+
+#revelationist
+
+shenandoah = {
+	county = c_tygart
+	character_modifier = {
+		name = holy_site_shenandoah_effect_name
+		martial_per_piety_level = 1
+	}
+}
+
+mammoth_cave = {
+	county = c_bowling_green_us
+	barony = b_us_ky_bowling_green
+	character_modifier = {
+		name = holy_site_mammoth_cave_effect_name
+		prowess_per_piety_level = 1
+		dread_baseline_add = 5
+	}
+}
+
+sunsphere = {
+	county = c_knox
+	barony = b_us_tn_knoxville
+	character_modifier = {
+		name = holy_site_sunsphere_effect_name
+		learning = 2
+		faith_creation_piety_cost_mult = -0.10
+	}
+}
+
+jolo = {
+	county = c_buchanan
+	character_modifier = {
+		name = holy_site_jolo_effect_name
+		martial_per_piety_level = 1
+		hills_development_growth_factor = 0.15
+	}
+}
+
+old_rock_house = {
+	county = c_chickamauga
+	barony = b_us_al_rainsville
+	character_modifier = {
+		name = holy_site_old_rock_house_effect_name
+		diplomacy = 1
+		stress_loss_mult = 0.1
+	}
+}
+
+charleston = {
+	county = c_charleston
+	character_modifier = {
+		name = holy_site_charleston_effect_name
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.02
+		close_relative_opinion = 5
+	}
+}
+
+jellico = {
+	county = c_knox
+	character_modifier = {
+		name = holy_site_jellico_effect_name
+		learning = 2
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+burning_springs = {
+	county = c_tygart
+	barony = b_us_wv_spencer
+	character_modifier = {
+		name = holy_site_burning_springs_effect_name
+		same_faith_opinion = 5
+		powerful_vassal_opinion = 5
+	}
+}
+
+pensacola = {
+	county = c_escambia
+	character_modifier = {
+		name = holy_site_pensacola_effect_name
+		knight_effectiveness_mult = 0.1
+		max_combat_roll = 4
+	}
+}
+
+#Voodoo
+
+avery_island = {
+	county = c_lafayette
+	character_modifier = {
+		name = holy_site_avery_island_effect_name
+		diplomacy = 1
+		monthly_piety_gain_mult = 0.05
+	}
+}
+
+saint_louis = {
+	county = c_st_louis
+	character_modifier = {
+		name = holy_site_saint_louis_effect_name
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+oyotunji = {
+	county = c_sea_islands
+	barony = b_us_sc_hilton_head_island
+	character_modifier = {
+		name = holy_site_oyotunji_effect_name
+		dread_baseline_add = 5
+	}
+}
+
+#nguillatun
+
+villarica = {
+	county = c_temuco
+	barony = b_cl_04_loncoche
+	character_modifier = {
+		name = holy_site_villarica_effect_name
+		prowess_per_piety_level = 1
+		knight_limit = 2
+	}
+}
+
+arauco = {
+	county = c_concepcion_chile
+	barony = b_cl_06_coronel
+	character_modifier = {
+		name = holy_site_arauco_effect_name
+		prowess_per_piety_level = 1
+		cultural_head_fascination_mult = 0.05
+	}
+}
+
+neuquen = {
+	county = c_neuquen
+	character_modifier = {
+		name = holy_site_neuquen_effect_name
+		development_growth_factor = 0.05
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+chiloe = {
+	county = c_puerto_montt
+	character_modifier = {
+		name = holy_site_chiloe_effect_name
+		health = 0.1
+		intrigue = 1
+	}
+}
+talca = {
+	county = c_talca
+	character_modifier = {
+		name = holy_site_talca_effect_name
+		learning = 2
+		clergy_opinion = 5
+	}
+}
+
+#evangelical
+
+charlotte = {
+	county = c_charlotte
+	character_modifier = {
+		name = holy_site_charlotte_effect_name
+		max_combat_roll = 6
+	}
+}
+
+gatlinburg = {
+	county = c_knox
+	barony = b_us_tn_knoxville
+	character_modifier = {
+		name = holy_site_gatlinburg_effect_name
+		mountains_advantage = 5
+	}
+}
+
+lynchburg = {
+	county = c_lynchburg
+	character_modifier = {
+		name = holy_site_lynchburg_effect_name
+		development_growth_factor = 0.05
+		martial = 1
+		intrigue = 1
+	}
+}
+
+savannah = {
+	county = c_savannah
+	character_modifier = {
+		name = holy_site_savannah_effect_name
+		health = 0.1
+		intrigue = 1
+	}
+}
+orlando_ev = {
+	county = c_orlando
+	character_modifier = {
+		name = holy_site_orlando_effect_name
+		diplomacy_per_piety_level = 1
+		clergy_opinion = 5
+	}
+}
+
+#shriner
+tampa_shriner = {
+	county = c_tampa
+	character_modifier = {
+		name = holy_site_tampa_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+jacksonville_shriner = {
+	county = c_jacksonville
+	character_modifier = {
+		name = holy_site_jacksonville_effect_name
+		health = 0.2
+		prowess = 1
+	}
+}
+
+new_orleans_shriner = {
+	county = c_new_orleans
+	character_modifier = {
+		name = holy_site_new_orleans_shriner_effect_name
+		opinion_of_different_faith = 10
+		different_faith_opinion = 10
+		learning = 1
+	}
+}
+
+atlanta_shriner = {
+	county = c_atlanta
+	character_modifier = {
+		name = holy_site_atlanta_shriner_effect_name
+		opinion_of_different_culture = 10
+		different_culture_opinion = 10
+		stewardship = 1
+	}
+}
+
+charlotte_shriner = {
+	county = c_charlotte
+		character_modifier = {
+		name = holy_site_charlotte_shriner_effect_name
+		prowess_per_piety_level = 1
+	}
+}
+
+manhattan_shriner = {
+    county = c_new_york
+    character_modifier = {
+        development_growth_factor = 0.1
+		monthly_county_control_growth_factor = 0.05
+    }
+}
+
+chicago_shriner = {
+	county = c_chicago
+	character_modifier = {
+	name = holy_site_chicago_shriner_effect_name
+		domain_tax_mult = 0.05
+		development_growth_factor = 0.1
+	}
+}
+
+# Charismatic
+
+asheville = {
+	county = c_asheville
+	character_modifier = {
+		name = holy_site_asheville_effect_name
+		development_growth_factor = 0.05
+		men_at_arms_maintenance = -0.05
+	}
+}
+
+sandy_creek = {
+	county = c_wilmington
+	character_modifier = {
+		name = holy_site_sandy_creek_effect_name
+		controlled_province_advantage = 5
+		stress_loss_mult = 0.1
+	}
+}
+shiloh = {
+	county = c_natchez_trace
+	barony = b_us_ms_corinth
+	character_modifier = {
+		name = holy_site_shiloh_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+#galvanist
+
+pittsburgh = {
+	county = c_pittsburgh
+	character_modifier = {
+		name = holy_site_pittsburgh_effect_name
+		church_holding_build_gold_cost = -0.1
+		monthly_piety_gain_mult = 0.05
+	}
+}
+
+cleveland = {
+	county = c_cleveland
+	character_modifier = {
+		name = holy_site_cleveland_effect_name
+		embarkation_cost_mult = -0.25
+		retreat_losses = -0.1
+	}
+}
+
+lawrence = {
+	county = c_essex_mass
+	barony = b_us_ma_lawrence
+	character_modifier = {
+		name = holy_site_lawrence_effect_name
+		development_growth_factor = 0.05
+		build_speed = -0.15
+	}
+}
+
+toledo = {
+	county = c_toledo
+	character_modifier = {
+		name = holy_site_toledo_effect_name
+		health = 0.1
+		army_maintenance_mult = -0.05
+	}
+}
+
+cincinnati = {
+	county = c_cincinnati
+	character_modifier = {
+		name = holy_site_cincinnati_effect_name
+		diplomacy_per_piety_level = 1
+		monthly_stewardship_lifestyle_xp_gain_mult = 0.05
+	}
+}
+
+logan = {
+	county = c_kanawha
+	barony = b_us_wv_logan
+	character_modifier = {
+		name = holy_site_logan_effect_name
+			hills_advantage = 7
+			knight_effectiveness_mult = 0.1
+	}
+}
+
+syracuse = {
+	county = c_onondaga
+	character_modifier = {
+		name = holy_site_syracuse_effect_name
+			martial_per_piety_level = 1
+	}
+}
+
+memphis = {
+	county = c_memphis
+	character_modifier = {
+		name = holy_site_memphis_effect_name
+			different_culture_opinion = 10
+	}
+}
+
+#viking
+
+thunder_bay = {
+	county = c_lakehead
+	barony = b_ca_on_thunder_bay
+	character_modifier = {
+		name = holy_site_thunder_bay_effect_name
+		men_at_arms_maintenance = -0.1
+		martial_per_prestige_level = 1
+	}
+}
+
+sleeping_giant = {
+	county = c_lakehead
+	barony = b_ca_on_thunder_bay
+	character_modifier = {
+		name = holy_site_thunder_bay_effect_name
+		hostile_scheme_resistance_mult = 0.05
+		defender_advantage = 3
+	}
+}
+
+lanse = { #no longer used
+	county = c_gros_morne
+	barony = b_ca_nl_st_anthony
+	character_modifier = {
+		name = holy_site_lanse_effect_name
+		embarkation_cost_mult = -0.25
+		retreat_losses = -0.1
+	}
+}
+
+minneapolis = {
+	county = c_minneapolis
+	character_modifier = {
+		name = holy_site_minneapolis_effect_name
+		holy_order_hire_cost_mult = -0.1
+		men_at_arms_maintenance = -0.1
+	}
+}
+
+green_bay = {
+	county = c_green_bay
+	character_modifier = {
+		name = holy_site_green_bay_effect_name
+		max_combat_roll = 4
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+kensington = { #runestone
+	county = c_alexandria
+	barony = b_us_mn_alexandria
+	character_modifier = {
+		name = holy_site_kensington_effect_name
+		intrigue = 1
+		learn_language_scheme_power_mult = 0.05
+	}
+}
+
+canton = { #football hall of fame
+	county = c_akron
+	barony = b_us_oh_canton
+	character_modifier = {
+		name = holy_site_canton_effect_name
+		prowess_per_piety_level = 1
+		levy_reinforcement_rate_same_faith = 0.10
+	}
+}
+
+#lakeshore
+
+mackinac = {
+	county = c_mackinac
+	barony = b_us_mi_petoskey
+	character_modifier = {
+		name = holy_site_mackinac_effect_name
+		diplomacy = 1
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+niagara = {
+	county = c_niagara
+	character_modifier = {
+		name = holy_site_niagara_effect_name
+		advantage_against_coreligionists = 5
+		no_disembark_penalty = yes
+	}
+}
+
+apostle_islands = {
+	county = c_chequamegon
+	barony = b_us_wi_washburn
+	character_modifier = {
+		name = holy_site_apostle_islands_effect_name
+		prowess_per_piety_level = 1
+		monthly_piety_from_buildings_mult = 0.25
+	}
+}
+
+perrys_victory = {
+	county = c_sandusky
+	barony = b_us_oh_fremont
+	character_modifier = {
+		name = holy_site_perrys_victory_effect_name
+		martial = 1
+		embarkation_cost_mult = -0.25
+	}
+}
+
+indiana_dunes = {
+	county = c_gary
+	barony = b_us_in_portage
+	character_modifier = {
+		name = holy_site_indiana_dunes_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+#Zetanologist
+
+green_river = {
+	county = c_green_river
+	barony = b_us_ut_green_river
+	character_modifier = {
+		name = holy_site_green_river_effect_name
+		max_combat_roll = 6
+	}
+}
+
+aurora = {
+	county = c_denver
+	character_modifier = {
+		name = holy_site_aurora_effect_name
+		mountains_advantage = 5
+	}
+}
+
+roswell = {
+	county = c_chaves
+	character_modifier = {
+		name = holy_site_roswell_effect_name
+		intrigue_per_piety_level = 1
+		owned_hostile_scheme_success_chance_add = 5
+	}
+}
+
+area = {
+	county = c_groom_lake #wont work until map is updated
+	character_modifier = {
+		name = holy_site_area_effect_name
+		development_growth_factor = 0.05
+		cultural_head_fascination_mult = 0.05
+	}
+}
+mt_rainier = {
+	county = c_rainier
+	character_modifier = {
+		name = holy_site_mt_rainier_effect_name
+		clergy_opinion = 5
+	}
+}
+
+#Mormon
+
+salt_lake_city = {
+	county = c_salt_lake
+	barony = b_us_ut_salt_lake_city
+	character_modifier = {
+		name = holy_site_salt_lake_city_effect_name
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.03
+	}
+}
+
+temple_lot = {
+	county = c_kansas_city
+	character_modifier = {
+		name = holy_site_kansas_city_effect_name
+		stewardship_per_piety_level = 1
+	}
+}
+
+zion = {
+	county = c_st_george
+	barony = b_us_ut_hurricane
+	character_modifier = {
+		name = holy_site_zion_effect_name
+		development_growth_factor = 0.1
+		health = 0.15
+	}
+}
+st_george = {
+	county = c_st_george
+	barony = b_us_ut_saint_george
+	character_modifier = {
+		name = holy_site_st_george_effect_name
+		development_growth_factor = 0.05
+		different_faith_opinion = 5
+	}
+}
+kings_peak = {
+	county = c_sweetwater
+	barony = b_us_wy_lyman
+	character_modifier = {
+		name = holy_site_kings_peak_effect_name
+		stress_loss_mult = 0.025
+		learning = 1
+	}
+}
+
+nauvoo = {
+	county = c_quincy
+	barony = b_us_il_hamilton
+	character_modifier = {
+		name = holy_site_nauvoo_effect_name
+		supply_duration = 0.2
+		church_holding_build_gold_cost = -0.1
+	}
+}
+kirtland = {
+	county = c_ashtabula
+	barony = b_us_oh_mentor
+	character_modifier = {
+		learning_per_piety_level = 1
+	}
+}
+cumorah = {
+	county = c_livingston
+	barony = b_us_ny_victor
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+
+denver = {
+	county = c_denver
+	character_modifier = {
+		name = holy_site_denver_effect_name
+		mountains_advantage = 10
+	}
+}
+
+grand_junction = {
+	county = c_mesa
+	character_modifier = {
+		name = holy_site_grand_junction_effect_name
+		holy_order_hire_cost_mult = -0.15
+	}
+}
+san_francisco = {
+	county = c_san_francisco
+	character_modifier = {
+		name = holy_site_san_fransisco_effect_name
+		stewardship_per_prestige_level = 1
+		diplomacy = 1
+	}
+}
+saint_james = {
+	county = c_beaver_island
+	barony = b_us_mi_saint_james
+	character_modifier = {
+		name = holy_site_saint_james_effect_name
+		raid_speed = 0.1
+		embarkation_cost_mult = -0.25
+	}
+}
+voree = {
+	county = c_milwaukee
+	barony = b_us_wi_oconomowoc
+	character_modifier = {
+		name = holy_site_voree_effect_name
+		learning_per_piety_level = 1
+		monthly_piety_from_buildings_mult = 0.1
+	}
+}
+lamoni = {
+	county = c_clarke
+	barony = b_us_mo_mercer
+	character_modifier = {
+		monthly_lifestyle_xp_gain_mult = 0.05
+	}
+	flag = lamoni_conversion_bonus
+}
+
+#cetic
+
+los_angeles = {
+	county = c_los_angeles
+	character_modifier = {
+		name = holy_site_los_angeles_effect_name
+		intrigue = 1
+		men_at_arms_maintenance = -0.1
+
+	}
+}
+las_vegas = {
+	county = c_las_vegas
+	character_modifier = {
+		name = holy_site_law_vegas_effect_name
+		men_at_arms_maintenance = -0.1
+		domain_tax_mult = 0.05
+	}
+}
+san_diego = {
+	county = c_san_diego
+	character_modifier = {
+		name = holy_site_san_diego_effect_name
+		naval_movement_speed_mult = 0.2
+		martial = 1
+	}
+}
+
+#naturalist
+
+yellowstone = {
+	county = c_yellowstone
+	character_modifier = {
+		name = holy_site_yellowstone_effect_name
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+		dread_baseline_add = 5
+
+	}
+}
+berkeley = {
+	county = c_alameda
+	barony = b_us_ca_berkeley
+	character_modifier = {
+		name = holy_site_berkeley_effect_name
+		domain_limit = 1
+		learn_language_scheme_power_mult = 0.1
+	}
+}
+siskiyou = {
+	county = c_siskiyou
+	character_modifier = {
+		forest_advantage = 2
+		stress_loss_mult = 0.025
+	}
+}
+crater = {
+	county = c_crater
+	barony = b_us_or_chemult
+	character_modifier = {
+		name = holy_site_crater_effect_name
+		dread_baseline_add = 5
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+yosemite = {
+	county = c_yosemite
+	barony = b_us_ca_mariposa
+	character_modifier = {
+		name = holy_site_yosemite_effect_name
+		forest_advantage = 2
+		stress_loss_mult = 0.025
+	}
+}
+kelowna = {
+	county = c_kelowna
+	character_modifier = {
+		name = holy_site_kelowna_effect_name
+		general_opinion = 5
+	}
+}
+yoho = {
+	county = c_yoho
+	character_modifier = {
+		name = holy_site_yoho_effect_name
+		stewardship = 1
+		health = 0.15
+	}
+}
+garfield = {
+	county = c_garfield
+	character_modifier = {
+		name = holy_site_garfield_effect_name
+		stewardship = 1
+		prowess_per_piety_level = 1
+
+	}
+}
+washoe = {
+	county = c_washoe
+	character_modifier = {
+		name = holy_site_washoe_effect_name
+		fertility = 0.1
+		stress_loss_mult = 0.1
+	}
+}
+seattle = {
+	county = c_seattle
+	character_modifier = {
+		name = holy_site_seattle_effect_name
+		monthly_stewardship_lifestyle_xp_gain_mult = 0.05
+		domain_tax_mult = 0.05
+	}
+}
+austin = {
+	county = c_austin
+	character_modifier = {
+		name = holy_site_austin_effect_name
+		direct_vassal_opinion = 5
+		county_opinion_add = 5
+	}
+}
+shasta = {
+	county = c_yreka
+	barony = b_us_ca_mount_shasta
+	character_modifier = {
+		name = holy_site_shasta_effect_name
+		mountains_development_growth_factor = 0.20
+	}
+}
+
+cypress_hills = {
+	county = c_cypress_hills
+	character_modifier = {
+		name = holy_site_cypress_hills_effect_name
+		defender_advantage = 5
+		controlled_province_advantage = 5
+	}
+}
+
+boulder = {
+	county = c_boulder
+	character_modifier = {
+		name = holy_site_boulder_effect_name
+		learning = 2
+	}
+}
+
+rio_arriba = {
+	county = c_rio_arriba
+	character_modifier = {
+		name = holy_site_rio_arriba_effect_name
+		stress_loss_mult = 0.2
+	}
+}
+
+#Nazarene
+santa_rosa = { #There's a lot of Santa Rosa in Americas
+	county = c_sonoma
+	character_modifier = {
+		name = holy_site_santa_rosa_effect_name
+		monthly_prestige_gain_per_knight_mult = 0.02
+		monthly_piety_gain_per_knight_mult = 0.02
+	}
+}
+reno = {
+	county = c_reno
+	character_modifier = {
+		name = holy_site_reno_effect_name
+		desert_mountains_advantage = 5
+		learning = 1
+	}
+}
+#Atomicist/aphites
+
+los_alamos = {
+	county = c_los_alamos
+	character_modifier = {
+		name = holy_site_los_alamos_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		enemy_hostile_scheme_success_chance_add = -5
+	}
+}
+los_alamos_atomicist = {
+	county = c_los_alamos
+	character_modifier = {
+		name = holy_site_los_alamos_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		enemy_hostile_scheme_success_chance_add = -5
+
+		health = -0.15
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+white_sands = {
+	county = c_mesilla
+	character_modifier = {
+		name = holy_site_atom_white_sands_effect_name
+		prowess_per_piety_level = 1
+		church_holding_build_gold_cost = -0.1
+	}
+}
+white_sands_atomicist = {
+	county = c_mesilla
+	character_modifier = {
+		name = holy_site_atom_white_sands_effect_name
+		prowess_per_piety_level = 1
+		church_holding_build_gold_cost = -0.1
+
+		negative_random_genetic_chance = 0.1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+oceanside = {
+	county = c_oceanside
+	character_modifier = {
+		name = holy_site_crater_effect_name
+		health = 0.15
+		dread_baseline_add = 5
+	}
+}
+oceanside_atomicist = {
+	county = c_oceanside
+	character_modifier = {
+		name = holy_site_crater_effect_name
+		health = 0.15
+		dread_baseline_add = 5
+
+		life_expectancy = -2
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+idaho_falls = {
+	county = c_bonneville
+	barony = b_us_id_blackfoot
+	character_modifier = {
+		name = holy_site_atom_atomic_city_effect_name
+		supply_duration = 0.2
+		church_holding_build_gold_cost = -0.1
+	}
+}
+idaho_falls_atomicist = {
+	county = c_bonneville
+	barony = b_us_id_blackfoot
+	character_modifier = {
+		name = holy_site_atom_atomic_city_effect_name
+		supply_duration = 0.2
+		church_holding_build_gold_cost = -0.1
+
+		negative_inactive_inheritance_chance = 0.1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+#calvertan
+
+atlanta = {
+	county = c_atlanta
+	character_modifier = {
+		name = holy_site_atlanta_effect_name
+		religious_vassal_opinion = 5
+		different_faith_opinion = 5
+	}
+}
+
+#baha'i
+panama = {
+	county = c_panama
+	character_modifier = {
+		name = holy_site_panama_effect_name
+		cultural_head_fascination_mult = 0.05
+		stewardship_per_prestige_level = 1
+	}
+}
+agua_azul = {
+	county = c_aguazul
+	character_modifier = {
+		name = holy_site_agua_azul_effect_name
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+eliot = {
+	county = c_portland
+	barony = b_us_me_biddeford
+	character_modifier = {
+		name = holy_site_eliot_effect_name
+		direct_vassal_opinion = 5
+	}
+}
+
+#buddhism
+
+san_jose = {
+	county = c_san_jose
+	character_modifier = {
+		name = holy_site_san_jose_effect_name
+		cultural_head_fascination_mult = 0.1
+		development_growth_factor = 0.05
+	}
+}
+mendocino = {
+	county = c_mendocino
+	character_modifier = {
+		name = holy_site_ukiah_effect_name
+		learning = 2
+		learn_language_scheme_power_mult = 0.2
+	}
+}
+
+#Sagestepper
+
+john_day = {
+	county = c_john_day
+		character_modifier = {
+		name = holy_site_john_day_effect_name
+		learning_per_piety_level = 1
+		monthly_piety = 0.5
+	}
+}
+aberdeen = {
+	county = c_craters_of_the_moon
+	barony = b_us_id_carey
+		character_modifier = {
+		name = holy_site_aberdeen_effect_name
+		drylands_advantage = 5
+	}
+}
+franklin = {
+	county = c_franklin
+	character_modifier = {
+		name = holy_site_franklin_effect_name
+		monthly_prestige = 0.5
+	}
+}
+
+# moravian
+
+san_salvador = {
+	county = c_san_salvador
+		character_modifier = {
+		name = holy_site_san_salvador_effect_name
+		powerful_vassal_opinion = 5
+		religious_vassal_opinion = 5
+	}
+}
+managua = {
+	county = c_managua
+		character_modifier = {
+		name = holy_site_managua_effect_name
+		jungle_advantage = 10
+	}
+}
+bluefields = {
+	county = c_bluefields
+		character_modifier = {
+		name = holy_site_bluefields_effect_name
+		development_growth_factor = 0.15
+	}
+}
+
+#lamanite
+chichen_itza = {
+	county = c_valladolid
+		character_modifier = {
+		name = holy_site_chichen_itza_effect_name
+		clergy_opinion = 10
+		diplomacy = 1
+	}
+}
+#palenque already exists
+
+copan = {
+	county = c_copan
+		character_modifier = {
+		name = holy_site_copan_effect_name
+				knight_limit = 1
+				knight_effectiveness_mult = 0.1
+	}
+}
+tikal = {
+	county = c_tikal
+		character_modifier = {
+		name = holy_site_managua_effect_name
+		controlled_province_advantage = 5
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+monte_alban = {
+	county = c_oaxaca
+		character_modifier = {
+		name = holy_site_bluefields_effect_name
+		development_growth_factor = 0.2
+		domain_tax_mult = 0.05
+	}
+}
+#penitents
+
+valladolid = {
+	county = c_valladolid
+		character_modifier = {
+		name = holy_site_valladolid_effect_name
+		clergy_opinion = 10
+		diplomacy = 1
+	}
+}
+esquipulas = {
+	county = c_jalapa
+	barony = b_gt_04_chiquimula
+    character_modifier = {
+				name = holy_site_esquipulas_effect_name
+        piety_level_impact_mult = 0.2
+		church_holding_build_gold_cost = -0.1
+    }
+}
+cartago = {
+	county = c_cartago
+		character_modifier = {
+		name = holy_site_cartago_effect_name
+		learning = 1
+		stewardship = 1
+	}
+}
+taos = {
+	county = c_taos
+		character_modifier = {
+		name = holy_site_taos_effect_name
+		monthly_piety_gain_mult = 0.30
+	}
+}
+
+#Mama Tatda
+
+krum_biti = {
+	county = c_ngabe_bugle
+		character_modifier = {
+		martial_per_prestige_level = 1
+	}
+}
+penonome = {
+	county = c_penonome
+	character_modifier = {
+		different_culture_opinion = 5
+		different_faith_opinion = 5
+	}
+}
+
+salto_dupi = {
+	county = c_tabasara
+	barony = b_pa_12_quebrada_canoa
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		jungle_advantage = 3
+	}
+}
+
+#Interranger
+
+silver_valley = {
+	county = c_coeur_d_alene
+	barony = b_us_id_kellogg
+		character_modifier = {
+		name = holy_site_silver_valley_effect_name
+				domain_tax_mult = 0.05
+				knight_limit = 1
+	}
+}
+
+cripple_creek = {
+	county = c_fremont
+		character_modifier = {
+		name = holy_site_cripple_creek_effect_name
+				mountains_advantage = 7
+				knight_effectiveness_mult = 0.1
+	}
+}
+
+old_territorial_prison = {
+	county = c_boise
+		character_modifier = {
+		name = holy_site_old_territorial_prison_effect_name
+				dread_baseline_add = 5
+				owned_personal_scheme_success_chance_add = 5
+	}
+}
+
+promontory_summit = {
+	county = c_box_elder
+	barony = b_us_ut_brigham_city
+		character_modifier = {
+		name = holy_site_promontory_summit_effect_name
+				different_culture_opinion = 10
+				cultural_head_fascination_mult = 0.1
+	}
+}
+
+astoria = {
+	county = c_clatsop
+	barony = b_us_or_astoria
+		character_modifier = {
+		name = holy_site_astoria_effect_name
+				development_growth_factor = 0.2
+				holy_order_hire_cost_mult = -0.15
+	}
+}
+
+#Real Roader
+
+deadwood = {
+	county = c_rapid_city
+		character_modifier = {
+		name = holy_site_deadwood_effect_name
+				development_growth_factor = 0.2
+				holy_order_hire_cost_mult = -0.15
+	}
+}
+
+oklahoma_city = {
+	county = c_oklahoma_city
+		character_modifier = {
+		name = holy_site_oklahoma_city_effect_name
+			different_culture_opinion = 10
+			cultural_head_fascination_mult = 0.1
+			
+	}
+}
+
+dodge = {
+	county = c_dodge_city
+		character_modifier = {
+		name = holy_site_dodge_effect_name
+		controlled_province_advantage = 5
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+colorado_springs = {
+	county = c_colorado_springs
+		character_modifier = {
+		name = holy_site_colorado_springs_effect_name
+		health = 0.15
+		dread_baseline_add = 5
+	}
+}
+
+cody = {
+	county = c_shoshone
+	character_modifier = {
+		name = holy_site_gateway_arch_effect_name
+			martial = 1
+			prowess_per_prestige_level = 1
+
+	}
+}
+
+##soiltapper
+#IMPORTANT: If adding a new holy site to this list, you must also add it to 
+# the scripted effects for soiltappers in common\scripted_effects\ate_scripted_effects
+
+drayton_valley_soiltapper = {
+	county = c_leduc
+	barony = b_ca_ab_drayton_valley
+	character_modifier = {
+		name = holy_site_drayton_valley_effect_name
+		development_growth_factor = 0.2
+		holy_order_hire_cost_mult = -0.15
+	}
+}
+
+long_lake_soiltapper = {
+	county = c_minneapolis
+	barony = b_us_mn_minneapolis
+	character_modifier = {
+		name = holy_site_long_lake_effect_name
+		different_culture_opinion = 10
+		cultural_head_fascination_mult = 0.1
+	}
+}
+
+lloydminster_soiltapper = {
+	county = c_lloydminster
+	barony = b_ca_ab_lloydminster
+	character_modifier = {
+		name = holy_site_lloydminster_effect_name
+		controlled_province_advantage = 5
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+swift_current_soiltapper = {
+	county = c_swift_current
+	barony = b_ca_sk_swift_current
+	character_modifier = {
+		name = holy_site_swift_current_effect_name
+		health = 0.15
+		dread_baseline_add = 5
+	}
+}
+
+hardisty_soiltapper = {
+	county = c_camrose
+	barony = b_ca_ab_viking
+	character_modifier = {
+		name = holy_site_hardisty_effect_name
+		different_culture_opinion = 10
+		cultural_head_fascination_mult = 0.1
+	}
+}
+williston_soiltapper = {
+	county = c_williston
+	barony = b_us_nd_williston
+	character_modifier = {
+		name = holy_site_williston_effect_name
+		knight_limit = 1
+		stewardship_per_piety_level = 1
+	}
+}
+
+parshall_soiltapper = {
+	county = c_mountrail
+	barony = b_us_nd_stanley
+	character_modifier = {
+		name = holy_site_parshall_effect_name
+		domain_limit = 1
+	}
+}
+
+cushing_soiltapper = {
+	county = c_kay
+	barony = b_us_ok_cushing
+	character_modifier = {
+		name = holy_site_cushing_effect_name
+		diplomacy = 1
+		movement_speed = 0.05
+	}
+}
+
+alcova_soiltapper = {
+	county = c_natrona
+	barony = b_us_wy_casper
+	character_modifier = {
+		name = holy_site_alcova_current_effect_name
+		health = 0.10
+		years_of_fertility = 5
+	}
+}
+glenrock_soiltapper = {
+	county = c_cheyenne
+	barony = b_us_wy_glenrock
+	character_modifier = {
+		name = holy_site_glenrock_summit_effect_name
+		knight_limit = 1
+		knight_effectiveness_mult = 0.5
+	}
+}
+drakes_well_soiltapper = {
+	county = c_erie
+	character_modifier = {
+		name = holy_site_drakes_well_effect_name
+		supply_limit_mult = 1
+		supply_duration = 1
+	}
+}
+
+###amazonian
+mount_roraima = {
+	county = c_amajari
+	character_modifier = {
+		name = holy_site_mount_roraima_effect_name
+			mountains_advantage = 5
+			health = 0.1
+	}
+}
+yeisibibeteri = {
+	county = c_yeisibibeteri
+	character_modifier = {
+		name = holy_site_yeisibibeteri_effect_name
+			jungle_advantage = 5
+			deep_jungle_advantage = 5
+			stress_loss_mult = 0.1
+	}
+}
+rio_negro_amazonia = {
+	county = c_sao_gabriel_da_cachoeira
+	character_modifier = {
+		name = holy_site_rio_negro_effect_name
+			hostile_county_attrition = -0.25
+			learning_per_prestige_level = 1
+	}
+}
+tefe = {
+	county = c_tefe
+	character_modifier = {
+		name = holy_site_tefe_effect_name
+			diplomacy_per_piety_level = 1
+			intrigue = 1
+	}
+}
+
+jacareacanga = {
+	county = c_jacareacanga
+	character_modifier = {
+		name = holy_site_jacareacanga_effect_name
+			jungle_advantage = 5
+			deep_jungle_advantage = 5
+			martial = 1
+	}
+}
+canutama = {
+	county = c_canutama
+	character_modifier = {
+		name = holy_site_canutama_effect_name
+			prowess_per_piety_level = 1
+			learning = 1
+	}
+}
+carauari = {
+	county = c_carauari
+	character_modifier = {
+		name = holy_site_canutama_effect_name
+			martial_per_piety_level = 1
+			supply_duration = 0.25
+	}
+}
+
+bananal = {
+	county = c_bananal
+	character_modifier = {
+		name = holy_site_bananal_effect_name
+			prowess_per_piety_level = 1
+			different_culture_opinion = 5
+	}
+}
+parauapebas = {
+	county = c_parauapebas
+	character_modifier = {
+		name = holy_site_parauapebas_effect_name
+			diplomacy_per_piety_level = 1
+			stress_loss_mult = 0.1
+	}
+}
+itapiratins = {
+	county = c_itapiratins
+	character_modifier = {
+		name = holy_site_itapiratins_effect_name
+			plains_advantage = 5
+			health = 0.2
+	}
+}
+mutum = {
+	county = c_mutum
+	character_modifier = {
+		name = holy_site_mutum_effect_name
+			martial_per_piety_level = 1
+			stewardship = 1
+	}
+}
+marcelandia = {
+	county = c_marcelandia
+	character_modifier = {
+		name = holy_site_marcelandia_effect_name
+			jungle_advantage = 5
+			deep_jungle_advantage = 5
+			supply_duration = 0.25
+	}
+}
+
+cihuatlan = {
+	county = c_cihuatlan
+	character_modifier = {
+		name = holy_site_cihuatlan_effect_name
+			diplomacy_per_piety_level = 1
+	}
+}
+pachuca = {
+	county = c_pachuca
+	character_modifier = {
+		name = holy_site_pachuca_effect_name
+			prowess_per_piety_level = 1
+	}
+}
+
+###### remembrant
+
+charlottetown = {
+	county = c_cardigan
+	character_modifier = {
+		name = holy_site_charlottetown_effect_name
+			tyranny_loss_mult = 0.2
+			diplomacy = 1
+	}
+}
+
+##### darian
+
+leon = {
+	county = c_xolotlan
+	barony = b_ni_08_le_n
+	character_modifier = {
+		name = holy_site_leon_effect_name
+			learning = 1
+			stress_loss_mult = 0.2
+	}
+}
+
+
+##### navajo
+
+rainbow_bridge = {
+	county = c_kayenta
+	character_modifier = {
+		name = holy_site_rainbow_bridge_effect_name
+			different_culture_opinion = 10
+			cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+
+mount_taylor = {
+	county = c_cibola
+	character_modifier = {
+		name = holy_site_mount_taylor_effect_name
+			martial = 1
+			hard_casualty_modifier = -0.1
+	}
+}
+
+
+humphrey_peak = {
+	county = c_coconino
+	character_modifier = {
+		name = holy_site_humphrey_peak_effect_name
+			direct_vassal_opinion = 5
+			councillor_opinion = 5
+	}
+}
+
+
+alamosa = {
+	county = c_costilla
+	character_modifier = {
+		name = holy_site_alamosa_effect_name
+			learning_per_piety_level = 1
+	}
+}
+
+
+window_rock = {
+	county = c_mckinley
+	character_modifier = {
+		name = holy_site_window_rock_effect_name
+			different_culture_opinion = 10
+			cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+
+hesperus_mountain = {
+	county = c_montezuma
+	character_modifier = {
+		name = holy_site_hesperus_mountain_effect_name
+			diplomacy = 1
+			defender_advantage = 5
+	}
+}
+
+### Ashtari
+
+integratron = {
+	county = c_mojave
+	character_modifier = {
+		name = holy_site_integratron_effect_name
+			stewardship_per_piety_level = 1
+	}
+	flag = integratron_conversion_bonus
+}
+
+### Evonian
+
+isla_san_cristobal = {
+	county = c_isla_san_cristobal
+	character_modifier = {
+		name = holy_site_isla_san_cristobal_effect_name
+			embarkation_cost_mult = -0.10
+			naval_movement_speed_mult = 0.20
+	}
+}
+
+isabela = {
+	county = c_isabela
+	character_modifier = {
+		name = holy_site_isabela_effect_name
+			diplomacy = 1
+			fertility = 0.1
+	}
+}
+
+guayaquil = {
+	county = c_guayaquil
+	character_modifier = {
+		name = holy_site_guayaquil_effect_name
+			domain_tax_same_faith_mult = 0.05
+	}
+	flag = guayaquil_conversion_bonus # +15% County Conversion
+}
+
+
+
+# # Imamite
+
+orange = {
+	county = c_orange
+	character_modifier = {
+		name = holy_site_orange_effect_name
+			knight_effectiveness_mult = 0.15
+			monthly_piety_gain_per_knight_mult = 0.02
+	}
+}
+
+dar_al_islam = {
+	county = c_taos
+	character_modifier = {
+		name = holy_site_dar_al_islam_effect_name
+			diplomacy_per_piety_level = 1
+			same_faith_opinion = 5
+	}
+}
+
+## Sebastianism
+
+sao_jose_do_belmonte = {
+	county = c_serra_talhada
+	barony = b_br_30_s_o_jos_do_belmonte
+	character_modifier = {
+		name = holy_site_sao_jose_do_belmonte_effect_name
+			prowess_per_piety_level = 1
+			clergy_opinion = 10
+	}
+}
+
+sertao_dos_inhamuns = {
+	county = c_br_06_crate_s
+	character_modifier = {
+		name = holy_site_sertao_dos_inhamuns_effect_name
+			knight_limit = 1
+			stewardship_per_piety_level = 1
+	}
+}
+
+barreirinhas = {
+	county = c_barreirinhas
+	barony = b_br_13_barreirinhas
+	
+	character_modifier = {
+		name = holy_site_barreirinhas_effect_name
+		knight_effectiveness_mult = 0.1
+		controlled_province_advantage = 5
+	}
+}
+
+##Novaism and Thermonullism
+
+cheyenne = {
+	county = c_colorado_springs
+	character_modifier = {
+		name = holy_site_cheyenne_effect_name
+			martial_per_piety_level = 1
+			knight_effectiveness_mult = 0.1
+	}
+}
+
+phoenix = {
+	county = c_phoenix
+	character_modifier = {
+		name = holy_site_phoenix_effect_name
+			diplomacy = 1
+			clergy_opinion = 5
+	}
+}
+
+albuquerque = {
+	county = c_bernalillo
+	character_modifier = {
+		name = holy_site_albuquerque_effect_name
+		learning_per_prestige_level = 1
+	}
+}
+
+mexicali = {
+	county = c_mexicali
+	character_modifier = {
+		name = holy_site_mexicali_effect_name
+			build_gold_cost = -0.1
+			stewardship = 1
+	}
+}
+
+###Mikmaq Christianity
+
+norwich = {
+	county = c_new_london
+	character_modifier = {
+		name = holy_site_norwich_effect_name
+		naval_movement_speed_mult = 0.33
+	}
+}
+
+inverness = {
+	county = c_inverness
+	character_modifier = {
+		name = holy_site_inverness_effect_name
+		clergy_opinion = 10	
+	}
+	flag = inverness_conversion_resistance_bonus # 50% County Conversion Resistance
+}
+
+###Kojtumbrem
+
+tucson = {
+	county = c_tucson
+	character_modifier = {
+		name = holy_site_tucson_effect_name
+		retreat_losses = -0.1
+	}
+}
+
+chihuahua = {
+	county = c_chihuahua
+	character_modifier = {
+		name = holy_site_chihuahua_effect_name
+		monthly_county_control_growth_factor = 0.05
+		levy_reinforcement_rate_same_faith = 0.10
+	}
+}
+
+guaymas = {
+	county = c_guaymas
+	character_modifier = {
+		name = holy_site_guaymas_effect_name
+		knight_limit = 2
+	}
+}
+
+nogales = {
+	county = c_ambos_nogales
+	character_modifier = {
+		name = holy_site_nogales_effect_name
+		prowess_per_piety_level = 1
+		controlled_province_advantage = 5
+	}
+}
+
+los_mochis = {
+	county = c_los_mochis
+	character_modifier = {
+		name = holy_site_los_mochis_effect_name
+		different_culture_opinion = 10
+		learn_language_scheme_power_mult = 0.15
+	}
+}
+
+##Santa Muerte
+
+catemaco = {
+	county = c_los_tuxtlas
+	barony = b_mx_30_catemaco
+	character_modifier = {
+		name = holy_site_catemaco_effect_name
+		life_expectancy = 1
+		hard_casualty_modifier = -0.1
+	}
+}
+
+linares = {
+	county = c_linares
+	character_modifier = {
+		name = holy_site_linares_effect_name
+		controlled_province_advantage = 5
+	}
+}
+
+huesca_de_ocampo = {
+	county = c_pachuca
+	character_modifier = {
+		name = holy_site_huesca_de_ocampo_effect_name
+		health = 0.1
+		monthly_piety_gain_per_knight_mult = 0.03
+	}
+}
+
+ciudad_victoria = {
+	county = c_ciudad_victoria
+	character_modifier = {
+		name = holy_site_ciudad_victoria_effect_name
+		levy_reinforcement_rate_same_faith = 0.2
+		knight_effectiveness_mult = 0.15
+	}
+}
+
+matamoros = {
+	county = c_matamoros
+	character_modifier = {
+		name = holy_site_matamoros_effect_name
+		men_at_arms_maintenance = -0.1
+		knight_limit = 1
+	}
+}
+
+#other archipelagic
+
+osorno = {
+	county = c_osorno
+	character_modifier = {
+		name = holy_site_osorno_effect_name
+		monthly_stewardship_lifestyle_xp_gain_mult = 0.05
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+##Wixarika
+
+san_blas = {
+	county = c_tepic
+	barony = b_mx_18_san_blas
+	character_modifier = {
+		name = holy_site_san_blas_effect_name
+		naval_movement_speed_mult = 0.1
+		men_at_arms_maintenance = -0.1
+	}
+}
+
+cerro_gordo = {
+	county = c_cuencame
+	character_modifier = {
+		name = holy_site_cerro_gordo_effect_name
+		same_faith_opinion = 5
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+teakata = {
+	county = c_colotlan
+	character_modifier = {
+		name = holy_site_teakata_effect_name
+		mountains_advantage = 5
+		learning = 1
+	}
+}
+
+xapawiyemeta = {
+	county = c_chapala
+	character_modifier = {
+		name = holy_site_xapawiyemeta_effect_name
+		stewardship_per_piety_level = 1
+		same_culture_opinion = 5
+	}
+}
+
+wirikuta = {
+	county = c_cedral
+	barony = b_mx_24_paz
+	character_modifier = {
+		name = holy_site_wirikuta_effect_name
+		desert_advantage = 5
+		monthly_piety_gain_mult = 0.20
+	}
+}
+
+#Raichari
+
+guachochi = {
+	county = c_guachochi
+	character_modifier = {
+		name = holy_site_guachochi_effect_name
+		supply_duration = 0.20
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+ciudad_juarez = {
+	county = c_paso_del_norte
+	character_modifier = {
+		name = holy_site_ciudad_juarez_effect_name
+		drylands_development_growth_factor = 0.25
+		travel_safety = 10
+	}
+}
+
+guanacevi = {
+	county = c_papasquiaro
+	character_modifier = {
+		name = holy_site_guanacevi_effect_name
+		county_opinion_add = 10
+		church_holding_build_gold_cost = -0.1
+		movement_speed = 0.15
+	}
+}
+
+basaseachi_cascade = {
+	county = c_madera
+	barony = b_mx_06_tomochi
+	character_modifier = {
+		name = holy_site_basaseachi_cascade_effect_name
+		monthly_prestige_gain_per_dread_add = 0.03
+		stress_loss_mult = 0.15
+	}
+}
+
+#Miquiztonatiuh
+
+oaxaca = {
+	county = c_oaxaca
+		character_modifier = {
+		name = holy_site_oaxaca_effect_name
+		clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.20
+	}
+}
+
+cholula = {
+	county = c_cholula
+		character_modifier = {
+		name = holy_site_cholula_effect_name
+		monthly_piety_gain_mult = 0.20
+		title_creation_cost_mult = -0.15
+	}
+}
+
+huejutla = {
+	county = c_huejutla
+		character_modifier = {
+		name = holy_site_huejutla_effect_name
+		accolade_glory_gain_mult = 0.2
+		prowess_per_prestige_level = 1
+	}
+}
+
+tapachula = {
+	county = c_tapachula
+		character_modifier = {
+		name = holy_site_tapachula_effect_name
+		stewardship = 1
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+##Idiosyncratics
+
+cuernavaca = {
+	county = c_morelos
+		character_modifier = {
+		name = holy_site_cuernavaca_effect_name
+		army_maintenance_mult = -0.05
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+puebla = {
+	county = c_puebla
+		character_modifier = {
+		name = holy_site_puebla_effect_name
+		defender_advantage = 5
+		monthly_piety_gain_per_knight_mult = 0.03
+	}
+}
+
+guadalajara = {
+	county = c_guadalajara
+		character_modifier = {
+		name = holy_site_guadalajara_effect_name
+		diplomacy_per_piety_level = 1
+		title_creation_cost_mult = -0.1
+	}
+}
+
+tulancingo = {
+	county = c_pachuca
+	barony = b_mx_13_tulancingo
+		character_modifier = {
+		name = holy_site_tulancingo_effect_name
+		clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.20
+	}
+}
+
+iguala = {
+	county = c_iguala
+		character_modifier = {
+		name = holy_site_iguala_effect_name
+		dynasty_house_opinion = 10
+		title_creation_cost_mult = -0.1
+		
+	}
+	flag = iguala_conversion_resistance_bonus
+}
+
+macuspana = {
+	county = c_grijalva
+		character_modifier = {
+		name = holy_site_macuspana_effect_name
+		short_reign_duration_mult = -0.25
+	}
+}
+
+selva_lacandona = {
+	county = c_los_zendales
+		character_modifier = {
+		name = holy_site_selva_lacandona_effect_name
+		prowess_per_piety_level = 1
+		defender_advantage = 5
+	}
+}
+
+acapulco = {
+	county = c_acapulco_de_juarez
+		character_modifier = {
+		name = holy_site_acapulco_effect_name
+		domain_tax_same_faith_mult = 0.10
+		cultural_head_acceptance_gain_mult = 0.3
+	}
+}
+
+##Yeyipaktoyotl
+taxco = {
+	county = c_taxco
+		character_modifier = {
+		name = holy_site_taxco_effect_name
+		mountains_development_growth_factor = 0.20
+	}
+}
+
+papantla = {
+	county = c_poza_rica
+		character_modifier = {
+		name = holy_site_papantla_effect_name
+		cultural_head_fascination_mult = 0.10
+	}
+}
+
+##Hare Krishna
+
+marshall = {
+	county = c_marshall
+		character_modifier = {
+		name = holy_site_marshall_effect_name
+		build_gold_cost = -0.10
+	}
+}
+
+provo = {
+	county = c_provo
+		character_modifier = {
+		name = holy_site_provo_effect_name
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+###Extaticos
+
+fresnillo = {
+	county = c_fresnillo
+		character_modifier = {
+		name = holy_site_fresnillo_effect_name
+		build_speed = -0.15
+	}
+}
+
+mazatlan = {
+	county = c_mazatlan
+		character_modifier = {
+		name = holy_site_mazatlan_effect_name
+		monthly_prestige_gain_per_knight_mult = 0.02
+		knight_effectiveness_mult = 0.10
+	}
+}
+
+puerto_penasco = {
+	county = c_gran_altar
+		character_modifier = {
+		name = holy_site_puerto_penasco_effect_name
+		naval_movement_speed_mult = 0.25
+	}
+}
+
+cabo_san_lucas = {
+	county = c_los_cabos
+		character_modifier = {
+		name = holy_site_cabo_san_lucas_effect_name
+		raid_speed = 0.10
+		clergy_opinion = 5
+	}
+}
+
+espinazo = {
+	county = c_ramos_arizpe
+	barony = b_mx_07_reata
+		character_modifier = {
+		name = holy_site_espinazo_effect_name
+		stress_loss_mult = 0.2
+		health = 0.1
+	}
+}
+
+queretaro = {
+	county = c_queretaro
+		character_modifier = {
+		name = holy_site_queretaro_effect_name
+		intrigue_per_piety_level = 1
+	}
+}
+
+####Saguarorrinches
+
+badiraguato = {
+	county = c_guamuchil
+	barony = b_mx_25_badiraguato
+		character_modifier = {
+		name = holy_site_badiraguato_effect_name
+		holy_order_hire_cost_mult = -0.2
+	}
+}
+
+####Enigmaticos
+
+batopilas = {
+	county = c_guachochi
+		character_modifier = {
+		name = holy_site_batopilas_effect_name
+		supply_duration = 0.20
+		holy_order_hire_cost_mult = -0.1
+	}
+}
+
+laguna_verde = {
+	county = c_xalapa
+		character_modifier = {
+		name = holy_site_laguna_verde_effect_name
+		cultural_head_fascination_mult = 0.10
+	}
+}
+
+###Guadalupan
+
+campeche = {
+	county = c_campeche
+		character_modifier = {
+		name = holy_site_campeche_effect_name
+		coastal_advantage = 5
+		naval_movement_speed_mult = 0.2
+	}
+}
+
+##Digital
+
+pasadena = {
+	county = c_los_angeles
+	barony = b_us_ca_pasadena
+		character_modifier = {
+		name = holy_site_pasadena_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+silicon_valley = {
+	county = c_santa_clara
+		character_modifier = {
+		name = holy_site_silicon_valley_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.07
+		development_growth_factor = 0.1
+	}
+}
+
+salem_or = {
+	county = c_marion
+	barony = b_us_or_salem
+	character_modifier = {
+		cultural_head_fascination_mult = 0.1
+		learn_language_scheme_power_mult = 0.15
+	}
+}
+
+##River Baptist and Redemptioniat
+
+montgomery = {
+	county = c_montgomery
+		character_modifier = {
+		name = holy_site_montgomery_effect_name
+		learning_per_prestige_level = 1
+		build_gold_cost = -0.05
+	}
+}
+
+jackson = {
+	county = c_jackson
+		character_modifier = {
+		name = holy_site_jackson_effect_name
+		dynasty_house_opinion = 5
+	}
+	flag = jackson_conversion_bonus
+}
+
+birmingham = {
+	county = c_birmingham
+		character_modifier = {
+		name = holy_site_birmingham_effect_name
+		prowess_per_piety_level = 1
+	}
+}
+
+augusta = {
+	county = c_kennebeck
+		character_modifier = {
+		name = holy_site_augusta_effect_name
+		health = 0.1
+	}
+}
+
+##ophiolatry
+
+the_ark = {
+	county = c_kenton
+	barony = b_us_ky_williamstown
+		character_modifier = {
+		name = holy_site_the_ark_effect_name
+		clergy_opinion = 5
+	}
+	flag = the_ark_conversion_bonus
+}
+
+nashville = {
+	county = c_nashville
+		character_modifier = {
+		name = holy_site_nashville_effect_name
+		fertility = 0.10
+		hills_development_growth_factor = 0.25
+	}
+}
+
+cahokia = {
+	county = c_st_clair
+		character_modifier = {
+			name = holy_site_cahokia_effect_name
+			same_faith_opinion = 10
+		}
+}
+
+##hearthtender
+
+saint_meinrad ={
+	county = c_patoka
+	barony = b_us_in_jasper
+		character_modifier = {
+			name = holy_site_st_meinrad_effect_name
+			same_faith_opinion = 15
+	}
+}
+
+seneca_falls = {
+	county = c_seneca
+	barony = b_us_ny_seneca_falls
+		character_modifier = { 
+		name = holy_site_seneca_falls_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+indianapolis = {
+	county = c_indianapolis
+		character_modifier = {
+		name = holy_site_indianapolis_effect_name
+		cultural_head_fascination_mult = 0.05
+		build_speed = -0.05
+		movement_speed = 0.05
+	}
+}
+
+oberlin = {
+	county = c_cleveland
+	barony = b_us_oh_lorain
+		character_modifier = { 
+		name = holy_site_oberlin_effect_name
+		stewardship = 1
+		opinion_of_different_faith = 10
+		different_faith_opinion = 10
+	}
+}
+
+hillsboro = {
+	county = c_chillicothe
+	barony = b_us_oh_wilmington
+		character_modifier = {
+			name = holy_site_hillsboro_effect_name
+			close_relative_opinion = 15
+			health = 0.05
+	}
+}
+
+##monetarists
+
+fort_knox = {
+	county = c_bernheim
+	character_modifier = {
+		name = holy_site_fort_knox_effect_name
+		fort_level = 1
+		monthly_prestige_gain_per_knight_mult = 0.01
+	}	
+}
+
+##Phylosian
+
+eureka = {
+	county = c_eureka
+		character_modifier = {
+		name = holy_site_eureka_effect_name
+		forest_advantage = 4
+		stewardship = 1
+	}
+}
+
+##Sun Dance
+
+sundance = {
+	county = c_weston
+		character_modifier = {
+		name = holy_site_sundance_effect_name
+		defender_advantage = 5
+		learning = 1
+	}
+}
+
+lovell = {
+	county = c_shoshone
+		character_modifier = {
+		name = holy_site_lovell_effect_name
+		forest_advantage = 4
+		stewardship = 1
+	}
+}
+
+hundred_mile_house = {
+	county = c_bonaparte
+	barony = b_ca_bc__mile_house
+		character_modifier = {
+		name = holy_site_hundred_mile_house_effect_name
+		same_faith_opinion = 5
+	}
+	flag = hundred_mile_house_conversion_bonus
+}
+
+##Kebatinan
+
+st_johns_antigua = {
+	county = c_antigua_and_barbuda
+		character_modifier = {
+		name = holy_site_st_johns_antigua_effect_name
+		coastal_advantage = 8
+		naval_movement_speed_mult = 0.20
+	}
+}
+
+naparima = {
+	county = c_naparima
+		character_modifier = {
+		name = holy_site_naparima_effect_name
+		knight_effectiveness_mult = 0.10
+		prowess_per_piety_level = 1
+	}
+}
+
+##Palo
+
+matanzas = {
+	county = c_matanzas
+		character_modifier = {
+		name = holy_site_matanzas_effect_name
+		stewardship = 1
+		diplomacy = 1
+	}
+} 
+
+caracas = {
+	county = c_caracas
+		character_modifier = {
+		name = holy_site_caracas_effect_name
+		martial = 2
+		men_at_arms_maintenance = -0.10
+	}
+}
+
+pinar_del_rio = {
+	county = c_pinar_del_rio
+		character_modifier = {
+		name = holy_site_pinar_del_rio_effect_name
+		same_faith_opinion = 10
+	}
+}
+
+##Tres Potencias
+
+sorte_mountain = {
+	county = c_yaracuy
+		character_modifier = {
+		name = holy_site_sorte_mountain_effect_name
+		monthly_piety_gain_mult = 0.20
+	}
+}
+
+ciudad_bolivar = {
+	county = c_ciudad_bolivar
+		character_modifier = {
+		name = holy_site_ciudad_bolivar_effect_name
+		supply_duration = 0.2
+		holy_order_hire_cost_mult = -0.1
+	}
+}
+
+trinidad = {
+	county = c_trinidad
+		character_modifier = {
+		name = holy_site_trinidad_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+##Tomb Watcher
+
+hellhole = {
+	county = c_spruce_knob
+	barony = b_us_wv_franklin
+		character_modifier = {
+		name = holy_site_hellhole_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		dread_loss_mult = -0.15
+	}
+}
+
+
+tuckaleechee_cave = {
+	county = c_knox
+	barony = b_us_tn_maryville
+		character_modifier = {
+		name = holy_site_tuckaleechee_cave_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+
+indiana_caverns = {
+	county = c_patoka
+	barony = b_us_in_salem
+		character_modifier = {
+		name = holy_site_indiana_caverns_effect_name
+		hills_development_growth_factor = 0.15
+		hills_advantage = 4
+	}
+}
+
+
+organ_cave = {
+	county = c_greenbrier
+	barony = b_us_wv_lewisburg
+		character_modifier = {
+		name = holy_site_organ_cave_effect_name
+		health = 0.15
+	}
+}
+
+##Omenteller
+
+point_pleasant = {
+	county = c_tygart
+	barony = b_us_wv_point_pleasant
+		character_modifier = {
+		name = holy_site_point_pleasant_effect_name
+		monthly_piety_gain_mult = 0.10
+		dread_gain_mult = 0.10
+	}
+}
+
+new_vrindaban = {
+	county = c_wheeling
+	barony = b_us_wv_wheeling
+		character_modifier = {
+			name = holy_site_new_vrindaban_effect_name
+			hills_advantage = 5
+			martial = 1
+	}
+}
+
+serpent_mound = {
+	county = c_chillicothe
+	barony = b_us_oh_wilmington
+		character_modifier = {
+			name = holy_site_serpent_mound_effect_name
+			fertility = 0.10
+			development_growth_factor = 0.05
+	}
+}	
+
+blood_mountain = {
+	county = c_cartersville
+	barony = b_us_ga_ellijay
+		character_modifier = {
+		name = holy_site_blood_mountain_effect_name
+		army_maintenance_mult = -0.1
+	}
+}
+
+little_rock = {
+	county = c_little_rock
+		character_modifier = {
+		name = holy_site_little_rock_effect_name
+		stewardship_per_prestige_level = 1
+		same_faith_opinion = 5
+	}
+}
+
+##Jurema Sagrada
+
+aracruz = {
+	county = c_linhares
+		character_modifier = {
+		name = holy_site_aracruz_effect_name
+		learning_per_prestige_level = 1
+	}
+}
+
+sao_felix_do_xingu = {
+	county = c_redencao
+		character_modifier = {
+		name = holy_site_sao_felix_do_xingu_effect_name
+		jungle_advantage = 4
+		prowess = 1
+	}
+}
+
+januaria = {
+	county = c_januaria
+		character_modifier = {
+		name = holy_site_januaria_effect_name
+		health = 0.15
+	}
+}
+
+porto_seguro = {
+	county = c_porto_seguro
+	character_modifier = {
+		name = holy_site_porto_seguro_effect_name
+		prowess_per_piety_level = 1
+		martial = 1
+	}
+}
+
+##Winti
+
+aruba = {
+	county = c_aruba
+		character_modifier = {
+		name = holy_site_aruba_effect_name
+		fertility = 0.10
+		martial = 1
+	}
+}
+
+cayenne = {
+	county = c_cayenne
+		character_modifier = {
+		name = holy_site_cayenne_effect_name
+		health = 0.15
+		diplomacy = 1
+	}
+}
+
+nieuw_aurora = {
+	county = c_upper_suriname
+	barony = b_sr_asidonhopo
+		character_modifier = {
+		name = holy_site_nieuw_aurora_effect_name
+		jungle_advantage = 4
+		deep_jungle_advantage = 4
+		negate_health_penalty_add = 0.5
+	}
+}
+
+##Guaranitic
+
+amambay = {
+	county = c_amambay
+	character_modifier = {
+		name = holy_site_amambay_effect_name
+		fertility = 0.15
+	}
+}
+
+ybytyruzu= {
+	county = c_guaira
+	character_modifier = {
+		name = holy_site_ybytyruzu_effect_name
+		jungle_advantage = 2
+	}
+}
+
+jhovy= {
+	county =  c_capitan_pablo_lagerenza
+	character_modifier = {
+		name = holy_site_jhovy_effect_name
+		same_faith_opinion = 5
+	}
+}
+
+tekoha = {
+	county = c_bonito
+	character_modifier = {
+		name = holy_site_tekoha_effect_name
+		monthly_piety_gain_mult = 0.15
+	}
+}
+
+sao_luiz_gonzaga = {
+	county = c_santo_angelo
+	barony = b_br_23_s_o_luiz_gonzaga
+		character_modifier = {
+		name = holy_site_sao_luiz_gonzaga_effect_name
+		martial_per_piety_level = 1
+	}
+}
+
+sao_sepe = {
+	county = c_sao_sepe
+	barony = b_br_23_s_o_sep_
+		character_modifier = {
+		name = holy_site_sao_sepe_effect_name
+		prowess_per_piety_level = 1
+		levy_reinforcement_rate_same_faith = 0.2
+	}
+}
+
+##Earthvault
+
+svalbard = {
+	county = c_spitsbergen
+	character_modifier = {
+		name = holy_site_svalbard_effect_name
+		stewardship = 2
+	}
+}
+
+palmer = {
+	county = c_anchorage
+	character_modifier = {
+		name = holy_site_palmer_effect_name
+		tundra_advantage = 5
+	}
+}
+
+##Druze
+
+merida = {
+	county = c_libertador
+	character_modifier = {
+		name = holy_site_merida_effect_name
+		stewardship = 2
+	}
+}
+
+lorica = {
+	county = c_monteria
+	character_modifier = {
+		name = holy_site_lorica_effect_name
+		naval_movement_speed_mult = 0.15
+		diplomacy = 1
+	}
+}
+
+##Ozymandian
+
+omaha = {
+	county = c_omaha
+	barony = b_us_ne_omaha
+	character_modifier = {
+		name = holy_site_omaha_effect_name
+		monthly_piety_gain_mult = 0.10
+		learning = 1
+	}
+}
+
+aberdeen_sd = {
+	county = c_aberdeen
+	barony = b_us_sd_aberdeen
+	character_modifier = {
+		name = holy_site_aberdeen_sd_effect_name
+		direct_vassal_opinion = 10
+		liege_opinion = 10
+	}
+}
+
+topeka = {
+	county = c_topeka
+	barony = b_us_ks_topeka
+	character_modifier = {
+		name = holy_site_topeka_effect_name
+		build_gold_cost = -0.10
+		stewardship = 1
+	}
+}
+
+##Aria de Machete
+
+sogamoso = {
+	county = c_sogamoso
+	character_modifier = {
+		name = holy_site_sogamoso_effect_name
+		intrigue_per_piety_level = 1
+		plains_advantage =  3
+	}
+}
+
+apure = {
+	county = c_guasdualito
+	character_modifier = {
+		name = holy_site_apure_effect_name
+		stewardship = 1
+		light_cavalry_damage_mult = 0.05
+	}
+}
+
+villavicencio = {
+	county = c_villavicencio
+	character_modifier = {
+		name = holy_site_villavicencio_effect_name
+		monthly_martial_lifestyle_xp_gain_mult = 0.05
+		same_faith_opinion = 5
+	}
+}
+gasparilla = {
+	county = c_gasparilla
+	character_modifier = {
+		naval_movement_speed_mult = 0.2
+	}
+}
+
+tampa_rosicrucian = {
+	county = c_tampa
+	character_modifier = {
+		name = holy_site_tampa_rosicrucian_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+fresno = {
+	county = c_fresno
+	character_modifier = {
+		name = holy_site_fresno_effect_name
+		stewardship = 1
+		different_culture_opinion = 5
+	}
+} 
+
+madison = {
+	county = c_madison
+	character_modifier = {
+		name = holy_site_madison_effect_name
+		different_faith_opinion = 5
+		cultural_head_acceptance_gain_mult = 0.2
+	}
+}
+
+##Hekura
+
+boa_vista = {
+	county = c_boa_vista
+	character_modifier = {
+		name = holy_site_boa_vista_effect_name
+		different_culture_opinion = 5
+		stewardship = 1
+	}
+}
+
+ventuari = {
+	county = c_ventuari
+	character_modifier = {
+		name = holy_site_ventuari_effect_name
+		jungle_advantage = 5
+		deep_jungle_advantage = 5
+	}
+}
+
+mapuera = {
+	county = c_aldeia_mapuera
+	character_modifier = {
+		name = holy_site_mapuera_effect_name
+		same_faith_opinion = 5
+		clergy_opinion = 10
+	}
+}
+
+cabeca_de_cachorro = {
+	county =  c_yavarate
+		character_modifier = {
+		name = holy_site_cabeca_de_cachorro_effect_name
+		retreat_losses = -0.1
+		martial = 1
+	}
+}
+
+eirunepe = {
+	county = c_eirunepe
+	character_modifier = {
+		name = holy_site_eirunepe_effect_name
+		stewardship_per_piety_level = 1
+		prowess = 1
+	}
+}
+
+tarauaca = {
+	county = c_tarauaca
+	character_modifier = {
+		name = holy_site_tarauaca_effect_name
+		monthly_piety_gain_mult = 0.10
+		learning = 1
+	}
+}
+
+porto_velho = {
+	county = c_porto_velho
+	character_modifier = {
+		name = holy_site_porto_velho_effect_name
+		martial = 1
+	}
+}
+
+puerto_ayacucho = {
+	county = c_puerto_ayacucho
+	character_modifier = {
+		name = holy_site_puerto_ayacucho_effect_name
+		prowess_per_piety_level = 1
+		martial = 1
+	}
+}
+
+##stokeism
+
+banff = {
+	county = c_banff
+	character_modifier = {
+		name = holy_site_banff_effect_name
+		mountains_advantage = 5
+		mountains_development_growth_factor = 0.20
+	}
+}
+
+jackson_hole = {
+	county = c_teton
+	character_modifier = {
+		name = holy_site_jackson_hole_effect_name
+		supply_duration = 0.25
+		mountains_max_combat_roll = 5
+	}
+}
+
+breckenridge = {
+	county = c_arapaho
+	character_modifier = {
+		name = holy_site_breckenridge_effect_name
+		build_gold_cost = -0.10
+		prowess_per_piety_level = 1
+	}
+}
+
+whistler_blackcomb = {
+	county = c_sea_to_sky
+	barony = b_ca_bc_whistler
+	character_modifier = {
+		name = holy_site_whistler_blackcomb_effect_name
+		fertility = 0.10
+		stress_loss_mult = 0.10
+	}
+}
+
+denali = {
+	county = c_denali
+	character_modifier = {
+		name = holy_site_denali_effect_name
+		mountains_advantage = 5
+		monthly_piety = 0.10
+	}
+}
+
+miawpukek = {
+	county = c_port_aux_basques
+	character_modifier = {
+		name = holy_site_miawpukek_effect_name
+		intrigue_per_piety_level = 1
+		defender_advantage = 5
+	}
+}
+
+crystal_city = {
+	county = c_wintergarden
+	character_modifier = {
+		name = holy_site_crystal_city_effect_name
+		diplomacy_per_piety_level = 1
+		different_culture_opinion = 5
+	}
+}
+
+#porantimao
+
+santos_reyes = {
+	county = c_santos_reyes
+	character_modifier = {
+		name = holy_site_santos_reyes_effect_name
+		learning_per_piety_level = 1
+		different_faith_opinion = 5
+	}
+}
+
+#hekwapienai
+
+diamantino = {
+	county = c_diamantino
+	character_modifier = {
+		name = holy_site_diamantino_effect_name
+		stewardship_per_piety_level = 1
+		prowess = 1
+	}
+}
+
+humaita = {
+	county = c_humaita
+	character_modifier = {
+		name = holy_site_humaita_effect_name
+		movement_speed = 0.10
+		learning = 1
+	}
+}
+
+
+##Vendimia Sol
+
+san_juan_ar = {
+	county = c_gran_san_juan
+	character_modifier = {
+		name = holy_site_san_juan_ar_effect_name
+		monthly_stewardship_lifestyle_xp_gain_mult = 0.05
+		defender_advantage = 4
+	}
+}
+
+##Muckerites
+
+joinville = {
+	county = c_joinville
+	character_modifier = {
+		name = holy_site_joinville_effect_name
+		stewardship = 1
+		martial = 1
+	}
+}
+
+novo_hamburgo = {
+	county = c_novo_hamburgo
+	character_modifier = {
+		name = holy_site_novo_hamburgo_effect_name
+		same_faith_opinion = 5
+		tolerance_advantage_mod = 4
+	}
+}
+
+santa_clara = {
+	county = c_santa_clara
+	character_modifier = {
+		name = holy_site_santa_clara_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.07
+		development_growth_factor = 0.1
+	}
+}
+
+
+edilandia = {
+	county = c_anapolis
+	barony = b_br_29_edil_ndia
+	character_modifier = {
+		name = holy_site_edilandia_effect_name
+		domain_tax_same_faith_mult = 0.15
+		learning = 1
+	}
+}
+
+st_augustine = {
+	county = c_st_augustine
+	character_modifier = {
+		name = holy_site_st_augustine_effect_name
+		learning_per_piety_level = 1
+		cultural_head_fascination_mult = 0.1
+	}
+}
+
+valparaiso = {
+	county = c_valparaiso
+	character_modifier = {
+		name = holy_site_valparaiso_effect_name
+		stewardship_per_prestige_level = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+
+#waashat
+
+lewiston = {
+	county = c_lewiston
+	character_modifier = {
+		name = holy_site_lewiston_effect_name
+		development_growth_factor = 0.15
+	}
+}
+
+ferry = {
+	county = c_ferry
+	character_modifier = {
+		name = holy_site_ferry_effect_name
+		stewardship = 1
+		diplomacy = 1
+	}
+}
+
+kittitas = {
+	county = c_kittitas
+	character_modifier = {
+		name = holy_site_kittias_effect_name
+		learning_per_piety_level = 1
+		monthly_piety = 0.5
+	}
+}
+
+kootenai_falls = {
+	county = c_kaniksu
+	barony = b_us_mt_pioneer_junction
+	character_modifier = {
+		name = holy_site_kootenai_falls_effect_name
+		county_opinion_add = 15
+	}
+}
+
+mono = {
+	county = c_mono
+	character_modifier = {
+		name = holy_site_mono_effect_name
+		monthly_prestige = 0.5
+	}
+}
+
+lubbock = {
+	county = c_lubbock
+	character_modifier = {
+		name = holy_site_lubbock_effect_name
+		monthly_prestige = 0.5
+	}
+}
+
+#Indian Shaker Church
+
+kitsap = {
+	county = c_kitsap
+	barony = b_us_wa_shelton
+	character_modifier = {
+		name = holy_site_kitsap_effect_name
+		monthly_county_control_growth_factor = 0.1
+	}
+}
+
+siletz = {
+	county = c_siletz
+	character_modifier = {
+		name = holy_site_siletz_effect_name
+		stewardship = 1
+		development_growth_factor = 0.1
+	}
+}
+
+clallam = {
+	county = c_clallam
+	character_modifier = {
+		name = holy_site_callam_effect_name
+		martial = 1
+		embarkation_cost_mult = -0.1
+	}
+}
+
+monongahela = {
+	county = c_pittsburgh
+	barony = b_us_pa_washington
+	character_modifier = {
+		same_faith_opinion = 15
+		monthly_piety = 0.1
+	}
+}
+
+zion_valley = {
+	county = c_ninnescah
+	character_modifier = {
+		stewardship = 1
+		monthly_piety = 1
+	}
+}
+
+
+# Springsearcher
+garden_of_eden = {
+	county = c_tallahassee
+	barony = b_us_fl_quincy
+	character_modifier = {
+		fertility = 0.1
+		stress_loss_mult = 0.1
+	}
+}
+
+gods_acre = {
+	county = c_barnwell
+	character_modifier = {
+		health = 0.2
+		stewardship = 1
+	}
+}
+
+# Justicialista
+junin = {
+	county = c_junin
+	character_modifier = {
+		county_opinion_add = 15
+		intrigue = 1
+	}
+}
+
+camarones_justicialista = {
+	county = c_camarones
+	character_modifier = {
+		close_relative_opinion = 20
+	}
+}
+
+san_juan_justicialista = {
+	county = c_gran_san_juan
+	character_modifier = {
+		stewardship_per_piety_level = 1
+		character_capital_county_monthly_development_growth_add = 0.05
+	}
+}
+
+san_luis_argentina = {
+	county = c_san_luis
+	character_modifier = {
+		martial = 2
+	}
+}
+
+camarones_justicialista = {
+	county = c_camarones
+	character_modifier = {
+		close_relative_opinion = 20
+	}
+}
+
+# Restorationist
+bismarck = {
+	county = c_bismarck
+	character_modifier = {
+		hostile_county_attrition = -0.25
+	}
+}
+
+dubuque = {
+	county = c_cedar_rapids
+	barony = b_us_ia_dubuque
+	character_modifier = {
+		learning_per_piety_level = 1
+	}
+}
+
+milwaukee = {
+	county = c_milwaukee
+	character_modifier = {
+		stewardship = 1
+		same_faith_opinion = 10
+	}
+}
+
+# Lutheran
+kirkwood = {
+	county = c_st_louis
+	character_modifier = {
+		same_faith_opinion = 5
+		advantage_against_coreligionists = 5
+	}
+}
+
+pierre = {
+	county = c_pierre
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+	}
+}
+
+# Springsearcher
+garden_of_eden = {
+	county = c_tallahassee
+	barony = b_us_fl_quincy
+	character_modifier = {
+		health = 0.2
+		stewardship = 1
+	}
+}
+
+
+# Waldensian
+colonia_valdense = {
+	county = c_colonia
+	barony = b_uy_04_juan_l_lacaze
+	character_modifier = {
+		stewardship = 2
+		learn_language_scheme_power_mult = 0.15
+	}
+}
+
+jacinto_arauz = {
+	county = c_carhue
+	barony = b_ar_11_jacinto_arauz
+	character_modifier = {
+		catholic_religion_opinion = 10
+		protestant_religion_opinion = 10
+		eastern_christian_religion_opinion = 10
+	}
+}
+
+
+lily_dale = {
+	county = c_chautauqua
+	barony = b_us_ny_pomfret
+	character_modifier = {
+		intrigue_per_piety_level = 1
+	}
+}
+
+
+rosthern = {
+	county = c_rosthern
+	character_modifier = {
+		learning = 1
+		same_faith_opinion = 5
+	}
+}
+
+castlegar = {
+	county = c_selkirk
+	barony = b_ca_bc_castlegar
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		different_culture_opinion = 5
+	}
+}
+
+anchorage = {
+	county = c_anchorage
+	character_modifier = {
+		stewardship_per_piety_level = 1
+	}
+}
+
+yankton = {
+	county = c_yankton
+	character_modifier = {
+		same_culture_opinion = 5
+		same_faith_opinion = 5
+	}
+}
+
+harlowton = {
+	county = c_lewis_and_clark
+	character_modifier = {
+		fertility = 0.15
+	}
+}
+
+pembina = {
+	county = c_pembina
+	character_modifier = {
+		health = 0.15
+	}
+}
+
+bethel = {
+	county = c_wichita
+	barony = b_us_ks_hutchinson
+	character_modifier = {
+		learning_per_prestige_level = 1
+	}
+}
+
+# Chimborazismo
+
+chimborazo = {
+	county = c_chimborazo
+	barony = b_ec_03_guaranda
+	character_modifier = {
+		learning_per_piety_level = 1
+	}
+}
+
+# Gracia Patriota
+
+cali = {
+	county = c_cali
+	character_modifier = {
+		learning = 1
+		same_faith_opinion = 5
+	}
+}
+
+bucaramanga = {
+	county = c_bucaramanga
+	character_modifier = {
+		advantage_against_coreligionists = 5
+	}
+}
+
+# Jesus Freak
+
+redding = {
+	county = c_redding
+	character_modifier = {
+		monthly_piety_gain_mult = 0.2
+		domain_tax_mult = 0.1
+		build_gold_cost = 0.1
+		build_speed = 0.1
+	}
+}
+
+salvation_mountain = {
+	county = c_glamis
+	barony = b_us_ca_slab_city
+	character_modifier = {
+		county_opinion_add = 25
+		stewardship = -1
+	}
+}
+
+# Hermandad
+yakima = {
+	county = c_yakima
+	character_modifier = {
+		prowess_per_piety_level = 1
+		monthly_piety_from_buildings_mult = 0.2
+		build_speed = 0.1
+	}
+}
+
+delano_hermandad = {
+	county = c_visalia
+	barony = b_us_ca_delano
+	character_modifier = {
+		learning = 1
+		same_faith_opinion = 15
+	}
+}
+
+keene_hermandad = {
+	county = c_kern
+	barony = b_us_ca_arvin
+	character_modifier = {
+		diplomacy = 1
+		intrigue = 1
+	}
+}
+
+houston = {
+	county = c_houston
+	barony = b_us_tx_houston
+	character_modifier = {
+		martial = 1
+		different_faith_opinion = 5
+	}
+}
+
+# Potay Espasyal
+
+kourou_potay = { # Sant èspasyal gwiyannen
+	county = c_cayenne
+	barony = b_gf_kourou
+	character_modifier = {
+		learning = 2
+		same_faith_opinion = 15
+	}
+}
+
+calcoene_potay = { # Parque Arqueológico do Solstício
+	county = c_amapa
+	barony = b_br_ap_calcoene
+	character_modifier = {
+		monthly_piety = 1
+		development_growth_factor = 0.05
+	}
+}
+
+
+#Tolstoyan
+
+columbus_ga = {
+	county = c_chattahoochee
+	character_modifier = {
+		stewardship_per_piety_level = 1
+	}
+}
+
+
+tolstoy_sd = {
+	county = c_potter
+	character_modifier = {
+		same_faith_opinion = 5
+		learning_per_piety_level = 1
+	}
+}
+
+staten_island = {
+	county = c_staten_island
+	character_modifier = {
+		different_faith_opinion = 10
+		character_travel_speed = 10
+	}
+}
+
+spokane = {
+	county = c_spokane
+	character_modifier = {
+		build_speed = 0.1
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+# Transcendentalism
+worcester = {
+	county = c_worcester
+	character_modifier = {
+		stewardship_per_piety_level = 2
+		tyranny_gain_mult = 0.25
+	}
+}
+
+# Metropolitan Mazdayasna
+pomona = {
+	county = c_rockland
+	barony = b_us_ny_wallkill
+	character_modifier = {
+		piety_level_impact_mult = 0.1
+		build_gold_cost = -0.10
+		build_speed = -0.1
+	}
+}
+
+#Magallanico
+valdivia = {
+	county = c_valdivia
+	character_modifier = {
+		defender_advantage = 5
+		martial_per_prestige_level = 1
+	}
+}
+
+o_higgins = {
+	county = c_o_higgins
+	character_modifier = {
+		mountains_advantage = 5
+		mountains_development_growth_factor = 0.15
+	}
+}
+
+puerto_natales = {
+	county = c_puerto_natales
+	character_modifier = {
+		embarkation_cost_mult = -0.25
+		retreat_losses = -0.10
+	}
+}
+
+#assyrians
+
+ottawa_il = {
+	county = c_winnebago
+	barony = b_us_il_ottawa
+	character_modifier = {
+		different_culture_opinion = 10
+		same_faith_opinion = 5
+	}
+}
+
+gary = {
+	county = c_gary
+	character_modifier = {
+		learning_per_piety_level = 1
+	}
+}
+
+#Armenians
+
+armonk = {
+	county = c_westchester
+	character_modifier = {
+		learning_per_piety_level = 1
+		different_culture_opinion = 5
+	}
+}
+
+los_angeles_glendale = {
+	county = c_los_angeles
+	character_modifier = {
+		name = holy_site_los_angeles_effect_name
+		intrigue = 1
+		men_at_arms_maintenance = -0.1
+
+	}
+}
+
+# Veiled Cross. DO NOT REUSE THESE
+saint_louis_veiled = {
+	county = c_st_louis
+	character_modifier = {
+		name = holy_site_saint_louis_ca_effect_name
+		monthly_county_control_growth_factor = 0.1
+		stewardship = 2
+	}
+}
+
+washington_veiled = {
+	county = c_washington
+	character_modifier = {
+		name = holy_site_washington_ca_effect_name
+		different_culture_opinion = 5
+		different_faith_opinion = 5
+	}
+	flag = washington_conversion_bonus
+}
+
+cap_diamant_veiled = {
+	county = c_cap_diamant
+	character_modifier = {
+		name = holy_site_cap_diamant_effect_name
+		learning_per_piety_level = 1
+		clergy_opinion = 10
+	}
+}
+
+#waveruler 
+
+bahia_thetis = {
+	county = c_ushuaia
+	barony = b_ar_23_bah_a_thetis
+	character_modifier = {
+		name = holy_site_bahai_thetis_effect_name
+		men_at_arms_maintenance = -0.1
+	}
+}
+
+port_howard = {
+	county = c_west_falkland
+	character_modifier = {
+		name = holy_site_port_howard_effect_name
+		coastal_advantage = 5
+		raid_speed = 0.1
+	}
+}
+
+##Old Believer
+
+erie = {
+	county = c_erie
+	character_modifier = {
+		stewardship_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+woodburn = {
+	county = c_clackamas
+	character_modifier = {
+		martial_per_piety_level = 1
+		monthly_prestige_gain_mult = 0.05
+	}
+}
+
+plamondon = {
+	county = c_lakeland
+	barony = b_ca_ab_plamondon
+	character_modifier = {
+		monthly_piety_gain_mult = 0.1
+		taiga_advantage = 5
+	}
+}
+
+#Juliano
+
+parque_granma = {
+	county = c_guacanayabo
+	barony = b_cu_niquero
+	character_modifier = {
+		same_faith_opinion = 5
+		martial_per_piety_level = 1
+	}
+}
+
+##Santa Gilada
+
+parana = {
+	county = c_parana
+	character_modifier = {
+		general_opinion = 10
+	}
+}
+
+san_luis_del_palmar = {
+	county = c_gran_corrientes
+	character_modifier = {
+		light_cavalry_damage_mult = 0.05
+		raid_speed = 0.05
+	}
+}
+
+gualeguaych = {
+	county = c_ibicuy
+	barony = b_ar_08_gualeguaych_
+	character_modifier = {
+		different_faith_opinion = 10
+	}
+}
+
+
+##new renewal
+
+los_angeles_kabbalah_center = {
+	county = c_los_angeles
+	character_modifier = {
+		name = holy_site_los_angeles_effect_name
+		intrigue = 1
+		men_at_arms_maintenance = -0.1
+	}
+}
+
+#egyptologist
+cairo = {
+	county = c_carbondale
+	barony = b_us_il_anna
+		character_modifier = {
+		name = holy_site_cairo_effect_name
+		monthly_prestige_gain_mult = 0.15
+	}
+}
+
+#Gaucho Jews
+
+colonia_lapin = {
+	county = c_carhue
+	barony = b_ar_01_alta_vista
+	character_modifier = {
+		monthly_prestige_gain_mult = 0.10
+		stewardship_per_prestige_level = 1
+	}
+}
+
+## Ursuline
+
+cap_diamant = {
+	county = c_cap_diamant
+
+	character_modifier = {
+		name = holy_site_cap_diamant_effect_name
+		learning_per_piety_level = 1
+		clergy_opinion = 10
+	}
+}
+
+cap_diamant_angeline = {
+	county = c_cap_diamant
+
+	character_modifier = {
+		name = holy_site_cap_diamant_effect_name
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+		county_opinion_add = 10
+	}
+}
+
+# Tranquillism
+
+sherbrooke = {
+	county = c_sherbrooke
+	character_modifier = {
+		name = holy_site_sherbrooke_effect_name
+		intrigue_per_piety_level = 1
+		owned_hostile_scheme_success_chance_add = 5
+	}
+}
+
+baie_comeau = {
+	county = c_outardes
+	character_modifier = {
+		name = holy_site_baie_comeau_effect_name
+		knight_effectiveness_mult = 0.25
+		health = 0.2
+	}
+}
+
+lauderdale = {
+	county = c_broward
+	character_modifier = {
+		name = holy_site_lauderdale_effect_name
+		men_at_arms_maintenance = -0.1
+		domain_tax_mult = 0.05
+	}
+}
+
+##Montreal already exists
+##Detroit already exists
+sault_ontario = {
+	county = c_sault_ste_marie
+
+	character_modifier = {
+		name = holy_site_sault_effect_name
+		diplomacy = 1
+		movement_speed = 0.05
+	}
+}
+
+new_orleans_ursuline = {
+	county = c_new_orleans
+	character_modifier = {
+		name = holy_site_nouveau_orleans_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.1
+	}
+}
+
+milwaukee = {
+	county = c_milwaukee
+	character_modifier = {
+		name = holy_site_milwaukee_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.05
+	}
+}
+
+## Anglican
+
+ottawa = {
+	county = c_ottawa
+
+	character_modifier = {
+		name = holy_site_ottawa_effect_name
+		domain_limit = 1
+		direct_vassal_opinion = 5
+	}
+}
+toronto = {
+	county = c_york #temporary fix for United Church losing this holy site
+	character_modifier = {
+		name = holy_site_toronto_effect_name
+		build_speed = -0.1 #take that montreal
+		different_faith_opinion = 10
+	}
+}
+brantford = {
+	county = c_brant
+	character_modifier = {
+		name = holy_site_brantford_effect_name
+		diplomacy_per_prestige_level = 1
+	}
+}
+halifax = {
+	county = c_halifax
+	character_modifier = {
+		name = holy_site_halifax_effect_name
+		knight_limit = 2
+	}
+}
+
+##Pelagic
+
+st_johns_nf = {
+	county = c_st_johns
+	character_modifier = {
+		name = holy_site_st_johns_nf_effect_name
+		supply_duration = 0.40
+	}
+}
+forillon = {
+	county = c_forillon
+
+	character_modifier = {
+		name = holy_site_forillon_effect_name
+		controlled_province_advantage = 3
+		prowess = 2
+	}
+}
+fundy = {
+	county = c_fundy
+
+	character_modifier = {
+		name = holy_site_fundy_effect_name
+		raid_speed = 0.1
+		embarkation_cost_mult = -0.20
+	}
+}
+
+
+## Sikh
+
+mississauga = { #kitchener already existed
+    	county = c_peel
+	character_modifier = {
+		name = holy_site_mississauga_effect_name
+		knight_effectiveness_mult = 0.25
+		health = 0.2
+	}
+}
+calgary_sikh = {
+	county = c_calgary
+	character_modifier = {
+		name = holy_site_calgary_sikh_effect_name
+		development_growth_factor = 0.1
+	}
+}
+
+## Exoverdate
+winnipeg = {
+	county = c_winnipeg
+	character_modifier = {
+		name = holy_site_winnipeg_effect_name
+		close_relative_opinion = 10
+		diplomacy = 2
+		monthly_prestige_gain_per_knight_mult = 0.02
+	}
+}
+batoche = {
+	county = c_melfort
+	barony = b_ca_sk_st_isidore_de_bellevue
+	character_modifier = {
+		name = holy_site_batoche_effect_name
+		fort_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+cut_knife = {
+	county = c_battle_river
+	barony = b_ca_sk_unity
+	character_modifier = {
+		name = holy_site_cut_knife_effect_name
+		controlled_province_advantage = 5
+		different_culture_opinion = 10
+	}
+}
+regina = {
+	county = c_wascana
+	barony = b_ca_sk_regina
+	character_modifier = {
+		name = holy_site_regina_effect_name
+		development_growth_factor = 0.1
+		short_reign_duration_mult = -0.2
+	}
+}
+lac_ste_anne = {
+	county = c_ste_anne
+	barony = b_ca_ab_barrhead
+	character_modifier = {
+		name = holy_site_regina_effect_name
+		piety_level_impact_mult = 0.5
+		health = 0.2
+	}
+}
+washington_exo = {
+	county = c_washington
+    character_modifier = {
+        different_culture_opinion = 25
+    }
+	flag = washington_conversion_bonus
+}
+
+## Midewiwin sites
+mistissini = {
+	county = c_chibougamau
+	character_modifier = {
+		name = holy_site_mistissini_effect_name
+		fertility = 0.05
+		health = 0.2
+	}
+}
+attawapiskat = {
+	county = c_attawapiskat
+	character_modifier = {
+		name = holy_site_attawapiskat_effect_name
+		#advantage in tundra/taiga +10
+		advantage = 5
+		movement_speed = 0.1
+	}
+}
+opasquia = {
+	county = c_deer_lake
+	character_modifier = {
+		name = holy_site_opasquia_effect_name
+		supply_duration = 0.25
+		prowess = 1
+	}
+}
+manitoulin = {
+	county = c_manitoulin
+	character_modifier = {
+		name = holy_site_manitoulin_effect_name
+		naval_movement_speed_mult = 0.1
+		dread_gain_mult = 0.1
+	}
+}
+#Unipkaaq
+iglulik = {
+	county = c_iglulik
+	barony = b_ca_nu_iglulik
+	character_modifier = {
+		name = holy_site_igloolik_effect_name
+		movement_speed = 0.1
+		development_growth_factor = 0.05
+	}
+}
+
+resolute = {
+	county = c_aujuittuq
+	character_modifier = {
+		name = holy_site_resolute_effect_name
+		supply_duration = 0.40
+		dread_gain_mult = 0.1
+	}
+}
+
+barrow = {
+	county = c_utqiagvik
+	barony = b_us_ak_utqiagvik
+	character_modifier = {
+		name = holy_site_barrow_effect_name
+		tundra_advantage = 5
+		arctic_advantage = 5
+	}
+}
+
+nuuk = {
+	county = c_nuuk
+	character_modifier = {
+		name = holy_site_nuuk_effect_name
+		prowess_per_piety_level = 1
+	}
+}
+
+kuujjuarapik = {
+	county = c_whapmagoostui
+	character_modifier = {
+		name = holy_site_kuujjuarapik_effect_name
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+#Unipkaaq
+
+iqaluit = {
+	county = c_iqaluit
+	character_modifier = {
+		name = holy_site_iqaluit_effect_name
+		learning_per_piety_level = 1
+		monthly_county_control_growth_factor = 0.025
+	}
+}
+
+inuvik = {
+	county = c_inuvik
+	character_modifier = {
+		name = holy_site_inuvik_effect_name
+		same_faith_opinion = 10
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+sanikiluaq = {
+	county = c_whapmagoostui
+	barony = b_ca_qc_sanikiluaq
+	character_modifier = {
+		name = holy_site_sanikiluaq_effect_name
+		domain_tax_mult = 0.05
+	}
+}
+#Arctic Church
+fort_smith = {
+	county = c_thebacha
+	character_modifier = {
+		name = holy_site_fort_smith_effect_name
+		stress_loss_mult = 0.1
+		owned_personal_scheme_success_chance_add = 5
+	}
+}
+
+fairbanks = {
+	county = c_fairbanks
+	character_modifier = {
+		name = holy_site_fairbanks_effect_name
+		naval_movement_speed_mult = 0.1
+		prowess_per_piety_level = 1
+	}
+}
+
+whitehorse = {
+	county = c_whitehorse
+	character_modifier = {
+		name = holy_site_whitehorse_effect_name
+		monthly_piety_gain_per_happy_powerful_vassal_mult = 0.03
+	}
+}
+#Midnight Sun
+dawson_city = {
+	county = c_klondike
+	character_modifier = {
+		name = holy_site_dawson_city_effect_name
+		same_faith_opinion = 5
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+juneau = {
+	county = c_juneau
+	character_modifier = {
+		name = holy_site_juneau_effect_name
+		health = 0.2
+		cultural_head_acceptance_gain_mult = 0.3
+	}
+}
+
+yellowknife = {
+	county = c_yellowknife
+	character_modifier = {
+		name = holy_site_yellowknife_effect_name
+		supply_duration = 0.25
+		prowess = 1
+	}
+}
+
+#peyotist
+# in order for it to be activated / de-activated in the holy site-changing events.
+
+fort_berthold = { # Mandaree
+	county = c_little_missouri
+	barony = b_us_nd_mandaree
+	character_modifier = {
+		name = holy_site_fort_berthold_effect_name
+		cultural_head_fascination_mult = 0.1
+		different_culture_opinion = 10
+	}
+}
+black_hills = {
+    county = c_rapid_city
+    character_modifier = {
+		name = holy_site_black_hills_effect_name
+		build_gold_cost = -0.1
+		holy_order_hire_cost_mult = -0.1
+    }
+}
+comanche = {
+	county = c_brown
+	character_modifier = {
+		name = holy_site_comanche_effect_name
+      		controlled_province_advantage = 3
+		knight_effectiveness_mult = 0.05
+	}
+}
+
+saskatoon = {
+	county = c_saskatoon
+	character_modifier = {
+		name = holy_site_saskatoon_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+}
+osage = {
+	county = c_osage
+	character_modifier = {
+		name = holy_site_osage_effect_name
+		health = 0.15
+
+	}
+}
+
+#cross faith
+sitka = {
+    county = c_baranof
+    character_modifier = {
+		name = holy_site_archangel_effect_name
+		build_gold_cost = -0.1
+		holy_order_hire_cost_mult = -0.1
+    }
+}
+kodiak = {
+	county = c_kodiak
+	character_modifier = {
+		build_gold_cost = -0.025
+		domain_tax_same_faith_mult = 0.05
+	}
+}
+
+unalaska = {
+	county = c_unalaska
+	character_modifier = {
+		name = holy_site_unalaska_effect_name
+		years_of_fertility = 5
+		raid_speed = 0.1
+	}
+}
+
+#raven tales
+
+yakama = {
+    county = c_yakima
+    character_modifier = {
+		name = holy_site_yakama_effect_name
+		monthly_county_control_growth_factor = 0.1
+		development_growth_factor = 0.05
+    }
+}
+ketchikan = {
+	county = c_ketchikan
+	character_modifier = {
+		name = holy_site_ketchikan_effect_name
+ 		monthly_piety_gain_per_knight_mult = 0.05
+		heavy_infantry_damage_mult = 0.05
+	}
+}
+
+victoria = {
+	county = c_victoria_ca
+	character_modifier = {
+		learning_per_piety_level = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+kiis_gwaii = {
+	county = c_kiis_gwaii
+	character_modifier = {
+		name = holy_site_kiis_gwaii_effect_name
+		dread_baseline_add = 5
+		raid_speed = 0.1
+		martial_per_piety_level = 1
+
+	}
+}
+
+vancouver = {
+	county = c_vancouver
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		cultural_head_acceptance_gain_mult = 0.2
+	}
+}
+
+#### ayahan
+
+deline = {
+	county = c_deline
+	character_modifier = {
+		name = holy_site_deline_effect_name
+		learning = 1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+port_radium = {
+	county = c_port_radium
+	character_modifier = {
+		name = holy_site_port_radium_effect_name
+		clergy_opinion = 10
+		powerful_vassal_opinion = 5
+	}
+}
+
+uranium = {
+	county = c_uranium
+	character_modifier = {
+		name = holy_site_uranium_effect_name
+		domain_tax_mult = 0.05
+	}
+}
+
+#### gaiwiio
+
+canajoharie = {
+	county = c_utica
+	character_modifier = {
+		name = holy_site_canajoharie_effect_name
+		cultural_head_fascination_mult = 0.10
+	}
+}
+
+buffalo = {
+	county = c_buffalo
+	character_modifier = {
+		name = holy_site_buffalo_effect_name
+		clergy_opinion = 10
+		powerful_vassal_opinion = 5
+	}
+}
+
+hochelaga = {
+	county = c_hochelaga
+	barony = b_ca_qc_montr_al
+	character_modifier = {
+		development_growth_factor = 0.1
+		build_gold_cost = -0.10
+		build_speed = 0.1
+	}
+}
+
+##new fogsong
+
+sydney = {
+	county = c_sydney
+	character_modifier = {
+		name = holy_site_buffalo_effect_name
+		dynasty_house_opinion = 10
+		coastal_advantage = 8
+	}
+}
+
+##freedomite
+
+new_denver = {
+	county = c_nelson
+	character_modifier = {
+		name = holy_site_castlegar_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.05
+	}
+}
+
+grand_forks = {
+	county = c_boundary
+	character_modifier = {
+		name = holy_site_grand_forks_effect_name
+		fertility = 0.1
+		stewardship_per_prestige_level = 1
+	}
+}
+
+yorkton = {
+	county = c_orkney
+	character_modifier = {
+		name = holy_site_yorkton_effect_name
+		clergy_opinion = 10
+	}
+}
+
+##hare krishna
+
+edmonton = {
+	county = c_edmonton
+	character_modifier = {
+		name = holy_site_edmonton_effect_name
+		martial = 1
+		heavy_infantry_damage_mult = 0.05
+	}
+}
+
+##Peace Church (new)
+peace_river = {
+	county = c_peace_river
+	character_modifier = {
+		name = holy_site_peace_river_effect_name
+		learning = 1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+steinbach = {
+	county = c_steinbach
+	character_modifier = {
+		name = holy_site_steinbach_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+chouteau = {
+	county = c_chouteau
+	character_modifier = {
+		name = holy_site_chouteau_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.1
+	}
+}
+
+cuauhtemoc = {
+	county = c_cuauhtemoc
+	character_modifier = {
+		name = holy_site_steinbach_effect_name
+		diplomacy = 1
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+cayo = {
+	county = c_cayo
+	character_modifier = {
+		name = holy_site_steinbach_effect_name
+		clergy_opinion = 10
+		learn_language_scheme_power_mult = 0.15
+	}
+}
+
+midland = {
+	county = c_simcoe
+	barony = b_ca_on_midland
+	character_modifier = {
+		name = holy_site_midland_effect_name
+			different_culture_opinion = 5
+			stewardship = 1
+	}
+}
+
+
+#mervivant
+
+caraquet = {
+	county = c_gloucester
+	barony = b_ca_nb_caraquet
+	character_modifier = {
+		name = holy_site_caraquet_effect_name
+		build_gold_cost = -0.025
+		domain_tax_same_faith_mult = 0.05
+
+	}
+
+}
+
+port_royal = {
+	county = c_digby
+	barony = b_ca_ns_digby
+	character_modifier = {
+		name = holy_site_port_royal_effect_name
+		naval_movement_speed_mult = 0.1
+		prowess_per_piety_level = 1
+	}
+
+}
+
+grande_pre = {
+	county = c_hants
+	barony = b_ca_ns_kentville
+	character_modifier = {
+		name = holy_site_grande_pre_effect_name
+		controlled_province_advantage = 10
+	}
+	flag = grande_pre_conversion_resistance_bonus
+}
+
+port_au_port = {
+	county = c_corner_brook
+	barony = b_ca_nl_stephenville
+	character_modifier = {
+		name = holy_site_port_au_port_effect_name
+		diplomacy = 1
+		movement_speed = 0.05
+	}
+
+}
+
+lafayette = {
+	county = c_lafayette
+	barony = b_us_la_lafayette
+	character_modifier = {
+		name = holy_site_lafayette_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.05
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+moncton = {
+	county = c_westmorland
+	barony = b_ca_nb_moncton
+	character_modifier = {
+		hills_advantage = 5
+		defender_advantage = 5
+	}
+}
+cap_diamant_gothic = {
+	county = c_cap_diamant
+
+	character_modifier = {
+		
+		learning_per_piety_level = 1
+		clergy_opinion = 10
+	}
+}
+bird_rock = {
+	county = c_magdalen_islands
+	character_modifier = {
+		naval_movement_speed_mult = 0.1
+		dread_gain_mult = 0.1
+	}
+}
+
+## Patria
+bogota = {
+	county = c_bogota
+	
+	character_modifier = {
+		name = holy_site_bogota_effect_name
+		controlled_province_advantage = 5
+		martial = 1
+		
+	}
+}
+quito = {
+	county = c_quito
+	character_modifier = {
+		name = holy_site_quito_effect_name
+		learning_per_piety_level = 1
+	}
+}
+caracas = {
+	county = c_caracas
+	
+	character_modifier = {
+		name = holy_site_caracas_effect_name
+		naval_movement_speed_mult = 0.2
+		diplomacy = 1
+	}
+}
+#panama already exist
+cucuta = {
+	county = c_cucuta
+	character_modifier = {
+		name = holy_site_cucuta_effect_name
+		development_growth_factor = 0.1
+		stewardship_per_piety_level = 1
+	}
+}
+## Matria
+maracaibo = {
+	county = c_maracaibo
+	character_modifier = {
+		name = holy_site_maracaibo_effect_name
+		controlled_province_advantage = 5
+		stress_loss_mult = 0.1
+	}
+}
+
+solola = {
+	county = c_chimaltenango
+	character_modifier = {
+		name = holy_site_solola_effect_name
+		stress_loss_mult = 0.20
+	}
+}
+
+izabal = {
+	county = c_izabal
+		character_modifier = {
+		name = holy_site_izabal_effect_name
+		max_combat_roll = 3
+		supply_duration = 0.25
+	}
+}
+
+guatemala_city = {
+	county = c_guatemala
+	character_modifier = {
+		name = holy_site_guatemala_effect_name
+		learning = 1
+		monthly_prestige_gain_mult = 0.20
+	}
+}
+
+chiquimula = {
+	county = c_jalapa
+	character_modifier = {
+		name = holy_site_chiquimula_effect_name
+		monthly_piety_gain_mult = 0.10
+		clergy_opinion = 5
+	}
+}
+
+peten_itza = {
+	county = c_peten_itza
+	character_modifier = {
+		name = holy_site_peten_itza_effect_name
+		county_opinion_add = 10
+	}
+}
+san_cristobal = {
+	county = c_san_cristobal_de_las_casas
+	character_modifier = {
+		name = holy_site_san_cristobal_effect_name
+		jungle_development_growth_factor = 0.15
+		hills_travel_danger = hills_medium_danger_reduction
+		mountains_travel_danger = mountains_medium_danger_reduction
+	}
+}
+
+ocosingo = {
+	county = c_ocosingo
+	character_modifier = {
+		name = holy_site_ocosingo_effect_name
+		prowess_per_piety_level = 1
+		accolade_glory_gain_mult = 0.2
+	}
+}
+
+
+ixan = {
+	county = c_baja_verapaz
+	character_modifier = {
+		name = holy_site_ixan_effect_name
+		monthly_martial_lifestyle_xp_gain_mult = 0.1
+	}
+}
+
+chichen_itza = {
+	county = c_valladolid
+	barony = b_mx_31_chich_n_itz_
+	character_modifier = {
+		name = holy_site_chichen_itza_effect_name
+		development_growth_factor = 0.10
+		domain_limit = 1
+	}
+}
+
+tikal = {
+	county = c_tikal
+	character_modifier = {
+		name = holy_site_tikal_effect_name
+		county_opinion_add = 10
+	}
+}
+
+palenque = {
+	county = c_tulija
+	barony = b_mx_05_palenque
+		character_modifier = {
+		name = holy_site_palenque_effect_name
+		different_culture_opinion = 10
+		learning = 2
+	}
+}
+copan = {
+	county = c_copan
+	character_modifier = {
+		name = holy_site_canudos_effect_name
+		stress_loss_mult = 0.1
+		guest_opinion = 10
+	}
+}
+
+cozumel = {
+	county = c_cozumel
+	character_modifier = {
+		name = holy_site_cozumel_effect_name
+		naval_movement_speed_mult = 0.10
+		coastal_advantage = 5
+	}
+}
+
+san_pedro_sula = {
+	county = c_san_pedro_sula
+	character_modifier = {
+		name = holy_site_san_pedro_sula_effect_name
+		stewardship_per_piety_level = 1
+	}
+}
+
+san_salvador = {
+	county = c_san_salvador
+	character_modifier = {
+		name = holy_site_san_salvador_effect_name
+		levy_size = 0.15
+	}
+}
+
+sumidero = {
+	county = c_tuxtla
+	character_modifier = {
+		name = holy_site_sumidero_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.10
+    }
+}
+
+valladolid = {
+	county = c_valladolid
+	character_modifier = {
+		name = holy_site_valladolid_effect_name
+		church_holding_build_gold_cost = -0.10
+	}
+}
+
+bacalar = {
+	county = c_chetumal
+	character_modifier = {
+		name = holy_site_bacalar_effect_name
+		controlled_province_advantage = 5
+		stress_loss_mult = 0.1
+	}
+}
+
+esquipulas = {
+	county = c_jalapa
+	barony = b_gt_10_jalapa
+	character_modifier = {
+		name = holy_site_esquipulas_effect_name
+		diplomacy_per_piety_level = 1
+		monthly_piety_gain_mult = 0.05
+	}
+}
+
+flores = {
+	county = c_peten_itza
+	character_modifier = {
+		name = holy_site_flores_effect_name
+		diplomacy_per_piety_level = 1
+		stewardship = 1
+	}
+}
+
+tulum = {
+	county = c_tulum
+	barony = b_mx_23_tulum
+	character_modifier = {
+		name = holy_site_tulum_effect_name
+		different_culture_opinion = 10
+		cultural_head_acceptance_gain_mult = 0.20
+	}
+}
+guerrero = {
+	county = c_guerrero
+	character_modifier = {
+		name = holy_site_guerrero_effect_name
+		cultural_head_fascination_mult = 0.1
+		knight_effectiveness_mult = 0.2
+	}
+}
+morelia = {
+	county = c_morelia
+	character_modifier = {
+		name = holy_site_morelia_effect_name
+		martial_per_piety_level = 1
+		title_creation_cost_mult = -0.15
+	}
+}
+uruapan = {
+	county = c_uruapan
+	character_modifier = {
+		name = holy_site_uruapan_effect_name
+		knight_limit = 2
+		knight_effectiveness_mult = 0.1
+	}
+}
+churumuco_de_morelos = {
+	county = c_tacambaro_de_codallos
+	barony = b_mx_16_puruar_n
+	character_modifier = {
+		name = holy_site_churumuco_de_morelos_effect_name
+		hills_development_growth_factor = 0.25
+		prowess_per_piety_level = 1
+	}
+}
+tecoman = {
+	county = c_colima
+	barony = b_mx_08_tecom_n
+	character_modifier = {
+		name = holy_site_tecoman_effect_name
+		#monthly_piety_gain_mult = 0.1		
+		monthly_piety_gain_per_knight_mult = 0.04
+		accolade_glory_gain_mult = 0.3
+	}
+}
+zihuatanejo = {
+	county = c_zihuatenejo_ixtapa
+	character_modifier = {
+		name = holy_site_zihuatanejo_effect_name
+		direct_vassal_opinion = 5
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+atliaca = {
+	county = c_chilpancingo
+	barony = b_mx_12_atliaca
+	character_modifier = {
+		name = holy_site_atliaca_effect_name
+		cultural_head_fascination_mult = 0.10
+	}
+}
+mitlatongo = {
+	county = c_asuncion_nochixtlan
+	character_modifier = {
+		name = holy_site_mitlatongo_effect_name
+		levy_reinforcement_rate_same_faith = 0.10
+		learn_language_scheme_power_mult = 0.2
+	}
+}
+juchitan_de_zaragoza = {
+	county = c_juchitan
+	character_modifier = {
+		name = holy_site_juchitan_de_zaragoza_effect_name
+		monthly_piety_gain_per_knight_mult = 0.02
+		knight_effectiveness_mult = 0.2
+	}
+}
+santa_maria_ostula = {
+	county = c_coahuayana
+	character_modifier = {
+		name = holy_site_santa_maria_ostula_effect_name
+		levy_size = 0.10
+		monthly_county_control_growth_factor = 0.10
+	}
+}
+
+sacramento = {
+	county = c_sacramento
+	character_modifier = {
+		name = holy_site_us_ca_sacramento_effect_name
+		domain_limit = 1
+		county_opinion_add = 10
+	}
+}
+
+us_ca_san_francisco_town = {
+	county = c_san_francisco
+	character_modifier = {
+		name = holy_site_us_ca_san_francisco_effect_name
+		different_faith_opinion = 10
+		men_at_arms_maintenance = -0.10
+	}
+}
+
+hollywood = {
+	county = c_los_angeles
+	character_modifier = {
+		#name = holy_site_hollywood_effect_name
+		stress_loss_mult = 0.1
+		guest_opinion = 10
+	}
+}
+
+ensenada = {
+	county = c_ensenada
+	barony = b_mx_02_ensenada
+	character_modifier = {
+		name = holy_site_ensenada_effect_name
+		different_culture_opinion = 10
+		stress_loss_mult = 0.1
+	}
+}
+
+santa_cruz = {
+	county = c_santa_cruz
+	barony = b_us_ca_santa_cruz
+	character_modifier = {
+		name = holy_site_santa_cruz_effect_name
+		health = 0.15
+	}
+}
+
+malibu = {
+	county = c_ventura
+	barony = b_us_ca_malibu
+	character_modifier = {
+		name = holy_site_malibu_effect_name
+		stress_loss_mult = 0.1
+		guest_opinion = 10
+	}
+}
+
+huntington_beach = { #different bonuses
+	county = c_orange
+	barony = b_us_ca_santa_ana
+	character_modifier = {
+		name = holy_site_huntington_beach_effect_name
+		fertility = 0.1
+		stewardship = 1
+	}
+}
+
+yreka = {
+	county = c_yreka
+	barony = b_us_ca_yreka
+	character_modifier = {
+		name = holy_site_yreka_effect_name
+		mountains_development_growth_factor = 0.20
+	}
+}
+
+nisqually = {
+	county = c_nisqually
+	character_modifier = {
+		name = holy_site_nisqually_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+portland = {
+	county = c_multnomah
+	barony = b_us_or_portland
+	character_modifier = {
+		name = holy_site_portland_effect_name
+		direct_vassal_opinion = 5
+	}
+}
+
+placer = {
+	county = c_placer
+	character_modifier = {
+		name = holy_site_placer_effect_name
+		build_gold_cost = -0.1
+	}
+}
+
+independence_hall_west = { #different bonuses
+	county = c_orange
+	barony = b_us_ca_anaheim
+	character_modifier = {
+		name = holy_site_independence_hall_west_effect_name
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+## Cascadia ##
+yuma = {
+	county = c_yuma
+	character_modifier = {
+		name = holy_site_yuma_effect_name
+		supply_duration = 0.3
+	}
+}
+
+lima = {
+	county = c_lima
+	character_modifier = {
+		name = holy_site_lima_effect_name
+		same_faith_opinion = 10
+		learning = 1
+	}
+}
+potosi = {
+	county = c_potosi
+	character_modifier = {
+		name = holy_site_machu_picchu_effect_name
+		domain_tax_same_faith_mult = 0.2
+	}
+}
+oruro = {
+	county = c_ingavi
+	barony = b_bo_04_jes_s_de_machaca
+	character_modifier = {
+		name = holy_site_oruro_effect_name
+		county_opinion_add = 10
+	}
+}
+tiwanaku = {
+	county = c_ingavi
+	character_modifier = {
+		name = holy_site_tiwanaku_effect_name
+		stewardship_per_piety_level = 1
+		clergy_opinion = 10
+	}
+}
+machu_picchu = {
+	county = c_quillabamba
+	barony = b_pe_08_machupicchu
+	character_modifier = {
+		name = holy_site_machu_picchu_effect_name
+		domain_limit = 1
+		monthly_prestige_gain_mult = 0.1
+	}
+}
+cusco = {
+	county = c_cusco
+	character_modifier = {
+		name = holy_site_machu_picchu_effect_name
+		martial = 1
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+#Rosalimense
+
+paucartambo = {
+	county = c_cusco
+	character_modifier = {
+		name = holy_site_paucartambo_effect_name
+		same_faith_opinion = 10
+		development_growth_factor = 0.1
+	}
+}
+
+
+huancayo = {
+	county = c_huancayo
+	character_modifier = {
+		name = holy_site_huancayo_effect_name
+		same_culture_opinion = 5
+		domain_limit = 1
+	}
+}
+
+arequipa = {
+	county = c_arequipa
+	character_modifier = {
+		name = holy_site_arequipa_effect_name
+		church_holding_build_gold_cost = -0.1
+	}
+}
+
+#israelite
+
+chanchamayo = {
+	county = c_satipo
+	character_modifier = {
+		name = holy_site_chanchamayo_effect_name
+		same_faith_opinion = 5
+		direct_vassal_opinion = 5
+	}
+}
+iquitos = {
+	county = c_iquitos
+	character_modifier = {
+		name = holy_site_iquitos_effect_name
+		same_faith_opinion = 10
+		diplomacy = 1
+	}
+}
+
+#Diablada
+
+oruro = {
+	county = c_oruro
+	character_modifier = {
+		name = holy_site_oruro_effect_name
+		holy_order_hire_cost_mult = -0.2
+	}
+}
+puno = {
+	county = c_puno
+	character_modifier = {
+		name = holy_site_puno_effect_name
+		stewardship = 1
+	}
+}
+cochabamba = {
+	county = c_cochabamba
+	character_modifier = {
+		name = holy_site_cochabamba_effect_name
+		same_faith_opinion = 10
+		development_growth_factor = 0.1
+	}
+}
+la_tirana = {
+	county = c_calama
+	character_modifier = {
+		name = holy_site_la_tirana_effect_name
+		monthly_piety_gain_per_knight_mult = 0.02
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+yunguyo = {
+	county = c_la_paz_1
+	character_modifier = {
+		name = holy_site_yunguyo_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+#camino estelar
+
+nazca = {
+	county = c_nazca
+	character_modifier = {
+		name = holy_site_nazca_effect_name
+		cultural_head_fascination_mult = 0.05
+		learning_per_piety_level = 1
+	}
+}
+chacaltaya = {
+	county = c_la_paz_1
+	character_modifier = {
+		name = holy_site_chacaltaya_effect_name
+		supply_duration = 0.35
+		mountains_advantage = 5
+	}
+}
+atacama_giant = {
+	county = c_huara
+	character_modifier = {
+		name = holy_site_atacama_giant_effect_name
+		development_growth_factor = 0.1
+		monthly_prestige_gain_mult = 0.2
+	}
+}
+elqui = {
+	county = c_elqui
+	character_modifier = {
+		name = holy_site_elqui_effect_name
+		defender_advantage = 5
+		learning = 1
+	}
+}
+chilca = {
+	county = c_lima
+	character_modifier = {
+		name = holy_site_chilca_effect_name
+		fertility = 0.1
+		sway_scheme_power_mult = 0.1
+	}
+}
+
+#Divine Chicha
+
+piura = {
+	county = c_piura
+	character_modifier = {
+		name = holy_site_piura_effect_name
+		development_growth_factor = 0.1
+		supply_duration = 0.15
+	}
+}
+chupaca = {
+	county = c_huancayo
+	character_modifier = {
+		name = holy_site_chupaca_effect_name
+		learning = 1
+		stewardship = 1
+	}
+}
+moyobamba = {
+	county = c_moyobamba
+	character_modifier = {
+		name = holy_site_moyobamba_effect_name
+		defender_advantage = 5
+		mountains_advantage = 5
+	}
+}
+pucallpa = {
+	county = c_pucallpa
+	character_modifier = {
+		name = holy_site_pucallpa_effect_name
+		domain_tax_same_faith_mult = 0.2
+	}
+}
+#inkarri
+ayacucho = {
+	county = c_ayacucho
+	character_modifier = {
+		name = holy_site_ayacucho_effect_name
+		domain_limit = 1
+	}
+}
+cajamarca = {
+	county = c_cajamarca
+	character_modifier = {
+		name = holy_site_cajamarca_effect_name
+		owned_personal_scheme_success_chance_add = 5
+		dread_baseline_add = 5
+	}
+}
+
+#jolljepunco
+
+jolljepunco = {
+	county = c_melgar
+	barony = b_pe_21_macusani
+	character_modifier = {
+		name = holy_site_jolljepunco_effect_name
+		mountains_advantage = 5
+		diplomacy = 1
+	}
+}
+# Christian Science
+the_mother_church = {
+	county = c_boston
+	character_modifier = {
+		learning_per_piety_level = 1
+		health = 0.12
+	}
+}
+
+lynn = {
+	county = c_essex_mass
+	character_modifier = {
+		stress_loss_mult = 0.05
+		long_reign_bonus_mult = 0.05
+	}
+}
+
+
+#Phalansterism
+
+lagrange = {
+	county = c_fort_wayne
+	barony = b_us_in_kendallville
+	character_modifier = {
+		county_opinion_add = 5
+		stewardship_per_piety_level = 1
+	}
+}
+
+#Catholic Charismatic
+
+south_bend = {
+	county = c_south_bend
+	character_modifier = {
+		stress_loss_mult = 0.1
+		learning_per_piety_level = 1
+	}
+}
+
+ann_arbor = {
+	county = c_washtenaw
+	character_modifier = {
+		development_growth_factor = 0.05
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+
+#Quinitarian
+
+lac_etchemin = {
+	county = c_beauce
+	barony = b_ca_qc_lac_etchemin
+	character_modifier = {
+		monthly_prestige_gain_mult = 0.10
+		legitimacy_loss_mult = -0.05
+	}
+}
+
+# Grand Orient
+
+bois_caiman = {
+	county = c_le_cap
+	character_modifier = {
+		controlled_province_advantage = 3
+		prowess_per_piety_level = 1
+	}
+}
+
+# Las 21 Divisiones
+
+basilica_catedral_nuestra_senora_de_la_altagracia = {
+	county = c_la_romana
+	barony = b_do_salvaleon_de_higuey
+	character_modifier = {
+		stress_loss_mult = 0.1
+		legitimacy_gain_mult = 0.05
+	}
+}
+
+#Kumina
+
+montego_bay = {
+	county = c_cornwall
+	character_modifier = {
+		different_culture_opinion = 5
+		stewardship_per_prestige_level = 1
+	}
+}
+
+
+#vodzu
+
+tobago = {
+	county = c_tobago
+	character_modifier = {
+		naval_movement_speed_mult = 0.15
+		martial = 1
+	}
+}
+
+#Comfa
+
+grenada = {
+	county = c_grenada
+	character_modifier = {
+		naval_movement_speed_mult = 0.15
+		diplomacy = 1
+	}
+}
+
+mahdia = {
+	county = c_mahdia
+	character_modifier = {
+		different_culture_opinion = 10
+		stewardship_per_piety_level = 1
+	}
+}
+
+#Swedenborgian
+
+fort_wayne = {
+	county = c_fort_wayne
+	character_modifier = {
+		development_growth_factor = 0.05
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+baltimore = {
+	county = c_baltimore
+	character_modifier = {
+		different_culture_opinion = 10
+		stewardship_per_piety_level = 1
+	}
+}
+
+
+# Tycoon
+
+poza_rica = {
+	county = c_poza_rica
+	character_modifier = {
+		cultural_head_fascination_mult = 0.10
+	}
+}
+
+odessa = {
+	county = c_odessa
+	character_modifier = {
+		monthly_piety_from_buildings_mult = 0.05
+		monthly_prestige_from_buildings_mult = 0.05
+	}
+}
+
+longview = {
+	county = c_longview
+	barony = b_us_tx_longview
+	character_modifier = {
+		short_reign_duration_mult = -0.1
+		long_reign_bonus_mult = 0.1
+	}
+}
+
+oil_city = {
+	county = c_venango
+	barony = b_us_pa_oil_city
+	character_modifier = {
+		stewardship_per_piety_level = 1
+	}
+}
+
+prudhoe_bay = {
+	county = c_sagavanirktok
+	barony = b_us_ak_qaaktugvik
+	character_modifier = {
+		domain_tax_same_faith_mult = 0.1
+		domain_limit = 1
+	}
+}
+
+# Human Potential
+fort_worth = {
+	county = c_tarrant
+	character_modifier = {
+		same_faith_opinion = 10
+	}
+}
+
+akron = {
+	county = c_akron
+	character_modifier = {
+		diplomacy = 1
+		monthly_prestige = 1
+	}
+}	
+#united orthodoxy
+
+platina = {
+	county = c_trinity
+	barony = b_us_ca_hayfork
+	character_modifier = {
+		learn_language_scheme_power_mult = 0.10
+		learning_per_piety_level = 1
+	}
+}
+
+#Vertebalists
+
+davenport = {
+	county = c_davenport
+	character_modifier = {
+		martial = 2
+		monthly_prestige = 0.5
+	}
+}
+
+des_moines = {
+	county = c_des_moines
+	character_modifier = {
+		health = 0.1
+		monthly_piety = 0.5
+	}
+}
+
+sarasota = {
+	county = c_tampa
+	barony = b_us_fl_sarasota
+	character_modifier = {
+		learning = 2
+	}
+}
+
+arlington = {
+	county = c_washington
+	barony = b_us_va_arlington
+	character_modifier = {
+		domain_tax_same_faith_mult = 0.2
+	}
+}

@@ -1,0 +1,563 @@
+﻿catimbo_religion = {
+	family = rf_amerindian
+	graphical_faith = catimbo_religion_gfx
+	doctrine = amerindian_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_varied_domination
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_disallowed
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+	doctrine = doctrine_ao_adoption_prevalence_uncommon
+	doctrine = doctrine_ao_adoption_type_familial
+	doctrine = doctrine_ao_adoption_target_child
+
+	#Crimes
+	doctrine = doctrine_homosexuality_indifferent
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_virtuous
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	doctrine = doctrine_building_temple_pagan
+	doctrine = doctrine_funeral_stoic
+		
+	# Syncretism
+	doctrine = special_doctrine_is_amerindian_faith
+	
+	traits = {
+		virtues = { calm lifestyle_herbalist just lifestyle_gardener }
+		sins = { arrogant disloyal }
+	}
+
+	custom_faith_icons = {
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+    }
+
+	holy_order_names = {
+		{ name = "holy_order_guerreiros_jurema" }
+		{ name = "holy_order_cavaleiros_aruanda" }
+	}
+
+	holy_order_maa = { bowmen }
+
+	localization = {
+				#HighGodName
+				HighGodName = catimbo_high_god_name
+				HighGodNamePossessive = catimbo_high_god_name_possessive
+				HighGodNameAlternate = catimbo_high_god_alternate
+				HighGodNameAlternatePossessive = catimbo_high_god_alternate_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodHerHis = CHARACTER_HERHIM_HIM
+
+				#Creator
+				CreatorName = catimbo_creator_god_name
+				CreatorNamePossessive = catimbo_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = catimbo_health_god_name
+				HealthGodNamePossessive = catimbo_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+				
+				#FertilityGod
+				FertilityGodName = catimbo_fertility_god_name
+				FertilityGodNamePossessive = catimbo_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = catimbo_wealth_god_name
+				WealthGodNamePossessive = catimbo_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = catimbo_household_god_name
+				HouseholdGodNamePossessive = catimbo_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#FateGod
+				FateGodName = catimbo_fate_god_name
+				FateGodNamePossessive = catimbo_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = catimbo_knowledge_god_name
+				KnowledgeGodNamePossessive = catimbo_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_ITS
+
+				#WarGod
+				WarGodName = catimbo_war_god_name
+				WarGodNamePossessive = catimbo_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = catimbo_trickster_god_name
+				TricksterGodNamePossessive = catimbo_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_SHE
+				TricksterGodHerHis = CHARACTER_HERHIS_HER
+				TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = catimbo_night_god_name
+				NightGodNamePossessive = catimbo_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = catimbo_water_god_name
+				WaterGodNamePossessive = catimbo_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+				
+				DevilName = catimbo_devil_name
+				DevilNamePossessive = catimbo_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+
+				DeathDeityName = catimbo_death_deity_name
+				DeathDeityNamePossessive = catimbo_death_deity_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
+				
+				WitchGodName = catimbo_witchgod
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+				
+				PantheonTerm = religion_seres_da_floresta
+				PantheonTermHasHave = pantheon_term_have
+		
+				GoodGodNames = {
+					jurema_sagrada_high_god_name
+					jurema_sagrada_high_god_name_alternate
+					jurema_sagrada_creator_god_name
+					jurema_sagrada_health_god_name
+					jurema_sagrada_household_god_name
+					jurema_sagrada_fate_god_name
+					jurema_sagrada_night_god_name
+				}
+
+				EvilGodNames = {
+					jurema_sagrada_devil_name
+					jurema_sagrada_death_deity_name
+					jurema_sagrada_witchgod
+					jurema_sagrada_water_god_name
+					jurema_sagrada_trickster_god_name
+				}
+		
+				HouseOfWorship = catimbo_house_of_worship
+				HouseOfWorshipPlural = catimbo_house_of_worship_plural
+				ReligiousSymbol = catimbo_religious_symbol
+				ReligiousText = catimbo_religious_text
+				ReligiousHeadName = catimbo_religious_head_title
+				ReligiousHeadTitleName = catimbo_religious_head_title_name
+				DevoteeMale = catimbo_devotee_male
+				DevoteeMalePlural = catimbo_devotee_male_plural
+				DevoteeFemale = catimbo_devotee_female
+				DevoteeFemalePlural = catimbo_devotee_female_plural
+				DevoteeNeuter = catimbo_devotee_male
+				DevoteeNeuterPlural = catimbo_devotee_male_plural
+				PriestMale = catimbo_priest
+				PriestMalePlural = catimbo_priest_plural
+				PriestFemale = catimbo_priest_female
+				PriestFemalePlural = catimbo_priest_female_plural
+				PriestNeuter = catimbo_priest
+				PriestNeuterPlural = catimbo_priest_plural
+				AltPriestTermPlural = paganism_priest_plural
+				BishopMale = catimbo_bishop
+				BishopMalePlural = catimbo_bishop_plural
+				BishopFemale = catimbo_bishop_female
+				BishopFemalePlural = catimbo_bishop_female_plural
+				BishopNeuter = catimbo_bishop
+				BishopNeuterPlural = catimbo_bishop_plural
+				DivineRealm = catimbo_divine_realm
+				PositiveAfterLife = catimbo_positive_afterlife
+				NegativeAfterLife = catimbo_negative_afterlife
+		
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}
+
+	faiths = {
+	
+		jurema_sagrada = {
+			color = { 120 70 50 }
+			icon = jurema
+			#reformed_icon = jurema_reformed
+			
+			holy_site = juazeiro_do_norte
+			holy_site = recife
+			holy_site = sao_jose_do_belmonte
+			holy_site = uruacu
+			holy_site = aracruz
+			holy_site = sao_felix_do_xingu
+	
+			doctrine = tenet_inner_journey
+			doctrine = tenet_afro_diasporic_syncretism
+			doctrine = afro_diasporic_override_doctrine # necessary for the syncretism to function properly
+			doctrine = tenet_sacramental_herbs
+			
+			#doctrine = unreformed_faith_doctrine
+			doctrine = special_doctrine_wisdom_of_the_hinterlands
+			
+		}
+			
+		pajelanca = {
+			color = { 196 92 58 }
+			icon = pajelanca
+			#reformed_icon = pajelanca_reformed
+			
+			holy_site = belem
+			holy_site = manaus
+			holy_site = sao_luis
+			holy_site = soure
+			holy_site = mazagao
+	
+			doctrine = tenet_shoreline_reverence
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_mystical_birthright
+
+			doctrine = special_doctrine_amazonian_spirituality_catimbo
+			doctrine = amazonian_access
+			
+			doctrine = doctrine_gender_female_dominated
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_bastardry_none
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_female_only
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_clerical_marriage_disallowed
+			doctrine = doctrine_ao_adoption_type_lowborn
+			doctrine = doctrine_ao_adoption_target_young_adult
+			doctrine = doctrine_funeral_water_burial
+
+			localization = {
+				
+				#HighGodName
+				HighGodName = pajelanca_high_god_name
+				HighGodNamePossessive = pajelanca_high_god_name_possessive
+				HighGodNameAlternate = pajelanca_high_god_alternate
+				HighGodNameAlternatePossessive = pajelanca_high_god_alternate_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_THEY
+				HighGodHerselfHimself = CHARACTER_THEMSELVES
+				HighGodHerHis = CHARACTER_HERHIS_THEIR
+
+				#Creator
+				CreatorName = pajelanca_creator_god_name
+				CreatorNamePossessive = pajelanca_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = pajelanca_health_god_name
+				HealthGodNamePossessive = pajelanca_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_THEY
+				HealthGodHerHis = CHARACTER_HERHIS_THEIR
+				HealthGodHerHim = CHARACTER_HERHIM_THEM
+				
+				#FertilityGod
+				FertilityGodName = pajelanca_fertility_god_name
+				FertilityGodNamePossessive = pajelanca_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#WealthGod
+				WealthGodName = pajelanca_wealth_god_name
+				WealthGodNamePossessive = pajelanca_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_THEY
+				WealthGodHerHis = CHARACTER_HERHIS_THEIR
+				WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+				#HouseholdGod
+				HouseholdGodName = pajelanca_household_god_name
+				HouseholdGodNamePossessive = pajelanca_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = pajelanca_fate_god_name
+				FateGodNamePossessive = pajelanca_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_THEY
+				FateGodHerHis = CHARACTER_HERHIS_THEIR
+				FateGodHerHim = CHARACTER_HERHIM_THEM
+
+				#KnowledgeGod
+				KnowledgeGodName = pajelanca_knowledge_god_name
+				KnowledgeGodNamePossessive = pajelanca_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = pajelanca_war_god_name
+				WarGodNamePossessive = pajelanca_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_THEY
+				WarGodHerHis = CHARACTER_HERHIS_THEIR
+				WarGodHerHim = CHARACTER_HERHIM_THEM
+
+				#TricksterGod
+				TricksterGodName = pajelanca_trickster_god_name
+				TricksterGodNamePossessive = pajelanca_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_THEY
+				TricksterGodHerHis = CHARACTER_HERHIS_THEIR
+				TricksterGodHerHim = CHARACTER_HERHIM_THEM
+
+				#NightGod
+				NightGodName = pajelanca_night_god_name
+				NightGodNamePossessive = pajelanca_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_THEY
+				NightGodHerHis = CHARACTER_HERHIS_THEIR
+				NightGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WaterGod
+				WaterGodName = pajelanca_water_god_name
+				WaterGodNamePossessive = pajelanca_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_THEY
+				WaterGodHerHis = CHARACTER_HERHIS_THEIR
+				WaterGodHerHim = CHARACTER_HERHIM_THEM
+				
+				DevilName = pajelanca_devil_name
+				DevilNamePossessive = pajelanca_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_THEY
+				DevilHerHis = CHARACTER_HERHIS_THEIR
+				DevilHerselfHimself = CHARACTER_THEM
+
+				DeathDeityName = pajelanca_death_deity_name
+				DeathDeityNamePossessive = pajelanca_death_deity_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
+				
+				WitchGodName = pajelanca_witchgod
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = mother
+				
+				PantheonTerm = pajelanca_pantheon_name
+				DevoteeMale = pajelanca_devotee_male
+				DevoteeMalePlural = pajelanca_devotee_male_plural
+				DevoteeFemale = pajelanca_devotee_female
+				DevoteeFemalePlural = pajelanca_devotee_female_plural
+				DevoteeNeuter = pajelanca_devotee_male
+				DevoteeNeuterPlural = pajelanca_devotee_male_plural
+				PriestMale = pajelanca_priest
+				PriestMalePlural = pajelanca_priest_plural
+				PriestFemale = pajelanca_priest_female
+				PriestFemalePlural = pajelanca_priest_female_plural
+				PriestNeuter = pajelanca_priest
+				PriestNeuterPlural = pajelanca_priest_plural
+				BishopMale = pajelanca_bishop
+				BishopMalePlural = pajelanca_bishop_plural
+				BishopFemale = pajelanca_bishop_female
+				BishopFemalePlural = pajelanca_bishop_female_plural
+				BishopNeuter = pajelanca_bishop_male
+				BishopNeuterPlural = pajelanca_bishop_male_plural
+				DivineRealm = pajelanca_divine_realm
+				PositiveAfterLife = pajelanca_positive_afterlife
+				NegativeAfterLife = pajelanca_negative_afterlife
+				
+			}
+		
+		}
+			
+		awe_tore = {
+			color = { 87 37 27 }
+			icon = awetore
+			#reformed_icon = awetore_reformed
+
+			
+			holy_site = aracruz
+			holy_site = salvador
+			holy_site = januaria
+			holy_site = porto_seguro
+	
+			#doctrine = tenet_faith_healing
+			doctrine = tenet_adorcism
+			doctrine = tenet_great_hunt
+			doctrine = tenet_pastoral_isolation
+			
+			#doctrine = unreformed_faith_doctrine
+			
+			#Main Group
+			doctrine = doctrine_no_head
+			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_theocracy_temporal
+			
+			#Marriage
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_disallowed
+			doctrine = doctrine_bastardry_none
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_ao_adoption_target_child
+
+			#Crimes
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_witchcraft_virtuous
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_male_only
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			
+			localization = {
+				
+				#HighGodName
+				HighGodName = awe_tore_high_god_name
+				HighGodNamePossessive = awe_tore_high_god_name_possessive
+				HighGodNameAlternate = awe_tore_high_god_alternate
+				HighGodNameAlternatePossessive = awe_tore_high_god_alternate_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+
+				#Creator
+				CreatorName = awe_tore_creator_god_name
+				CreatorNamePossessive = awe_tore_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_SHE
+				CreatorHerHis = CHARACTER_HERHIS_HER
+				CreatorHerHim = CHARACTER_HERHIM_HER
+
+				#HealthGod
+				HealthGodName = awe_tore_health_god_name
+				HealthGodNamePossessive = awe_tore_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = awe_tore_fertility_god_name
+				FertilityGodNamePossessive = awe_tore_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#WealthGod
+				WealthGodName = awe_tore_wealth_god_name
+				WealthGodNamePossessive = awe_tore_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = awe_tore_household_god_name
+				HouseholdGodNamePossessive = awe_tore_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = awe_tore_fate_god_name
+				FateGodNamePossessive = awe_tore_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = awe_tore_knowledge_god_name
+				KnowledgeGodNamePossessive = awe_tore_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = awe_tore_war_god_name
+				WarGodNamePossessive = awe_tore_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = awe_tore_trickster_god_name
+				TricksterGodNamePossessive = awe_tore_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_SHE
+				TricksterGodHerHis = CHARACTER_HERHIS_HER
+				TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = awe_tore_night_god_name
+				NightGodNamePossessive = awe_tore_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = awe_tore_water_god_name
+				WaterGodNamePossessive = awe_tore_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+				
+				PantheonTerm = religion_pantheon_encantados
+				PantheonTermHasHave = pantheon_term_have
+				
+				HouseOfWorship = awe_tore_house_of_worship
+				HouseOfWorshipPlural = awe_tore_house_of_worship_plural
+				DevoteeMale = awe_tore_devotee_male
+				DevoteeMalePlural = awe_tore_devotee_male_plural
+				DevoteeFemale = awe_tore_devotee_female
+				DevoteeFemalePlural = awe_tore_devotee_female_plural
+				DevoteeNeuter = awe_tore_devotee_male
+				DevoteeNeuterPlural = awe_tore_devotee_male_plural
+				BishopMale = awe_tore_bishop
+				BishopMalePlural = awe_tore_bishop_plural
+				BishopFemale = awe_tore_bishop_female
+				BishopFemalePlural = awe_tore_bishop_female_plural
+				BishopNeuter = awe_tore_bishop
+				BishopNeuterPlural = awe_tore_bishop_plural
+				DivineRealm = awe_tore_divine_realm
+				
+			}
+		}		
+	}
+}

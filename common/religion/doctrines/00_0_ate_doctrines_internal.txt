@@ -1,0 +1,526 @@
+﻿doctrine_masonic_tolerance = {
+	group = "special"
+	is_available_on_create = {
+		OR = {
+			has_doctrine = special_doctrine_masonic_origins
+		}
+	}
+
+	special_doctrine_masonic_origins = {
+		parameters = {
+			hostility_override_special_doctrine_masonic_origins = 1
+			hostility_override_special_doctrine_secrets_of_the_occult = 1
+		}
+		
+		traits = {
+			virtues = {
+				architect
+			}
+		}
+	}
+}
+
+doctrine_wisdom_of_the_hinterlands = {
+	group = "main_group"
+	is_available_on_create = { has_doctrine = special_doctrine_wisdom_of_the_hinterlands }
+
+	special_doctrine_wisdom_of_the_hinterlands = {
+	
+		is_shown = { has_doctrine = special_doctrine_wisdom_of_the_hinterlands }
+		parameters = {
+			hostility_override_special_doctrine_wisdom_of_the_hinterlands = 1
+		}
+	}
+}
+
+doctrine_astronomer_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = astronomer_religion
+	}
+	
+	special_doctrine_atheistic_cosmology = {
+	
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = special_doctrine_atheistic_cosmology }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_atheistic_variation = 0
+			hostility_override_special_doctrine_atheistic_cosmology = 0
+			hostility_override_anachronous_hostility_doctrine = 2
+			hostility_override_digital_hostility_doctrine = 2
+		}
+		character_modifier = {
+			tolerance_advantage_mod = 2
+		}
+	}
+	
+	special_doctrine_spiritualistic_cosmology = {
+	
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = special_doctrine_spiritualistic_cosmology }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_spiritualistic_variation = 0
+			hostility_override_special_doctrine_spiritualistic_cosmology = 0
+			hostility_override_special_doctrine_natural_order = 1
+			hostility_override_harmonic_hostility_doctrine = 1
+		}
+	}
+}
+
+doctrine_exovedate_internal_tolerance = {
+	group = "main_group"
+
+	is_available_on_create = {
+		OR = {
+			has_doctrine = special_doctrine_exovedate_chosen_flock
+			has_doctrine = special_doctrine_exovedate_beyond_riel
+		}
+	}
+
+	special_doctrine_exovedate_chosen_flock = {
+		can_pick = {
+			custom_description = {
+				text = doctrine_requires_theocratic_head_of_faith_trigger
+				OR = {
+					doctrine:doctrine_spiritual_head = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_is_jewish_faith = 2
+			hostility_override_special_doctrine_is_mormon_faith = 2
+			hostility_override_special_doctrine_native_american_church = 2
+			hostility_override_special_doctrine_exovedate_beyond_riel = 2
+			hostility_override_special_doctrine_heirs_to_the_vatican = 3
+
+			loc_parameter_chosen_flock_evil = 3
+			follows_exovedate = yes
+		}
+	}
+
+	special_doctrine_exovedate_beyond_riel = {
+		
+		parameters = {
+			hostility_override_special_doctrine_exovedate_chosen_flock = 2
+		}
+
+		character_modifier = {
+			same_culture_opinion = 10
+		}
+		
+	}
+}
+
+doctrine_maya_internal_tolerance = {
+	group = "main_group"
+
+	# Maya Internal Tolerance accounts for the unique situation of faiths from multiple religions recognizing the Nohoch Tata, as well as improving relations in the region more generally
+	# Maya Harmony is present on: Qabantajik, Votanzapatista, Cruzo'ob
+	# Maya Heritage is present on: Tihi'ikoran, Lamanite
+	# Maya Modernism is present on: Neomayan
+	# Maya Madness is present on: Balam Votan, Hach Kanik (with special localization to "Authentic Maya")
+
+	is_available_on_create = {
+		# Only accessible to faiths which already have one of the doctrines. If expanded on, include any added doctrines in this section
+		OR = {
+			has_doctrine = special_doctrine_maya_harmony
+			has_doctrine = special_doctrine_maya_heritage
+			has_doctrine = special_doctrine_maya_modernism
+			has_doctrine = special_doctrine_maya_madness
+		}
+	}
+
+	special_doctrine_maya_harmony = {
+		# The Nohoch Tata doctrine. Requires Spiritual Head to function properly
+		# Sets your HoF to be the Nohoch Tata
+		# Sees itself and Heritage as Astray, Modernism as Hostile
+		is_shown = {
+			always = yes
+		}
+		can_pick = {
+			custom_description = {
+				text = doctrine_requires_theocratic_head_of_faith_trigger
+				OR = {
+					doctrine:doctrine_spiritual_head = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			follows_nohoch_tata = yes
+			hostility_override_special_doctrine_maya_harmony = 1
+			hostility_override_special_doctrine_maya_heritage = 1
+			hostility_override_special_doctrine_maya_modernism = 2
+		}
+	}
+
+	special_doctrine_maya_heritage = {
+		# the derivative doctrine. Intended for "accepted" faiths in the region that don't fall under the Nohoch Tata's influence
+		# Same parameters as Harmony
+		parameters = {
+			hostility_override_special_doctrine_maya_harmony = 1
+			hostility_override_special_doctrine_maya_heritage = 1
+			hostility_override_special_doctrine_maya_modernism = 2
+		}
+	}
+
+	special_doctrine_maya_modernism = {
+		# the Mayanist doctrine. Intended for that movement
+		# Sees itself as Astray
+		# Sees Harmony and Heritage as Hostile
+		parameters = {
+			hostility_override_special_doctrine_maya_modernism = 1
+			hostility_override_special_doctrine_maya_harmony = 2
+			hostility_override_special_doctrine_maya_heritage = 2
+		}
+	}
+
+	special_doctrine_maya_madness = {
+		# the "opt-out" doctrine. Has Jungle-specific combat boosts to differentiate it from Apostate
+		name = {
+			first_valid = {
+				triggered_desc = { # for Hach Kanik
+					trigger = {
+						religion_tag = mesoamerican_religion
+					}
+					desc = special_doctrine_authentic_maya_name
+				}
+				desc = special_doctrine_maya_madness_name
+			}
+		}
+
+		desc = {
+			first_valid = {
+				triggered_desc = { # for Hach Kanik
+					trigger = {
+						religion_tag = mesoamerican_religion
+					}
+					desc = special_doctrine_authentic_maya_desc
+				}
+				desc = special_doctrine_maya_madness_desc
+			}
+		}
+
+		character_modifier = {
+			jungle_advantage = 5
+			jungle_attrition_mult = -0.2
+		}
+	}
+}
+
+doctrine_californian_internal_tolerance = { 
+	group = "main_group"
+
+	# Still WIP. Will likely be changed to be part of a unified Californian hostility set as Kadmonic, Abbasiyya, and the Naturalists are subsumed
+	# Note that these doctrines DO NOT care about themselves. That duty is instead shunted to the main Christianic set. In other words, hostility between two Render Unto Caesar faiths is determined by the Christianic Set, not this one
+	# Render Unto Caesar is present on: Jesus Freak
+	# Get Behind Me is present on: Navegante, Hermandad
+
+	is_available_on_create = {
+		# Only accessible to faiths which already have one of the doctrines. If expanded on, include any added doctrines in this section
+		OR = {
+			has_doctrine = special_doctrine_render_unto_caesar
+			has_doctrine = special_doctrine_get_behind_me
+		}
+	}
+	special_doctrine_render_unto_caesar = {
+		# the pro-California doctrine.
+		# Sees Manyfold Path as Astray
+		# Sees Get Behind Me as Hostile
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 1
+			hostility_override_special_doctrine_get_behind_me = 2
+		}
+	}
+
+	special_doctrine_get_behind_me = {
+		# the anti-California doctrine.
+		# Sees Render Unto Caesar as Hostile
+		# Sees Manyfold Path as Evil. This is redundant for Christians (since they'd default to them being Evil anyways), it's just there for symmetry and communication
+		parameters = {
+			hostility_override_special_doctrine_render_unto_caesar = 2
+			hostility_override_special_doctrine_manyfold_path = 3
+		}
+	}
+}
+
+doctrine_evangelical_internal_tolerance = { 
+	group = "main_group"
+
+	# The Evangelical internal tolerance doctrines account for the Calvert Appeal. The names should be self-evident
+	# Convention Communion is present on: Evangelical
+	# Calvert Camp is present on: River Baptist, Redemptionist
+
+	is_available_on_create = {
+		# Only accessible to faiths which already have one of the doctrines. If expanded on, include any added doctrines in this section
+		OR = {
+			has_doctrine = special_doctrine_convention_communion
+			has_doctrine = special_doctrine_calvert_camp
+		}
+	}
+	special_doctrine_convention_communion = {
+		can_pick = {
+			custom_description = {
+				text = doctrine_requires_theocratic_head_of_faith_trigger
+				OR = {
+					doctrine:doctrine_spiritual_head = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			follows_council_presidency = yes
+			hostility_override_special_doctrine_convention_communion = 1
+			hostility_override_special_doctrine_calvert_camp = 2
+		}
+	}
+
+	special_doctrine_calvert_camp = {
+		parameters = {
+			hostility_override_special_doctrine_calvert_camp = 1
+			hostility_override_special_doctrine_convention_communion = 2
+		}
+	}
+}
+
+doctrine_peace_church_internal_tolerance = {
+	group = "main_group"
+
+	# Still under construction pending changes to Peace Church
+
+	is_available_on_create = {
+		OR = {
+			has_doctrine = special_doctrine_peace_church
+			has_doctrine = special_doctrine_radical_reform
+		}
+	}
+
+	special_doctrine_peace_church = {
+		can_pick = {
+			custom_description = {
+				text = doctrine_requires_pacifism_trigger
+				OR = {
+					doctrine:tenet_pacifism = { is_in_list = selected_doctrines }
+					doctrine:tenet_dharmic_pacifism = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_peace_church = 0
+			hostility_override_special_doctrine_radical_reform = 2
+		}
+
+	}
+
+	special_doctrine_radical_reform = {
+		parameters = {
+			loc_parameter_radical_reform = 2
+		}
+	}
+}
+
+doctrine_digital_internal_tolerance = { 
+	group = "main_group"
+	is_available_on_create = {
+		OR = {
+			has_doctrine = special_doctrine_silicon_covens
+			has_doctrine = special_doctrine_glitch_in_the_matrix
+		}
+	}
+	
+	special_doctrine_silicon_covens = {
+		parameters = {
+			hostility_override_special_doctrine_silicon_covens = 0
+			hostility_override_special_doctrine_manyfold_path = 1
+			silicon_covens_opinion_active = yes
+			opinion_of_glitch_in_the_matrix_opinion_active = -15
+		}
+	}
+
+	special_doctrine_glitch_in_the_matrix = {
+		parameters = {
+			hostility_override_special_doctrine_glitch_in_the_matrix = 0
+			glitch_in_the_matrix_opinion_active = yes
+			opinion_of_silicon_covens_opinion_active = -15
+		}
+	}
+}
+
+doctrine_americanist_internal_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = americanist_religion
+	}
+	
+	special_doctrine_freedom_of_speech = {
+		can_pick = {
+			custom_description = {
+				text = require_doctrine_temporal_head_trigger
+				doctrine:doctrine_temporal_head = { is_in_list = selected_doctrines }
+			}
+		}
+		
+		parameters = {
+			follows_americanist_presidency = yes
+			same_hof_hostility_override = 0
+			hostility_override_special_doctrine_freedom_of_speech = 0
+			hostility_override_special_doctrine_hail_to_the_chief = 0
+			hostility_override_special_doctrine_freedom_of_religion = 1
+			hostility_override_special_doctrine_one_nation_indivisible = 1
+			loc_parameter_one_nation_indivisible_hostility = 1
+			hostility_override_americanist_override_doctrine = 1
+			hostility_override_special_doctrine_entrepreneurial_spirit = 1
+			hostility_override_special_doctrine_sister_republics = 1
+			hostility_override_special_doctrine_political_machine = 1
+			hostility_override_special_doctrine_national_reserve = 1
+			opinion_of_one_nation_indivisible_opinion_active = -30
+		}
+	}
+	special_doctrine_executive_overreach = {
+		character_modifier = {
+			advantage_against_coreligionists = 2
+			attacker_advantage = 2
+		}
+		parameters = {
+			executive_overreach_opinion_active = yes
+			opinion_of_executive_overreach_opinion_active = 15
+			opinion_of_entrepreneurial_spirit_opinion_active = 15
+			opinion_of_black_gold_opinion_active = 15
+			opinion_of_industry_trust_opinion_active = 15
+			loc_parameter_executive_overreach_opinions = yes
+		}
+	}
+}
+
+doctrine_capitalist_internal_tolerance = {
+	group = "main_group"
+
+	is_available_on_create = {
+		religion_tag = capitalist_religion
+	}
+
+	special_doctrine_products_of_the_prophet = {
+		can_pick = {
+			custom_description = {
+				text = require_doctrine_temporal_head_trigger
+				doctrine:doctrine_temporal_head = { is_in_list = selected_doctrines }
+			}
+		}
+
+		traits = {
+			virtues = {
+				generous
+				improvident
+			}
+			sins = {
+				greedy
+			}
+		}
+		
+		parameters = {
+			follows_ceo = yes
+			same_hof_hostility_override = 0
+			hostility_override_special_doctrine_free_enterprise = 1
+			hostility_override_special_doctrine_hostile_takeover = 3
+		}
+	}
+
+	special_doctrine_free_enterprise = {
+		traits = {
+			virtues = {
+				generous
+				improvident
+			}
+			sins = {
+				greedy
+			}
+		}
+		
+		parameters = {
+			hostility_override_special_doctrine_products_of_the_prophet = 1
+			hostility_override_special_doctrine_hostile_takeover = 3
+			free_enterprise_opinion_active = yes
+			opinion_of_free_enterprise_opinion_active = 15
+		}
+	}
+
+	special_doctrine_market_competition = {
+		traits = {
+			virtues = {
+				greedy
+			}
+		}
+
+		character_modifier = {
+			advantage_against_coreligionists = 2
+			attacker_advantage = 2
+		}
+		
+		parameters = {
+			market_competition_opinion_active = yes
+			opinion_of_hostile_takeover_opinion_active = 15
+			loc_parameter_market_competition_opinions = yes
+		}
+	}
+
+	special_doctrine_hostile_takeover = {
+		traits = {
+			virtues = {
+				greedy
+			}
+			sins = {
+				generous
+				improvident
+			}
+		}
+		
+		parameters = {
+			hostility_override_special_doctrine_products_of_the_prophet = 3
+			hostility_override_special_doctrine_free_enterprise = 3
+			hostile_takeover_opinion_active = yes
+			opinion_of_market_competition_opinion_active = 15
+			opinion_of_hostile_takeover_opinion_active = 15
+			loc_parameter_hostile_takeover_opinions = yes
+		}
+	}
+
+}
+
+inca_tolerance = {
+	group = "main_group"
+	
+	is_available_on_create = {
+		religion_tag = andean_religion
+	}
+	
+	special_doctrine_earth_mother = {
+		is_shown = {
+			has_doctrine = special_doctrine_earth_mother
+		}
+		
+		parameters = {
+			hostility_override_special_doctrine_earth_mother = 1
+			hostility_override_special_doctrine_naked_priests = 1
+		}
+	}
+
+	# Inca Faith
+	special_doctrine_crown_of_the_andes = {
+		is_shown = {
+			has_doctrine = special_doctrine_crown_of_the_andes
+		}
+		
+		parameters = {
+			same_hof_hostility_override = 1
+			can_form_ayllu = yes
+		}
+	}
+}

@@ -1,0 +1,293 @@
+﻿astronomer_syncretism_variation = {
+	group = "special"
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. As part of the faith creation on_action, Astronomer Syncretic faiths get an event where they can select one of these doctrines
+		always = no
+	}
+
+	special_doctrine_atheistic_variation = {
+		parameters = {
+			hostility_override_special_doctrine_atheistic_variation = 0
+			hostility_override_special_doctrine_atheistic_cosmology = 0
+			astronomer_syncretism_doctrines_alert = yes
+		}
+	}
+
+	special_doctrine_spiritualistic_variation = {
+		parameters = {
+			hostility_override_special_doctrine_spiritualistic_variation = 0
+			hostility_override_special_doctrine_spiritualistic_cosmology = 0
+			astronomer_syncretism_doctrines_alert = yes
+		}
+	}
+}
+
+trailwalker_syncretism_override_doctrine = {
+	group = "not_creatable"
+
+	is_available_on_create = {
+		always = no
+	}
+
+	trailwalker_override_doctrine = {
+		parameters = {
+			hostility_override_doctrine_trailwalker_everwest = 0
+		}
+	}
+}
+
+enemies_of_god_override_doctrine = {
+	group = "not_creatable"
+
+	is_available_on_create = {
+		always = no
+	}
+
+	enemies_of_god_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 0
+
+			hostility_override_tenet_christian_syncretism = 3
+			hostility_override_tenet_islamic_syncretism = 3
+			hostility_override_tenet_jewish_syncretism = 3
+
+			hostility_override_tenet_rastafari_syncretism = 3
+			hostility_override_tenet_catholic_syncretism = 3
+			hostility_override_tenet_protestant_syncretism = 3
+			hostility_override_tenet_mormon_syncretism = 3
+			hostility_override_tenet_eastern_christian_syncretism = 3
+			hostility_override_tenet_reawakened_syncretism = 3
+			hostility_override_tenet_divina_patriota_syncretism = 3
+			hostility_override_tenet_veteranic_syncretism = 3
+		}
+	}
+}
+
+syncretism_override_doctrine = {
+	group = "not_creatable"
+
+	# These doctrines exist to allow Astray syncretisms to function correctly.
+	# If adding a faith which will exist on game start, or adding an associated syncretism tenet through a game action, you MUST add the appropriate doctrine alongside the syncretic tenet. It will not function correctly otherwise
+	# These only need to be done for Astray syncretisms. Tenets are generally considered to be on the "hostile/evil" level, while special doctrines are on the "astray/hostile" level.
+
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. The faith creation on_action applies the appropriate doctrine if the created faith has the associated syncretism tenet
+		always = no
+	}
+
+	harmonic_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_is_harmonic_faith = 1
+		}
+	}
+
+	afro_diasporic_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_is_afro_diasporic_faith = 1
+			hostility_override_special_doctrine_spirit_nations = 1
+			hostility_override_special_doctrine_magical_masters = 1
+			hostility_override_special_doctrine_houses_of_saints = 1
+			hostility_override_special_doctrine_spirit_medium = 1
+		}
+	}
+
+	rastafari_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_rastafari_faith = 1
+			hostility_override_special_doctrine_lion_of_zion = 1
+			hostility_override_special_doctrine_children_of_jah = 1
+			hostility_override_special_doctrine_root_of_david = 1
+		}
+	}
+
+	catholic_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_catholic_faith = 1
+			hostility_override_special_doctrine_eastern_catholic = 1
+			hostility_override_special_doctrine_stewards_of_the_church = 1
+			hostility_override_special_doctrine_memory_of_rome = 1
+			hostility_override_special_doctrine_heirs_to_the_vatican = 1
+			hostility_override_special_doctrine_independent_church = 1
+			hostility_override_special_doctrine_canon_of_saints = 1
+		}
+	}
+
+	protestant_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_protestant_faith = 1
+			hostility_override_special_doctrine_spiritual_christianity = 1
+			hostility_override_special_doctrine_mainstream_protestant = 1
+			hostility_override_special_doctrine_low_church = 1
+			hostility_override_special_doctrine_charismata = 1
+			hostility_override_special_doctrine_old_covenant = 1
+		}
+	}
+
+	mormon_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_mormon_faith = 1
+			hostility_override_special_doctrine_latter_day_saints = 1
+			hostility_override_special_doctrine_original_church = 1
+			hostility_override_special_doctrine_mormon_fundamentalism = 1
+		}
+	}
+
+	eastern_christian_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_eastern_christian_faith = 1
+			hostility_override_special_doctrine_eastern_rite = 1
+			hostility_override_special_doctrine_non_chalcedonian = 1
+			hostility_override_special_doctrine_autocephalous_church = 1
+			hostility_override_special_doctrine_theoria_and_theosis = 1
+			hostility_override_special_doctrine_eastern_catholic = 1
+			hostility_override_special_doctrine_spiritual_christianity = 1
+		}
+	}
+
+	reawakened_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_reawakened_faith = 1
+			hostility_override_special_doctrine_new_dispensation = 1
+			hostility_override_special_doctrine_millennial_age = 1
+			hostility_override_special_doctrine_perfect_spirit = 1
+		}
+	}
+
+	divina_patriota_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_divina_patriota_faith = 1
+			hostility_override_special_doctrine_libertadores = 1
+			hostility_override_special_doctrine_revolucionarios = 1
+			hostility_override_special_doctrine_liberacion_de_la_patria = 1
+		}
+	}
+
+	veteranic_override_doctrine = {
+		parameters = {
+			hostility_override_special_doctrine_enemies_of_god = 3
+			hostility_override_special_doctrine_is_veteranic_faith = 1
+			hostility_override_special_doctrine_lest_we_forget = 1
+			hostility_override_special_doctrine_in_flanders_field = 1
+			hostility_override_special_doctrine_live_and_let_live = 1
+			hostility_override_special_doctrine_legion_of_believers = 1
+		}
+	}
+
+	americanist_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_americanist_faith = 1
+			hostility_override_special_doctrine_freedom_of_speech = 1
+			hostility_override_special_doctrine_sic_semper_tyrannis = 1
+		}
+	}
+
+	industrialist_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_industrialist_faith = 1
+		}
+	}
+
+	capitalist_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_capitalist_faith = 1
+		}
+	}
+
+	idiosyncratic_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_idiosyncratic_faith = 1
+		}
+	}
+
+	modernist_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_modernist_faith = 1
+		}
+	}
+
+	britannic_override_doctrine = { # Only given to Anachronists
+		parameters = {
+			hostility_override_special_doctrine_is_britannic_faith = 1
+		}
+	}
+
+	# Something for platineans... eventually
+}
+
+americanist_syncretism_variation = {
+	group = "special"
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. As part of the faith creation on_action, Americanist Syncretic faiths get an event where they can select one of these doctrines
+		always = no
+	}
+
+	special_doctrine_hail_to_the_chief = {
+		# Remember, in order to select this doctrine you need to have Temporal HoF!
+
+		parameters = {
+			hostility_override_special_doctrine_freedom_of_speech = 0
+			hostility_override_special_doctrine_hail_to_the_chief = 0
+			follows_americanist_presidency_but_cant_run = yes # Doesn't actually do anything, just communicates the effect of the post-creation event
+			americanist_syncretism_doctrines_alert = yes
+		}
+	}
+
+	special_doctrine_freedom_of_religion = {
+		parameters = {
+			hostility_override_special_doctrine_freedom_of_speech = 1
+			americanist_syncretism_doctrines_alert = yes
+		}
+	}
+
+	special_doctrine_americana = {
+		parameters = {
+			loc_parameter_americana_explanation = yes
+			americanist_syncretism_doctrines_alert = yes
+		}
+	}
+}
+
+capitalist_syncretism_variation = {
+	group = "special"
+	is_available_on_create = {
+		# These doctrines 'fall off' in faith creation. As part of the faith creation on_action, Capitalist Syncretic faiths get an event where they can select one of these doctrines
+		always = no
+	}
+
+	special_doctrine_the_rising_tide = {
+		traits = {
+			virtues = { generous }
+			sins = { greedy }
+		}
+		parameters = {
+			capitalist_syncretism_doctrines_alert = yes
+		}
+	}
+
+	special_doctrine_greed_is_good = {
+		traits = {
+			virtues = { greedy }
+			sins = { generous }
+		}
+		parameters = {
+			capitalist_syncretism_doctrines_alert = yes
+		}
+	}
+
+	special_doctrine_market_rate = {
+		traits = {
+			virtues = { ambitious }
+			sins = { content }
+		}
+		parameters = {
+			capitalist_syncretism_doctrines_alert = yes
+		}
+	}
+}

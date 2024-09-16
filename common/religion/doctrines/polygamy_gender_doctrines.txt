@@ -1,0 +1,32 @@
+﻿doctrine_polygamy_type = { # Called "Head of House" Doctrines in-game
+	group = "marriage"
+	is_available_on_create = { # No faith actually uses these, so to avoid removing them whilst keeping them from cluttering when they don't do much (yet), they only appear if they're being used- AOD
+		OR = {
+			has_doctrine = doctrine_polygamy_equal
+			has_doctrine = doctrine_polygamy_male
+			has_doctrine = doctrine_polygamy_female
+		}
+	}
+	
+	doctrine_polygamy_equal = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+	}
+	doctrine_polygamy_male = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+		can_pick = {
+			NOT = { doctrine:doctrine_gender_female_dominated = { is_in_list = selected_doctrines } }
+		}
+	}
+	doctrine_polygamy_female = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+		can_pick = {
+			NOT = { doctrine:doctrine_gender_male_dominated = { is_in_list = selected_doctrines } }
+		}
+	}
+}

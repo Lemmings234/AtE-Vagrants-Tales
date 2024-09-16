@@ -1,0 +1,38 @@
+﻿# This needs to be here so that the hostility sets, which are here to convey the unique hostility of afro-syncretic hostility doctrine, do not override any changes in the universal set
+is_afro_diasporic_faith = {
+	group = "special"
+	
+	is_available_on_create = {
+		has_doctrine = special_doctrine_is_afro_diasporic_faith
+	}
+
+	special_doctrine_is_afro_diasporic_faith = {
+		parameters = {
+			hostility_same_religion = 1
+			hostility_same_family = 2
+			hostility_others = 2
+			# In order to avoid potential overrides, this is a localized parameter. The actual syncretism is done by an invisible doctrine in 00_2_ate_doctrines_astray_is_abrahamics
+			loc_parameter_hostility_override_tenet_afro_diasporic_syncretism = 1
+		}
+	}
+}
+
+# Same reason as above. This one is probably going to need to be altered later down the line once Trailwalker gets doctrines, simply because having the syncretism be Righteous kind of fucks with the setup.
+trailwalker_ways = {
+	group = "special" # "not_creatable"
+	
+	is_available_on_create = {
+		has_doctrine = doctrine_trailwalker_everwest
+	}
+	
+	doctrine_trailwalker_everwest = {
+		parameters = {
+			hostility_same_religion = 0
+			hostility_same_family = 2
+			hostility_others = 2
+			hostility_override_tenet_trailwalker_syncretism = 0
+			trailwalker_syncretic_recipient_opinion_active = yes
+			opinion_of_trailwalker_syncretic_actor_opinion_active = 30 #Sync this to syncretic_mutual_opinion_bonus_value
+		}
+	}
+}

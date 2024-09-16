@@ -1,0 +1,402 @@
+﻿zoroastrianism_religion = {
+	family = rf_harmonic
+    graphical_faith = zoroastrianism_religion_gfx
+	graphical_faith = "zoroastrian_gfx"
+	piety_icon_group = "zoroastrian"
+	doctrine = harmonic_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_pilgrimage_encouraged
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_restricted
+	doctrine = doctrine_ao_adoption_prevalence_common # remember to update me!
+	doctrine = doctrine_ao_adoption_type_noble
+	doctrine = doctrine_ao_adoption_target_adult
+
+	#Crimes
+	doctrine = doctrine_homosexuality_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_extended_family_crime
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	doctrine = doctrine_building_temple_fire
+	doctrine = doctrine_funeral_sky_burial
+	
+	# Syncretism
+	doctrine = special_doctrine_is_harmonic_faith
+	
+	traits = {
+		virtues = { diligent honest compassionate }
+		sins = { lazy deceitful sadistic }
+	}
+
+	custom_faith_icons = {
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+    }
+
+	holy_order_names = {
+		{ name = "holy_order_immortals" }
+		{ name = "holy_order_ahura_mazdas_champions" }
+		{ name = "holy_order_fire_walkers" }
+	}
+
+	holy_order_maa = { warrior_monk_holy_order }
+
+	localization = {
+		HighGodName = zoroastrian_high_god_name
+		HighGodNamePossessive = zoroastrian_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = zoroastrian_high_god_name_alternate
+		HighGodNameAlternatePossessive = zoroastrian_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = zoroastrian_creator_god_name
+		CreatorNamePossessive = zoroastrian_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = zoroastrian_health_god_name
+		HealthGodNamePossessive = zoroastrian_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = zoroastrian_fertility_god_name
+		FertilityGodNamePossessive = zoroastrian_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = zoroastrian_wealth_god_name
+		WealthGodNamePossessive = zoroastrian_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = zoroastrian_household_god_name
+		HouseholdGodNamePossessive = zoroastrian_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = zoroastrian_fate_god_name
+		FateGodNamePossessive = zoroastrian_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = zoroastrian_knowledge_god_name
+		KnowledgeGodNamePossessive = zoroastrian_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = zoroastrian_war_god_name
+		WarGodNamePossessive = zoroastrian_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = zoroastrian_trickster_god_name
+		TricksterGodNamePossessive = zoroastrian_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = zoroastrian_night_god_name
+		NightGodNamePossessive = zoroastrian_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = zoroastrian_water_god_name
+		WaterGodNamePossessive = zoroastrian_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		GoodGodNames = { 
+			zoroastrian_high_god_name 
+			zoroastrian_high_god_name_alternate 
+			zoroastrian_good_god_seven_aspects_of_asha
+		}
+		PantheonTerm = zoroastrian_pantheon
+		PantheonTermHasHave = pantheon_term_has
+		DevilName = zoroastrian_devil_name
+		DevilNamePossessive = zoroastrian_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = CHARACTER_ITSELF
+		EvilGodNames = {
+			zoroastrian_devil_name
+		}
+
+		HouseOfWorship = zoroastrian_house_of_worship
+		HouseOfWorshipPlural = zoroastrian_house_of_worship_plural
+		ReligiousSymbol = zoroastrian_religious_symbol
+		ReligiousText = zoroastrian_religious_text
+		ReligiousHeadName = zoroastrian_religious_head_title
+		ReligiousHeadTitleName = zoroastrian_religious_head_title_name
+		DevoteeMale = zoroastrian_devotee
+		DevoteeMalePlural = zoroastrian_devotee_plural
+		DevoteeFemale = zoroastrian_devotee
+		DevoteeFemalePlural = zoroastrian_devotee_plural
+		DevoteeNeuter = zoroastrian_devotee
+		DevoteeNeuterPlural = zoroastrian_devotee_plural
+		PriestMale = zoroastrian_priest
+		PriestMalePlural = zoroastrian_priest_plural
+		PriestFemale = zoroastrian_priest
+		PriestFemalePlural = zoroastrian_priest_plural
+		PriestNeuter = zoroastrian_priest
+		PriestNeuterPlural = zoroastrian_priest_plural
+		AltPriestTermPlural = zoroastrian_priest_plural
+		BishopMale = zoroastrian_bishop
+		BishopMalePlural = zoroastrian_bishop_plural
+		BishopFemale = zoroastrian_bishop
+		BishopFemalePlural = zoroastrian_bishop_plural
+		BishopNeuter = zoroastrian_bishop
+		BishopNeuterPlural = zoroastrian_bishop_plural
+		DivineRealm = zoroastrian_divine_realm
+		PositiveAfterLife = zoroastrian_positive_afterlife
+		NegativeAfterLife = zoroastrian_negative_afterlife
+		DeathDeityName = zoroastrian_death_god_name
+		DeathDeityNamePossessive = zoroastrian_death_god_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		DeathDeityHerHim = CHARACTER_HERHIM_IT
+		WitchGodName = zoroastrian_witch_god_name
+		WitchGodHerHis = CHARACTER_HERHIS_ITS
+		WitchGodSheHe = CHARACTER_SHEHE_IT
+		WitchGodHerHim = CHARACTER_HERHIM_IT
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_purification
+		GHWNamePlural = ghw_great_purifications
+	}	
+
+	faiths = {
+		ashavanite = {
+			color = { 245 183 7 }
+			icon = ashavanite
+			
+			holy_site = los_angeles
+			holy_site = sacramento
+			holy_site = san_francisco
+			holy_site = orange
+			holy_site = vancouver
+			
+			doctrine = tenet_reincarnation
+			doctrine = tenet_gnosticism
+			doctrine = tenet_alexandrian_catechism
+
+			doctrine = special_doctrine_manyfold_path
+		}
+
+		mazdayasna_new = {
+			color = { 75 5 150 }
+			icon = mazdayasna_new
+
+			holy_site = manhattan
+			holy_site = pomona # NEW
+			holy_site = philadelphia
+			holy_site = boston
+			holy_site = chicago
+
+			doctrine = harmonic_hostility_exemption
+
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_legalism
+			doctrine = tenet_adaptive
+
+			#Main Group
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_theocracy_temporal
+			doctrine = doctrine_pilgrimage_encouraged
+
+			#Marriage
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			doctrine = doctrine_ao_adoption_prevalence_uncommon
+			doctrine = doctrine_ao_adoption_type_lowborn
+			doctrine = doctrine_ao_adoption_target_child
+	
+			#Crimes
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_witchcraft_crime
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_taxation
+			doctrine = doctrine_clerical_gender_male_only
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+
+			localization = {
+				HighGodNameAlternate = mazdayasna_high_god_name_alternate
+				HighGodNameAlternatePossessive = mazdayasna_high_god_name_alternate_possessive
+
+				#HealthGod
+				HealthGodName = mazdayasna_health_god_name
+				HealthGodNamePossessive = mazdayasna_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+				#FertilityGod
+				FertilityGodName = mazdayasna_fertility_god_name
+				FertilityGodNamePossessive = mazdayasna_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = mazdayasna_wealth_god_name
+				WealthGodNamePossessive = mazdayasna_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = mazdayasna_household_god_name
+				HouseholdGodNamePossessive = mazdayasna_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#FateGod
+				FateGodName = mazdayasna_fate_god_name
+				FateGodNamePossessive = mazdayasna_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_IT
+
+				#KnowledgeGod
+				KnowledgeGodName = mazdayasna_knowledge_god_name
+				KnowledgeGodNamePossessive = mazdayasna_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = mazdayasna_war_god_name
+				WarGodNamePossessive = mazdayasna_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = mazdayasna_trickster_god_name
+				TricksterGodNamePossessive = mazdayasna_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = mazdayasna_night_god_name
+				NightGodNamePossessive = mazdayasna_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = mazdayasna_water_god_name
+				WaterGodNamePossessive = mazdayasna_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+				GoodGodNames = { 
+					zoroastrian_high_god_name 
+					mazdayasna_health_god_name
+					mazdayasna_fertility_god_name
+					mazdayasna_wealth_god_name
+					mazdayasna_household_god_name
+					mazdayasna_fate_god_name
+					mazdayasna_knowledge_god_name
+					mazdayasna_war_god_name
+					mazdayasna_water_god_name
+				}
+				PantheonTerm = mazdayasna_pantheon
+				PantheonTermHasHave = pantheon_term_has
+				DevilName = mazdayasna_devil_name
+				DevilNamePossessive = mazdayasna_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					mazdayasna_devil_name
+					mazdayasna_witch_god_name
+					mazdayasna_evil_god_az
+					mazdayasna_evil_god_astoidat
+					mazdayasna_evil_god_akoman
+				}
+
+				HouseOfWorship = mazdayasna_house_of_worship
+				HouseOfWorshipPlural = mazdayasna_house_of_worship_plural
+
+				ReligiousText = mazdayasna_religious_text
+				ReligiousHeadName = mazdayasna_religious_head_title
+				ReligiousHeadTitleName = mazdayasna_religious_head_title_name
+				DevoteeMale = zoroastrian_priest
+				DevoteeMalePlural = zoroastrian_priest_plural
+				DevoteeFemale = zoroastrian_priest
+				DevoteeFemalePlural = zoroastrian_priest_plural
+				DevoteeNeuter = zoroastrian_priest
+				DevoteeNeuterPlural = zoroastrian_priest_plural
+				DivineRealm = mazdayasna_divine_realm
+				PositiveAfterLife = mazdayasna_positive_afterlife
+				NegativeAfterLife = mazdayasna_negative_afterlife
+				DeathDeityName = mazdayasna_death_god_name
+				DeathDeityNamePossessive = mazdayasna_death_god_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
+				WitchGodName = mazdayasna_witch_god_name
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+			}
+			
+		}
+	}
+}

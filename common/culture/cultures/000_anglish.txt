@@ -9,7 +9,9 @@ anglish = {
 	
 	traditions = {
 		tradition_cosmopolitan_elitism
+		tradition_legalistic
 		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
 	}
 	coa_gfx = {
 		yankee_coa_gfx
