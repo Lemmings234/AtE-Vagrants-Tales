@@ -1,0 +1,411 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+
+ innovation_mobile_guards:0 "Defensive Tactics"
+ innovation_mobile_guards_desc:0 "Our people have been exiled and driven out time and time again. While tragic, these experiences have led us to become exceptionally skilled in rear-guard tactics which minimize casualties."
+
+ dog_sled:0 "Dog Sleds"
+ dog_sled_flavor:0 "#F A pack of good dogs can pull a sleigh on snow with such speed and agility that they absolutely dominate the Arctic battlefields. #!"
+ innovation_dog_sleds:0 "Sled Dog Breeding"
+ innovation_dog_sleds_desc:0 "Traditionally, our people have used sleighs or sleds pulled by dogs to traverse the vast Arctic landscape for centuries, and so we do today."
+ 
+ innovation_arctic_watercraft:0 "Kayaks"
+ innovation_arctic_watercraft_desc:0 "Kayaks, traditionally constructed from stitched seal or other animal skins stretched over a wood or whalebone-skeleton frame, are small, narrow watercrafts, propelled by double-bladed paddles. They are used to hunt on inland lakes, rivers and coastal waters of the Arctic Ocean, North Atlantic, Bering Sea and North Pacific oceans."
+
+ cowhunters:0 "Cowkeepers"
+ cowhunters_flavor:0 "#F The horsemen of the Gulf Coast are fearsome opponents in swamps and bayous, striking terror into the hearts of even the most gallant champion of the flower of southern knighthood. #!"
+ innovation_gulf_swamp_warfare:0 "Scrub Cattle Herding"
+ innovation_gulf_swamp_warfare_desc:0 "The wetlands of the Gulf Coast have hindered invaders since ancient times. The people of Florida and their horses are born and raised in this environment, herding hardy cattle through the treacherous swamps, and have learned to use this tricky terrain to their advantage in combat."
+
+ picket_line:0 "Picket Line"
+ picket_line_flavor:0 "#F Clad head to toe in steel, the sight of these phalanxes with their enclosed helmets, long spears, and colorful hexagonal shields emblazoned with exhortations of power inspires fear throughout the Great Lakes. #!"
+ innovation_enclosed_helmets:0 "Enclosed Helmets"
+ innovation_enclosed_helmets_desc:0 "The distinctive full-face helmets used throughout the Great Lakes descend from those commonly worn by ancient blacksmiths."
+
+ war_buggies:0 "War Buggies"
+ war_buggies_flavor:0 "#F Most days of the year, these horse-drawn buggies are merely tools of agriculture and transportation. However, when the drums of war beat, these vehicles become instruments of war, difficult to dislodge mobile defensive positions that dominate the battlefield. #!"
+ tradition_ordnung_name:0 "Ordnung"
+ tradition_ordnung_desc:0 "This culture lives by an unwritten code of conduct that govern every aspect of life with the aim of maintaining community order, upholding traditional values, and preserving cultural identity."
+
+ swatters:0 "Swatters"
+ swatters_flavor:0 "#F Colloquially known as Swatters, these elite troops are highly skilled soldiers proficient in wielding crossbows with deadly accuracy behind their towering pavise shields, providing both offensive firepower and defensive cover on the battlefield. #!"
+ 
+ huaso_riders:0 "Huaso Riders"
+ huaso_riders_flavor:0 "#F The Huaso Riders are well known to make use of their expert horsemanship skills and intimate knowledge of the terrain to excel as mounted cavalry. #!"
+ innovation_andean_horsemen:0 "Chilean Corralero"
+ innovation_andean_horsemen_desc:0 "The Corralero horse has adapted to the rugged Chilean terrain with its sure-footedness, endurance, and agility, making it well-suited for navigating varied landscapes from mountainous regions to open plains."
+
+ ostensive_patrols:0 "Shock Squadrons"
+ ostensive_patrols_flavor:0 "#F The creation of a shock cavalry police force can bolster the ruler's authority, safeguard urban centers, and ensure swift response to threats, consolidating power and maintaining order amidst the complexities of Brazilian society. #!"
+ innovation_military_police:0 "Shock Patrols"
+ innovation_military_police_desc:0 "These stalwart knights are esteemed for their martial prowess, chivalrous valor, and steadfast vigilance in safeguarding the realm's peace, venturing forth to confront threats and uphold order amidst the bustling urban landscape with unwavering resolve."
+
+ commandos:0 "Commandos"
+ commandos_flavor:0 "As guardians of the Guyanas, the elite Commandos are well-versed in the diverse terrains that characterize the region. Whether traversing the dense jungles of the Amazon basin, navigating the marshy swamplands of the coastal plains, or scaling the rugged mountains that border the interior, they move with agility and purpose, utilizing their knowledge of the land to outmaneuver and outsmart their adversaries. #!"
+
+ colorados:0 "Colorados"
+ colorados_flavor:0 "Trained from a young age in the art of war, the Colorados undergo rigorous instruction in a variety of specialized skills tailored to different terrains. #!"
+
+ granadero:0 "Granaderos"
+ granadero_flavor:0 "#F Clad in heavy armor and wielding formidable weaponry, the Granaderos stand as an elite force charged with maintaining order, quelling disturbances, and enforcing authority with unwavering resolve. #!"
+ innovation_federales:0 "Federales"
+ innovation_federales_desc:0 "Establishing an elite guard to uphold law and order in the realm, has not only increased the safety of our byroads but also permitted the train of elite troops loyal only to the crown."
+
+ dragoon:0 "Dragoons"
+ dragoon_flavor:0 "#F The noble riders of Hudsonia, while famous for their glorious derbies, make the most of their esteemed equestrian abilities as Dragoons. Fielding both lances and crossbows, these horsemen have become masters of hit-and-run tactics. #!"
+ innovation_dragoons:0 "Dragoons"
+ innovation_dragoons_desc:0 "Modeled after the legendary pre-[Concept('the_event_ate','Event')|E] champions of yore, our newly minted Dragoons embody the pinnacle of knighthood, adorned in formidable heavy armor and astride armored steeds, ready to uphold honor and valor on the battlefield."
+ 
+ cossacks:0 "Cossacks"
+ cossacks_flavor:0 "#F Renowned for their mastery in horsemanship, the Cossacks proudly serve the monarchs of the windswept prairies, protecting their herdsmen and ranging their land in return for special privileges for their lineage #!"
+ innovation_cossack_hosts:0 "Cossack Hosts"
+ innovation_cossack_hosts_desc:0 "Constant struggle against horsemen raiders and foreign invaders attempting to settle our lands has resulted in the resurgence of the fabled military society of old - the Cossack Hosts!"
+
+ javalineer:0 "Javalineers"
+ javalineer_flavor:0 "#F These masters of combat within the deep Yucatan rainforest employ the tuláakal, a spear-throwing lever, to propel javelins with increased force and precision, ensuring lethal accuracy even amidst the dense foliage. #!"
+
+ macheteer:0 "Macheteros"
+ macheteer_flavor:0 "Excelling in ambushes and hit-and-run maneuvers, the Macheteros leverage their intimate knowledge of the land to outmaneuver and outwit conventional adversaries. Their expertise with the machete, a ubiquitous tool in the Caribbean, enables them to clear paths, construct fortifications, and engage in close-quarters combat with lethal precision. #!"
+ innovation_tire_machete:0 "Tire Machete"
+ innovation_tire_machete_desc:0 "The sword schools that practice martials arts with machetes are notoriously secretive societies. Yet their skills with the machete make them invaluable fighters. By forming official channels with these societies we can not only hire their warriors, but have them teach others in the ways of the machete."
+
+ lancero:0 "Lanceros"
+ lancero_flavor:0 "#F The Lanceros ride agile and sure-footed horses specially bred and trained for mountainous terrain. These horses possess exceptional strength, endurance, and dexterity, enabling them to negotiate steep slopes and rocky inclines with ease, even in adverse weather conditions."
+ innovation_caballeros_andantes:0 "Caballeros Andantes #!"
+ innovation_caballeros_andantes_desc:0 "Wishing to emulate the mythical heroes of old, many sons and daughters of affluent families have started to arm themselves to venture the Gran Colombian countryside i n search of adventure. By offering our patronage to these “Caballeros Andantes”, we could instil upon them discipline and show them the true values of our ancestors’ struggle."
+
+ weichafe:0 "Weichafe"
+ weichafe_flavor:0 "#F The Weichafe have protected our people with unwavering courage for generations, confronting the encroaching forces of foreign invaders who seek to impose their will upon the land. With a spear in hand and honor in their heart, they stand as a beacon of resistance against the tide of oppression. #!"
+
+ marines:0 "Marines"
+ marines_flavor:0 "#F Marines are part of a class of free landholders, often competent sailors, that use their vessels to to either trade or raid along the rich coast of the Americas. #!"
+ innovation_marines:0 "Marines"
+ innovation_marines_desc:0 "Joining the marines in trading and raiding expeditions is not only practical but also a source of immense pride and identity for our people, who see themselves as rulers of the waves and defenders of our homeland."
+
+ mameluco:0 "Mamelucos"
+ mameluco_flavor:0 "#F Once descendents of indentured servants, the Mamelucos have become a powerful knightly military class whose rigorous martial training has helped ensure the continuous equestrian excellence they have become famous for. #!"
+ innovation_engolo:0 "Engolo"
+ innovation_engolo_desc:0 "Lately, our professional troops have started to incorporate traditional Engolo martial arts in their training, developing them into various unique schools of combat."
+
+ pracinha:0 "Pracinhas"
+ pracinha_flavor:0 "#F "Pracinhas embody a diverse assembly of heavily armored foot soldiers recruited from every corner of Brazil, each representing unique creeds and cultures. This intentional assembly safeguards against partiality or favoritism, fostering only unwavering loyalty to their liege. #!"
+
+ husares:0 "Húsares"
+ husares_flavor:0 "Mounted upon sturdy steeds, the Húsars command th upmost attention with their vibrant attire adorned with howler monkeys tails upon their helmets. With lances raised high and swords agleam, they epitomize the valor and fortitude inherent to our ancient land. #!"
+ innovation_peruvian_paso:0 "Peruvian Paso"
+ innovation_peruvian_paso_desc:0 "Peruvian Pasos are better at traveling and fighting in rough terrain than other breeds of horses. We can train specialized cavalry regiments which take advantage of this."
+
+ derby_riders:0 "Derbymen"
+ derby_riders_flavor:0 "#F Kentucky has been long been renowned for its swift Thoroughbred horses and the skill of thier riders, who gather yearly to pit thier abilities against each other in a harrowing race. The skills honed in these contests gives these fearsome warriors a trained edge in combat. #!"
+ innovation_thoroughbred_horses:0 "Thoroughbred Horses"
+ innovation_thoroughbred_horses_desc:0 "Thoroughbreds are bold, spirited horses, bred for maximum agility and speed." 
+
+ paladin:0 "Paladins"
+ paladin_flavor:0 "#F Clad head to toe, and mane to hoof, in shining armor, Paladins are meant to embody the ideals of chivalry. Fearsome with a lance and deft with a bon-mot to a rival or a compliment to a lady, a paladin is a skilled opponent both in the field and in courtly life.  #!"
+ innovation_paladins:0 "Paladins"
+ innovation_paladins_desc:0 "Paladins are the product of a sophisticated chivalric tradition, as well as the wealth needed to outfit the nobility, and their massive horses, in heavy armor. The weight of a massed Cavalry charge is sure to break even the most disciplined soldiers."
+ 
+ bentwood_warrior:0 "Bentwood Warriors"
+ bentwood_warrior_flavor:0 "#F The fearsome warriors of the Pacific Northwest wade into battle wearing protective armor made of cedar rods woven together with cords of nettle bark. Paired with heavy wooden greaves and helmets, all ornately decorated, this armor is known to protect against arrowheads and even against ancient gunpowder weaponry. #!"
+ innovation_cedar_armor:0 "Cedar Armour"
+ innovation_cedar_armor_desc:0 "The sea people of the Pacific Northwest long ago learned to work the cedar of their native lands. Using steam to make the wood malleable, and working and weaving it into ornately decorated armor is only one of the ways that the craftsmen of the region make use of the wood."
+ 
+ innovation_pacific_northwest_watercraft:0 "Pacific Northwest Canoes"
+ innovation_pacific_northwest_watercraft_desc:0 "Masterfully-designed canoes of many sizes and forms made of primarily red cedar wood, which are well suited for agile transportation of men and goods across the chaotic fiordlands of the Western Coast of North America."
+ 
+ cowboy:0 "Cowboys"
+ cowboy_flavor:0 "#F The skills involved in wrangling cattle translate well towards the freeflowing freewheeling combat common to the various scrublands and plains of the Americas. #!"
+ innovation_cowboys:0 "Cowboys"
+ innovation_cowboys_desc:0 "Throughout the Americas, ranchers and rangers have use thier horses to control large herds of cows. Long days on horseback herding cattle create a distinct set of martial skills."
+ 
+ mounties:0 "Mounties"
+ mounties_flavor:0 "#F Mounties served as the elite guardsmen of the ancient empires of Canada. Now, these skilled horsemen are as adept at running down fleeing criminals as they are at breaking enemy lines in the service of Canadian Lords. #!"
+ #innovation_equestrianism:0 "Equestrianism"
+ #innovation_equestrianism_desc:0 "It takes a lifetime of training for a horse to be as adept on the stone cobblestones and muddry streets of cities as in the open fields. Equestrianism is the skill of training a horse for any eventuality. "
+ 
+ innovation_equestrianism:0 "Royal Mounted Guardsmen"
+ innovation_equestrianism_desc:0 "Establishing a system of dedicated rural guardsmen to protect the lands from bandits and raiders has granted our proud horsemen the authority and responsibility to maintain law and order in our countryside, ensuring the safety and security of our way of life."
+ 
+ #stripling:0 "Stripling Warriors"
+ #stripling_flavor:0 "#F Named after the Stripling Warriors of the Book of Mormon, the modern Stripling Warriors consist of young Utahns seeking adventure. Fanatical in their belief that the lord will protect them, these warriors often take great wounds in battle, but rarely any fatalities. #!"
+ innovation_armed_missionaries:0 "Called to Serve"
+ innovation_armed_missionaries_desc:0 " After approval from their local lords and religious authorities, young utahn men and women receive a "call to serve," an official notification of their assignment from their overlords."
+ 
+ stripling:0 "Eagle Scouts"
+ stripling_flavor:0 "#F Trained since their youth in the ways of survival and reconnaissance, the Eagle Scouts serve as the army’s eyes and ears on the field, gathering information on the enemy so they can perform devastating skirmishes unto them.#!"
+ #innovation_armed_missionaries:0 "Called to Serve"
+ #innovation_armed_missionaries_desc:0 " After application to the church and the requisite approval from local lords, young utahn men and women receive a "call to serve," an official notification of their assignment from their overlord and the local bishop."
+ 
+ enforcers:0 "Enforcers"
+ enforcers_flavor:0 "#F Enforcers, armed with their distinctive angle-bladed pike and colorful livery, are the elite guards of Canadian lords. Adept in winter and in summer, and with constant practicing ensuring their coordination as a unit, Enforcers excel in the harshest of conditions. #!"
+ innovation_billeting:0 "Billeting"
+ innovation_billeting_desc:0 "Throughout old Canada there is a tradition of Billeting, where young men travel to serve distant lords and are housed by local families. There is great honor for the host family, and nobles find it easier to offset the cost of their armies. "
+ 
+ minutemen:0 "Minutemen"
+ minutemen_flavor:0 "#F Minutemen are volunteer militias that specialize in rapid mobility and effective response. Their name is said to be derived from the speed at which the members are able to mobilize at a moment's notice.#!"
+ innovation_smalltown_militias:0 "Volunteer Community Service"
+ innovation_smalltown_militias_desc:0 "The small towns of the Northeast have long had a legacy of volunteer communal service. Men and women, usually younger, organize into clubs and militias that act as both social clubs and perform important community services, anything from law enforcement to fire-fighting to carrying messages to neighboring villages to responding to enemy raids. "
+ 
+ 
+ watchmen:0 "Watchmen"
+ watchmen_flavor:0 "#F Watchmen are vigilant guardians armed with modern crossbows, tasked with maintaining urban safety and always ready to defend their city from external threats. #!"
+ innovation_city_watch:0 "City Watch"
+ innovation_city_watch_desc:0 "As cities and urban centers grow larger, and merchants and other monied interests grow new commerces and banks, a seedy underbelly of crime and larceny also develops. To protect the growing wealth, and attract more merchants, cities invest into companies of night watchmen, arming them with the most modern of technologies. "
+ 
+
+ gandy_dancers:0 "Gandy Dancers"
+ gandy_dancers_flavor:0 "#F Named after the ancients who built the iron roads, these soldiers wield hammers to smash through armor and topple horses. #!"
+ innovation_war_hammer:0 "Spike Mauls"
+ innovation_war_hammer_desc:0 "In ancient times, spike mauls were used to drive the spikes that secured the iron rails. By lengthening the handle and adding a curved spike, we can turn it into a terrifying weapon against armored foes."
+
+ tropeiro:0 "Tropeiro"
+ tropeiro_flavor:0 "#F Tropeiros are skilled riders, responsible for the protection of goods across challenging terrains. They play a crucial role in trade, military service, and community cohesion, throughout the hills of Sudeste. #!"
+
+ barras_bravas:0 "Barras Bravas"
+ barras_bravas_flavor:0 "#F Barras Bravas, a fearsome assembly of wandering warriors, don weathered armor adorned with unique insignias, representing both individual achievements and collective strength. As they march they unleash war shouts that pierce through the battle chaos, a symphony of primal fury and unwavering determination, solidifying their reputation as a formidable force. #!"
+
+ gaucho_jinetes:0 "Gaucho Jinetes"
+ gaucho_jinetes_flavor:0 "#F Clad in weathered leather and adorned with intricate silver-studded details, the Gaucho Jinetes wield long lances and skillfully navigate the terrain on swift, agile steeds.  #!"
+
+ rangers:0 "Rangers"
+ rangers_flavor:0 "#F Entrusted with protecting the wild places, Rangers are a formidable threat to any force that dares set foot in their lands. #!"
+
+ mountaineers:0 "Mountaineers"
+ mountaineers_flavor:0 "#F Hardened outdoorsmen experienced with rough terrain, Mountaineers turn peaceful summits into bloody graveyards for those that dare trespass into their elevated stomping grounds. #!"
+
+ desert_horsemen:0 "Desert Horsemen"
+ desert_horsemen_flavor:0 "#F Mounted on swift steeds, the desert horsemen of the arid expanses utilize the vast desert terrain to their advantage, striking swiftly and retreating with unmatched agility, leaving an indelible mark as the formidable guardians of the desert realms. #!"
+
+ eagle_warrior:0 "Eagle Warriors"
+ eagle_warrior_flavor:0 "#F Dressed in distinctive attire adorned with eagle feathers, the Eagle Warriors present a fearsome appearance on the battlefield. Renowned for their combat prowess, they serve as elite shock troops wielding a multitude of deadly weapons. #!"
+
+ yokitame: "Yókitame"
+ yokitame_flavor: " #F The Yókitame, the painted "warriors" of sacred dances held during the holy week of Easter, now fight real battles when required to. Famous for their endurance and speed, these colorfully dressed soldiers can outlast any enemy. #!"
+
+ charros: "Charros"
+ charros_flavor: " #F The Charros, flashy horsemen originally just competing for show, now make for an extravagant and lethal fighting force in the rough terrain of the Pacific Coast and the Bajío. #!"
+
+ hijos_e_hijas:0 "Band of Youthful Fervor"
+ hijos_e_hijas_flavor:0 "#F Harnessing the vitality of youth, these Bands have became a symbol of both innovation and unwavering dedication, standing as a testament to the commitment to nurture the next generation of great warriors. #!"
+ 
+ cangaceiro:0 "Cangaceiros"
+ cangaceiro_flavor:0 "#F The steadfast houseguards of the Caatinga realms, Cangaceiros are clad in distinctive leather hats and vibrant attire, mirroring the rugged landscape they protect. Armed with bows and facão machetes, they stand as formidable defenders, using guerrilla tactics to safeguard their domains. #!"
+
+ smaknisk:0 "Smaknisk"
+ smaknisk_flavor:0 "#F The Smaknisk are veteran wandering warriors, famous for banding together into mercenary companies during times of peace to seek wealth and mastery of arms on foreign soil. #!"
+ 
+ innovation_claymore:0 "Claymores"
+ innovation_claymore_desc:0 "These massive two-handed swords are as adept at cutting down charging knights as they are at breaking enemy pike formations, making them a formidable addition to our own regiments."
+ highlanders:0 "Highlanders"
+ highlanders_flavor:0 "#F Wielding massive two-handed swords, the elite warriors of the Maritimes are well known for facing the brunt of the enemy forces, clearing the way for their allies’ safety. #!"
+ 
+ 
+ innovation_tlacololeros:0 "Tlacololeros"
+ innovation_tlacololeros_desc:0 "Not only farmers of Sierra Madre del Sur, Tlacololero is also a title used by mesoamerican captains of elite mercenary companies hired by various Tlatoque and Lords. They are famous for their eccentric and colourful garbs and wide-brimmed hats adorned with various ribbons and flowers."
+ tiger_warriors:0 "Tiger Warriors"
+ tiger_warriors_flavor:0 "Highly trained in a variety of weapons and fighting techniques these warriors are famous for emulating the dreaded El Tigre Jaguar by donning their distinctive jaguar skin costumes, complete with jaguar head headdresses and shields decorated with jaguar motifs."
+ 
+ linemen:0 "Linemen"
+ linemen_flavor:0 "Standing pauldron to pauldron while holding their round shields so they either abut or overlap, these heavily armoured soldiers fearlesssly advance upon their foes until they reach blitzing distance and charge upon the feeble enemy lines with unrelenting fury."
+
+ jolly_rovers:0 "Jolly Rovers"
+ jolly_rovers_flavor:0 "The Jolly Rovers are bands of hunter-warriors made up of free, landless Newfoundland men, lightly equipped and skilled in surviving the cold wilds of the north. They have become famous for their wild parties and wilder raids inflicted upon the southern realms."
+ 
+ curare_blowgunner:0 "Curare Blowgunners"
+ curare_blowgunner_flavor:0 "#F Several indigenous peoples of Central and South America douse their darts with a variety of plant-derived poisons that may cause paralysis of the muscles and, eventually, death by asphyxiation. #!"
+ innovation_curare_poison:0 "Curare Poison"
+ innovation_curare_poison_desc:0 "Useful for its ability to induce muscle paralysis, curare poision has proven it's value both in hunting practices and medicinal practices for its application in anesthesia and treating certain medical conditions."
+ 
+ luchadore:0 "Luchadores"
+ luchadore_flavor:0 "#F Luchadores don colorful masks and striking costumes, seamlessly blending military strength with theatrical flair. #!"
+ 
+ asawira:0 "Sillakuq"
+ asawira_flavor:0 "#F The ranks of the Sillakuq are composed of Andean nobles skilled with both lance and bow. Now restored as a military force, they stand ready to assail the enemies of Tawantinsuyu.#!"
+ 
+ #################
+ ### BASE GAME ###
+ #################
+
+ # I have added these back in because we still use some of them and they were missing, and there is no harm in having locs that we dont use.
+
+ # Tribal Era
+ culture_parameter_unlock_maa_tiger_warriors:0 "Can recruit [GetMaA('tiger_warriors').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_ayyar:0 "Can recruit [GetMaA('ayyar').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_metsanvartija:0 "Can recruit [GetMaA('metsanvartija').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_horse_archers:0 "Can recruit [GetMaA('horse_archers').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_mubarizun:0 "Can recruit [GetMaA('mubarizun').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_mulaththamun:0 "Can recruit [GetMaA('mulaththamun').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_archers_of_the_nile:0 "Can recruit [GetMaA('archers_of_the_nile').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_hussar:0 "Can recruit [GetMaA('hussar').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_horn_warrior:0 "Can recruit [GetMaA('horn_warrior').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_bush_hunter:0 "Can recruit [GetMaA('bush_hunter').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_shomer:0 "Can recruit [GetMaA('shomer').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_sahel_horsemen:0 "Can recruit [GetMaA('sahel_horsemen').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_mountaineers:0 "Can recruit [GetMaA('mountaineers').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_guinea_warrior:0 "Can recruit [GetMaA('guinea_warrior').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_chu_ko_nu:0 "Can recruit [GetMaA('chu_ko_nu').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_bondi:0 "Can recruit [GetMaA('bondi').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_vigmen:0 "Can recruit [GetMaA('vigmen').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_varangian_veterans:0 "Can recruit [GetMaA('varangian_veterans').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_longbowmen:0 "Can recruit [GetMaA('longbowmen').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_huscarls:0 "Can recruit [GetMaA('huscarl').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_huanch_vaulter:0 "Can recruit [GetMaA('guanch_vaulter').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_war_buggies:0 "Can recruit [GetMaA('war_buggies').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_macheteer:0 "Can recruit [GetMaA('macheteer').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_swatters:0 "Can recruit [GetMaA('swatters').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_granadero:0 "Can recruit [GetMaA('granadero').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_swatters:0 "Can recruit [GetMaA('swatters').GetName] as [men_at_arms|E]"
+
+ # Early Medieval Era
+ culture_parameter_unlock_maa_khandayat:0 "Can recruit [GetMaA('khandayat').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_garudas:0 "Can recruit [GetMaA('garudas').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_cataphract:0 "Can recruit [GetMaA('cataphract').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_monaspa:0 "Can recruit [GetMaA('monaspa').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_druzhina:0 "Can recruit [GetMaA('druzhina').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_mountaineer:0 "Can recruit [GetMaA('mountaineer').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_abudrar:0 "Can recruit [GetMaA('abudrar').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_maa_palace_guards:0 "Can recruit [GetMaA('palace_guards').GetName] as [men_at_arms|E]"
+ 
+ #Military
+ tradition_hird_name:0 "$innovation_hird$"
+ tradition_hird_desc:0 "$innovation_hird_desc$"
+ innovation_hird:0 "Hirds"
+ innovation_hird_desc:0 "The tradition of keeping armed retinues in service to a household has served us well. By formalizing and expanding this system we can field entire regiments of huscarls in our armies."
+
+ innovation_zweihanders:0 "Zweihanders"
+ innovation_zweihanders_desc:1 "These massive two-handed swords are as adept at cutting down charging $knight_culture_player_plural_no_tooltip_lowercase$ as they are at breaking enemy pike formations, making them a formidable addition to our own pike regiments."
+
+ #innovation_longbows:0 "Longbow"
+ #innovation_longbows_desc:0 "Taking advantage of the strong yew wood that grows here, our bowyers have learned to make longbows so powerful they require specialized training from an early age to use effectively. This investment is worth it, as our longbowmen can shoot arrows which travel further and penetrate deeper than those fired by other archers."
+
+ innovation_adaptive_militia:0 "Adaptive Militia"
+ innovation_adaptive_militia_desc:1 "Weapons like the goedendag are cheap and easy to produce, yet surprisingly effective against cavalry charges. Their existence allows us to adapt our militias to have much better odds when fighting armored $knight_culture_player_plural_no_tooltip_lowercase$."
+
+ innovation_valets:0 "Valets"
+ innovation_valets_desc:1 "Establishing a valet system of dedicated servants for our noble horsemen will enable us to field $knight_culture_player_plural_no_tooltip_lowercase$ who are both better armed and armored."
+
+ innovation_pike_columns:0 "Pike Columns"
+ innovation_pike_columns_desc:0 "Pikemen have always been strong defenders, but they have historically lacked in mobility and offense. Devising new formations to address this deficiency will improve our chances of victory in battle."
+
+ innovation_legionnaires:0 "Legionnaires"
+ innovation_legionnaires_desc:1 "Just as we have restored the Roman empire, so too shall restore the structure of the old Roman legion and its feared elite troops!"
+
+ innovation_desert_tactics:0 "Desert Tactics"
+ innovation_desert_tactics_desc:0 "The Levant is an unfamiliar place with poor terrain for cavalry charges. We should adapt to these lands and field cavalry which is better suited to fight in our new home."
+
+ innovation_caballeros:0 "Caballeros"
+ innovation_caballeros_desc:0 "Andalusian stallions are better at traveling and fighting in rough terrain than other breeds of horses. We can train specialized cavalry regiments which take advantage of this."
+
+ innovation_cataphracts:0 "Cataphracts"
+ innovation_cataphracts_desc:0 "Fully encased in protective iron suits, our intimidating cataphract cavalry can break almost any defensive line by charging straight into it with their lances."
+
+ innovation_hobbies:0 "Hobbies"
+ innovation_hobbies_desc:1 "Riders on our Celtic hobby horses are both fast and agile — perfect for scouting and raiding in rough terrain where enemy $knight_culture_player_plural_no_tooltip_lowercase$ are loathe to go."
+
+ innovation_rectilinear_schiltron:0 "Rectilinear Schiltron"
+ innovation_rectilinear_schiltron_desc:0 "The traditional pike circle is a powerful defensive formation, but it is limited in offense and mobility. While requiring great discipline to employ, our rectilinear schiltron is a superior formation which is capable of both powerful offensive and defensive tactics."
+
+ innovation_forest_wardens:0 "Forest Wardens"
+ innovation_forest_wardens_desc:0 "Our ancestors have lived in these forests for generations, but now they are under threat by outsiders. Centuries of accumulated experience fighting in forests will aid us in protecting our ancestral homeland."
+
+ innovation_compound_bows:0 "Compound Bows"
+ innovation_compound_bows_desc:0 "Crafted from laminated strips of horn, wood, and sinew, our compound bows are much smaller than a traditional bow while being just as powerful. This reduced profile makes it possible to comfortably fire from horseback, allowing us to field truly devastating horse archers in battle."
+
+ tradition_khadga_puja_name:0 "Khadga Puja"
+ tradition_khadga_puja_desc:0 "This culture has embraced the martial art and ritual worship of two-handed broadswords letting them foster strong and able warriors. The heavy swords allow them to mow down infantry and cavalry alike."
+ innovation_khandayats:0 "Khandayats"
+ innovation_khandayats_desc:0 "Skilled in the use of the khanda broadsword, our prized infantrymen are adept at both fighting in jungles as well as cutting down enemy light cavalry."
+
+ tradition_garuda_warriors_name:0 "Garuda Warriors"
+ tradition_garuda_warriors_desc:0 "Distinguished warriors in this culture are designated as Garudas, and are expected to fight until death. Even those who follow a Garuda are expected to die if their leader does, either in battle or by their own hand."
+
+ tradition_futuwaa_name:0 "$innovation_futuwaa$"
+ tradition_futuwaa_desc:0 "$innovation_futuwaa_desc$"
+ innovation_futuwaa:0 "Futuwaa"
+ innovation_futuwaa_desc:0 "Our youth have begun forming clubs that promote prowess, vigor, and moral behavior. By endorsing and supporting these clubs, we will ensure a supply of able-bodied soldiers we can rally to our cause."
+
+ tradition_land_of_the_bow_name:0 "Land of the Bow"
+ tradition_land_of_the_bow_desc:0 "In a land of plenty, enriched by the Nile and their own ingenuity, the Nubian have prospered for generations. For almost as long, the bow has been the weapon of choice to deter the raiders and brigands of the surrounding deserts."
+
+ tradition_desert_ribat_name:0 "Desert Ribats"
+ tradition_desert_ribat_desc:0 "This culture has a tradition of fortified desert retreats, where the pious can live in connection with the open sky and the sands. This lifestyle breeds able and pious desert warriors and attracts mystics."
+
+ tradition_mubarizuns_name:0 "$innovation_mubarizuns$"
+ tradition_mubarizuns_desc:0 "$innovation_mubarizuns_desc$"
+ innovation_mubarizuns:0 "Mubarizun"
+ innovation_mubarizuns_desc:0 "Modeled after the legendary champions of the Rashidun army, our Mubarizun soldiers are trained to excel in both formation fighting as well as single combat."
+
+ tradition_hussar_name:0 "$innovation_hussar_raids$"
+ tradition_hussar_desc:0 "$innovation_hussar_raids_desc$"
+ innovation_hussar_raids:1 "$hussar$ Raids"
+ innovation_hussar_raids_desc:1 "Light cavalry which can strike quickly at exposed enemies before darting back away, our $hussar$ can be formed into regiments which specialize in harassment and raiding."
+
+ tradition_druzhina_name:0 "$innovation_druzhina$"
+ tradition_druzhina_desc:0 "$innovation_druzhina_desc$"
+
+ tradition_horn_mountain_skirmishing_name:0 "$innovation_mountain_skirmishing$"
+ tradition_horn_mountain_skirmishing_desc:0 "$innovation_mountain_skirmishing_desc$"
+ innovation_mountain_skirmishing:0 "Mountain Skirmishing"
+ innovation_mountain_skirmishing_desc:0 "The great mountains in the Horn of Africa pose logistical challenges to many types of armies, but our skirmishers can easily adapt to these conditions to rout enemy invaders."
+
+ innovation_bush_hunting:0 "Bush Hunting"
+ innovation_bush_hunting_desc:0 "The bush is a rough and rugged place, but it offers a bounty of opportunity for those who know where to look and how to exploit it. Training our archers in these techniques will give them an advantage when engaging enemies in these areas."
+
+ tradition_mobile_guards_name:0 "$innovation_mobile_guards$"
+ tradition_mobile_guards_desc:0 "$innovation_mobile_guards_desc$"
+ innovation_mobile_guards:0 "Defensive Tactics"
+ innovation_mobile_guards_desc:0 "Our people have been exiled and driven out time and time again. While tragic, these experiences have led us to become exceptionally skilled in rear-guard tactics which minimize casualties."
+
+ innovation_alpine_supremacy:0 "Alpine Supremacy"
+ innovation_alpine_supremacy_desc:0 "The high altitude of our homeland demands different logistics and fighting techniques from our soldiers than the lowlands do. Mastering these abilities will make us undisputed lords of the mountains."
+
+ innovation_sahel_horsemen:0 "Sahel Horsemen"
+ innovation_sahel_horsemen_desc:0 "The Sahel is a dry and arid plain, where vast distances are often covered with horses. The Sahel Riders are mounted warriors who use light quilted armor and javelins to devastate their enemies. They are quick and can easily brave deserts and drylands."
+ 
+ innovation_bamboo_bows:0 "Bamboo Bow"
+ innovation_bamboo_bows_desc:0 "One of the oldest traditional weapons for Indian footmen is the bamboo bow, which is both cheap to make and easy to carry and maintain. Since the bow is also a favorite weapon of many hunters there is no shortage of experienced archers in Indian armies."
+
+ innovation_zbrojnosh:0 "Zbrojnosh"
+ innovation_zbrojnosh_desc:0 "The forested hills and mountains of our homeland demand a different approach to warfare. Our armed men, the Zbrojnosh, are trained to turn the terrain to their advantage and have proven to be good fighters capable of defeating much larger armies."
+
+ tradition_upland_skirmishing_name:0 "$innovation_upland_skirmishing$"
+ tradition_upland_skirmishing_desc:0 "$innovation_upland_skirmishing_desc$"
+ innovation_upland_skirmishing:0 "Upland Skirmishing"
+ innovation_upland_skirmishing_desc:0 "The hills of the wooded savanna have been our homeland for generations. Our ancestors showed us how to utilize this terrain, and with raiders threatening our borders, we can use this knowledge in our defense."
+ 
+ innovation_sarawit:0 "Sarawit"
+ innovation_sarawit_desc:0 "The highlands where our ancestors settled requires a particular approach to agriculture. The building of terraced fields taught us to develop new military tactics, which are employed by our Serawit soldiers."
+ 
+ tradition_mountain_herding_name:0 "Mountain Herding"
+ tradition_mountain_herding_desc:0 "This culture has made the cooler mountains their homes in an otherwise dry and arid region. The herders and farmers of these uplands have make for resilient and robust warriors, and over time their toil has made this people flourish far above the naked desert."
+ innovation_desert_mountain_herding:0 "Desert Mountain Practices"
+ innovation_desert_mountain_herding_desc:0 "Since ancient times the people of our mountains have been searching for methods to pasture their herds in inhospitable terrain. Doing so has turned them into very resilient and robust warriors, called Abudrar."
+ 
+ tradition_burman_royal_army_name:0 "Royal Army"
+ tradition_burman_royal_army_desc:0 "$innovation_royal_army_tradition_desc$"
+ innovation_royal_army_tradition:0 "Royal Army Tradition"
+ innovation_royal_army_tradition_desc:0 "We have a long tradition of a standing army made to protect the capital. This has given us access to tough soldiers that work exceedingly well with supporting troops, such as War Elephants."
+ 
+ innovation_repeating_crossbow:0 "Chu-ko-nu"
+ innovation_repeating_crossbow_desc:1 "The repeating crossbow, known as Chu-ko-nu, is an ingenious invention with an easy-to-use mechanism that can be operated by anyone. What it lacks in range and penetrating power, it makes up for with the rapidity of its volleys, making it an ideal weapon for defensive positions."
+
+ innovation_men_at_arms:0 "Men-at-Arms"
+ innovation_men_at_arms_desc:0 "Training and equipping standing armies that remain under the direct disposal of our rulers will be a stepping stone on the road to centralize our power."
+
+ innovation_pole_vault:0 "Pole Vault"
+ innovation_pole_vault_desc:0 "The pole vault, is a simple invention which requires much training and practice to master. A skilled vaulter will be able to propel themselves forward over great gaps and tall rocks, as well as over some fortifications."
+
+ mardi_gras:0 "Mardi Gras Riders"
+ mardi_gras_flavor:0 "What started as a raucous pageantry between the gentle Lousianais folk has evolved into a fearsome, albeit flamboyant, cavalry force, whose colourful regalias are as striking to behold in their countless parades as they are awe-inspiring to face during their wild charges with lance and cane knife."
+
+ crabmen:0 "Crabmen"
+ crabmen_flavor:0 "Drawn from the hardiest mangroove dwellers, these warriors specialize in fighting on muddy and wet terrain, peltering their stuck enemies with javelins and arrows"
+
+ kamayuq:0 "Kamayuq"
+ kamayuq_flavor:0 "Selected from the elite ranks of the Warachikuy's most skilled participants, the Kamayuq exemplifies the pinnacle of disciplined prowess within the Andean highlands."
+ 

@@ -1,0 +1,21 @@
+﻿l_english:
+# l_spanish:
+# l_german:
+# l_french:
+# l_russian:
+# l_simp_chinese:
+# l_korean:
+ #GROUPS
+ culture_group_military:0 "Military"
+ culture_group_civic:0 "Civic"
+ culture_group_regional:1 "Cultural and Regional"
+ culture_group_any:0 "any"
+ #ERAS
+ culture_era_tribal:0 "Rusted Age"
+ culture_era_tribal_desc:0 "The Rusted Era represents the condition of a [culture|E] who have not yet recovered fully from the disasterous effects of the [Concept('the_event_ate','Event')|E]. Rulers with [tribal_government|E] can only make use of Rusted Era [innovations|E]."
+ culture_era_early_medieval:0 "Silver Age"
+ culture_era_early_medieval_desc:0 "The Silver Age sees the reemergence of professional administrators and the rediscovery of a number of important [innovations|E], allowing a [culture|E] to begin the climb to the level of the antediluvians."
+ culture_era_high_medieval:0 "Gilded Age"
+ culture_era_high_medieval_desc:0 "The Gilded Age is a time of great technological and administrative rediscovery, the changes since the dark days of Rust are clear, humanity is rebuilding."
+ culture_era_late_medieval:0 "Golden Age"
+ culture_era_late_medieval_desc:0 "The Golden Age marks the zenith of this new world. New technological rediscoveries are advancing society significantly, newer classes encroach on the postdiluvian rulers. While the enchanting world of the ancients has not been restored, it is evident such a reality is on the horizon."
