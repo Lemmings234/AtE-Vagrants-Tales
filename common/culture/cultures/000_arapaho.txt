@@ -1,0 +1,44 @@
+﻿arapaho = {
+	color = { 184 113 97 }
+	
+	ethos = ethos_communal
+	heritage = heritage_plains
+	language = language_arapaho
+	martial_custom = martial_custom_male_only
+	name_list = name_list_arapaho
+	
+	traditions = {
+		#TODO
+		tradition_horse_lords
+		tradition_warrior_culture
+		tradition_sacred_hunts
+		tradition_festivities
+	}
+	
+	coa_gfx = {
+		plains_coa_gfx
+	}
+	building_gfx = {
+		arapaho_building_gfx
+		tipi_building_gfx #Architecture-style
+		native_na_plains_building_gfx #Style
+		native_dry_building_gfx #Super-style
+		heritage_plains_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+		high_plains_clothing_gfx
+		plains_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amerindian
+		25 = white_indigenous
+	
+	}
+}

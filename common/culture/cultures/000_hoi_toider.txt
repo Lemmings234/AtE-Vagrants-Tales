@@ -1,0 +1,47 @@
+﻿hoi_toider = {
+	color = { 125 96 66 }
+
+	ethos = ethos_communal
+	heritage = heritage_old_south
+	language = language_hoi_toidish
+	martial_custom = martial_custom_equal
+	name_list = name_list_hoi_toider
+	
+	traditions = {
+		tradition_fishermen
+		tradition_wetlanders
+		tradition_resourceful_tinkerers
+		tradition_seafaring
+	}
+	
+	coa_gfx = {
+		southron_coa_gfx
+		south_anglo_group_gfx
+	}
+	building_gfx = {
+		hoi_toider_building_gfx
+		high_southern_building_gfx #Architecture-style
+		na_south_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_old_south_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		40 = african
+		4 = asian
+		50 = caucasian
+		5 = mediterranean
+		5 = black_white
+		4 = multiracial
+		2 = asian_southeast_asian
+	
+	}
+}

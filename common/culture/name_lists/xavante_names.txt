@@ -1,0 +1,89 @@
+﻿name_list_xavante = {
+
+        male_names = {
+			Aniceto Apoen_a_tld_ Carlos Celestino Cirilo Domingos Eduardo Garcia Goiano Huat_a_act_ Hiparidi Jo_a_tld_o Jos_e_act_ Jurandir Juv_e_hat_ncio Lahussia Lino M_a_act_rio Oniuou Sadea Sibupa Supto Tsidowi Valdo Vin_i_act_cius Warodi #Source: Geneaologies in Akwe-Shavente Society, by David Maybury Lewis, 1974 #Transcribed and compiled by Elzephor
+			Aezane Ahmhedi 
+			Aihe_pst_edi Aihi_pst_re Airero Aire_tld_ro Aniseto Apra_tld_su_act_ Apsi_pst_re Apywe_tld_ Ara_grv_ru Ate_tld_se Baarodi_act_ Babati Brdu_pst_di Buruwe_tld_ Buwawi Dabewe_tld_ Dahewe_tld_ Darowa Daru Daterori Domingo Domitsiwa Hambe Hise Imo_tld_di Juweho Mandito Mandovi Mano_tld_waumurtuwe Mara_tld_i_tld_wara Meireles Mi_pst_e Ni_pst_e N_tld_iwairiro Padi Pahiri_pst_wa Pa_act_hiri_pst_wa Pa_act_hiri_pst_wa_Nitisewe Pariupse Pariwai_pst_a Pariwaia Pariwawi Parizane Pedrinho Pedro Piu Podzeu Podzeu_act_ Ponete_pst_ru Prapa_act_ Pratse Prepe Probuwa_tld_i_tld_ro_tld_ Ra_tld_ira_tld_te Rai_tld_wai_pst_a Reamzu Re_tld_suri Rintimpse Ritsiwe Ron_tld_o_pst_o_tld_ Rowazu Run_tld_amri_tld_ Ruzapre_act_ S_pst_ri_pst_mo_tld_wi S_pst_ria S_pst_ribtuwe_tld_ S_pst_ridazute S_pst_ridze S_pst_riedewe_tld_ S_pst_rimo_tld_te S_pst_rin_tld_i_pst_rua_tld_ S_pst_rin_tld_imo_tld_we_tld_ S_pst_rin_tld_ito_tld_we_tld_ S_pst_ripawe_tld_ S_pst_riredi S_pst_rito_tld_wawe_tld_ S_pst_rituwe_tld_ S_pst_riui_tld_we S_pst_riura_tld_ S_pst_riute S_pst_riwa_pst_ono S_pst_riwano_pst_o_tld_we_tld_ S_pst_riwawe_tld_ S_pst_rizamdi S_pst_rizamdi_act_ S_pst_ro_tld_pre S_pst_rudzura_tld_ Sadze Saemo_tld_wa Sarawaptu Sbrehy Sebasti_a_tld_o Sibupa_act_ Simhry Simnie Simrihu_act_ Simri_tld_ti_act_ Sipazabe_act_ Siperadi Siprure Sipte Siptewapre Siribura_tld_ Sirimirami_tld_ Siriupi Siriute Siriwadzi Siriwaruwe_tld_ Sisari_pst_o_tld_ Sitomne_tld_ Sizapi So_tld_wa_pst_o_tld_ So_tld_wa_pst_o_tld_o_tld_ So_tld_waha Sributa_tld_ Srimora_tld_te Sriptuwe_tld_ Srli_tld__pst_mo_tld_ Sro_tld_wa_pst_o_tld_ Supratapra_tld_ Supto Surupredu Suwapte Tebe Tomo_tld_tsu Ts_pst_ri_pst_mo_tld_wi Ts_pst_rin_tld_o_tld__pst_u Ts_pst_rin_tld_o_tld_ra_tld_ Ts_pst_riwadzi Tseretsu Tsidowi Tsimo_tld_ Tsiriane Tsiriutawe_tld_ Tsiriwaruwe_tld_ Tsit_pst_mo_tld_we_tld_ Tsi_tld_wadi Tsiwari Tsle_tld_mo_tld_we_tld_ Umo_tld_hi Umo_tld_ri Umuia_act__Adzewe_grv_ Utebrewe_tld_ Uteprbawi Wa_pst_airi_act_ Wa_pst_airo Wa_pst_ane_Mandito Wa_pst_mo_tld_he Wa_pst_momte Wa_pst_momte_pst_ Wa_pst_rai_tld_ro Wa_pst_ra_tld_iro Wai_pst_awaipo Wamo_tld_ra_tld_ Wapresu Wara_tld_iwe-N_tld_iwairiro Wara_tld_wi Warete Waretewe_tld_ Wasiwadi Watu_act_ Wauri Wazae Wrepte Wyrehe Xa_act_vier Yribiwe_tld_ Zacarias Ze_Carreiro Ze_Tropeiro Zem_pst_wa Zereme_tld_ Zeremo_tld_ Zupoado
+			Uruhuenan Serimicramin Ap_o_uml_ena Cidaneri Cipass_e_act_ Paridzan_e_act_ Predzawe Tsiwepsudu Tseredze Upr_e_act_wa Rudz_o_uml_ Tseremey_pst_w_a_act_ Wairu W_e_act_r_e_act__e_act_ Awe Uprew_a_act_ Hu_pst_uhi Aritana Yawalapiti Mataryw_a_act_ Kanato Tepori
+		}
+        
+		female_names = {
+			Tsitsina
+		#Source: Geneaologies in Akwe-Shavente Society, by David Maybury Lewis, 1974
+		#Transcribed and compiled by Elzephor
+			Ar_e_r_e_re Ar_e_wai_o Ar_e_wede_pst__o Ar_e_wi_o Cabrita Dumnew_a Eroina Heraini Hit_a Juen_a Miraci Nambruhi Nimazaw_e Nmizaw_e P_a_hiri_pst_wa Pet_a Pidzuiw_e Pihetsi_o Pisire_o Pitsire_o Psiteda Ra_pst_odzari Rediw_e R_e_mr_a_mi Renime Renim_e Renimhe_o Renim_o_iwe Reniza Ren_o_im_e R_e_pse_pst__o R_e_sipari_o R_e_sipsiudu R_e_sisat_o R_e_siwi Retse R_e_wari R_e_watobro_pst__o R_e_woratsu R_e_zaruprew_e R_e_zasu R_e_zaun_e R_e_zeprone_o R_e_zuibe Ro_pst_ope Ro_pst_owanaiw_e Roam_o Robe Ronir_a_iwe Roniw_e Roosisin_a Rosidupi_pst__o Rosip_a_ Rosisab_pst_ba Rosisinir_o Rotiswa_pst_e Rotsimasisi_o Rotsiwa_pst_e Rowaih_pst_ha Rowanaiwe Row_e__pst__o Rozam_a Rozaw_e Rozeri_o Sarawiw_e Sare Si_a_po Sibup_a Simitaw_e Tir_a_we Tpedahu Tpedze Tpenomr_e_pe Tpen_o_pa Tper_a_m_o Tper_a_tsi_o Tperen_i_act Tperini_act_ Tpesisah_pst_ha Tpesisari Tpewapri Tpewari Tpewari_o Tpew_e_waw_e Tpezadarta_pst__o Tpezane Tpezebre_o Tpezinzari_pst__o Tpezinzari_o Tprene_pst__o Tpwerai_pst__o Tsare Tsiheri_o Tsin_o_tse_pst__a_upari Tsin_o_tsen Tsin_o_tsenitiriw_e Tsin_o_tsenitse Tsin_o_tsepeniw_e Tsin_o_tser_e_tsi_o Tsin_o_tseri_o Tsin_o_tseweheri_o Tsirituw_e Tsisabui_pst__o Wa_pst_ridi Waiw_e Wareme_pst__o Wauto Wautom_o Wazase Wautomone Wautom_o_sire Wautom_o_siru Wautomosisari Wautom_o_sosi_o Wautom_o_te_o Wautom_o_waw_e Wautomozan_e Wautom_o_zawai_o Waut_o_mozaw_e Wautom_o_zawi Waut_o_mozawi Wautom_o_zuwaiwe Wautomtew_e Vanira R_e_nhinhai_pst_o R_e_tari Tsudzawere Wautomoto_pst_o P_e_r_e Yawalapiti Watatakalu
+			}
+       
+		dynasty_names = {
+		"dynn_Dumhiwe"
+		"dynn_Geric_o_act_"
+		"dynn_Juruna"
+		"dynn_Loazo"
+		"dynn_M_a_tld_h_o_uml_r_o_tld_"
+		"dynn_Otomop_a_act_"
+		"dynn_Serediw_e_tld_"
+		"dynn_Serema_pst__a_act_"
+		"dynn_Supretapr_a_tld_"
+		"dynn_Tsere_pst_ubudzi"
+		"dynn_Tsorompr_e_act_"
+		"dynn_Tsudzaw_e_act_r_e_act_"
+		#Source: Lineages in Akwe-Shavente Society by David Maybury Lewis, 1974
+		#Transcribed and compiled by Elzephor
+		"dynn_Wama_tld_ri_tld_"
+		"dynn_Tebe"
+		"dynn_Da_pst_ra_tld_"
+		"dynn_Uhy"
+		"dynn_Dzutsi"
+		"dynn_Wahi" 
+		"dynn_A_pst_e_act_"
+		"dynn_Pa_act_hiri_pst_wa"
+		"dynn_Aiute_act__pst_man_tld_a_tld_ri_tld_"
+		"dynn_Wama_tld_ri_tld_dzu_act_"
+		"dynn_Hu"
+		}
+		
+		cadet_dynasty_names = {
+		"dynn_Dumhiwe"
+		"dynn_Geric_o_act_"
+		"dynn_Juruna"
+		"dynn_Loazo"
+		"dynn_M_a_tld_h_o_uml_r_o_tld_"
+		"dynn_Otomop_a_act_"
+		"dynn_Serediw_e_tld_"
+		"dynn_Serema_pst__a_act_"
+		"dynn_Supretapr_a_tld_"
+		"dynn_Tsere_pst_ubudzi"
+		"dynn_Tsorompr_e_act_"
+		"dynn_Tsudzaw_e_act_r_e_act_"
+		#Source: Lineages in Akwe-Shavente Society by David Maybury Lewis, 1974
+		#Transcribed and compiled by Elzephor
+		"dynn_Wama_tld_ri_tld_"
+		"dynn_Tebe"
+		"dynn_Da_pst_ra_tld_"
+		"dynn_Uhy"
+		"dynn_Dzutsi"
+		"dynn_Wahi" 
+		"dynn_A_pst_e_act_"
+		"dynn_Pa_act_hiri_pst_wa"
+		"dynn_Aiute_act__pst_man_tld_a_tld_ri_tld_"
+		"dynn_Wama_tld_ri_tld_dzu_act_"
+		"dynn_Hu"
+		}
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

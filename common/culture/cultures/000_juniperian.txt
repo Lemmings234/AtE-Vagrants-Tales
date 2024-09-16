@@ -1,0 +1,52 @@
+﻿juniperian = {
+	color = { 14 108 89 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_north_pacific
+	language = language_interiorish
+	martial_custom = martial_custom_male_only
+	name_list = name_list_juniperian
+	
+	traditions = {
+		tradition_isolationist
+		tradition_horse_breeder
+		tradition_dryland_dwellers
+		tradition_sacred_hunts
+	}
+	
+	coa_gfx = {
+		inlander_coa_gfx
+		north_pacific_group_gfx
+	}
+	building_gfx = {
+		juniperian_building_gfx
+		cascadian_building_gfx #Style
+		frontier_building_gfx #Super-style
+		heritage_north_pacific_building_gfx
+		frontier_west_building_gfx
+		western_us_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		nw_plateau_clothing_gfx
+		northern_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = african
+		4 = asian
+		2 = asian_southern_han
+		2 = asian_southeast_asian
+		60 = caucasian
+		3 = indian
+		10 = mediterranean
+		10 = mesoamerican_yuto_aztec
+		8 = multiracial
+	
+	}
+}

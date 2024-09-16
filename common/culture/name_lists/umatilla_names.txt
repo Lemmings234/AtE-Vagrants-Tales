@@ -1,0 +1,117 @@
+﻿#Compiled by Oasdv
+
+name_list_umatilla = {
+        male_names = { 
+		Abraham Achekaia Albert Alloysius Altokhe Antone Amos Arthur Billy Captain Charles Charley
+		Dan David Donald Earl Edgar Five_Crows Francis Frank Gerald Harry Hezekiah Isaac Imowtanic
+		James Joe Joseph Kaon Keplotsilpilp Kikiuse Koochkoochwapta Lawrence Leo Little_Pete Long_Hair Luke
+		Modanack Nelson Nenocka Oscar Parson Paul Pawted Peter Piupiumaksmaks Philip Poker_Jim Powwakee
+		Robert Ron Ross Sam Som_kin Spokane_Jim
+		Takipse Tamloi Tatshama Tauitau Tawatoy Tiacony Tintinmeetsa Toislap Thomas Tom Totakial Tumatapum Turnip
+		Umapine Wade Wak_Wak Wakonkonwelasonmi Walter Wamishta Watastimine Weanako Weatenatemany Wenap Willie Wocatse
+		Yamawit Yellow_Bird Young Young_Chief Yumskin 
+	}
+        female_names = { 
+		Acosia Agnes Akicklasa Alalameatonmi Alaoshekatsagon Alontamapnet Amalapsonmi Ananuwenonmi Annie Ataxaspo Atilapum Awawaneta
+		Cecilia Celestine Chowsepum Cora Edna Eliza Elizabeth Ematelumkla Emolasunmi Eyoustinot Felicite Hahomayet Hot Humlatuklabut
+		Inez Innahape Isabel Itskaka Ipnametoyekt Ipnasiplatonmi Ipnalotalikt Iyatoyik Jennifer Jennie Kamosiat Kamsat Keka Kewasne Kimsha Koopeny
+		Lalimot Latiyat Lessie Letikamas Lindsey Lixlewa Lolatslala Louisa Louise Lucy Mary Matilda Minnie Misnet Mumsow Netzatelaki Nimiahhe Nixtias
+		Pacootspum Panaso Peteen Petelshapinawa Pewalosonmi Precious Sakoomala Sarah Sashawanee Semkawetla Serlo Shoni Shouse Simewat
+		Taloos Taltakot Talteakown Talwalofown Tamalicht Tamasasami Tanshewima Tatawae Tawax Tokesloekinmi Tomlasonmi Towwownepum Tselapselap Tumhiya
+		Violet Watewanee Wawane Wawintalayecht Wawintallekasat Welalotsami Wenix Wishna Witskanits Yacootsa Yawasta Zilapo 
+	}
+        dynasty_names = { 
+			"dynn_Allen"
+			"dynn_Badroads"
+			"dynn_Bill"
+			"dynn_Billy"
+			"dynn_Black_Hawk"
+			"dynn_Bonifer"
+			"dynn_Bushman"
+			"dynn_Campbell"
+			"dynn_Clayton"
+			"dynn_Cowapoo"
+			"dynn_Craig"
+			"dynn_Crow"
+			"dynn_Crowley"
+			"dynn_Eagleton"
+			"dynn_Elk"
+			"dynn_French"
+			"dynn_Halfmoon"
+			"dynn_Hall"
+			"dynn_Handran"
+			"dynn_Hays"
+			"dynn_Hung"
+			"dynn_Itskumkin"
+			"dynn_Joe"
+			"dynn_Jones"
+			"dynn_Kash_Kash"
+			"dynn_Koplots"
+			"dynn_Kotatams"
+			"dynn_Lavadour"
+			"dynn_Liberty"
+			"dynn_Light"
+			"dynn_McKay"
+			"dynn_Minthorn"
+			"dynn_Mox_Mox"
+			"dynn_Old_Woman"
+			"dynn_Peo"
+			"dynn_Picard"
+			"dynn_Pond"
+			"dynn_Red_Elk"
+			"dynn_Red_Hawk"
+			"dynn_Redford"
+			"dynn_Reed"
+			"dynn_Salmon"
+			"dynn_Sampson"
+			"dynn_Sams"
+			"dynn_Schimmel"
+			"dynn_Shamkeen"
+			"dynn_Sheoships"
+			"dynn_Shillal"
+			"dynn_Showaway"
+			"dynn_Tiacony"
+			"dynn_Thomson"
+			"dynn_Tokaekin"
+			"dynn_Wak_Wak"
+			"dynn_Wannassay"
+			"dynn_Washoe"
+			"dynn_Watchman"
+			"dynn_White_Bull"
+			"dynn_White_Wolf"
+			"dynn_Woods"
+			"dynn_Wynookie"
+		}
+        cadet_dynasty_names = { 
+			"dynn_McKay"
+			"dynn_Minthorn"
+			"dynn_Pond"
+			"dynn_Red_Elk"
+			"dynn_Reed"
+			"dynn_Sams"
+			"dynn_Schimmel"
+			"dynn_Watchman"
+		}
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+       mercenary_names = {
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+        
+}

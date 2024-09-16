@@ -1,0 +1,1 @@
+﻿## Prevent errors with base game names

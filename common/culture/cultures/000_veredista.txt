@@ -1,0 +1,56 @@
+﻿veredista = {
+	color = { 99 20 17  }
+	created = 2066.1.1
+	parents = { mineiro sertanejo }
+	
+	ethos = ethos_stoic
+	heritage = heritage_geraizeiro
+	language = language_mineiro
+	martial_custom = martial_custom_male_only
+	name_list = name_list_veredista
+	
+	traditions = {
+		#TODO
+		tradition_cangaco
+		tradition_boiadeiros
+		tradition_hunters
+	}
+	
+	coa_gfx = {
+		# english_coa_gfx
+		# i think this is how this works #fune
+		veredista_coa_gfx
+		centrestino_group_gfx
+	}
+	building_gfx = {
+		veredista_building_gfx
+		brazilian_dry_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		steppe_mediterranean_building_gfx
+		heritage_geraizeiro_building_gfx
+		mediterranean_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		centrestino_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		9 = african
+		5 = arab
+		10 = caucasian
+		30 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		20 = black_white
+		1 = white_asian
+		5 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

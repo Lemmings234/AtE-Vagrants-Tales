@@ -1,0 +1,44 @@
+﻿wnaqqo = {
+	color = { 85 176 69 }
+	created = 350.1.1
+	history_loc_override = wnaqqo_history_loc
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_maya
+	language = language_mam
+	martial_custom = martial_custom_male_only
+	name_list = name_list_wnaqqo
+	
+	traditions = {
+		tradition_milpa
+		tradition_pacifism
+		tradition_language_scholars
+		tradition_collective_lands
+	}
+	
+	coa_gfx = {
+		mayan_group_gfx
+	}
+	building_gfx = {
+		wnaqqo_building_gfx
+		mayan_building_gfx #Architecture-style
+		native_mesoamerican_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_maya_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		mayan_clothes_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = mesoamerican_maya
+		25 = mesoamerican_yuto_aztec
+	
+	}
+}

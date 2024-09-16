@@ -1,0 +1,59 @@
+﻿valleyano = {
+	color = { 170 56 201 }
+	
+	
+	ethos = ethos_communal
+	heritage = heritage_norcalifornine
+	language = language_spanglish
+	martial_custom = martial_custom_male_only
+	name_list = name_list_valleyano
+	
+	traditions = {
+		tradition_family_entrepreneurship
+		tradition_agrarian
+		tradition_charitable
+		tradition_collective_lands
+		tradition_desert_ribat
+	}
+	
+	coa_gfx = {
+		valleyan_coa_gfx
+		californian_group_gfx
+	}
+	building_gfx = {
+		valleyano_building_gfx
+		californian_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_norcalifornine_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		floral_clothing_gfx
+		tie_dye_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		10 = arab
+		4 = asian
+		3 = asian_southeast_asian
+		2 = asian_southern_han
+		15 = caucasian
+		5 = indian
+		5 = south_indian
+		15 = mediterranean
+		5 = amerindian
+		5 = mesoamerican_maya
+		30 = mesoamerican_yuto_aztec
+		5 = white_indigenous
+		5 = white_asian
+		12 = multiracial
+	
+	}
+	
+}

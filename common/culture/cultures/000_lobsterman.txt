@@ -1,0 +1,52 @@
+﻿lobsterman = {
+	color = { 2 92 44 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_new_englander
+	language = language_yankee
+	martial_custom = martial_custom_male_only
+	name_list = name_list_lobsterman
+
+	traditions = {
+		tradition_fishermen
+		tradition_seafaring
+		tradition_yankee_ingenuity
+		tradition_practiced_pirates
+		tradition_RICE_whalers
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_pragmatic_creed
+		requires_dlc_flag = legacy_of_persia
+	}
+
+	coa_gfx = {
+		yankee_coa_gfx
+		north_atlantic_coa_gfx
+	}
+	building_gfx = {
+		lobsterman_building_gfx
+		celtic_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_new_englander_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		northern_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+
+	ethnicities = {
+
+		1 = asian
+		1 = asian_austronesian
+		1 = amerindian
+		2 = african
+		83 = caucasian
+		1 = indian
+		5 = mediterranean
+		5 = mesoamerican_yuto_aztec
+	}
+}

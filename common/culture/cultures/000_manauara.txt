@@ -1,0 +1,54 @@
+﻿manauara = {
+	color = { 40 99 76 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ciclico
+	language = language_amazonico
+	martial_custom = martial_custom_male_only
+	name_list = name_list_manauara
+	
+	traditions = {
+		tradition_talent_acquisition
+		tradition_hidden_cities
+		tradition_fervent_temple_builders
+		tradition_xenophilic
+	}
+	
+	coa_gfx = {
+		manauara_coa_gfx
+		nortista_group_gfx
+	}
+	building_gfx = {
+		manauara_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		mediterranean_amazon_building_gfx
+		heritage_ciclico_building_gfx
+		mediterranean_building_gfx
+		amazonian_tribal_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = asian
+		5 = byzantine
+		5 = caucasian
+		5 = mediterranean
+		5 = amazonian
+		1 = indian
+		15 = mesoamerican_yuto_aztec
+		10 = white_indigenous
+		10 = black_white
+		5 = white_asian
+		20 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

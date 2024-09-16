@@ -1,0 +1,51 @@
+﻿piauiense = {
+	color = { 16 46 102 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_cabano
+	language = language_nordestino
+	martial_custom = martial_custom_male_only
+	name_list = name_list_piauiense
+	
+	traditions = {
+		#TODO
+		tradition_medicinal_plants
+		tradition_cangaco
+		tradition_warriors_by_merit
+		tradition_brazilian_cosmopolitanism
+	}
+	
+	coa_gfx = {
+		piauiense_coa_gfx
+		northern_sertanejo_group_gfx
+		nordestino_group_gfx
+	}
+	building_gfx = {
+		piauiense_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cabano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		northern_sertanejo_group_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		20 = caucasian
+		25 = mediterranean
+		10 = mesoamerican_yuto_aztec
+		10 = white_indigenous
+		5 = black_white
+		10 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

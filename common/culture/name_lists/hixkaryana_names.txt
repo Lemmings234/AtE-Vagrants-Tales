@@ -1,0 +1,60 @@
+﻿name_list_hixkaryana = {
+        male_names = { Bader Sawaia Pery Socot Hupdah Amotxo Ahtxe Tohkoro Juno Awatxare Mothi Tavino Atxatiko Wayarafan Yereyere Mauasa Aryon Kurupumna Arwoka Ewka Txikirifu Kaywerye Wanawa Kanahtxe Printxe Caitako Akolo Poriciwi Xamen Yaxikma Pirimaw Makari Yde Kayuana }
+        
+        female_names = { Karolin Kaywerye Waraka Mahxawa Txurye Ateo Nazarete Kuiwi Taxa Uemko Erefoka Hanmami Wari Karara Xuari Pexu Esese Karara Xenyexenye Lea Wahciki Txawa Hanami Wirhta Copoi Wai }
+        
+        dynasty_names = { 
+        "dynn_Hixkaryana"
+        "dynn_Wai_wai"
+        "dynn_Waiwai"
+        "dynn_Katwena"
+        "dynn_Tiriyo"
+        "dynn_Poriciwi"
+        "dynn_Xamen"
+        "dynn_Ekati"
+        "dynn_Yaxikma"
+        "dynn_Kaxuyana"
+        "dynn_Tunayana"
+        "dynn_Kanashen"
+        "dynn_Kamarayana"
+        "dynn_Yukwarayana"
+        "dynn_Karahawyana"
+        "dynn_Xowyana"
+        }
+        
+        cadet_dynasty_names = {        
+        "dynn_Hixkaryana"
+        "dynn_Wai_wai"
+        "dynn_Waiwai"
+        "dynn_Katwena"
+        "dynn_Tiriyo"
+        "dynn_Poriciwi"
+        "dynn_Xamen"
+        "dynn_Ekati"
+        "dynn_Yaxikma"
+        "dynn_Kaxuyana"
+        "dynn_Tunayana"
+        "dynn_Kanashen"
+        "dynn_Kamarayana"
+        "dynn_Yukwarayana"
+        "dynn_Karahawyana"
+        "dynn_Xowyana" 
+        }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

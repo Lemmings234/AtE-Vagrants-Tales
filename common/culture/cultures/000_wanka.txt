@@ -1,0 +1,43 @@
+﻿wanka = {
+	color = { 176 123 74 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_andino
+	language = language_wanka
+	martial_custom = martial_custom_male_only
+	name_list = name_list_wanka
+	
+	traditions = {
+		#TODO
+		tradition_hill_dwellers
+		tradition_language_scholars
+		tradition_stand_and_fight
+	}
+	
+	coa_gfx = {
+		wanka_coa_gfx
+		andino_group_gfx
+	}
+	building_gfx = {
+		wanka_building_gfx
+		incaic_building_gfx #Architecture-style
+		native_andean_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_andino_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		andino_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		99 = andean
+		1 = mesoamerican_yuto_aztec
+	
+	}
+}

@@ -1,0 +1,63 @@
+﻿### Poom - TODO: move some societal trait from ate_general_tradition and 00_combat_tradition to this file - Poom 5Feb
+tradition_oaxaca_queens = {
+	category = societal
+
+	layers = {
+		0 = diplo
+		1 = mena
+		4 = diplomat.dds
+	}
+	
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_mesoamerican
+			has_cultural_pillar = heritage_maya
+			has_cultural_pillar = heritage_tehuantepec
+		}
+		#TODO:Realm_Actually_in_Oaxaca
+	}
+	
+	parameters = {
+		high_prowess_ignores_knight_restrictions = yes
+		gender_equal_inheritance = yes
+		rowdy_trait_more_common = yes
+		pensive_trait_less_common = yes
+	}
+	character_modifier = {
+		supply_limit_mult = 0.1
+		stewardship_per_stress_level = 2
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_double_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_courtly_communal_or_spiritual_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = { scope:character = { ao_has_legitimate_adoption_trigger = no } }
+			multiply = 0.5
+		}
+	}
+}

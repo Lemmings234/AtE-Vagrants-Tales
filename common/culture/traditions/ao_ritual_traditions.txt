@@ -1,0 +1,89 @@
+﻿tradition_mystical_ancestors = {
+	category = ritual
+
+	layers = {
+		0 = learning
+		1 = mediterranean
+		4 = philosopher.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_tradition = tradition_ao_ritual_succession
+			any_parent_culture_or_above = {
+				OR = {
+					has_cultural_tradition = tradition_mystical_ancestors
+					has_cultural_tradition = tradition_ao_ritual_succession
+				}
+			}
+		}
+	}
+
+	can_pick = { # Can pick if your culture has mystical ancestors in its history
+		custom_tooltip = {
+			text = any_ancestor_culture_was_mystical
+			OR = {
+				has_cultural_tradition = tradition_ao_ritual_succession
+				any_parent_culture_or_above = {
+					OR = {
+						has_cultural_tradition = tradition_mystical_ancestors
+						has_cultural_tradition = tradition_ao_ritual_succession
+					}
+				}
+			}
+		}
+		custom_tooltip = {
+			text = cannot_have_tradition_ao_ritual_succession
+			trigger_if = {
+				limit = { NOT = { scope:replacing ?= culture_tradition:tradition_ao_ritual_succession } }
+				NOT = { culture_tradition:tradition_ao_ritual_succession = { is_in_list = traits } }
+			}
+		}
+	}
+	
+	parameters = {
+		cannot_disherit = yes
+		landing_house_members_gives_renown = yes
+		piety_penalty_for_revoking_titles_from_house_members = yes
+	}
+
+	character_modifier = {
+		dynasty_opinion = 10
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_double_base_cost
+				desc = BASE
+			}
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_spiritual_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 1000
+		if = {
+			limit = {
+				scope:character.culture = {
+					any_parent_culture_or_above = {
+						has_cultural_tradition = tradition_ao_ritual_succession
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}

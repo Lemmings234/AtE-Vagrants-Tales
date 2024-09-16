@@ -1,0 +1,243 @@
+﻿name_list_oji_cree = {
+
+	#compiled by ArtfulOrpheus, Lahom
+
+	male_names = {
+		Abraham Albert Allan Amos Ananias Arthur
+		Bernard Brennan Brent
+		Carter Charles Claude Curtis
+		Daniel David
+		Edward Elijah Elliott Eno Ernest
+		Gilbert Guy
+		Harris Henry Hezekiah Horace
+		Jack Jackson Jerry Joseph Joshua Justin
+		Keeseekoowenin Kinistin
+		Lester Lionel Lloyd Louis Lyle
+		Marc Marcel Martin Maurice Mekis Michael
+		Nakanasa Noah Norman
+		Okanase
+		Pascal Paul Peemeecheekag Pegius Pesequan Peter
+		Ralph Rick Robert Roger Ross Roy Ryan
+		Shacopay Shane Simon Sol
+		Terry Tobasonakwut Tommy Troy Tyler
+		Vernon Vincent
+		Wabanakwut Wayne Wilfrid William
+		Zhaawanogiizhigogaabaw
+	}
+	female_names = {
+		Alice Amanda Anne
+		Beverly
+		Cindy Claire
+		Daphne Dawn Deborah Diane Dorcas
+		Edith Emily
+		Grace Gladys
+		Helen
+		Ida Isabelle
+		Jessica Josie Julie June
+		Kakakwesic Kayakatopicicikec
+		Lisa Lorraine Louise Lynn
+		Mary
+		Nakwasasiwe Nancy Nellie Nicole Nocome Noreen
+		Rachel Ruth
+		Sarah Sheila Sophie Susan
+		Tasha Theresa
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Achneepineskum"
+		"dynn_Acoose"
+		"dynn_Aganash"
+		"dynn_Anderson"
+		"dynn_Angees"
+		"dynn_Atatise"
+		"dynn_Baskatawang"
+		"dynn_Beach"
+		"dynn_Beardy"
+		"dynn_Bighead"
+		"dynn_Bluecoat"
+		"dynn_Bushie"
+		"dynn_Cappo"
+		"dynn_Catcheway"
+		"dynn_Cobiness"
+		"dynn_Crowe"
+		"dynn_Desmoulin"
+		"dynn_Dustyhorn"
+		"dynn_Fiddler"
+		"dynn_Frogg"
+		"dynn_Harper"
+		"dynn_Ineese"
+		"dynn_Kabestra"
+		"dynn_Kakapeness"
+		"dynn_Kakegamic"
+		"dynn_Kakekagumick"
+		"dynn_Kakekayash"
+		"dynn_Kakepetum"
+		"dynn_Kamenawatamin"
+		"dynn_Katcheconias"
+		"dynn_Keeper"
+		"dynn_Kenequanash"
+		"dynn_Kewaquam"
+		"dynn_Kinew"
+		"dynn_Kishayinew"
+		"dynn_Kishqueb"
+		"dynn_Kitchkeesick"
+		"dynn_Kooshet"
+		"dynn_Lynxleg"
+		"dynn_Machendagoos"
+		"dynn_Machiskinic"
+		"dynn_Mamakeesic"
+		"dynn_Mamakwa"
+		"dynn_Matawapit"
+		"dynn_McKay"
+		"dynn_McKiver"
+		"dynn_McKoop"
+		"dynn_McWatch"
+		"dynn_Meekis"
+		"dynn_Mekanak"
+		"dynn_Mequanawap"
+		"dynn_Mishibimijima"
+		"dynn_Moonias"
+		"dynn_Morris"
+		"dynn_Morrisseau"
+		"dynn_Nanokeesic"
+		"dynn_Neapetung"
+		"dynn_Nepinak"
+		"dynn_Neshawabin"
+		"dynn_O_pst_Nabigon"
+		"dynn_Ogima"
+		"dynn_Oskineegish"
+		"dynn_Panacheese"
+		"dynn_Pitchenese"
+		"dynn_Prince"
+		"dynn_Quachegan"
+		"dynn_Quequeish"
+		"dynn_Ray"
+		"dynn_Roulette"
+		"dynn_Sainnawap"
+		"dynn_Sakakeep"
+		"dynn_Sakchekapo"
+		"dynn_Sangwais"
+		"dynn_Sawanis"
+		"dynn_Semple"
+		"dynn_Settee"
+		"dynn_Shewaybick"
+		"dynn_Shoomin"
+		"dynn_Skunk"
+		"dynn_Straightnose"
+		"dynn_Sugarhead"
+		"dynn_Swampy"
+		"dynn_Turtle"
+		"dynn_Wabasse"
+		"dynn_Wahpay"
+		"dynn_Wasakimik"
+		"dynn_Weenusk"
+		"dynn_Winnepetonga"
+	}
+	dynasty_names = {
+		"dynn_Achneepineskum"
+		"dynn_Acoose"
+		"dynn_Aganash"
+		"dynn_Anderson"
+		"dynn_Angees"
+		"dynn_Atatise"
+		"dynn_Baskatawang"
+		"dynn_Beach"
+		"dynn_Beardy"
+		"dynn_Bighead"
+		"dynn_Bluecoat"
+		"dynn_Bushie"
+		"dynn_Cappo"
+		"dynn_Catcheway"
+		"dynn_Cobiness"
+		"dynn_Crowe"
+		"dynn_Desmoulin"
+		"dynn_Dustyhorn"
+		"dynn_Fiddler"
+		"dynn_Frogg"
+		"dynn_Harper"
+		"dynn_Ineese"
+		"dynn_Kabestra"
+		"dynn_Kakapeness"
+		"dynn_Kakegamic"
+		"dynn_Kakekagumick"
+		"dynn_Kakekayash"
+		"dynn_Kakepetum"
+		"dynn_Kamenawatamin"
+		"dynn_Katcheconias"
+		"dynn_Keeper"
+		"dynn_Kenequanash"
+		"dynn_Kewaquam"
+		"dynn_Kinew"
+		"dynn_Kishayinew"
+		"dynn_Kishqueb"
+		"dynn_Kitchkeesick"
+		"dynn_Kooshet"
+		"dynn_Lynxleg"
+		"dynn_Machendagoos"
+		"dynn_Machiskinic"
+		"dynn_Mamakeesic"
+		"dynn_Mamakwa"
+		"dynn_Matawapit"
+		"dynn_McKay"
+		"dynn_McKiver"
+		"dynn_McKoop"
+		"dynn_McWatch"
+		"dynn_Meekis"
+		"dynn_Mekanak"
+		"dynn_Mequanawap"
+		"dynn_Mishibimijima"
+		"dynn_Moonias"
+		"dynn_Morris"
+		"dynn_Morrisseau"
+		"dynn_Nanokeesic"
+		"dynn_Neapetung"
+		"dynn_Nepinak"
+		"dynn_Neshawabin"
+		"dynn_O_pst_Nabigon"
+		"dynn_Ogima"
+		"dynn_Oskineegish"
+		"dynn_Panacheese"
+		"dynn_Pitchenese"
+		"dynn_Prince"
+		"dynn_Quachegan"
+		"dynn_Quequeish"
+		"dynn_Ray"
+		"dynn_Roulette"
+		"dynn_Sainnawap"
+		"dynn_Sakakeep"
+		"dynn_Sakchekapo"
+		"dynn_Sangwais"
+		"dynn_Sawanis"
+		"dynn_Semple"
+		"dynn_Settee"
+		"dynn_Shewaybick"
+		"dynn_Shoomin"
+		"dynn_Skunk"
+		"dynn_Straightnose"
+		"dynn_Sugarhead"
+		"dynn_Swampy"
+		"dynn_Turtle"
+		"dynn_Wabasse"
+		"dynn_Wahpay"
+		"dynn_Wasakimik"
+		"dynn_Weenusk"
+		"dynn_Winnepetonga"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+	
+	mercenary_names = {
+
+	}
+	
+}

@@ -1,0 +1,108 @@
+﻿name_list_yanomami = {
+        male_names = { Alfredo Bruno Davi Marcelo Oziel Aiuvauteri Atriyano D_a_act_rio Davi Hewenahipitheri Honi Ihiru Ilo Kanau Kopenawa Mayanawa Pokaima Raimundo Tapeba Tuxawa Weibe Xiko Xaxanapiuteri Cassiano Breves Borges Sussi Remori Waipe }
+        
+        female_names = { Alcida Dalissa Ehuana F_a_act_tima Leliana Mariazinha Roseane Sara Apiahi Anima Apinake Arari Ara Uxirime Wakrime Ira Joenia Kopenawa Kretipe Lalawa Mayanawa Sire Suwe Tuxawa Waika Xinau Walalami Waikia Yakoana Poka Joelma Bela Cassiana Sonia Sussa Puuna Ala }
+        
+        dynasty_names = { 
+         "dynn_Aprueteri"
+        "dynn_Brazao"
+        "dynn_Demini"
+        "dynn_Heawei"
+        "dynn_Hemosh"
+        "dynn_Hurunari"
+        "dynn_Ironasiteri"
+        "dynn_Iximaweteri"
+        "dynn_Karawe"
+        "dynn_Kepropeteri"
+        "dynn_Komixipiweteri"
+        "dynn_Konabieteri"
+        "dynn_Kopenawa" 
+        "dynn_Maroko"
+        "dynn_Mayanawa"
+        "dynn_Melgueiro"
+        "dynn_Ninam"
+        "dynn_Palimitheli"
+        "dynn_Pohoroabieterioma"
+        "dynn_Pohoroabietri"
+        "dynn_Pukimabieteri"
+        "dynn_Sanima"
+        "dynn_Sanuma"
+        "dynn_Surucucus"
+        "dynn_Tawanakuwe"
+        "dynn_Tepe"
+        "dynn_Toototobi"
+        "dynn_Tukano"
+        "dynn_Waharubiweteri"
+        "dynn_Waimasi"
+        "dynn_Watoriki" 
+        "dynn_Wixanari"
+        "dynn_Xamatari"
+        "dynn_Xamatauteri"
+        "dynn_Xamataweri"
+        "dynn_Xamatawteri"
+        "dynn_Xirixana"
+        "dynn_Yanomae"
+        "dynn_Yanomama"
+        "dynn_Yanomami" 
+        }
+        
+        cadet_dynasty_names = {  
+        "dynn_Aprueteri"
+        "dynn_Brazao"
+        "dynn_Demini"
+        "dynn_Heawei"
+        "dynn_Hemosh"
+        "dynn_Hurunari"
+        "dynn_Ironasiteri"
+        "dynn_Iximaweteri"
+        "dynn_Karawe"
+        "dynn_Kepropeteri"
+        "dynn_Komixipiweteri"
+        "dynn_Konabieteri"
+        "dynn_Kopenawa" 
+        "dynn_Maroko"
+        "dynn_Mayanawa"
+        "dynn_Melgueiro"
+        "dynn_Ninam"
+        "dynn_Palimitheli"
+        "dynn_Pohoroabieterioma"
+        "dynn_Pohoroabietri"
+        "dynn_Pukimabieteri"
+        "dynn_Sanima"
+        "dynn_Sanuma"
+        "dynn_Surucucus"
+        "dynn_Tawanakuwe"
+        "dynn_Tepe"
+        "dynn_Toototobi"
+        "dynn_Tukano"
+        "dynn_Waharubiweteri"
+        "dynn_Waimasi"
+        "dynn_Watoriki" 
+        "dynn_Wixanari"
+        "dynn_Xamatari"
+        "dynn_Xamatauteri"
+        "dynn_Xamataweri"
+        "dynn_Xamatawteri"
+        "dynn_Xirixana"
+        "dynn_Yanomae"
+        "dynn_Yanomama"
+        "dynn_Yanomami" 
+        }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

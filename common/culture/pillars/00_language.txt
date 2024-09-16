@@ -1,0 +1,53 @@
+﻿## DELETE???
+
+language_arabic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_arabic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_arabic }
+			multiply = 10
+		}
+		if = {
+			limit = {
+				scope:character = {
+					religion = religion:islam_religion
+				}
+			}
+			multiply = 2
+		}
+	}
+	
+	color = bedouin
+}
+
+language_israelite = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_israelite
+		}
+	}
+	ai_will_do = {
+		value = 10
+		#if = {
+		#	limit = { has_cultural_pillar = language_israelite }
+		#	multiply = 10
+		#}
+		if = {
+			limit = {
+				scope:character = {
+					religion = religion:judaism_religion
+				}
+			}
+			multiply = 2
+		}
+	}
+	
+	color = ashkenazi
+}

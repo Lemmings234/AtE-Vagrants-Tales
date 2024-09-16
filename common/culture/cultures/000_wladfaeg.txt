@@ -1,0 +1,46 @@
+﻿wladfaeg = {
+	color = { 171 19 42 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_patagon
+	language = language_cymraeg
+	martial_custom = martial_custom_male_only
+	name_list = name_list_wladfaeg
+	
+	traditions = {
+		#TODO
+		tradition_seafaring
+		#tradition_longbow_competitions
+		tradition_gaucho_legacy
+		tradition_pastoralists
+		tradition_poetry
+	}
+	
+	coa_gfx = {
+		wladfaeg_coa_gfx
+		british_group_gfx
+	}
+	building_gfx = {
+		wladfaeg_building_gfx
+		native_austral_building_gfx #Style
+		native_cold_building_gfx #Super-style
+		heritage_patagon_building_gfx
+		western_building_gfx
+		celtic_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		30 = caucasian
+		10 = patagonian
+		10 = white_indigenous
+		10 = med_black_ind
+	
+	}
+}

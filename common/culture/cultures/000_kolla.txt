@@ -1,0 +1,46 @@
+﻿kolla = {
+	color = { 204 124 53 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_andino
+	language = language_quechua
+	martial_custom = martial_custom_male_only
+	name_list = name_list_kolla
+	
+	traditions = {
+		#TODO
+		tradition_incaic_legacy
+		tradition_zealous_people
+		tradition_warrior_monks
+	}
+	
+	coa_gfx = {
+		kolla_coa_gfx
+		andino_group_gfx
+	}
+	building_gfx = {
+		kolla_building_gfx
+		incaic_building_gfx #Architecture-style
+		native_andean_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_andino_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		andino_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		1 = caucasian
+		5 = mediterranean
+		64 = andean
+		29 = mesoamerican_yuto_aztec
+	
+	}
+}

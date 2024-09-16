@@ -1,0 +1,54 @@
+﻿matogrossense = {
+	color = { 111 198 30 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_western_sertanejo
+	language = language_cerradiano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_matogrossense
+	
+	traditions = {
+		tradition_boiadeiros
+		tradition_malleable_invaders
+		tradition_pastoralists
+	}
+	
+	coa_gfx = {
+		matogrossense_coa_gfx
+		centrestino_group_gfx
+	}
+	building_gfx = {
+		matogrossense_building_gfx
+		brazilian_dry_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_western_sertanejo_building_gfx
+		steppe_mediterranean_building_gfx
+		mediterranean_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		centrestino_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = arab
+		5 = african
+		5 = arab
+		10 = caucasian
+		2 = slavic
+		20 = mediterranean
+		5 = amazonian
+		15 = mesoamerican_yuto_aztec
+		5 = white_indigenous
+		5 = black_white
+		5 = black_indigenous
+		20 = med_black_ind
+	
+	}
+}

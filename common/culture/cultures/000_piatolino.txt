@@ -1,0 +1,53 @@
+﻿piatolino = {
+	color = { 73 27 102 }
+
+	ethos = ethos_courtly
+	heritage = heritage_gaucho
+	language = language_gaucho
+	martial_custom = martial_custom_equal
+	name_list = name_list_gaucho	# Create a proper name_list_piatolino whenever possible.
+	
+	traditions = {
+		tradition_bbqs
+		tradition_materos
+		tradition_cosmopolitan_elitism
+		tradition_chivalry
+		tradition_coffee_making
+	}
+	
+	coa_gfx = {
+		gaucho_coa_gfx
+		sulista_group_gfx
+	 }
+	 
+	building_gfx = {
+		piatolino_building_gfx
+		gaucho_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_gaucho_building_gfx
+		mediterranean_building_gfx
+	}
+	
+	clothing_gfx = {
+		sulista_group_gfx
+		byzantine_clothing_gfx
+	}
+	
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		9 = african
+		1 = arab
+		1 = asian
+		1 = byzantine
+		35 = caucasian
+		35 = mediterranean
+		1 = slavic
+		13 = black_white
+		1 = black_indigenous
+		5 = med_black_ind	
+	}
+}

@@ -1,0 +1,57 @@
+﻿chicagoan = {
+	color = { 117 62 52 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_lakelander
+	language = language_irontongue
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chicagoan
+	
+	traditions = {
+		#TODO
+		tradition_hard_working
+		tradition_culinary_art
+		tradition_cosmopolitan_elitism
+		tradition_winter_warriors
+	}
+	
+	coa_gfx = {
+		chicagoan_coa_gfx
+		lakelander_group_gfx
+	}
+	building_gfx = {
+		chicagoan_building_gfx
+		great_lakes_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_lakelander_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		midwest_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		15 = african
+		4 = asian
+		4 = asian_southern_han
+		2 = asian_southeast_asian
+		1 = melanesian
+		30 = caucasian
+		3 = indian
+		10 = mediterranean
+		10 = slavic
+		2 = amerindian
+		3 = mesoamerican_yuto_aztec
+		6 = mesoamerican_mixe_zoque
+		2 = asian_austronesian
+		5 = black_white
+		2 = multiracial
+	
+	}
+}

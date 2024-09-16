@@ -1,0 +1,75 @@
+﻿name_list_ayuukjaay = {
+        male_names = { # from Chilango
+                A_act_ngel Aar_o_act_n Abraham Abundio Ad_a_act_n Adri_a_act_n Agust_i_act_n Alberto Aldo Alejandro Alfonso Alfredo Am_e_act_rico Amado Ambrosio Aniceto Antol_i_act_n Antonio Aquiles Arcadio Armando Arturo Aurelio Axel
+                Balam Baltasar Bartolomeo Bautista Benito Benjam_i_act_n Brand_o_act_n Brayan Bruno Bulmaro
+                C_a_act_stulo C_e_act_sar Camerino Carlos Ces_a_act_reo Ch_a_act_rbel Claudio Cris_o_act_stomo Crist_o_act_bal Cuauht_e_act_moc Cuitl_a_act_huac
+                Dal_i_act_ Dami_a_act_n Daniel Dar_i_act_o David Demi_a_act_n Diego Diego_Carlos Dionisio Domingo Domitilo
+                E_act_dgar Eder Eduardo Elpidio Emiliano Emilio Enrique Ernesto Esteban Eugenio Eusebio
+                Fabio Fausto Federico Felipe Fernando Francisco Froyl_a_act_n
+                Gabino Gabriel Gaspar Genaro Geraldo Gerardo Germ_a_act_n Gilberto Gohan Gok_u_act_ Gonzalo Graco Gregorio Guillermo Gustavo
+                H_e_act_ctor Hern_a_act_n Herodes Honorio Horacio Hugo
+                I_act__n_tld_igo Ignacio Iker Irineo Isidoro Israel Itzc_o_act_atl Iv_a_act_n
+                Jaime Javier Jer_o_act_nimo Jes_u_act_s Joaqu_i_act_n Jonathan Jorge Jos_e_act_ Jos_e_act__Antonio Jos_e_act__Luis Jos_e_act__Mar_i_act_a Jos_e_act__Miguel Juan Juan_Carlos Juan_Diego Juan_Manuel Juan_Nepomuceno Juan_Pablo Juli_a_act_n Julio Julio_C_e_act_sar
+                Kalel Kevin
+                L_a_act_zaro Lauro Le_o_act_n Leonardo Leopoldo Lorenzo Lucas Lucero Luciano Luis
+                Manuel Marco_Antonio Marcos Mariano Mario Mart_i_act_n Mat_i_act_as Mauricio Mauro Maximiliano Maximino Melchor Miguel Miguel_A_act_ngel Moctezuma Mois_e_act_s Mucio
+                Nabor Nepomuceno Nezahualc_o_act_yotl Nicol_a_act_s
+                O_act_scar Octavio Omar Osvaldo Ovidio
+                P_a_act_nfilo P_i_act_o Pablo Pascual Patricio Patrocinio Pedro Ponce Porfirio Pr_o_act_spero
+                Quirino
+                Ra_u_act_l Rafael Ram_o_act_n Reinaldo Ren_e_act_ Renato Ricardo Rodolfo Rodrigo Roque Rosendo Rub_e_act_n
+                Sab_a_act_s Sabino Salvador Santiago Sebasti_a_act_n Sergio Servando
+                T_e_act_noch Tadeo Tarciso Teodoro Tito Tl_a_act_loc Tom_a_act_s Tonati_u_act_h Trist_a_act_n Tulio
+                Ulises Urbano
+                V_i_act_ctor Vicente Vidal
+                Wenceslao Wigberto
+                Xicot_e_act_ncatl
+                Yandel
+                Zeferino
+        }
+        female_names = { # from Jarocho
+                A_act_gueda A_act_ngela A_act_urea Adelfa Adriana Agatolica Agripina Alicia Altagracia Ambrosia Ana Anastasia Antonia Araceli Asunci_o_act_n
+                B_a_act_rbara Beatriz Benilde Blanca Blanquilla Bibiana Bonifacia Bonita Br_i_act_gida Britani
+                Camila Cancianila Carmen Carolina Casiana Castora Chava Cintia Clara Claudia Cleofa Cointa Columba Concepci_o_act_n
+                Daniela Delia Digna Dolores Dominga Donora Dorotea
+                Edith Elena Elicia Elizabeth Elodia Emilia Emiliana Engracia Epifania Escol_a_act_stica Esperanza Eufemia Eustacia Eva
+                F_a_act_tima Febronia Felicia Felicidad Florentina Fortunata Frida Frontonia
+                Gilberta Genoveva Gracia Guadalupe
+                Hilaria Humilde
+                Ida In_e_act_s Irma Isabel Isidora
+                Jacinta Jenifer Jessica Jesusa Joaqu_i_act_na Josefa Juana Judith Julia Juliana Julita Justina
+                Kimberly
+                Laura Leandra Leticia Lidia Lorenza Luc_i_act_a Lucha Lucrecia Luisa Luz
+                Macrina Mar_i_act_a Mar_i_act_a_Antonia Mar_i_act_a_Elena Mar_i_act_a_Esther Mar_i_act_a_Guadalupe Mar_i_act_a_Isabel Mar_i_act_a_Luisa Mar_i_act_a_Natividad Mar_i_act_a_Victoria Mar_i_act_a_del_Carmen Mar_i_act_a_del_los_A_act_ngeles Margarita Marina Marisol Martha Masiosare Mayra Melchora Mericrisma Micaela Montserrat
+                Natalia Natividad Nazarena Noem_i_act_ Norma
+                Paciencia Paola Patricia Patrocinia Peregrina Perp_e_act_tua Preciosa Prudencia
+                Quetzali
+                Ramona Regina Renata Rica Roc_i_act_o Rosa Rosamar_i_act_a Rosenda
+                Salma Salvadora Sanjuana Sarah Serapia Serena Sierra Simona Simplicia Sinforosa Socorro Sof_i_act_a Solangia
+                Te_o_act_dula Teresa
+                Usnavy
+                Valentina Ver_i_act_sima Ver_o_act_nica Vera Victoria Virginia
+                Xochitl
+                Yazm_i_act_n
+                Zenaida Zongola
+        }
+        dynasty_names = { "dynn_Agust_i_act_n" "dynn_Alberto" "dynn_Albino" "dynn_Aldaz" "dynn_Alonso" "dynn_Alto" "dynn_Anaya" "dynn_Andr_e_act_s" "dynn_Apolinar" "dynn_Barrios" "dynn_Bartolo" "dynn_Basilio" "dynn_Ben_i_act_tez" "dynn_Bernardo" "dynn_Blas" "dynn_Canseco" "dynn_Ces_a_act_reo" "dynn_Chimil" "dynn_Clara" "dynn_Cosme" "dynn_Crist_o_act_bal" "dynn_D_i_act_az" "dynn_Doroteo" "dynn_Eleuterio" "dynn_Epitacio" "dynn_Felipe" "dynn_Franco" "dynn_Gaspar" "dynn_Gregorio" "dynn_Guzm_a_act_n" "dynn_Ignacio" "dynn_Jacinto" "dynn_Javier" "dynn_Juan" "dynn_L_a_act_zaro" "dynn_Lorenzo" "dynn_Luciano" "dynn_Manzano" "dynn_Mar_i_act_a" "dynn_Marcelino" "dynn_Mateos" "dynn_Melgar" "dynn_Miguel" "dynn_Miranda" "dynn_Narciso" "dynn_Navarro" "dynn_Nicolasa" "dynn_Nolasco" "dynn_Obispo" "dynn_Olivera" "dynn_Pablo" "dynn_Policarpo" "dynn_Quintas" "dynn_Raymundo" "dynn_Regino" "dynn_Robles" "dynn_Romero" "dynn_Sotero" "dynn_Tadeo" "dynn_Vicente" "dynn_Zacar_i_act_as" "dynn_Zamora" "dynn_Zeferino" }
+        cadet_dynasty_names = { "dynn_Agust_i_act_n" "dynn_Alberto" "dynn_Albino" "dynn_Aldaz" "dynn_Alonso" "dynn_Alto" "dynn_Anaya" "dynn_Andr_e_act_s" "dynn_Apolinar" "dynn_Barrios" "dynn_Bartolo" "dynn_Basilio" "dynn_Ben_i_act_tez" "dynn_Bernardo" "dynn_Blas" "dynn_Canseco" "dynn_Ces_a_act_reo" "dynn_Chimil" "dynn_Clara" "dynn_Cosme" "dynn_Crist_o_act_bal" "dynn_D_i_act_az" "dynn_Doroteo" "dynn_Eleuterio" "dynn_Epitacio" "dynn_Felipe" "dynn_Franco" "dynn_Gaspar" "dynn_Gregorio" "dynn_Guzm_a_act_n" "dynn_Ignacio" "dynn_Jacinto" "dynn_Javier" "dynn_Juan" "dynn_L_a_act_zaro" "dynn_Lorenzo" "dynn_Luciano" "dynn_Manzano" "dynn_Mar_i_act_a" "dynn_Marcelino" "dynn_Mateos" "dynn_Melgar" "dynn_Miguel" "dynn_Miranda" "dynn_Narciso" "dynn_Navarro" "dynn_Nicolasa" "dynn_Nolasco" "dynn_Obispo" "dynn_Olivera" "dynn_Pablo" "dynn_Policarpo" "dynn_Quintas" "dynn_Raymundo" "dynn_Regino" "dynn_Robles" "dynn_Romero" "dynn_Sotero" "dynn_Tadeo" "dynn_Vicente" "dynn_Zacar_i_act_as" "dynn_Zamora" "dynn_Zeferino" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 50
+        mat_grf_name_chance = 0
+        father_name_chance = 0
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 0
+        
+        mercenary_names = {
+            
+        }
+        
+}

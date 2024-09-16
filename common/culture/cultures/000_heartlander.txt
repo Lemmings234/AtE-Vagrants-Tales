@@ -1,0 +1,54 @@
+﻿heartlander = {
+	color = { 132 34 49 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_midwestern
+	language = language_plainspeak
+	martial_custom = martial_custom_male_only
+	name_list = name_list_heartlander
+	
+	traditions = {
+		#TODO
+		tradition_agrarian
+		tradition_pastoralists
+		tradition_horse_breeder
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		heartlander_coa_gfx
+		midwest_group_gfx
+	}
+	building_gfx = {
+		heartlander_building_gfx
+		na_middle_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_midwestern_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		cowboy_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		1 = arab
+		2 = asian
+		1 = asian_southern_han
+		2 = indian
+		85 = caucasian
+		4 = mediterranean
+		1 = asian_austronesian
+		5 = mesoamerican_yuto_aztec
+		2 = black_white
+	
+	}
+}

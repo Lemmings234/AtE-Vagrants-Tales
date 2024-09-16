@@ -1,0 +1,43 @@
+﻿waimiri = {
+	color = { 234 46 216 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_roraiman
+	language = language_waimiri
+	martial_custom = martial_custom_male_only
+	name_list = name_list_waimiri
+	
+	traditions = {
+		#TODO
+		tradition_deep_jungle_dwellers
+		tradition_isolationist
+		tradition_mystical_ancestors
+		tradition_festivities
+	}
+	
+	coa_gfx = {
+		waimuri_coa_gfx
+		amazonico_group_gfx
+	}
+	building_gfx = {
+		waimiri_building_gfx
+		native_amazonian_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_roraiman_building_gfx
+		amazonian_tribal_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		100 = amazonian
+	
+	}
+}

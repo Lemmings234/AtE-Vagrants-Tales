@@ -1,0 +1,23 @@
+﻿name_list_tlingit = {
+        male_names = { Charlie Daniel Eugene Gavriil Gooksh_i_act_ George Grigory Gush_X_pst_een Ignaty Igor John K_pst_alyaan K_pst_uxsh_o_act_o K_a_act_a-Goox Kaakastoon Kaawisht_e_act_ Kha_pst_jaq_pst_tii Louis Misha Sasha Shaadbaxh_i_act_cht Shg_u_act_ndi Shkeedlak_a_act_a Sn_o_act_ok Stoowukh_a_act_a Vasily Walter William X_pst_adan_e_act_ik X_pst_un_e_act_i Xetsuwu Yeidukdat_a_act_n Yeilgooxu Yeilx_a_act_ak }
+        female_names = { Anya Elizabeth Guna Ivanna Jennie Kaagaxkweix Kaaguneteen Kaatkwaaxsn_e_act_i Kah-thli-yudt Kanagoo Katie Keixwn_e_act_i Koodeilg_e_act_ Kudeit_s_a_act_akw Kut-xoox Mary Natalya Natasha Nuwuteiyi Shax_pst_saani_K_e_act_ek_pst_ Shgag_e_act_i Sonya Tania Tillie_Matilda Xoon-sel-ut Yoowduhaan Yelena_Helen }
+        dynasty_names = { "dynn_Bob" "dynn_Esquiro" "dynn_Hotch" "dynn_Jack" "dynn_Jackson" "dynn_Kato" "dynn_Kitka" "dynn_Kookesh" "dynn_Paul" "dynn_Shotridge" "dynn_Sidney" "dynn_Skan" "dynn_Skeek" "dynn_Smarch" "dynn_Tagaban" "dynn_Thlunaut" }
+        cadet_dynasty_names = { "dynn_Galy_a_act_x" "dynn_Xunaa" "dynn_S_pst_awd_a_act_an" "dynn_T_pst_akjikaan" "dynn_Laaxaay_i_act_k" "dynn_T_pst_aaku" "dynn_Xutsnoow_u_act_" "dynn_Hinyaa" "dynn_Gunaaxoo" "dynn_Deisleen" "dynn_Shee_T_pst_ik_a_act_" "dynn_Shtax_pst_h_e_act_en" "dynn_Jilk_a_act_at" "dynn__a_act_a_Tlein" "dynn_K_e_act_ex_pst_" "dynn_Taant_pst_a" "dynn_Jilkoot" "dynn__a_act_ak_pst_w" "dynn_Kooyu" "dynn_Saanyaa" "dynn_Thlunaut" "dynn_Anotklosh" "dynn_Kaagwaantaan" "dynn_Kasakan" "dynn_Ganaxteidee" "dynn_Lkweid_i_act_" "dynn_Yanyeid_i_act_" "dynn_Dagisdinaa" "dynn_Teikweid_i_act_" "dynn_Jishkweid_i_act_" "dynn_Dakl_pst_aweid_i_act_" "dynn_Shangukeid_i_act_" "dynn_Wooshkeetaan" "dynn_Chookaneid_i_act_" "dynn_Kadakwt_a_act_di" "dynn_Tsaateeneid_i_act_" "dynn_S_pst_eet_pst_kweid_i_act_" "dynn_Kookhittaan" "dynn_Tsaagweid_i_act_" "dynn_Neest_i_act_di" "dynn_Was_pst_ineid_i_act_" "dynn_Naasteid_i_act_" "dynn_Kayaashkeiditaan" "dynn_Naanyaataay_i_act_" "dynn_Sik_pst_naxt_a_act_di" "dynn_Xook_pst_eid_i_act_" "dynn_Kaax_pst_oosthittaan" "dynn_Neixt_a_act_di" "dynn_T_a_act_akwaaneid_i_act_" "dynn_L_pst_uknax_a_act_di" "dynn_T_pst__e_act_ex_pst_adi" "dynn_Ishkeetaan" "dynn_X_pst_at_pst_kataay_i_act_" "dynn_Koosk_pst_eid_i_act_" "dynn_X_pst_alchaneid_i_act_" "dynn_Kiks_a_act_di" "dynn_Teeyineid_i_act_" "dynn_Deisheetaan" "dynn_Aanx_pst_aak_i_act_ttaan" "dynn_L_pst_eeneidi" "dynn_T_pst_akdeintaan" "dynn_L_pst_ukwaax_a_act_di" "dynn_Noowshakataay_i_act_" "dynn_Kw_a_act_ashk_pst_ikw_a_act_an" "dynn_Weix_pst_hineid_i_act_" "dynn_Y_e_act_eskaneid_i_act_" "dynn_L_pst_ookwhineid_i_act_" "dynn_Kuyeid_i_act_" "dynn_T_e_act_el_pst_h_i_act_ttaan" "dynn_Sakwteeneid_i_act_" "dynn_Kijookw_pst_h_i_act_ttaan" "dynn_Taneid_i_act_" "dynn_Kayaat_a_act_di" "dynn_Tukwyeid_i_act_" "dynn_Kaasx_pst_agweid_i_act_" "dynn_Taalkweid_i_act_" "dynn_Kuy_e_act_ik_pst__a_act_di" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+        mercenary_names = {
+            { name = mercenary_company_canadian_rangers }
+        }
+        
+}

@@ -1,0 +1,52 @@
+﻿mineiro = {
+	color = { 255 194 246 }
+	
+	ethos = ethos_communal
+	heritage = heritage_cafe_com_leite
+	language = language_mineiro
+	martial_custom = martial_custom_equal
+	name_list = name_list_mineiro
+	
+	traditions = {
+		#TODO
+		tradition_brazilian_cosmopolitanism
+		tradition_cheesemongers
+		tradition_forbearing
+		tradition_ancient_miners
+	}
+	
+	coa_gfx = {
+		mineiro_coa_gfx
+		sudestino_group_gfx
+		cafe_com_leite_group_gfx
+	}
+	building_gfx = {
+		mineiro_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cafe_com_leite_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		byzantine_clothing_gfx
+		latina_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		5 = arab
+		10 = caucasian
+		35 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		10 = black_white
+		1 = white_asian
+		5 = black_indigenous
+		25 = med_black_ind
+	
+	}
+}

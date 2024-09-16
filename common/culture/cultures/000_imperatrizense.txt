@@ -1,0 +1,53 @@
+﻿imperatrizense = {
+	color = { 62 99 237 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_cabano
+	language = language_maranhense
+	martial_custom = martial_custom_male_only
+	name_list = name_list_imperatrizense
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_stalwart_defenders
+		tradition_medicinal_plants
+		tradition_brazilian_cosmopolitanism
+	}
+	
+	coa_gfx = {
+		imperatrizense_coa_gfx
+		nortista_group_gfx
+	}
+	building_gfx = {
+		imperatrizense_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cabano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		5 = arab
+		5 = asian
+		5 = byzantine
+		5 = caucasian
+		5 = mediterranean
+		10 = amazonian
+		10 = mesoamerican_yuto_aztec
+		25 = white_indigenous
+		5 = black_white
+		5 = white_asian
+		5 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

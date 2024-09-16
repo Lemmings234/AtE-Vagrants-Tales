@@ -1,0 +1,41 @@
+﻿talamancan = {
+	color = { 84 145 68 }
+	
+	ethos = ethos_stoic #placeholder, randomly assigned
+	heritage = heritage_panamanian
+	language = language_talamanca
+	martial_custom = martial_custom_male_only
+	name_list = name_list_talamancan
+	
+	traditions = {
+		tradition_tribe_unity
+		tradition_family_entrepreneurship
+		tradition_gardening
+		tradition_mountain_homes
+	}
+	
+	coa_gfx = {
+		mesoamerican_group_gfx
+	}
+	building_gfx = {
+		talamancan_building_gfx
+		gran_colombian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_panamanian_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = mesoamerican_maya
+		25 = centralamerican_chibchan
+	
+	}
+}

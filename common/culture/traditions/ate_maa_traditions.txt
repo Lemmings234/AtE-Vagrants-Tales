@@ -1,0 +1,2600 @@
+﻿###################
+#Atlantic Canadian#
+###################
+#------#
+#Newfie#
+#------#
+tradition_wild_hunt = { # Replaces Practiced Pirates
+    category = regional
+
+	layers = {
+		0 = martial
+		1 = mediterranean
+		4 = viking.dds
+	}
+	
+	is_shown = { 
+		NOR = {
+			has_cultural_tradition = tradition_practiced_pirates
+		}
+		OR = {
+			this = culture:newfoundlander
+			any_parent_culture_or_above = {
+				OR = {
+					this = culture:newfoundlander
+				}
+			}
+		}
+	
+	}
+	
+	can_pick = {
+		custom_description = {
+			text = percentage_of_culture_on_coast_desc
+			any_culture_county = {
+				percent >= 0.5
+				any_county_province = {
+					is_coastal = yes
+				}
+			}
+		}
+	}
+	
+	parameters = {
+		unlock_maa_jolly_rovers = yes 
+		culture_can_raid_at_sea_even_if_feudal = yes
+		not_tribal_raiding_malus = yes
+	}
+
+	character_modifier = {
+		max_loot_mult = 0.25
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			# Ethos requirement.
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_desc
+				}
+			}
+			# Coastal requirement.
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.7
+							any_county_province = {
+								is_coastal = yes
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = high_coastal_percentage_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+	}
+}
+
+#--------------------#
+#Maritimers & Gaiheal#
+#--------------------#
+tradition_tribute_to_the_fallen = { #There can be only one!
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = knight.dds
+	}
+
+	is_shown = {
+
+		OR = {
+			this = culture:maritimer
+			this = culture:gaidheal
+			any_parent_culture_or_above = {
+				OR = {
+					this = culture:maritimer
+					this = culture:gaidheal
+				}
+			}
+		}
+	}
+	can_pick = {
+		NOR = {
+			has_cultural_tradition = tradition_reverence_for_veterans
+		}
+	}
+	
+	parameters = {
+		unlock_claymore_innovation = yes 
+		wounds_and_scars_give_bonuses = yes
+		guardians_can_transfer_commander_traits = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+	}
+	character_modifier = {
+		dynasty_house_opinion = 5
+		long_reign_bonus_mult = 0.50
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_bureaucratic = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_bureaucratic_desc
+				}
+			}
+			if = {
+				limit = {
+					exists = scope:character.house
+					NOT = {
+						scope:character.house = {
+							any_house_member = {
+								count >= 3
+								has_relation_friend = scope:character
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = house_friends_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+	}
+}
+#-----------------#
+#Abenaki & M'ikmaw#
+#-----------------#
+tradition_wandering_warriors = { # Replaces Swords for Hire
+category = combat
+
+	layers = {
+		0 = martial
+		1 = indian
+		4 = swords.dds
+	}
+	
+	is_shown = {
+			OR = {
+				this = culture:abenaki
+				this = culture:mikmaw
+				any_parent_culture_or_above = {
+					OR = {
+						this = culture:abenaki
+						this = culture:mikmaw
+					}
+				}
+			}
+		}
+	
+	can_pick = {
+		custom_description = {
+			text = tradition_wandering_warriors_enabled
+			NOT = { has_cultural_tradition = tradition_swords_for_hire }
+			OR = {
+				this = culture:abenaki
+				this = culture:mikmaw
+				any_parent_culture_or_above = {
+					OR = {
+						this = culture:abenaki
+						this = culture:mikmaw
+					}
+				}
+			}
+		}
+	}
+	
+	parameters = {
+	    unlock_maa_smaknisk = yes #reskinned Vigmen
+		wanderers_gain_extra_combat_skills = yes
+		mercenary_courtiers_gain_extra_skills = yes
+		more_likely_to_leave_court = yes
+	}
+	culture_modifier = {
+		mercenary_count_mult = 1
+	}
+	character_modifier = {
+		same_culture_mercenary_hire_cost_mult = -0.15
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					trigger_if = {
+						limit = {
+							scope:character = {
+								is_ai = no
+							}
+						}
+						NOT = {
+							any_ruler = {
+								count >= 5
+								culture = prev
+								primary_title.tier >= tier_county
+								OR = {
+									has_trait = education_martial_4
+									has_trait = education_martial_5
+								}
+							}
+						}
+					}
+					trigger_else = {
+						always = no
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = rulers_with_martial_edu_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		
+	}
+}
+
+###############
+#New Englander#
+###############
+tradition_yankee_ingenuity = { # Replaces Frugal Armorsmiths and Spartan
+    category = regional
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = tools.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_new_englander
+	}
+	can_pick = {
+		NOR = {
+			has_cultural_tradition = tradition_frugal_armorsmiths
+			has_cultural_tradition = tradition_spartan
+		}
+	}
+	
+	parameters = {
+	    unlock_smalltown_militias_innovation = yes #Innovation Unlocks Minutemen
+	}
+	
+	character_modifier = {
+
+		castle_holding_build_gold_cost = -0.15
+		castle_holding_holding_build_gold_cost = -0.15
+		army_maintenance_mult = -0.15
+		men_at_arms_recruitment_cost = -0.15
+		heavy_infantry_toughness_mult = -0.10
+		pikemen_toughness_mult = -0.10
+		heavy_cavalry_toughness_mult = -0.10
+		elephant_cavalry_toughness_mult = -0.10
+		knight_effectiveness_mult = -0.10
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_bureaucratic = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_bureaucratic_desc
+				}
+			}
+			if = {
+				limit = {	
+					NOT = {
+						scope:character = {	
+							number_maa_soldiers_of_base_type = {
+								type = skirmishers
+								value >= 500
+							}	
+							number_maa_soldiers_of_base_type = {
+								type = archers
+								value >= 500
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_small_soldiers_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+	}
+	
+}
+
+
+###
+#Amish
+###
+tradition_ordnung = {
+	category = societal
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = council.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_amish
+	}
+	can_pick = {
+		NOR = {
+			has_cultural_tradition = tradition_modest
+			has_cultural_tradition = tradition_staunch_traditionalists
+		}
+	}
+	
+	parameters = {
+		unlock_maa_war_buggies = yes 
+		temperate_trait_more_common = yes
+		introverted_trait_bonuses = yes
+		ambitious_trait_penalty = yes
+	}
+	character_modifier = {
+		monthly_prestige_gain_mult = -0.1
+		ai_boldness = -25
+		controlled_province_advantage = 5
+		monthly_county_control_growth_add = 0.3
+		cultural_head_fascination_mult = -0.05
+	}
+
+	
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_stoic_or_spiritual_desc
+				}
+			}
+			if = {
+				limit = {
+					trigger_if = {
+						limit = {
+							scope:character = {
+								is_ai = no
+							}
+						}
+						NOT = {
+							any_ruler = {
+								count >= 5
+								culture = prev
+								primary_title.tier >= tier_county
+								has_trait = temperate
+							}
+						}
+					}
+					trigger_else = {
+						always = no
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = rulers_with_temperate_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 50
+		if = {
+			limit = {
+				is_divergent_culture = no
+			}
+			multiply = 0
+		}
+	}
+}
+
+###########
+#Northlake#
+###########
+tradition_blitz_tactics = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = battle.dds
+	}
+	
+	is_shown = { #Replaces Warrior Culture
+		NOR = {
+			has_cultural_tradition = tradition_warrior_culture
+			has_cultural_tradition = tradition_fp1_coastal_warriors
+		}
+		has_cultural_pillar = heritage_northlake
+	
+	}
+	can_pick = {
+		culture_not_pacifistic_trigger = yes
+
+	}
+	
+	parameters = {
+		unlock_maa_linemen = yes #reskinned huscarls
+		strong_traits_more_valued = yes
+		strong_traits_more_common = yes
+		weak_traits_looked_down_upon = yes
+		rowdy_trait_more_common = yes
+		pensive_trait_less_common = yes
+		supports_stratocracy = yes
+	}
+	character_modifier = {
+		cultural_head_fascination_mult = -0.15
+		knight_limit = 1
+		prowess = 2
+		ai_boldness = 25
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_or_spiritual_desc
+				}
+			}
+			if = {
+				limit = {
+					trigger_if = {
+						limit = {
+							scope:character = {
+								is_ai = no
+							}
+						}
+						NOT = {
+							any_ruler = {
+								count >= 3
+								culture = prev
+								primary_title.tier >= tier_county
+								OR = {	
+									has_trait = strong
+									has_trait = physique_good
+								}
+							}
+						}
+					}
+					trigger_else = {
+						always = no
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = strong_rulers_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+
+tradition_cowboys = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = cowboys.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_texan
+			has_cultural_pillar = heritage_midwestern
+			has_cultural_pillar = heritage_frontieran
+			#has_cultural_pillar = heritage_vaquero
+			#has_cultural_pillar = heritage_western_sertanejo
+			#has_cultural_pillar = heritage_llanero
+		}
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_texan
+			has_cultural_pillar = heritage_midwestern
+			has_cultural_pillar = heritage_frontieran
+			#has_cultural_pillar = heritage_vaquero
+			#has_cultural_pillar = heritage_western_sertanejo
+			#has_cultural_pillar = heritage_llanero
+		}
+	}
+
+	parameters = {
+		unlock_maa_cowboys = yes
+		#can_recruit_open_specialist = yes
+
+		pastures_building_bonuses = yes
+
+		unlock_rodeos = yes #TODO
+		
+		preference_to_range = yes
+	}
+
+	character_modifier = {
+		#light_cavalry_damage_mult = 0.1
+		#light_cavalry_screen_mult = 0.1
+		steppe_cancel_negative_supply = yes
+		plains_cancel_negative_supply = yes
+		supply_duration = 1
+		movement_speed = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_or_communal_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+			#if = {
+			#	limit = {
+			#		NOR = {
+			#			has_cultural_pillar = heritage_turkic
+			#			has_cultural_pillar = heritage_mongolic
+			#		}
+			#	}
+			#	add = {
+			#		value = tradition_unfulfilled_criteria_penalty
+			#		desc = steppe_heritage_reduction_desc
+			#	}
+			#}
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_boiadeiros = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = gaucho.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_western_sertanejo
+		}
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_western_sertanejo
+		}
+	}
+
+	parameters = {
+		unlock_maa_cowboys = yes
+		can_recruit_open_specialist = yes
+
+		unlock_rodeos = yes #TODO
+		
+		preference_to_range = yes
+		preference_to_range = yes
+	}
+
+	character_modifier = {
+		light_cavalry_damage_mult = 0.1
+		light_cavalry_screen_mult = 0.1
+		drylands_cancel_negative_supply = yes
+		supply_duration = 1
+		movement_speed = 0.1
+		wetlands_attrition_mult = -0.15
+		steppe_attrition_mult = -0.15
+		floodplains_attrition_mult = -0.15
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_or_communal_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_llaneros = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = swamp.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_llanero
+		}
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_llanero
+		}
+	}
+
+	parameters = {
+		unlock_maa_cowboys = yes
+		can_recruit_open_specialist = yes
+
+		unlock_rodeos = yes #TODO
+		
+		preference_to_range = yes
+	}
+
+	character_modifier = {
+		light_cavalry_damage_mult = 0.1
+		light_cavalry_screen_mult = 0.1
+		wetlands_cancel_negative_supply = yes
+		supply_duration = 1
+		movement_speed = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_or_communal_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_soldados_de_cuera = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = rider.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_vaquero
+		}
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_vaquero
+		}
+		NOT = { 
+			has_cultural_tradition = tradition_charreria
+		}
+	}
+
+	parameters = {
+		unlock_maa_cowboys = yes
+		can_recruit_open_specialist = yes
+
+		unlock_rodeos = yes #TODO
+		
+		preference_to_range = yes
+	}
+
+	character_modifier = {
+		light_cavalry_damage_mult = 0.1
+		light_cavalry_screen_mult = 0.1
+		drylands_cancel_negative_supply = yes
+		supply_duration = 1
+		movement_speed = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_or_communal_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_mercenary_soccer = {
+	category = combat
+
+	layers = {
+		0 = martial
+		1 = mediterranean
+		4 = mercenarysoccer.dds
+	}
+	
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_platense
+			#has_cultural_pillar = heritage_gaucho
+			has_cultural_pillar = heritage_sulista
+			has_cultural_pillar = heritage_serra_do_mar
+			has_cultural_pillar = heritage_cafe_com_leite
+			has_cultural_pillar = heritage_paulistanico
+			any_parent_culture = {
+				has_cultural_tradition = tradition_mercenary_soccer
+			}
+		}
+	}
+
+	can_pick = {
+		custom_description = {
+			text = tradition_mercenary_soccer_enabled
+			OR = {
+				has_cultural_pillar = heritage_platense
+				#has_cultural_pillar = heritage_gaucho
+				has_cultural_pillar = heritage_sulista
+				has_cultural_pillar = heritage_serra_do_mar
+				has_cultural_pillar = heritage_cafe_com_leite
+				has_cultural_pillar = heritage_paulistanico
+				any_parent_culture = {
+					has_cultural_tradition = tradition_mercenary_soccer
+				}
+			}
+		}
+	}
+
+	parameters = {
+		wanderers_gain_extra_combat_skills = yes
+		mercenary_courtiers_gain_extra_skills = yes
+		more_likely_to_leave_court = yes
+
+		unlock_maa_barras_bravas = yes
+
+		soldiers_wear_soccer_jerseys = yes
+	}
+	culture_modifier = {
+		mercenary_count_mult = 1
+	}
+	character_modifier = {
+		same_culture_mercenary_hire_cost_mult = -0.15
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_courtly_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					trigger_if = {
+						limit = {
+							scope:character = {
+								is_ai = no
+							}
+						}
+						NOT = {
+							any_ruler = {
+								count >= 5
+								culture = prev
+								primary_title.tier >= tier_county
+								OR = {
+									has_trait = education_martial_4
+									has_trait = education_martial_5
+								}
+							}
+						}
+					}
+					trigger_else = {
+						always = no
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = rulers_with_martial_edu_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_hillsea_riders = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = rider.dds
+	}
+
+	#Replaces Highland Warriors
+	is_shown = {
+		has_cultural_pillar = heritage_cafe_com_leite
+		NOT = { has_cultural_tradition = tradition_highland_warriors }
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_cafe_com_leite
+		custom_description = {
+			text = culture_in_hills_desc
+			any_culture_county = {
+				any_county_province = {
+					terrain = hills
+				}
+			}
+		}
+	}
+
+	parameters = {
+		unlock_maa_tropeiro = yes
+		hill_farms_building_bonuses = yes
+
+		rough_terrain_expert_trait_more_common = yes
+		hill_trait_bonuses = yes
+		can_recruit_hill_specialist = yes
+	}
+	
+	character_modifier = {
+		hills_travel_danger = hills_medium_danger_reduction
+	}
+	
+	province_modifier = {
+		hills_levy_size = 0.1
+		hills_supply_limit_mult = 0.25
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_communal_or_stoic_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								terrain = hills
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = hill_percentage_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							culture = scope:character.culture
+							any_county_province = {
+								terrain = hills
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+
+tradition_cangaco = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = soldiers.dds
+	}
+
+	#Can pick this if you have arabic heritage.
+	is_shown = { #Replaces Warriors of the Dry
+		OR = {
+			has_cultural_pillar = heritage_northern_sertanejo
+			has_cultural_pillar = heritage_geraizeiro
+			has_cultural_pillar = heritage_cariri
+		}
+	}
+	can_pick = {
+		culture_not_pacifistic_trigger = yes
+		trigger_if = {
+			limit = {
+				OR = {
+					NOT = { exists = scope:replacing }
+					NOT = { scope:replacing = culture_tradition:tradition_warriors_of_the_dry }
+				}
+			}
+			NOT = { has_cultural_tradition = tradition_warriors_of_the_dry } #To prevent stacking after hybridization
+		}
+	}
+
+	parameters = {
+		unlock_maa_cangaceiro = yes
+
+		desert_warrior_trait_more_common = yes
+		dry_trait_bonuses = yes
+		can_recruit_dry_specialist = yes
+
+		can_raid_even_if_non_tribal = yes
+	}
+	character_modifier = {
+		drylands_levy_size = 0.1
+		floodplains_levy_size = 0.1
+		drylands_supply_limit_mult = 0.25
+		floodplains_supply_limit_mult = 0.25
+		drylands_travel_danger = drylands_medium_danger_reduction
+		floodplains_travel_danger = floodplains_medium_danger_reduction
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								OR = {
+									terrain = drylands
+									terrain = floodplains
+								}
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = dry_percentage_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							culture = scope:character.culture
+							any_county_province = {
+								OR = {
+									terrain = drylands
+									terrain = floodplains
+								}
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+
+tradition_bentwood_crafts = {
+	category = combat
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = forest.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_upper_coast
+			has_cultural_pillar = heritage_lower_coast
+		}
+	}
+
+	parameters = {
+		unlock_maa_bentwood_warrior = yes
+		can_travel_along_rivers = yes
+
+	}
+
+	character_modifier = {
+		heavy_infantry_maintenance_mult = -0.15
+		heavy_infantry_recruitment_cost_mult = -0.25
+
+		knight_effectiveness_mult = 0.1
+		embarkation_cost_mult = -0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					scope:character = {
+						NOR = { # Culture Head need to have a 8 sized regiment of heavy inf
+							number_maa_soldiers_of_base_type = {
+								type = heavy_infantry
+								value >= 800
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_infantry_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_dog_breeders  = {
+	category = combat
+
+	layers = {
+		0 = learning
+		1 = western
+		4 = conversation.dds
+	}
+
+	can_pick = {
+		culture_not_pacifistic_trigger = yes
+		culture_in_winter_geographical_region_trigger = yes
+		NOT = {
+			has_cultural_tradition = tradition_winter_warriors
+		}
+	}
+	parameters = {
+		winter_soldier_trait_more_common = yes
+		winter_trait_bonuses = yes
+		can_recruit_winter_specialist = yes
+
+		unlock_maa_dog_sleds = yes
+
+
+	}
+
+	character_modifier = {
+		diplomatic_range_mult = 0.1
+		
+		winter_movement_speed = 0.1
+	}
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								geographical_region = world_arctic
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = winter_percentage_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							percent >= 0.3
+							culture = scope:character.culture
+							any_county_province = {
+								geographical_region = world_arctic
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+
+tradition_gaucho_legacy = { #based on Konni Raids
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = gaucho.dds
+	}
+
+	#This replaces Hit and Run
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_gaucho
+		}
+	}
+	can_pick = {
+		trigger_if = {
+			limit = {
+				OR = {
+					NOT = { exists = scope:replacing }
+					NOT = { scope:replacing = culture_tradition:tradition_hit_and_run }
+				}
+			}
+			NOT = { has_cultural_tradition = tradition_hit_and_run } #To prevent stacking after hybridization
+		}
+	}
+
+	parameters = {
+		unlock_maa_gaucho_jinetes = yes
+		preference_to_range = yes
+	}
+	character_modifier = {
+		skirmishers_damage_mult = 0.05
+		skirmishers_screen_mult = 0.1
+		light_cavalry_damage_mult = 0.05
+		light_cavalry_screen_mult = 0.1
+		siege_weapon_siege_value_mult = -0.2
+		retreat_losses = -0.1
+		hard_casualty_modifier = -0.1
+		advantage = -2
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_stoic_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							number_maa_soldiers_of_base_type = {
+								type = light_cavalry
+								value >= 500
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_light_cavalry_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 100 }
+}
+
+tradition_incaic_legacy = {
+	category = regional
+
+	layers = {
+		0 = steward
+		1 = indian
+		4 = mountain.dds
+	}
+
+	is_shown = {
+		has_cultural_pillar = heritage_andino
+	}
+
+	can_pick = {
+		has_cultural_pillar = heritage_andino
+		custom_description = {
+			text = culture_in_mountains_desc
+			any_culture_county = {
+				any_county_province = {
+					OR = {
+						terrain = mountains
+						terrain = desert_mountains
+					}
+				}
+			}
+		}
+	}
+
+	parameters = {
+		unlock_maa_kamayuq = yes 
+		quarries_building_bonuses = yes
+		unlock_building_terrace_farms = yes
+		hill_farms_building_bonuses = yes
+		rough_terrain_expert_trait_more_common = yes
+		mountain_trait_bonuses = yes
+		can_recruit_mountain_specialist = yes
+		can_form_ayllu=yes
+	}
+
+	county_modifier = {
+		hills_development_growth_factor = 0.1
+		mountains_development_growth_factor = 0.1
+	}
+	
+	character_modifier = {
+		hills_travel_danger = hills_medium_danger_reduction
+		mountains_travel_danger = mountains_medium_danger_reduction
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_stoic_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								terrain = mountains
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = mountain_true_percentage_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							culture = scope:character.culture
+							any_county_province = {
+								OR = {
+									terrain = mountains
+									terrain = hills
+								}
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+
+tradition_southern_knights = {
+#Replaces Martial Admiration
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = indian
+		4 = knight.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_old_south
+			has_cultural_pillar = heritage_deep_south
+		}
+		NOR = { #Replaces Martial Admiration
+			has_cultural_tradition = tradition_futuwaa
+			has_cultural_tradition = tradition_druzhina
+			has_cultural_tradition = tradition_martial_admiration
+		}
+	}
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_old_south
+			has_cultural_pillar = heritage_deep_south
+		}
+		NOR = { #Replaces Martial Admiration
+			has_cultural_tradition = tradition_futuwaa
+			has_cultural_tradition = tradition_druzhina
+			has_cultural_tradition = tradition_martial_admiration
+		}
+	}
+
+	parameters = {
+		unlock_maa_paladin = yes
+		gallant_trait_bonuses = yes
+		martial_education_more_valued = yes
+		prowess_traits_more_valued = yes
+		blademaster_trait_bonuses = yes
+		craven_and_content_traits_looked_down_upon = yes
+		knights_slightly_more_prone_to_injury = yes
+		can_duel_rivals = yes
+		supports_stratocracy = yes
+		can_form_feudal=yes
+	}
+	character_modifier = {
+		knight_limit = 2
+		monthly_prestige_gain_per_knight_mult = 0.02
+		negate_prowess_penalty_add = 5 # Wounded knights fight better!
+		accolade_glory_gain_mult = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_courtly = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_courtly_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							any_knight = {
+								count >= 6
+								prowess >= 12
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = knights_with_prowess_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 100 }
+}
+
+tradition_forest_wardens = {
+	category = regional
+
+	is_shown = {
+			OR = {
+				has_cultural_pillar = heritage_north_pacific
+				has_cultural_pillar = heritage_boreal
+				has_cultural_pillar = heritage_dene
+				any_parent_culture = {
+					has_cultural_tradition = tradition_forest_wardens
+				}
+			}
+	}
+	can_pick = {
+		NOT = { has_cultural_tradition = tradition_forest_folk }
+		OR = {
+			has_cultural_pillar = heritage_north_pacific
+			has_cultural_pillar = heritage_boreal
+			has_cultural_pillar = heritage_dene
+			custom_description = {
+				text = culture_in_forest_desc
+				any_culture_county = {
+					any_county_province = {
+						OR = {
+							terrain = forest
+							terrain = taiga
+						}
+					}
+				}
+			}
+		}
+	}
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = forest.dds
+	}
+	
+	parameters = {
+		unlock_maa_rangers = yes
+		logging_camps_building_bonuses = yes
+		can_recruit_forest_specialist = yes
+		forest_fighter_trait_more_common = yes
+	}
+	character_modifier = {
+		forest_travel_danger = forest_medium_danger_reduction
+		taiga_travel_danger = taiga_medium_danger_reduction
+	}
+	county_modifier = {
+		forest_development_growth_factor = 0.15
+		taiga_development_growth_factor = 0.15
+	}
+	province_modifier = {
+		forest_construction_gold_cost = -0.1
+		taiga_construction_gold_cost = -0.1
+		forest_holding_construction_gold_cost = -0.1
+		taiga_holding_construction_gold_cost = -0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								OR = {
+									terrain = forest
+									terrain = taiga
+								}
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = forest_percentage_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							culture = scope:character.culture
+							any_county_province = {
+								OR = {
+									terrain = forest
+									terrain = taiga
+								}
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+
+tradition_aztec_legacy = {  #TODO
+	category = combat
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = temple.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_mesoamerican
+			any_parent_culture = {
+				has_cultural_tradition = tradition_aztec_legacy
+			}
+		}
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_mesoamerican
+			any_parent_culture = {
+				has_cultural_tradition = tradition_aztec_legacy
+			}
+		}
+	}
+
+	parameters = {
+		unlock_maa_eagle_warrior = yes
+		can_use_conquest_cbs = yes
+	}
+
+	character_modifier = {
+		heavy_infantry_maintenance_mult = -0.15
+		heavy_infantry_recruitment_cost_mult = -0.25
+
+		knight_effectiveness_mult = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+			if = {
+				limit = {
+					scope:character = {
+						NOR = { # Culture Head need to have a 8 sized regiment of heavy inf
+							number_maa_soldiers_of_base_type = {
+								type = heavy_infantry
+								value >= 800
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_infantry_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_light_feet = {  
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = pragmatic_creed.dds
+	}
+
+	is_shown = {
+		has_cultural_pillar = heritage_aridomex
+	}
+
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_aridomex
+			any_parent_culture = {
+				has_cultural_tradition = tradition_light_feet
+			}
+		}
+	}
+
+	parameters = {
+		unlock_maa_yokitame = yes
+
+	}
+
+	character_modifier = {
+		character_travel_speed_mult = 0.15
+		movement_speed = 0.15
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_communal = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_stoic_or_communal_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+	}
+}
+
+tradition_charreria = { 
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = western
+		4 = rider.dds
+	}
+
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_novohispano
+		}
+	}
+	can_pick = {
+		OR = {
+			has_cultural_pillar = heritage_novohispano
+			any_parent_culture = {
+				has_cultural_tradition = tradition_charreria
+			}
+		}
+		NOT = { 
+			has_cultural_tradition = tradition_soldados_de_cuera 
+		}
+	}
+
+	parameters = {
+		unlock_maa_charros = yes
+	}
+	character_modifier = {
+		light_cavalry_damage_mult = 0.05
+		light_cavalry_screen_mult = 0.1
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_stoic_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {
+							number_maa_soldiers_of_base_type = {
+								type = light_cavalry
+								value >= 500
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_light_cavalry_desc
+				}
+			}
+
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = { value = 100 }
+}
+
+tradition_desert_ribat = {
+	category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = city2.dds
+	}
+	
+	is_shown = {
+		OR = {
+			has_cultural_pillar = heritage_rockland
+			has_cultural_pillar = heritage_plateau
+			has_cultural_pillar = heritage_frontieran
+		}
+	}
+	can_pick = {
+		culture_not_pacifistic_trigger = yes
+		custom_description = {
+			text = culture_in_dryland_desc
+			any_culture_county = {
+				any_county_province = {
+					OR = {
+						terrain = drylands
+						terrain = desert
+					}
+				}
+			}
+		}
+	}
+	
+	parameters = {
+		unlock_maa_desert_horsemen = yes #reskinned mulaththuman
+		desert_warrior_trait_more_common = yes
+		dry_trait_bonuses = yes
+		can_recruit_dry_specialist = yes
+		mystic_trait_more_common = yes
+	}
+	character_modifier = {
+		prowess_per_piety_level = 1
+		desert_travel_danger = desert_medium_danger_reduction
+		drylands_travel_danger = drylands_medium_danger_reduction
+		desert_mountains_travel_danger = desert_mountains_medium_danger_reduction
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOR = {
+						culture_pillar:ethos_bellicose = { is_in_list = traits }
+						culture_pillar:ethos_stoic = { is_in_list = traits }
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_bellicose_spiritual_or_stoic_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								OR = {
+									terrain = drylands
+									terrain = desert
+								}
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = dry_percentage_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							culture = scope:character.culture
+							any_county_province = {
+								OR = {
+									terrain = drylands
+									terrain = desert
+								}
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+#------------#
+#Mesoamerican#
+#------------#
+tradition_tlacolol = {
+	category = realm
+
+	layers = {
+		0 = steward
+		1 = mena
+		4 = mountain.dds
+	}
+
+	is_shown = {
+		NOT = { has_cultural_tradition = tradition_hill_dwellers }
+		OR = {
+			has_cultural_pillar = heritage_mesoamerican
+			has_cultural_pillar = heritage_novohispano
+		}
+	}
+	
+	can_pick = {
+		NOT = { has_cultural_tradition = tradition_hill_dwellers }
+		custom_description = {
+			text = culture_in_hills_desc
+			any_culture_county = {
+				any_county_province = {
+					terrain = hills
+				}
+			}
+		}
+	}
+	
+	parameters = {
+		unlock_tlacololeros_innovation = yes
+		unlock_maa_tlacololeros = yes
+		hill_farms_building_bonuses = yes
+	}
+	county_modifier = {
+		hills_development_growth_factor = 0.2
+	}
+	province_modifier = {
+		hills_construction_gold_cost = -0.1
+		hills_holding_construction_gold_cost = -0.1
+	}
+	character_modifier = {
+		hills_advantage = 5
+		hills_travel_danger = hills_medium_danger_reduction
+	}
+
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						culture_pillar:ethos_spiritual = { is_in_list = traits }
+					}
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = not_spiritual_desc
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							percent >= 0.3
+							any_county_province = {
+								terrain = hills
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = hill_percentage_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOT = {
+					scope:character = {
+						any_sub_realm_county = {
+							percent >= 0.2
+							culture = scope:character.culture
+							any_county_province = {
+								terrain = hills
+							}
+						}
+					}
+				}
+			}
+			multiply = 0
+		}
+	}
+}
+#------#
+#Louisianais#
+#------#
+tradition_mardi_gras = { #
+    category = regional
+
+	layers = {
+		0 = martial
+		1 = mena
+		4 = horses.dds
+	}
+	
+	is_shown = {
+		has_cultural_pillar = heritage_louisianais
+	}
+	
+	can_pick = {
+		has_cultural_pillar = heritage_louisianais
+	}
+	
+	parameters = {
+		unlock_maa_mardi_gras = yes 
+		more_frequent_feasts = yes
+		reveler_traits_more_common = yes
+		reveler_traits_more_valued = yes
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+	}
+}
+
+#--------------#
+#Recifolindense#
+#--------------#
+tradition_mud_to_chaos = {
+	category = realm
+
+	layers = {
+		0 = steward
+		1 = mena
+		4 = svamp.dds
+	}
+	
+	can_pick = {
+		NOT = { has_cultural_tradition = tradition_wetlanders}
+		custom_tooltip = {
+			text = culture_in_wetlands_desc
+			any_culture_county = {
+				any_county_province = {
+					terrain = wetlands
+				}
+			}
+		}
+	}
+	
+	parameters = {
+		unlock_maa_crabmen = yes
+		peat_quarries_building_bonuses = yes
+		wetlands_hunt_success_chance = yes
+	}
+	character_modifier = {
+		skirmishers_damage_mult = 0.05
+		skirmishers_screen_mult = 0.1
+		
+		wetlands_travel_danger = wetlands_high_danger_reduction
+		floodplains_travel_danger = floodplains_high_danger_reduction
+		flooded_forests_travel_danger = flooded_forests_high_danger_reduction
+		flooded_forests_advantage = 10
+	}
+	county_modifier = {
+		flooded_forests_development_growth_factor = 0.25
+	}
+	province_modifier = {
+		flooded_forests_construction_gold_cost = -0.15
+		flooded_forests_holding_construction_gold_cost = -0.15
+		flooded_forests_levy_size = 0.1
+		flooded_forests_supply_limit_mult = 0.25
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					culture_pillar:ethos_bellicose = { is_in_list = traits }
+				}
+				add = {
+					value = tradition_incompatible_ethos_penalty
+					desc = culture_not_bellicose
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						any_culture_county = {
+							count >= 3
+							any_county_province = {
+								terrain = wetlands
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_in_wetlands_count_desc
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+	
+	}
+}
+#------#
+#### Mesanglo Belize Miskito Garinagu ####
+#------#
+tradition_royal_defence = {
+	category = realm
+
+	layers = {
+		0 = diplo
+		1 = mediterranean
+		4 = battle.dds
+	}
+	is_shown = {
+		has_cultural_pillar = heritage_mesanglo
+	}
+	can_pick = {
+		has_cultural_pillar = heritage_mesanglo
+		NOT = { has_cultural_tradition = tradition_wetlanders }
+	}
+	
+	parameters = {
+		peat_quarries_building_bonuses = yes
+		wetlands_hunt_success_chance = yes
+		extra_language_cap_2 = yes
+		castle_holding_fort_level_in_jungle_bonus = yes
+	}
+	character_modifier = {
+		wetlands_advantage = 10
+		jungle_advantage = 5
+		skirmishers_screen_mult = 0.3 #placeholder for MaA
+		skirmishers_recruitment_cost_mult = -0.15
+		archers_recruitment_cost_mult = -0.15
+		diplomatic_range_mult = 0.2
+		coastal_sea_travel_danger = medium_sea_danger_reduction
+	}
+	province_modifier = {
+		wetlands_construction_gold_cost = -0.2
+		wetlands_holding_construction_gold_cost = -0.2
+		wetlands_levy_size = 0.1
+		wetlands_supply_limit_mult = 0.25
+		
+		#No_Flooded_forest_there
+		#flooded_forests_construction_gold_cost = -0.2
+		#flooded_forests_holding_construction_gold_cost = -0.2
+		#flooded_forests_levy_size = 0.1
+		#flooded_forests_supply_limit_mult = 0.25
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 50
+	
+	}
+}
+#------#
+### Mapuche ###
+#------#
+tradition_newentun = {
+	category = realm
+
+	layers = {
+		0 = martial
+		1 = mediterranean
+		4 = battle.dds
+	}
+	is_shown = {
+		has_cultural_pillar = heritage_austral
+	}
+	
+	can_pick = {
+		has_cultural_pillar = heritage_austral
+		OR = {
+			has_cultural_pillar = language_mapunzungun #sorry selknam
+			has_cultural_pillar = language_reifun
+		}
+		NOT = { has_cultural_tradition = tradition_warrior_culture }
+	}
+	province_modifier = {
+		levy_size = 0.1
+	}
+	parameters = {
+		unlock_maa_weichafe = yes
+		strong_traits_more_valued = yes
+		strong_traits_more_common = yes
+		weak_traits_looked_down_upon = yes
+		rowdy_trait_more_common = yes
+		pensive_trait_less_common = yes
+		supports_stratocracy = yes
+		
+	}
+	character_modifier = {
+		knight_effectiveness_mult = 0.1
+		light_cavalry_max_size_add = 2
+		skirmishers_max_size_add = 2
+		pikemen_max_size_add = 2
+		ai_boldness = 25
+		
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character = {	
+							number_maa_soldiers_of_base_type = {
+								type = skirmishers
+								value >= 500
+							}	
+							number_maa_soldiers_of_base_type = {
+								type = light_cavalry
+								value >= 500
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = culture_head_skirmishers_and_light_cav_desc
+				}
+			}
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOR = {
+					culture_has_skirmisher_maa = yes
+					culture_has_light_cavalry_maa = yes
+				}
+			}
+			multiply = 0.25
+		}
+	}
+}
+
+tradition_ad_mapu = {
+	category = realm
+
+	layers = {
+		0 = diplo
+		1 = mediterranean
+		4 = council.dds
+	}
+	is_shown = {
+		has_cultural_pillar = heritage_austral
+	}
+	
+	can_pick = {
+		has_cultural_pillar = heritage_austral
+		OR = {
+			has_cultural_pillar = language_mapunzungun #sorry selknam
+			has_cultural_pillar = language_reifun
+		}
+	}
+	
+	parameters = {
+		wants_to_learn_liege_language = yes
+		#harder_to_convert_county_culture_without_heritage = yes
+		easier_to_convert_county_culture_with_heritage = yes
+		tribal_elective_enabled = yes
+		just_trait_gives_bonuses = yes
+		pardoning_gives_prestige = yes
+	}
+	character_modifier = {
+	
+		owned_personal_scheme_success_chance_add = 10
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = {
+		value = 100
+		if = {
+			limit = {
+				NOR = {
+					culture_has_skirmisher_maa = yes
+					culture_has_light_cavalry_maa = yes
+				}
+			}
+			multiply = 0.25
+		}
+	}
+}

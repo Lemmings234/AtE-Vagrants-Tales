@@ -1,0 +1,26 @@
+﻿name_list_tehrangeleno = {
+        male_names = { Abbas Adel Aghil Akbar Alborz Ali Arash Ardashir Aresh Arman Arya Aryan Bahaullah Bahman Bahram Baqir Bardia Bashir Behnam Behrouz Casim Casper Chavdar Chengeez Cyrus Darius Dariush Daron Darwish Dastan Emad Esfandiyar Eskandar Farbod Farhad Farhid Fariborz Farook Faroqh Farshid Firuz Habeel Hassan Hayk Hesam Hoshyar Houmayun Hovsep Hrach Hrachya Humayun Hussayn Isa Isfandiyar Jahandar Jahangir Jahanshah Jasper Javan Javeed Jihan Kamran Karen Kayan Khosrau Koroush Milad Mirza Mohammadreza Mohsen Morteza Muhammad Mukammal Mursalin Nizamalmulk Nizamuddin Noori Nouman Parviz Raffi Ramin Reza Rostam Saeed Sako Salim Samsher Serzh Shah Shaheen Shahpur Shahrokh Shahruz Shahyar Sohrab Tigran Tsolak Varaz Yahya Yar Zakariya Zane Zaryab Zerin Zurab }
+        female_names = { Afsaneh Ahoo Allysiah Amira Armani Armine Aryana Astrella Atossa Aziza Bahar Bakhita Berin Daana Daria Darien Delnaz Dibba Dilara Farah Farahnoush Fareena Fariba Farideh Farzanah Fatemah Firouzan Firouzeh Gulnar Gulshan Gulzaar Jahan Jahankhatoun Jasmin Jasperine Jazmin Kaameh Kawkab Khatun Khawla Kiriana Kiya Kyra Laleh Leily Leyla Liana Mahnaz Mahrukh Mahtab Malakeh Marzhan Megara Mehriban Minoo Mirana Naasiah Nadia Nahal Naheed Nahrin Najma Narges Narina Nasrin Negar Nijaza Parastoo Parvaneh Parveen Pouran Rayhana Robabeh Roushanoura Rushana Rushanak Sadie Sahba Sanaz Shahida Shahmir Shahnaz Shahrbano Shahrnaz Shahrzade Shahwar Shirin Sona Soussan Sumayyah Zafira Zahra Zarafshan Zayda Zayna Zeynab Zohreh }
+        dynasty_names = { "dynn_Abbas" "dynn_Abedani" "dynn_Ahmadi" "dynn_Ansari" "dynn_Aram" "dynn_Bareghani" "dynn_Hamadani" "dynn_Ibrihimi" "dynn_Isfahani" "dynn_Jafari" "dynn_Jalili" "dynn_Javad" "dynn_Karimi" "dynn_Kazmi" "dynn_Khamenei" "dynn_Khatami" "dynn_Khomeini" "dynn_Mahmoudi" "dynn_Mousavi" "dynn_Najafi" "dynn_Nazari" "dynn_Pahlavi" "dynn_Qazwini" "dynn_Rahmani" "dynn_Rashidi" "dynn_Resvani" "dynn_Rouhani" "dynn_Salehi" "dynn_Talebi" "dynn_Tehrani" "dynn_Tousi" "dynn_Yousefi" "dynn_Zahedi" }
+        cadet_dynasty_names = { "dynn_Abbas" "dynn_Abedani" "dynn_Ahmadi" "dynn_Ansari" "dynn_Aram" "dynn_Bareghani" "dynn_Hamadani" "dynn_Ibrihimi" "dynn_Isfahani" "dynn_Jafari" "dynn_Jalili" "dynn_Javad" "dynn_Karimi" "dynn_Kazmi" "dynn_Khamenei" "dynn_Khatami" "dynn_Khomeini" "dynn_Mahmoudi" "dynn_Mousavi" "dynn_Najafi" "dynn_Nazari" "dynn_Pahlavi" "dynn_Qazwini" "dynn_Rahmani" "dynn_Rashidi" "dynn_Resvani" "dynn_Rouhani" "dynn_Salehi" "dynn_Talebi" "dynn_Tehrani" "dynn_Tousi" "dynn_Yousefi" "dynn_Zahedi" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 45
+        mat_grf_name_chance = 15
+        father_name_chance = 30
+        pat_grm_name_chance = 40
+        mat_grm_name_chance = 10
+        mother_name_chance = 40
+        
+        mercenary_names = {
+            { name = mercenary_company_fighting_javidan }
+    { name = mercenary_company_urban_achievers }
+     { name = mercenary_company_sag }
+     { name = mercenary_company_masked_men }
+        }
+        
+}

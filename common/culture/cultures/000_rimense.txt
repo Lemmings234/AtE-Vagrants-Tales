@@ -1,0 +1,53 @@
+﻿rimense = {
+	color = { 255 59 131 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_nazco
+	language = language_costallano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_rimense
+	
+	traditions = {
+		tradition_family_entrepreneurship
+		tradition_cosmopolitan_elitism
+		tradition_republican_legacy
+		tradition_maritime_mercantilism
+	}
+	
+	coa_gfx = {
+		rimense_coa_gfx
+		peruano_group_gfx
+	}
+	building_gfx = {
+		rimense_building_gfx
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_nazco_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		5 = asian
+		1 = caucasian
+		25 = mediterranean
+		35 = andean
+		3 = asian_southern_han
+		1 = asian_austronesian
+		5 = amazonian
+		15 = mesoamerican_yuto_aztec
+		
+		1 = white_asian
+		2 = black_indigenous
+		1 = multiracial
+		10 = med_black_ind
+	
+	}
+}

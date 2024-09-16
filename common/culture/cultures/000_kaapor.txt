@@ -1,0 +1,45 @@
+﻿kaapor = {
+	color = { 160 61 153 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_maranhense
+	language = language_kaapor
+	martial_custom = martial_custom_equal
+	name_list = name_list_kaapor
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_tribe_unity
+		tradition_medicinal_plants
+		tradition_hard_working
+	}
+	
+	coa_gfx = {
+		kaapor_coa_gfx
+		xingu_group_gfx
+	}
+	building_gfx = {
+		kaapor_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_maranhense_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amazonian
+		10 = mesoamerican_yuto_aztec
+		10 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

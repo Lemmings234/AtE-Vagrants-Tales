@@ -1,0 +1,53 @@
+﻿caipira = {
+	color = { 115 210 60 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_western_sertanejo
+	language = language_caipira
+	martial_custom = martial_custom_male_only
+	name_list = name_list_caipira
+	
+	traditions = {
+		tradition_boiadeiros
+		tradition_pastoralists
+		tradition_zealous_people
+		tradition_RICE_expert_apiculture
+	}
+	
+	coa_gfx = {
+		caipira_coa_gfx
+		centrestino_group_gfx
+	}
+	building_gfx = {
+		caipira_building_gfx
+		brazilian_dry_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_western_sertanejo_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		centrestino_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		10 = arab
+		10 = asian
+		3 = byzantine
+		20 = caucasian
+		30 = mediterranean
+		2 = slavic
+		2 = mesoamerican_yuto_aztec
+		5 = black_white
+		2 = white_asian
+		3 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

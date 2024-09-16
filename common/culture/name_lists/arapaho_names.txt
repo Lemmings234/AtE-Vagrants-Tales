@@ -1,0 +1,138 @@
+﻿name_list_arapaho = {
+
+	#compiled by Lahom
+	#Some of the dynasties are Shoshone surnames found on the Wind River Reservation
+	#Did not use accents since use was inconsistent in materials, yell at us if this should be changed
+
+	male_names = {
+		Be_pst_ii_pst_eihii Bee_pst_ee_pst_eit Beneexookuuneet Bexookee Bexookeesoo Biiciisbe_pst_e_i_act_ Biixono Bo_pst_onookee Bo_pst_ooceibiis
+		Ceneeteenii_pst_ehii Ceeni_pst_ihi_pst_ Ceniinoseit Cetoun Co_pst_oteni_pst_ Cowo_pst_ouh
+		Hebes Hecesiwox Heebetox Heeni_pst_hokecii Heeniibeet Heeyei_Nookeih Heeyou_pst_eit Heneecee_Ceeniihoot Heneecee_Koohei_pst_it Heniin
+		Hiisiis_Hokecii Hiitooxkooh Hineecee_Hooxoonee Ho_pst_nookee_Niibei_pst_i Hono_pst__Cebise Hoonino_pst_ Hoonouseet Hoowohuusebeit Hoowoo_pst_beh_pst_ii Hooxei_Heesneet Hooxei_Kokuteen Houu_Hokecii Houusoo
+		Koo_pst_o_pst_eit Kookoohowoot
+		Neecee_Nookoe_pst_et Nei_pst_iniic Neneetowooto_pst_nec Neniinookee Neniisii_pst_oneet Neniisit_Neh_pst_e_pst_eet Neniito_pst_ubesiit Neniitowookeenit
+		Nihoonou_pst_ Nii_pst_o_pst_oet Niiciihoho_pst_ Nii_pst_ehihi_pst_ Nii_pst_eihii_Heso_pst_oo Nii_pst_eihii_Neecee Nii_pst_eihii_Niisno_pst_ Nii_pst_eihii_Niitouu Nii_pst_eihii_Nookei Niihooniisebeit
+		Nonookoowu_pst_ Nonookuneseet Nookouu Nookox Nookuwuu Nonooksiceit Nootiiseibeit Nosouh Notkon Noube Nowoocihi
+		Siiyoonii_pst_
+		Teneesneh_pst_eet Teenokuhu_pst_ Teestou_pst_ Tei_pst_oox Teiitooniibei
+		Woxbe_pst_eih Woxnihooneih Woxuube_pst_eih Woxuuniicii Wo_pst_ooseinee_pst_ Wo_pst_teenii_pst_eihii Wo_pst_teeno_pst_o Wo_pst_teenox Wonoobisiseet Woxhoox_Kokuteen Woxhoox_Nookieh
+		
+		Abraham Alonzo Ambrose
+		Benjamin Boniface
+		Edlore
+		George
+		Mylan
+		Nathan
+		Paul
+		Raphael Richard Robert
+		Warlance
+	}
+	female_names = {
+		Beeh_pst_eenesei Biikoo_pst_usei
+		Ce_pst_iiwoot Ceeh_pst_eenesie Ciibeeti_pst_
+		Hetiwa Hiseihihi_pst__Cebi_pst_o Hiseikusii Hono_pst_usei Hooxei_Hesinee
+		Neniisit_Neh_pst_ei Noobesei Notonohe_pst_isei Nouuh_pst_usei
+		Seibeih
+		Tox_pst_uu_Niibei
+		Woxuusei
+		
+		Adeline Agnes
+		Caroline
+		Inez
+		Lucille
+		Martina Mary
+		Ora
+		Theresa
+		Zona
+	}
+	dynasty_names = {
+		"dynn_Addison"
+		"dynn_Amos"
+		"dynn_Antelope"
+		"dynn_Aragon"
+		"dynn_Armajo"
+		"dynn_Armour"
+		"dynn_Apodaca"
+		"dynn_Baldes"
+		"dynn_Bear"
+		"dynn_Bearing"
+		"dynn_Black"
+		"dynn_Blackburn"
+		"dynn_Blackman"
+		"dynn_Brown"
+		"dynn_Bull"
+		"dynn_Burnett"
+		"dynn_C_pst_Beating"
+		"dynn_C_pst_Hair"
+		"dynn_Calling_Thunder"
+		"dynn_Coal"
+		"dynn_Coulston"
+		"dynn_Day"
+		"dynn_Dresser"
+		"dynn_Duran"
+		"dynn_Engavo"
+		"dynn_Enos"
+		"dynn_Fast_Horse"
+		"dynn_Friday"
+		"dynn_Glenmore"
+		"dynn_Goggles"
+		"dynn_Hanway"
+		"dynn_Hebah"
+		"dynn_Hill"
+		"dynn_Ingawanup"
+		"dynn_Iron_Cloud"
+		"dynn_Little_Antelope"
+		"dynn_Lonebear"
+		"dynn_Moss"
+		"dynn_Oldman"
+		"dynn_Panzetanga"
+		"dynn_Plume"
+		"dynn_Quiver"
+		"dynn_Redman"
+		"dynn_Ridgley"
+		"dynn_Runs_Medicine"
+		"dynn_Sage"
+		"dynn_Shakespeare"
+		"dynn_Shavehead"
+		"dynn_Shongutsie"
+		"dynn_Shoyo"
+		"dynn_Spoonhunter"
+		"dynn_Sunrhodes"
+		"dynn_Teran"
+		"dynn_Thunder"
+		"dynn_Tidzump"
+		"dynn_Trosper"
+		"dynn_Trumbull"
+		"dynn_Underwood"
+		"dynn_Walker"
+		"dynn_Wallowing_Bull"
+		"dynn_Washakie"
+		"dynn_Wesaw"
+		"dynn_White"
+		"dynn_White_Antelope"
+		"dynn_Whitebull"
+		"dynn_Whiteman"
+		"dynn_Whiteplume"
+		"dynn_Willow"
+		"dynn_Wolfrang"
+		"dynn_Yellow_Bear"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+
+	mercenary_names = {
+		{ name = mercenary_company_stampede }
+		{ name = mercenary_buffalo_jump }
+	}
+
+}

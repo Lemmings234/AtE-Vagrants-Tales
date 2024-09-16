@@ -1,0 +1,52 @@
+﻿sertanejo = {
+	color = { 135 91 45 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_northern_sertanejo
+	language = language_sertanejo
+	martial_custom = martial_custom_equal
+	name_list = name_list_sertanejo
+	
+	traditions = {
+		#TODO
+		tradition_caatinga_dwellers
+		tradition_cangaco
+		tradition_cordel_literature
+		tradition_mendicant_mystics
+	}
+	
+	coa_gfx = {
+		sertanista_coa_gfx
+		northern_sertanejo_group_gfx
+		nordestino_group_gfx
+	}
+	building_gfx = {
+		sertanejo_building_gfx
+		brazilian_dry_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_northern_sertanejo_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		northern_sertanejo_group_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		5 = caucasian
+		5 = mediterranean
+		5 = amazonian
+		50 = mesoamerican_yuto_aztec
+		5 = white_indigenous
+		5 = black_white
+		5 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

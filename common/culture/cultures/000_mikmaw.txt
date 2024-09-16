@@ -1,0 +1,51 @@
+﻿mikmaw = {
+	color = { 51 127 204 }
+	
+	ethos = ethos_communal
+	heritage = heritage_wabanaki
+	language = language_mikmaq
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mikmaw
+	
+	traditions = {
+		#TODO
+		tradition_medicinal_plants
+		tradition_wandering_warriors
+		tradition_band_council
+		tradition_zealous_people
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+	}
+	
+	coa_gfx = {
+		mikmaq_coa_gfx
+		north_atlantic_coa_gfx
+	}
+	building_gfx = {
+		mikmaw_building_gfx
+		celtic_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_wabanaki_building_gfx
+		western_building_gfx
+		celtic_building_gfx
+	}
+	clothing_gfx = {
+		woodlands_group_clothing_gfx
+		northern_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = caucasian
+		80 = amerindian
+		10 = white_indigenous
+	
+	}
+}

@@ -1,0 +1,213 @@
+﻿name_list_chippewa = {
+
+	#compiled by ArtfulOrpheus, Lahom
+
+	male_names = {
+		Akideh Albert Amikogaabaw Anakwato Animikapo Anakwesens Anapi Animikii Apitasank Apitakishik Apitasike Atiakwat Apitawanakwat Arthur Asiniiwin
+		Bob Bawdwaywidun Bayaaswaa Bemise Binesiinh Binaaswi Bizhiki Bizhiki_pst_anakwat
+		Charles Chibenashi
+		David Dibishkoobenesi
+		Edaw Esens Eshpan
+		Francis
+		Gaadawaabide Gabenoodin Gakiiwegwanebi Gekekoons Giniwaanakwad Giniwbine Gichianimikii_pst_inini Gichibinesi Gichiogidebon Gichiaanakwad Gichiwaaboozo Giiwedinaanakwadinini Giizhig_Wekigiizhig
+		James John
+		Kaakewakwonabi Kachkinnindji Kagagi Kezhegowinninne
+		Maangozid Madwegwaneyaash Makadegiizhigwe Makoons Makwa Mamaangeezide Medweganoonind Michael Migizi Misaabe Miskomakwa Miskwa_pst_aanakwad Miskwaabik_pst_animikii Miskwakose Miskwaopwaganinni
+		Naawakamig Naawigiizhigweyaasha Naawigiizis Nanakonagos Namid Nigonwiweweedun Niiosagii Niigaanibinesi Nenaa_pst_angebi Noodin
+		Ozaawashkogaad Ozaawindib Ogimaans Ozhaawashkobinesi
+		Sam Shagasokiki
+		Thayendanegea
+		Waabanakwad Waabanose Waabi_pst_makwa Waabishkigookooko_pst_oo Waabianimiikii Waabikomikot Waabojiig Waabuninini Waawaategnibawii Waubgeshig Wenzhimadub Wegiizhigomi Wewinabi Wiishkobak
+		Zhaawan Zhaawanigiizhig Zhaawanaanakwad Zhaawanibenesi Zhaashaawanibiisi Zhingaabewasin Zhingwaak Zhingwaakwakiwenzhiinh Zhingwaakoons
+	}
+	female_names = {
+		Aki_pst_ikwe Aazhawigiizhigokwe Anangwaabikikwe Anong Anangokaa Ashwiyaa Azhekwe
+		Bamewawagezhikakwe Bemigiizhigookwe Boshkine Boodookwe
+		Daphne
+		Edna Enasha Ella Ekwawate Espipan Eshkweghiizhigwikwe Eshkwegiizhig Etoukasahwee
+		Gabegaabaikwe Gabeowse Gaagegiizhig Giiwitaagiizhig Giiwitaajiwanikwe Giiwedinikwe Giizhigikwe Giziiweweyaasin Gwekijiwanikwe
+		Kayatontee
+		Madwegiizhigwikwe Makadegiizhigwikwe Makadewizikwe Mandy Mary Maude Michelle Miskoanangoikwe
+		Nancy Naawakamigookwe Naawakwegiizhigikwe Naaniibawikwe Nitamigiigido
+		Obabaamwewegiizhigokwe Ogimaabinesiikwe Ogimaawaatigookwe Okimaskew Ozhaawashkodewekwe
+		Saawayabunok
+		Tubenaanikwe
+		Waabikwe Waabune Winona
+		Zhoomin
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Aandeg"
+		"dynn_Adik"
+		"dynn_Ajijaakwe"
+		"dynn_Alberts"
+		"dynn_Asham"
+		"dynn_Auginaush"
+		"dynn_Basina"
+		"dynn_Beaver"
+		"dynn_Bellecourt"
+		"dynn_Belonga"
+		"dynn_Bimaawidaasi"
+		"dynn_Bizhiki"
+		"dynn_Boucha"
+		"dynn_Boyd"
+		"dynn_Buffolo"
+		"dynn_Butterfield"
+		"dynn_Cadotte"
+		"dynn_Carver"
+		"dynn_Davids"
+		"dynn_Denomie"
+		"dynn_DePerre"
+		"dynn_Deperry"
+		"dynn_Deragon"
+		"dynn_DesJarlait"
+		"dynn_Duffy"
+		"dynn_Dufina"
+		"dynn_Dupuis"
+		"dynn_Fairbanks"
+		"dynn_Fox"
+		"dynn_Gaagaagishiinh"
+		"dynn_Gokee"
+		"dynn_Gordon"
+		"dynn_Gourneau"
+		"dynn_Guyon"
+		"dynn_Haataja"
+		"dynn_Hill"
+		"dynn_Howard"
+		"dynn_Hunter"
+		"dynn_Johnson"
+		"dynn_Jones"
+		"dynn_Kequom"
+		"dynn_LaFavor"
+		"dynn_LaFernier"
+		"dynn_LaGarde"
+		"dynn_LaRose"
+		"dynn_Le_Boeuf"
+		"dynn_Lightfeather"
+		"dynn_Littledeer"
+		"dynn_Littlewolf"
+		"dynn_Loonsfoot"
+		"dynn_Maang"
+		"dynn_Makwa"
+		"dynn_Martineau"
+		"dynn_McGeshick"
+		"dynn_Moosetail"
+		"dynn_Mooz"
+		"dynn_Newago"
+		"dynn_Neyome"
+		"dynn_Oshie"
+		"dynn_Peterson"
+		"dynn_Plamondon"
+		"dynn_Pollak"
+		"dynn_Pratt"
+		"dynn_Red_Cloud"
+		"dynn_Roye"
+		"dynn_Sargent"
+		"dynn_Scott"
+		"dynn_Smallwood"
+		"dynn_Soulier"
+		"dynn_Stately"
+		"dynn_Stillday"
+		"dynn_Waabizheshi"
+		"dynn_Walkingchild"
+		"dynn_Weyaus"
+		"dynn_Williams"
+	}
+	dynasty_names = {
+		"dynn_Aandeg"
+		"dynn_Adik"
+		"dynn_Ajijaakwe"
+		"dynn_Alberts"
+		"dynn_Asham"
+		"dynn_Auginaush"
+		"dynn_Basina"
+		"dynn_Beaver"
+		"dynn_Bellecourt"
+		"dynn_Belonga"
+		"dynn_Bimaawidaasi"
+		"dynn_Bizhiki"
+		"dynn_Boucha"
+		"dynn_Boyd"
+		"dynn_Buffolo"
+		"dynn_Butterfield"
+		"dynn_Cadotte"
+		"dynn_Carver"
+		"dynn_Davids"
+		"dynn_DePerre"
+		"dynn_Denomie"
+		"dynn_Deperry"
+		"dynn_Deragon"
+		"dynn_DesJarlait"
+		"dynn_Duffy"
+		"dynn_Dufina"
+		"dynn_Dupuis"
+		"dynn_Fairbanks"
+		"dynn_Fox"
+		"dynn_Gaagaagishiinh"
+		"dynn_Gokee"
+		"dynn_Gooselaw"
+		"dynn_Gordon"
+		"dynn_Gourneau"
+		"dynn_Guyon"
+		"dynn_Haataja"
+		"dynn_Hill"
+		"dynn_Howard"
+		"dynn_Hunter"
+		"dynn_Johnson"
+		"dynn_Jones"
+		"dynn_Kequom"
+		"dynn_LaFavor"
+		"dynn_LaFernier"
+		"dynn_LaGarde"
+		"dynn_LaRose"
+		"dynn_Le_Boeuf"
+		"dynn_Lightfeather"
+		"dynn_Littledeer"
+		"dynn_Littlewolf"
+		"dynn_Loonsfoot"
+		"dynn_Maang"
+		"dynn_Makwa"
+		"dynn_Martineau"
+		"dynn_McGeshick"
+		"dynn_Moosetail"
+		"dynn_Mooz"
+		"dynn_Munell"
+		"dynn_Newago"
+		"dynn_Neyome"
+		"dynn_Oshie"
+		"dynn_Peterson"
+		"dynn_Plamondon"
+		"dynn_Pollak"
+		"dynn_Pratt"
+		"dynn_Red_Cloud"
+		"dynn_Roye"
+		"dynn_Sargent"
+		"dynn_Scott"
+		"dynn_Smallwood"
+		"dynn_Soulier"
+		"dynn_Stately"
+		"dynn_Stillday"
+		"dynn_Theriault"
+		"dynn_Waabizheshi"
+		"dynn_Walkingchild"
+		"dynn_Weyaus"
+		"dynn_Williams"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+	
+	mercenary_names = {
+		{ name = mercenary_company_ }
+	}
+	
+}

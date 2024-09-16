@@ -1,0 +1,23 @@
+﻿name_list_sahtu = {
+        male_names = { Abraham Alfred Andrew Anthony Archie Arnold Arthur Barney Ben Bill Charlie Chris Craig Dale Dalton Dan Daryl Dave Dawson Dean Dennis Don Doug Dustin Ed Elias Eric Floyd Forrest Francis Fred Garnett Geoff George Glen Gord Greg Hank Harry Hugh Ivan Jack Jake Jason Jim Joe Johnny Julius Ken Larry Les Logan Lorne Louis Max Michael Morton Nansen Nils Paul Percy Peter Pierre Randy Ray Rich Rob Roger Roy Sahneuti Sam Shane Sidney Simon Stephen Ted Toby Todd Tom Tony Victor William Zachary }
+        female_names = { Agnes Alice Angela Annie Astrid Audrey Augusta Bev Brooke Carol Caroline Catherine Clara Doris Dorothy Edith Eileen Elizabeth Ellen Emma Eunice Geraldine Hannah Helen Isabel Jane Jessica Joan Joanne Judy Julie Kate Kim Lauren Leona Louise Lydia Marge Martha Mary Molly Nancy Nellie Pat Pearl Rachel Rebecca Renie Ruby Ruth Sarah Sharon Steph Sydney Tabitha Therese Violet Wanda }
+        dynasty_names = { "dynn_Andre" "dynn_Andrew" "dynn_Audet" "dynn_Ayha" "dynn_Baptiste" "dynn_Barnaby" "dynn_Baton" "dynn_Bayha" "dynn_Benagho" "dynn_Betsidea" "dynn_Beyonnie" "dynn_Bezha" "dynn_Blondin" "dynn_Brach-Coupe" "dynn_Codzi" "dynn_Denslow" "dynn_Dolphus" "dynn_Elemie" "dynn_Esau" "dynn_Ferdinand" "dynn_Hodgson" "dynn_Kakfwi" "dynn_Kenny" "dynn_Kochon" "dynn_Kodakin" "dynn_Lennie" "dynn_Mackeinzo" "dynn_McCauley" "dynn_McNeely" "dynn_Menacho" "dynn_Modeste" "dynn_Modeste-Baton" "dynn_Naedzo" "dynn_Neyelle" "dynn_Oudzi" "dynn_Pierro" "dynn_Rabisca" "dynn_Saint-Andre" "dynn_Sewi" "dynn_Takazo" "dynn_Taniton" "dynn_Tatti" "dynn_Tetso" "dynn_Tseleie" "dynn_Tsetso" "dynn_Tutcho" "dynn_Vital" "dynn_Yakeleya" "dynn_Yallee" "dynn_Yukon" }
+        cadet_dynasty_names = { "dynn_Andre" "dynn_Andrew" "dynn_Audet" "dynn_Ayha" "dynn_Baptiste" "dynn_Barnaby" "dynn_Baton" "dynn_Bayha" "dynn_Benagho" "dynn_Betsidea" "dynn_Beyonnie" "dynn_Bezha" "dynn_Blondin" "dynn_Brach-Coupe" "dynn_Codzi" "dynn_Denslow" "dynn_Dolphus" "dynn_Elemie" "dynn_Esau" "dynn_Ferdinand" "dynn_Hodgson" "dynn_Kakfwi" "dynn_Kenny" "dynn_Kochon" "dynn_Kodakin" "dynn_Lennie" "dynn_Mackeinzo" "dynn_McCauley" "dynn_McNeely" "dynn_Menacho" "dynn_Modeste" "dynn_Modeste-Baton" "dynn_Naedzo" "dynn_Neyelle" "dynn_Oudzi" "dynn_Pierro" "dynn_Rabisca" "dynn_Saint-Andre" "dynn_Sewi" "dynn_Takazo" "dynn_Taniton" "dynn_Tatti" "dynn_Tetso" "dynn_Tseleie" "dynn_Tsetso" "dynn_Tutcho" "dynn_Vital" "dynn_Yakeleya" "dynn_Yallee" "dynn_Yukon" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+        mercenary_names = {
+            
+        }
+        
+}

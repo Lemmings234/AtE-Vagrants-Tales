@@ -1,0 +1,42 @@
+﻿qom = {
+	color = { 79 58 91 }
+	
+	ethos = ethos_communal
+	heritage = heritage_guaicuru
+	language = language_qom
+	martial_custom = martial_custom_male_only
+	name_list = name_list_qom
+	
+	traditions = {
+		#TODO
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_hit_and_run
+	}
+	
+	coa_gfx = {
+		qom_coa_gfx
+		chacoan_group_gfx
+	}
+	building_gfx = {
+		qom_building_gfx
+		native_amazonian_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_guaicuru_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = andean
+		15 = mesoamerican_yuto_aztec
+		10 = white_indigenous
+	
+	}
+}

@@ -1,0 +1,338 @@
+﻿name_list_menominee = {
+
+	#compiled by Lahom and Artful
+
+	male_names = {
+		Abram Aehtaniwaekeset Ahkiciwanow Akostaen Akwinemi Albert Alfred Aloysius Anik Antoine Apesanahkwat Apowaehkwaqam Aptickasic Awaehsaeh Awaehtok Awanoahpew
+		Barnie Bart Benedict Bernard
+		Cawanon Cas Charles
+		Donald
+		Edward Eli
+		Francis Franky 
+		Gust
+		Henri
+		Itwaet
+		James Jerome Jessie John Johnson Joseph
+		Kahsekaew Kanapaen Kanasa Kate Kasick Kawekit Kemewan Kenneth Koskanokwaeh
+		Lawrence Leonard Leslie Luke Little-Moose
+		Maechawaehsaeh Maehkiwkasic Maesenekapowew Matehopaton Mesaen Mitchell Mose Mosehat Mowis Muqsahkwat
+		Naehciwehtok Nahwahquaw Namat Nanahstah Napos Nawahkwaew Nayaehtow Niopet Noshoquit Nowih
+		Ohopesaeh Oskas
+		Panay Paqis Pat Paul Payaewehsaeh Peter Piyaen
+		Ralph Richard
+		Saenom Sah Sanoh Sanomoh Sapatis Saswaen Simoh Simon Sosaeh
+		Tatanowa Tepet Tomah Thomas Theodore_Roosevelt
+		Walter Wapenaemaehkiw Waqnahwew Wasaeq Washeguonatt Willie Wilfred Wisanahkwat Wiyam Wumapicket
+		Yawyashkah
+	}
+	female_names = {
+		Ada Agnes Ahnamah Alexa Anemanih Anes Angeline Anih Aniyet Anna Annie Asenik Aurelia
+		Charlotte Charlie Christine Ceclia
+		Delia
+		Edna Emaline Elizabeth Ellen Esther Erina Etta
+		Geneva
+		Ida Irene
+		Jane Josie Josephine
+		Katenih Kayowsin Ketakahsehsaeh Kawatin Kinnishkiew Kinyeokey Kisekuhkiw Ksksakaeh
+		Leola Libbie Louise
+		Madeline Mahkuhsehkwaew Makenit Manih Manik Maniyan Martha Mary Mary_Otter Maskwanahkwatok Matchmomochatow Menore Minnie
+		Naomi Namatin Nekanesaehkwaew Nesaepet Nesaepetehsaeh Nora Nowis
+		Ohkimowpensass Ohpeqtaw-Metaemoh
+		Pearl Petononokey Pisquaponoke Polly
+		Rosalia Ruth
+		Sakecewaehkwaew Sanah Sarah Sasan Saswaes Senih Senihsaeh Shawanometamo Sheila Sohphie Susan
+		Tanaes Theressa
+		Veronica Viola
+		Wakohsihkwaew Weshonoquit Wilhelmina
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Adams"
+		"dynn_Ahkenokosay"
+		"dynn_Ahyahsha"
+		"dynn_Amob"
+		"dynn_Amour"
+		"dynn_Anam"
+		"dynn_Annamitta"
+		"dynn_Annis"
+		"dynn_Askenette"
+		"dynn_Apaehsos"
+		"dynn_Awonohopay"
+		"dynn_Baxter"
+		"dynn_Belongia"
+		"dynn_Bear"
+		"dynn_Beauprey"
+		"dynn_Besaw"
+		"dynn_Bidehausen"
+		"dynn_Blackbird"
+		"dynn_Blackcloud"
+		"dynn_Blacksmith"
+		"dynn_Boivin"
+		"dynn_Boyd"
+		"dynn_Brisk"
+		"dynn_Brunette"
+		"dynn_Caldwell"
+		"dynn_Camden"
+		"dynn_Cardish"
+		"dynn_Chequasit"
+		"dynn_Chevalier"
+		"dynn_Chickotah"
+		"dynn_Christianson"
+		"dynn_Clache"
+		"dynn_Claffin"
+		"dynn_Connahvichnah"
+		"dynn_Corn"
+		"dynn_Cota"
+		"dynn_Cox"
+		"dynn_Crow"
+		"dynn_Cummings"
+		"dynn_Davis"
+		"dynn_Deer"
+		"dynn_Dickie"
+		"dynn_Delabreau"
+		"dynn_Duquaine"
+		"dynn_Duscham"
+		"dynn_Eastman"
+		"dynn_Edick"
+		"dynn_Feather"
+		"dynn_Fish"
+		"dynn_Fossum"
+		"dynn_Frechette"
+		"dynn_Gagnon"
+		"dynn_Gauthier"
+		"dynn_Grignon"
+		"dynn_Hawpetoss"
+		"dynn_Johnson"
+		"dynn_Kakahke"
+		"dynn_Kakkak"
+		"dynn_Kakwitch"
+		"dynn_Kaquatosh"
+		"dynn_Katchenago"
+		"dynn_Kehshewahtoshe"
+		"dynn_Kenote"
+		"dynn_Keshena"
+		"dynn_Kitahmi"
+		"dynn_Kitchenakow"
+		"dynn_Kitson"
+		"dynn_Komanekin"
+		"dynn_Konoha"
+		"dynn_Kook"
+		"dynn_Latender"
+		"dynn_Lepscier"
+		"dynn_Loon"
+		"dynn_Lyons"
+		"dynn_Machowpatow"
+		"dynn_Macoby"
+		"dynn_Madosh"
+		"dynn_Mahkimetas"
+		"dynn_Maqkwokahni"
+		"dynn_Maskewit"
+		"dynn_Mikek"
+		"dynn_Miqkahno"
+		"dynn_Mohs"
+		"dynn_Moqwai_pst_o"
+		"dynn_Nacotee"
+		"dynn_Neconish"
+		"dynn_Neosh"
+		"dynn_Nunwaw"
+		"dynn_Ohsass"
+		"dynn_O_pst_Katchicum"
+		"dynn_O_pst_Kimosh"
+		"dynn_Ohkawahsiku"
+		"dynn_Omahskos"
+		"dynn_Oshkeshequoam"
+		"dynn_Oshkenamew"
+		"dynn_Osse"
+		"dynn_Otahtshia"
+		"dynn_Owahsse"
+		"dynn_Pakeshtshekehu"
+		"dynn_Pehkikehkune"
+		"dynn_Pecon"
+		"dynn_Pecore"
+		"dynn_Penass"
+		"dynn_Peters"
+		"dynn_Pomomcutt"
+		"dynn_Pinashiu"
+		"dynn_Piwatinot"
+		"dynn_Pustekowit"
+		"dynn_Pyatskowit"
+		"dynn_Pyawasay"
+		"dynn_Reiter"
+		"dynn_Sanapaw"
+		"dynn_Shawanokasic"
+		"dynn_Skenadore"
+		"dynn_Tourtillott"
+		"dynn_Tucker"
+		"dynn_Turney"
+		"dynn_Wankechon"
+		"dynn_Warrington"
+		"dynn_Wabahshiu"
+		"dynn_Wakoh"
+		"dynn_Washinawatok"
+		"dynn_Waukau"
+		"dynn_Waupekenay"
+		"dynn_Waupochick"
+		"dynn_Waupoose"
+		"dynn_Wayka"
+		"dynn_Whilefish"
+		"dynn_White"
+		"dynn_Wilber"
+		"dynn_Wutshik"
+		"dynn_Zhuckkahosee"
+
+	}
+	dynasty_names = {
+		"dynn_Adams"
+		"dynn_Ahkenokosay"
+		"dynn_Ahyahsha"
+		"dynn_Amob"
+		"dynn_Amour"
+		"dynn_Anam"
+		"dynn_Annamitta"
+		"dynn_Annis"
+		"dynn_Askenette"
+		"dynn_Apaehsos"
+		"dynn_Awonohopay"
+		"dynn_Baxter"
+		"dynn_Belongia"
+		"dynn_Bear"
+		"dynn_Beauprey"
+		"dynn_Besaw"
+		"dynn_Bidehausen"
+		"dynn_Blackbird"
+		"dynn_Blackcloud"
+		"dynn_Blacksmith"
+		"dynn_Boivin"
+		"dynn_Boyd"
+		"dynn_Brisk"
+		"dynn_Brunette"
+		"dynn_Caldwell"
+		"dynn_Camden"
+		"dynn_Cardish"
+		"dynn_Chequasit"
+		"dynn_Chevalier"
+		"dynn_Chickotah"
+		"dynn_Christianson"
+		"dynn_Clache"
+		"dynn_Claffin"
+		"dynn_Connahvichnah"
+		"dynn_Corn"
+		"dynn_Cota"
+		"dynn_Cox"
+		"dynn_Crow"
+		"dynn_Cummings"
+		"dynn_Davis"
+		"dynn_Deer"
+		"dynn_Dickie"
+		"dynn_Delabreau"
+		"dynn_Duquaine"
+		"dynn_Duscham"
+		"dynn_Eastman"
+		"dynn_Edick"
+		"dynn_Feather"
+		"dynn_Fish"
+		"dynn_Fossum"
+		"dynn_Frechette"
+		"dynn_Gagnon"
+		"dynn_Gauthier"
+		"dynn_Grignon"
+		"dynn_Hawpetoss"
+		"dynn_Johnson"
+		"dynn_Kakahke"
+		"dynn_Kakkak"
+		"dynn_Kakwitch"
+		"dynn_Kaquatosh"
+		"dynn_Katchenago"
+		"dynn_Kehshewahtoshe"
+		"dynn_Kenote"
+		"dynn_Keshena"
+		"dynn_Kitahmi"
+		"dynn_Kitchenakow"
+		"dynn_Kitson"
+		"dynn_Komanekin"
+		"dynn_Konoha"
+		"dynn_Kook"
+		"dynn_Latender"
+		"dynn_Lepscier"
+		"dynn_Loon"
+		"dynn_Lyons"
+		"dynn_Machowpatow"
+		"dynn_Macoby"
+		"dynn_Madosh"
+		"dynn_Mahkimetas"
+		"dynn_Maqkwokahni"
+		"dynn_Maskewit"
+		"dynn_Mikek"
+		"dynn_Miqkahno"
+		"dynn_Mohs"
+		"dynn_Moqwai_pst_o"
+		"dynn_Nacotee"
+		"dynn_Neconish"
+		"dynn_Neosh"
+		"dynn_Nunwaw"
+		"dynn_Ohsass"
+		"dynn_O_pst_Katchicum"
+		"dynn_O_pst_Kimosh"
+		"dynn_Ohkawahsiku"
+		"dynn_Omahskos"
+		"dynn_Oshkeshequoam"
+		"dynn_Oshkenamew"
+		"dynn_Osse"
+		"dynn_Otahtshia"
+		"dynn_Owahsse"
+		"dynn_Pakeshtshekehu"
+		"dynn_Pehkikehkune"
+		"dynn_Pecon"
+		"dynn_Pecore"
+		"dynn_Penass"
+		"dynn_Peters"
+		"dynn_Pomomcutt"
+		"dynn_Pinashiu"
+		"dynn_Piwatinot"
+		"dynn_Pustekowit"
+		"dynn_Pyatskowit"
+		"dynn_Pyawasay"
+		"dynn_Reiter"
+		"dynn_Sanapaw"
+		"dynn_Shawanokasic"
+		"dynn_Skenadore"
+		"dynn_Tourtillott"
+		"dynn_Tucker"
+		"dynn_Turney"
+		"dynn_Wankechon"
+		"dynn_Warrington"
+		"dynn_Wabahshiu"
+		"dynn_Wakoh"
+		"dynn_Washinawatok"
+		"dynn_Waukau"
+		"dynn_Waupekenay"
+		"dynn_Waupochick"
+		"dynn_Waupoose"
+		"dynn_Wayka"
+		"dynn_Whilefish"
+		"dynn_White"
+		"dynn_Wilber"
+		"dynn_Wutshik"
+		"dynn_Zhuckkahosee"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 80
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		{ name = mercenary_company_dogs }
+		{ name = mercenary_company_dogs_place }
+		{ name = mercenary_company_wolves }
+		{ name = mercenary_company_wolves_place }
+	}
+	
+}

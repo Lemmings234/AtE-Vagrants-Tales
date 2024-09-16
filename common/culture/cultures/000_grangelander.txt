@@ -1,0 +1,52 @@
+﻿grangelander = {
+	color = { 127 25 12 }
+	
+	ethos = ethos_communal
+	heritage = heritage_midwestern
+	language = language_plainspeak
+	martial_custom = martial_custom_male_only
+	name_list = name_list_grangelander
+	
+	traditions = {
+		tradition_agrarian
+		tradition_wedding_ceremonies
+		tradition_staunch_traditionalists
+		tradition_cowboys
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_frontier_warriors
+		requires_dlc_flag = legacy_of_persia
+	}
+	
+	coa_gfx = {
+		grangelander_coa_gfx
+		midwest_group_gfx
+	}
+	building_gfx = {
+		grangelander_building_gfx
+		na_middle_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_midwestern_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		cowboy_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		6 = african
+		3 = asian
+		1 = east_african
+		80 = caucasian
+		1 = indian
+		5 = mediterranean
+		10 = mesoamerican_yuto_aztec
+		2 = asian_southern_han
+	
+	}
+}

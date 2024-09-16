@@ -1,0 +1,44 @@
+﻿chinook = {
+	color = { 171 124 70 }
+	
+	ethos = ethos_communal
+	heritage = heritage_lower_coast
+	language = language_chinook
+	martial_custom = martial_custom_equal
+	name_list = name_list_chinook
+	
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_potlatch
+		tradition_language_scholars
+		tradition_fishermen
+	}
+	
+	coa_gfx = {
+		cascadian_coa_gfx
+		north_pacific_group_gfx
+	}
+	building_gfx = {
+		chinook_building_gfx
+		pnw_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_lower_coast_building_gfx
+		western_building_gfx
+		norse_building_gfx
+		nwc_building_gfx
+		pnw_building_gfx
+	}
+	clothing_gfx = {
+		canadian_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		75 = northwest
+		25 = white_indigenous
+	}
+}

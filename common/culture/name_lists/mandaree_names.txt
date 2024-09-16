@@ -1,0 +1,206 @@
+﻿name_list_mandaree = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Aaron Adam Alfred Alton Ambrose Antoine August
+		Beaufort Bernard
+		Calvin Cannupa_Hanska Cletus Clyde Curtis
+		Dancing_Eagle David Delvin Dennis Donald Doyle
+		Edmund Edward Elgin Elton
+		Frank Fred
+		George Gerald Glen
+		Henry
+		James Jerome John Jordan Joseph Joshua
+		Leland Leo Louis Luther
+		Mark Mato-tope Matt Maynard Mervin Murphy
+		Nathan
+		Orin
+		Paul
+		Ralph Red_Fox Robert Roy Rylan
+		Sheheke Sheheke-shote
+		Theo Thomas Titus
+		Wanbdi_Waci Wayne Weroke_Waatashe Whirl_Wind_Bull Wilbur Willard
+	}
+	female_names = {
+		Agnes Alyce Ann
+		Catherine Celeste Clarice Connie
+		Delphine Diane Doreen Doris
+		Eva
+		FayAnn
+		Gabrielle Gail
+		Hazel
+		JoAnn
+		Laverne
+		Maaxiiriwia Marie Martha Myra
+		Prairie_Rose
+		Rose Ruth
+		Theola Tillie
+		Shirley Stephanie Susan
+		Veronica
+		Waheenee White_Elk_Woman Wilma
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Big_Crow"
+		"dynn_Billadeau"
+		"dynn_Bird_Bear"
+		"dynn_Bluestone"
+		"dynn_Brugh"
+		"dynn_Buffalo"
+		"dynn_Charging"
+		"dynn_Chase"
+		"dynn_Crow_Flies_High"
+		"dynn_Demaray"
+		"dynn_Dickens"
+		"dynn_Driver"
+		"dynn_Everett"
+		"dynn_Fast_Dog"
+		"dynn_Felix"
+		"dynn_Filesteel"
+		"dynn_First_Rider"
+		"dynn_Foolish_Bear"
+		"dynn_Foote"
+		"dynn_Fox"
+		"dynn_Fredericks"
+		"dynn_Gillette"
+		"dynn_Good_Bear"
+		"dynn_Good_Iron"
+		"dynn_Goodleft"
+		"dynn_Grinnell"
+		"dynn_Hale"
+		"dynn_Hall"
+		"dynn_Halvorson"
+		"dynn_Hosie"
+		"dynn_Howling_Wolf"
+		"dynn_Hunter"
+		"dynn_Know_His_Gun"
+		"dynn_Krueger"
+		"dynn_LaCroix"
+		"dynn_Larvie"
+		"dynn_Likes_Eagle"
+		"dynn_Little_Owl"
+		"dynn_Little_Soldier"
+		"dynn_Little_Swallow"
+		"dynn_Lone_Bear"
+		"dynn_Lone_Fight"
+		"dynn_Malnourie"
+		"dynn_Mandan"
+		"dynn_Medicine_Crow"
+		"dynn_Morningstar"
+		"dynn_Morsette"
+		"dynn_Packineau"
+		"dynn_Perkins"
+		"dynn_Poitra"
+		"dynn_Rabbit_Head"
+		"dynn_Sitting_Bear"
+		"dynn_Sitting_Crow"
+		"dynn_Snow"
+		"dynn_Spotted_Bear"
+		"dynn_Spotted_Elk"
+		"dynn_Stone"
+		"dynn_Thunder"
+		"dynn_Two_Crow"
+		"dynn_Two_Shields"
+		"dynn_Uran"
+		"dynn_Uses_the_Knife"
+		"dynn_Wells"
+		"dynn_White_Bear"
+		"dynn_White_Owl"
+		"dynn_Wilkinson"
+		"dynn_Yellow_Bird"
+		"dynn_Yellow_Wolf"
+		"dynn_Young_Bear"
+		"dynn_Young_Bird"
+	}
+	dynasty_names = {
+		"dynn_Big_Crow"
+		"dynn_Billadeau"
+		"dynn_Bird_Bear"
+		"dynn_Bluestone"
+		"dynn_Brugh"
+		"dynn_Buffalo"
+		"dynn_Charging"
+		"dynn_Chase"
+		"dynn_Crow_Flies_High"
+		"dynn_Demaray"
+		"dynn_Dickens"
+		"dynn_Driver"
+		"dynn_Everett"
+		"dynn_Fast_Dog"
+		"dynn_Felix"
+		"dynn_Filesteel"
+		"dynn_First_Rider"
+		"dynn_Foolish_Bear"
+		"dynn_Foote"
+		"dynn_Fox"
+		"dynn_Fredericks"
+		"dynn_Gillette"
+		"dynn_Good_Bear"
+		"dynn_Good_Iron"
+		"dynn_Goodleft"
+		"dynn_Grinnell"
+		"dynn_Hale"
+		"dynn_Hall"
+		"dynn_Halvorson"
+		"dynn_Hosie"
+		"dynn_Howling_Wolf"
+		"dynn_Hunter"
+		"dynn_Know_His_Gun"
+		"dynn_Krueger"
+		"dynn_LaCroix"
+		"dynn_Larvie"
+		"dynn_Likes_Eagle"
+		"dynn_Little_Owl"
+		"dynn_Little_Soldier"
+		"dynn_Little_Swallow"
+		"dynn_Lone_Bear"
+		"dynn_Lone_Fight"
+		"dynn_Malnourie"
+		"dynn_Mandan"
+		"dynn_Medicine_Crow"
+		"dynn_Morningstar"
+		"dynn_Morsette"
+		"dynn_Packineau"
+		"dynn_Perkins"
+		"dynn_Poitra"
+		"dynn_Rabbit_Head"
+		"dynn_Sitting_Bear"
+		"dynn_Sitting_Crow"
+		"dynn_Snow"
+		"dynn_Spotted_Bear"
+		"dynn_Spotted_Elk"
+		"dynn_Stone"
+		"dynn_Thunder"
+		"dynn_Two_Crow"
+		"dynn_Two_Shields"
+		"dynn_Uran"
+		"dynn_Uses_the_Knife"
+		"dynn_Wells"
+		"dynn_White_Bear"
+		"dynn_White_Owl"
+		"dynn_Wilkinson"
+		"dynn_Yellow_Bird"
+		"dynn_Yellow_Wolf"
+		"dynn_Young_Bear"
+		"dynn_Young_Bird"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		{ name = mercenary_company_stampede }
+		{ name = mercenary_company_buffalo_jump }
+	}
+	
+}

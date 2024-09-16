@@ -1,0 +1,51 @@
+﻿mura = {
+	color = { 21 29 59 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_japura_negro
+	language = language_mura
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mura
+	
+	traditions = {
+		#TODO
+		tradition_deep_jungle_dwellers
+		tradition_stalwart_defenders
+		tradition_fishermen
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	coa_gfx = {
+		mura_coa_gfx
+		nortista_group_gfx
+	}
+	building_gfx = {
+		mura_building_gfx
+		native_amazonian_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_japura_negro_building_gfx
+		mediterranean_amazon_building_gfx
+		mediterranean_building_gfx
+		amazonian_tribal_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		70 = mesoamerican_yuto_aztec
+		20 = white_indigenous
+		5 = med_black_ind
+		5 = amazonian
+	
+	}
+}

@@ -1,0 +1,52 @@
+﻿name_list_ashaninka = {
+
+	#compiled by Lahom, Nico
+
+	male_names = { Antonio Benki Luiz Moises Francisco Poyowari Raine Wewito Samuel Itomi Alipio Benki Thokiriyari Otxi Winko Komayari Shomotse Shasha }
+	
+	female_names = { Antonia Bianca Dora Erish Francisca Luiza Yara Terri Pinhanta Hakwo Piti Yorenka Bianca Tore Tairi Raine Dora Guta Assirati Shatsi Txai Horiyowa Alexandrina }
+
+	dynasty_names = {
+		"dynn_Ashaninka"
+		"dynn_Piy_a_tld_ko"
+		"dynn_Kampa"
+		"dynn_Apiwtxa"
+		"dynn_Amakro"
+		"dynn_Yawanawa"
+		"dynn_Yorenka"
+		"dynn_Atame"
+		"dynn_Benke"
+		"dynn_Menkori"
+		"dynn_Pinanta"
+	}
+	cadet_dynasty_names = {
+		"dynn_Ashaninka"
+		"dynn_Piy_a_tld_ko"
+		"dynn_Kampa"
+		"dynn_Apiwtxa"
+		"dynn_Amakro"
+		"dynn_Yawanawa"
+		"dynn_Yorenka"
+		"dynn_Atame"
+		"dynn_Benke"
+		"dynn_Menkori"
+		"dynn_Pinanta"
+	}
+
+	dynasty_of_location_prefix = "dynnp_de"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 10
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 10
+	mother_name_chance = 5
+
+	mercenary_names = {
+		
+	}
+
+}

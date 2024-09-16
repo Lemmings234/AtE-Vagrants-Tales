@@ -1,0 +1,23 @@
+﻿name_list_warao = {
+        male_names = { Abel Agust_i_act_n Alfonso Amado An_i_act_bal Anselmo Antonio Auxiliano Barberio Basilio Baudilio Benito Bernardo Blanco Botuka Br_i_act_gido Braulio Bustillo Carlos C_e_act_sar Celso Cleto Cornelio Crist_o_act_bal Desiderio Didi Domingo E_act_dgar El_i_act_as Emiliano Enrique Epifanio Ernesto Eudo Evelio Felipe Florentino Francisco Gilberto H_e_act_ctor Hotuahoko Hubasimo Isidro Jaime Javier Jes_u_act_s Jimeno Jos_e_act_ Juan Julio Leonardo Leuterio Lizardi Lorenzo Lucas Luciano Luis M_o_act_nico Mani Manuel Marcano Marcelino Marcos Mariano Masao Miguel Nakuakua Naranjo Narciso Natalio O_act_scar Orlando Otilio Pablo Pendro Perucho Pinto Quint_o_act_n Rafael Raimundo Ram_o_act_n Salvador Sano Santos Sebasti_a_act_n Seferino Segundo Sente Sergio Sim_o_act_n Virgilio Zen_o_act_n }
+        female_names = { Acera Ada Adilia Agustina Alejandrina Aquilina Arapita Benicia Bibina Br_i_act_gida Catalicia Cecilia Clelia Digna Dominga Dominicia Doris Elba Eliana Elida Emilia Eraria Erenia Erica Estilita Estrella Eusebia Evangelita Felicia Fernanda Florentina Gloria Graciela Guillermina Hercilia Horuida Jasunta Josefa Juana Julia Lastenia Laura Leonarda Leticia Lina Lola Luc_i_act_a M_o_act_nica Magdalena Mar_i_act_a Mariela Marieta Marimar Marina Marosa Marta Martina Mercedes Modesta Natalia Nieves Nilda Paula Petra Ramona Regina Rosa Rufina Sepita Sola Sumilde Teodora Teolinda Teresa Tomasa Trina Utesia Utoria Vicenta Virginia Xiomara Yaritza }
+        dynasty_names = { "dynn_Alcal_a_act_" "dynn_Anomans_i_act_n" "dynn_Antoima" "dynn_Aray" "dynn_Arintero" "dynn_Baeza" "dynn_Barreto" "dynn_Beria" "dynn_Berm_u_act_dez" "dynn_Boada" "dynn_Brito" "dynn_Cabello" "dynn_Cabral" "dynn_Cabrera" "dynn_Calder_o_act_n" "dynn_Campero" "dynn_Caraballo" "dynn_Cardona" "dynn_Carrasquel" "dynn_Carre_n_tld_o" "dynn_Carri_o_act_n" "dynn_Cede_n_tld_o" "dynn_Centeno" "dynn_Cequea" "dynn_Chirguita" "dynn_Cooper" "dynn_Cot_u_act_a" "dynn_D_i_act_az" "dynn_Dicur_u_act_" "dynn_Fuentes" "dynn_Gasc_o_act_n" "dynn_Gonz_a_act_lez" "dynn_Guanaguaney" "dynn_Guariguata" "dynn_Guira" "dynn_Guti_e_act_rrez" "dynn_Heredia" "dynn_Hospedales" "dynn_L_o_act_pez" "dynn_Lira" "dynn_Maica" "dynn_Malav_e_act_" "dynn_Marcano" "dynn_Marichales" "dynn_Mart_i_act_nez" "dynn_Mata" "dynn_Maurera" "dynn_Medina" "dynn_Mesa" "dynn_Mill_a_act_n" "dynn_Monterola" "dynn_Moraleda" "dynn_Moya" "dynn_Palacios" "dynn_Pearz_o_act_n" "dynn_Pino" "dynn_Pinto" "dynn_Pugarita" "dynn_Qui_n_tld__o_act_nez" "dynn_Quijada" "dynn_Quintana" "dynn_Rattia" "dynn_Reinosa" "dynn_Rivero" "dynn_Rodr_i_act_guez" "dynn_Salazar" "dynn_Santaella" "dynn_Sucre" "dynn_Tablante" "dynn_Toch_o_act_n" "dynn_Tocore" "dynn_Tocuyo" "dynn_Torres" "dynn_Trillo" "dynn_Valderrey" "dynn_Vel_a_act_squez" "dynn_Wells" "dynn_Ydrogo" "dynn_Zacar_i_act_as" "dynn_Zapata" }
+        cadet_dynasty_names = { "dynn_Alcal_a_act_" "dynn_Anomans_i_act_n" "dynn_Antoima" "dynn_Aray" "dynn_Arintero" "dynn_Baeza" "dynn_Barreto" "dynn_Beria" "dynn_Berm_u_act_dez" "dynn_Boada" "dynn_Brito" "dynn_Cabello" "dynn_Cabral" "dynn_Cabrera" "dynn_Calder_o_act_n" "dynn_Campero" "dynn_Caraballo" "dynn_Cardona" "dynn_Carrasquel" "dynn_Carre_n_tld_o" "dynn_Carri_o_act_n" "dynn_Cede_n_tld_o" "dynn_Centeno" "dynn_Cequea" "dynn_Chirguita" "dynn_Cooper" "dynn_Cot_u_act_a" "dynn_D_i_act_az" "dynn_Dicur_u_act_" "dynn_Fuentes" "dynn_Gasc_o_act_n" "dynn_Gonz_a_act_lez" "dynn_Guanaguaney" "dynn_Guariguata" "dynn_Guira" "dynn_Guti_e_act_rrez" "dynn_Heredia" "dynn_Hospedales" "dynn_L_o_act_pez" "dynn_Lira" "dynn_Maica" "dynn_Malav_e_act_" "dynn_Marcano" "dynn_Marichales" "dynn_Mart_i_act_nez" "dynn_Mata" "dynn_Maurera" "dynn_Medina" "dynn_Mesa" "dynn_Mill_a_act_n" "dynn_Monterola" "dynn_Moraleda" "dynn_Moya" "dynn_Palacios" "dynn_Pearz_o_act_n" "dynn_Pino" "dynn_Pinto" "dynn_Pugarita" "dynn_Qui_n_tld__o_act_nez" "dynn_Quijada" "dynn_Quintana" "dynn_Rattia" "dynn_Reinosa" "dynn_Rivero" "dynn_Rodr_i_act_guez" "dynn_Salazar" "dynn_Santaella" "dynn_Sucre" "dynn_Tablante" "dynn_Toch_o_act_n" "dynn_Tocore" "dynn_Tocuyo" "dynn_Torres" "dynn_Trillo" "dynn_Valderrey" "dynn_Vel_a_act_squez" "dynn_Wells" "dynn_Ydrogo" "dynn_Zacar_i_act_as" "dynn_Zapata" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 10
+        father_name_chance = 0
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 0
+        
+        mercenary_names = {
+            
+        }
+        
+}

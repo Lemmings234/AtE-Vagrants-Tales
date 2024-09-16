@@ -1,0 +1,23 @@
+﻿name_list_wuyjuyu = {
+        male_names = { Francinildo Acir Araruna Apoema Avati Ara_i_act_ Araponga Apuana Araripe Arinos Arati Arar_e_hat_ Arari Ant_a_tld_ Aratama Acau_a_tld_ Arajuba Araripe Ara_i_act_pe Biara Bret_a_tld_ Caubi Cobi Diaurum Endi Enar_e_hat_ Erval Emar_a_tld_ E_c_ced_apira Iber_e_hat_ Ita_u_act_ Ianci Itamb_e_act_ Iardei Iacamim Iato Iaquec_a_tld_ Iramaia Itagiba Iriri Irapu_a_tld_ Ipojuca Itabira Ibura Iva_i_act_ Ibaque Itatiba Iamana Ibiri Iwaci Ibiraci Ibar_e_act_ Ibat_e_act_ Ibirajara Ic_e_act_m Itaju_i_act_ Igapi Iata_i_act_ Ibia_c_ced_u Ibiraj_a_act_ Ibac_e_act_m Itubore Jandir Joacir Jacir Jari Jatir Jupi Juaci Juacir Jati Jacimira Jaciendi Jurec_e_hat_ Java_e_act_ Jepiara Jacinir Jos_e_act_de_Anchieta Leri Kau_e_hat_ Ka_i_act_ke Macuna_i_act_ma Mair Marani Nupeba Oriba Opira Obajara Oquira Oquena Obiru Obit_a_tld_ Obe_i_act_ma Piat_a_tld_ Poti Paragua_c_ced_u Piraj_a_act_ Pindara Raon_i_act_ Retama Tup_a_tld_ Tibiri_c_ced_a Taiguara Toriba Tamandar_e_act_ Tecoara Te_c_ced_aberaba Tecobiara Taciguara Taquarac_e_hat_ Tapira_c_ced_a Ubiraci Ubirat_a_tld_ Ubirani Upiara Ubat_a_tld_ Ubajara Urara_i_act_ Ualri Uirandi Uba_u_act_na Ubandara Viat_a_tld_ Wraja_u_act_ Wuaraci Wua_c_ced_u Wurinh_e_act_m Zaltana }
+        female_names = { Aiira Anah_i_act_ Aruana Aritana Amana Aquira Amanaiara Araci Aimara Amandi Amanara Amanaci Acemira Ajira Acira Araciara Ace_i_act_ Airetama Aricema Bartira Buriti Boir_a_act_ Bariri Caolin Cendi Caturama Coema Cumari Capotira Cotiguara Cendira Casira Canirim Cembira Diacu_i_act_ Dena Diacira Ena Eirapu_a_tld_ Endira Eora Enoma Etama E_c_ced_a_i_act_ Eirati E_c_ced_ara Ecira Eiruba Ere_i_act_ma E_c_ced_auna Ednar_e_hat_ Emaci E_c_ced_abara E_c_ced_araia E_c_ced_ajira Iara Iracema Iandara Ioqui Inara Inai_e_hat_ Ipanema In_a_tld_ Iandra I_u_act_na Ier_e_hat_ Itapema Irec_e_hat_ Igara Iaci Itacira Ibotirama Imira Ipoema Ibi_u_act_na Ibotira Itanema Ibitira Iace_e_hat_ Igapira Iratama Ibiara Ibarama Iberaba Ibaratema Ibiacema Ibiama Iariti_c_ced_a Ibarat_a_tld_ Jana_i_act_na Jurema Jaciara Juraci Jupira Jupiara Jacimar Jarina Janar_i_act_ Jacirema Japira Jurandira Jubaia Janda_i_act_ra Jacima Jaciema Ja_c_ced_ara Ju_c_ced_ana Jacinira Jaciaba Jeceara Juatama Lauani Kauane Kauana Kuana Kuaras_i_act_ Maiara Moema Moara Moama Miracema Mara_i_act_ra Niara Nadi Nan_a_act_ Nan_a_tld_ Nanine Neputira Odira Oricema Otinga Potira Poguira Pocema Ra_i_act_ra Raruama Roama Roquira Suiane Sucupira Sicupira Tainara Ta_i_act_na Tain_a_act_ Tauane Tuane Te_c_ced_a_act_ Taci Tacira Taina_c_ced_a_tld_ Tacicema Taciat_a_tld_ Tabacema Te_c_ced_arema Uiara Umarama Ubiracema Waratinwa Waracema Wara_u_act_na Waraciara Wa_i_act_ra }
+        dynasty_names = { "dynn_Akay" "dynn_Biatpu" "dynn_Crixi" "dynn_Dac_e_act_" "dynn_Ik_o_tld_" "dynn_Ikon" "dynn_Jacirema" "dynn_Saw" }
+        cadet_dynasty_names = { "dynn_Akay" "dynn_Biatpu" "dynn_Crixi" "dynn_Dac_e_act_" "dynn_Ik_o_tld_" "dynn_Ikon" "dynn_Jacirema" "dynn_Saw" }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

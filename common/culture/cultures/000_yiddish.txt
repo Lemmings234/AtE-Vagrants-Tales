@@ -1,0 +1,53 @@
+﻿yiddish = {
+	color = { 127 12 12 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_shtetl
+	language = language_yiddish
+	martial_custom = martial_custom_male_only
+	name_list = name_list_yiddish
+	
+	traditions = {
+		tradition_diasporic
+		tradition_zealous_people
+	}
+	dlc_tradition = {
+		trait = tradition_artisans
+		requires_dlc_flag = royal_court
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_beacon_of_learning
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_philosopher_culture
+	}
+	
+	coa_gfx = {
+		amerodeutsch_group_gfx
+	}
+	building_gfx = {
+		yiddish_building_gfx
+		heritage_shtetl_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		3 = african
+		15 = arab
+		2 = asian
+		30 = caucasian
+		43 = slavic
+		7 = mesoamerican_yuto_aztec
+	
+	}
+}

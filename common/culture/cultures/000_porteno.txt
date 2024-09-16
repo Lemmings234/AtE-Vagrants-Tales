@@ -1,0 +1,54 @@
+﻿porteno = {
+	color = { 122 226 247 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_platense
+	language = language_rioplatense
+	martial_custom = martial_custom_male_only
+	name_list = name_list_porteno
+	
+	traditions = {
+		#TODO
+		tradition_rogues_will_be_rogues
+		tradition_cosmopolitan_elitism
+		tradition_mercenary_soccer
+		tradition_city_keepers
+	}
+	
+	coa_gfx = {
+		porteno_coa_gfx
+		rioplatense_group_gfx
+	}
+	building_gfx = {
+		porteno_building_gfx
+		platinean_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_platense_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		rioplatense_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		5 = asian
+		5 = arab
+		6 = caucasian
+		50 = mediterranean
+		5 = slavic
+		22 = mesoamerican_yuto_aztec
+		2 = asian_austronesian
+		1 = asian_southeast_asian
+		5 = white_indigenous
+		2 = black_white
+		1 = white_asian
+	
+	}
+}

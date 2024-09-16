@@ -1,0 +1,47 @@
+﻿west_indian = {
+	color = { 172 20 69 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_greater_antillean
+	language = language_west_indian
+	martial_custom = martial_custom_male_only
+	name_list = name_list_west_indian
+	
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_welcoming
+		tradition_seafaring
+		tradition_life_is_just_a_joke
+	}
+	
+
+	coa_gfx = {
+		west_indian_coa_gfx
+		caribbanglo_group_gfx
+	}
+	building_gfx = {
+		west_indian_building_gfx
+		hispano_caribbean_building_gfx #Architecture-style
+		caribbean_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_greater_antillean_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		caribbanglo_group_gfx
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		82 = african
+		5 = mediterranean
+		5 = caucasian
+		5 = black_white
+		3 = indian
+	
+	}
+}

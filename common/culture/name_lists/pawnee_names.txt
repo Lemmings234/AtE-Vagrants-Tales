@@ -1,0 +1,125 @@
+﻿name_list_pawnee = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Morgan Ralph Matt Jimmy Warren Francis Lester
+		Warren Ron Tim Charles Jordan William Kitkahaki
+		John Larry Petalesharo Sharitahrish Moses Fred Teddy
+		Ezra Louis Herbert Tyler Elijah Jonathan Patrick Frank
+		Henry James Curtis Daniel George Robert Joseph Jesse
+		Lawrence Thomas Andy Isaac Albert Arthur Mark Peter Harry Andrew 
+	}
+	female_names = {
+		Morgan Pat Carol Patricia Cynthia Dawna Jordan Marlene Mary
+		Abigail Anna Teresa Francis Juanita Jennie May Mira Emma
+		Stahkah Lucie Katie Isabella Julia Louisa Maud Alice Nora Clara
+		Ruth Phoebe May Susie Kate Helen Rebecca Violet Susannah Viola
+		Cecelia Carrie Stacy Eliza Mabel Sarah Esther Caroline Emily Flora Eva 
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Echo_Hawk"
+		"dynn_Spotted_Horse"
+		"dynn_Riding_In"
+		"dynn_Grieves_The_Enemy"
+		"dynn_Yellow_Horse"
+		"dynn_Walters"
+		"dynn_Murree"
+		"dynn_Supernaw"
+		"dynn_Mameah"
+		"dynn_McGlaslin"
+		"dynn_Pries"
+		"dynn_Little_Sun"
+		"dynn_Haymond"
+		"dynn_Reed"
+		"dynn_Leading_Fox"
+		"dynn_Horn"
+		"dynn_Pratt"
+		"dynn_Morris"
+		"dynn_Moon_Eagle"
+		"dynn_Rice"
+		"dynn_Jim"
+		"dynn_Kanuho"
+		"dynn_Chapman"
+		"dynn_McCray"
+		"dynn_George"
+		"dynn_Pollock"
+		"dynn_Sun_Chief"
+		"dynn_Lone_Chief"
+		"dynn_Knife_Chief"
+		"dynn_Butler"
+		"dynn_Hare"
+		"dynn_Mad_Bear"
+		"dynn_Buffalo"
+		"dynn_Good_Chief"
+		"dynn_Seeing_Eagle"
+		"dynn_Good_Bear"
+		"dynn_Young_Chief"
+		"dynn_Lone_Wolf"
+		"dynn_Man_Chief"
+	}
+	dynasty_names = {
+		"dynn_Echo_Hawk"
+		"dynn_Spotted_Horse"
+		"dynn_Riding_In"
+		"dynn_Grieves_The_Enemy"
+		"dynn_Yellow_Horse"
+		"dynn_Walters"
+		"dynn_Murree"
+		"dynn_Supernaw"
+		"dynn_Mameah"
+		"dynn_McGlaslin"
+		"dynn_Pries"
+		"dynn_Little_Sun"
+		"dynn_Haymond"
+		"dynn_Reed"
+		"dynn_Leading_Fox"
+		"dynn_Horn"
+		"dynn_Pratt"
+		"dynn_Morris"
+		"dynn_Moon_Eagle"
+		"dynn_Rice"
+		"dynn_Jim"
+		"dynn_Kanuho"
+		"dynn_Chapman"
+		"dynn_McCray"
+		"dynn_George"
+		"dynn_Pollock"
+		"dynn_Sun_Chief"
+		"dynn_Lone_Chief"
+		"dynn_Knife_Chief"
+		"dynn_Butler"
+		"dynn_Hare"
+		"dynn_Mad_Bear"
+		"dynn_Buffalo"
+		"dynn_Good_Chief"
+		"dynn_Seeing_Eagle"
+		"dynn_Good_Bear"
+		"dynn_Young_Chief"
+		"dynn_Lone_Wolf"
+		"dynn_Man_Chief"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 40
+	mat_grf_name_chance = 15
+	father_name_chance = 30
+	pat_grm_name_chance = 40
+	mat_grm_name_chance = 10
+	mother_name_chance = 40
+
+	mercenary_names = {
+		{ name = mercenary_company_place_band1 }
+		{ name = mercenary_company_place_band2 }
+		{ name = mercenary_company_place_band3 }
+		{ name = mercenary_company_place_band4 }
+		{ name = mercenary_company_place_band5 }
+		{ name = mercenary_company_place_band }
+	}
+
+}

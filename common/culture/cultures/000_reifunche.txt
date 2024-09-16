@@ -1,0 +1,41 @@
+﻿reifunche = {
+	color = { 110 194 109  }
+	ethos = ethos_communal
+	heritage = heritage_mapuche
+	language = language_reifun
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mapuche # should have a mixed list of mapuche and araucanized hispanic names
+	
+	traditions = {
+		tradition_collective_lands
+		tradition_hill_dwellers
+		tradition_zealous_people
+		tradition_newentun
+		tradition_ad_mapu
+	}
+	
+	coa_gfx = {
+		mapuche_coa_gfx
+		ameroaustral_group_gfx
+	}
+	building_gfx = {
+		reifunche_building_gfx
+		mapuche_building_gfx #Architecture-style
+		native_austral_building_gfx #Style
+		native_cold_building_gfx #Super-style
+		heritage_mapuche_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		northern_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		10 = mediterranean
+		60 = patagonian
+		30 = mesoamerican_yuto_aztec
+	}
+}

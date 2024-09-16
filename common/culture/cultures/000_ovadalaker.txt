@@ -1,0 +1,52 @@
+﻿ovadalaker = {
+	color = { 97 42 62  }
+	created = 2066.1.1
+	parents = { yooper ontarian }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_northlake
+	language = language_shorespeak
+	martial_custom = martial_custom_equal
+	name_list = name_list_ovadalaker
+	
+	traditions = {
+		tradition_cheesemongers
+		tradition_practiced_pirates
+		tradition_stalwart_defenders
+		tradition_winter_warriors
+	}
+	
+	coa_gfx = {
+		yooper_coa_gfx
+		ontarian_coa_gfx
+		northlake_group_gfx
+	}
+	building_gfx = {
+		ovadalaker_building_gfx
+		great_lakes_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_northlake_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		furry_canadian_clothing_gfx
+		northern_clothing_gfx
+		canadian_common_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = african
+		8 = arab
+		5 = asian
+		70 = caucasian
+		6 = mediterranean
+		5 = amerindian
+		4 = mesoamerican_yuto_aztec
+	
+	}
+}

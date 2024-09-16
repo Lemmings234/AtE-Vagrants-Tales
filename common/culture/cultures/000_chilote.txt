@@ -1,0 +1,46 @@
+﻿chilote = {
+	color = { 255 115 115  }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_chileno
+	language = language_chileno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chilote
+	
+	traditions = {
+		tradition_seafaring
+		tradition_loyal_soldiers
+		tradition_storytellers
+		tradition_mendicant_mystics
+	}
+	
+	coa_gfx = {
+		chilote_coa_gfx
+		chileno_group_gfx
+	}
+	building_gfx = {
+		chilote_building_gfx
+		southern_cone_dry_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_chileno_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		chileno_group_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		30 = caucasian
+		30 = mediterranean
+		40 = patagonian
+		10 = med_black_ind
+		5 = mesoamerican_yuto_aztec
+	
+	}
+}

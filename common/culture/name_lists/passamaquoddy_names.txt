@@ -1,0 +1,165 @@
+﻿name_list_passamaquoddy = {
+
+	#compiled by Nathair
+
+	male_names = {
+		Atole Asseloma
+		Can Ceykop Cems Cicis Cutoss Cini Concouguash
+		Daniel Donald Tahnol
+		Elijah Eugene Elikk Ehtiyan Ekkiyan
+		Francis
+		George Graylock
+		Husa Husawis
+		James Joseph
+		Kapoliyel Koluskap
+		Levi Louis Leksatol Lapel
+		Muhsilepehk Mahton Matthew Maykol Missel Musis Mehk 
+		Nihkoloss
+		Osihkiyol
+		Ponuwet Piyel Polansuwe Polans Pul Pilops Pilips
+		Richard
+		Sen Sozap Sesuhs Susehp Susepsa Sepsa Samson Simu Sayomon
+		Tepit Tapot Tihkon Tuma
+	}
+	female_names = {
+		Aselihk Anuwit Amelia Amelie Abigail Abby
+		Belle
+		Cicis Chloe Cessihka Cuwen Cuwena Cini Charlotte
+		Danielle Diane
+		Elizabeth Evelyn Ena Elona Eleanor Epi
+		Gabrielle
+		Isabelle
+		Jenny Josephine
+		Kanozas Kolel Kalalin
+		Lisopott Louise Luhsel Luhsi
+		Madelan Misseli Matolen Mali Malisan Mahta Mulehpon
+		Nicole Nahtalin Nansi
+		Suzanne Sapet Sutihk Suliyan Sarah Suset Salat Susehpin Sydney
+		Tayen Tiyena
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Benedict"
+		"dynn_Bernard"
+		"dynn_Bruchac"
+		"dynn_C_o_hat_t_e_act_"
+		"dynn_Charland"
+		"dynn_Classian"
+		"dynn_Daku"
+		"dynn_Dana"
+		"dynn_Francis"
+		"dynn_Gabriel"
+		"dynn_Gamelin"
+		"dynn_Gauthier"
+		"dynn_Gill"
+		"dynn_Godon"
+		"dynn_Goslin"
+		"dynn_Guptill"
+		"dynn_H_e_act_on"
+		"dynn_Hannis"
+		"dynn_Lachapelle"
+		"dynn_Lingley"
+		"dynn_Lolar"
+		"dynn_Look"
+		"dynn_Loring"
+		"dynn_Masta"
+		"dynn_Milette"
+		"dynn_Neault"
+		"dynn_Neptune"
+		"dynn_Newell"
+		"dynn_Nicolar"
+		"dynn_Nolett"
+		"dynn_Obomsawin"
+		"dynn_Ockett"
+		"dynn_Panadis"
+		"dynn_Parker"
+		"dynn_Paul"
+		"dynn_Pelotte"
+		"dynn_Portneuf"
+		"dynn_Pouliot"
+		"dynn_Sanborn"
+		"dynn_Sapiel"
+		"dynn_Savageau"
+		"dynn_Seeley"
+		"dynn_Shay"
+		"dynn_Silliboy"
+		"dynn_Sockabasin"
+		"dynn_Sockalexis"
+		"dynn_Socobasin"
+		"dynn_Soctomah"
+		"dynn_Stranger"
+		"dynn_Tahamont"
+		"dynn_Watso"
+		"dynn_Wawanoloath"
+	}
+	dynasty_names = {
+		"dynn_Benedict"
+		"dynn_Bernard"
+		"dynn_Bruchac"
+		"dynn_Charland"
+		"dynn_Classian"
+		"dynn_Dana"
+		"dynn_Francis"
+		"dynn_Gabriel"
+		"dynn_Gamelin"
+		"dynn_Gauthier"
+		"dynn_Gill"
+		"dynn_Godon"
+		"dynn_Goslin"
+		"dynn_Guptill"
+		"dynn_Hannis"
+		"dynn_Lachapelle"
+		"dynn_Lingley"
+		"dynn_Lolar"
+		"dynn_Look"
+		"dynn_Loring"
+		"dynn_Masta"
+		"dynn_Milette"
+		"dynn_Neault"
+		"dynn_Neptune"
+		"dynn_Newell"
+		"dynn_Nicolar"
+		"dynn_Nolett"
+		"dynn_Obomsawin"
+		"dynn_Ockett"
+		"dynn_Panadis"
+		"dynn_Parker"
+		"dynn_Paul"
+		"dynn_Pelotte"
+		"dynn_Piyelpul"
+		"dynn_Portneuf"
+		"dynn_Pouliot"
+		"dynn_Sanborn"
+		"dynn_Sahkupi"
+		"dynn_Sapiel"
+		"dynn_Savageau"
+		"dynn_Seeley"
+		"dynn_Shay"
+		"dynn_Silliboy"
+		"dynn_Sockabasin"
+		"dynn_Sockalexis"
+		"dynn_Socobasin"
+		"dynn_Soctomah"
+		"dynn_Stranger"
+		"dynn_Tahamont"
+		"dynn_Tomah"
+		"dynn_Watso"
+		"dynn_Wawanoloath"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+
+	mercenary_names = {
+		
+	}
+}

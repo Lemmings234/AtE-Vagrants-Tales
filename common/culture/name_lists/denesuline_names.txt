@@ -1,0 +1,242 @@
+﻿name_list_denesuline = {
+
+	#compiled by Kayos, Lahom
+
+	male_names = {
+		Alexandre Allan Andre Anthony Archie Augustan
+		Benjamin Bill Brian
+		Charles Chris
+		David Denis Don Doug
+		Edward Eric
+		Francis Fred Fridolin
+		George
+		James Jason Jay Jim Joe John Jonathan Jonas
+		Larry Louis
+		Mel Michael
+		Patrick Paul Pierre
+		Raymond Rene Roger
+		Scott Stephen Samuel
+		Tim Tom Tony
+		William
+	}
+	female_names = {
+		Alice Angela Ann Arcan
+		Bernadette Betty
+		Candace Caroline Catherine Charlene Christine Clair Crystal
+		Denise Donna Dorothy
+		Emma
+		Flossie
+		Helene Hilary
+		Isabel
+		Jamie Janice Jeanette Jessie Julie
+		Lily Lisa Lori Louise Lynne
+		Mandy Margaret Marie Meghan Melinda Michelle Morgan
+		Patricia Pauline Philomene
+		Rae Rebecca Regina Rianna Rosa Rosanna Rose
+		Sally Shaye Shayelynne Shirley Stephanie
+		Teri Therese Tiffany
+		Violette
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Adam"
+		"dynn_Alphonse"
+		"dynn_Augier"
+		"dynn_Aze"
+		"dynn_Beaulieu"
+		"dynn_Benonie"
+		"dynn_Benwell"
+		"dynn_Bernard"
+		"dynn_Blanc"
+		"dynn_Boneleye"
+		"dynn_Bouchier"
+		"dynn_Bourke"
+		"dynn_Broussie"
+		"dynn_Bruno"
+		"dynn_Campbell"
+		"dynn_Cardinal"
+		"dynn_Cataract"
+		"dynn_Chapdelaine"
+		"dynn_Charlo"
+		"dynn_Cooper"
+		"dynn_Cyprien"
+		"dynn_Dalrymple"
+		"dynn_Davies"
+		"dynn_Denechezhe"
+		"dynn_Deranger"
+		"dynn_Disain"
+		"dynn_Echodh"
+		"dynn_Farrington"
+		"dynn_Fern"
+		"dynn_Flett"
+		"dynn_Gazandlare"
+		"dynn_Grandjamb"
+		"dynn_Gullion"
+		"dynn_Herman"
+		"dynn_Heron"
+		"dynn_Hewko"
+		"dynn_Hinzel"
+		"dynn_Isadore"
+		"dynn_Jacko"
+		"dynn_Janvier"
+		"dynn_Joseyounen"
+		"dynn_L_pst_Hommecourt"
+		"dynn_Laing"
+		"dynn_Larche"
+		"dynn_Laurent"
+		"dynn_Laviolette"
+		"dynn_Lepine"
+		"dynn_MacDonald"
+		"dynn_MacKenzie"
+		"dynn_Marcel"
+		"dynn_Marie"
+		"dynn_Marr"
+		"dynn_Marten"
+		"dynn_Mercredi"
+		"dynn_Merrithew"
+		"dynn_Michael"
+		"dynn_Modeste"
+		"dynn_Montgrand"
+		"dynn_Naldzil"
+		"dynn_Nezcroche"
+		"dynn_Owl"
+		"dynn_Pacquette"
+		"dynn_Paulette"
+		"dynn_Piche"
+		"dynn_Powder"
+		"dynn_Puhalski"
+		"dynn_Rigney"
+		"dynn_Robillard"
+		"dynn_Ross"
+		"dynn_Samagalski"
+		"dynn_Sayazie"
+		"dynn_Sha_pst_Ouelle"
+		"dynn_Sinclair"
+		"dynn_Smith"
+		"dynn_Stalthanee"
+		"dynn_Stevens"
+		"dynn_Stewart"
+		"dynn_Sylvestre"
+		"dynn_Takaro"
+		"dynn_Throassie"
+		"dynn_Toutsaint"
+		"dynn_Tsannie"
+		"dynn_Tssessaze"
+		"dynn_Villebrun"
+		"dynn_Voyageur"
+		"dynn_Warford"
+		"dynn_Wells"
+		"dynn_Whitedeer"
+		"dynn_Williams"
+		"dynn_Yooya"
+	}
+	dynasty_names = {
+		"dynn_Adam"
+		"dynn_Alphonse"
+		"dynn_Augier"
+		"dynn_Aze"
+		"dynn_Beaulieu"
+		"dynn_Benonie"
+		"dynn_Benwell"
+		"dynn_Bernard"
+		"dynn_Blanc"
+		"dynn_Boneleye"
+		"dynn_Bouchier"
+		"dynn_Bourke"
+		"dynn_Broussie"
+		"dynn_Bruno"
+		"dynn_Campbell"
+		"dynn_Cardinal"
+		"dynn_Cataract"
+		"dynn_Chapdelaine"
+		"dynn_Charlo"
+		"dynn_Cooper"
+		"dynn_Cyprien"
+		"dynn_Dalrymple"
+		"dynn_Davies"
+		"dynn_Denechezhe"
+		"dynn_Deranger"
+		"dynn_Disain"
+		"dynn_Echodh"
+		"dynn_Farrington"
+		"dynn_Fern"
+		"dynn_Flett"
+		"dynn_Gazandlare"
+		"dynn_Grandjamb"
+		"dynn_Gullion"
+		"dynn_Herman"
+		"dynn_Heron"
+		"dynn_Hewko"
+		"dynn_Hinzel"
+		"dynn_Isadore"
+		"dynn_Jacko"
+		"dynn_Janvier"
+		"dynn_Joseyounen"
+		"dynn_L_pst_Hommecourt"
+		"dynn_Laing"
+		"dynn_Larche"
+		"dynn_Laurent"
+		"dynn_Laviolette"
+		"dynn_Lepine"
+		"dynn_MacDonald"
+		"dynn_MacKenzie"
+		"dynn_Marcel"
+		"dynn_Marie"
+		"dynn_Marr"
+		"dynn_Marten"
+		"dynn_Mercredi"
+		"dynn_Merrithew"
+		"dynn_Michael"
+		"dynn_Modeste"
+		"dynn_Montgrand"
+		"dynn_Naldzil"
+		"dynn_Nezcroche"
+		"dynn_Owl"
+		"dynn_Pacquette"
+		"dynn_Paulette"
+		"dynn_Piche"
+		"dynn_Powder"
+		"dynn_Puhalski"
+		"dynn_Rigney"
+		"dynn_Robillard"
+		"dynn_Ross"
+		"dynn_Samagalski"
+		"dynn_Sayazie"
+		"dynn_Sha_pst_Ouelle"
+		"dynn_Sinclair"
+		"dynn_Smith"
+		"dynn_Stalthanee"
+		"dynn_Stevens"
+		"dynn_Stewart"
+		"dynn_Sylvestre"
+		"dynn_Takaro"
+		"dynn_Throassie"
+		"dynn_Toutsaint"
+		"dynn_Tsannie"
+		"dynn_Tssessaze"
+		"dynn_Villebrun"
+		"dynn_Voyageur"
+		"dynn_Warford"
+		"dynn_Wells"
+		"dynn_Whitedeer"
+		"dynn_Williams"
+		"dynn_Yooya"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+	
+	mercenary_names = {
+		
+	}
+	
+}

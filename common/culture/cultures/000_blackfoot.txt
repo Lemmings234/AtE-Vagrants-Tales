@@ -1,0 +1,43 @@
+﻿blackfoot = {
+	color = { 145 104 60 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_plains
+	language = language_blackfoot
+	martial_custom = martial_custom_male_only
+	name_list = name_list_blackfoot
+	
+	traditions = {
+		tradition_pastoralists
+		tradition_tribe_unity
+		tradition_horse_breeder
+		tradition_reverence_for_veterans
+	}
+	
+	coa_gfx = {
+		plains_coa_gfx
+	}
+	building_gfx = {
+		blackfoot_building_gfx
+		tipi_building_gfx #Architecture-style
+		native_na_plains_building_gfx #Style
+		native_dry_building_gfx #Super-style
+		heritage_plains_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+	high_plains_clothing_gfx
+	plains_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amerindian
+		25 = white_indigenous
+	
+	}
+}

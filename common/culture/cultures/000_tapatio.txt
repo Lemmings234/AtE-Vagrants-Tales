@@ -1,0 +1,50 @@
+﻿tapatio = {
+	color = { 255 78 38  }
+	
+	ethos = ethos_courtly
+	heritage = heritage_novohispano
+	language = language_metropolitano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_tapatio
+	
+	traditions = {
+		tradition_warrior_monks
+		tradition_dia_de_muertos
+		tradition_loyal_soldiers
+		tradition_carnival
+		tradition_charreria
+	}
+	
+	coa_gfx = {
+		tapatio_coa_gfx
+		mexicano_group_gfx
+	}
+	building_gfx = {
+		tapatio_building_gfx
+		heritage_novohispano_building_gfx
+		mexican_building_gfx #Style
+		latam_building_gfx #Super-style
+		mediterranean_building_gfx
+		iberian_building_gfx
+	}
+	clothing_gfx = {
+		mexicano_group_gfx
+		iberian_christian_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		iberian_christian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = mediterranean
+		5 = caucasian
+		5 = mesoamerican_maya
+		50 = mesoamerican_yuto_aztec
+		25 = aridoamerican_chichimec
+		5 = asian_austronesian
+		5 = white_asian
+	
+	}
+}

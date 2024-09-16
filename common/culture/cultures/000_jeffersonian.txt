@@ -1,0 +1,52 @@
+﻿jeffersonian = {
+	color = { 19 97 100 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_pacific
+	language = language_californine
+	martial_custom = martial_custom_equal
+	name_list = name_list_jeffersonian
+	
+	traditions = {
+		tradition_highland_warriors
+		tradition_mountaineer_ruralism
+		tradition_sacred_hunts
+		tradition_brewmasters
+	}
+	
+	coa_gfx = {
+		jeffersonian_coa_gfx
+		north_pacific_group_gfx
+	}
+	building_gfx = {
+		jeffersonian_building_gfx
+		cascadian_building_gfx #Style
+		frontier_building_gfx #Super-style
+		heritage_north_pacific_building_gfx
+		western_building_gfx
+		norse_building_gfx
+		nwc_building_gfx
+	}
+	clothing_gfx = {
+		nw_plateau_clothing_gfx
+		northern_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		2 = asian
+		1 = asian_southern_han
+		65 = caucasian
+		8 = mediterranean
+		10 = amerindian
+		5 = mesoamerican_yuto_aztec
+		5 = multiracial
+		1 = asian_southeast_asian
+	
+	}
+}

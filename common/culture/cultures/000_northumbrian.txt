@@ -1,0 +1,16 @@
+northumbrian = {
+	color = { 0.8 0.3 0.3 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_britannic
+	language = language_anglish
+	martial_custom = martial_custom_equal
+	name_list = name_list_northumbrian
+	
+	traditions = {
+		tradition_life_is_just_a_joke
+		tradition_metalworker
+		tradition_culture_blending
+		tradition_hill_dwellers
+	}
+}

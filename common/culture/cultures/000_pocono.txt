@@ -1,0 +1,51 @@
+﻿pocono = {
+	color = { 71 132 143 }
+	created = 2066.1.1
+	parents = { upstater youser }
+	
+	ethos = ethos_courtly
+	heritage = heritage_mid_atlantic
+	language = language_irontongue
+	martial_custom = martial_custom_male_only
+	name_list = name_list_pocono
+	
+	traditions = {
+		tradition_ancient_miners
+		tradition_esteemed_hospitality
+		tradition_hard_working
+		tradition_hill_dwellers
+	}
+	
+	coa_gfx = {
+		upstater_coa_gfx
+		mid_atlantic_group_gfx
+	}
+	building_gfx = {
+		pocono_building_gfx
+		federal_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_mid_atlantic_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		1 = arab
+		3 = asian
+		40 = caucasian
+		2 = indian
+		20 = mediterranean
+		15 = slavic
+		5 = mesoamerican_yuto_aztec
+		5 = black_white
+	
+	}
+}

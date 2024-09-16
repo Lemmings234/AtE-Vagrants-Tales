@@ -1,0 +1,215 @@
+﻿name_list_kiowa = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Ado-ete Ahpeatone Albert Amos Anacleto Andrew Audle-ko-ety Aupia-goodle
+		Belo Boniface
+		Caudolario Coquit
+		David Dohosan
+		Eriberto Etadleuh
+		George Gotebo Gui-pah-gho Gui-po-lau Guitan
+		Hanay Haungooah Hepardo Hovekah
+		I-see-o
+		James Jerome John Joseph Joshua
+		K_pst_ya-been Koba
+		Lallo Lorenzo Louis
+		Mamanti Mamay-day-te Manyi-ten Mark Max Moses
+		Napawat Nathan Navarre
+		Oscar
+		Pai-doung-a-day Pai-talyi Parker Pascal Paul Peter Py-bo
+		Que-tah-tsay Qued-koi
+		Samuel Set_pst_tainte Set-ankeah Sotaro
+		Tah-bone-mah Tau-ankia Tene-angop_pst_te Tsate-kongia Tsatokee Tsen-tainte
+		Vidal
+		Wohaw
+		Ze_pst_bile Zepko-ete Zotom
+	}
+	female_names = {
+		Ada Alice Annie Audrea
+		Barbara Betty Bonita Bougetah
+		Camilita Carlotta Carmen Clemencia Coy Cruz Cynthia
+		Delores Dorothy
+		Emma Etla Eva
+		Grace
+		Helen Herlinda Hilda
+		Jane Juanita Julia
+		Kaubin
+		Laura Lauriana Lena Lillie Lorenza Louise Lucy Lynn
+		Mary Maude May
+		Ophelia
+		Pau-gei-to Pau-to-mah
+		Rachel Refugia Rose Ruth
+		Tomasa Tsomah
+		Velma
+		Winona
+		Yvonne
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Ahhaitty"
+		"dynn_Ahtone"
+		"dynn_Anquoe"
+		"dynn_Asah"
+		"dynn_Ataumbi"
+		"dynn_Auchiah"
+		"dynn_Autaubo"
+		"dynn_Belindo"
+		"dynn_Bigbow"
+		"dynn_Bointy"
+		"dynn_Botone"
+		"dynn_Boyiddle"
+		"dynn_Cannon"
+		"dynn_Chaddlesone"
+		"dynn_Chalepah"
+		"dynn_Cozad"
+		"dynn_Daingkau"
+		"dynn_Davis"
+		"dynn_Doyebi"
+		"dynn_Doyeto"
+		"dynn_Geimasaddle"
+		"dynn_Geiogamah"
+		"dynn_Geionty"
+		"dynn_Gonzalez"
+		"dynn_Goombi"
+		"dynn_Growingthunder"
+		"dynn_Guoladdle"
+		"dynn_Hainta"
+		"dynn_Haumpy"
+		"dynn_Haunpo"
+		"dynn_Hawziptaw"
+		"dynn_Hobay"
+		"dynn_Hokeah"
+		"dynn_Horn"
+		"dynn_Huckaba"
+		"dynn_Kaulaity"
+		"dynn_Keahbone"
+		"dynn_Killer"
+		"dynn_Kodaseet"
+		"dynn_Koomsa"
+		"dynn_Littlechief"
+		"dynn_Mauchahty"
+		"dynn_Maynahonah"
+		"dynn_Momaday"
+		"dynn_Mopope"
+		"dynn_Nahquaddy"
+		"dynn_Odlety"
+		"dynn_Oheltoint"
+		"dynn_Paddelty"
+		"dynn_Pauahty"
+		"dynn_Pewewardy"
+		"dynn_Poolaw"
+		"dynn_Redbird"
+		"dynn_Reyes"
+		"dynn_Sadongei"
+		"dynn_Satepeahtaw"
+		"dynn_Satoe"
+		"dynn_Silverhorn"
+		"dynn_Standing"
+		"dynn_Swanda"
+		"dynn_Tanedooah"
+		"dynn_Tartsah"
+		"dynn_Taryole"
+		"dynn_Tocakut"
+		"dynn_Tonepahote"
+		"dynn_Toppah"
+		"dynn_Tsatoke"
+		"dynn_Tsonetokoy"
+		"dynn_Tsoodle"
+		"dynn_Tsotigh"
+		"dynn_Twohatchet"
+		"dynn_Yeahquo"
+	}
+	dynasty_names = {
+		"dynn_Ahhaitty"
+		"dynn_Ahtone"
+		"dynn_Anquoe"
+		"dynn_Asah"
+		"dynn_Ataumbi"
+		"dynn_Auchiah"
+		"dynn_Autaubo"
+		"dynn_Belindo"
+		"dynn_Bigbow"
+		"dynn_Bointy"
+		"dynn_Botone"
+		"dynn_Boyiddle"
+		"dynn_Cannon"
+		"dynn_Chaddlesone"
+		"dynn_Chalepah"
+		"dynn_Cozad"
+		"dynn_Daingkau"
+		"dynn_Davis"
+		"dynn_Doyebi"
+		"dynn_Doyeto"
+		"dynn_Geimasaddle"
+		"dynn_Geiogamah"
+		"dynn_Geionty"
+		"dynn_Gonzalez"
+		"dynn_Goombi"
+		"dynn_Growingthunder"
+		"dynn_Guoladdle"
+		"dynn_Hainta"
+		"dynn_Haumpy"
+		"dynn_Haunpo"
+		"dynn_Hawziptaw"
+		"dynn_Hobay"
+		"dynn_Hokeah"
+		"dynn_Horn"
+		"dynn_Huckaba"
+		"dynn_Kaulaity"
+		"dynn_Keahbone"
+		"dynn_Killer"
+		"dynn_Kodaseet"
+		"dynn_Koomsa"
+		"dynn_Littlechief"
+		"dynn_Mauchahty"
+		"dynn_Maynahonah"
+		"dynn_Momaday"
+		"dynn_Mopope"
+		"dynn_Nahquaddy"
+		"dynn_Odlety"
+		"dynn_Oheltoint"
+		"dynn_Paddelty"
+		"dynn_Pauahty"
+		"dynn_Pewewardy"
+		"dynn_Poolaw"
+		"dynn_Redbird"
+		"dynn_Reyes"
+		"dynn_Sadongei"
+		"dynn_Satepeahtaw"
+		"dynn_Satoe"
+		"dynn_Silverhorn"
+		"dynn_Standing"
+		"dynn_Swanda"
+		"dynn_Tanedooah"
+		"dynn_Tartsah"
+		"dynn_Taryole"
+		"dynn_Tocakut"
+		"dynn_Tonepahote"
+		"dynn_Toppah"
+		"dynn_Tsatoke"
+		"dynn_Tsonetokoy"
+		"dynn_Tsoodle"
+		"dynn_Tsotigh"
+		"dynn_Twohatchet"
+		"dynn_Yeahquo"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		{ name = mercenary_company_stampede }
+		{ name = mercenary_buffalo_jump }
+	}
+	
+}

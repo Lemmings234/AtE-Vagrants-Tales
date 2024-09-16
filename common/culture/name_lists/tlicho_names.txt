@@ -1,0 +1,23 @@
+﻿name_list_tlicho = {
+        male_names = { Alexandre Allan Andre Anthony Archie Augustan Benjamine Bill Brian Charles Chris David Denis Don Doug Edward Eric Francis Fred Fridolin George James Jason Jay Jim Joe John Jonathan Jonas Larry Louis Mel Michael Patrick Paul Pierre Raymond Rene Roger Scott Stephen Samuel Tim Tom Tony William }
+        female_names = { Alice Angela Ann Arcan Bernadette Betty Candace Caroline Catherine Charlene Christine Clair Crystal Denise Donna Dorothy Emma Flossie Helene Hilary Isabel Jamie Janice Jeanette Jessie Julie Lily Lisa Lori Louise Lynne Mandy Margaret Marie Meghan Melinda Michelle Morgan Patricia Pauline Philomene Rae Rebecca Regina Rianna Rosa Rosanna Rose Sally Shaye Shayelynne Shirley Stephanie Teri Therese Tiffany Violette }
+        dynasty_names = { "dynn_Arrowmaker" "dynn_Betsina" "dynn_Bishop" "dynn_Black" "dynn_Bruneau" "dynn_Charlo" "dynn_Crapeau" "dynn_Daniels" "dynn_Drygeese" "dynn_Dryneck" "dynn_Edjericon" "dynn_Erasmus" "dynn_Etsemba" "dynn_Eyakfwo" "dynn_Football" "dynn_Gon" "dynn_Goulet" "dynn_Husky" "dynn_Jeremick_pst_ca" "dynn_Judas" "dynn_Kodzin" "dynn_Kotchilea" "dynn_Laboline" "dynn_Lafferty" "dynn_Lamouelle" "dynn_Lines" "dynn_Liske" "dynn_MacKenzie" "dynn_Mantla" "dynn_Martin" "dynn_Migwi" "dynn_Naedzo" "dynn_Nitsiza" "dynn_Pea_pst_a" "dynn_Quitte" "dynn_Rabesca" "dynn_Romie" "dynn_Sabourin" "dynn_Sangris" "dynn_Simpson" "dynn_Takazo" "dynn_Tinqui" "dynn_Tsetta" "dynn_Wanazah" "dynn_Washie" "dynn_Wedawin" "dynn_Wedzin" "dynn_Wetrade" "dynn_Weyallon" "dynn_Zoe" }
+        cadet_dynasty_names = { "dynn_Arrowmaker" "dynn_Betsina" "dynn_Bishop" "dynn_Black" "dynn_Bruneau" "dynn_Charlo" "dynn_Crapeau" "dynn_Daniels" "dynn_Drygeese" "dynn_Dryneck" "dynn_Edjericon" "dynn_Erasmus" "dynn_Etsemba" "dynn_Eyakfwo" "dynn_Football" "dynn_Gon" "dynn_Goulet" "dynn_Husky" "dynn_Jeremick_pst_ca" "dynn_Judas" "dynn_Kodzin" "dynn_Kotchilea" "dynn_Laboline" "dynn_Lafferty" "dynn_Lamouelle" "dynn_Lines" "dynn_Liske" "dynn_MacKenzie" "dynn_Mantla" "dynn_Martin" "dynn_Migwi" "dynn_Naedzo" "dynn_Nitsiza" "dynn_Pea_pst_a" "dynn_Quitte" "dynn_Rabesca" "dynn_Romie" "dynn_Sabourin" "dynn_Sangris" "dynn_Simpson" "dynn_Takazo" "dynn_Tinqui" "dynn_Tsetta" "dynn_Wanazah" "dynn_Washie" "dynn_Wedawin" "dynn_Wedzin" "dynn_Wetrade" "dynn_Weyallon" "dynn_Zoe" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+        mercenary_names = {
+            
+        }
+        
+}

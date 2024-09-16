@@ -1,0 +1,41 @@
+﻿wajapi = {
+	color = { 99 96 36 }
+	
+	ethos = ethos_communal
+	heritage = heritage_indigenous_guyanan
+	language = language_waiapi
+	martial_custom = martial_custom_male_only
+	name_list = name_list_wajapi
+	
+	traditions = {
+		#TODO
+		tradition_deep_jungle_dwellers
+		tradition_festivities
+		tradition_tribe_unity
+	}
+	
+	coa_gfx = {
+		wajapi_coa_gfx
+		amazonico_group_gfx
+	}
+	building_gfx = {
+		wajapi_building_gfx
+		native_amazonian_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_indigenous_guyanan_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		100 = amazonian
+	
+	}
+}

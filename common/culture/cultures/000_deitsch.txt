@@ -1,0 +1,49 @@
+﻿deitsch = {
+	color = { 102 102 76 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_amish
+	language = language_pennsilfaanisch
+	martial_custom = martial_custom_male_only
+	name_list = name_list_deitsch
+	
+	traditions = {
+		tradition_spartan
+		tradition_hill_dwellers
+		tradition_pacifism
+		tradition_ruling_caste
+		tradition_ordnung
+	}
+	
+	coa_gfx = {
+		deitsch_coa_gfx
+		amerodeutsch_group_gfx
+	}
+	building_gfx = {
+		deitsch_building_gfx
+		na_middle_building_gfx #Architecture-style-2
+		carpenter_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_amish_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+
+		2 = asian_southeast_asian
+		2 = asian
+		3 = african
+		80 = caucasian
+		5 = mediterranean
+		4 = multiracial
+		4 = mesoamerican_yuto_aztec
+	
+	}
+}

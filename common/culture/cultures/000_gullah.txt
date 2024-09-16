@@ -1,0 +1,49 @@
+﻿gullah = {
+	color = { 153 102 153 }
+	
+	ethos = ethos_communal
+	heritage = heritage_geechee
+	language = language_gullah
+	martial_custom = martial_custom_male_only
+	name_list = name_list_gullah
+	
+	traditions = {
+		#TODO
+		tradition_bbqs
+		tradition_seafaring
+		tradition_wetlanders
+		tradition_storytellers
+	}
+	
+	coa_gfx = {
+		gullah_coa_gfx
+		south_anglo_group_gfx
+	}
+	building_gfx = {
+		gullah_building_gfx
+		gulfard_building_gfx #Architecture-style
+		na_south_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_geechee_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		30 = african
+		2 = asian
+		30 = caucasian
+		5 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		25 = black_white
+		3 = multiracial
+	
+	}
+}

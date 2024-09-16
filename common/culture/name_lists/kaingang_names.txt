@@ -1,0 +1,276 @@
+﻿name_list_kaingang = {
+
+	#compiled by Pedrott
+
+	male_names = {
+		Adilson Adnilson Altair Alziro Anast_a_act_cio Anildo Ant_o_hat_nio Argeu M_i_tld_g Ari Arok_y_uml_ Ar_a_tld_o
+		Bh_e_uml_
+		Carlos Celestiel
+		Daniel Devanil Dirceu Dorcoc_o_hat_
+		Edson Elizer Elizeu
+		Francisco F_a_tld_gngr_e_act_t_u_uml_
+		Gerson Ghell
+		Jadir Jair Joel Jo_a_tld_o Juvino
+		Kad_a_act_ Kaegso Kafer Kainh_e_act_r Kam_e_act_ Kanyah_e_act_ Karein Karein Karugm_a_act_g Kas_o_act_hn Katui Kau_a_tld_ Kaxen_Mbag Kax_u_act_ Kik_o_hat_ Klend_o_act_ Kongr_e_hat_ Kret_a_tld_ Kronun Kuita Kuth_u_act_gn K_a_tld_gf_e_act_r K_o_act_ioi K_o_act_vi K_u_act_ven K_e_tld_gr_a_act_nh
+		Leandro Louren_c_ced_o Lugnm_u_act_ Luiz
+		Manoel Marciano Mauro Misija Mois_e_act_s Muf_e_act_ M_a_act_rcio M_y_tld_g_No
+		Natanael Nat_a_tld_ Nicu_e_act_ Ningrei Nokag Nyatka_e_act_
+		Patkl_e_act_ Paulo Pedro Pep_o_act_ Pox_i_uml_ Pr_y_uml_g Puio P_i_lin__G_o_act_g
+		Sebasti_a_tld_o Selso
+		Tito
+		Valdomiro Vanderlei Ven_I_u_uml_ Vitor Vitorino Vombl_e_act_ Vuktha V_a_tld_fy
+		Waip_o_act_ Wanyek_i_act_
+		Xangre
+		Ydiomar Yupl_u_act_ Ywy
+		Z_i_act_lio
+	}
+	
+	female_names = {
+		Ana Alzira Amend_o_act_ Andila Angnel_o_act_ Anngl_o_act_ Arc_i_act_dia Azelene
+		Beatriz Bras_i_act_lia
+		Catiane Chant_a_act_gn Cleci
+		Daiane Derli Dirce
+		Elfrida Elisane Evanice
+		Fabiana Fend_o_hat_
+		Girlene Goj_T_e_act_j G_a_act_v_e_lin_n
+		Hanai_e_hat_
+		Iara Iracema Iracema Itauany Ivone Ivone Izondina
+		Jandira Janice Jocasta Jozil_e_act_ia Juc_e_act_lia Jussara Ju_c_ced_ara
+		Kaiane Kamonky Kangg_a_act_ Katx_o_hat_ Kokt_a_act_ Kokui Kr_i_act_g Kuadm_e_act_ Kul_a_act_ Kul_u_act_ K_e_act_sia K_o_act_i_o_act_d
+		Layongnd_a_act_ Leocir Lipu Luciana Lucilene Lucimara
+		Maria_Rita Maria_R_e_hat_gso Marizalda Marli
+		Mayra Myg Nggem_u_act_ Nggev_e_act_n Nilda Nyg Kuit_a_act_
+		Ondina Onilda
+		Rhayane Rosana Rosane
+		Sara Sauri Sidineia Sirlene Sueli Susilene S_e_act_lia
+		Tend_o_act_ Tere Terezinha Thaynara Tomb_a_act_ T_a_hat_nia
+		Valderes Vanu_i_act_re Ven_kad_e_act_r Vitalina V_a_tld_ngri
+		Waikom_e_act_ Waik_i_act_li Waimogu_e_act_ Wainl_u_act_in Wenx_o_act_
+		Yat_i_act_ Yem_a_act_i Yoko Yukwaya
+		Zhu Zoraide
+	}
+	
+	dynasty_names = {
+		"dynn_Amantino"
+		"dynn_Barbosa"
+		"dynn_Belino"
+		"dynn_Braga"
+		"dynn_Campolin"
+		"dynn_Capanin"
+		"dynn_Claudino"
+		"dynn_Cond_a_act_"
+		"dynn_Conto"
+		"dynn_Coto"
+		"dynn_Crespo"
+		"dynn_Cret_a_tld_"
+		"dynn_Candido"
+		"dynn_Damesceno"
+		"dynn_Doble"
+		"dynn_Fidelis"
+		"dynn_Flamboi_a_tld_"
+		"dynn_Fongue"
+		"dynn_Fortes"
+		"dynn_Goj_Tahn"
+		"dynn_Hon_o_act_rio"
+		"dynn_Jacinto"
+		"dynn_Jagagl_e_hat_"
+		"dynn_Jagtyg"
+		"dynn_Kagn_a_tld_g"
+		"dynn_Kanher_o_act_"
+		"dynn_Karai"
+		"dynn_Karigka"
+		"dynn_Kat_a_act_hn"
+		"dynn_Kenrgrimu"
+		"dynn_Kentyg"
+		"dynn_Konig"
+		"dynn_Krengre"
+		"dynn_Krito"
+		"dynn_Kr_e_act_nr_a_tld_"
+		"dynn_Kr_i_lin_g"
+		"dynn_Kuita"
+		"dynn_Kunyn"
+		"dynn_K_o_act_koj"
+		"dynn_K_o_act_nhko"
+		"dynn_Linhares"
+		"dynn_Mineiro"
+		"dynn_Mink_a_act_"
+		"dynn_Narsizo"
+		"dynn_Nascimento"
+		"dynn_Nen_Mag"
+		"dynn_Nicafim"
+		"dynn_Nicu_e_act_"
+		"dynn_Nivo"
+		"dynn_Nonoai"
+		"dynn_N_i_uml__Pre"
+		"dynn_Pacifico"
+		"dynn_Padilha"
+		"dynn_Pat_e_act_"
+		"dynn_Peni"
+		"dynn_Pinheiro"
+		"dynn_Policena"
+		"dynn_Pripr_a_act_"
+		"dynn_Pyrf_e_act_"
+		"dynn_Rael"
+		"dynn_Reri"
+		"dynn_Ribeiro"
+		"dynn_Rodrigues"
+		"dynn_Rokan"
+		"dynn_R_a_act_nk_a_act_n"
+		"dynn_Salvador"
+		"dynn_Sejuja"
+		"dynn_Soares"
+		"dynn_Teles"
+		"dynn_Vanhkr_e_hat_"
+		"dynn_Vankam"
+		"dynn_Velloso"
+		"dynn_Venrig"
+		"dynn_Vergueiro"
+		"dynn_Vitorino"
+		"dynn_V_a_tld_gfy"
+		"dynn_Xukuru"
+		"dynn_da_Guarita"
+		"dynn_da_Serrinha"
+		"dynn_de_Apucaraninha"
+		"dynn_de_Borboleta"
+		"dynn_de_Chimbangue"
+		"dynn_de_Faxinal"
+		"dynn_de_Icatu"
+		"dynn_de_Imbu"
+		"dynn_de_Inhacor_a_act_"
+		"dynn_de_Ivai"
+		"dynn_de_Kond_o_act_ia"
+		"dynn_de_Ligeiro"
+		"dynn_de_Mangueirinha"
+		"dynn_de_Marrecas"
+		"dynn_de_Mello"
+		"dynn_de_Nonoai"
+		"dynn_de_Pinhal"
+		"dynn_de_Queimadas"
+		"dynn_de_S_e_hat_gu"
+		"dynn_de_Vanuire"
+		"dynn_de_Ventarra"
+		"dynn_de_Xapec_o_act_"
+		"dynn_dos_Santos"
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Amantino"
+		"dynn_Barbosa"
+		"dynn_Belino"
+		"dynn_Braga"
+		"dynn_Campolin"
+		"dynn_Capanin"
+		"dynn_Claudino"
+		"dynn_Cond_a_act_"
+		"dynn_Conto"
+		"dynn_Coto"
+		"dynn_Crespo"
+		"dynn_Cret_a_tld_"
+		"dynn_Candido"
+		"dynn_Damesceno"
+		"dynn_Doble"
+		"dynn_Fidelis"
+		"dynn_Flamboi_a_tld_"
+		"dynn_Fongue"
+		"dynn_Fortes"
+		"dynn_Goj_Tahn"
+		"dynn_Hon_o_act_rio"
+		"dynn_Jacinto"
+		"dynn_Jagagl_e_hat_"
+		"dynn_Jagtyg"
+		"dynn_Kagn_a_tld_g"
+		"dynn_Kanher_o_act_"
+		"dynn_Karai"
+		"dynn_Karigka"
+		"dynn_Kat_a_act_hn"
+		"dynn_Kenrgrimu"
+		"dynn_Kentyg"
+		"dynn_Konig"
+		"dynn_Krengre"
+		"dynn_Krito"
+		"dynn_Kr_e_act_nr_a_tld_"
+		"dynn_Kr_i_lin_g"
+		"dynn_Kuita"
+		"dynn_Kunyn"
+		"dynn_K_o_act_koj"
+		"dynn_K_o_act_nhko"
+		"dynn_Linhares"
+		"dynn_Mineiro"
+		"dynn_Mink_a_act_"
+		"dynn_Narsizo"
+		"dynn_Nascimento"
+		"dynn_Nen_Mag"
+		"dynn_Nicafim"
+		"dynn_Nicu_e_act_"
+		"dynn_Nivo"
+		"dynn_Nonoai"
+		"dynn_N_i_uml__Pre"
+		"dynn_Pacifico"
+		"dynn_Padilha"
+		"dynn_Pat_e_act_"
+		"dynn_Peni"
+		"dynn_Pinheiro"
+		"dynn_Policena"
+		"dynn_Pripr_a_act_"
+		"dynn_Pyrf_e_act_"
+		"dynn_Rael"
+		"dynn_Reri"
+		"dynn_Ribeiro"
+		"dynn_Rodrigues"
+		"dynn_Rokan"
+		"dynn_R_a_act_nk_a_act_n"
+		"dynn_Salvador"
+		"dynn_Sejuja"
+		"dynn_Soares"
+		"dynn_Teles"
+		"dynn_Vanhkr_e_hat_"
+		"dynn_Vankam"
+		"dynn_Velloso"
+		"dynn_Venrig"
+		"dynn_Vergueiro"
+		"dynn_Vitorino"
+		"dynn_V_a_tld_gfy"
+		"dynn_Xukuru"
+		"dynn_da_Guarita"
+		"dynn_da_Serrinha"
+		"dynn_de_Apucaraninha"
+		"dynn_de_Borboleta"
+		"dynn_de_Chimbangue"
+		"dynn_de_Faxinal"
+		"dynn_de_Icatu"
+		"dynn_de_Imbu"
+		"dynn_de_Inhacor_a_act_"
+		"dynn_de_Ivai"
+		"dynn_de_Kond_o_act_ia"
+		"dynn_de_Ligeiro"
+		"dynn_de_Mangueirinha"
+		"dynn_de_Marrecas"
+		"dynn_de_Mello"
+		"dynn_de_Nonoai"
+		"dynn_de_Pinhal"
+		"dynn_de_Queimadas"
+		"dynn_de_S_e_hat_gu"
+		"dynn_de_Vanuire"
+		"dynn_de_Ventarra"
+		"dynn_de_Xapec_o_act_"
+		"dynn_dos_Santos"
+	}
+	
+
+	dynasty_of_location_prefix = "dynnp_Kr_e_act_"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 10
+	mat_grf_name_chance = 10
+	father_name_chance = 5
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 10
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}

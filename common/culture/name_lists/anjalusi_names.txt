@@ -1,0 +1,124 @@
+﻿name_list_anjalusi = {
+        male_names = {
+              Abdulaziz Abdullah Adam Adil Ali Amine Ayman Abdul-Lateef Ali_az-Zahir
+              Badr Badraddine Bakr Barack Basel Bashar Bashir Basim Bilal Binyamin
+              Casim Chihab
+              Dahus Daniyal Dawood Deen
+              Ehsaan Elias Faadl Faakih Faaris Faarooq Fakhruddin Fakr Farajullah Farid
+              Ghasaan Ghazi Ghiyasaddine
+              Habeel Habib Hadi Hafiz Haidar Haider Haji Hajj Hakim Hamid Hamza Hani Haroun Harris Hashim Hassan Haytham Humayun Hussayn
+              Ibrahim Idris Ihsan Ilyas Imad Imran Isa Ishaaq Isma_il Issam
+              Jabir Jafar Jalil Jamal Jawad Jibran
+              Kabir Kamal Kamil Karl Keaton Khadim Khalid Kirk Kourosh Lateef
+              Layth Luqman Lut
+              Mahdi Mahmoud Malcom Ma_mun Mansur Marwan Mickey Mika_il Mirza Muhammad Muhsin Murad Musa Mustafa
+              Nabil Nadir Nasruddine Nasser Nazeer Nazim Nuh Nuraddine
+              Obaid Oways
+              Qabil Qadir Qais Qasim
+              Ra_id Raheel Rashid
+              Sa_ad Sa_id Sabur Sadiq Sajjad Salman Sameer Samir Shihab Siraj Sultan
+              Taha Tahir Talhah Talib Tariq Taymur
+              Ubayd Ubaydallah Usama Utbah Wahhab Walid Ward Wayne William Wisam
+              Yahya Yaqub Yasin Yassir Yunus Yusuf
+              Zafir Zahir Zain Zakar Zakariyya Zakir Zayd Ziyad Zulfiqar }
+        female_names = {
+              A_idah A_isha
+              Masum_ah
+              Sitt_Jamil Sitt_al-Malik 
+              Sitt_al-Mulk
+               Aala Aaliyah Adila Ajwa Aliza Amal Amalia Amina Ana Audrey
+               Badia Bahar Balqis Barakah
+               Camila Catherine
+               Dalila Daliyah Daria Deena Diyanah Dua Dunya Durrah
+               Eliza Eman
+               Fadila Fairuza Farah Fari_ah Farideh Fatima
+               Gazala Georgianna Ghania Ghayda Ghazal
+               Habiba Haboos Hadiya Hafsa Haifa Hala Halima Hamida Hana Hannah Hara Hazel Hedy Huda
+               Ilham Ilhan Iman Inan Izma
+               Jahan Jalila Jamila Jana Jasmin Jazira Jenna
+               Kalima Karima Khadija Khalisa Khatira Kulthoom
+               La_iba Laila Lana Layla Leia Lena Lina Lu_lu Luna
+               Madiha Maha Majida Malika Maria Maria Maya Mona Munawwar Muneerah
+               Nadine Nadira Nafeesa Nahid Narjis Nasra
+               Rabiya Rafia Rafiqah Rahma Raina Rania Rayhan Rayhanna Rima Ruqayya
+               Sabah Sadiya Safia Safira Safiyya Safwah Samiyah Sammar Sara Shireen Suad
+               Tahira Talia Taliba Tamara Tariqah Tharya Tufaylah
+               Wafaa Wahida Wajida Wasila
+               Yamina Yasmine
+               Zafirah Zahra Zaida Zaynab Zaynah Zubaydah Zuleykha }
+        dynasty_names = {
+            "dynn_Abdulfattah"
+            "dynn_Al-Qazwini"
+            "dynn_Al-Sadr"
+            "dynn_Assad"
+            "dynn_Ayyubi"
+            "dynn_Badredeine"
+            "dynn_Berri"
+            "dynn_Chalabi"
+            "dynn_Chamoun"
+            "dynn_Emine"
+            "dynn_Ezzeddine"
+            "dynn_Fakih"
+ 	 	 	 	 	 	"dynn_Fayyad"
+ 	 	 	 	 	 	"dynn_Hamza"
+ 	 	 	 	 	 	"dynn_Harfoush"
+ 	 	 	 	 	 	"dynn_Haydari"
+ 	 	 	 	 	 	"dynn_Jamaleddine"
+ 	 	 	 	 	 	"dynn_Jarrah"
+ 	 	 	 	 	 	"dynn_Nasrallah"
+ 	 	 	 	 	 	"dynn_Nasreddine"
+ 	 	 	 	 	 	"dynn_Sabah"
+ 	 	 	 	 	 	"dynn_Sulayman"
+ 	 	 	 	 	 	"dynn_Ziad"
+ 	 	 	 	 	 	"dynn_Ziyari"
+ 	 	 	 	 	 	"dynn_al-Jadid"
+            }
+        cadet_dynasty_names = {
+            "dynn_Abdulfattah"
+ 	 	 	 	 	 	"dynn_Al-Qazwini"
+ 	 	 	 	 	 	"dynn_Al-Sadr"
+ 	 	 	 	 	 	"dynn_Assad"
+ 	 	 	 	 	 	"dynn_Ayyubi"
+ 	 	 	 	 	 	"dynn_Badredeine"
+ 	 	 	 	 	 	"dynn_Berri"
+ 	 	 	 	 	 	"dynn_Chalabi"
+ 	 	 	 	 	 	"dynn_Chamoun"
+ 	 	 	 	 	 	"dynn_Emine"
+ 	 	 	 	 	 	"dynn_Ezzeddine"
+ 	 	 	 	 	 	"dynn_Fakih"
+ 	 	 	 	 	 	"dynn_Fayyad"
+ 	 	 	 	 	 	"dynn_Hamza"
+ 	 	 	 	 	 	"dynn_Harfoush"
+ 	 	 	 	 	 	"dynn_Haydari"
+ 	 	 	 	 	 	"dynn_Jamaleddine"
+ 	 	 	 	 	 	"dynn_Jarrah"
+ 	 	 	 	 	 	"dynn_Nasrallah"
+ 	 	 	 	 	 	"dynn_Nasreddine"
+ 	 	 	 	 	 	"dynn_Sabah"
+ 	 	 	 	 	 	"dynn_Sulayman"
+ 	 	 	 	 	 	"dynn_Ziad"
+ 	 	 	 	 	 	"dynn_Ziyari"
+ 	 	 	 	 	 	"dynn_al-Jadid"
+            }
+
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+
+        pat_grf_name_chance = 45
+        mat_grf_name_chance = 15
+        father_name_chance = 30
+        pat_grm_name_chance = 40
+        mat_grm_name_chance = 10
+        mother_name_chance = 40
+
+        mercenary_names = {
+            { name = mercenary_company_crossed_scimitars }
+     { name = mercenary_company_balboa_warriors }
+    { name = mercenary_company_urban_achievers }
+     { name = mercenary_company_sag }
+     { name = mercenary_company_masked_men }
+        }
+
+}

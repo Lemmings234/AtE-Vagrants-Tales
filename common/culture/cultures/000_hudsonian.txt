@@ -1,0 +1,49 @@
+﻿hudsonian = {
+	color = { 25 153 153 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_mid_atlantic
+	language = language_yankee
+	martial_custom = martial_custom_male_only
+	name_list = name_list_hudsonian
+	
+	traditions = {
+		#TODO
+		tradition_castle_keepers
+		tradition_ruling_caste
+		tradition_astute_diplomats
+		tradition_chivalry
+	}
+	
+	coa_gfx = {
+		hudsonian_coa_gfx
+		mid_atlantic_group_gfx
+	}
+	building_gfx = {
+		hudsonian_building_gfx
+		federal_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_mid_atlantic_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		4 = asian
+		2 = asian_southeast_asian
+		60 = caucasian
+		4 = indian
+		15 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		5 = black_white
+	
+	}
+}

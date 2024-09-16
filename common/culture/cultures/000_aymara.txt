@@ -1,0 +1,42 @@
+﻿aymara = {
+	color = { 128 96 40 }
+	
+	ethos = ethos_communal
+	heritage = heritage_andino
+	language = language_aymara
+	martial_custom = martial_custom_male_only
+	name_list = name_list_aymara
+	
+	traditions = {
+		#TODO
+		tradition_incaic_legacy
+		tradition_ancient_miners
+		tradition_sorcerous_metallurgy
+		tradition_adaptive_skirmishing
+	}
+	
+	coa_gfx = {
+		aymara_coa_gfx
+	}
+	building_gfx = {
+		aymara_building_gfx
+		incaic_building_gfx #Architecture-style
+		native_andean_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_andino_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		andino_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		99 = andean
+		1 = mesoamerican_yuto_aztec
+	
+	}
+}

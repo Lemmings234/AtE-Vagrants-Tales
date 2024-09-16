@@ -1,0 +1,49 @@
+﻿deltaic = {
+	color = { 156 123 79 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_deep_south
+	language = language_deep_southern
+	martial_custom = martial_custom_male_only
+	name_list = name_list_deltaic
+	
+	traditions = {
+		#TODO
+		tradition_chivalry
+		tradition_agrarian
+		tradition_storytellers
+		tradition_southern_knights
+	}
+	
+	coa_gfx = {
+		tuskegean_coa_gfx
+		south_anglo_group_gfx
+	}
+	building_gfx = {
+		deltaic_building_gfx
+		deep_southern_building_gfx #Architecture-style
+		na_south_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_deep_south_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		30 = african
+		1 = asian
+		1 = asian_southern_han
+		29 = caucasian
+		1 = indian
+		8 = mesoamerican_yuto_aztec
+		30 = black_white
+	
+	}
+}

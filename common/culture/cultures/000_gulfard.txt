@@ -1,0 +1,51 @@
+﻿gulfard = {
+	color = { 176 93 30 }
+
+	ethos = ethos_egalitarian
+	heritage = heritage_deep_south
+	language = language_deep_southern
+	martial_custom = martial_custom_male_only
+	name_list = name_list_gulfard
+	
+	traditions = {
+		#TODO
+		tradition_bbqs
+		tradition_fishermen
+		tradition_southern_knights
+		tradition_mardi_gras
+	}
+	
+	coa_gfx = {
+		dixie_coa_gfx
+		south_anglo_group_gfx
+	}
+	building_gfx = {
+		gulfard_building_gfx
+		deep_southern_building_gfx #Architecture-style
+		na_south_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_deep_south_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		25 = african
+		1 = arab
+		2 = asian
+		55 = caucasian
+		1 = indian
+		5 = mesoamerican_yuto_aztec
+		3 = asian_southern_han
+		2 = asian_austronesian
+		10 = black_white
+	
+	}
+}

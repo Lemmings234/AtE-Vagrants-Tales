@@ -1,0 +1,55 @@
+﻿guyanese = {
+	color = { 204 178 63 }
+	
+	ethos = ethos_communal
+	heritage = heritage_guyanan
+	language = language_creolese
+	martial_custom = martial_custom_male_only
+	name_list = name_list_guyanese
+	
+	traditions = {
+		tradition_culinary_art
+		tradition_jungle_dwellers
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		guyanese_coa_gfx
+		caribbanglo_group_gfx
+	}
+	building_gfx = {
+		guyanese_building_gfx
+		anglo_caribbean_building_gfx #Architecture-style
+		caribbean_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_guyanan_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		caribbanglo_group_gfx
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		30 = african
+		3 = asian_southern_han
+		1 = caucasian
+		15 = indian
+		8 = south_indian
+		10 = amazonian
+		1 = asian_austronesian
+		5 = mediterranean
+		6 = black_white
+		6 = black_indigenous
+		5 = med_black_ind
+		5 = multiracial
+
+	}
+}

@@ -1,0 +1,47 @@
+﻿ozark = {
+	color = { 64 99 47 }
+	
+	ethos = ethos_communal
+	heritage = heritage_upland
+	language = language_backcountry
+	martial_custom = martial_custom_male_only
+	name_list = name_list_ozark
+	
+	traditions = {
+		#TODO
+		tradition_hill_dwellers
+		tradition_isolationist
+		tradition_mystical_ancestors
+	}
+	
+	coa_gfx = {
+		ozark_coa_gfx
+		upland_group_gfx
+	}
+	building_gfx = {
+		ozark_building_gfx
+		appalachian_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_upland_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		2 = asian
+		70 = caucasian
+		1 = indian
+		5 = mediterranean
+		3 = mesoamerican_yuto_aztec
+		3 = white_indigenous
+		5 = black_white
+	
+	}
+}

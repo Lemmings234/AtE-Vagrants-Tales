@@ -1,0 +1,56 @@
+﻿prairielander = {
+	color = { 51 127 0 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_prairie
+	language = language_prairian
+	martial_custom = martial_custom_male_only
+	name_list = name_list_prairielander
+	
+	traditions = {
+		#tradition_pageants
+		tradition_cowboys
+		tradition_pastoralists
+		tradition_ce1_ritual_washing
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+		fallback = tradition_storytellers
+	}
+	coa_gfx = {
+		prairielander_coa_gfx
+		prairie_group_gfx
+	}
+	building_gfx = {
+		prairielander_building_gfx
+		na_middle_building_gfx #Architecture-style-2
+		prairies_building_gfx #Architecture-style
+		na_middle_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_prairie_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+		canadian_common_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		3 = arab
+		2 = asian
+		60 = caucasian
+		2 = indian
+		1 = south_indian
+		17 = slavic
+		2 = asian_southeast_asian
+		2 = asian_southern_han
+		10 = amerindian
+	
+	}
+}

@@ -1,0 +1,51 @@
+﻿east_cree = {
+	color = { 114 153 191 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_eastern_cree
+	language = language_east_cree
+	martial_custom = martial_custom_male_only
+	name_list = name_list_east_cree
+	
+	traditions = {
+		tradition_hunters
+	}
+	dlc_tradition = {
+		trait = tradition_artisans
+		requires_dlc_flag = royal_court
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		iyyu_coa_gfx
+		subarctic_group_gfx
+	}
+	building_gfx = {
+		east_cree_building_gfx
+		canadian_central_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_eastern_cree_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		harsh_canadian_clothing_gfx
+		canadian_common_clothing_gfx
+		northern_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = caucasian
+		80 = yupik
+		10 = white_asian
+	
+	}
+}

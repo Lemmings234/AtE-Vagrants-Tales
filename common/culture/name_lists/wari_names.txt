@@ -1,0 +1,23 @@
+﻿name_list_wari = {
+        male_names = { Andr_e_act_ Capit_a_tld_o Horein Jimain Jimon Manim Maxum Nawacan Oron Orowao Palet_o_act_ Pan_pst_ Pipira Quimoin Tocorom Timain Torein Xok Xowa }
+        female_names = { A_pst_ain A_pst_u Awo Diva Dui Elsa Inacia Jap Joana Maria Nacom Oro Quimoin Rosa Tocowhet Tocorom Wem }
+        dynasty_names = { "dynn_Pijo" "dynn_Jima" "dynn_Kwarain" "dynn_Naxo" "dynn_Kamerem" "dynn_Xiao" "dynn_Jam" "dynn_Lage" "dynn_Pana" "dynn_To" "dynn_Wi" "dynn_Cun" "dynn_Iram" "dynn_Mip" "dynn_Maram" "dynn_Totoro" "dynn_Mowam" "dynn_Wom" "dynn_Waji" "dynn_Surui" "dynn_Xu" "dynn_Oro_Mon" "dynn_E_pst_" }
+        cadet_dynasty_names = { "dynn_Pijo" "dynn_Jima" "dynn_Kwarain" "dynn_Naxo" "dynn_Kamerem" "dynn_Xiao" "dynn_Jam" "dynn_Lage" "dynn_Pana" "dynn_To" "dynn_Wi" "dynn_Cun" "dynn_Iram" "dynn_Mip" "dynn_Maram" "dynn_Totoro" "dynn_Mowam" "dynn_Wom" "dynn_Waji" "dynn_Surui" "dynn_Xu" "dynn_Oro_Mon" "dynn_E_pst_" }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

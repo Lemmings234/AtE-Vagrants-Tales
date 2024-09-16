@@ -1,0 +1,47 @@
+﻿turco = {
+	color = { 216 211 0 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_viejispano
+	language = language_mendozino
+	martial_custom = martial_custom_male_only
+	name_list = name_list_turco
+	
+	traditions = {
+		#TODO
+		tradition_welcoming
+		tradition_language_scholars
+		tradition_materos
+	}
+	
+	coa_gfx = {
+		turco_coa_gfx
+		interiorano_group_gfx
+	}
+	building_gfx = {
+		turco_building_gfx
+		southern_cone_dry_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_viejispano_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		iberian_muslim_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		60 = arab
+		5 = byzantine
+		15 = caucasian
+		10 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		5 = med_black_ind
+	
+	}
+}

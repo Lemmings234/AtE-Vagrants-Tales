@@ -1,0 +1,54 @@
+﻿minnesotan = {
+	color = { 77 65 135 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_northlake
+	language = language_shorespeak
+	martial_custom = martial_custom_male_only
+	name_list = name_list_minnesotan
+	
+	traditions = {
+		tradition_blitz_tactics
+		tradition_pastoralists
+		tradition_modest
+		tradition_tribe_unity #tradition_strong_kinship
+	}
+	
+	coa_gfx = {
+		minnesotan_coa_gfx
+		midwest_group_gfx
+	}
+	building_gfx = {
+		minnesotan_building_gfx
+		great_lakes_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_northlake_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		minnesotan_clothing_gfx
+		football_helmet_gfx
+		cowboy_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		3 = asian
+		1 = asian_southern_han
+		67 = caucasian
+		2 = indian
+		6 = east_african
+		1 = mediterranean
+		4 = mesoamerican_yuto_aztec
+		1 = asian_southeast_asian
+		1 = asian_austronesian
+		4 = multiracial
+	
+	}
+}

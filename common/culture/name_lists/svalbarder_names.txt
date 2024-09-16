@@ -1,0 +1,2437 @@
+﻿name_list_svalbarder = {
+
+	#unlinked
+
+	male_names = {
+		A_rng_ge Aleksander Alf Anatoly Andrey Anton Arild Arne Artur Asbj_o_stk_rn Atle
+		B_a_rng_rd Baltzar Bengt Bernt Bj_o_stk_rn Bogdan Boris
+		Cornelius
+		Dag Daniel Didrik Dimitri
+		Edvard Egil Einar Erik Erling Eskil Espen Evgeny
+		Fartein Finn Fjodor Fredrik Fridtjof Frode
+		Galileo Geir Gennady Grigor Gunnar
+		H_a_rng_kon H_a_rng_vard Hallvard Hans Harald Harro Helge Henrik Hilmar Hvaldimir
+		Igor Ilya Ivar
+		Jakob Jarisleif Joakim Jon Jonas
+		K_a_rng_re Karl Kirill Kittiphong Kjell Kjetil Knut Konstantin
+		Lambert Lars Leif Leonid
+		Magnus Maksim Mats Mikhail Morten
+		Newton Nikolaj Nils
+		O_stk_rjan O_stk_yvind O_stk_ystein Odd Oddbj_o_stk_rn Olav Ole Oleg Ove
+		P_a_rng_l Per
+		R_o_stk_rek Radomir Ragnar Ratimir Reidar Roald Robert Rolf Runar Rune Ruslan Rustem
+		S_o_stk_ren Schj_o_stk_lberg Sergei Simen St_a_rng_le Stanisleif Steffen Steinar Stig Svein Sverre
+		Terje Thomas Tikhon Tollef Torbj_o_stk_rn Tore Tormod Torstein Trond Truls Trygve
+		Vadim Vasilij Vidar Viktor Vladimir Vladisleif
+		Yuri
+	}
+	female_names = {
+		A_rng_se Anastasia Anette Ann Ann-Kristin Aslaug Astrid Aurora
+		Berit Bj_o_stk_rg Bodil Britt
+		Cecilie Ceres Charlotte
+		Daria
+		Edith Ekaterina Elina Elisabeth Elvira Ester Eva
+		Grete Gudrun
+		Hanna Heidi Helga Henriette Hilde Hj_o_stk_rdis
+		Ingebj_o_stk_rg Inger Ingrid Irene Ivanna
+		Jorunn
+		Karin Karoline Kim Kjerstin
+		Lene Lillian Linda Line Lise Ludmila
+		M_a_rng_lfrid Maria Marianne Marit Marte Mette Michelle Milena Mona Monica
+		Natalya Natasha Nina
+		Oda Oksana Olga
+		Peranee Pernille Pia
+		Ragnhild Ruslana Ruth
+		Sara Signa Sigrid Siv Sofia Solfrid Solveig Sonja Susanne Svetlana Synn_o_stk_ve
+		Tamara Tanya Tatiana Therese Torhild Tove Trude
+		Unni Urassaya
+		Valentina Vibeke Vigdis
+		Wanny
+	}
+
+	dynasty_names = {
+		"dynn_Abrahamsen"
+		"dynn_Akimov"
+		"dynn_Albrigtsen"
+		"dynn_Alekseyev"
+		"dynn_Amundsen"
+		"dynn_Antipov"
+		"dynn_Arlov"
+		"dynn_Askholt"
+		"dynn_Aunevik"
+		"dynn_B_a_rng_rdseth"
+		"dynn_Bass_o_stk_e"
+		"dynn_Beichmann"
+		"dynn_Berntsen"
+		"dynn_Bertheussen"
+		"dynn_Bjerrang"
+		"dynn_Boholm"
+		"dynn_Brandal"
+		"dynn_Brataas"
+		"dynn_Brattset"
+		"dynn_Brochmann"
+		"dynn_Bruun"
+		"dynn_D_o_stk_lmo"
+		"dynn_Dallmann"
+		"dynn_Dalsaune"
+		"dynn_Devold"
+		"dynn_Dyrkolbotn"
+		"dynn_Edge"
+		"dynn_Eggenfellner"
+		"dynn_Eidsv_a_rng_g"
+		"dynn_Ekroll"
+		"dynn_Eldring"
+		"dynn_Elvedahl"
+		"dynn_Fagern_a_ash_s"
+		"dynn_Fasoongn_o_stk_n"
+		"dynn_Fjerding_o_stk_y"
+		"dynn_Flygel"
+		"dynn_For_a_rng_s"
+		"dynn_Fredheim"
+		"dynn_Gabrielsen"
+		"dynn_Gangs_a_rng_s"
+		"dynn_Gaustad"
+		"dynn_Gerasimov"
+		"dynn_Gerhardsen"
+		"dynn_Gjerde"
+		"dynn_Gregersen"
+		"dynn_Hacquebord"
+		"dynn_Hansen"
+		"dynn_Haug"
+		"dynn_Henningsen"
+		"dynn_Hesthammer"
+		"dynn_Higraff"
+		"dynn_Hovland"
+		"dynn_Id_a_ash_s"
+		"dynn_Igorsen"
+		"dynn_Ilyasov"
+		"dynn_Imjai"
+		"dynn_Inchai"
+		"dynn_Inger_o_stk_"
+		"dynn_Ingstad"
+		"dynn_Ivanov"
+		"dynn_Jakobsen"
+		"dynn_Jarlsberg"
+		"dynn_Kamenyev"
+		"dynn_Karapetrov"
+		"dynn_Keilhau"
+		"dynn_Khamhuaiya"
+		"dynn_Khamhuaiyae"
+		"dynn_Kirkemoen"
+		"dynn_Kononuchenko"
+		"dynn_Korotkin"
+		"dynn_Kristiansen"
+		"dynn_Krogstad"
+		"dynn_Kuznetsov"
+		"dynn_Kvammen"
+		"dynn_Kvello"
+		"dynn_Landsverk"
+		"dynn_Lavrov"
+		"dynn_Leonov"
+		"dynn_Lien"
+		"dynn_Limstrand"
+		"dynn_Lockert"
+		"dynn_Lorentzen"
+		"dynn_Marchenko"
+		"dynn_Mehren"
+		"dynn_Melting"
+		"dynn_Moen"
+		"dynn_Myrvang"
+		"dynn_N_o_stk_is"
+		"dynn_Nathorst"
+		"dynn_Nerdrum"
+		"dynn_Nikolaev"
+		"dynn_Nikolaisen"
+		"dynn_Nylund"
+		"dynn_Orvin"
+		"dynn_Pandee"
+		"dynn_Panthong"
+		"dynn_Pavlovic"
+		"dynn_Philuek"
+		"dynn_Prestvold"
+		"dynn_R_o_stk_reksen"
+		"dynn_R_o_stk_svik"
+		"dynn_Rabot"
+		"dynn_Rambech"
+		"dynn_Ranter"
+		"dynn_Ringheim"
+		"dynn_Rognmo"
+		"dynn_Rogozin"
+		"dynn_Romanovsky"
+		"dynn_Ruud"
+		"dynn_S_o_stk_reide"
+		"dynn_Sangkharak"
+		"dynn_Schellinkhout"
+		"dynn_Sefland"
+		"dynn_Sergeyev"
+		"dynn_Sheremetyev"
+		"dynn_Sidorov"
+		"dynn_Siergnes"
+		"dynn_Sinpru"
+		"dynn_Sivertsen"
+		"dynn_Smedal"
+		"dynn_Solbakken"
+		"dynn_Srikhram"
+		"dynn_Stange"
+		"dynn_Strebkov"
+		"dynn_Sudarev"
+		"dynn_Sundby"
+		"dynn_Sverdrup"
+		"dynn_Sverkmo"
+		"dynn_Tamstein"
+		"dynn_Tarasov"
+		"dynn_Teigen"
+		"dynn_Tikhonov"
+		"dynn_Torell"
+		"dynn_Trifonenko"
+		"dynn_Troldmyr"
+		"dynn_Tungland"
+		"dynn_Ulfstein"
+		"dynn_Umbreit"
+		"dynn_V_a_rng_tvik"
+		"dynn_Vangberg"
+		"dynn_Vegsund"
+		"dynn_Vikhamar"
+		"dynn_Vinogradov"
+		"dynn_W_a_rng_gan"
+		"dynn_Wal_o_stk_r"
+		"dynn_Weis_Fogh"
+		"dynn_Wendt"
+		"dynn_Wiersen"
+		"dynn_Wilhelmsen"
+		"dynn_Woldstad"
+		"dynn_Zachariassen"
+		"dynn_Zajaczkowski"
+		"dynn_Zadewasser"
+	}
+
+	dynasty_of_location_prefix = "dynnp_av"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdatter"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		{ name = mercenary_company_seedvaulters }
+
+	}
+	
+}
+
+name_list_icelander = {
+
+	#unlinked
+
+	male_names = {
+		A_act_g_u_act_st A_act_rni A_act_sgeir A_act_smundur A_eth_alsteinn Agnar Alfre_eth_ Andri Ari Arn_o_act_r Arnaldur Arngr_i_act_mur Aron Atli Axel
+		B_o_uml__eth_var Baldur Baldvin Bar_eth_i Benedikt Birgir Bj_o_uml_rg_o_act_lfur Bj_o_uml_rgvin Bj_o_uml_rn Bjarni Bragi Brynj_o_act_lfur Brynjar
+		Dagur Dan_i_act_el Dav_i_act__eth_
+		E_eth_vald Eggert Egill Ei_eth_ur Einar Eir_i_act_kur Ellert Emil Erlendur Ey_thr__o_act_r Eyj_o_act_lfur Eysteinn Eyvindur
+		Finnbogi Finnur Fj_o_uml_nir Fri_eth_j_o_act_n Fri_eth_rik
+		G_i_act_sli Geir Gar_eth_ar Gissur Gr_e_act_tar Gr_i_act_mur Gu_eth_bergur Gu_eth_brandur Gu_eth_j_o_act_n Gu_eth_mundur Gu_eth_ni Gunnar Gunnlaugur Gylfi Gyr_eth_ir
+		H_a_act_kon H_o_uml_r_eth_ur H_o_uml_skuldur Hafsteinn Halld_o_act_r Hallgr_i_act_mur Hannes Haraldur Haukur Heimir Helgi Hermann Hilmar Hj_o_uml_rleifur Hj_o_uml_rtur Hj_a_act_lmar Hjalti Hlynur Hrafn Hrafnkell Hrei_eth_ar
+		I_act_sak I_act_sleifur I_act_var Indri_eth_i Ing_o_act_lfur Ingi Ingimundur Ingvar
+		J_o_act_n J_o_act_nas J_o_uml_rundur J_u_act_l_i_act_us Jakob
+		Karl Kjartan Kolbeinn Konr_a_act__eth_ Kristj_a_act_n
+		L_a_act_rus L_u_act__eth_v_i_act_k Leifur Loftur
+		Magn_u_act_s Mark_u_act_s Marteinn Matth_i_act_as
+		N_o_uml_kkvi Nj_a_act_ll
+		O_act_feigur O_act_lafur O_act_mar O_act_skar O_uml_gmundur O_act_ttar O_uml_rn O_uml_rn_o_act_lfur O_uml_rvar Oddur
+		P_a_act_ll P_e_act_tur
+		R_i_act_kar_eth_ur R_o_act_bert R_o_uml_gnvaldur R_u_act_nar Ragnar Reynir
+		S_ash_mundur S_ash_var Sam_u_act_el Sigf_u_act_s Sigmundur Sigur_eth_ur Sigurgeir Sigurj_o_act_n Sindri Sk_u_act_li Snorri Stef_a_act_n Steinar Steingr_i_act_mur Sturla Svavar Sveinbj_o_uml_rn Sveinn Sverrir
+		T_o_act_mas Torfi Trausti Tryggvi
+		U_act_lfar
+		Valdimar Vi_eth_dar Vigf_u_act_s Viktor Vilhj_a_act_lmur Vilmundur
+		_ash_gir
+		_thr__o_act_r_eth_ur _thr__o_act_r _th__o_act_r_o_act_lfur _thr__o_act_rbergur _thr__o_act_rarinn _thr_j_o_act__eth__o_act_lfur _thr_orbj_o_uml_rn _thr_orfinnur _thr_orgils _thr_orl_a_act_kur _thr_orleifur _thr_orsteinn _thr_orvaldur _thr_r_a_act_inn
+	}
+	female_names = {
+		A_act_g_u_act_sta A_act_lfhei_eth_ur A_act_lfr_u_act_n A_act_sd_i_act_s A_act_slaug A_act_sta A_eth_dalbj_o_uml_rg A_eth_alhei_eth_ur Anna Arna Arnd_i_act_s Au_eth_ur
+		Berg_eth__o_act_ra Bergd_i_act_s Berglind Berglj_o_act_t Birgitta Birna Brynd_i_act_s Brynhildur Brynja
+		D_o_act_ra Dagn_y_act_
+		Edda El_i_act_n El_i_act_nborg El_i_act_sabet Elsa Erla Erna Eva
+		Fr_i_act__eth_a Freyd_i_act_s
+		Ger_eth_ur Gu_eth_bj_o_uml_rg Gu_eth_laug Gu_eth_n_y_act_ Gu_eth_r_i_act__eth_ur Gu_eth_r_u_act_n Gunnfr_i_act__eth_ur Gunnhildur
+		H_o_act_lmfr_i_act__eth_ur H_o_uml_gna Hafd_i_act_s Halla Halld_o_act_ra Hallger_eth_ur Hanna Harpa Hekla Helga Herd_i_act_s Hildur Hj_o_uml_rd_i_act_s Hrafnhildur Hrefna Hulda
+		I_act_ris Inga Ingibj_o_uml_rg Ingunn
+		J_o_act_fr_i_act__eth_ur J_o_act_hanna J_o_act_n_i_act_na
+		Katla Katr_i_act_n Kolbr_u_act_n Krist_i_act_n
+		L_a_act_ra Laufey Lilja Linda
+		Mar_i_act_a Margr_e_act_t Marta
+		O_act_l_o_uml_f O_act_laf_i_act_a Oddn_y_act_
+		R_o_act_sa Ragna Ragnhei_eth_ur Ragnhildur Rakel Rannveig
+		S_o_act_ley S_o_act_lveig S_o_act_lr_u_act_n Sandra Sara Sesselja Sif Sigr_i_act__eth_ur Sigr_u_act_n Sigurbj_o_uml_rg Sigurl_i_act_na Sn_ash_d_i_act_s Steinunn Sunna Svand_i_act_s Svanhildur Svava
+		Tinna
+		Unnur
+		Vala Vald_i_act_s Valger_eth_ur Vigd_i_act_s Vilborg
+		_thr__o_act_ra _thr__o_act_rd_i_act_s _thr__o_act_runn _thr_orbj_o_uml_rg _thr_ur_i_act__eth_ur
+	}
+
+	dynasty_names = {
+		"dynn__thr_ormar"
+		"dynn_A_eth_ils"
+		"dynn_Arnalds"
+		"dynn_Arndal"
+		"dynn_Aspelund"
+		"dynn_Backman"
+		"dynn_Bar_eth_dal"
+		"dynn_Bergmann"
+		"dynn_Bergs"
+		"dynn_Bjarklind"
+		"dynn_Bjartmarz"
+		"dynn_Bl_o_uml_ndal"
+		"dynn_Brei_eth_fj_o_uml_r_eth_"
+		"dynn_Brenli"
+		"dynn_Briem"
+		"dynn_Clausen"
+		"dynn_Diego"
+		"dynn_Eldj_a_act_rn"
+		"dynn_Eydal"
+		"dynn_Eyfeld"
+		"dynn_Eyfells"
+		"dynn_Eyfj_o_uml_r_eth_"
+		"dynn_F_ash_rseth"
+		"dynn_Fannar"
+		"dynn_Finsen"
+		"dynn_Fjeldsted"
+		"dynn_Flygenring"
+		"dynn_Geirdal"
+		"dynn_Gr_o_uml_ndal"
+		"dynn_Gu_eth_johnsen"
+		"dynn_H_o_act_lm"
+		"dynn_Haarde"
+		"dynn_Hafberg"
+		"dynn_Hafstein"
+		"dynn_Hagal_i_act_n"
+		"dynn_Hansen"
+		"dynn_Hei_eth_berg"
+		"dynn_Hirst"
+		"dynn_Hj_o_uml_rvar"
+		"dynn_Hjaltal_i_act_n"
+		"dynn_Hjaltested"
+		"dynn_Hjar_eth_ar"
+		"dynn_Hjelm"
+		"dynn_I_act_sberg"
+		"dynn_Imsland"
+		"dynn_K_ash_rnested"
+		"dynn_Kaldal_o_act_ns"
+		"dynn_Kjarval"
+		"dynn_Kjer_u_act_lf"
+		"dynn_Kolbeins"
+		"dynn_Kvaran"
+		"dynn_L_i_act_ndal"
+		"dynn_Laxdal"
+		"dynn_Laxness"
+		"dynn_Lissner"
+		"dynn_Lo_eth_mfj_o_uml_r_eth_"
+		"dynn_M_o_uml_ller"
+		"dynn_Melste_eth_"
+		"dynn_Morthens"
+		"dynn_Njar_eth_v_i_act_k"
+		"dynn_Nor_eth_dahl"
+		"dynn_Nor_eth_fj_o_uml_r_eth_"
+		"dynn_Nordal"
+		"dynn_O_uml_fj_o_uml_r_eth_"
+		"dynn_Olsen"
+		"dynn_Ormslev"
+		"dynn_Ottesen"
+		"dynn_Propp_e_act_"
+		"dynn_Rafnar"
+		"dynn_Ringsted"
+		"dynn_S_o_act_lnes"
+		"dynn_Sampsted"
+		"dynn_Sandholt"
+		"dynn_Scheving"
+		"dynn_Schi_o_uml_th"
+		"dynn_Schram"
+		"dynn_Sn_ash_dal"
+		"dynn_Sn_ash_land"
+		"dynn_Sn_ash_varr"
+		"dynn_Steinsen"
+		"dynn_V_i_act_dal_i_act_n"
+		"dynn_Thomsen"
+		"dynn_Thorarensen"
+		"dynn_Thorberg"
+		"dynn_Thorlacius"
+		"dynn_Thoroddsen"
+		"dynn_Thors"
+		"dynn_Tulinius"
+		"dynn_Valberg"
+		"dynn_Waage"
+		"dynn_Wiium"
+		"dynn_Zo_e_act_ga"
+	}
+
+	dynasty_of_location_prefix = "dynnp_fra"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_faroese = {
+
+	#unlinked
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_irish_modern = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_basque_modern = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_moroccan = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_shilha = {
+
+	#unlinked
+
+	male_names = {
+		A_hat_abdlhadi A_hat_aziz A_a_hat_azzuz A_hat_bdelmalk A_hat_bdl_a_hat_aziz A_hat_bdlhafid A_hat_bdlhaq A_hat_bdlkrim A_hat_bdrrahman A_hat_bdsslam A_hat_ebdllah A_hat_essu A_hat_li A_hat_umar Acraf
+		Bacir Brahim Bubakr Budjem_a_hat_a
+		Djamal Dris
+		Fuad
+		Hakim Hasan Hmad
+		Idir Ighumrasen Isma_a_hat_il
+		Kamal
+		L_a_hat_arbi Lahsn Lhusin Lwalid
+		Masinisa Mbark Mezyan Muhmmad Mulay Mulud Murad Musa Mustafa
+		Naser
+		Racid
+		Sa_a_hat_deddin Sa_a_hat_id Sliman
+		Tariq
+		Utman
+		Xalid Xayrddin
+		Ya_a_hat_qub Yasin Yuba Yusef
+	}
+	female_names = {
+		A_hat_ica
+		Fatima
+		Hadda
+		Nadya
+		Salma
+		Xadija
+		Zahra Zineb
+	}
+
+	dynasty_names = {
+		"dynn_Aba_a_hat_mran"
+		"dynn_Abouyoub"
+		"dynn_Akhiat"
+		"dynn_Akroud"
+		"dynn_Anchad"
+		"dynn_Bela_i_uml_d"
+		"dynn_Bouftass"
+		"dynn_Bouizgaren"
+		"dynn_Bukus"
+		"dynn_Chouhad"
+		"dynn_Lahyani"
+		"dynn_Roudani"
+		"dynn_Ryadi"
+		"dynn_Soussi"
+		"dynn_Taoussi"
+		"dynn_Zakour"
+	}
+
+	dynasty_of_location_prefix = "dynnp_"
+	bastard_dynasty_prefix = ""
+	patronym_prefix_male = "dynnpat_pre_ibn"
+	patronym_prefix_female = "dynnpat_pre_bint"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_kamchatkan = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_vladivostokskyi = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Somphong Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_hawaiian = {
+
+	male_names = {
+		A_act_ki A_act_lvur A_act_mundur A_act_rant A_act_sbj_o_stk_rn Absalon Aksel Andrias Anfinn Arnbj_o_stk_rn Aron Atli
+		B_a_act_r_eth_ur B_a_act_raldur B_u_act_gvi Bartal Beinir Benadikt Benjamin Bergur Boas Bogi Bjarni Bjartur Brandur Brestir
+		D_a_act_njal D_a_act_vur D_i_act__eth_rikur Demmus Dj_o_act_ni
+		Edvard Edvin Einar Eirikur Eivindur Eliesar Esbern Esmar Ey_eth__a_act_lvur Ey_eth_bj_o_stk_rn Ey_eth_finn Ey_eth_stein Ey_eth_svein Ey_eth_t_o_act_r Ey_eth_un
+		Filip Finnbj_o_stk_rn Finnur Fr_i_act__eth_rikur Fr_o_act__eth_i
+		Gr_ash_karis Gr_i_act_mur Gunnar
+		H_a_act_kun H_a_act_lvdan H_o_act_ri H_o_stk_gni Halgir Hallur Hanus He_eth_in Hei_eth_rikur Helgi Heini Hilbert Hj_o_stk_rtur
+		I_act_sakur Ing_a_act_lvur
+		J_a_act_kup J_o_act_annes J_o_act_gvan J_o_act_han J_o_act_nas J_o_act_natan J_o_act_nfinnur J_o_act_nhard J_o_act_nsvein J_o_act_sup J_o_stk_rgin J_u_act_stinus Jafet Janus Jaspur
+		Karl Karstin Kjartan Kl_ash_mint Kn_u_act_t Kristoffur
+		L_i_act_ggjas L_o_stk__eth_ar L_y_act__eth_dar Leivur Levi Lukas
+		M_ash_kir Magni Magnus Mannbj_o_stk_rn Marius Markus Matthias Meinhard Melkjor Mikkjal Mortan Mourits
+		N_o_act_a Narvi Nemus Niels
+		O_act_lavur O_act_li O_stk_rvur O_stk_ssur Oddmar Oddur Olgar Olivur
+		P_a_act_ll P_a_act_trikur Petur Poul
+		R_o_act_aldur R_o_act_ar R_o_act_gvi R_o_act_i R_o_act_kur R_o_act_lant R_u_act_ni Rasmus Regin Rei_eth_ar
+		S_a_act_mal S_ash_bj_o_stk_rn S_i_act_mun S_o_act_lbj_o_stk_rn S_o_stk_lvi S_o_stk_rin Sakaris Sigmar Silas Sj_u_act_r_eth_ur Sofus Steinbj_o_stk_rn Steint_o_act_r Sveinur Sverri
+		T_o_act_ki T_o_act_r_a_act_lvur T_o_act_rhallur T_o_act_roddur T_o_act_rur Teitur Terji Tommy Torbj_o_stk_rn Torfinnur Torkil Torstein Tr_o_act_ndur Trygvi Tummas
+		Uni Urbanus
+		Viggo Virgar
+	}
+	female_names = {
+		A_act_sa A_act_sla A_act_sv_o_stk_r Agnas Alma Anja Anna Annfr_i_act__eth_ Annika Armgar_eth_ Arnfr_i_act__eth_ Astri_eth_
+		B_a_act_ra Barbara Bergfr_i_act__eth_ Bergt_o_act_ra Birga Birita Bj_o_stk_rg Bj_o_stk_rt Bjarta Borghild Bryndis Brynhild Brynja
+		Dagmar Dagn_y_act_ Dania Dina Dr_o_act_s Durita
+		Ebba Edit Eir Eirika Elin Elisabet Elisabeth Elsuba Emma Erla Ester Eva Ey_eth_ Ey_eth_bj_o_stk_rg Ey_eth_dis Ey_eth_ger_eth_ Ey_eth_v_o_stk_r Eydna
+		F_i_act_a Finnger_eth_ Fr_i_act__eth_a Fr_i_act__eth_bj_o_stk_rg Fr_i_act__eth_ger_eth_
+		Gu_eth_ri_eth_ Gu_eth_run Gudn_y_act_ Gunnleyg Gunnv_a_act_ Gunnv_o_stk_r
+		Halla Hallbj_o_stk_rg Hallger_eth_ Hanna Hansa Hansina Heidi Helga Herdis Herv_o_stk_r Hildibj_o_stk_rg Hildigunn Hildur Hj_o_stk_rdis
+		Ida Inga Ingibj_o_stk_rg Ingri_eth_ Ingunn
+		J_o_act_hanna J_o_act_nfr_i_act__eth_ J_o_act_nger_eth_ J_o_act_nhild J_o_act_nleyg J_o_act_nv_a_act_ J_o_act_nv_o_stk_r J_o_act_runn J_u_act_lia Judit
+		K_a_act_ra Karina Karla Katrin Kirstin Kristbj_o_stk_rg
+		L_i_act_v L_o_act_a L_y_act_ L_y_act_dia Laila Laura Lea Lilja Linda
+		Magna Maibrit Maja Malan Maria Marianna Marin Marita Marjun Marna Marta Maud Miriam Mona Monika
+		Nikolina Noomi
+		O_act_luva Oda Oddbj_o_stk_rg Oddv_o_stk_r Olivia
+		Palma Petra Poula
+		R_o_act_ R_o_act_sa R_u_act_na Ragna Ragnhild Rakul Ranja Rannv_a_act_ Rebekka Ronja Rutt
+		S_a_act_ra S_o_act_lbj_o_stk_rg S_o_act_ley_eth_ S_o_act_lfr_i_act__eth_ S_o_act_lger_eth_ S_o_act_lja S_o_act_lrun S_o_act_lv_a_act_ S_u_act_sanna Sigga Signhild Sigri_eth_ Sigrun Silja Simona Sissal Sof_i_act_a Sonja Sunnri_eth_ Sunnv_a_act_ Svanhild Svanna
+		T_o_act_ra T_o_act_rger_eth_ T_o_act_rhild T_o_act_runn Tanja Tordis Turi_eth_
+		Ulla Unn
+		V_a_act_r V_i_act_gdis V_o_act_nbj_o_stk_rt Valbj_o_stk_rg
+	}
+
+	dynasty_names = {
+		"dynn_A_act_rting"
+		"dynn_Abrahamsen"
+		"dynn_Absalonsen"
+		"dynn_Andreasen"
+		"dynn_Anthoniussen"
+		"dynn_Arge"
+		"dynn_Askham"
+		"dynn_Augustinussen"
+		"dynn_B_ash_rentsen"
+		"dynn_B_o_stk_gar_eth_i"
+		"dynn_Bech"
+		"dynn_Biskopst_o_stk_"
+		"dynn_Bjartal_i_act__eth_"
+		"dynn_Bl_a_act_hamar"
+		"dynn_Breckmann"
+		"dynn_Christiansen"
+		"dynn_Clementsen"
+		"dynn_Dahl"
+		"dynn_Dalsgaard"
+		"dynn_Dalsgar_eth_"
+		"dynn_Dam"
+		"dynn_Danielsen"
+		"dynn_Davidsen"
+		"dynn_Debes"
+		"dynn_Debess"
+		"dynn_Didriksen"
+		"dynn_Djurhuus"
+		"dynn_Durhuus"
+		"dynn_Effers_o_stk_e"
+		"dynn_Egholm"
+		"dynn_Eidesgaard"
+		"dynn_Ejdesgaard"
+		"dynn_Eliasen"
+		"dynn_Ellefsen"
+		"dynn_Ellendersen"
+		"dynn_Ellingsgaard"
+		"dynn_Eltt_o_stk_r"
+		"dynn_Enni"
+		"dynn_F_ash_r_o_stk_"
+		"dynn_Frederiksberg"
+		"dynn_Frederiksen"
+		"dynn_Fugl_o_stk_"
+		"dynn_Gaard"
+		"dynn_Gaardlykke"
+		"dynn_Gar_eth_al_i_act__eth_"
+		"dynn_Gj_o_act_gvar_a_act_"
+		"dynn_Gle_eth_isheygg"
+		"dynn_Glerfoss"
+		"dynn_Gregersen"
+		"dynn_Gregoriussen"
+		"dynn_Gudmundsen"
+		"dynn_Gullaksen"
+		"dynn_Guttesen"
+		"dynn_H_a_act_berg"
+		"dynn_H_o_stk_gnesen"
+		"dynn_H_o_stk_jgaard"
+		"dynn_H_o_stk_jsted"
+		"dynn_Hammer"
+		"dynn_Hansen"
+		"dynn_Haraldsen"
+		"dynn_Heinesen"
+		"dynn_Henriksen"
+		"dynn_Hentze"
+		"dynn_Hermansen"
+		"dynn_Hjelm"
+		"dynn_Hoydal"
+		"dynn_Hvannastein"
+		"dynn_Isaksen"
+		"dynn_J_o_act_gvansson"
+		"dynn_J_o_stk_kladal"
+		"dynn_J_o_stk_rgensen"
+		"dynn_Jacobsen"
+		"dynn_Jespersen"
+		"dynn_Joensen"
+		"dynn_Johannesen"
+		"dynn_Johansen"
+		"dynn_Justesen"
+		"dynn_Justinussen"
+		"dynn_Kals_o_stk_"
+		"dynn_Kallsberg"
+		"dynn_Kamban"
+		"dynn_Kj_ash_rb_ash_k"
+		"dynn_Kj_ash_rbo"
+		"dynn_Kj_o_stk_lbro"
+		"dynn_Kjeln_ash_s"
+		"dynn_Klakstein"
+		"dynn_Klettskar_eth_"
+		"dynn_Knudsen"
+		"dynn_L_u_uml_tzen"
+		"dynn_Laks_a_act_foss"
+		"dynn_Lamhauge"
+		"dynn_Langgaard"
+		"dynn_Larsen"
+		"dynn_Lassen"
+		"dynn_Lauritsen"
+		"dynn_Lervig"
+		"dynn_Lindenskov"
+		"dynn_Lisberg"
+		"dynn_Lognberg"
+		"dynn_Ludvig"
+		"dynn_Lydersen"
+		"dynn_M_o_stk_rk_o_stk_re"
+		"dynn_Madsen"
+		"dynn_Magnussen"
+		"dynn_Matras"
+		"dynn_Mellemgaard"
+		"dynn_Michelsen"
+		"dynn_Midjord"
+		"dynn_Mikkelsen"
+		"dynn_Mohr"
+		"dynn_Mortensen"
+		"dynn_Mouritsen"
+		"dynn_N_ash_s"
+		"dynn_Nattestad"
+		"dynn_Niclasen"
+		"dynn_Nielsen"
+		"dynn_Nilsen"
+		"dynn_Nols_o_stk_e"
+		"dynn_Nor_eth_berg"
+		"dynn_Nysted"
+		"dynn_O_stk_regaard"
+		"dynn_O_stk_ster_o_stk_"
+		"dynn_Olsen"
+		"dynn_Patursson"
+		"dynn_Paulsen"
+		"dynn_Petersen"
+		"dynn_Poulsen"
+		"dynn_Rasmussen"
+		"dynn_Reinert"
+		"dynn_Restorff"
+		"dynn_Rubeksen"
+		"dynn_S_o_act_lsker"
+		"dynn_S_o_stk_rensen"
+		"dynn_Samuelsen"
+		"dynn_Sigur_eth_sson"
+		"dynn_Sigvardsen"
+		"dynn_Simonsen"
+		"dynn_Sivertsen"
+		"dynn_Skaale"
+		"dynn_Skaalum"
+		"dynn_St_o_act_r_a_act_"
+		"dynn_Str_o_stk_m"
+		"dynn_Su_eth_uroy"
+		"dynn_Syderb_o_stk_"
+		"dynn_T_o_act_rgar_eth_"
+		"dynn_Tausen"
+		"dynn_Thomsen"
+		"dynn_Thomssen"
+		"dynn_Toftegaard"
+		"dynn_Tr_o_act_ndargj_o__act_gv"
+		"dynn_Tr_o_act_ndheim"
+		"dynn_Vang"
+		"dynn_Vatnhamar"
+		"dynn_Vestergaard"
+		"dynn_Vider_o_stk_"
+		"dynn_Vilhelmsen"
+		"dynn_Wardum"
+		"dynn_Weihe"
+		"dynn_Winther"
+		"dynn_Zachariasen"
+		"dynn_Ziska"
+		"dynn__a_act__Bergi"
+		"dynn__a_act__Borg"
+		"dynn__a_act__Br_u_act_nni"
+		"dynn__a_act__Brekku"
+		"dynn__a_act__Dul"
+		"dynn__a_act__Fr_i_act__eth_riksm_o_stk_rk"
+		"dynn__a_act__Geil"
+		"dynn__a_act__H_ash_dd"
+		"dynn__a_act__H_o_stk_vdanum"
+		"dynn__a_act__H_u_act_sagar_eth_i"
+		"dynn__a_act__Heygum"
+		"dynn__a_act__Kletti"
+		"dynn__a_act__L_o_stk_gmansb_o_stk_"
+		"dynn__a_act__Lag"
+		"dynn__a_act__Lakjuni"
+		"dynn__a_act__Lofti"
+		"dynn__a_act__Neystab_o_stk_"
+		"dynn__a_act__R_o_act_gvi"
+		"dynn__a_act__R_o_act_gvu"
+		"dynn__a_act__Reynat_u_act_gvu"
+		"dynn__a_act__Reynatr_o_stk__eth_"
+		"dynn__a_act__Ryggi"
+		"dynn__a_act__Skipag_o_stk_tu"
+		"dynn__a_act__Steig"
+		"dynn__i_act__B_o_stk_"
+		"dynn__i_act__Bartalstovu"
+		"dynn__i_act__Brekkunum"
+		"dynn__i_act__Grund"
+		"dynn__i_act__J_a_act_kupsstovu"
+		"dynn__i_act__L_a_act_gab_o_stk_"
+		"dynn__i_act__L_i_act__eth_"
+		"dynn__i_act__Sk_a_act_la"
+		"dynn__i_act__Skorini"
+		"dynn__i_act__Soylu"
+		"dynn_av_Fl_o_stk_tum"
+		"dynn_av_Rana"
+		"dynn_av_Reyni"
+		"dynn_av_Skar_eth_i"
+		"dynn_vi_eth__H_o_stk_gadals_a_act_"
+		"dynn_vi_eth__Keldu"
+		"dynn_vi_eth__Neyst"
+	}
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}
+
+name_list_rapanui = {
+
+	#unlinked
+
+	male_names = {
+		Akutino Antarea Antonio Atamu Ataranga Avere
+		Engo
+		Haeretahi Hotuiti Huri
+		Iet_u_lin_ Ioteve Iovani Iporito Ita_pst_ata
+		Karlo Katipare Kava Keripe Kirireva
+		M_a_lin_teo Makita Manuera Manutara Marko Mario Moite
+		Ngata Niko
+		Orohr
+		Paio Paka_pst_a Pauro Petero
+		R_a_lin_taro Rano Raraku Roke_pst_aua Rongotakahiu Ruka
+		T_a_lin_vita Taha_pst_ria Tanatiako Tangaroa Taniera Tepano Timeone Tiote Tito Toma Torometi Totimo
+		Vaha Vaka
+		
+		Alberto Alfredo
+		Eugenio
+		Feripe
+		Julio
+	}
+	female_names = {
+		Ana Atera
+		Elena Eva
+		Hilaria Hina
+		Itapera
+		K_a_lin_lia Kava Keke Kena Kihi Kuha
+		Mahina Maria Mariana Marina Marta Meherio Melinka
+		Nuahine
+		Parasa
+		R_e_lin_na
+		Tiare
+		Uka
+		Vivika
+	}
+
+	dynasty_names = {
+		"dynn_Araki"
+		"dynn_At_a_act_n"
+		"dynn_Atan"
+		"dynn_Calder_o_act_n"
+		"dynn_Cardinali"
+		"dynn_Ch_a_act_vez"
+		"dynn_Edmunds"
+		"dynn_Edwards"
+		"dynn_Far_i_act_as"
+		"dynn_Haoa"
+		"dynn_Hereveri"
+		"dynn_Hey"
+		"dynn_Hito"
+		"dynn_Hotu"
+		"dynn_Hotus"
+		"dynn_Huke"
+		"dynn_Huki"
+		"dynn_Icka"
+		"dynn_Ika"
+		"dynn_Manutomatoma"
+		"dynn_Nahoe"
+		"dynn_Osorio"
+		"dynn_Pacomio"
+		"dynn_Pakarati"
+		"dynn_Pakomio"
+		"dynn_Paoa"
+		"dynn_Pate"
+		"dynn_Pont"
+		"dynn_Rapahango"
+		"dynn_Rapu"
+		"dynn_Riroroco"
+		"dynn_Riroroko"
+		"dynn_Teao"
+		"dynn_Teave"
+		"dynn_Tepano"
+		"dynn_Tepihi"
+		"dynn_Tepije"
+		"dynn_Terongo"
+		"dynn_Tucki"
+		"dynn_Tuki"
+	}
+
+	dynasty_of_location_prefix = "dynnp_"
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "dynnpat_pre_a"
+	patronym_suffix_female = "dynnpat_pre_a"
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 25
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+	mercenary_names = {
+		
+	}
+	
+}

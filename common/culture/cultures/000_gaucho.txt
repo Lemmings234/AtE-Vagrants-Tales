@@ -1,0 +1,51 @@
+﻿gaucho = {
+	color = { 124 101 173 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_gaucho
+	language = language_gaucho
+	martial_custom = martial_custom_equal
+	name_list = name_list_gaucho
+	
+	traditions = {
+		tradition_gaucho_legacy
+		tradition_bbqs
+		tradition_materos
+		tradition_RICE_expert_apiculture
+	}
+	
+	coa_gfx = {
+		gaucho_coa_gfx
+		sulista_group_gfx
+	}
+	building_gfx = {
+		gaucho_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_gaucho_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		sulista_group_gfx
+		byzantine_clothing_gfx
+		gaucho_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		4 = arab
+		1 = asian
+		5 = byzantine
+		35 = caucasian
+		30 = mediterranean
+		10 = slavic
+		5 = black_white
+		1 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

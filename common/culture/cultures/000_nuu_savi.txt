@@ -1,0 +1,43 @@
+﻿nuu_savi = {
+	color = { 185 56 245 }
+	created = 350.1.1
+	history_loc_override = nuu_savi_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_mesoamerican
+	language = language_mixtec
+	martial_custom = martial_custom_male_only
+	name_list = name_list_nuu_savi
+	
+	traditions = {
+		tradition_tlacolol
+		tradition_mountain_homes
+		tradition_esteemed_hospitality
+		tradition_philosopher_culture
+		tradition_oaxaca_queens
+	}
+	
+	coa_gfx = {
+		mesoamerican_group_gfx
+	}
+	building_gfx = {
+		nuu_savi_building_gfx
+		native_mesoamerican_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_mesoamerican_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		25 = mesoamerican_mixe_zoque
+		5 = african
+		5 = black_indigenous
+	
+	}
+}

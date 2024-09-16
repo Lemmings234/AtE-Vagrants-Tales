@@ -1,0 +1,41 @@
+﻿guna = {
+	color = { 2 196 53 }
+	
+	ethos = ethos_communal #placeholder, randomly assigned
+	heritage = heritage_panamanian
+	language = language_guna
+	martial_custom = martial_custom_equal
+	name_list = name_list_guna
+	
+	traditions = {
+		#TODO
+		tradition_female_only_inheritance
+		tradition_fishermen
+		tradition_language_scholars
+	}
+	
+	coa_gfx = {
+		mesoamerican_group_gfx
+	}
+	building_gfx = {
+		guna_building_gfx
+		gran_colombian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_panamanian_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = mesoamerican_maya
+		25 = centralamerican_chibchan
+	
+	}
+}

@@ -1,0 +1,48 @@
+﻿saramaka = {
+	color = { 195 219 9 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_guyanan
+	language = language_saramaccan
+	martial_custom = martial_custom_female_only
+	name_list = name_list_saramaka
+	
+	traditions = {
+		tradition_stand_and_fight
+		tradition_isolationist
+		tradition_jungle_dwellers
+		tradition_zealous_people
+	}
+	
+	coa_gfx = {
+		sranan_coa_gfx
+		dutch_group_gfx
+	}
+	building_gfx = {
+		saramaka_building_gfx
+		anglo_caribbean_building_gfx #Architecture-style
+		caribbean_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_guyanan_building_gfx
+		cayennais_building_gfx
+		indian_building_gfx
+		amazonian_tribal_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+		amazonian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		85 = african
+		4 = amazonian
+		5 = black_indigenous
+		4 = multiracial
+		2 = asian_southeast_asian
+	
+	}
+}

@@ -1,0 +1,53 @@
+﻿paraense = {
+	color = { 56 48 171 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_cabano
+	language = language_amazonico
+	martial_custom = martial_custom_male_only
+	name_list = name_list_paraense
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_seafaring
+		tradition_modest
+		tradition_brazilian_cosmopolitanism
+	}
+	
+	coa_gfx = {
+		paraense_coa_gfx
+		nortista_group_gfx
+	}
+	building_gfx = {
+		paraense_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cabano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		10 = arab
+		5 = asian
+		5 = byzantine
+		5 = caucasian
+		10 = mediterranean
+		10 = amazonian
+		5 = mesoamerican_yuto_aztec
+		15 = white_indigenous
+		5 = black_white
+		10 = white_asian
+		5 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

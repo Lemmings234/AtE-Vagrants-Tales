@@ -1,0 +1,67 @@
+﻿name_list_kalapuya = {
+
+	#compiled by Oasdv
+
+	male_names = {
+		Chris
+		Jack Jon
+		Ki-a-Kuts Kno-Tah
+		Michael
+		Robert
+	}
+	female_names = {
+		Cheryle
+		Denise
+		Kathleen Kathryn
+		Lisa Linda
+		
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Yamel"
+		"dynn_Winfelly"
+		"dynn_Atfalati"
+		"dynn_Yoncalla"
+		"dynn_Kommema"
+		"dynn_Santiam"
+		"dynn_Molalla"
+		"dynn_Tualatin"
+		"dynn_Clackamas"
+		
+	}
+	dynasty_names = {
+		"dynn_Yamel"
+		"dynn_Winfelly"
+		"dynn_Atfalati"
+		"dynn_Yoncalla"
+		"dynn_Kommema"
+		"dynn_Santiam"
+		"dynn_Molalla"
+		"dynn_Tualatin"
+		"dynn_Clackamas"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 15
+	father_name_chance = 40
+	pat_grm_name_chance = 15
+	mat_grm_name_chance = 20
+	mother_name_chance = 40
+	
+	mercenary_names = {
+		{ name = mercenary_company_labrys_band }
+		{ name = mercenary_company_timbers_army }
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+
+}

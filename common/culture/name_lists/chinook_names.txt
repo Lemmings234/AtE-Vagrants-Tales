@@ -1,0 +1,136 @@
+﻿name_list_chinook = {
+
+	#compiled by Oasdv
+
+	male_names = {
+		Andrew
+		Ben
+		Cassino Chenamus Coboway Comcomly Coquelle
+		Daniel Davis
+		Francis
+		Joseph
+		Ka-ta-ta
+		Moses Multnomah
+		Peter Popoh
+		Quillis
+		Ranald Robert Russel
+		Shahharwarcap Soosap
+		Thomas Too-Lux
+		Umtux
+		Wahkiakum
+	}
+	female_names = {
+		Annie
+		Caroline Catherine Ceno Chloe
+		Ellen Elvamox Emma Etta
+		Florence
+		Ilchee
+		Jane Jennie Jessie Josephine
+		Kathla Koale_pst_xoa
+		Leonard
+		Margaret Marianne
+		Rosie
+		Sally Susan Sussanah
+		Tsin-is-tum
+		Wau-li-ba
+		
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Butler"
+		"dynn_Cathlapolte"
+		"dynn_Clatsop"
+		"dynn_Cultee"
+		"dynn_Hatchet"
+		"dynn_Holliday"
+		"dynn_Holliquilla"
+		"dynn_Huckswelt"
+		"dynn_Ika_naiak"
+		"dynn_Ilo_humin"
+		"dynn_Jeffries"
+		"dynn_Kathla_amat"
+		"dynn_Katchia"
+		"dynn_Kwillu_chini"
+		"dynn_La_k_elak"
+		"dynn_Luscier"
+		"dynn_McDonald"
+		"dynn_Mercier"
+		"dynn_Michel"
+		"dynn_Miller"
+		"dynn_Ne_ah_coxie"
+		"dynn_Reed"
+		"dynn_Simmons"
+		"dynn_Smith"
+		"dynn_Sotomish"
+		"dynn_Sutton"
+		"dynn_Troeh"
+		"dynn_Tsinuk"
+		"dynn_Tyeeman"
+		"dynn_Ta_nas_ilu"
+		"dynn_Underwood"
+		"dynn_Wacheno"
+		"dynn_Wa_kaiyakam"
+		"dynn_Whitaker"
+		
+	}
+	dynasty_names = {
+		"dynn_Butler"
+		"dynn_Cathlapolte"
+		"dynn_Clatsop"
+		"dynn_Cultee"
+		"dynn_Hatchet"
+		"dynn_Holliday"
+		"dynn_Holliquilla"
+		"dynn_Huckswelt"
+		"dynn_Ika_naiak"
+		"dynn_Ilo_humin"
+		"dynn_Jeffries"
+		"dynn_Kathla_amat"
+		"dynn_Katchia"
+		"dynn_Kwillu_chini"
+		"dynn_La_k_elak"
+		"dynn_Luscier"
+		"dynn_McDonald"
+		"dynn_Mercier"
+		"dynn_Michel"
+		"dynn_Miller"
+		"dynn_Ne_ah_coxie"
+		"dynn_Reed"
+		"dynn_Simmons"
+		"dynn_Smith"
+		"dynn_Sotomish"
+		"dynn_Sutton"
+		"dynn_Troeh"
+		"dynn_Tsinuk"
+		"dynn_Tyeeman"
+		"dynn_Ta_nas_ilu"
+		"dynn_Underwood"
+		"dynn_Wacheno"
+		"dynn_Wa_kaiyakam"
+		"dynn_Whitaker"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 15
+	father_name_chance = 40
+	pat_grm_name_chance = 15
+	mat_grm_name_chance = 20
+	mother_name_chance = 40
+	
+	mercenary_names = {
+		{ name = mercenary_company_labrys_band }
+		{ name = mercenary_company_timbers_army }
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+
+}

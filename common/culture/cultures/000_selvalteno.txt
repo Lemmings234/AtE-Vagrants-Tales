@@ -1,0 +1,45 @@
+﻿selvalteno = {
+	color = { 141 184 77 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_selvatico
+	language = language_selvatico
+	martial_custom = martial_custom_male_only
+	name_list = name_list_selvalteno
+	
+	traditions = {
+		tradition_hidden_cities
+		tradition_mountain_homes
+		tradition_stalwart_defenders
+	}
+	
+	coa_gfx = {
+		selvalteno_coa_gfx
+		andino_group_gfx
+	}
+	building_gfx = {
+		selvalteno_building_gfx
+		peru_bolivian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_selvatico_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		andino_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		50 = andean
+		10 = caucasian
+		5 = mediterranean
+		20 = amazonian
+		10 = mesoamerican_yuto_aztec
+	
+	}
+}

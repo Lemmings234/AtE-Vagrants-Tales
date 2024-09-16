@@ -1,0 +1,54 @@
+﻿centrino = {
+	color = { 130 28 28 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_chileno
+	language = language_chileno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_centrino
+	
+	traditions = {
+		tradition_brewmasters
+		tradition_hill_dwellers
+		tradition_maritime_mercantilism
+		tradition_cosmopolitan_elitism
+	}
+	
+	coa_gfx = {
+		centrino_coa_gfx
+		chileno_group_gfx
+	}
+	building_gfx = {
+		centrino_building_gfx
+		southern_cone_dry_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_chileno_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		chileno_group_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		3 = african
+		3 = asian
+		4 = arab
+		1 = indian
+		10 = byzantine
+		20 = caucasian
+		40 = mediterranean
+		5 = med_black_ind
+		5 = andean
+		5 = patagonian
+		5 = mesoamerican_yuto_aztec
+		3 = asian_austronesian
+		2 = asian_southeast_asian
+	
+	}
+}

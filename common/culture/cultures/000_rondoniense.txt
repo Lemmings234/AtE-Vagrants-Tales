@@ -1,0 +1,51 @@
+﻿rondoniense = {
+	color = { 30 76 57 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ciclico
+	language = language_cerradiano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_rondoniense
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_warrior_culture
+		tradition_ruling_caste
+	}
+	
+	coa_gfx = {
+		rondoniense_coa_gfx
+		nortista_group_gfx
+	}
+	building_gfx = {
+		rondoniense_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		mediterranean_amazon_building_gfx
+		heritage_ciclico_building_gfx
+		mediterranean_building_gfx
+		amazonian_tribal_gfx
+	}
+	clothing_gfx = {
+		rondoniense_clothing_gfx
+		byzantine_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+		#mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		25 = caucasian
+		20 = mediterranean
+		10 = amazonian
+		15 = mesoamerican_yuto_aztec
+		10 = white_indigenous
+		15 = med_black_ind
+	
+	}
+}

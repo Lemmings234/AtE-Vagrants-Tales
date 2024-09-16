@@ -1,0 +1,48 @@
+﻿guayasense = {
+	color = { 89 94 160 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_ecuatoriano
+	language = language_ecuatorial
+	martial_custom = martial_custom_male_only
+	name_list = name_list_guayasense
+	
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_fishermen
+		tradition_highland_warriors
+		tradition_republican_legacy
+	}
+	
+	coa_gfx = {
+		guayanenese_coa_gfx
+		ecuatoriano_group_gfx
+	}
+	building_gfx = {
+		guayasense_building_gfx
+		gran_colombian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_ecuatoriano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = asian
+		9 = african
+		25 = mediterranean
+		9 = caucasian
+		10 = andean
+		68 = mesoamerican_yuto_aztec
+		5 = black_white
+		1 = asian_austronesian
+	
+	}
+}

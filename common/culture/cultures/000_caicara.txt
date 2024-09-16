@@ -1,0 +1,57 @@
+﻿caicara = {
+	color = { 255 54 205 }
+	
+	ethos = ethos_communal
+	heritage = heritage_serra_do_mar
+	language = language_paulistano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_caicara
+	
+	traditions = {
+		tradition_mercenary_soccer
+		tradition_fishermen
+		tradition_seafaring
+		tradition_brazilian_cosmopolitanism
+	}
+	
+	coa_gfx = {
+		caicara_coa_gfx
+		serra_do_mar_group_gfx
+		sudestino_group_gfx
+	}
+	building_gfx = {
+		caicara_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_serra_do_mar_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		malandro_clothing_gfx
+		mauricinho_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		6 = african
+		10 = arab
+		3 = asian
+		1 = asian_austronesian
+		1 = byzantine
+		10 = caucasian
+		32 = mediterranean
+		2 = slavic
+		2 = mesoamerican_yuto_aztec
+		15 = black_white
+		2 = white_asian
+		3 = black_indigenous
+		10 = med_black_ind
+		2 = multiracial
+	
+	}
+}

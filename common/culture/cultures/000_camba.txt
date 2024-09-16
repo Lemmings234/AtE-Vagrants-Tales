@@ -1,0 +1,51 @@
+﻿camba = {
+	color = { 255 214 142  }
+	created = 2066.1.1
+	parents = { aymara ayoreo }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_chacoan
+	language = language_granchaqueno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_camba
+	
+	traditions = {
+		#TODO
+		tradition_materos
+		tradition_agrarian
+		tradition_stalwart_defenders
+	}
+	
+	coa_gfx = {
+		camba_coa_gfx
+		andino_group_gfx
+	}
+	building_gfx = {
+		camba_building_gfx
+		chaco_building_gfx #Architecture-style
+		native_austral_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_chacoan_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		andino_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = asian
+		3 = african
+		1 = caucasian
+		15 = mediterranean
+		10 = amazonian
+		30 = andean
+		20 = med_black_ind
+		30 = mesoamerican_yuto_aztec
+	
+	}
+}

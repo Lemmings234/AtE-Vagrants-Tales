@@ -1,0 +1,46 @@
+﻿zuni = {
+	color = { 232 150 175 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_plateau
+	language = language_zuni
+	martial_custom = martial_custom_male_only
+	name_list = name_list_zuni
+	
+	traditions = {
+		tradition_earthen_abodes
+		tradition_medicinal_plants
+		tradition_pastoralists
+		tradition_artisans
+		tradition_ce1_ritual_washing
+	}
+	
+	coa_gfx = {
+		plateau_coa_gfx
+	}
+	building_gfx = {
+		zuni_building_gfx
+		tipi_building_gfx #Architecture-style
+		native_na_plains_building_gfx #Style
+		native_dry_building_gfx #Super-style
+		heritage_plateau_building_gfx
+		pueblo_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		four_corners_clothing_gfx
+		mongol_clothing_gfx
+		plateau_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amerindian
+		5 = mesoamerican_yuto_aztec
+		20 = white_indigenous
+	
+	}
+}

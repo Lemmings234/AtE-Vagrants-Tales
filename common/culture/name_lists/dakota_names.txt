@@ -1,0 +1,362 @@
+﻿name_list_dakota = {
+
+	#Compiled by Lahom
+	#Combination of Sisseton-Wahpeton Oyate Dakota Language Institute resources and Lakota dictionary filling in where needed
+	#Very similar to Lakota; bear = Mató Mat_o_act_, buffalo = Tatáŋka Tat_a_act__eng_ka, eagle = Waŋbdí Wa_eng_bd_i_act_, red = Dúta D_u_act_ta
+
+	male_names = {
+		A_eng_p_e_act_tu_Th_o_act_ke_c_crn_a
+		C_crn_a_eng_kd_e_act__s_crn_ka_C_crn__i_act_kana C_crn_a_eng_t_e_act__M_a_act_za C_crn_et_a_act__eng__Wakh_u_act_wa_M_a_act_ni
+		Hakadah Hup_a_act_hu_S_crn__a_act_
+		I_eng_kp_a_act_duta I_s_crn_t_a_act_hba
+		Ka_eng__i_act__D_u_act_ta
+		M_a_act_za_Oy_a_act_te M_a_act_za_S_crn__a_act_ Mahp_i_act_ya_Wica_s_crn_ta Mat_o_act__N_u_act__eng_pa Ma_z_crn_uha_Hok_s_crn__i_act_na
+		Oh_i_act_ye_S_pst_a
+		S_crn_akpe S_crn_i_s_crn__o_act_kaduta
+		Tamaha T_i_act_pi_S_a_act_pa Ta_o_act_yate_D_u_act_ta Tat_a_act__eng_ka_M_a_act_ni Ti_o_act_wa_s_crn_t_e_act_ Tiwakh_a_act__eng_
+		W_a_act_hpe_S_crn__a_act_ W_a_act_nata_eng_ W_o_act_winaphe Wa_eng_bd_i_act_ Wa_eng_bd_i_act__G_i_act_ Wa_eng_bd_i_act__Ok_i_act__c_crn_hize Wa_eng_bd_i_act__T_a_act__eng_ka Wak_i_act__eng_ya_eng__D_u_act_ta Wakh_u_act_te Wap_a_act_hask_a_act_
+		Zitk_a_act_d_u_act_ta
+		Albin Ambrose Anthony
+		Baptiste Bentley
+		Cameron Charles Claude Clayton Creighton
+		Daniel Darcy David Dennis Donell Duane
+		Frank
+		Gabriel Gerald Giles
+		Isaac
+		Jamie Jerome Joseph
+		Laniel Leland Louis
+		Martin Michael Miles
+		Patrick Paul Pierre
+		Raymond Richard Robert Roger Romuald
+		Sylvester
+		Vincent
+		Wilson Woodrow
+	}
+	female_names = {
+		A_eng_p_e_act_tu_Wa_s_crn_t_e_act__Wi_eng_
+		Sn_a_act_sna
+		Thu_eng_k_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_
+		Wakh_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_ Wi_c_crn__a_act__eng_hpi
+		Zitk_a_act_la_S_crn__a_act__Wi_eng_
+		Adele Adeline Ann Ann_Marie Antoinette Arlene Audrey
+		Bernadette Bernadine
+		Charlene Claire
+		Danielle Dominique
+		Eleanor Emily Evelyn
+		Gabrielle
+		Lisa Lynn
+		Mary Maxine Melanie Michelle
+		Nicole
+		Pauline
+		Rose
+		Sarah Shannon
+		Thomasine
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Archambeau"
+		"dynn_Arrow"
+		"dynn_Aungie"
+		"dynn_Bdew_e_act_kha_eng_thu_eng_wa_eng_"
+		"dynn_Bear"
+		"dynn_Bear_Cub"
+		"dynn_Bearbull"
+		"dynn_Belgarde"
+		"dynn_Benn"
+		"dynn_Bighorn"
+		"dynn_Bird"
+		"dynn_Black_Bird"
+		"dynn_Black_Dog"
+		"dynn_Blacksmith"
+		"dynn_Bone"
+		"dynn_Bruguier"
+		"dynn_Buffalo"
+		"dynn_Cavanaugh"
+		"dynn_Chanku"
+		"dynn_Charboneau"
+		"dynn_Chaske"
+		"dynn_Cloud"
+		"dynn_Cook"
+		"dynn_Cournoyer"
+		"dynn_Dauphinais"
+		"dynn_DeCoteau"
+		"dynn_DeMarce"
+		"dynn_Dubois"
+		"dynn_Ducheneaux"
+		"dynn_Eagle"
+		"dynn_Eagleman"
+		"dynn_Eashappie"
+		"dynn_Eastman"
+		"dynn_Elk"
+		"dynn_Essie"
+		"dynn_Flute"
+		"dynn_Flying_Hawk"
+		"dynn_Flying_Horse"
+		"dynn_Four_Bear"
+		"dynn_Good_Soldier"
+		"dynn_Goodthunder"
+		"dynn_Gourneau"
+		"dynn_Gravatte"
+		"dynn_Gray_Hawk"
+		"dynn_Gray_Water"
+		"dynn_Greene"
+		"dynn_Grey_Bear"
+		"dynn_Grey_Bull"
+		"dynn_Gunhammer"
+		"dynn_Guy"
+		"dynn_H_u_act__eng_kpathina"
+		"dynn_Halfe"
+		"dynn_Hanska"
+		"dynn_Hapa"
+		"dynn_Hare"
+		"dynn_Hart"
+		"dynn_Hawk"
+		"dynn_Horse_Looking"
+		"dynn_Hotain"
+		"dynn_Houle"
+		"dynn_Huapapi"
+		"dynn_Ih_a_act__eng_kthu_eng_wa_eng_"
+		"dynn_Ih_a_act__eng_kthu_eng_wa_eng_na"
+		"dynn_Ironbear"
+		"dynn_Ironhawk"
+		"dynn_Is_a_act__eng_yathi"
+		"dynn_Jetty"
+		"dynn_Kampeska"
+		"dynn_Kasto"
+		"dynn_Kazena"
+		"dynn_Keeble"
+		"dynn_Keoke"
+		"dynn_Kills_a_Hundred"
+		"dynn_LaBatte"
+		"dynn_LaBelle"
+		"dynn_LaCroix"
+		"dynn_LaForte"
+		"dynn_LaRoque"
+		"dynn_LaVallie"
+		"dynn_Leftbear"
+		"dynn_Lenoir"
+		"dynn_Little_Wind"
+		"dynn_Longie"
+		"dynn_Mazawasicuna"
+		"dynn_McDonald"
+		"dynn_McKay"
+		"dynn_Medicine_Horn"
+		"dynn_Mekwam"
+		"dynn_Merrick"
+		"dynn_Noel"
+		"dynn_Onuke"
+		"dynn_Owns_Pipe"
+		"dynn_Peltier"
+		"dynn_Picotte"
+		"dynn_Pratt"
+		"dynn_Red_Day"
+		"dynn_Red_Dog"
+		"dynn_Red_Eagle"
+		"dynn_Red_Wing"
+		"dynn_Redroad"
+		"dynn_Renville"
+		"dynn_Roulette"
+		"dynn_Runs_Through"
+		"dynn_Sinclair"
+		"dynn_Sioux"
+		"dynn_Sis_i_act_thu_eng_wa_eng_"
+		"dynn_Sixtoes"
+		"dynn_Smoke"
+		"dynn_Spotted_Bull"
+		"dynn_Spotted_Eagle"
+		"dynn_Spotted_Wolf"
+		"dynn_Stone"
+		"dynn_Sunkawasti"
+		"dynn_Tacan"
+		"dynn_Tagay"
+		"dynn_Tall_Bear"
+		"dynn_Tateyuskanskan"
+		"dynn_Thin_Elk"
+		"dynn_Three_Irons"
+		"dynn_Thunderbird"
+		"dynn_Traversie"
+		"dynn_Trudell"
+		"dynn_Twohearts"
+		"dynn_Wacante"
+		"dynn_Wahp_e_act_khute"
+		"dynn_Wahp_e_act_thu_eng_wa_eng_"
+		"dynn_Walking_Eagle"
+		"dynn_Wanbdiska"
+		"dynn_Wanna"
+		"dynn_Wasicuna"
+		"dynn_Wasteste"
+		"dynn_War_Cloud"
+		"dynn_White_Bear"
+		"dynn_Whitecloud"
+		"dynn_Whitehead"
+		"dynn_Whiteshield"
+		"dynn_Wi_c_crn_h_i_act_yena"
+		"dynn_Yankton"
+		"dynn_Yellow_Robe"
+		"dynn_Yellow_Thunder"
+		"dynn_Youngman"
+		"dynn_Zephier"
+	}
+	dynasty_names = {
+		"dynn_Archambeau"
+		"dynn_Arrow"
+		"dynn_Aungie"
+		"dynn_Bdew_e_act_kha_eng_thu_eng_wa_eng_"
+		"dynn_Bear"
+		"dynn_Bear_Cub"
+		"dynn_Bearbull"
+		"dynn_Belgarde"
+		"dynn_Benn"
+		"dynn_Bighorn"
+		"dynn_Bird"
+		"dynn_Black_Bird"
+		"dynn_Black_Dog"
+		"dynn_Blacksmith"
+		"dynn_Bone"
+		"dynn_Bruguier"
+		"dynn_Buffalo"
+		"dynn_Cavanaugh"
+		"dynn_Chanku"
+		"dynn_Charboneau"
+		"dynn_Chaske"
+		"dynn_Cloud"
+		"dynn_Cook"
+		"dynn_Cournoyer"
+		"dynn_Dauphinais"
+		"dynn_DeCoteau"
+		"dynn_DeMarce"
+		"dynn_Dubois"
+		"dynn_Ducheneaux"
+		"dynn_Eagle"
+		"dynn_Eagleman"
+		"dynn_Eashappie"
+		"dynn_Eastman"
+		"dynn_Elk"
+		"dynn_Essie"
+		"dynn_Flute"
+		"dynn_Flying_Hawk"
+		"dynn_Flying_Horse"
+		"dynn_Four_Bear"
+		"dynn_Good_Soldier"
+		"dynn_Goodthunder"
+		"dynn_Gourneau"
+		"dynn_Gravatte"
+		"dynn_Gray_Hawk"
+		"dynn_Gray_Water"
+		"dynn_Greene"
+		"dynn_Grey_Bear"
+		"dynn_Grey_Bull"
+		"dynn_Gunhammer"
+		"dynn_Guy"
+		"dynn_H_u_act__eng_kpathina"
+		"dynn_Halfe"
+		"dynn_Hanska"
+		"dynn_Hapa"
+		"dynn_Hare"
+		"dynn_Hart"
+		"dynn_Hawk"
+		"dynn_Horse_Looking"
+		"dynn_Hotain"
+		"dynn_Houle"
+		"dynn_Huapapi"
+		"dynn_Ih_a_act__eng_kthu_eng_wa_eng_"
+		"dynn_Ih_a_act__eng_kthu_eng_wa_eng_na"
+		"dynn_Ironbear"
+		"dynn_Ironhawk"
+		"dynn_Is_a_act__eng_yathi"
+		"dynn_Jetty"
+		"dynn_Kampeska"
+		"dynn_Kasto"
+		"dynn_Kazena"
+		"dynn_Keeble"
+		"dynn_Keoke"
+		"dynn_Kills_a_Hundred"
+		"dynn_LaBatte"
+		"dynn_LaBelle"
+		"dynn_LaCroix"
+		"dynn_LaForte"
+		"dynn_LaRoque"
+		"dynn_LaVallie"
+		"dynn_Leftbear"
+		"dynn_Lenoir"
+		"dynn_Little_Wind"
+		"dynn_Longie"
+		"dynn_Mazawasicuna"
+		"dynn_McDonald"
+		"dynn_McKay"
+		"dynn_Medicine_Horn"
+		"dynn_Mekwam"
+		"dynn_Merrick"
+		"dynn_Noel"
+		"dynn_Onuke"
+		"dynn_Owns_Pipe"
+		"dynn_Peltier"
+		"dynn_Picotte"
+		"dynn_Pratt"
+		"dynn_Red_Day"
+		"dynn_Red_Dog"
+		"dynn_Red_Eagle"
+		"dynn_Red_Wing"
+		"dynn_Redroad"
+		"dynn_Renville"
+		"dynn_Roulette"
+		"dynn_Runs_Through"
+		"dynn_Sinclair"
+		"dynn_Sioux"
+		"dynn_Sis_i_act_thu_eng_wa_eng_"
+		"dynn_Sixtoes"
+		"dynn_Smoke"
+		"dynn_Spotted_Bull"
+		"dynn_Spotted_Eagle"
+		"dynn_Spotted_Wolf"
+		"dynn_Stone"
+		"dynn_Sunkawasti"
+		"dynn_Tacan"
+		"dynn_Tagay"
+		"dynn_Tall_Bear"
+		"dynn_Tateyuskanskan"
+		"dynn_Thin_Elk"
+		"dynn_Three_Irons"
+		"dynn_Thunderbird"
+		"dynn_Traversie"
+		"dynn_Trudell"
+		"dynn_Twohearts"
+		"dynn_Wacante"
+		"dynn_Wahp_e_act_khute"
+		"dynn_Wahp_e_act_thu_eng_wa_eng_"
+		"dynn_Walking_Eagle"
+		"dynn_Wanbdiska"
+		"dynn_Wanna"
+		"dynn_Wasicuna"
+		"dynn_Wasteste"
+		"dynn_War_Cloud"
+		"dynn_White_Bear"
+		"dynn_Whitecloud"
+		"dynn_Whitehead"
+		"dynn_Whiteshield"
+		"dynn_Wi_c_crn_h_i_act_yena"
+		"dynn_Yankton"
+		"dynn_Yellow_Robe"
+		"dynn_Yellow_Thunder"
+		"dynn_Youngman"
+		"dynn_Zephier"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		{ name = mercenary_company_stampede }
+		{ name = mercenary_buffalo_jump }
+	}
+	
+}

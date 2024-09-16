@@ -1,0 +1,62 @@
+﻿angeleno = {
+	color = { 227 36 65 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_socalifornine
+	language = language_spanglish
+	martial_custom = martial_custom_equal
+	name_list = name_list_angeleno
+	
+	traditions = {
+		tradition_dryland_dwellers
+		tradition_parochialism
+		tradition_festivities
+		tradition_desert_ribat
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	coa_gfx = {
+		angeleno_coa_gfx
+	}
+	building_gfx = {
+		angeleno_building_gfx
+		heritage_socalifornine_building_gfx
+		mexican_north_building_gfx #Architecture-style-2
+		californian_building_gfx #Style
+		latam_building_gfx #Super-style
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		floral_clothing_gfx
+		tie_dye_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		8 = asian
+		3 = arab
+		8 = byzantine
+		8 = indian
+		3 = south_indian
+		20 = caucasian
+		3 = white_asian
+		6 = asian_southern_han
+		3 = black_white
+		1 = slavic
+		15 = mediterranean
+		15 = mesoamerican_yuto_aztec
+		5 = asian_austronesian
+		2 = multiracial
+		3 = asian_southeast_asian
+	
+	}
+}

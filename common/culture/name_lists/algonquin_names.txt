@@ -1,0 +1,179 @@
+﻿name_list_algonquin = {
+
+	#compiled by Artful, Lahom
+
+	male_names = {
+		Akideh Anakwato Animikapo Anakwesens Anapi Animikii Apitasank Apitakishik Apitasike Atiakwat Apitawanakwat Asiniiwin
+		Bawdwaywidun Bayaaswaa Bemise Binesiinh Binaaswi Bizhiki Bizhiki_pst_anakwat Brian
+		Charles Chibenashi Curtis
+		David Daniel Dibishkoobenesi
+		Earl Edaw Eric Esens
+		James Jean
+		Kaadawaabide Kaakewakwonabi Kabenoodin Kachkinnindji Kakaki Kakiiwekwanebi Kekekoons Kezhekowinninne Kiniwaanakwad Kiniwbine Kichianimikii_pst_inini Kichibinesi Kichiokidebon Kichiaanakwad Kichiwaaboozo Kieran Kiiwedinaanakwadinini Kiizhik_Wekikiizhik
+		Maankozid Madwekwaneyaash Makadekiizhikwe Makoons Makwa Mamaankeezide Medwekanoonind Michael Mikizi Misaabe Miskomakwa Miskwa_pst_aanakwad Miskwaabik_pst_animikii Miskwakose Miskwaopwakaninni
+		Naawakamik Naawikiizhikweyaasha Nanakonakos Namid Nikonwiweweedun Niiosakii Niikaanibinesi Nenaa_pst_ankebi Noodin Norman
+		Ozaawashkokaad Ozaawindib Okimaans Ozhaawashkobinesi
+		Robert
+		Shakasokiki Simon
+		Tesswehas Thayendanekea
+		Waabanakwad Waabanose Waabi_pst_makwa Waabishkikookooko_pst_oo Waabianimiikii Waabikomikot Waabojiik Waabuninini Waawaateknibawii Waubkeshik Wenzhimadub Wekiizhikomi Wiishkobak William
+		Zhaawan Zhaawanikiizhik Zhaawanaanakwad Zhaawanibenesi Zhaashaawanibiisi Zhinkaabewasin Zhinkwaak Zhinkwaakwakiwenzhiinh Zhinkwaakoons
+	}
+	female_names = {
+		Aki_pst_ikwe Aazhawikiizhikokwe Anankwaabikikwe Anonk Anankokaa Ashwiyaa Azhekwe
+		Bamewawakezhikakwe Bemikiizhikookwe Boshkine Boodookwe
+		Daphne Doreen
+		Edna Enasha Ella Ekwawate Espipan Eshkwekhiizhikwikwe Eshkwekiizhik Etoukasahwee
+		Jane
+		Kayatontee Kabekaabaikwe Kabeowse Kaakekiizhik Kiiwitaakiizhik Kiiwitaajiwanikwe Kiiwedinikwe Kiizhikikwe Kiziiweweyaasin Kwekijiwanikwe Kwena
+		Madwekiizhikwikwe Makadekiizhikwikwe Makadewizikwe Mary Michelle Mandy Miskoanankoikwe Muriel
+		Nancy Naawakamikookwe Naawakwekiizhikikwe Naaniibawikwe Nitamikiikido
+		Obabaamwewekiizhikokwe Okimaabinesiikwe Okimaawaatikookwe Okimaskew Ozhaawashkodewekwe
+		Saawayabunok
+		Tubenaanikwe
+		Waabikwe Waabune
+		Zhoomin
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Abitibiwinn"
+		"dynn_Adik"
+		"dynn_Amikons"
+		"dynn_Archambault"
+		"dynn_Ashagi"
+		"dynn_Baswenaazhi"
+		"dynn_Beaudry"
+		"dynn_Bellemare"
+		"dynn_Bemaangik"
+		"dynn_Benoit"
+		"dynn_Bineshiinh"
+		"dynn_Binesi"
+		"dynn_Boivin"
+		"dynn_Brascoupe"
+		"dynn_Brazeau"
+		"dynn_Cayer"
+		"dynn_Commanda"
+		"dynn_Duquette"
+		"dynn_Emimitegnesh"
+		"dynn_Eshkan"
+		"dynn_Esiban"
+		"dynn_Gaag"
+		"dynn_Iroquet"
+		"dynn_Jocko"
+		"dynn_Kichesipirini"
+		"dynn_Kinounchepirini"
+		"dynn_Kohoko"
+		"dynn_Lanouette"
+		"dynn_Lavoie"
+		"dynn_Maang"
+		"dynn_Malette"
+		"dynn_Matachewan"
+		"dynn_Meness"
+		"dynn_Midewewe"
+		"dynn_Moozens"
+		"dynn_Moozwaanowe"
+		"dynn_Namens"
+		"dynn_Newashish"
+		"dynn_Nibachis"
+		"dynn_Nooke"
+		"dynn_Nottaway"
+		"dynn_Odjick"
+		"dynn_Ogiishkimanisii"
+		"dynn_Owewe"
+		"dynn_Ozawanimke"
+		"dynn_Pakinawatik"
+		"dynn_Papatie"
+		"dynn_Polson"
+		"dynn_Sarazin"
+		"dynn_Tennesco"
+		"dynn_Thivierge"
+		"dynn_Twenish"
+		"dynn_Two-Axe"
+		"dynn_Waawaashkeshi"
+		"dynn_Wabanonik"
+		"dynn_Wabie"
+		"dynn_Wahgoshig"
+		"dynn_Wawatie"
+		"dynn_Whiteduck"
+		"dynn_Zhaangweshi"
+	}
+	dynasty_names = {
+		"dynn_Abitibiwinn"
+		"dynn_Adik"
+		"dynn_Amikons"
+		"dynn_Archambault"
+		"dynn_Ashagi"
+		"dynn_Baswenaazhi"
+		"dynn_Beaudry"
+		"dynn_Bellemare"
+		"dynn_Bemaangik"
+		"dynn_Benoit"
+		"dynn_Bineshiinh"
+		"dynn_Binesi"
+		"dynn_Boivin"
+		"dynn_Brascoupe"
+		"dynn_Brazeau"
+		"dynn_Cayer"
+		"dynn_Commanda"
+		"dynn_Duquette"
+		"dynn_Emimitegnesh"
+		"dynn_Eshkan"
+		"dynn_Esiban"
+		"dynn_Gaag"
+		"dynn_Iroquet"
+		"dynn_Jocko"
+		"dynn_Kichesipirini"
+		"dynn_Kinounchepirini"
+		"dynn_Kohoko"
+		"dynn_Lanouette"
+		"dynn_Lavoie"
+		"dynn_Maang"
+		"dynn_Malette"
+		"dynn_Matachewan"
+		"dynn_Meness"
+		"dynn_Midewewe"
+		"dynn_Moozens"
+		"dynn_Moozwaanowe"
+		"dynn_Namens"
+		"dynn_Newashish"
+		"dynn_Nibachis"
+		"dynn_Nooke"
+		"dynn_Nottaway"
+		"dynn_Odjick"
+		"dynn_Ogiishkimanisii"
+		"dynn_Owewe"
+		"dynn_Ozawanimke"
+		"dynn_Pakinawatik"
+		"dynn_Papatie"
+		"dynn_Polson"
+		"dynn_Sarazin"
+		"dynn_Tennesco"
+		"dynn_Thivierge"
+		"dynn_Twenish"
+		"dynn_Two-Axe"
+		"dynn_Waawaashkeshi"
+		"dynn_Wabanonik"
+		"dynn_Wabie"
+		"dynn_Wahgoshig"
+		"dynn_Wawatie"
+		"dynn_Whiteduck"
+		"dynn_Zhaangweshi"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+
+	mercenary_names = {
+		{ name = mercenary_company_ }
+	}
+
+}

@@ -1,0 +1,42 @@
+﻿chiquitano = {
+	color = { 222 141 55 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_chacoan
+	language = language_chiquitano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chiquitano
+	
+	traditions = {
+		tradition_pastoralists
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_brewmasters
+	}
+	
+	coa_gfx = {
+		chiquitano_coa_gfx
+		amazonico_group_gfx
+	}
+	building_gfx = {
+		chiquitano_building_gfx
+		chaco_building_gfx #Architecture-style
+		native_austral_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_chacoan_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		100 = amazonian
+	
+	}
+}

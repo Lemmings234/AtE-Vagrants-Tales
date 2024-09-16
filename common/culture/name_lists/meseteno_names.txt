@@ -1,0 +1,205 @@
+﻿name_list_meseteno = {
+
+	#compiled by Vesrath
+
+	male_names = {
+		Abedul Abeto Acebo A_act_lamo Albaricoque Aliso Almedro A_act_lvaro Arce Anacardo Antonio
+			Bartolo Benito Beto Byron
+			Carlos Casta_n_tld_o Castor Cactus Cedro Cerezo C_e_act_sar Cristian Cristofer Cipr_e_act_s Cilantro Carlos Coyote 
+			Dar_i_act_o Daniel David Des_e_act_rtico Dylan Durazno
+			E_act_bano Eucalipto Emanuel Estival 
+			Fresno Francisco Fara_o_act_n
+			Guayac_a_act_n Guillermo Guille Gabriel 
+			Higuero Hibisco Huerto 
+			Isaac Isa_i_act_as Israel
+			Jacobo Jacinto Jes_u_act_s Joaqu_i_act_n Juan Jer_o_act_nimo Joel Josafat Jos_e_act_ Josu_e_act_ Jerem_i_act_as Jorge
+			L_a_act_zaro Lenin Lirio Logro Luis Lucas
+			Manzano Madro_n_tld_o Marcos Mario Mateo Manuel Miguel
+			Nicol_a_act_s Nublar Nogal N_i_act_spero
+			Oc_e_act_ano Olivo Olmo Oto_n_tld_o
+			Pino Pedro Pec_a_act_n
+			Quetzal 
+			Roberto Romero
+			Sicom_o_act_ro Sauce Sabino S_i_act_ndico Silvestre
+			Tejo Tilo Tr_e_act_bol Timoteo Tony
+			Uni_o_act_n 
+			Vi_n_tld_edo
+ 			Wily
+			Y_o_act_lotl
+       		Zacar_i_act_as Zapote Zi_o_act_n
+	}
+	female_names = {
+		Acacia Adelfa Alicia Aloe_Vera Albicia Alma Alba Almez A_act_ngela Ana Araucaria Aurora Areca Avellana Albahaca Almendra Alameda Amapola Azucena Artemisia Apricot Aralia Azalea
+			Bella Benjamina Betel Bomb_o_act_n Burbuja Bellota Brisa
+			Canistel Casia Casta_n_tld_a Carmen Casuarina Causa Ceiba Celeste Cereza Cordia Cal_e_act_ndula Caoba Camelia Calatea Cristal
+			Deisi Dalia Daniela Dalila Dolores
+			Encina Eclipta Esmeralda
+			Felicia Fresa Flor 
+			Gardenia Georgina Grecia Guinda Guadalupe Gloria
+			Hortensia Higuera Huerta 
+			I_act_ndica Iris Irene
+ 			Jade Jazm_i_act_n Jacaranda Joya Julieta
+			Lavanda Ladierna Laurel Lentisca Lima Lichi Lluvia Lucy Lila
+			Magnolia Margarita Mar_i_act_a Mariangeles Marisol Maribel Maya Milenrama Mirta
+			Madera Macadamia Marina Melia Menta Manzana Mora Mora_Azul
+			Natalia Nieve 
+			Oliva Orqu_i_act_dea
+			Palmera Paloma Pradera Pac_i_act_fica P_e_act_talo Promesa Pera
+			Rafia Ren_e_act_e Rosa Roc_i_act_o
+			Sabina Selena Secuoya Susana Soledad Sierra
+			Talia Tranquilia Trinidad
+ 			Uva 
+			Valeria Violeta 
+			Yadira Yanis Yerbera Yuma
+			Zahara Zo_e_act_ Zeta
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Abono_Vasquez"
+		"dynn_Activo"
+		"dynn_Aguadulce"
+		"dynn_Alpinista"
+		"dynn_Amate"
+		"dynn_Arado_Torres"
+		"dynn_Arbusto_Gomez"
+		"dynn_Barrena"
+		"dynn_Buceta"
+		"dynn_Campesino"
+		"dynn_Conifero"
+		"dynn_Cosecha_Cortez"
+		"dynn_Contreras_Granar"
+		"dynn_Cosechadora"
+		"dynn_Coyote"
+		"dynn_Chararateguey"
+		"dynn_Cruz_Madera"
+		"dynn_Embaladora"
+		"dynn_Espiga_Dorada"
+		"dynn_Fungicida"
+		"dynn_Germina"
+		"dynn_Graminea"
+		"dynn_Gutierrez"
+		"dynn_Hortelano"
+		"dynn_Insecticida"
+		"dynn_Irrigador"
+		"dynn_Juarez_Follaje"
+		"dynn_Liberado"
+		"dynn_Lopez_Cultivo"
+		"dynn_Maleza_Ruiz"
+		"dynn_Macuahuitl"
+		"dynn_Matagrande"
+		"dynn_Mecha"
+		"dynn_Molinero"
+		"dynn_Montes"
+		"dynn_Munoz_Riego"
+		"dynn_Noroeste"
+		"dynn_Nunez_Liquen"
+		"dynn_Ortega_Retono"
+		"dynn_Ortiz_Casper"
+		"dynn_Padilla"
+		"dynn_Plaguicida"
+		"dynn_Pluviano"
+		"dynn_Power"
+		"dynn_Quivira"
+		"dynn_Ramos_Rosal"
+		"dynn_Retroexcavadora"
+		"dynn_San_Ch_a_act_vez"
+		"dynn_Santa_Huerta"
+		"dynn_Sembradora"
+		"dynn_Semillero"
+		"dynn_Silvicultor"
+		"dynn_Soto-Legumbre"
+		"dynn_Tierra_F_e_act_rtil"
+		"dynn_Trilladora"
+		"dynn_Thorbourne"
+		"dynn_Unificado"
+		"dynn_Velasquez"
+		"dynn_Verdura_Diaz"
+		"dynn_Vinedo"
+		"dynn_Zafra_Garcia"
+	}
+	dynasty_names = {
+		"dynn_Abono_Vasquez"
+		"dynn_Activo"
+		"dynn_Aguadulce"
+		"dynn_Alpinista"
+		"dynn_Amate"
+		"dynn_Arado_Torres"
+		"dynn_Arbusto_Gomez"
+		"dynn_Barrena"
+		"dynn_Buceta"
+		"dynn_Campesino"
+		"dynn_Conifero"
+		"dynn_Cosecha_Cortez"
+		"dynn_Contreras_Granar"
+		"dynn_Cosechadora"
+		"dynn_Coyote"
+		"dynn_Chararateguey"
+		"dynn_Cruz_Madera"
+		"dynn_Embaladora"
+		"dynn_Espiga_Dorada"
+		"dynn_Fungicida"
+		"dynn_Germina"
+		"dynn_Graminea"
+		"dynn_Gutierrez"
+		"dynn_Hortelano"
+		"dynn_Insecticida"
+		"dynn_Irrigador"
+		"dynn_Juarez_Follaje"
+		"dynn_Liberado"
+		"dynn_Lopez_Cultivo"
+		"dynn_Maleza_Ruiz"
+		"dynn_Macuahuitl"
+		"dynn_Matagrande"
+		"dynn_Mecha"
+		"dynn_Molinero"
+		"dynn_Montes"
+		"dynn_Munoz_Riego"
+		"dynn_Noroeste"
+		"dynn_Nunez_Liquen"
+		"dynn_Ortega_Retono"
+		"dynn_Ortiz_Casper"
+		"dynn_Padilla"
+		"dynn_Plaguicida"
+		"dynn_Pluviano"
+		"dynn_Power"
+		"dynn_Quivira"
+		"dynn_Ramos_Rosal"
+		"dynn_Retroexcavadora"
+		"dynn_San_Ch_a_act_vez"
+		"dynn_Santa_Huerta"
+		"dynn_Sembradora"
+		"dynn_Semillero"
+		"dynn_Silvicultor"
+		"dynn_Soto-Legumbre"
+		"dynn_Tierra_F_e_act_rtil"
+		"dynn_Trilladora"
+		"dynn_Thorbourne"
+		"dynn_Unificado"
+		"dynn_Velasquez"
+		"dynn_Verdura_Diaz"
+		"dynn_Vinedo"
+		"dynn_Zafra_Garcia"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 15
+	father_name_chance = 40
+	pat_grm_name_chance = 15
+	mat_grm_name_chance = 20
+	mother_name_chance = 40
+	
+	mercenary_names = {
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+	
+}

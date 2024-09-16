@@ -1,0 +1,56 @@
+﻿mayami = {
+	color = { 141 224 26  }
+	created = 2066.1.1
+	parents = { sunshiner cubano }
+	
+	ethos = ethos_courtly
+	heritage = heritage_floridian
+	language = language_caribeno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mayami
+	
+	traditions = {
+		#TODO
+		tradition_festivities
+		tradition_maritime_mercantilism
+		tradition_life_is_just_a_joke
+		tradition_coffee_making
+		tradition_xenophilic
+	}
+	
+	coa_gfx = {
+		mayami_coa_gfx
+		south_anglo_group_gfx
+	}
+	building_gfx = {
+		mayami_building_gfx
+		gulfard_building_gfx #Architecture-style
+		na_south_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_floridian_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		floridian_clothing_gfx
+		floral_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		20 = african
+		2 = asian
+		1 = asian_southern_han
+		1 = asian_austronesian
+		25 = caucasian
+		1 = indian
+		25 = mediterranean
+		15 = mesoamerican_yuto_aztec
+		5 = black_white
+		5 = multiracial
+	
+	}
+}

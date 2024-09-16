@@ -1,0 +1,51 @@
+﻿ruteno = {
+	color = { 30 112 206 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_sulista
+	language = language_ruteno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_ruteno
+	
+	traditions = {
+		#tradition_hill_dwellers
+		tradition_collective_lands
+		tradition_quarrelsome
+		tradition_staunch_traditionalists
+		tradition_mendicant_mystics
+	}
+	
+	coa_gfx = {
+		ruteno_coa_gfx
+		sulista_group_gfx
+	}
+	building_gfx = {
+		ruteno_building_gfx
+		brazilian_subtropical_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_sulista_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		sulista_group_gfx
+		#mauricinho_clothing_gfx
+		northern_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = arab
+		15 = byzantine
+		18 = caucasian
+		10 = mediterranean
+		50 = slavic
+		2 = mesoamerican_yuto_aztec
+		3 = black_white
+	
+	}
+}

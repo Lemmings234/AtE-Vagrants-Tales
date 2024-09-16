@@ -1,0 +1,50 @@
+﻿nortechicano = {
+	color = { 183 96 179 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_bajo_peruano
+	language = language_costallano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_nortechicano
+	
+	traditions = {
+		#TODO
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_ancient_miners
+	}
+	
+	coa_gfx = {
+		nortechicano_coa_gfx
+		peruano_group_gfx
+	}
+	building_gfx = {
+		nortechicano_building_gfx
+		peru_bolivian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_bajo_peruano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = african
+		1 = asian
+		1 = caucasian
+		5 = mediterranean
+		68 = andean
+		5 = amazonian
+		15 = mesoamerican_yuto_aztec
+		1 = white_asian
+		2 = black_indigenous
+		1 = multiracial
+	
+	}
+}

@@ -1,0 +1,46 @@
+﻿desertico = {
+	color = { 149 143 168 }
+	
+	ethos = ethos_communal
+	heritage = heritage_gaucho
+	language = language_patagon
+	martial_custom = martial_custom_male_only
+	name_list = name_list_desertico
+	
+	traditions = {
+		#TODO
+		tradition_gaucho_legacy
+		tradition_horse_breeder
+		tradition_hit_and_run
+	}
+	
+	coa_gfx = {
+		desertico_coa_gfx
+		patagon_group_gfx
+	}
+	building_gfx = {
+		desertico_building_gfx
+		gaucho_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_gaucho_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		20 = caucasian
+		35 = mediterranean
+		10 = patagonian
+		5 = slavic
+		15 = mesoamerican_yuto_aztec
+		15 = white_indigenous
+	
+	}
+}

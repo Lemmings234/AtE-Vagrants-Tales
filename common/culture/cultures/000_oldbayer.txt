@@ -1,0 +1,56 @@
+﻿oldbayer = {
+	color = { 76 113 178 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_mid_atlantic
+	language = language_atlantican
+	martial_custom = martial_custom_equal
+	name_list = name_list_oldbayer
+	
+	traditions = {
+		#TODO
+		tradition_republican_legacy
+		tradition_language_scholars
+		tradition_legalistic
+		tradition_reverence_for_veterans
+	}
+	
+	coa_gfx = {
+		oldbayer_coa_gfx
+	}
+	building_gfx = {
+		oldbayer_building_gfx
+		federal_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_mid_atlantic_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		3 = andean
+		15 = african
+		7 = asian
+		3 = asian_southeast_asian
+		2 = asian_southern_han
+		3 = asian_austronesian
+		10 = indian
+		5 = south_indian
+		35 = caucasian
+		5 = east_african
+		5 = mediterranean
+		15 = mesoamerican_yuto_aztec
+		3 = slavic
+		10 = black_white
+		3 = white_asian
+		5 = multiracial
+
+	}
+}

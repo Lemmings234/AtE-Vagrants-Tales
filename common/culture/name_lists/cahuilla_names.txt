@@ -1,0 +1,167 @@
+﻿name_list_cahuilla = {
+
+	#compiled by 9k
+
+	male_names = {
+		Aaron Adam Alan	Alejandro Andrew Antonio Arthur Adrian
+		Benny Berkeley Benicio Bing Blake Brian
+		Carl Caleb Cesar Carlos Chris Claudio
+		Daniel David Delos Diego Douglas
+		Edward Edgar Ezekiel
+		Fernando Francisco
+		Gerald George Gideon Gabriel Gary
+		Hilton Hadrian Hector Harry Henry
+		Ignacio Ivan
+		Juan Jake James Jimmy Jason Javier Joshua Joseph
+		Kirk Kyle
+		Lalo Lorenzo Louis Luke
+		Manuel Mark Max Miguel
+		Neil Nestor Nicolas
+		Olinto Ophir Oscar
+		Pat Paul Pedro Philip
+		Raul Ray Robert Roy Reid
+		Sungrey Santiago Simon
+		Todd Tom Tortes Tony
+		Victor Vincent
+		Walker Walter Wayne
+	}
+	female_names = {
+		Abigail Ada Alice Allison Amy Angela Anne April Alejandra Asuncion Andrea Amanda Altrena
+		Beatriz Bonnie Bianca
+		Cassandra Cassidy Cecilia Christine Carmen Carlotta
+		Danae Daisy Dala Deborah Delia Diane Dina Dora
+		Elizabeth Ella Emily Esmeralda Ethel Evelyn Erica Elesha
+		Felicia Florence Francine
+		Gabriela Gloria
+		Hannah Heather Helen
+		Ida Isabel
+		Jacklyn Jane Janet Jennifer Julia Jessica
+		Katherine
+		Laura Lee Lindsay Lorraine Luz Lisa
+		Marigold Manuelita Mary Marilyn Melody Michelle
+		Nancy
+		Patricia Pearl Peggy
+		Ramona Rachel Raquel Rebecca Rhonda Rosie Ruth
+		Sadie Sarah Sharon Shirley Siri Stella Stephanie Sue Sunny Sylvia
+		Tabitha Trudy Teresa
+		Veronica Violet Virginia
+		Yvette Yolanda
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Antonio"
+		"dynn_Arzner"
+		"dynn_Baker"
+		"dynn_Clarke"
+		"dynn_Cabazon"
+		"dynn_Candelaria"
+		"dynn_Diaz"
+		"dynn_Duro"
+		"dynn_Elguera"
+		"dynn_Fears"
+		"dynn_Garcia"
+		"dynn_Green"
+		"dynn_Guerrero"
+		"dynn_Hill"
+		"dynn_Juarez"
+		"dynn_Knight"
+		"dynn_Lake"
+		"dynn_Linton"
+		"dynn_Lua"
+		"dynn_Lubo"
+		"dynn_Lopez"
+		"dynn_Morreo"
+		"dynn_Macias"
+		"dynn_Marcus"
+		"dynn_Martinez"
+		"dynn_McCabe"
+		"dynn_Meyers"
+		"dynn_Mirelez"
+		"dynn_Newey"
+		"dynn_Nombre"
+		"dynn_Perez"
+		"dynn_Ramona"
+		"dynn_Resvaloso"
+		"dynn_Rice"
+		"dynn_Saubel"
+		"dynn_Salton"
+		"dynn_Santillanes"
+		"dynn_Salgado"
+		"dynn_Shepherd"
+		"dynn_Torres"
+		"dynn_Tortez"
+		"dynn_Valdez"
+		"dynn_Vance"
+		"dynn_Welmas"
+		"dynn_Wilson"
+		"dynn_Williams"
+	}
+	
+	dynasty_names = {
+		"dynn_Antonio"
+		"dynn_Arzner"
+		"dynn_Baker"
+		"dynn_Clarke"
+		"dynn_Cabazon"
+		"dynn_Candelaria"
+		"dynn_Diaz"
+		"dynn_Duro"
+		"dynn_Elguera"
+		"dynn_Fears"
+		"dynn_Garcia"
+		"dynn_Green"
+		"dynn_Guerrero"
+		"dynn_Hill"
+		"dynn_Juarez"
+		"dynn_Knight"
+		"dynn_Lake"
+		"dynn_Linton"
+		"dynn_Lua"
+		"dynn_Lubo"
+		"dynn_Lopez"
+		"dynn_Morreo"
+		"dynn_Macias"
+		"dynn_Marcus"
+		"dynn_Martinez"
+		"dynn_McCabe"
+		"dynn_Meyers"
+		"dynn_Mirelez"
+		"dynn_Newey"
+		"dynn_Nombre"
+		"dynn_Perez"
+		"dynn_Ramona"
+		"dynn_Resvaloso"
+		"dynn_Rice"
+		"dynn_Saubel"
+		"dynn_Salton"
+		"dynn_Santillanes"
+		"dynn_Salgado"
+		"dynn_Shepherd"
+		"dynn_Torres"
+		"dynn_Tortez"
+		"dynn_Valdez"
+		"dynn_Vance"
+		"dynn_Welmas"
+		"dynn_Wilson"
+		"dynn_Williams"
+	}
+
+	dynasty_of_location_prefix = "de "
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+
+	pat_grf_name_chance = 10
+	mat_grf_name_chance = 25
+	father_name_chance = 35
+	pat_grm_name_chance = 30
+	mat_grm_name_chance = 10
+	mother_name_chance = 15
+
+	mercenary_names = {
+		{ name = mercenary_company_cahuilla }
+		{ name = mercenary_company_cahuilla_coyotes }
+		{ name = mercenary_company_cahuilla_arabians }
+	}
+
+}

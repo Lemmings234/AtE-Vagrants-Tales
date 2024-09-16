@@ -1,0 +1,215 @@
+﻿name_list_wixarika = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Arani At_i_uml_rexi
+		Eriyaxi Etsiakame Etsitewani
+		Herekanuturu
+		Iokaye Itsahaki
+		Jaistemay Jutiacame
+		K_i_uml_rawieri Kakuwu Kaxio Kukame Kurandera Kuriyuxi Kuse
+		Manuheri Marikuxi Mateu Matsihua Miyeri Motaopoa Muirame Muitsexi Muwieri
+		Nakawe Neuweme Nikuraxi Niukame Nuhexi
+		Papuru Pekuru Piripe
+		Rawiri Raxaru Riyunitsiyu Rukaxi Rutsiyu
+		Tanieri Tareu Taurri_Mutuani Tekuamana Teukeme Teukwiru Timuteu Tsarumuni Tsauru Tserukwiyu Tsetsaxi Tsimuni Tumaxi Turatemay Tutukira Tutupika
+		Ukeme Uneximu Urutemay Uruwanu Uxayuri
+		Wani Werunawe
+		Xakwueu Xaureme Xicuacame Xiraunime Xitacame Xuweni
+		Yauxari Yikaiye_Kikame Yotahopa Yukaiye
+	}
+	female_names = {
+		Ana Aukwe
+		Eritsaweti
+		K_i_uml_rauriya Kuriya
+		Mararatanaka Marita Mariya
+		P_i_uml_risira
+		Ririya Rutsiya
+		Tsara Tsutsana
+		Wana
+		Xakweri Xarumeri Xitaima Xuti Xutuima
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Aguilar"
+		"dynn_Alejandro"
+		"dynn_Ba_n_tld_uelos"
+		"dynn_Bautista"
+		"dynn_Ben_i_act_tez"
+		"dynn_Bonilla"
+		"dynn_Candelario"
+		"dynn_Canar_e_act_"
+		"dynn_Carrillo"
+		"dynn_Casas"
+		"dynn_Cayetano"
+		"dynn_Celestino"
+		"dynn_Chaire"
+		"dynn_Chalate"
+		"dynn_Chanes"
+		"dynn_Chaparro"
+		"dynn_Chema"
+		"dynn_Chico"
+		"dynn_Chino"
+		"dynn_Chivarra"
+		"dynn_Cos_i_act_o"
+		"dynn_D_i_act_az"
+		"dynn_Dorado"
+		"dynn_Eleuterio"
+		"dynn_Enr_i_act_quez"
+		"dynn_F_e_act_lix"
+		"dynn_Garc_i_act_a"
+		"dynn_Ger_o_act_nimo"
+		"dynn_Gervacio"
+		"dynn_Gonz_a_act_lez"
+		"dynn_Graciano"
+		"dynn_Haro"
+		"dynn_Hu_i_act_zar"
+		"dynn_L_o_act_pez"
+		"dynn_Lara"
+		"dynn_Lemus"
+		"dynn_Lobatos"
+		"dynn_Lucas"
+		"dynn_Lujano"
+		"dynn_Madera"
+		"dynn_Mart_i_act_nez"
+		"dynn_Mercado"
+		"dynn_Mijarez"
+		"dynn_Miramontes"
+		"dynn_Montoya"
+		"dynn_Mu_n_tld_oz"
+		"dynn_Navarrete"
+		"dynn_Nazario"
+		"dynn_Olag_u_uml_e"
+		"dynn_Parra"
+		"dynn_Pinedo"
+		"dynn_R_i_act_os"
+		"dynn_Ram_i_act_rez"
+		"dynn_Regino"
+		"dynn_Robles"
+		"dynn_Rosalio"
+		"dynn_S_a_act_nchez"
+		"dynn_S_o_act_stenes"
+		"dynn_Salas"
+		"dynn_Salvador"
+		"dynn_Sandoval"
+		"dynn_Serio"
+		"dynn_Sol_i_act_s"
+		"dynn_Sotero"
+		"dynn_Taiz_a_act_n"
+		"dynn_Talavera"
+		"dynn_Te_o_act_filo"
+		"dynn_Tela"
+		"dynn_Torres"
+		"dynn_Valdez"
+		"dynn_Vela"
+		"dynn_Victoriano"
+		"dynn_Victorio"
+		"dynn_Villagrana"
+		"dynn_Zeferino"
+		"dynn_de_la_Cruz"
+		"dynn_de_la_Rosa"
+		"dynn_de_la_Torre"
+		"dynn_de_la_Trinidad"
+		"dynn_del_Alto"
+	}
+	dynasty_names = {
+		"dynn_Aguilar"
+		"dynn_Alejandro"
+		"dynn_Ba_n_tld_uelos"
+		"dynn_Bautista"
+		"dynn_Ben_i_act_tez"
+		"dynn_Bonilla"
+		"dynn_Candelario"
+		"dynn_Canar_e_act_"
+		"dynn_Carrillo"
+		"dynn_Casas"
+		"dynn_Cayetano"
+		"dynn_Celestino"
+		"dynn_Chaire"
+		"dynn_Chalate"
+		"dynn_Chanes"
+		"dynn_Chaparro"
+		"dynn_Chema"
+		"dynn_Chico"
+		"dynn_Chino"
+		"dynn_Chivarra"
+		"dynn_Cos_i_act_o"
+		"dynn_D_i_act_az"
+		"dynn_Dorado"
+		"dynn_Eleuterio"
+		"dynn_Enr_i_act_quez"
+		"dynn_F_e_act_lix"
+		"dynn_Garc_i_act_a"
+		"dynn_Ger_o_act_nimo"
+		"dynn_Gervacio"
+		"dynn_Gonz_a_act_lez"
+		"dynn_Graciano"
+		"dynn_Haro"
+		"dynn_Hu_i_act_zar"
+		"dynn_L_o_act_pez"
+		"dynn_Lara"
+		"dynn_Lemus"
+		"dynn_Lobatos"
+		"dynn_Lucas"
+		"dynn_Lujano"
+		"dynn_Madera"
+		"dynn_Mart_i_act_nez"
+		"dynn_Mercado"
+		"dynn_Mijarez"
+		"dynn_Miramontes"
+		"dynn_Montoya"
+		"dynn_Mu_n_tld_oz"
+		"dynn_Navarrete"
+		"dynn_Nazario"
+		"dynn_Olag_u_uml_e"
+		"dynn_Parra"
+		"dynn_Pinedo"
+		"dynn_R_i_act_os"
+		"dynn_Ram_i_act_rez"
+		"dynn_Regino"
+		"dynn_Robles"
+		"dynn_Rosalio"
+		"dynn_S_a_act_nchez"
+		"dynn_S_o_act_stenes"
+		"dynn_Salas"
+		"dynn_Salvador"
+		"dynn_Sandoval"
+		"dynn_Serio"
+		"dynn_Sol_i_act_s"
+		"dynn_Sotero"
+		"dynn_Taiz_a_act_n"
+		"dynn_Talavera"
+		"dynn_Te_o_act_filo"
+		"dynn_Tela"
+		"dynn_Torres"
+		"dynn_Valdez"
+		"dynn_Vela"
+		"dynn_Victoriano"
+		"dynn_Victorio"
+		"dynn_Villagrana"
+		"dynn_Zeferino"
+		"dynn_de_la_Cruz"
+		"dynn_de_la_Rosa"
+		"dynn_de_la_Torre"
+		"dynn_de_la_Trinidad"
+		"dynn_del_Alto"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		
+	}
+	
+}

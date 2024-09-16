@@ -1,0 +1,48 @@
+﻿llanero = {
+	color = { 168 150 86 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_llanero
+	language = language_llanero
+	martial_custom = martial_custom_male_only
+	name_list = name_list_llanero
+	
+	traditions = {
+		#TODO
+		tradition_mystical_ancestors
+		tradition_llaneros
+		tradition_warrior_culture
+		tradition_pastoralists
+	}
+	
+	coa_gfx = {
+		llanero_coa_gfx
+		norandino_group_gfx
+	}
+	building_gfx = {
+		llanero_building_gfx
+		gran_colombian_building_gfx #Architecture-style
+		sa_north_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_llanero_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		llanero_clothing_gfx
+		western_clothing_gfx
+		centrestino_group_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		30 = mediterranean
+		10 = amazonian
+		40 = mesoamerican_yuto_aztec
+		10 = black_white
+	
+	}
+}

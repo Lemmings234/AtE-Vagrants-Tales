@@ -1,0 +1,265 @@
+﻿name_list_lokono = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Adaheli Aiden Amorotahe Arah Arata Archibald Arnold
+		Bernard
+		Cecil Charles Clement Clifford Cuthbert
+		Damon Daniel David Diego
+		Edgar Edmund Edward Emmanuel Ernest
+		Fodi Foster
+		George Gerard
+		Halaso Harry Hatuey Haubariria Henry Hilton
+		Ivan
+		Jacob Jesus Joshua John Joseph Julian
+		Kabadaro Kaigouchi Keith Koyaha
+		Laliwa Lawrence Lennox Leyland Lynus
+		Mark Matthew Maurice Michael Murtland
+		Ori Orlando Oswald
+		Patrick Peero Peter Philip Pirija
+		Robert Roland Richard Rudolph
+		Samuel Shoko Sidney Sidwell Stephen
+		Telford Theo Theophilus Thomas Tiburtio
+		Vivian
+		Warner William Wiwakaleme
+	}
+	female_names = {
+		Aderi Alison Ana Anastasia
+		Cecilia Charlotte Clara
+		Della Doreen
+		Elizabeth Elsie Etheldreda
+		Hannah Haya Hime
+		Isabella Isani
+		Jean Justina
+		Kodibio Koiara Koriuaka
+		Laliwa
+		Maria Marian Martha Maureen
+		Olive
+		Rebecca Ruth
+		Sabantho Sharon Shirley Shirling Shivanie Shoko
+		Takuiba Twengga
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Aarons"
+		"dynn_Abraham"
+		"dynn_Abrams"
+		"dynn_Agpan"
+		"dynn_Alberts"
+		"dynn_Allicock"
+		"dynn_Andrews"
+		"dynn_Anselmo"
+		"dynn_Antonio"
+		"dynn_Ashby"
+		"dynn_Atkinson"
+		"dynn_Austin"
+		"dynn_Baharally"
+		"dynn_Benjamin"
+		"dynn_Bennett"
+		"dynn_Bernard"
+		"dynn_Biswana"
+		"dynn_Blake"
+		"dynn_Bumbury"
+		"dynn_Caravaio"
+		"dynn_Casimero"
+		"dynn_Chacon"
+		"dynn_Chan-A-Sue"
+		"dynn_Chandler"
+		"dynn_Charles"
+		"dynn_Charlie"
+		"dynn_Clementino"
+		"dynn_Clenkian"
+		"dynn_Conrad"
+		"dynn_Conyers"
+		"dynn_Corbin"
+		"dynn_Cornelius"
+		"dynn_Corrie"
+		"dynn_Daniels"
+		"dynn_Debideen"
+		"dynn_Domingo"
+		"dynn_Dundas"
+		"dynn_Eregu"
+		"dynn_Fararinno"
+		"dynn_Federicks"
+		"dynn_Fergusson"
+		"dynn_Fitz-Allen"
+		"dynn_Fleming"
+		"dynn_Fredericks"
+		"dynn_George"
+		"dynn_Goddett"
+		"dynn_Gonsalves"
+		"dynn_Goocharan"
+		"dynn_Gunther"
+		"dynn_Hart"
+		"dynn_Haynes"
+		"dynn_Heliya"
+		"dynn_Henry"
+		"dynn_Hussein"
+		"dynn_Jacobus"
+		"dynn_Joseph"
+		"dynn_Jubithana"
+		"dynn_Kapongong"
+		"dynn_Kartright"
+		"dynn_Karwofodi"
+		"dynn_Kaseek"
+		"dynn_Kattow"
+		"dynn_Lewis"
+		"dynn_Lowe"
+		"dynn_McTurk"
+		"dynn_Mendonca"
+		"dynn_Moses"
+		"dynn_Mudaukaho"
+		"dynn_Nenege"
+		"dynn_Nobles"
+		"dynn_Norton"
+		"dynn_O_pst_Selmo"
+		"dynn_Obermuller"
+		"dynn_Persaud"
+		"dynn_Peters"
+		"dynn_Piercy"
+		"dynn_Pierre"
+		"dynn_Prince"
+		"dynn_Proston"
+		"dynn_Roberts"
+		"dynn_Robinson"
+		"dynn_Romascindo"
+		"dynn_Sabjo"
+		"dynn_Santiago"
+		"dynn_Saywack"
+		"dynn_Shuman"
+		"dynn_Simon"
+		"dynn_Smith"
+		"dynn_Stephens"
+		"dynn_Taylor"
+		"dynn_Thomas"
+		"dynn_Thornhill"
+		"dynn_Valenzuela"
+		"dynn_Vanslytman"
+		"dynn_Waia"
+		"dynn_Waricha"
+		"dynn_Welcome"
+		"dynn_Wong"
+		"dynn_Xavier"
+		"dynn_Yipsam"
+	}
+	dynasty_names = {
+		"dynn_Aarons"
+		"dynn_Abraham"
+		"dynn_Abrams"
+		"dynn_Agpan"
+		"dynn_Alberts"
+		"dynn_Allicock"
+		"dynn_Andrews"
+		"dynn_Anselmo"
+		"dynn_Antonio"
+		"dynn_Ashby"
+		"dynn_Atkinson"
+		"dynn_Austin"
+		"dynn_Baharally"
+		"dynn_Benjamin"
+		"dynn_Bennett"
+		"dynn_Bernard"
+		"dynn_Biswana"
+		"dynn_Blake"
+		"dynn_Bumbury"
+		"dynn_Caravaio"
+		"dynn_Casimero"
+		"dynn_Chacon"
+		"dynn_Chan-A-Sue"
+		"dynn_Chandler"
+		"dynn_Charles"
+		"dynn_Charlie"
+		"dynn_Clementino"
+		"dynn_Clenkian"
+		"dynn_Conrad"
+		"dynn_Conyers"
+		"dynn_Corbin"
+		"dynn_Cornelius"
+		"dynn_Corrie"
+		"dynn_Daniels"
+		"dynn_Debideen"
+		"dynn_Domingo"
+		"dynn_Dundas"
+		"dynn_Eregu"
+		"dynn_Fararinno"
+		"dynn_Federicks"
+		"dynn_Fergusson"
+		"dynn_Fitz-Allen"
+		"dynn_Fleming"
+		"dynn_Fredericks"
+		"dynn_George"
+		"dynn_Goddett"
+		"dynn_Gonsalves"
+		"dynn_Goocharan"
+		"dynn_Gunther"
+		"dynn_Hart"
+		"dynn_Haynes"
+		"dynn_Heliya"
+		"dynn_Henry"
+		"dynn_Hussein"
+		"dynn_Jacobus"
+		"dynn_Joseph"
+		"dynn_Jubithana"
+		"dynn_Kapongong"
+		"dynn_Kartright"
+		"dynn_Karwofodi"
+		"dynn_Kaseek"
+		"dynn_Kattow"
+		"dynn_Lewis"
+		"dynn_Lowe"
+		"dynn_McTurk"
+		"dynn_Mendonca"
+		"dynn_Moses"
+		"dynn_Mudaukaho"
+		"dynn_Nenege"
+		"dynn_Nobles"
+		"dynn_Norton"
+		"dynn_O_pst_Selmo"
+		"dynn_Obermuller"
+		"dynn_Persaud"
+		"dynn_Peters"
+		"dynn_Piercy"
+		"dynn_Pierre"
+		"dynn_Prince"
+		"dynn_Proston"
+		"dynn_Roberts"
+		"dynn_Robinson"
+		"dynn_Romascindo"
+		"dynn_Sabjo"
+		"dynn_Santiago"
+		"dynn_Saywack"
+		"dynn_Shuman"
+		"dynn_Simon"
+		"dynn_Smith"
+		"dynn_Stephens"
+		"dynn_Taylor"
+		"dynn_Thomas"
+		"dynn_Thornhill"
+		"dynn_Valenzuela"
+		"dynn_Vanslytman"
+		"dynn_Waia"
+		"dynn_Waricha"
+		"dynn_Welcome"
+		"dynn_Wong"
+		"dynn_Xavier"
+		"dynn_Yipsam"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 10
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		
+	}
+	
+}

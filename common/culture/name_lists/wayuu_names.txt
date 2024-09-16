@@ -1,0 +1,23 @@
+﻿name_list_wayuu = {
+        male_names = { Alejandro Alfredo Ambrosio Arata Arturo Cachimbo Chaanou_pst_ushi Chioku Cotiz Eleutaa Emilio Fabio Felipe Gerardo Gervaso Horado Josu_e_act_ Ka_pst__u_uml_r_u_uml_lay Jos_e_act_ Juan Luis Miguel Mo_pst_uwala Mois_e_act_s Nicol_a_act_s Rafael Ram_o_act_n Rapayet Rodrigo Rudecindo Tom_a_act_s Torito Toru_i_act_ Turizo Yajaira }
+        female_names = { Ana Beatriz Bernicia Calida Carmen Cecilia Celmira Elena Elizabeth Elodia Elsa Enriqueta Estercilia Florina Florita Griselda Isabel Leonor Lera Mar_i_act_a Mercedes Monita Noel_i_act_ Rosa Rosana Takuiba U_act_rsula Worunka Zaida }
+        dynasty_names = { "dynn_Anachons_u_uml_" "dynn_Arpushana" "dynn_Arregoc_e_act_s" "dynn_Barliza" "dynn_Benjumea" "dynn_Bonivento" "dynn_Bueno" "dynn_Choles" "dynn_Cuj_i_act_a" "dynn_David" "dynn_Deluque" "dynn_Epiey_u_act_u" "dynn_Epinay_u_act_u" "dynn_Fern_a_act_ndez" "dynn_Fince" "dynn_Fragozo" "dynn_Gouriy_u_act_u" "dynn_Huaca" "dynn_Iguar_a_act_n" "dynn_Ipuana" "dynn_Jarariy_u_act_u" "dynn_Jasay_u_act_u" "dynn_Jayariy_u_act_u" "dynn_Jinnu" "dynn_Jorots_u_uml_" "dynn_Jusay_u_act_u" "dynn_Li_n_tld__a_act_n" "dynn_Lince" "dynn_Magdaniel" "dynn_Manjarrez" "dynn_Marulanda" "dynn_Mengual" "dynn_Mindiola" "dynn_Montecristo" "dynn_Moyano" "dynn_Naranjo" "dynn_Padilla" "dynn_Palmezano" "dynn_Pausay_u_act_u" "dynn_Paz" "dynn_Pimienta" "dynn_Pinallo" "dynn_Pipishana" "dynn_Pocaterra" "dynn_Pushaina" "dynn_Rivadeneira" "dynn_Sapuana" "dynn_Sempr_u_act_n" "dynn_Sierra" "dynn_Sijona" "dynn_Simanca" "dynn_Soccarras" "dynn_Taiwai" "dynn_Tijuana" "dynn_Toctouy_u_act_u" "dynn_Toncel" "dynn_Uchayar_pst_u" "dynn_Ulewana" "dynn_Uriana" "dynn_Urariy_u_act_u" "dynn_Uriy_u_act_u" "dynn_Villa" "dynn_Viloria" "dynn_Vincente" "dynn_Viveros" "dynn_Walapuana" "dynn_Walepushana" "dynn_Wouriy_u_act_u" "dynn_Yajure" "dynn_Zambrano" "dynn_Zeumayai_n_tld_" }
+        cadet_dynasty_names = { "dynn_Anachons_u_uml_" "dynn_Arpushana" "dynn_Arregoc_e_act_s" "dynn_Barliza" "dynn_Benjumea" "dynn_Bonivento" "dynn_Bueno" "dynn_Choles" "dynn_Cuj_i_act_a" "dynn_David" "dynn_Deluque" "dynn_Epiey_u_act_u" "dynn_Epinay_u_act_u" "dynn_Fern_a_act_ndez" "dynn_Fince" "dynn_Fragozo" "dynn_Gouriy_u_act_u" "dynn_Huaca" "dynn_Iguar_a_act_n" "dynn_Ipuana" "dynn_Jarariy_u_act_u" "dynn_Jasay_u_act_u" "dynn_Jayariy_u_act_u" "dynn_Jinnu" "dynn_Jorots_u_uml_" "dynn_Jusay_u_act_u" "dynn_Li_n_tld__a_act_n" "dynn_Lince" "dynn_Magdaniel" "dynn_Manjarrez" "dynn_Marulanda" "dynn_Mengual" "dynn_Mindiola" "dynn_Montecristo" "dynn_Moyano" "dynn_Naranjo" "dynn_Padilla" "dynn_Palmezano" "dynn_Pausay_u_act_u" "dynn_Paz" "dynn_Pimienta" "dynn_Pinallo" "dynn_Pipishana" "dynn_Pocaterra" "dynn_Pushaina" "dynn_Rivadeneira" "dynn_Sapuana" "dynn_Sempr_u_act_n" "dynn_Sierra" "dynn_Sijona" "dynn_Simanca" "dynn_Soccarras" "dynn_Taiwai" "dynn_Tijuana" "dynn_Toctouy_u_act_u" "dynn_Toncel" "dynn_Uchayar_pst_u" "dynn_Ulewana" "dynn_Uriana" "dynn_Urariy_u_act_u" "dynn_Uriy_u_act_u" "dynn_Villa" "dynn_Viloria" "dynn_Vincente" "dynn_Viveros" "dynn_Walapuana" "dynn_Walepushana" "dynn_Wouriy_u_act_u" "dynn_Yajure" "dynn_Zambrano" "dynn_Zeumayai_n_tld_" }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

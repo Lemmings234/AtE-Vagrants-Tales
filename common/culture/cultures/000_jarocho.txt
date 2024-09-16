@@ -1,0 +1,49 @@
+﻿jarocho = {
+	color = { 199 91 80 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_novohispano
+	language = language_metropolitano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_jarocho
+	
+	traditions = {
+		tradition_culinary_art
+		tradition_dia_de_muertos
+		tradition_medicinal_plants
+		tradition_jungle_warriors
+		tradition_maritime_mercantilism
+	}
+	
+	coa_gfx = {
+		jarocho_coa_gfx
+		mexicano_group_gfx
+	}
+	building_gfx = {
+		jarocho_building_gfx
+		heritage_novohispano_building_gfx
+		mexican_building_gfx #Style
+		latam_building_gfx #Super-style
+		mediterranean_building_gfx
+		iberian_building_gfx
+	}
+	clothing_gfx = {
+		mexicano_group_gfx
+		iberian_christian_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		iberian_christian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		15 = mediterranean
+		20 = mesoamerican_maya
+		50 = mesoamerican_yuto_aztec
+		5 = asian_southern_han
+		5 = black_white
+	
+	}
+}

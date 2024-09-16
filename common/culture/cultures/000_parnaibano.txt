@@ -1,0 +1,49 @@
+﻿parnaibano = {
+	color = { 6 74 145 }
+	
+	ethos = ethos_communal
+	heritage = heritage_cabano
+	language = language_nordestino
+	martial_custom = martial_custom_male_only
+	name_list = name_list_parnaibano
+	
+	traditions = {
+		tradition_brazilian_cosmopolitanism
+		tradition_collective_lands
+		tradition_medicinal_plants
+		tradition_life_is_just_a_joke
+	}
+	
+	coa_gfx = {
+		ludovicense_coa_gfx
+		nordestino_group_gfx
+	}
+	building_gfx = {
+		parnaibano_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cabano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		nordestino_group_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		35 = african
+		2 = caucasian
+		1 = mediterranean
+		35 = amazonian
+		1 = mesoamerican_yuto_aztec
+		1 = white_indigenous
+		15 = black_white
+		10 = black_indigenous
+	
+	}
+}

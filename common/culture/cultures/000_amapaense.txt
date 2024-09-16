@@ -1,0 +1,51 @@
+﻿amapaense = {
+	color = { 47 70 156 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_cabano
+	language = language_amazonico
+	martial_custom = martial_custom_male_only
+	name_list = name_list_amapaense
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_seafaring
+		tradition_brazilian_cosmopolitanism
+		tradition_parochialism
+	}
+	
+	coa_gfx = {
+		amapaense_coa_gfx
+	}
+	building_gfx = {
+		amapaense_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_cabano_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		5 = arab
+		5 = amazonian
+		5 = byzantine
+		5 = caucasian
+		5 = mediterranean
+		10 = mesoamerican_yuto_aztec
+		10 = white_indigenous
+		10 = black_white
+		10 = white_asian
+		15 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

@@ -1,0 +1,42 @@
+﻿mopan_itza = {
+	color = { 165 254 128 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_maya
+	language = language_mopan_itza
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mopan_itza
+	
+	traditions = {
+		tradition_milpa
+		tradition_medicinal_plants
+		tradition_mystical_ancestors
+		tradition_staunch_traditionalists
+	}
+	
+	coa_gfx = {
+		mayan_group_gfx
+	}
+	building_gfx = {
+		mopan_itza_building_gfx
+		mayan_building_gfx #Architecture-style
+		native_mesoamerican_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_maya_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		mayan_clothes_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = mesoamerican_maya
+		25 = mesoamerican_yuto_aztec
+	
+	}
+}

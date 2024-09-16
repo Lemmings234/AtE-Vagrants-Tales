@@ -1,0 +1,38 @@
+﻿chinantec = {
+	color = { 24 134 173 }
+	
+	ethos = ethos_communal
+	heritage = heritage_mesoamerican
+	language = language_chinantec
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chinantec
+	
+	traditions = {
+		#TODO
+		tradition_medicinal_plants
+		tradition_religion_blending
+	}
+	
+	coa_gfx = {
+		mesoamerican_group_gfx
+	}
+	building_gfx = {
+		chinantec_building_gfx
+		native_mesoamerican_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_mesoamerican_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		25 = mesoamerican_yuto_aztec
+	
+	}
+}

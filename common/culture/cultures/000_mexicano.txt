@@ -1,0 +1,44 @@
+﻿mexicano = {
+	color = { 254 212 255 }
+	created = 350.1.1
+	history_loc_override = mexicano_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_mesoamerican
+	language = language_mexicatlahtolli
+	martial_custom = martial_custom_male_only
+	name_list = name_list_mexicano
+	
+	traditions = {
+		tradition_tlacolol
+		tradition_staunch_traditionalists
+		tradition_aztec_legacy
+		tradition_language_scholars
+	}
+	
+	coa_gfx = {
+		mesoamerican_group_gfx
+	}
+	building_gfx = {
+		mexicano_building_gfx
+		native_mesoamerican_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_mesoamerican_building_gfx
+		mesoamerican_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		25 = mesoamerican_yuto_aztec
+		1 = asian_southern_han
+		2 = asian_austronesian
+		2 = multiracial
+	
+	}
+}

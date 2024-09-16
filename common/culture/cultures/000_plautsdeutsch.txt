@@ -1,0 +1,42 @@
+﻿plautsdeutsch = { #canada
+	color = { 153 153 102 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_mennonite
+	language = language_plautdietsch
+	martial_custom = martial_custom_male_only
+	name_list = name_list_plautsdeutsch
+	
+	traditions = {
+		tradition_isolationist
+		tradition_pacifism
+		tradition_modest
+		tradition_diasporic
+	}
+	
+	coa_gfx = {
+		plautsdeutsch_coa_gfx
+		amerodeutsch_group_gfx
+	}
+	building_gfx = {
+		plautsdeutsch_building_gfx
+		na_middle_building_gfx #Architecture-style-2
+		carpenter_building_gfx #Architecture-style
+		na_middle_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_mennonite_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		100 = caucasian
+	
+	}
+}

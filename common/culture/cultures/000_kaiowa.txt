@@ -1,0 +1,42 @@
+﻿kaiowa = {
+	color = { 247 74 98 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_guarani
+	language = language_kaiwa
+	martial_custom = martial_custom_male_only
+	name_list = name_list_kaiowa
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_materos
+		tradition_tribe_unity
+	}
+	
+	coa_gfx = {
+		kaiowa_coa_gfx
+		guarani_group_gfx
+	}
+	building_gfx = {
+		kaiowa_building_gfx
+		chaco_building_gfx #Architecture-style
+		native_austral_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_guarani_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		amerindian_headband_gfx
+		african_clothing_gfx	   
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		70 = amazonian
+		30 = mesoamerican_yuto_aztec
+	
+	}
+}

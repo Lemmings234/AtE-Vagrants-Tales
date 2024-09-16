@@ -1,0 +1,60 @@
+﻿name_list_kiche = {
+
+    male_names = { 
+		A_pst_Ciliz A_pst_Tabai Ac_Yanto Acan Acantuns Acat Ah-Bolon-Abta Ah_Ahaual Ah_Cacao Ah_Kin Ah_Kinchil Ah_Mex Ah_Muzen_Cab Ah_Peku Ah_Puch Ah_Tabai Ah_Tzul Ah_Ulil Ah_Uuc_Ticab Ahau Ahau_Chamahez Ahmakiq Ahua Ajbit Ajtzak Akbal Akbit Alom An_i_act_bal Andr_e_act_s Ang_e_act_l Apoxpalon Armando Atl B_pst_alaj Bacabs Bahlam Balam Bernal Bitol Bolon_Ts_pst_akab Bolontiku Buluc Buluc_Chabtan Buluk_Kab Butz_Chan Bydo Caban Cabrakan Cacoch Cakulha Camazotz Cantzicnal Carlos Cauac Chaac Chaac_Uayab_Xoc Chac Chac-Xib-Chac Chacxibchac Chak_Tok_Ich_pst_aak Chan_Bahlum Chicahua Chiccan Chicchan Chicilkin Chin Chipahua Chocano Chuen Cib Cimi Cit-Bolon-Tum Cizin Cocijo Cocom Colop_U_Uichkin Coyopa Cozaana Crescencio Crescenio Cu_Ix Cualli Cuellar Cum_Hau Damil Eb Ek_Chauj Ek_Zip Ekahau Ekchuah Eliseo Etznab Eztli Gaspar Grijalva Gucumatz Gukumatz Hachak_pst_yum Harakan Hilario Hobnil Hosanek Hozanek Huehuetlotl Humberto Hun-Ahpu Hun-Apu Hun-Batz Hun-Came Hun-Chowen Hun-Ixim Hun_Choen Hun_Nal Hunac Hunac_Ceel Hunahpu-Gutch Hunahpu-Utiu Huracan Ich_pst_aak Ichik Ik Ikal Ikan Iktan Itzam_K_pst_an_Ahk Itzamatul Itzamna Itzamnaaj Itzananohk_pst_u Ix Ixbalanque Ixpiyacoc Izel Iztali Jacawitz Jacinto Jasaw Jose Juan K_pst_an-Ak K_pst_awiil K_pst_inich_Yo_pst_nal_Ahk Kabil Kaloomte_pst_ Kan Kan-Bahlum-Mo Kan-U-Uayeyab Kan_Boar Kauil Kinich_Ahau Kinich_Kakmo Kish Kisin Kooj Kukucan Kukulcan Kukulkan Lamat Luis Malah Mam Manik Manzanero Marcial Marcos Maxim_o_act_n Men Montejo Muluc Muyal Nacon Namox Napuc Napuc_Chi Ndan Necahual Nohochacyum Nuracan Oc Ometecuhtli Pacal Pacal_Balam Papan Paxbolonacha Polo Popol_Hol Q_pst_uq_pst_umatz Qaholom Ramiro Saccimi Sak-Lu Siyaj Siyaj_K_pst_ak Sober_o_act_n Sotz Tabscoob Tajal_Chan_Ahk Tec_u_act_ Tepeu Teyacapan Tohil Tutul_Xiu Vatanchu Votan Vucab-Caquix Vucub Waaw Wayaan Xaman Xaman_Ek Xbalanque Xcarruchan Xipe_Totec Xipil Xpiayoc Xul Yaluk Yaotl Yax_Cocay_Mut Yax_Kuk_Mo Yax_Nuun_Ayiin Yax_Pac Yaxun_Balam Yich_pst_aak_B_pst_alam Yik_pst_in Yochi Yum_Kaax Zipacna Zotz Zyanya 
+	}
+    female_names = { 
+		Akhushtal Akna Alaghom-Naom Amoxtli Ana Anel Aryanna Auilix Aurore Avilix Awilix Belachina Bulu_pst_ Camilla Carmen Chachiuitl Chalchiuhtlicue Chel Chihuaton Chimalmat Citlali Citlamina Colel_Cab Corina Coszcatl Cualli Daniela Dolores Elena Eleuia Eme Emetaly Gisela Huichaana Ichika Ichtaca Ihuicatl Ik_pst__Skull Iktan Ileana Imix Inka Isabella Itotia Itzamatul Itzel Iuitl Ix_Chel Ix_Chup Ix_Tub_Tun Ixazaluoh Ixchel Ixmucane Ixtab Ixtel Ixtli Izta Juliza Kaina Kalajuun Kalucha Kisa Lamat Mahaway Maria Mbaz Mecatl Meztli Mse Muwaan_Mat Nai Nakin Naylay Nelli Nenetl Nikaj Nimah Nimla Noonsa Ol_Ik_pst_nal Oyama Patli Pichanto Ramona Raxka Rigoberta Rosalina Sacnite Sof_i_act_a Tecuith Tepin Teresita Tlalli Tonalnan Une_pst__B_pst_alam Wak_Chanil_Ajaw Xbaquiyalo Xeni Xmucane Xoc Xochitl Xoco Xquic Yamanik Yatzil Yoltzin Yudelle Zac_Kuk Zamora Zeltzin Zyanya 
+	}
+    dynasty_names = { 
+		"dynn_Chan"
+		"dynn_Oxlaj"
+		"dynn_Sulub"
+		"dynn_Tamay"
+		"dynn_Tamayo"
+		"dynn_Tax"
+		"dynn_Tec"
+		"dynn_Tep"
+		"dynn_Trava"
+		"dynn_Trujeque"
+		"dynn_Tun"
+		"dynn_Tuyub"
+		"dynn_Tuz"
+		"dynn_Tzuc"
+		"dynn_Uc"
+	}
+    cadet_dynasty_names = { 
+		"dynn_Chan"
+		"dynn_Oxlaj"
+		"dynn_Sulub"
+		"dynn_Tamay"
+		"dynn_Tamayo"
+		"dynn_Tax"
+		"dynn_Tec"
+		"dynn_Tep"
+		"dynn_Trava"
+		"dynn_Trujeque"
+		"dynn_Tun"
+		"dynn_Tuyub"
+		"dynn_Tuz"
+		"dynn_Tzuc"
+		"dynn_Uc"
+	}
+        
+    dynasty_of_location_prefix = ""
+    bastard_dynasty_prefix = ""
+    patronym_suffix_male = ""
+    patronym_suffix_female = ""
+        
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 25
+    mat_grm_name_chance = 25
+    mother_name_chance = 0
+        
+    mercenary_names = {
+            
+    }
+        
+}

@@ -1,0 +1,58 @@
+﻿paulista = {
+	color = { 68 184 120  }
+	created = 2066.1.1
+	parents = { paulistano }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_paulistanico
+	language = language_caipira
+	martial_custom = martial_custom_male_only
+	name_list = name_list_paulista
+	
+	traditions = {
+		tradition_mercenary_soccer
+		tradition_coffee_making
+		tradition_agrarian
+		tradition_hillsea_riders
+		tradition_brazilian_cosmopolitanism
+	}
+	
+	coa_gfx = {
+		paulista_coa_gfx
+		sudestino_group_gfx
+		cafe_com_leite_group_gfx
+	}
+	building_gfx = {
+		paulista_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_paulistanico_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		mauricinho_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		5 = arab
+		3 = asian
+		2 = asian_southeast_asian
+		3 = byzantine
+		15 = caucasian
+		30 = mediterranean
+		2 = slavic
+		2 = mesoamerican_yuto_aztec
+		10 = black_white
+		2 = white_asian
+		3 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

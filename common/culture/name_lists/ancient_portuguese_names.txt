@@ -1,0 +1,23 @@
+﻿name_list_ancient_portuguese = {
+        male_names = { Abril Afonso Aires Aloito A_lvaro AndrE_ Arualdo Aurovelido BerengA_rio Bermudo Bernardo Dinis Diogo DurA_o Egas EstE_vA_o FernA_o Fernando Galindo Garcia Geraldo Gil Godinho Gomes GonC_alo Gondesendo Guilherme Guterre Heitor Henrique Hermenegildo HermI_gio JoA_o Lopo LourenC_o Lovesendo Lucidio Manuel Martim Martinho Mem Mendo Monio MourA_o Muno Nuno Ordonho Paio Pedro Pero PO_ncio Raimundo Ramiro Roberto Rodrigo Rui Sancho SebastiA_o Sisnando Soeiro Trastemiro Vasco Vela Vicente Xelmirio }
+        female_names = { Adosinda Alda Aldara AldonC_a Aragunta Ausenda Beatriz BerengA_ria Branca Brites Catarina Chamoa Clara ConstanC_a Cristina Domingas DO_rdia Dulce Elvira Emisu Ermesinda Estevainha EstefA_nia Eva Fruilhe Geralda GonC_inha Goda Goina Goldregodo Gontinha Gontroda Guiomar Ilduara InE_s Isabel Joana LeodegU_ndia Leonor Loba LU_cia Mafalda Margarida Maria Marinha Marquesa ME_cia MI_lia Moninha Mor Mumadona Onega Ouroana Ourtigueira Sancha Senhorinha Teresa Toda Tota Trodilde Unisco Urraca Usco Velasquida Violante Vivili Ximena }
+        dynasty_names = { "{" "dynnp_de" "dynn_Coimbra" }
+        cadet_dynasty_names = { "{" "dynnp_de" "dynn_Coimbra" }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = "dynnpat_suf_es"
+        patronym_suffix_female = "dynnpat_suf_es"
+        
+        pat_grf_name_chance = 55
+        mat_grf_name_chance = 5
+        father_name_chance = 30
+        pat_grm_name_chance = 60
+        mat_grm_name_chance = 15
+        mother_name_chance = 15
+        
+        mercenary_names = {
+            { name = mercenary_company_counts_exiles }
+        }
+        
+}

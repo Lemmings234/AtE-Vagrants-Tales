@@ -1,0 +1,47 @@
+﻿pataxo = {
+	color = { 168 114 63 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_costeiro
+	language = language_baiano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_pataxo
+	
+	traditions = {
+		tradition_longbow_competitions
+		tradition_brazilian_cosmopolitanism
+		tradition_wedding_ceremonies
+		tradition_warriors_by_merit
+	}
+	
+	coa_gfx = {
+		pataxo_coa_gfx
+		estino_group_gfx
+	}
+	building_gfx = {
+		pataxo_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_costeiro_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		amerindian_headband_gfx
+		estino_group_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		5 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		5 = black_indigenous
+		50 = med_black_ind
+	
+	}
+}

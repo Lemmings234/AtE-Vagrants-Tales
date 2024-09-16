@@ -1,0 +1,51 @@
+﻿yopara = {
+	color = { 158 192 255 }
+	created = 2066.1.1
+	parents = { nhandeva litoraleno }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_platense
+	language = language_yopara
+	martial_custom = martial_custom_male_only
+	name_list = name_list_yopara
+	
+	traditions = {
+		#TODO
+		tradition_gaucho_legacy
+		tradition_materos
+		tradition_zealous_people
+		tradition_concubines
+	}
+	
+	coa_gfx = {
+		yopara_coa_gfx
+		guarani_group_gfx
+	}
+	building_gfx = {
+		yopara_building_gfx
+		platinean_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_platense_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx	
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = asian
+		5 = arab
+		5 = amazonian
+		1 = asian_southern_han
+		5 = caucasian
+		60 = med_black_ind
+		25 = mediterranean
+		5 = black_white
+	
+	}
+}

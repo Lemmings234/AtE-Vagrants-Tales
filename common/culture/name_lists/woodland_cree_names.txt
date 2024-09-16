@@ -1,0 +1,23 @@
+﻿name_list_woodland_cree = {
+        male_names = { Ac_a_hat_hkos Cw_a_hat_n K_o_hat_na Mahihkan Mahk_i_hat_s_i_hat_s Maskwa Mikisiw P_i_hat_htokah_a_hat_napiwiyin Payipw_a_hat_t S_a_hat_k_a_hat_st_i_hat_w Sihkos Tipisk_a_hat_w W_a_hat_pisiw W_a_hat_pos }
+        female_names = { A_hat_niy Ac_a_hat_hkos E_hat_miliy M_e_hat_riwa Mahk_i_hat_s_i_hat_s Nit_a_hat_nis P_i_hat_sim S_a_hat_k_a_hat_st_i_hat_w S_i_hat_kwan S_o_hat_san Sihkos W_a_hat_pan W_a_hat_pisiw W_a_hat_pos }
+        dynasty_names = { "dynn_Alook" "dynn_Aubichon" "dynn_Auger" "dynn_Badger" "dynn_Ballantyne" "dynn_Bear" "dynn_Bignell" "dynn_Billette" "dynn_Bird" "dynn_Bouvier" "dynn_Brightnose" "dynn_Bushie" "dynn_Cardinal" "dynn_Chalifoux" "dynn_Charles" "dynn_Chartier" "dynn_Cook" "dynn_Daigneault" "dynn_Durocher" "dynn_Eninew" "dynn_Grandjambe" "dynn_Halcrow" "dynn_Halkett" "dynn_Hart" "dynn_Herman" "dynn_Iron" "dynn_Janvier" "dynn_Laboucan" "dynn_Lathlin" "dynn_Lemaigre" "dynn_Letendre" "dynn_Linklater" "dynn_McCallum" "dynn_McDonald" "dynn_McDougall" "dynn_McIvor" "dynn_McKay" "dynn_McKenzie" "dynn_McLeod" "dynn_Merasty" "dynn_Mercredi" "dynn_Misponas" "dynn_Miswagon" "dynn_Montgrand" "dynn_Morin" "dynn_Murdock" "dynn_Muskego" "dynn_Nabess" "dynn_Natomagan" "dynn_Nokohoo" "dynn_Noskiye" "dynn_Okemow" "dynn_Opikokew" "dynn_Ratt" "dynn_Redhead" "dynn_Roberts" "dynn_Robillard" "dynn_Sanderson" "dynn_Sasakamoose" "dynn_Sawan" "dynn_Seeseequon" "dynn_Sewap" "dynn_Sewepagaham" "dynn_Sinclair" "dynn_Tallcree" "dynn_Thickfoot" "dynn_Thunder" "dynn_Vidal" "dynn_Weenusk" "dynn_Whitehead" "dynn_Willier" "dynn_Wiltzen" "dynn_Wood" }
+        cadet_dynasty_names = { "dynn_Alook" "dynn_Aubichon" "dynn_Auger" "dynn_Badger" "dynn_Ballantyne" "dynn_Bear" "dynn_Bignell" "dynn_Billette" "dynn_Bird" "dynn_Bouvier" "dynn_Brightnose" "dynn_Bushie" "dynn_Cardinal" "dynn_Chalifoux" "dynn_Charles" "dynn_Chartier" "dynn_Cook" "dynn_Daigneault" "dynn_Durocher" "dynn_Eninew" "dynn_Grandjambe" "dynn_Halcrow" "dynn_Halkett" "dynn_Hart" "dynn_Herman" "dynn_Iron" "dynn_Janvier" "dynn_Laboucan" "dynn_Lathlin" "dynn_Lemaigre" "dynn_Letendre" "dynn_Linklater" "dynn_McCallum" "dynn_McDonald" "dynn_McDougall" "dynn_McIvor" "dynn_McKay" "dynn_McKenzie" "dynn_McLeod" "dynn_Merasty" "dynn_Mercredi" "dynn_Misponas" "dynn_Miswagon" "dynn_Montgrand" "dynn_Morin" "dynn_Murdock" "dynn_Muskego" "dynn_Nabess" "dynn_Natomagan" "dynn_Nokohoo" "dynn_Noskiye" "dynn_Okemow" "dynn_Opikokew" "dynn_Ratt" "dynn_Redhead" "dynn_Roberts" "dynn_Robillard" "dynn_Sanderson" "dynn_Sasakamoose" "dynn_Sawan" "dynn_Seeseequon" "dynn_Sewap" "dynn_Sewepagaham" "dynn_Sinclair" "dynn_Tallcree" "dynn_Thickfoot" "dynn_Thunder" "dynn_Vidal" "dynn_Weenusk" "dynn_Whitehead" "dynn_Willier" "dynn_Wiltzen" "dynn_Wood" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+        mercenary_names = {
+            
+        }
+        
+}

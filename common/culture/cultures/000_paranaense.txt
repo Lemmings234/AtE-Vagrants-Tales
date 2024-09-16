@@ -1,0 +1,54 @@
+﻿paranaense = {
+	color = { 0 153 132 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_sulista
+	language = language_paranaense
+	martial_custom = martial_custom_male_only
+	name_list = name_list_paranaense
+	
+	traditions = {
+		tradition_xenophilic
+		tradition_hill_dwellers
+		tradition_forbearing
+		tradition_legalistic
+	}
+	
+	coa_gfx = {
+		paranaense_coa_gfx
+		sulista_group_gfx
+	}
+	building_gfx = {
+		paranaense_building_gfx
+		brazilian_subtropical_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_sulista_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		sulista_group_gfx
+		mauricinho_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		3 = african
+		1 = arab
+		5 = asian
+		30 = caucasian
+		1 = indian
+		25 = mediterranean
+		15 = slavic
+		1 = mesoamerican_yuto_aztec
+		5 = black_white
+		1 = white_asian
+		3 = black_indigenous
+		10 = med_black_ind
+	
+	}
+}

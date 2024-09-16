@@ -1,0 +1,1510 @@
+﻿### ATE DEV NOTE -
+## ANYTIME YOU ADD A HERITAGE GROUP OR FAMILY:
+## YOU MUST ADD THAT GROUP/FAMILY TO ccu_scripted_effects.txt
+
+heritage_amish = {
+    type = heritage
+    
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_amish
+		}
+	}
+    parameters = {
+        heritage_group_mennonite = yes
+        heritage_group_boswash = yes
+        heritage_family_mennonite_fam = yes
+    }
+    audio_parameter = european
+}
+
+heritage_andino = {
+    type = heritage
+
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_andino
+		}
+	}
+    parameters = {
+        heritage_group_andean = yes
+        heritage_group_peruvian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_anishinaabe = {
+    type = heritage
+
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_anishinaabe
+		}
+	}
+
+    parameters = {
+        heritage_group_northeast_woodlands = yes
+        heritage_group_lacustrine = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_arctic = {
+    type = heritage
+
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_arctic
+		}
+	}
+
+    parameters = {
+        heritage_group_arctic = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_aridomex = {
+    type = heritage
+
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_aridomex
+		}
+	}
+
+    parameters = {
+        heritage_group_southwest = yes
+        heritage_group_mexican = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_cariri = {
+    type = heritage
+
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_cariri
+		}
+	}
+
+    parameters = {
+        heritage_group_northeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_manguetowner = {
+    type = heritage
+    
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_manguetowner
+		}
+	}
+    parameters = {
+        heritage_group_northeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_atlantic_canadian = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_atlantic_canadian
+		}
+	}
+    parameters = {
+        heritage_group_eastern_canadian = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_austral = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_austral
+		}
+	}
+    parameters = {
+        heritage_group_patagonian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_bajo_peruano = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_bajo_peruano
+		}
+	}
+    parameters = {
+        heritage_group_peruvian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_boreal = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_boreal
+		}
+	}
+    parameters = {
+        heritage_group_great_white_north = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_cabano = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_cabano
+		}
+	}
+    parameters = {
+        heritage_group_northern_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_cafe_com_leite = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_cafe_com_leite
+		}
+	}
+    parameters = {
+        heritage_group_southeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_cahuilla = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_cahuilla
+		}
+	}
+    parameters = {
+        heritage_group_southwest = yes
+        heritage_group_californian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_californian_indigenous = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_californian_indigenous
+		}
+	}
+    parameters = {
+		heritage_group_western_coast = yes
+        heritage_group_californian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_canayen = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_canayen
+		}
+	}
+    parameters = {
+        heritage_group_eastern_canadian = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_centroamericano = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_centroamericano
+		}
+	}
+    parameters = {
+        heritage_group_isthmus = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_chacoan = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chacoan
+		}
+	}
+    parameters = {
+        heritage_group_chacoan = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_chileno = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chileno
+		}
+	}
+    parameters = {
+        heritage_group_chilean = yes
+        heritage_family_southern_cone = yes
+    }
+    audio_parameter = european
+}
+
+heritage_ciclico = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ciclico
+		}
+	}
+    parameters = {
+        heritage_group_northern_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_colombian = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_colombian
+		}
+	}
+    parameters = {
+        heritage_group_gran_colombian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_columbian = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_columbian
+		}
+	}
+    parameters = {
+        heritage_group_plateau = yes
+        heritage_group_columbian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_costeiro = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_costeiro
+		}
+	}
+    parameters = {
+        heritage_group_northeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_dead_pre_event = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dead_pre_event
+		}
+	}
+    parameters = {
+        heritage_group_lusitanian = yes
+        heritage_family_european = yes
+    }
+    audio_parameter = european
+}
+
+heritage_deep_south = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_deep_south
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_dene = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dene
+		}
+	}
+    parameters = {
+        heritage_group_subarctic = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_eastern_cree = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_eastern_cree
+		}
+	}
+    parameters = {
+        heritage_group_subarctic = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_ecuatoriano = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ecuatoriano
+		}
+	}
+    parameters = {
+        heritage_group_gran_colombian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_floridian = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_floridian
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_frontieran = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_frontieran
+		}
+	}
+    parameters = {
+        heritage_group_basin_and_range = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_gaucho = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_gaucho
+		}
+	}
+    parameters = {
+        heritage_group_banda_oriental = yes
+        heritage_family_southern_cone = yes
+    }
+    audio_parameter = european
+}
+
+heritage_geechee = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_geechee
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_great_basin = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_great_basin
+		}
+	}
+    parameters = {
+        heritage_group_southwest = yes
+        heritage_group_basin_and_range = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_greater_antillean = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_greater_antillean
+		}
+	}
+    parameters = {
+        heritage_group_caribbean = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_guyanan = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_guyanan
+		}
+	}
+    parameters = {
+        heritage_group_guyanese = yes
+        heritage_family_great_guyanese = yes
+    }
+    audio_parameter = european
+}
+
+heritage_honduran = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_honduran
+		}
+	}
+    parameters = {
+        heritage_group_indigisthmus = yes
+		heritage_family_isthmus = yes
+        heritage_family_mesoamerican = yes
+    }
+    audio_parameter = european
+}
+
+heritage_indigenous_colombian = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_indigenous_colombian
+		}
+	}
+    parameters = {
+        heritage_group_gran_colombian = yes
+        heritage_group_colombian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_indigenous_guyanan = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_indigenous_guyanan
+		}
+	}
+    parameters = {
+        heritage_group_shield = yes
+        heritage_group_guyanese = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_interior = {
+    type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_interior
+		}
+	}
+    parameters = {
+        heritage_group_plateau = yes
+        heritage_group_columbian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_japura_negro = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_japura_negro
+		}
+	}
+    parameters = {
+        heritage_group_amazonian = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_guarani = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_guarani
+		}
+	}
+    parameters = {
+        heritage_group_chacoan = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_guaicuru = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_guaicuru
+		}
+	}
+    parameters = {
+        heritage_group_chacoan = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_lakelander = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lakelander
+		}
+	}
+    parameters = {
+        heritage_group_lacustrine = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_laurentian = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_laurentian
+		}
+	}
+    parameters = {
+		heritage_group_lacustrine = yes
+        heritage_group_eastern_canadian = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_lesser_antillean = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lesser_antillean
+		}
+	}
+    parameters = {
+        heritage_group_caribbean = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_llanero = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_llanero
+		}
+	}
+    parameters = {
+        heritage_group_gran_colombian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_longhouse = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_longhouse
+		}
+	}
+    parameters = {
+		heritage_group_lacustrine = yes
+        heritage_group_northeast_woodlands = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_louisianais = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_louisianais
+		}
+	}
+    parameters = {
+        heritage_group_mississippian = yes
+        heritage_group_dixieland = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_lower_coast = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lower_coast
+		}
+	}
+    parameters = {
+        heritage_group_western_coast = yes
+        heritage_group_columbian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_lumbee = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lumbee
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_madeira_tapajos = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_madeira_tapajos
+		}
+	}
+    parameters = {
+        heritage_group_amazonian = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mapuche = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mapuche
+		}
+	}
+    parameters = {
+        heritage_group_mapuche = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_maranhense = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_maranhense
+		}
+	}
+    parameters = {
+        heritage_group_amazonian = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_maya = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_maya
+		}
+	}
+    parameters = {
+        heritage_group_mexican = yes
+		heritage_group_isthmus = yes
+        heritage_group_indigisthmus = yes
+        heritage_family_mesoamerican = yes
+		heritage_family_isthmus = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mennonite = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mennonite
+		}
+	}
+    parameters = {
+        heritage_group_mennonite = yes
+        heritage_group_great_plains = yes
+        heritage_family_mennonite_fam = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mesanglo = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mesanglo
+		}
+	}
+    parameters = {
+        heritage_group_isthmus = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mesoamerican = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mesoamerican
+		}
+	}
+    parameters = {
+        heritage_group_mexican = yes
+        heritage_family_mesoamerican = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mexonite = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mexonite
+		}
+	}
+    parameters = {
+        heritage_group_mennonite = yes
+        heritage_group_mexican = yes
+        heritage_family_mennonite_fam = yes
+    }
+    audio_parameter = european
+}
+
+heritage_mid_atlantic = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_mid_atlantic
+		}
+	}
+    parameters = {
+        heritage_group_boswash = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_midwestern = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_midwestern
+		}
+	}
+    parameters = {
+        heritage_group_great_plains = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_nazco = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_nazco
+		}
+	}
+    parameters = {
+        heritage_group_peruvian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_new_englander = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_new_englander
+		}
+	}
+    parameters = {
+        heritage_group_boswash = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_norcalifornine = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_norcalifornine
+		}
+	}
+    parameters = {
+        heritage_group_californian = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_north_pacific = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_north_pacific
+		}
+	}
+    parameters = {
+        heritage_group_columbian = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_northern_sertanejo = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northern_sertanejo
+		}
+	}
+    parameters = {
+        heritage_group_northeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_northlake = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northlake
+		}
+	}
+    parameters = {
+        heritage_group_lacustrine = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_novohispano = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_novohispano
+		}
+	}
+    parameters = {
+        heritage_group_mexican = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_old_south = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_old_south
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_orinocoan = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_orinocoan
+		}
+	}
+    parameters = {
+        heritage_group_shield = yes
+        heritage_group_guyanese = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_panamanian = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_panamanian
+		}
+	}
+    parameters = {
+        heritage_group_indigisthmus = yes
+		heritage_family_isthmus = yes
+        heritage_family_mesoamerican = yes
+    }
+    audio_parameter = european
+}
+
+heritage_patagon = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_patagon
+		}
+	}
+    parameters = {
+        heritage_group_patagonian = yes
+        heritage_family_southern_cone = yes
+    }
+    audio_parameter = european
+}
+
+heritage_paulistanico = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_paulistanico
+		}
+	}
+    parameters = {
+        heritage_group_southeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_peninsular = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_peninsular
+		}
+	}
+    parameters = {
+        heritage_group_chukotkan = yes
+        heritage_family_siberian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_plains = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_plains
+		}
+	}
+    parameters = {
+        heritage_group_plains_and_prairies = yes
+        heritage_group_great_plains = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_plains_sequoyan = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_plains_sequoyan
+		}
+	}
+    parameters = {
+        heritage_group_sequoyan = yes
+        heritage_group_great_plains = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_planalto = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_planalto
+		}
+	}
+    parameters = {
+        heritage_group_eastern_brazilian = yes
+        heritage_group_central_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_plateau = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_plateau
+		}
+	}
+    parameters = {
+        heritage_group_southwest = yes
+		heritage_group_basin_and_range = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_platense = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_platense
+		}
+	}
+    parameters = {
+        heritage_group_platine = yes
+        heritage_family_southern_cone = yes
+    }
+    audio_parameter = european
+}
+
+heritage_prairie = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_prairie
+		}
+	}
+    parameters = {
+        heritage_group_great_plains = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_riverine = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_riverine
+		}
+	}
+    parameters = {
+		heritage_group_dixieland = yes
+        heritage_group_mississippian = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_rockland = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_rockland
+		}
+	}
+    parameters = {
+        heritage_group_montane = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_roraiman = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_roraiman
+		}
+	}
+    parameters = {
+        heritage_group_shield = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_selvatico = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_selvatico
+		}
+	}
+    parameters = {
+        heritage_group_peruvian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_seminole = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_seminole
+		}
+	}
+    parameters = {
+        heritage_group_dixieland = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_serra_do_mar = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_serra_do_mar
+		}
+	}
+    parameters = {
+        heritage_group_southeast_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_shtetl = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_shtetl
+		}
+	}
+    parameters = {
+        heritage_group_boswash = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_sioux = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_sioux
+		}
+	}
+    parameters = {
+        heritage_group_plains_and_prairies = yes
+        heritage_group_great_plains = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_socalifornine = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_socalifornine
+		}
+	}
+    parameters = {
+        heritage_group_californian = yes
+        heritage_family_west_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_southeast_sequoyan = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_southeast_sequoyan
+		}
+	}
+    parameters = {
+        heritage_group_sequoyan = yes
+        heritage_group_great_plains = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_southern_amazonian = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_southern_amazonian
+		}
+	}
+    parameters = {
+        heritage_group_amazonian = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_spitzberger = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_spitzberger
+		}
+	}
+    parameters = {
+        heritage_group_archipelagic = yes
+        heritage_family_european = yes
+    }
+    audio_parameter = european
+}
+
+heritage_sulista = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_sulista
+		}
+	}
+    parameters = {
+        heritage_group_banda_oriental = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_tehuantepec = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tehuantepec
+		}
+	}
+    parameters = {
+        heritage_group_mexican = yes
+        heritage_family_mesoamerican = yes
+    }
+    audio_parameter = european
+}
+
+heritage_texan = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_texan
+		}
+	}
+    parameters = {
+        heritage_group_texan = yes
+        heritage_family_mountain_central = yes
+    }
+    audio_parameter = european
+}
+
+heritage_tocantins = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tocantins
+		}
+	}
+    parameters = {
+        heritage_group_eastern_brazilian = yes
+        heritage_group_central_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_upland = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_upland
+		}
+	}
+    parameters = {
+        heritage_group_trans_appalachian = yes
+        heritage_family_east_coast = yes
+    }
+    audio_parameter = european
+}
+
+heritage_upper_amazonian = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_upper_amazonian
+		}
+	}
+    parameters = {
+        heritage_group_amazonian = yes
+        heritage_group_northern_brazilian = yes
+        heritage_family_indigenous_sa = yes
+    }
+    audio_parameter = european
+}
+
+heritage_upper_coast = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_upper_coast
+		}
+	}
+    parameters = {
+        heritage_group_western_coast = yes
+        heritage_group_columbian = yes
+        heritage_family_western_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_vaquero = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_vaquero
+		}
+	}
+    parameters = {
+        heritage_group_mexican = yes
+        heritage_family_central_american = yes
+    }
+    audio_parameter = european
+}
+
+heritage_venezuelan = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_venezuelan
+		}
+	}
+    parameters = {
+        heritage_group_gran_colombian = yes
+        heritage_family_bolivarian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_viejispano = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_viejispano
+		}
+	}
+    parameters = {
+        heritage_group_platine = yes
+        heritage_family_southern_cone = yes
+    }
+    audio_parameter = european
+}
+
+heritage_wabanaki = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_wabanaki
+		}
+	}
+    parameters = {
+        heritage_group_eastern_canadian = yes
+        heritage_group_northeast_woodlands = yes
+        heritage_family_eastern_indigenous = yes
+    }
+    audio_parameter = european
+}
+
+heritage_geraizeiro = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_geraizeiro
+		}
+	}
+    parameters = {
+        heritage_group_northeast_brazilian = yes
+        heritage_group_central_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}
+
+heritage_western_sertanejo = {
+    type = heritage
+    is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_western_sertanejo
+		}
+	}
+    parameters = {
+        heritage_group_central_brazilian = yes
+        heritage_family_brazilian = yes
+    }
+    audio_parameter = european
+}

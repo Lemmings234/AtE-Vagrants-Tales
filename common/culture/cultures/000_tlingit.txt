@@ -1,0 +1,48 @@
+﻿tlingit = {
+	color = { 254 82 18 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_upper_coast
+	language = language_tlingit
+	martial_custom = martial_custom_male_only
+	name_list = name_list_tlingit
+	
+	traditions = {
+		tradition_bentwood_crafts
+		tradition_potlatch
+		tradition_female_only_inheritance
+	}
+	dlc_tradition = {
+		trait = tradition_artisans
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		northwest_coast_group_gfx
+	}
+	building_gfx = {
+		tlingit_building_gfx
+		pnw_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_upper_coast_building_gfx
+		western_building_gfx
+		norse_building_gfx
+		nwc_building_gfx
+		pnw_building_gfx
+	}
+	clothing_gfx = {
+		northwest_coast_group_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = northwest
+		25 = white_indigenous
+	
+	}
+}

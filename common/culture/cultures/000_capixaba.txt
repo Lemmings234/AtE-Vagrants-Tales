@@ -1,0 +1,51 @@
+﻿capixaba = {
+	color = { 149 0 168 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_serra_do_mar
+	language = language_fluminense
+	martial_custom = martial_custom_equal
+	name_list = name_list_capixaba
+	
+	traditions = {
+		#TODO
+		tradition_exotic_plantations
+		tradition_brazilian_cosmopolitanism
+		tradition_castle_keepers
+	}
+	
+	coa_gfx = {
+		capixaba_coa_gfx
+		sudestino_group_gfx
+		cafe_com_leite_group_gfx
+	}
+	building_gfx = {
+		capixaba_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_serra_do_mar_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		malandro_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		8 = african
+		5 = arab
+		12 = caucasian
+		25 = mediterranean
+		5 = mesoamerican_yuto_aztec
+		20 = black_white
+		1 = white_asian
+		5 = black_indigenous
+		15 = med_black_ind
+	
+	}
+}

@@ -1,0 +1,49 @@
+﻿acreano = {
+	color = { 23 87 48 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_ciclico
+	language = language_amazonico
+	martial_custom = martial_custom_male_only
+	name_list = name_list_acreano
+	
+	traditions = {
+		tradition_deep_jungle_dwellers
+		tradition_legalistic
+		tradition_family_entrepreneurship
+		tradition_talent_acquisition
+	}
+	
+	coa_gfx = {
+		acreano_coa_gfx
+	}
+	building_gfx = {
+		acreano_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_ciclico_building_gfx
+		mediterranean_building_gfx
+		amazonico_building_gfx
+		amazonian_tribal_gfx
+	}
+	clothing_gfx = {
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = african
+		20 = caucasian
+		1 = indian
+		40 = mediterranean
+		15 = amazonian
+		10 = mesoamerican_yuto_aztec
+		5 = white_indigenous
+		5 = med_black_ind
+	
+	}
+}

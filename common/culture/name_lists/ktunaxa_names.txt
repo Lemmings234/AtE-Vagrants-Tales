@@ -1,0 +1,149 @@
+﻿name_list_ktunaxa = {
+
+	#compiled by Kayos, Lahom
+
+	male_names = {
+		Ak_pst_atli_pst_it Akam Akatli_pst_it Akaxapktli Akaxapqtli Akikq_pst_tlatla_pst_mi Akinq_pst_uku Aknuqtlutlam_pst_ Aknuqtluxunatit Aktlaxwiy Aktlu Akuwatlwu_pst_k Akwuktli_pst_it Aq_pst_uxmatli_pst_it_T_pst_awu Aqank_pst_atlmukwatiyi_pst_is_Numa Aqawxatl At Ats_pst_pu Ax
+		Cha_pst_lie Cha_pst_lie_Kyaqkatluk Chad_Itlkitlwi
+		Don_Tsmak_pst_qa Dug
+		Himu
+		Initska Initswum Inmak_pst_s Intsuk_pst_ Inuya
+		Jad_Aniki Jason_Ts_pst_itl Jo
+		K_pst_antsupu_pst_s K_pst_is_Kaqtlikxatli_pst_tit K_pst_isits_pst_qatl K_pst_ustit_pst_ Ka_pst_son Kakin_Tawu Kamqu_pst_qukutsliyamu Kanusq_pst_upak Kaqtlikxatliytit Kats_Kats Kaxax Kik_pst_um Kit_pst_ikika Kitlq_pst_atltli Ktlawtla Ku Ku Kupi Kyak_pst_akutat Kyanukxu Kyaq_pst_nukat Kyaqkatluk Kyatlti_pst_tlmak_pst_
+		Luk_Tsmak_pst_itlwi
+		Mak Mat_pst_qutl Mayuk
+		Namqatku Natlmuqtsin Naxni Nik_Wakuks Nisnap Nitlksaq_pst_ Nitlsik Nitluk_pst_p Nupqu
+		Pen Piq Pit Pop_Anan_pst_
+		Q_pst_uq_pst_ni Qaspitluk Qukin Ququski
+		Ray_Watak
+		Sina Skinkuts Swa_pst_ Swaq_pst_mu
+		T_pst_awats_pst_ikxu Tak_pst_ats Tan Titlna_pst_ku Tlu Ts_pst_uts_pst_u_Ha_pst_son Tsiiqu Tsik_pst_ku_Ko_pst_i Tsmak_pst_qa Tsu_Tsu Tsuk_pst_utiatl Tsuptsi
+		Upat_pst_
+		Wad_Kyannik_pst_in Wakuks Watak Waxwik_pst_ Witlmatl Witlnuqtli_pst_it
+		Xa_Xa Xatltsin
+		Yamakpatl Yuwat_pst_
+	}
+	female_names = {
+		A_pst_q_pst_uktlupqa Akatli_pst_it Akaxapqtli Akikq_pst_antstla_pst_in Akikq_pst_tlatla_pst_mi Akink_pst_umatla_pst_swu_pst_k Akitlq_pst_atlukpwa Aknuqtluxunatit Aktlaxwiy Aktlu Akuktlakuwum Alisa_Kyanuqtlumna An_An Aq_pst_ants_pst_tla_pst_in Aqawxatl Atlaw
+		Cha_pst_lin
+		Initska Initswum Inq_pst_am Intsuk_pst_ Inut_pst_ki Inuya
+		Josie_A_pst_kik_pst_aqutlmiyit
+		Kaq_pst_yun Karen Katlka_Akts_pst_ika_pst_is Katsamak Kili_Kupi Kollie_Itlkitlwi Kqanatsq_pst_ahi Kulilu Kyanuqtlumna
+		Maggie Mat_pst_qutl Mata Mayuk Mek_Kyaqkatluk Mits_pst_qaqas
+		Nam Naqamtsu Natisatl Natlmit_pst_ Naxni Nuktsaqtlitl Nuqtlunkupi Nutluqat
+		Piq
+		Q_pst_utlwa Q_pst_utsats Qukin
+		Sand_pst_a_Q_pst_utsats Sina Skinkuts
+		T_pst_anquts Tak_pst_ats Tlu_pst_unana Ts_pst_iq_pst_tla_Pep Tsa_Tsa Tsatamanana Tsawu Tsik_pst_ku Tsik_pst_ku_No_pst_ma Tsik_pst_nuswit Tsik_pst_tla Tsu-Tsu_Cha_pst_lin Tsu_Tsu Tsuk_pst_unkana Tsupku Tsupqa
+		Wakuks Witlnuqtli_pst_it Wits_Wits
+		Xa_Xa
+		Yaminqan Yik_pst_tsna Yuwat_pst_
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Aimsback"
+		"dynn_Allard"
+		"dynn_Andrew"
+		"dynn_Basil"
+		"dynn_Birdstone"
+		"dynn_Blood"
+		"dynn_Charlo"
+		"dynn_Clairmont"
+		"dynn_Clement"
+		"dynn_Courville"
+		"dynn_Dumontier"
+		"dynn_Durglo"
+		"dynn_Dust"
+		"dynn_Gorrie"
+		"dynn_Gravelle"
+		"dynn_Highwind"
+		"dynn_Horsethief"
+		"dynn_Ignatius"
+		"dynn_Janvier"
+		"dynn_Jimmy"
+		"dynn_Joseph"
+		"dynn_Kallowat"
+		"dynn_Louie"
+		"dynn_Luke"
+		"dynn_Mahseelah"
+		"dynn_Matt"
+		"dynn_Michel"
+		"dynn_Morigeau"
+		"dynn_Nicholas"
+		"dynn_Pierre"
+		"dynn_Sam"
+		"dynn_Scout"
+		"dynn_Sebastian"
+		"dynn_Sharbono"
+		"dynn_Shottanana"
+		"dynn_Suttie"
+		"dynn_Teneese"
+		"dynn_Thomas"
+		"dynn_Twigg"
+		"dynn_Whitehead"
+	}
+	dynasty_names = {
+		"dynn_Aimsback"
+		"dynn_Allard"
+		"dynn_Andrew"
+		"dynn_Basil"
+		"dynn_Birdstone"
+		"dynn_Blood"
+		"dynn_Charlo"
+		"dynn_Clairmont"
+		"dynn_Clement"
+		"dynn_Courville"
+		"dynn_Dumontier"
+		"dynn_Durglo"
+		"dynn_Dust"
+		"dynn_Gorrie"
+		"dynn_Gravelle"
+		"dynn_Highwind"
+		"dynn_Horsethief"
+		"dynn_Ignatius"
+		"dynn_Janvier"
+		"dynn_Jimmy"
+		"dynn_Joseph"
+		"dynn_Kallowat"
+		"dynn_Louie"
+		"dynn_Luke"
+		"dynn_Mahseelah"
+		"dynn_Matt"
+		"dynn_Michel"
+		"dynn_Morigeau"
+		"dynn_Nicholas"
+		"dynn_Pierre"
+		"dynn_Sam"
+		"dynn_Scout"
+		"dynn_Sebastian"
+		"dynn_Sharbono"
+		"dynn_Shottanana"
+		"dynn_Suttie"
+		"dynn_Teneese"
+		"dynn_Thomas"
+		"dynn_Twigg"
+		"dynn_Whitehead"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+	
+	mercenary_names = {
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+	
+}

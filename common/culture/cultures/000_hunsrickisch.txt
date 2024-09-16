@@ -1,0 +1,50 @@
+﻿hunsrickisch = {
+	color = { 22 130 196 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_sulista
+	language = language_hunsruckisch
+	martial_custom = martial_custom_male_only
+	name_list = name_list_hunsrickisch
+	
+	traditions = {
+		tradition_hard_working
+		tradition_staunch_traditionalists
+		tradition_talent_acquisition
+		tradition_brewmasters
+	}
+	
+	coa_gfx = {
+		hunsrickisch_coa_gfx
+		sulista_group_gfx
+	}
+	building_gfx = {
+		hunsrickisch_building_gfx
+		brazilian_subtropical_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_sulista_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		sulista_group_gfx
+		#mauricinho_clothing_gfx
+		northern_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = byzantine
+		60 = caucasian
+		10 = mediterranean
+		15 = slavic
+		1 = mesoamerican_yuto_aztec
+		2 = black_white
+		2 = med_black_ind
+	
+	}
+}

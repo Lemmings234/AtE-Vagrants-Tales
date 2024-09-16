@@ -1,0 +1,49 @@
+﻿litoraleno = {
+	color = { 124 186 255 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_platense
+	language = language_rioplatense
+	martial_custom = martial_custom_male_only
+	name_list = name_list_litoraleno
+	
+	traditions = {
+		#TODO
+		tradition_mercenary_soccer
+		tradition_gaucho_legacy
+		tradition_agrarian
+		tradition_materos
+	}
+	
+	coa_gfx = {
+		litoraleno_coa_gfx
+		rioplatense_group_gfx
+	}
+	building_gfx = {
+		litoraleno_building_gfx
+		platinean_building_gfx #Architecture-style
+		sa_south_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_platense_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		rioplatense_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = arab
+		2 = asian
+		15 = caucasian
+		41 = mediterranean
+		5 = slavic
+		5 = amazonian
+		25 = mesoamerican_yuto_aztec
+		5 = white_indigenous	
+	}
+}

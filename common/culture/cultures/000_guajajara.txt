@@ -1,0 +1,45 @@
+﻿guajajara = {
+	color = { 124 102 183 }
+	
+	ethos = ethos_communal
+	heritage = heritage_maranhense
+	language = language_tenetehara
+	martial_custom = martial_custom_male_only
+	name_list = name_list_guajajara
+	
+	traditions = {
+		tradition_jungle_dwellers
+		tradition_collective_lands
+		tradition_stalwart_defenders
+		tradition_equal_inheritance
+	}
+	
+	coa_gfx = {
+		guajajara_coa_gfx
+		xingu_group_gfx
+	}
+	building_gfx = {
+		guajajara_building_gfx
+		brazilian_equatorial_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_maranhense_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amazonian
+		10 = mesoamerican_yuto_aztec
+		10 = black_indigenous
+		5 = med_black_ind
+	
+	}
+}

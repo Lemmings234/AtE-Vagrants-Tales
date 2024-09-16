@@ -1,0 +1,57 @@
+﻿canuck = {
+	color = { 19 73 94 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_north_pacific
+	language = language_transcascadian
+	martial_custom = martial_custom_equal
+	name_list = name_list_canuck
+	
+	traditions = {
+		tradition_cosmopolitan_elitism
+		tradition_xenophilic
+		tradition_forest_folk
+		tradition_seafaring
+	}
+	
+	coa_gfx = {
+		canuck_coa_gfx
+		north_pacific_group_gfx
+	}
+	building_gfx = {
+		canuck_building_gfx
+		cascadian_building_gfx #Style
+		frontier_building_gfx #Super-style
+		heritage_north_pacific_building_gfx
+		western_building_gfx
+		nwc_building_gfx
+	}
+	clothing_gfx = {
+		canuck_clothing_gfx
+		canadian_clothing_gfx
+		#fp1_norse_clothing_gfx
+		#western_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		3 = african
+		10 = asian
+		3 = arab
+		10 = asian_southern_han
+		5 = asian_southeast_asian
+		7 = white_asian
+		25 = caucasian
+		20 = indian
+		8 = south_indian
+		5 = northwest
+		5 = asian_austronesian
+		3 = mediterranean
+		5 = amerindian
+		2 = mesoamerican_yuto_aztec
+	
+	}
+}

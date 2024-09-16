@@ -1,0 +1,240 @@
+﻿name_list_chinantec = {
+
+	#compiled by Lahom
+
+	male_names = {
+		Bale Basi Beto Binei Bisein Bito B_i_act_ Boniju_o_stk_
+		Cu Cu_u_act_ Che Chibirein Chimion Chibele Chide Chid_e_act_nh Chif_e_act_ Chif_i_act_nh Chij_a_act_i Chilia Chimong Chineco Chipang Chis_e_act_h Chisien Chi_o_act_h Chiug
+		Dang Do Dr_i_act_ D_u_act_ Dsanie Dsunia Dsupe
+		Fe Fei
+		Gab_o_act_ Go Gutein
+		Halo
+		Jeron J_e_act_in Jira Jlo Joo Julien Ju_o_stk_n
+		Lijan Li_u_act_n L_o_stk_i
+		Ma Mac_a_act_ih Man_o_stk_ Marai Marin Masi_a_act_ Mas_o_stk_a Mati Mat_o_stk_a Mecio Midse Miguie Mit_e_act_h Mi Mong Muehme_uml_h
+		Ni_a_act_h
+		Palon Pato Patrai Palia P_a_act_ng Pes_o_sta_a Pi Porfi
+		R_o_stk_ca R_o_stk_fein R_o_stk_sen
+		Saa Sabein Sai Salva S_e_act_ Seh Simo Siri S_o_stk_ S_o_stk_bar_i_act_ S_o_stk_bacho S_o_stk_bale S_o_stk_b_a_act_h S_o_stk_be S_o_stk_beto S_o_stk_bei S_o_stk_bein S_o_stk_brang S_o_stk_ca S_o_stk_c_a_act_ S_o_stk_cacio S_o_stk_chico S_o_stk_chi_a_act_ng S_o_stk_die S_o_stk_do S_o_stk_dole S_o_stk_don S_o_stk_d_o_sta_a S_o_stk_d_u_act_h S_o_stk_dre S_o_stk_fre S_o_stk_gil S_o_stk_gui_i_act_ S_o_stk_guiah S_o_stk_h_o_act_ S_o_stk_hang S_o_stk_i_e_act_ S_o_stk_j_e_act_n S_o_stk_ju_o_stk_n S_o_stk_l_o_stk_i S_o_stk_lie S_o_stk_lien S_o_stk_lio S_o_stk_liog S_o_stk_lijan S_o_stk_lino S_o_stk_lo S_o_stk_m_i_act_ S_o_stk_ma S_o_stk_mang S_o_stk_marai S_o_stk_mei S_o_stk_naco S_o_stk_neto S_o_stk_ngioh S_o_stk_p_o_act_ S_o_stk_pla S_o_stk_po S_o_stk_qu_i_act_e S_o_stk_quele S_o_stk_qui_e_act_ S_o_stk_rain S_o_stk_rigo S_o_stk_rito S_o_stk_siun S_o_stk_t_e_act_n S_o_stk_t_o_act_n S_o_stk_ta S_o_stk_taco S_o_stk_tein S_o_stk_u S_o_stk_vito S_o_stk_a
+		T_e_act_ Tein Tibeih Tibog Tio Toma Tur_i_act_nh
+	}
+	female_names = {
+		Beca Beti Bin
+		Chame Chi Chijni_o_act_h Chibelina Chibi Chicas_e_act_ Chieva Chig_a_act_in Chihelia Chih_i_act_h Chijein Chijola Chilena Chilein Chili Chili_a_act_nh Chilin Chimata Chimar_i_act_a Chim_e_act_ Chimi Chimica Chirang Chisilvia Chitina
+		Dela
+		Fi
+		Guiibira Guiibito Guiib_i_act_n Guiichion Guiicr_o_sta_g Guiida Guiidina Guiidsie Guiifin Guiigi Guiihan Guiihema Guiih_i_act_ Guiijlo Guiijule Guiijuana Guiilein Guiilen Guiili Guiilicia Guiilie Guiili_o_act_g Guiilola Guiil_o_stk_i Guiima Guiime Guiimei Guiimi Guiim_o_sta_ Guiin_a_act_ng Guiin_i_act_h Guiipa Guiipe Guiirai Guiirain Guiisai Guiisita Guiisiun Guiitele Guiitei Guiiure
+		Him_a_act_
+		J_e_act_lica Juu Judi
+		Leti Lien Ling Liug Luc_i_act_
+		Mac_a_act_ M_i_act_ Mil_e_act_in Mis_o_stk_a Mong M_o_stk_cl_a_act_h
+		Ne
+		Pati
+		Ro
+		Sabe Sa Sabin
+		Tani_a_act_h Tam_i_act_ Tron Tuma
+		Us_o_stk_a
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Alejandro"
+		"dynn_Antonio"
+		"dynn_Aquino"
+		"dynn_Avenda_n_tld_o"
+		"dynn_Azamar"
+		"dynn_Beltr_a_act_n"
+		"dynn_Ben_i_act_tez"
+		"dynn_Bernardino"
+		"dynn_Bola_n_tld_os"
+		"dynn_Bravo"
+		"dynn_Cabrera"
+		"dynn_Cano"
+		"dynn_Cobos"
+		"dynn_Cort_i_act_nez"
+		"dynn_Cuevas"
+		"dynn_Delf_i_act_n"
+		"dynn_Dolores"
+		"dynn_Dur_a_act_n"
+		"dynn_Enamorado"
+		"dynn_Esper_o_act_n"
+		"dynn_Esteban"
+		"dynn_Estrada"
+		"dynn_Eufracio"
+		"dynn_Eulogio"
+		"dynn_Felipe"
+		"dynn_Fent_a_act_nez"
+		"dynn_Francisco"
+		"dynn_Gallegos"
+		"dynn_Gorgonio"
+		"dynn_Gregorio"
+		"dynn_Higareda"
+		"dynn_Huantes"
+		"dynn_Illescas"
+		"dynn_Isidro"
+		"dynn_Jacinto"
+		"dynn_Jer_o_act_nimo"
+		"dynn_Jorge"
+		"dynn_Jos_e_act_"
+		"dynn_Juli_a_act_n"
+		"dynn_L_a_act_scarez"
+		"dynn_Lara"
+		"dynn_Lavida"
+		"dynn_Leyva"
+		"dynn_Luna"
+		"dynn_M_e_act_ndez"
+		"dynn_Malpica"
+		"dynn_Manzano"
+		"dynn_Margarito"
+		"dynn_Mariano"
+		"dynn_Mariscal"
+		"dynn_Medina"
+		"dynn_Mellado"
+		"dynn_Monta_n_tld_o"
+		"dynn_Montiel"
+		"dynn_Mora"
+		"dynn_Moreno"
+		"dynn_N_u_act__n_tld_ez"
+		"dynn_Negrete"
+		"dynn_Oropeza"
+		"dynn_Orosco"
+		"dynn_Pablo"
+		"dynn_Palacios"
+		"dynn_Palestino"
+		"dynn_Parra"
+		"dynn_Pascual"
+		"dynn_Patricio"
+		"dynn_Paz"
+		"dynn_Pioquinto"
+		"dynn_Quero"
+		"dynn_Quintero"
+		"dynn_Ram_o_act_n"
+		"dynn_Rico"
+		"dynn_Ronquillo"
+		"dynn_Rosas"
+		"dynn_Salom_o_act_n"
+		"dynn_Salvador"
+		"dynn_Sarabia"
+		"dynn_Sarmiento"
+		"dynn_Sebasti_a_act_n"
+		"dynn_Severiano"
+		"dynn_Su_a_act_rez"
+		"dynn_Tello"
+		"dynn_Toribio"
+		"dynn_Uriarte"
+		"dynn_Utrera"
+		"dynn_Valdivia"
+		"dynn_Vidal"
+		"dynn_Yescas"
+		"dynn_Zavaleta"
+		"dynn_Zurita"
+	}
+	dynasty_names = {
+		"dynn_Alejandro"
+		"dynn_Antonio"
+		"dynn_Aquino"
+		"dynn_Avenda_n_tld_o"
+		"dynn_Azamar"
+		"dynn_Beltr_a_act_n"
+		"dynn_Ben_i_act_tez"
+		"dynn_Bernardino"
+		"dynn_Bola_n_tld_os"
+		"dynn_Bravo"
+		"dynn_Cabrera"
+		"dynn_Cano"
+		"dynn_Cobos"
+		"dynn_Cort_i_act_nez"
+		"dynn_Cuevas"
+		"dynn_Delf_i_act_n"
+		"dynn_Dolores"
+		"dynn_Dur_a_act_n"
+		"dynn_Enamorado"
+		"dynn_Esper_o_act_n"
+		"dynn_Esteban"
+		"dynn_Estrada"
+		"dynn_Eufracio"
+		"dynn_Eulogio"
+		"dynn_Felipe"
+		"dynn_Fent_a_act_nez"
+		"dynn_Francisco"
+		"dynn_Gallegos"
+		"dynn_Gorgonio"
+		"dynn_Gregorio"
+		"dynn_Higareda"
+		"dynn_Huantes"
+		"dynn_Illescas"
+		"dynn_Isidro"
+		"dynn_Jacinto"
+		"dynn_Jer_o_act_nimo"
+		"dynn_Jorge"
+		"dynn_Jos_e_act_"
+		"dynn_Juli_a_act_n"
+		"dynn_L_a_act_scarez"
+		"dynn_Lara"
+		"dynn_Lavida"
+		"dynn_Leyva"
+		"dynn_Luna"
+		"dynn_M_e_act_ndez"
+		"dynn_Malpica"
+		"dynn_Manzano"
+		"dynn_Margarito"
+		"dynn_Mariano"
+		"dynn_Mariscal"
+		"dynn_Medina"
+		"dynn_Mellado"
+		"dynn_Monta_n_tld_o"
+		"dynn_Montiel"
+		"dynn_Mora"
+		"dynn_Moreno"
+		"dynn_N_u_act__n_tld_ez"
+		"dynn_Negrete"
+		"dynn_Oropeza"
+		"dynn_Orosco"
+		"dynn_Pablo"
+		"dynn_Palacios"
+		"dynn_Palestino"
+		"dynn_Parra"
+		"dynn_Pascual"
+		"dynn_Patricio"
+		"dynn_Paz"
+		"dynn_Pioquinto"
+		"dynn_Quero"
+		"dynn_Quintero"
+		"dynn_Ram_o_act_n"
+		"dynn_Rico"
+		"dynn_Ronquillo"
+		"dynn_Rosas"
+		"dynn_Salom_o_act_n"
+		"dynn_Salvador"
+		"dynn_Sarabia"
+		"dynn_Sarmiento"
+		"dynn_Sebasti_a_act_n"
+		"dynn_Severiano"
+		"dynn_Su_a_act_rez"
+		"dynn_Tello"
+		"dynn_Toribio"
+		"dynn_Uriarte"
+		"dynn_Utrera"
+		"dynn_Valdivia"
+		"dynn_Vidal"
+		"dynn_Yescas"
+		"dynn_Zavaleta"
+		"dynn_Zurita"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		
+	}
+	
+}

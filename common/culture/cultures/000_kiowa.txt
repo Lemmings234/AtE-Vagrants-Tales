@@ -1,0 +1,48 @@
+﻿kiowa = {
+	color = { 232 211 181 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_plains_sequoyan
+	language = language_ka_igwu
+	martial_custom = martial_custom_male_only
+	name_list = name_list_kiowa
+	
+	traditions = {
+		tradition_horse_lords
+		tradition_warriors_by_merit
+		tradition_martial_admiration
+		tradition_three_sisters
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		kiowa_coa_gfx
+		plains_coa_gfx
+	}
+	building_gfx = {
+		kiowa_building_gfx
+		tipi_building_gfx #Architecture-style
+		native_na_plains_building_gfx #Style
+		native_dry_building_gfx #Super-style
+		heritage_plains_sequoyan_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+		high_plains_clothing_gfx
+		plains_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = amerindian
+		25 = white_indigenous
+	
+	}
+}

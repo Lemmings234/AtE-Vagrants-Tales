@@ -1,0 +1,46 @@
+﻿preiryansky = {
+	color = { 174 245 81 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_prairie
+	language = language_kanadskyj
+	martial_custom = martial_custom_male_only
+	name_list = name_list_preiryansky
+	
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_quarrelsome
+		tradition_family_entrepreneurship
+		tradition_agrarian
+		tradition_cowboys
+	}
+	
+	coa_gfx = {
+		preiryansky_coa_gfx
+		prairie_group_gfx
+	}
+	building_gfx = {
+		preiryansky_building_gfx
+		na_middle_building_gfx #Architecture-style-2
+		prairies_building_gfx #Architecture-style
+		na_middle_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_prairie_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+		canadian_common_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		20 = caucasian
+		70 = slavic
+		10 = amerindian
+	
+	}
+}

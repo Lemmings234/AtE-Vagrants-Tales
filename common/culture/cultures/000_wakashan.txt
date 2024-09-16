@@ -1,0 +1,45 @@
+﻿wakashan = {
+	color = { 204 23 0 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_upper_coast
+	language = language_wakashan
+	martial_custom = martial_custom_male_only
+	name_list = name_list_wakashan
+	
+	traditions = {
+		tradition_potlatch
+		tradition_bentwood_crafts
+		tradition_fishermen
+		tradition_RICE_whalers
+	}
+	
+	coa_gfx = {
+		northwest_coast_group_gfx
+	}
+	building_gfx = {
+		wakashan_building_gfx
+		pnw_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_upper_coast_building_gfx
+		western_building_gfx
+		norse_building_gfx
+		nwc_building_gfx
+		pnw_building_gfx
+	}
+	clothing_gfx = {
+		northwest_coast_group_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		75 = northwest
+		25 = white_indigenous
+
+	}
+}

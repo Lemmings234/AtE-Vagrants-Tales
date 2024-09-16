@@ -1,0 +1,51 @@
+﻿seminole = {
+	color = { 77 133 54 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_seminole
+	language = language_seminole
+	martial_custom = martial_custom_male_only
+	name_list = name_list_seminole
+	
+	traditions = {
+		tradition_wetlanders
+		tradition_hit_and_run
+		tradition_collective_lands
+		tradition_religion_blending
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+	}
+	
+	coa_gfx = {
+		woodlands_group_gfx
+	}
+	building_gfx = {
+		seminole_building_gfx
+		gulfard_building_gfx #Architecture-style
+		native_na_woodland_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_seminole_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		woodlands_group_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		50 = amerindian
+		10 = black_indigenous
+		10 = african
+		5 = black_white
+		10 = mediterranean
+		5 = multiracial
+		10 = white_indigenous
+	
+	}
+}

@@ -1,0 +1,25 @@
+﻿name_list_wajapi = {
+        male_names = { Adriano BenjamimBrendo Cleiton Esteves Felipe Fl_a_act_vio Gabriel Jarliz Jo_a_tld_o Jos_e_act_ Josu_e_act_ L_u_act_cio Leonardo Lucas Marcelo Marcos Marcos_Paulo Mateus Paulo Pedro Rafael Rodrigo Sidnei Teod_o_act_sio Tilkin Randolfe Emyra Yvytoto Seremete Jawaruwa Kasiripina Japu Assurui Viseni Waiwai Siro Makarato Yrowaite Sawer Kujuri Januari Arakura Winipi Wei Matapi Tuetue Weiwei Jamy Kumare Kumai Tue }
+        
+        female_names = { Adriana Aline Alzira Beatriz Clissiane Elaine Eli Fabiana Isabel Jadi Janayra Jessy Jociana Laina Luana Luciana Luiza Luzia Maria Rita Roberta Samara Silvania Tain_a_tld_ Val_e_act_ria Lana Karapijuty Silvia Ajareaty Parua Mariry Kusiwa Waivisi Matupi Aramari Amapari Marinau Katirina }
+        
+        dynasty_names = { "dynn_Silva" "dynn_da_Silva" "dynn_Santos" "dynn_dos_Santos" "dynn_Oliveira" "dynn_Souza" "dynn_Rodrigues" "dynn_Ferreira" "dynn_Alves" "dynn_Pereira" "dynn_Lima" "dynn_Gomes" "dynn_Ribeiro" "dynn_Martins" }
+        cadet_dynasty_names = { "dynn_Silva" "dynn_da_Silva" "dynn_Santos" "dynn_dos_Santos" "dynn_Oliveira" "dynn_Souza" "dynn_Rodrigues" "dynn_Ferreira" "dynn_Alves" "dynn_Pereira" "dynn_Lima" "dynn_Gomes" "dynn_Ribeiro" "dynn_Martins" }
+        
+        dynasty_of_location_prefix = "dynnp_de"
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 5
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 5
+        
+        mercenary_names = {
+            
+        }
+        
+}

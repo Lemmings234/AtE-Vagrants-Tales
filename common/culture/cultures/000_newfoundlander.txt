@@ -1,0 +1,51 @@
+﻿newfoundlander = {
+	color = { 51 178 178 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_atlantic_canadian
+	language = language_newfinese
+	martial_custom = martial_custom_equal
+	name_list = name_list_newfoundlander
+	
+	traditions = {
+		tradition_life_is_just_a_joke
+		tradition_wild_hunt
+		tradition_fishermen
+		tradition_tribe_unity
+		tradition_RICE_whalers
+	}
+	
+	coa_gfx = {
+		newfoundlander_coa_gfx
+		north_atlantic_coa_gfx
+	}
+	building_gfx = {
+		newfoundlander_building_gfx
+		celtic_building_gfx #Architecture-style
+		na_north_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_atlantic_canadian_building_gfx
+		western_building_gfx
+		celtic_building_gfx
+	}
+	clothing_gfx = {
+		maritime_canadian_clothing_gfx
+		canadian_clothing_gfx
+		#northern_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		5 = amerindian
+		1 = asian_southern_han
+		2 = arab
+		93 = caucasian
+		1 = indian
+		1 = mediterranean
+		5 = white_indigenous
+	
+	}
+}

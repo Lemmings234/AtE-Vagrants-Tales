@@ -1,0 +1,56 @@
+﻿cascadian = {
+	color = { 29 125 136 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_north_pacific
+	language = language_transcascadian
+	martial_custom = martial_custom_equal
+	name_list = name_list_cascadian
+	
+	traditions = {
+		tradition_brewmasters
+		tradition_forest_wardens
+		tradition_polygamous
+		tradition_trail_runners
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+	
+	coa_gfx = {
+		cascadian_coa_gfx
+		north_pacific_group_gfx
+	}
+	building_gfx = {
+		cascadian_building_gfx #Style
+		frontier_building_gfx #Super-style
+		heritage_north_pacific_building_gfx
+		western_building_gfx
+		norse_building_gfx
+		nwc_building_gfx
+	}
+	clothing_gfx = {
+		canuck_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		48 = caucasian
+		10 = mediterranean
+		8 = mesoamerican_yuto_aztec
+		2 = asian_austronesian
+		8 = multiracial
+		5 = asian
+		3 = asian_southern_han
+		4 = african
+		4 = white_asian
+		3 = indian
+		5 = south_indian
+	
+	}
+}

@@ -1,0 +1,106 @@
+﻿name_list_dane_zaa = {
+
+	#compiled by Kayos, Lahom
+
+	male_names = {
+		Aaron Alex Allan Andre Anthony Archie Asher
+		Benjamine Brian Bruce
+		Cameron Charlie Chris Clarence
+		Darren David Denis Don Doug
+		Edward Eric
+		Francis Fred
+		Gary George Gill
+		Harvey Henry
+		James Jason Jay Jim Joe John Jonathan Jonas Jordan
+		Kelvin Ken Kirk Kyle
+		Larry Louis
+		Marvin Mel Michael
+		Patrick Paul Pierre
+		Raymond Roger Roland Russell
+		Scott Stephen Samuel Stanley
+		Tim Tom Trevor
+		William Wilton
+	}
+	female_names = {
+		Alice Alison Angela Ann
+		Bernadette Betty Bonnie
+		Candace Caroline Catherine Charlene Christine Clair Coleen Crystal Cynthia
+		Darlene Dawn Denise Donna Dorothy
+		Emma
+		Gladys
+		Helene Hilary Holly
+		Isabel
+		Jacqueline Janice Jeanette Jessie Joanne Joyce Julia Juritha
+		Kelly Kim
+		Lily Linda Lisa Lori Louise Lynne
+		Mandy Margaret Maria Marlene Meghan Melinda Michelle Morgan
+		Nicole
+		Patricia Pauline
+		Rae Rebecca Regina Rianna Roberta Rosanna Rose
+		Sally Shirley Stephanie
+		Tamara Theresa Tiffany
+		Violette
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Achla"
+		"dynn_Acko"
+		"dynn_Atchiqua"
+		"dynn_Attachie"
+		"dynn_Blandin"
+		"dynn_Brown"
+		"dynn_Cameron"
+		"dynn_Courtorielle"
+		"dynn_Davis"
+		"dynn_Desjarlais"
+		"dynn_Dokkie"
+		"dynn_Gauthier"
+		"dynn_Hardy"
+		"dynn_Mercredi"
+		"dynn_Metecheah"
+		"dynn_Napoleon"
+		"dynn_Tsakoza"
+		"dynn_Willson"
+		"dynn_Wolf"
+		"dynn_Yahey"
+	}
+	dynasty_names = {
+		"dynn_Achla"
+		"dynn_Acko"
+		"dynn_Atchiqua"
+		"dynn_Attachie"
+		"dynn_Blandin"
+		"dynn_Brown"
+		"dynn_Cameron"
+		"dynn_Courtorielle"
+		"dynn_Davis"
+		"dynn_Desjarlais"
+		"dynn_Dokkie"
+		"dynn_Gauthier"
+		"dynn_Hardy"
+		"dynn_Mercredi"
+		"dynn_Metecheah"
+		"dynn_Napoleon"
+		"dynn_Tsakoza"
+		"dynn_Willson"
+		"dynn_Wolf"
+		"dynn_Yahey"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 25
+	mat_grf_name_chance = 0
+	father_name_chance = 40
+	pat_grm_name_chance = 25
+	mat_grm_name_chance = 25
+	mother_name_chance = 25
+	
+	mercenary_names = {
+		
+	}
+	
+}

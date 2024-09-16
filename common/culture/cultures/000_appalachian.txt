@@ -1,0 +1,50 @@
+﻿appalachian = {
+	color = { 50 114 50 }
+	
+	ethos = ethos_communal
+	heritage = heritage_upland
+	language = language_backcountry
+	martial_custom = martial_custom_male_only
+	name_list = name_list_appalachian
+	
+	traditions = {
+		#TODO
+		tradition_resourceful_tinkerers
+		tradition_mountaineer_ruralism
+		tradition_tribe_unity
+		tradition_ancient_miners
+	}
+	
+	coa_gfx = {
+		appalachian_coa_gfx
+	}
+	building_gfx = {
+		appalachian_building_gfx #Style
+		anglo_building_gfx #Super-style
+		heritage_upland_building_gfx
+		western_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = amerindian
+		8 = african
+		1 = asian
+		1 = asian_southern_han
+		1 = asian_southeast_asian
+		70 = caucasian
+		1 = indian
+		3 = mediterranean
+		2 = mesoamerican_yuto_aztec
+		1 = asian_austronesian
+		8 = black_white
+		3 = multiracial
+	
+	}
+}

@@ -1,0 +1,51 @@
+﻿chapin = {
+	color = { 71 153 209  }
+
+	ethos = ethos_courtly
+	heritage = heritage_centroamericano
+	language = language_centrano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chapin
+	
+	traditions = {
+		tradition_milpa
+		tradition_coffee_making
+		tradition_ruling_caste
+		tradition_jungle_warriors
+	}
+	
+	coa_gfx = {
+		chapin_coa_gfx
+		centrano_group_gfx
+	}
+	building_gfx = {
+		chapin_building_gfx
+		mexican_south_building_gfx #Architecture-style
+		mexican_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_centroamericano_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		iberian_christian_clothing_gfx
+		western_clothing_gfx
+		camisablanca_clothing_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = arab
+		3 = asian
+		5 = arab
+		12 = caucasian
+		3 = asian_austronesian
+		13 = mesoamerican_maya
+		3 = african
+		30 = mediterranean
+		30 = centralamerican_chibchan
+	
+	}
+}

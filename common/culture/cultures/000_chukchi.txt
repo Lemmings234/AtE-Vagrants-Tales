@@ -1,0 +1,45 @@
+﻿chukchi = {
+	color = { 90 193 200 }
+	
+	ethos = ethos_communal
+	heritage = heritage_peninsular
+	language = language_chukchi
+	martial_custom = martial_custom_male_only
+	name_list = name_list_chukchi
+	
+	traditions = {
+		tradition_tundra_dwellers
+		tradition_practiced_pirates
+		tradition_RICE_whalers
+		tradition_collective_lands
+	}
+	
+	coa_gfx = {
+		inupiat_coa_gfx
+		arctic_group_gfx
+		arctic_group_coa_gfx
+	}
+	building_gfx = {
+		chukchi_building_gfx
+		native_boreal_building_gfx #Style
+		native_cold_building_gfx #Super-style
+		heritage_peninsular_building_gfx
+		arctic_building_gfx
+		norse_building_gfx
+	}
+	clothing_gfx = {
+		inuit_common_clothing_gfx
+		northern_clothing_gfx
+		fp1_norse_clothing_gfx
+	}
+	unit_gfx = {
+		northern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = slavic
+		90 = yupik
+	
+	}
+}

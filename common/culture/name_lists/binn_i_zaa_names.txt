@@ -1,0 +1,63 @@
+﻿name_list_binn_i_zaa = {
+        male_names = { #tommy - valley zapotec names 
+			Angl Aniset Arnulf 
+			Bal Baleryan Balyen Bartol Bed Bel Beljdao Benzy Bery Bet Bich Bily Bse Bundy Bzyeny 
+			Calyestr Can Carien Carl Caty Chan Chiecw Chu Cob Cosijo Cosijoeza Cosijopii Cost Cyen 
+			Del Desy Diegw Dolf Dyau Dyeu 
+			Flory Fransyescw 
+			Goi Guely Guly Gyeily 
+			Jeiny Jerard Jorj Juast Jwany Jwanydyau 
+			Lauryan Lazh Lazr Leinzh Leony Lepy Lieb Lien Lijanr Luc Lusy Lyen Lyony 
+			Macary Madeu Man Manol Mar Marg Martiny Mary Mayol Mazh Mel Mien Milyan Moi Mony Muan Muand Myengw 
+			Nach Naisy Nary Ndien Ndres Nduny Nel Nryec Nyan Nyec Nyet 
+			Pabl Pacw Paisy Paly Pamy_e_uml_l Pan Pe_n_tld_obiya Pily Plory Poly Ponzh Pred Puisy Pyen 
+			Raxdaoxhen Resy Rnest Rony Rrei Rricard Rricardy Rrodriegw Rrot Ryet 
+			Se Sebastyang Seby Seu Sily Sobryeiny Syen 
+			Tan Teb Tony Trez Tuar Tyeiny Tyen Tyofl 
+			Wse Wzio 
+			Xhinwzio 
+			Yabaga Yabalua 
+			Za_pst_achila 
+		}
+        female_names = { #tommy - valley zapotec names 
+			Lia_Anjalyen Lia_Anjalyend Lia_Arasely 
+			Lia_Baisy Lia_Bany Lia_Bel Lia_Bentuar Lia_Bet Lia_Bich Lia_Bitory Lia_Bity Lia_Blanc 
+			Lia_Cady Lia_Can Lia_Carseinzy Lia_Cat Lia_Cau Lia_Chel Lia_Chon Lia_Chyel Lia_Chyoly Lia_Clary Lia_Claudy Lia_Claz Lia_Clwaz Lia_Conswel Lia_Cristyen 
+			Lia_Da Lia_Del Lia_Delyen Lia_Desy Lia_Donaj_i_act_ 
+			Lia_Ernestyen 
+			Lia_Felisyet Lia_Florentyen Lia_Flory 
+			Lia_Glory Lia_Grasyel Lia_Gueb Lia_Gyan Lia_Gyan Lia_Gyol 
+			Lia_Iarm 
+			Lia_Jub Lia_July 
+			Lia_Lang Lia_Leanr Lia_Lejandrien Lia_Len Lia_Lenzh Lia_Lepy Lia_Liandr Lia_Lianr Lia_Liendr Lia_Lienr Lia_Lorenz Lia_Luch Lia_Lyen Lia_Lyend Lia_Lyep Lia_Lyony 
+			Lia_Mad Lia_Marchyoly Lia_Marg Lia_Margaryet Lia_Maria Lia_Marigyan Lia_Martin Lia_Martiny Lia_Maryan Lia_Maryen Lia_Mate Lia_Maxlien Lia_Meny Lia_Mier Lia_Milian Lia_Mitery Lia_Modesy Lia_Mony Lia_Myeng Lia_Myengw 
+			Lia_Naisy Lia_Nataly Lia_Nayeli Lia_Ndien Lia_Nes Lia_Nhisya Lia_Nien Lia_Norm Lia_Ntony Lia_Nyet 
+			Lia_Oliby Lia_Olieb 
+			Lia_Pam Lia_Pastiny Lia_Pau Lia_Petr Lia_Ponzy Lia_Pyen 
+			Lia_Ren Lia_Rgyien Lia_Rjien Lia_Ror Lia_Rrei Lia_Rros Lia_Rsary Lia_Ruan Lia_Ryely Lia_Ryen 
+			Lia_Sabely Lia_Sabien Lia_San Lia_Sely Lia_Siedr Lia_Sily Lia_Syen Lia_Syend 
+			Lia_Talach Lia_Taly Lia_Tan Lia_Tery Lia_Tiny Lia_Tory Lia_Treiny Lia_Trez Lia_Tyen 
+			Lia_Xmony Lia_Xtaisy Lia_Xtruad 
+			Lia_Yadier Lia_Yajtsir Lia_Yo Lia_Yol 
+			Lia_Zhuan Lia_Zhyac Lia_Zyec 
+		}
+        dynasty_names = { "dynn_A_act_ngelez" "dynn_Abenda_n_tld_o" "dynn_Acebedo" "dynn_Acosta" "dynn_Agapito" "dynn_Agripino" "dynn_Agust_i_act_n" "dynn_Alavez" "dynn_Albarado" "dynn_Alonzo" "dynn_Altamirano" "dynn_Ambrosio" "dynn_Andr_e_act_s" "dynn_Aquino" "dynn_Arag_o_act_n" "dynn_Arellanez" "dynn_Avelino" "dynn_Balc_a_act_zar" "dynn_Baltazar" "dynn_Barriga" "dynn_Bautista" "dynn_Baz_a_act_n" "dynn_Bernardino" "dynn_Blas" "dynn_Bracho" "dynn_Bravo" "dynn_Brena" "dynn_Canseco" "dynn_Carballido" "dynn_Carmona" "dynn_Carrasco" "dynn_Carre_n_tld_o" "dynn_Castellanos" "dynn_Cecilio" "dynn_Cereso" "dynn_Cernas" "dynn_Ch_e_act_vez" "dynn_Chagoya" "dynn_Cham_e_act_" "dynn_Charis" "dynn_Chi_n_tld_as" "dynn_Chincoya" "dynn_Contreras" "dynn_Cosm_e_act_s" "dynn_Cruz" "dynn_Cuevas" "dynn_Doroteo" "dynn_Epitacio" "dynn_Espinoza" "dynn_Esteva" "dynn_Fabi_a_act_n" "dynn_Faustino" "dynn_Flores" "dynn_Francisco" "dynn_Fructuoso" "dynn_G_o_act_mez" "dynn_Galindo" "dynn_Garc_i_act_a" "dynn_Gazga" "dynn_Gij_o_act_n" "dynn_Gonz_a_act_lez" "dynn_Gopar" "dynn_Grijalva" "dynn_Gurri_o_act_n" "dynn_Guti_e_act_rrez" "dynn_Henestrosa" "dynn_Hern_a_act_ndez" "dynn_Hip_o_act_lito" "dynn_Huantes" "dynn_Ib_a_act__n_tld_ez" "dynn_Jarqu_i_act_n" "dynn_Jim_e_act_nez" "dynn_Ju_a_act_rez" "dynn_L_a_act_scarez" "dynn_L_o_act_pez" "dynn_Labastida" "dynn_Lauriano" "dynn_Lavariega" "dynn_Limeta" "dynn_Lucero" "dynn_Luis" "dynn_Luiz" "dynn_Luria" "dynn_Malavar" "dynn_Marcial" "dynn_Marcos" "dynn_Mart_i_act_nez" "dynn_Mat_i_act_az" "dynn_Matadamas" "dynn_Mateos" "dynn_Matus" "dynn_Mayoral" "dynn_Mej_i_act_a" "dynn_Melchor" "dynn_Mendoza" "dynn_Menes" "dynn_Mesinas" "dynn_Mestas" "dynn_Michi" "dynn_Miguel" "dynn_Mijangos" "dynn_Monjaraz" "dynn_Monta_n_tld_o" "dynn_Montalvo" "dynn_Mor_a_act_lez" "dynn_Mu_n_tld_oz" "dynn_Nicol_a_act_s" "dynn_Nolasco" "dynn_Ogarrio" "dynn_Olmedo" "dynn_Ordaz" "dynn_Ortega" "dynn_P_e_act_rez" "dynn_Palomec" "dynn_Palula" "dynn_Pascual" "dynn_Patatuchi" "dynn_Paulino" "dynn_Petrikowsky" "dynn_Pinacho" "dynn_Platas" "dynn_Quero" "dynn_Rafael" "dynn_Ramos" "dynn_Rangel" "dynn_Raymundo" "dynn_Regalado" "dynn_Regino" "dynn_Reyez" "dynn_Ric_a_act_rdez" "dynn_Riveros" "dynn_Robles" "dynn_Rojas" "dynn_Ruiz" "dynn_S_a_act_nchez" "dynn_Saachi_n_tld_as" "dynn_Sangerm_a_act_n" "dynn_Santaella" "dynn_Santiago" "dynn_Sesma" "dynn_Si_o_act_n" "dynn_Sibaja" "dynn_So_n_tld_anes" "dynn_Sol_o_act_rzano" "dynn_Soliz" "dynn_Soltera" "dynn_Soriano" "dynn_Sosa" "dynn_Sumano" "dynn_Tiburcio" "dynn_Toledo" "dynn_Torrez" "dynn_V_a_act_zquez" "dynn_Valdiviezo" "dynn_Valeriano" "dynn_Varela" "dynn_Vargaz" "dynn_Vel_a_act_zquez" "dynn_Velazco" "dynn_Venegas" "dynn_Veracruz" "dynn_Vichido" "dynn_Victoria" "dynn_Villafa_n_tld_e" "dynn_Villafranco" "dynn_Y_u_act_" "dynn_Yescas" "dynn_Z_a_act_rate" "dynn_de_la_Rosa" "dynn_de_los_A_act_ngeles" "dynn_de_Gyves" }
+        cadet_dynasty_names = { "dynn_A_act_ngelez" "dynn_Abenda_n_tld_o" "dynn_Acebedo" "dynn_Acosta" "dynn_Agapito" "dynn_Agripino" "dynn_Agust_i_act_n" "dynn_Alavez" "dynn_Albarado" "dynn_Alonzo" "dynn_Altamirano" "dynn_Ambrosio" "dynn_Andr_e_act_s" "dynn_Aquino" "dynn_Arag_o_act_n" "dynn_Arellanez" "dynn_Avelino" "dynn_Balc_a_act_zar" "dynn_Baltazar" "dynn_Barriga" "dynn_Bautista" "dynn_Baz_a_act_n" "dynn_Bernardino" "dynn_Blas" "dynn_Bracho" "dynn_Bravo" "dynn_Brena" "dynn_Canseco" "dynn_Carballido" "dynn_Carmona" "dynn_Carrasco" "dynn_Carre_n_tld_o" "dynn_Castellanos" "dynn_Cecilio" "dynn_Cereso" "dynn_Cernas" "dynn_Ch_e_act_vez" "dynn_Chagoya" "dynn_Cham_e_act_" "dynn_Charis" "dynn_Chi_n_tld_as" "dynn_Chincoya" "dynn_Contreras" "dynn_Cosm_e_act_s" "dynn_Cruz" "dynn_Cuevas" "dynn_Doroteo" "dynn_Epitacio" "dynn_Espinoza" "dynn_Esteva" "dynn_Fabi_a_act_n" "dynn_Faustino" "dynn_Flores" "dynn_Francisco" "dynn_Fructuoso" "dynn_G_o_act_mez" "dynn_Galindo" "dynn_Garc_i_act_a" "dynn_Gazga" "dynn_Gij_o_act_n" "dynn_Gonz_a_act_lez" "dynn_Gopar" "dynn_Grijalva" "dynn_Gurri_o_act_n" "dynn_Guti_e_act_rrez" "dynn_Henestrosa" "dynn_Hern_a_act_ndez" "dynn_Hip_o_act_lito" "dynn_Huantes" "dynn_Ib_a_act__n_tld_ez" "dynn_Jarqu_i_act_n" "dynn_Jim_e_act_nez" "dynn_Ju_a_act_rez" "dynn_L_a_act_scarez" "dynn_L_o_act_pez" "dynn_Labastida" "dynn_Lauriano" "dynn_Lavariega" "dynn_Limeta" "dynn_Lucero" "dynn_Luis" "dynn_Luiz" "dynn_Luria" "dynn_Malavar" "dynn_Marcial" "dynn_Marcos" "dynn_Mart_i_act_nez" "dynn_Mat_i_act_az" "dynn_Matadamas" "dynn_Mateos" "dynn_Matus" "dynn_Mayoral" "dynn_Mej_i_act_a" "dynn_Melchor" "dynn_Mendoza" "dynn_Menes" "dynn_Mesinas" "dynn_Mestas" "dynn_Michi" "dynn_Miguel" "dynn_Mijangos" "dynn_Monjaraz" "dynn_Monta_n_tld_o" "dynn_Montalvo" "dynn_Mor_a_act_lez" "dynn_Mu_n_tld_oz" "dynn_Nicol_a_act_s" "dynn_Nolasco" "dynn_Ogarrio" "dynn_Olmedo" "dynn_Ordaz" "dynn_Ortega" "dynn_P_e_act_rez" "dynn_Palomec" "dynn_Palula" "dynn_Pascual" "dynn_Patatuchi" "dynn_Paulino" "dynn_Petrikowsky" "dynn_Pinacho" "dynn_Platas" "dynn_Quero" "dynn_Rafael" "dynn_Ramos" "dynn_Rangel" "dynn_Raymundo" "dynn_Regalado" "dynn_Regino" "dynn_Reyez" "dynn_Ric_a_act_rdez" "dynn_Riveros" "dynn_Robles" "dynn_Rojas" "dynn_Ruiz" "dynn_S_a_act_nchez" "dynn_Saachi_n_tld_as" "dynn_Sangerm_a_act_n" "dynn_Santaella" "dynn_Santiago" "dynn_Sesma" "dynn_Si_o_act_n" "dynn_Sibaja" "dynn_So_n_tld_anes" "dynn_Sol_o_act_rzano" "dynn_Soliz" "dynn_Soltera" "dynn_Soriano" "dynn_Sosa" "dynn_Sumano" "dynn_Tiburcio" "dynn_Toledo" "dynn_Torrez" "dynn_V_a_act_zquez" "dynn_Valdiviezo" "dynn_Valeriano" "dynn_Varela" "dynn_Vargaz" "dynn_Vel_a_act_zquez" "dynn_Velazco" "dynn_Venegas" "dynn_Veracruz" "dynn_Vichido" "dynn_Victoria" "dynn_Villafa_n_tld_e" "dynn_Villafranco" "dynn_Y_u_act_" "dynn_Yescas" "dynn_Z_a_act_rate" "dynn_de_la_Rosa" "dynn_de_los_A_act_ngeles" "dynn_de_Gyves" }
+        
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 50
+        mat_grf_name_chance = 0
+        father_name_chance = 0
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 0
+        
+        mercenary_names = {
+            { name = mercenary_company_jaguar_band }
+        }
+        
+}

@@ -1,0 +1,176 @@
+﻿name_list_coast_salish = {
+
+	#compiled by Oasdv
+
+	male_names = {
+		A_watc_tse A_wa_ti_uk Adam Arthur Asch_cha_bek Bath_che_sup
+		Ch_whab_dath Cha_shol Che_chakl_ka Chee Chestoqua Ciahoust Claf_wha Coo_shal_lup
+		Dan Da_de_tsa Dag_ha_les_tin David De_de_be_thluk Du_que_pis E_da_ta Es_cub Francis George Guy
+		Ha_ba_la_dock Ha_buc_tle Han_dau_sho He_wa_ka_as He_tuc_thal_took Hish_al_lie Hoc_shut_ta
+		I_abic Johnny Kah_mukkle Kiliar King_John Kitsap Kla_ba_du Kla_his_i_ent Klap_le_la_duc Klo_la_a_la_kup Klow_wa Koob_kudt Kowoosh Kwa_e_ta Kwi_yl_te_cup Kwo_ah_lie_klub Kwo_teh_hats_tsit Kwy_has
+		Lea_wa_chad Leschi Marshall Noah O_biwk O_da_wayth Obi Pooc Qua_que_at_sa Qualshuse Quat_see Quay_a_doo
+		Saxe Seatit Sempulyan Si_pst_ahl Sil_is_bid She_che_a_klu Shes_to_coop Shobid Shweabe Sumkwaht Sxwixwtn
+		Ta_a_how_it Ta_thlo_bish Tatch_e_was Tealigh Thomas Thlo_tus_se Tia_che_tid Tsa_tah Tsa_wa_ig Tseatstin Tse_le_uk_la_took Tse_tah_do Tu_ah_utl Tur_nix Tzi_la_ka_dim
+		Wa_pa_ath Wa_wo_dah_hand Was_te_do We_ah_sum Whallath Whay_ook Web_a_had Wic_sa_bue Wil_plot_kah Wo_ish_ule Woo_un Xwelxwelacha Ya_hat_up Ya_ca_la_der 
+	}
+	female_names = {
+		A_du_wyith A_la_pos_tub Ah_ea_pa_sax A_ho Anna Alice Apa Ba_ble Ba_le_lok Beatrice Boyi Bye_ir
+		Charlotte Che_telth_how Chit_cha Co_la_get Co_uth_a_tox Da_chus_tse Demer Duduhomish Dusk_e_ah Dzed_salk
+		Esa E_tuts_te_sux Ghail Grace Ha_da_te_ba_ik Ha_he_ak Ha_thla_bootl Ha_we_let_sa He_te_ha_sux Hew_we_ash_by Hic Hoska Hok_wat How_wilth_luth
+		Idih Irene Ka_ke_thlud Kabusie Kah_to_olth Kal_wa_wud Kallappa Kay_a_klub Ki_keo_wa_puc Kikisoblu Kilpe Klooc_ka_ha Koo_dee
+		Lark_lut Lena Lop_she_aith Maggie Mary Moskia O_butl_ke Ok_shil Ot_o_kate Ow_ow Qua_se_luit Qui_alk Quilas_clax
+		Roc_tsa_ka_tsa Saw_li_kah Se_at_sea_ye Sholeetsa Syexwaliya
+		Tasha Tiyaltelut Thle_ta_ba_utl Thlu_schsch Tse_a_le_peuth Thlo_wa_bos_tub Thlo_bas_bi_itl Tillie To_to_quart To_loosh_hoo_sut Toc Tse_dix Tsot_tsol_e_tsa Tsuk_tdl_ith Tu_ah_utl
+		Viola Wa_ho_utl Wa_i_itl Wa_tos_tub Wha_los_tub Wic_sa_bue Ya_chis_dic Yo_hos_tut Ya_lo_was_tub Yal_was_tub Yokum 
+	}
+
+	cadet_dynasty_names = {
+		"dynn_Allebush"
+		"dynn_Birdtail"
+		"dynn_Capoeman"
+		"dynn_Celix"
+		"dynn_Chi_ke_lis"
+		"dynn_Claplanhoo"
+		"dynn_Colbolly"
+		"dynn_Colby"
+		"dynn_Colfax"
+		"dynn_Descanum"
+		"dynn_Everybodytalksabout"
+		"dynn_Fisher"
+		"dynn_George"
+		"dynn_Greene"
+		"dynn_Gwahadoloh"
+		"dynn_Haballakomp"
+		"dynn_Hoh"
+		"dynn_Howeattle"
+		"dynn_Hudson"
+		"dynn_Kallappa"
+		"dynn_Keokuk"
+		"dynn_Kitsap"
+		"dynn_Kliokum"
+		"dynn_Komoks"
+		"dynn_Kowoosh"
+		"dynn_Kwina"
+		"dynn_Leshi"
+		"dynn_Lummi"
+		"dynn_Markishtum"
+		"dynn_Newhauken"
+		"dynn_Nooksack"
+		"dynn_Obi"
+		"dynn_Olixtrum"
+		"dynn_Popkum"
+		"dynn_Quanooks"
+		"dynn_Quilquilion"
+		"dynn_Quinault"
+		"dynn_Seehahdkwahd"
+		"dynn_Sho_sho_coop"
+		"dynn_Slockum"
+		"dynn_Snohomish"
+		"dynn_Snoqualmie"
+		"dynn_Soeneche"
+		"dynn_Squamish"
+		"dynn_Squiqui"
+		"dynn_Swan"
+		"dynn_Ta_we_la_no"
+		"dynn_Tsawwassen"
+		"dynn_Tysum"
+		"dynn_Underwood"
+		"dynn_Willatsoolt"
+		"dynn_Willup"
+		"dynn_Wispoo"
+		"dynn_Whatquishum"
+		"dynn_Wheahkadim"
+		"dynn_Wyse"
+		"dynn_Yokum"
+		"dynn_Young"
+		"dynn_Youngblood"
+		"dynn_Yukted"
+		
+	}
+	dynasty_names = {
+		"dynn_Allebush"
+		"dynn_Birdtail"
+		"dynn_Capoeman"
+		"dynn_Celix"
+		"dynn_Chi_ke_lis"
+		"dynn_Claplanhoo"
+		"dynn_Colbolly"
+		"dynn_Colby"
+		"dynn_Colfax"
+		"dynn_Descanum"
+		"dynn_Everybodytalksabout"
+		"dynn_Fisher"
+		"dynn_George"
+		"dynn_Greene"
+		"dynn_Gwahadoloh"
+		"dynn_Haballakomp"
+		"dynn_Hoh"
+		"dynn_Howeattle"
+		"dynn_Hudson"
+		"dynn_Kallappa"
+		"dynn_Keokuk"
+		"dynn_Kitsap"
+		"dynn_Kliokum"
+		"dynn_Komoks"
+		"dynn_Kowoosh"
+		"dynn_Kwina"
+		"dynn_Leshi"
+		"dynn_Lummi"
+		"dynn_Markishtum"
+		"dynn_Newhauken"
+		"dynn_Nooksack"
+		"dynn_Obi"
+		"dynn_Olixtrum"
+		"dynn_Popkum"
+		"dynn_Quanooks"
+		"dynn_Quilquilion"
+		"dynn_Quinault"
+		"dynn_Seehahdkwahd"
+		"dynn_Sho_sho_coop"
+		"dynn_Slockum"
+		"dynn_Snohomish"
+		"dynn_Snoqualmie"
+		"dynn_Soeneche"
+		"dynn_Squamish"
+		"dynn_Squiqui"
+		"dynn_Swan"
+		"dynn_Ta_we_la_no"
+		"dynn_Tsawwassen"
+		"dynn_Tysum"
+		"dynn_Underwood"
+		"dynn_Willatsoolt"
+		"dynn_Willup"
+		"dynn_Wispoo"
+		"dynn_Whatquishum"
+		"dynn_Wheahkadim"
+		"dynn_Wyse"
+		"dynn_Yokum"
+		"dynn_Young"
+		"dynn_Youngblood"
+		"dynn_Yukted"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = ""
+	patronym_suffix_female = ""
+	
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 15
+	father_name_chance = 40
+	pat_grm_name_chance = 15
+	mat_grm_name_chance = 20
+	mother_name_chance = 40
+	
+	mercenary_names = {
+		{ name = mercenary_company_labrys_band }
+		{ name = mercenary_company_timbers_army }
+		{ name = mercenary_company_sasquatch }
+		{ name = mercenary_company_sca }
+		{ name = mercenary_company_roughriders }
+		{ name = mercenary_company_tri_river }
+		{ name = mercenary_company_timber_cats }
+		{ name = mercenary_wizards_coast }
+	}
+
+}

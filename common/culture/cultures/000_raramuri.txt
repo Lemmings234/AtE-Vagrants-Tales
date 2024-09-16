@@ -1,0 +1,42 @@
+﻿raramuri = {
+	color = { 45 135 137 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_aridomex
+	language = language_raramuri
+	martial_custom = martial_custom_male_only
+	name_list = name_list_raramuri
+	
+	traditions = {
+		tradition_sacred_hunts
+		tradition_storytellers
+		tradition_mountain_homes
+		tradition_light_feet
+	}
+	
+	coa_gfx = {
+		raramuri_coa_gfx
+		aridomerican_group_gfx
+	}
+	building_gfx = {
+		raramuri_building_gfx
+		pueblo_building_gfx #Architecture-style
+		mexican_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_aridomex_building_gfx
+		mena_building_gfx
+	}
+	clothing_gfx = {
+		mena_clothing_gfx
+	}
+	unit_gfx = {
+		mena_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		90 = aridoamerican_chichimec
+		10 = mesoamerican_yuto_aztec
+	
+	}
+}

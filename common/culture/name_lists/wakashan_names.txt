@@ -1,0 +1,204 @@
+﻿name_list_wakashan = {
+        male_names = { 
+		Baxbakwa_pst_lanuxusiwe Bigaqla 
+		#names derived from Heiltsuk
+		Cumshewa Gaxatusla Gnislzua G_pst_spgolox Gvim Gvui Hazilba He_pst_maskas Hliqv Hlxinuxv Hlahliyasila Laukvimas Lileplait Luqvas Mawak Mia Naci Nuaqawa Nulis Qait Qanekelak Qvuqvs Sala Sua Tixlas Ts_pst_ooda Ts_pst_lta Txlkvs Wa W_pst_ac Wakidis Wusgmi Wuxvsiwls Zola Aani
+		#names derived from English
+		Ba_pst_bi Be_pst_ti Bili Camin Chali Fanki Jani Jimi _pst_Echi _pst_Aasic A_pst_tuu
+		#names derived from Nuu-chah-nulth
+		Chaapi C_pst_imt_pst_uu C_pst_ixwatin Hiiyii Hin_pst_qu_pst_as Hwaash_pst_hwiip Iihtuup Kakawin K_pst_ayu K_pst_ayuumin K_pst_ee_pst_in K_pst_itlanuus Muwach Naana Puu_pst_i Qu_pst_ushin Qwayac_pst_iik Qwinii Saasin Titluup Tlitlik_pst_im Ts_pst_ims T_pst_ut_pst_upts_pst_as Tluunim Waa_pst_it
+		}
+		
+        female_names = {
+		Cu Cumqlaqs
+		#names derived from Heiltsuk
+		Gul Hena Hixstus Hilxs Lanemraeit Mazaiqvla Mia Nena N_pst_usi Nuaqawa Qaqnc Qiat Qvuikv Qvus Sala Sixsgvis Ts_pst_lta Tuwala _Wualas Hukv_ Yilistis Aliis
+		#names derived from English
+		Chesi Esi Kati Lishi Magi Pegi Weni Aanus Aatus A_pst_tuu
+		#names derived from Nuu-chah-nulth
+		_pst_Aasic Chaapi Chastims C_pst_imt_pst_uu Hin_pst_qu_pst_as Huqsim K_pst_aatskamin K_pst_ayu K_pst_ee_pst_in K_pst_itlanuus Muwach Puu_pst_i Puutspu_pst_inwa Qaqup Qu_pst_ushin Qwinii Saasin Titluup Tsiixaa_pst_takxinx T_pst_ut_pst_upts_pst_as Waaxni
+		}
+		
+        dynasty_names = {
+		"dynn_Ambrose"
+		"dynn_Andrew"
+		"dynn_Assu"
+		"dynn_Atleo"
+		"dynn_August"
+		"dynn_Barney"
+		"dynn_Bill"
+		"dynn_Campbell"
+		"dynn_Cartlidge"
+		"dynn_Casavant"
+		"dynn_Charleson"
+		"dynn_Charlie"
+		"dynn_Chickite"
+		"dynn_Clappis"
+		"dynn_Clutesi"
+		"dynn_Cootes"
+		"dynn_Cranmer"
+		"dynn_David"
+		"dynn_Dennis"
+		"dynn_Dick"
+		"dynn_Duncan"
+		"dynn_Frank"
+		"dynn_Fred"
+		"dynn_Gallic"
+		"dynn_George"
+		"dynn_Gladstone"
+		"dynn_Gus"
+		"dynn_Hanuse"
+		"dynn_Hleck"
+		"dynn_Housty"
+		"dynn_Humchitt"
+		"dynn_Hunt"
+		"dynn_Ignace"
+		"dynn_Jack"
+		"dynn_James"
+		"dynn_Jimmy"
+		"dynn_John"
+		"dynn_Kahclamat"
+		"dynn_Keitlah"
+		"dynn_Knighton"
+		"dynn_Little"
+		"dynn_Louie"
+		"dynn_Lucas"
+		"dynn_MacDonald"
+		"dynn_MacLeod"
+		"dynn_Mack"
+		"dynn_Maquinna"
+		"dynn_Martin"
+		"dynn_McCarthy"
+		"dynn_McLean"
+		"dynn_Mundy"
+		"dynn_Nahanee"
+		"dynn_Neel"
+		"dynn_Nookemus"
+		"dynn_Paul"
+		"dynn_Pootlass"
+		"dynn_Rempel"
+		"dynn_Robinson"
+		"dynn_Ross"
+		"dynn_Rush"
+		"dynn_Sabbas"
+		"dynn_Sam"
+		"dynn_Savey"
+		"dynn_Scow"
+		"dynn_Sewid"
+		"dynn_Shewish"
+		"dynn_Siwallace"
+		"dynn_Slett"
+		"dynn_Swan"
+		"dynn_Tallio"
+		"dynn_Tatoosh"
+		"dynn_Thomas"
+		"dynn_Titian"
+		"dynn_Touchie"
+		"dynn_Vickers"
+		"dynn_Waddell"
+		"dynn_Walkus"
+		"dynn_Waterfall"
+		"dynn_Watts"
+		"dynn_Willie"
+		}
+		
+		cadet_dynasty_names = {
+		"dynn_Ambrose"
+		"dynn_Andrew"
+		"dynn_Assu"
+		"dynn_Atleo"
+		"dynn_August"
+		"dynn_Barney"
+		"dynn_Bill"
+		"dynn_Campbell"
+		"dynn_Cartlidge"
+		"dynn_Casavant"
+		"dynn_Charleson"
+		"dynn_Charlie"
+		"dynn_Chickite"
+		"dynn_Clappis"
+		"dynn_Clutesi"
+		"dynn_Cootes"
+		"dynn_Cranmer"
+		"dynn_David"
+		"dynn_Dennis"
+		"dynn_Dick"
+		"dynn_Duncan"
+		"dynn_Frank"
+		"dynn_Fred"
+		"dynn_Gallic"
+		"dynn_George"
+		"dynn_Gladstone"
+		"dynn_Gus"
+		"dynn_Hanuse"
+		"dynn_Hleck"
+		"dynn_Housty"
+		"dynn_Humchitt"
+		"dynn_Hunt"
+		"dynn_Ignace"
+		"dynn_Jack"
+		"dynn_James"
+		"dynn_Jimmy"
+		"dynn_John"
+		"dynn_Kahclamat"
+		"dynn_Keitlah"
+		"dynn_Knighton"
+		"dynn_Little"
+		"dynn_Louie"
+		"dynn_Lucas"
+		"dynn_MacDonald"
+		"dynn_MacLeod"
+		"dynn_Mack"
+		"dynn_Maquinna"
+		"dynn_Martin"
+		"dynn_McCarthy"
+		"dynn_McLean"
+		"dynn_Mundy"
+		"dynn_Nahanee"
+		"dynn_Neel"
+		"dynn_Nookemus"
+		"dynn_Paul"
+		"dynn_Pootlass"
+		"dynn_Rempel"
+		"dynn_Robinson"
+		"dynn_Ross"
+		"dynn_Rush"
+		"dynn_Sabbas"
+		"dynn_Sam"
+		"dynn_Savey"
+		"dynn_Scow"
+		"dynn_Sewid"
+		"dynn_Shewish"
+		"dynn_Siwallace"
+		"dynn_Slett"
+		"dynn_Swan"
+		"dynn_Tallio"
+		"dynn_Tatoosh"
+		"dynn_Thomas"
+		"dynn_Titian"
+		"dynn_Touchie"
+		"dynn_Vickers"
+		"dynn_Waddell"
+		"dynn_Walkus"
+		"dynn_Waterfall"
+		"dynn_Watts"
+		"dynn_Willie"
+		}
+         
+        dynasty_of_location_prefix = ""
+        bastard_dynasty_prefix = ""
+        patronym_suffix_male = ""
+        patronym_suffix_female = ""
+        
+        pat_grf_name_chance = 25
+        mat_grf_name_chance = 0
+        father_name_chance = 40
+        pat_grm_name_chance = 25
+        mat_grm_name_chance = 25
+        mother_name_chance = 25
+        
+        mercenary_names = {
+            
+        }
+        
+}

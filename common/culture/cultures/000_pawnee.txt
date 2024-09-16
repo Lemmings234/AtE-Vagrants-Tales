@@ -1,0 +1,43 @@
+﻿pawnee = {
+	color = { 40 80 144 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_plains_sequoyan
+	language = language_pawnee
+	martial_custom = martial_custom_equal
+	name_list = name_list_pawnee
+	
+	traditions = {
+		tradition_stand_and_fight
+		tradition_loyal_soldiers
+		tradition_adaptive_skirmishing
+		tradition_equal_inheritance
+		tradition_three_sisters
+	}
+	
+	coa_gfx = {
+		woodlands_group_gfx
+	}
+	building_gfx = {
+		pawnee_building_gfx
+		tipi_building_gfx #Architecture-style
+		native_na_plains_building_gfx #Style
+		native_dry_building_gfx #Super-style
+		heritage_plains_sequoyan_building_gfx
+		african_building_gfx
+	}
+	clothing_gfx = {
+		woodlands_group_clothing_gfx
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		90 = amerindian
+		10 = white_indigenous
+	
+	}
+}

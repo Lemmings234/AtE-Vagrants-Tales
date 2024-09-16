@@ -1,0 +1,319 @@
+﻿##haha name jeff
+nunavois = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:quebecois
+				has_primary_title = title:k_nunavut
+			}
+			AND = {
+				scope:culture = culture:ontarien
+				has_primary_title = title:k_nunavut
+			}
+			AND = {
+				scope:culture = culture:acadien
+				has_primary_title = title:k_nunavut
+			}
+			AND = {
+				scope:culture = culture:montrealais
+				has_primary_title = title:k_nunavut
+			}
+		}
+	}
+}
+
+yukonnais = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:quebecois
+				has_primary_title = title:k_yukon
+			}
+			AND = {
+				scope:culture = culture:ontarien
+				has_primary_title = title:k_yukon
+			}
+			AND = {
+				scope:culture = culture:acadien
+				has_primary_title = title:k_yukon
+			}
+			AND = {
+				scope:culture = culture:montrealais
+				has_primary_title = title:k_yukon
+			}
+		}
+	}
+}
+
+tenois = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:quebecois
+				has_primary_title = title:k_denendeh
+			}
+			AND = {
+				scope:culture = culture:ontarien
+				has_primary_title = title:k_denendeh
+			}
+			AND = {
+				scope:culture = culture:acadien
+				has_primary_title = title:k_denendeh
+			}
+			AND = {
+				scope:culture = culture:montrealais
+				has_primary_title = title:k_denendeh
+			}
+		}
+	}
+}
+
+fransaskois = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:quebecois
+				has_primary_title = title:k_saskatchewan
+			}
+			AND = {
+				scope:culture = culture:ontarien
+				has_primary_title = title:k_saskatchewan
+			}
+			AND = {
+				scope:culture = culture:acadien
+				has_primary_title = title:k_saskatchewan
+			}
+			AND = {
+				scope:culture = culture:montrealais
+				has_primary_title = title:k_saskatchewan
+			}
+		}
+	}
+}
+
+terreneuvian = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:quebecois
+				has_primary_title = title:k_newfoundland
+			}
+			AND = {
+				scope:culture = culture:ontarien
+				has_primary_title = title:k_newfoundland
+			}
+			AND = {
+				scope:culture = culture:acadien
+				has_primary_title = title:k_newfoundland
+			}
+			AND = {
+				scope:culture = culture:montrealais
+				has_primary_title = title:k_newfoundland
+			}
+		}
+	}
+}
+
+mineirim = {
+	trigger = {
+		OR = {
+			AND = {
+				OR = {
+					has_primary_title = title:k_sudiminas
+					capital_county.kingdom = title:k_sudiminas
+				}
+				OR = {
+					scope:culture = culture:capiau
+					scope:culture = culture:mineiro
+				}
+			}
+		}
+	}
+}
+tieteense = {
+	trigger = {
+		OR = {
+			AND = {
+				OR = {
+					has_primary_title = title:k_tiete
+					capital_county.kingdom = title:k_tiete
+				}
+				OR = {
+					scope:culture = culture:caipira
+					scope:culture = culture:paulista
+					scope:culture = culture:capiau
+				}
+			}
+		}
+	}
+}
+porteirico = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:capiau
+			}
+			AND = {
+				scope:culture = culture:caipira
+			}
+		}
+	}
+}
+bandeirantico = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:paulista
+			}
+			AND = {
+				OR = {
+					scope:culture = culture:capiau
+					scope:culture = culture:caipira
+				}
+				OR = {
+					capital_county.kingdom = title:k_sao_paulo
+					capital_county.kingdom = title:k_tiete
+				}
+			}
+		}
+	}
+}
+sertanejo_raiz = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_western_sertanejo }
+			}
+		}
+	}
+}
+pe_rachado = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:goiano
+			}
+		}
+	}
+}
+mantiqueiro = {
+	trigger = {
+		OR = {
+			scope:culture = culture:capiau
+			scope:culture = culture:fluminense
+			scope:culture = culture:mineiro
+		}
+		OR = {
+			capital_county.duchy = title:d_campinas
+			capital_county.duchy = title:d_alta_mantiqueira
+			capital_county.duchy = title:d_sapucai
+			capital_county.duchy = title:d_alto_paraiba
+			capital_county.duchy = title:d_medio_paraiba
+			capital_county.duchy = title:d_paraibuna
+		}
+	}
+}
+
+corinthiano = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_paulistanico }
+			}
+		}
+	}
+}
+saopaulino = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_paulistanico }
+			}
+		}
+	}
+}
+atleticano = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:mineiro
+			}
+		}
+	}
+}
+cruzeirense = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:mineiro
+			}
+		}
+	}
+}
+flamenguista = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:carioca
+			}
+			AND = {
+				scope:culture = culture:fluminense
+			}
+		}
+	}
+}
+vascaino = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:carioca
+			}
+			AND = {
+				scope:culture = culture:fluminense
+			}
+		}
+	}
+}
+gremista = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = culture:gaucho
+			}
+			AND = {
+				scope:culture = culture:piatolino
+			}
+		}
+	}
+}
+maragato = {
+	trigger = {
+		OR = {
+			capital_county.kingdom = title:k_campanha
+			capital_county.kingdom = title:k_piratini
+			capital_county.kingdom = title:k_planalto
+			capital_county.kingdom = title:k_rio_grande_do_sul
+		}
+	}
+}
+ximango = {
+	trigger = {
+		OR = {
+			capital_county.kingdom = title:k_campanha
+			capital_county.kingdom = title:k_piratini
+			capital_county.kingdom = title:k_planalto
+			capital_county.kingdom = title:k_rio_grande_do_sul
+		}
+	}
+}
+quilombola = {
+	trigger = {
+		OR = {
+			AND = {
+				scope:culture = { has_cultural_pillar = heritage_geraizeiro }
+				scope:culture = { has_cultural_pillar = heritage_costeiro }
+				scope:culture = { has_cultural_pillar = heritage_cabano }
+			}
+		}
+	}
+}

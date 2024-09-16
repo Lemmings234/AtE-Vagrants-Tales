@@ -1,0 +1,52 @@
+﻿tocantinense = {
+	color = { 93 186 81 }
+	created = 2066.1.1
+	parents = { goiano sertanejo }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_western_sertanejo
+	language = language_cerradiano
+	martial_custom = martial_custom_male_only
+	name_list = name_list_tocantinense
+	
+	traditions = {
+		tradition_caatinga_dwellers
+		tradition_pastoralists
+		tradition_boiadeiros
+	}
+	
+	coa_gfx = {
+		tocantinense_coa_gfx
+		centrestino_group_gfx
+	}
+	building_gfx = {
+		tocantinense_building_gfx
+		brazilian_dry_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_western_sertanejo_building_gfx
+		steppe_mediterranean_building_gfx
+		mediterranean_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		centrestino_group_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		1 = asian
+		5 = african
+		5 = caucasian
+		20 = mediterranean
+		30 = mesoamerican_yuto_aztec
+		5 = black_white
+		5 = black_indigenous
+		30 = med_black_ind
+	
+	}
+}

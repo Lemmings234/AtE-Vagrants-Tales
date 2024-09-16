@@ -1,0 +1,45 @@
+﻿makushi = {
+	color = { 209 140 204 }
+	
+	ethos = ethos_communal
+	heritage = heritage_roraiman
+	language = language_macushi
+	martial_custom = martial_custom_male_only
+	name_list = name_list_makushi
+	
+	traditions = {
+		#TODO
+		tradition_deep_jungle_dwellers
+		tradition_kanaima_sorcery
+		tradition_warrior_monks
+	}
+	
+	coa_gfx = {
+		makushi_coa_gfx
+		amazonico_group_gfx
+	}
+	building_gfx = {
+		makushi_building_gfx
+		native_amazonian_building_gfx #Style
+		native_humid_building_gfx #Super-style
+		heritage_roraiman_building_gfx
+		amazonian_tribal_gfx
+		african_building_gfx
+		indian_building_gfx
+	}
+	clothing_gfx = {
+		amazonian_clothing_gfx
+		african_clothing_gfx
+	}
+	unit_gfx = {
+		sub_sahran_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		70 = amazonian
+		20 = mesoamerican_yuto_aztec
+	
+	}
+}

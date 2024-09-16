@@ -1,0 +1,46 @@
+﻿australino = {
+	color = { 219 110 137 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_patagon
+	language = language_patagon
+	martial_custom = martial_custom_male_only
+	name_list = name_list_australino
+	
+	traditions = {
+		#TODO
+		tradition_metal_craftsmanship
+		tradition_seafaring
+		tradition_fishermen
+	}
+	
+	coa_gfx = {
+		australino_coa_gfx
+	}
+	building_gfx = {
+		australino_building_gfx
+		native_austral_building_gfx #Style
+		native_cold_building_gfx #Super-style
+		heritage_patagon_building_gfx
+		steppe_building_gfx
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	unit_gfx = {
+		mongol_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		15 = byzantine
+		15 = mediterranean
+		25 = patagonian
+		5 = caucasian
+		10 = med_black_ind
+		1 = indian
+		20 = slavic
+		5 = white_indigenous
+	
+	}
+}

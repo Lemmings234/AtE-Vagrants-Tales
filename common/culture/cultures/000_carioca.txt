@@ -1,0 +1,57 @@
+﻿carioca = {
+	color = { 255 0 109 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_serra_do_mar
+	language = language_fluminense
+	martial_custom = martial_custom_male_only
+	name_list = name_list_carioca
+	
+	traditions = {
+		#TODO
+		tradition_mercenary_soccer
+		tradition_brazilian_cosmopolitanism
+		tradition_rogues_will_be_rogues
+		tradition_carnival
+	}
+	
+	coa_gfx = {
+		carioca_coa_gfx
+		serra_do_mar_group_gfx
+		sudestino_group_gfx
+	}
+	building_gfx = {
+		carioca_building_gfx
+		brazilian_tropical_building_gfx #Architecture-style
+		brazilian_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_serra_do_mar_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		malandro_clothing_gfx
+		byzantine_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		3 = arab
+		1 = asian
+		1 = asian_southeast_asian
+		1 = asian_southern_han
+		10 = caucasian
+		2 = east_african
+		30 = mediterranean
+		2 = slavic
+		4 = mesoamerican_yuto_aztec
+		20 = black_white
+		1 = white_asian
+		5 = black_indigenous
+		10 = med_black_ind
+	
+	}
+}

@@ -1,0 +1,59 @@
+﻿californiano = {
+	color = { 158 139 52 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_vaquero
+	language = language_norteno
+	martial_custom = martial_custom_male_only
+	name_list = name_list_californiano
+	
+	traditions = {
+		tradition_dryland_dwellers
+		tradition_practiced_pirates
+		tradition_xenophilic
+	}
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+	}
+	
+	coa_gfx = {
+		californiano_coa_gfx
+		norteno_group_gfx
+		mexicano_group_gfx
+	}
+	building_gfx = {
+		californiano_building_gfx
+		heritage_vaquero_building_gfx
+		mexican_north_building_gfx #Architecture-style
+		mexican_building_gfx #Style
+		frontier_building_gfx #Super-style
+		mediterranean_building_gfx
+		iberian_building_gfx
+	}
+	clothing_gfx = {
+		vaquero_clothes_gfx
+		mexicano_group_gfx
+		mena_clothing_gfx
+	}
+	unit_gfx = {
+		iberian_christian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		2 = asian
+		5 = white_asian
+		3 = asian_southern_han
+		8 = caucasian
+		2 = indian
+		20 = mediterranean
+		5 = mesoamerican_maya
+		5 = mesoamerican_yuto_aztec
+		25 = med_black_ind
+		5 = black_white
+		5 = multiracial
+		5 = asian_austronesian
+	
+	}
+}

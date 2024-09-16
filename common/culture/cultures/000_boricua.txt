@@ -1,0 +1,54 @@
+﻿boricua = {
+	color = { 237 167 239  }
+	
+	ethos = ethos_communal
+	heritage = heritage_greater_antillean
+	language = language_caribeno
+	martial_custom = martial_custom_equal
+	name_list = name_list_boricua
+	
+	traditions = {
+		#TODO
+		tradition_culinary_art
+		tradition_festivities
+		tradition_brewmasters
+		tradition_esteemed_hospitality
+	}
+	
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
+	}
+
+	coa_gfx = {
+		boricua_coa_gfx
+	}
+	building_gfx = {
+		boricua_building_gfx
+		hispano_caribbean_building_gfx #Architecture-style
+		caribbean_building_gfx #Style
+		latam_building_gfx #Super-style
+		heritage_greater_antillean_building_gfx
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+		caribeno_group_gfx
+	}
+	unit_gfx = {
+		indian_unit_gfx
+	}
+	
+	ethnicities = {
+		
+		10 = african
+		5 = caucasian
+		10 = mediterranean
+		20 = mesoamerican_yuto_aztec
+		30 = black_white
+		3 = asian_austronesian
+		2 = asian_southeast_asian
+		15 = multiracial
+	
+	}
+}
