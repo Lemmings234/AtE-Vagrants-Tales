@@ -239,5 +239,166 @@
 			doctrine = tenet_cthonic_redoubts
 			doctrine = tenet_shoreline_reverence
 		}
+		glorian = {
+			color = { 0.6 0.6 0.5 } 
+			
+			holy_site = stanley
+			holy_site = port_howard
+			holy_site = buenos_aires
+			holy_site = trelew
+			holy_site = bahia_thetis
+			holy_site = rio_gallegos
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_cthonic_redoubts
+			doctrine = tenet_shoreline_reverence
+			localization = {
+				#HighGodName
+				HighGodName = glorian_victoria_gloriana
+				HighGodNamePossessive = glorian_victoria_gloriana_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_SHE
+				HighGodHerselfHimself = CHARACTER_HERSELF
+				HighGodHerHis = CHARACTER_HERHIS_HER
+				HighGodNameAlternate = glorian_gloriana
+				HighGodNameAlternatePossessive = glorian_gloriana_possessive
+
+				#Creator
+				CreatorName = glorian_victoria_gloriana
+				CreatorNamePossessive = glorian_victoria_gloriana_possessive
+				CreatorSheHe = CHARACTER_SHEHE_IT
+				CreatorHerHis = CHARACTER_HERHIS_HER
+				CreatorHerHim = CHARACTER_HERHIS_HER
+
+				#HealthGod
+				HealthGodName = omenteller_king_of_life
+				HealthGodNamePossessive = omenteller_king_of_life_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = omenteller_mountain_mama
+				FertilityGodNamePossessive = omenteller_mountain_mama_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = omenteller_hammerswinger
+				WealthGodNamePossessive = omenteller_hammerswinger_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = omenteller_hobs
+				HouseholdGodNamePossessive = omenteller_hobs_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+				HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+				HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+				#FateGod
+				FateGodName = omenteller_mothman
+				FateGodNamePossessive = omenteller_mothman_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = vernacular_the_burning_bush
+				KnowledgeGodNamePossessive = vernacular_the_burning_bush_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+
+				#WarGod
+				WarGodName = omenteller_the_belled_buzzard
+				WarGodNamePossessive = omenteller_the_belled_buzzard_possessive
+				WarGodSheHe = CHARACTER_SHEHE_IT
+				WarGodHerHis = CHARACTER_HERHIS_ITS
+				WarGodHerHim = CHARACTER_HERHIM_IT
+
+				#TricksterGod
+				TricksterGodName = omenteller_moon_eyed_folk
+				TricksterGodNamePossessive = omenteller_moon_eyed_folk_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_THEY
+				TricksterGodHerHis = CHARACHTER_HERHIS_THEIR
+				TricksterGodHerHim = CHARACTER_HERHIM_THEM
+
+				#NightGod
+				NightGodName = omenteller_mothman
+				NightGodNamePossessive = omenteller_mothman_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_ERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = omenteller_ole_miss
+				WaterGodNamePossessive = omenteller_ole_miss_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				PantheonTerm = omenteller_pantheon
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					omenteller_he_that_is_that_he_is
+					omenteller_alpha_and_omega
+					omenteller_hammerswinger
+					vernacular_the_burning_bush
+					omenteller_king_of_life
+					omenteller_mothman
+					omenteller_mountain_mama
+					omenteller_the_light
+				}
+				DevilName = omenteller_the_devil
+				DevilNamePossessive = omenteller_the_devil_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					omenteller_the_devil
+					omenteller_the_bell_witch
+				}
+				HouseOfWorship = omenteller_house_of_worship
+				HouseOfWorshipPlural = omenteller_house_of_worship_plural
+				ReligiousSymbol = omenteller_religious_symbol
+				ReligiousText = omenteller_religious_text
+				ReligiousHeadName = omenteller_religious_head_title
+				ReligiousHeadTitleName = omenteller_religious_head_title_name
+				DevoteeMale = omenteller_devotee
+				DevoteeMalePlural = omenteller_devotee_plural
+				DevoteeFemale = omenteller_devotee
+				DevoteeFemalePlural = omenteller_devotee_plural
+				DevoteeNeuter = omenteller_devotee
+				DevoteeNeuterPlural = omenteller_devotee_plural
+				PriestMale = omenteller_priest
+				PriestMalePlural = omenteller_priest_plural
+				PriestFemale = omenteller_priest
+				PriestFemalePlural = omenteller_priest_plural
+				PriestNeuter = omenteller_priest
+				PriestNeuterPlural = omenteller_priest_plural
+				BishopMale = omenteller_bishop
+				BishopMalePlural = omenteller_bishop_plural
+				BishopFemale = omenteller_bishop
+				BishopFemalePlural = omenteller_bishop_plural
+				BishopNeuter = omenteller_bishop
+				BishopNeuterPlural = omenteller_bishop_plural
+				DivineRealm = omenteller_divine_realm
+				PositiveAfterLife = omenteller_positive_afterlife
+				NegativeAfterLife = omenteller_negative_afterlife
+				DeathDeityName = omenteller_sin_eater
+				DeathDeityNamePossessive = omenteller_sin_eater_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_HE
+				DeathDeityHerHis = CHARACTER_HERHIS_HIS
+				DeathDeityHerHim = CHARACTER_HERHIM_HIM
+				WitchGodName = omenteller_the_bell_witch
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+			}
+		}
 	}
 }
