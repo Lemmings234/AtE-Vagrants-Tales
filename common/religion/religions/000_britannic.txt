@@ -345,7 +345,7 @@
 					glorian_victoria_gloriana
 					glorian_the_queen
 					glorian_albion
-					glorian_the_marry_bard
+					glorian_the_merry_bard
 					glorian_the_holy_lamb
 					glorian_king_arthur
 				}
