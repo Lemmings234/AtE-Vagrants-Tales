@@ -1,5 +1,5 @@
 anglish = {
-	color = { 0.8 0.2 0.2 }
+	color = hsv { 0.8 0.2 0.2 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_britannic

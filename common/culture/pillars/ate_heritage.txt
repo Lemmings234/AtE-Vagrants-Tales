@@ -1508,3 +1508,16 @@ heritage_western_sertanejo = {
     }
     audio_parameter = european
 }
+heritage_britannic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_britannic
+		}
+	}
+	parameters = {
+		heritage_group_britannic = yes
+		heritage_family_european = yes
+	}
+	audio_parameter = european
+}

@@ -3,7 +3,7 @@ tags={
 	"Total Conversion"
 }
 dependencies={
-	After the End CK3 Dev
+	"ate-ck3"
 }
 name="After the End CK3: Vagrants' Tales"
 picture="thumbnail.png"

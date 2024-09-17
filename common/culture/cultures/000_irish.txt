@@ -2,8 +2,8 @@ irish = {
 	color = hsv { 0.43 0.86 0.61 }
 	
 	ethos = ethos_courtly
-	heritage = heritage_goidelic
-	language = language_goidelic
+	heritage = heritage_britannic
+	language = language_irish
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_pastoralists
@@ -11,7 +11,11 @@ irish = {
 		tradition_maritime_mercantilism
 		tradition_monastic_communities
 	}
-	
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_staunch_traditionalists
+	}
 	name_list = name_list_irish
 	
 	coa_gfx = { irish_coa_gfx western_coa_gfx }

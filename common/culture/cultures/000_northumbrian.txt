@@ -8,7 +8,7 @@ northumbrian = {
 	name_list = name_list_northumbrian
 	
 	traditions = {
-		tradition_metalworker
+		tradition_metal_craftsmanship
 		tradition_life_is_just_a_joke
 		tradition_culture_blending
 		tradition_hill_dwellers

@@ -7663,3 +7663,87 @@ language_skicinuwatuwewakon = {
     }
     color = { 15 34 126 }
 }
+language_anglish = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_anglish
+        }
+    }
+    parameters = {
+        language_group_atlantic = yes
+        language_family_englic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_anglish }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_englic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 207 20 43 }
+}
+language_scots = {
+	type = language
+	is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_scottish
+        }
+    }
+    parameters = {
+        language_group_atlantic = yes
+        language_family_englic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_scottish }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_englic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 0 36 125 }
+}
+language_irish = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_irish
+        }
+    }
+    parameters = {
+        language_group_atlantic = yes
+        language_family_gaelic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_irish }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_gaelic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 22 155 98 }
+}
