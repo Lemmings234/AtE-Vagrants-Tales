@@ -1113,6 +1113,12 @@ anglish:0 "Anglish"
 anglish_collective_noun:0 "Anglish"
 northumbrian:0 "Northumbrian"
 northumbrian_collective_noun:0 "Northumbrian"
+scottish:0 "Scottish"
+scottish_collective_noun:0 "Scottish"
+irish:0 "Irish"
+irish_collective_noun:0 "Irish"
+welsh:0 "Welsh"
+welsh_collective_noun:0 "Welsh"
 
 #Pre Event Dead Cultures
 dead_pre_event_group:0 "Pre-[Concept('the_event_ate','Event')|E]"

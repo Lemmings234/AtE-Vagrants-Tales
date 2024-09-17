@@ -1,17 +1,16 @@
-northumbrian = {
-	color = hsv { 0.8 0.3 0.3 }
+scottish = {
+	color = hsv { 0.3 0.7 0.7 }
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_bellicose
 	heritage = heritage_britannic
-	language = language_anglish
+	language = language_scots
 	martial_custom = martial_custom_equal
-	name_list = name_list_northumbrian
+	name_list = name_list_scottish
 	
 	traditions = {
-		tradition_metalworker
-		tradition_life_is_just_a_joke
-		tradition_culture_blending
-		tradition_hill_dwellers
+		tradition_mountain_homes
+		tradition_language_scholars
+		tradition_staunch_traditionalists
 	}
 	coa_gfx = {
 		yankee_coa_gfx
