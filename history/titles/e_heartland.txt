@@ -1,0 +1,619 @@
+
+k_papal_state = {
+    2666.7.4 = {
+        holder = heartland_muckham_paul_1
+    }
+}
+
+c_st_clair = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_mcmurtry_roscoe_1
+        liege = k_papal_state
+    }
+}
+
+c_st_louis = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = heartland_muckham_paul_1
+    }
+}
+
+c_st_charles = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = heartland_muckham_paul_1
+    }
+}
+
+c_rhineland = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_muckham_paul_1
+    }
+}
+
+#iowa
+k_iowa = {
+    2610.3.12 = {
+        holder = heartland_greysnow_doraway_1
+    }
+    2660.11.4 = {
+        holder = heartland_greysnow_franklin_1
+    }
+}
+
+d_des_moines = {
+    2666.7.4 = {
+        holder = heartland_greysnow_franklin_1
+    }
+}
+
+c_marshall = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_greysnow_franklin_1
+    }
+}
+
+c_des_moines = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = heartland_greysnow_franklin_1
+    }
+}
+
+d_hawkeye = {
+    2666.7.4 = {
+        holder = heartland_potter_sheldon_1
+        liege = k_iowa
+    }
+}
+
+c_cedar_rapids = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = heartland_potter_sheldon_1
+        liege = k_iowa
+    }
+}
+
+c_black_hawk = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_potter_sheldon_1
+        liege = k_iowa
+    }
+}
+
+c_wapello = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_otto_myron_1
+        liege = d_hawkeye
+    }
+}
+
+c_shoquoquon = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_otto_myron_1
+        liege = d_hawkeye
+    }
+}
+
+c_winneshiek = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = heartland_fisk_madison_1
+        liege = d_hawkeye
+    }
+}
+
+c_kossuth = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_rodman_clifton_1
+        liege = k_iowa
+    }
+}
+
+c_pottawattamie = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_rodman_clifton_1
+        liege = k_iowa
+    }
+}
+
+c_twain = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_langhorne_mark_1
+        liege = k_iowa
+    }
+}
+
+c_adair = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_clarke
+        liege = k_iowa
+    }
+}
+
+c_clarke = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_clarke
+        liege = k_iowa
+    }
+}
+
+c_nodaway = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_nodaway
+        liege = k_iowa
+    }
+}
+### NEW
+d_decorah = {
+	 2666.7.4 = {
+        holder = character_c_cerro_gordo
+        liege = k_iowa
+    }
+}
+
+d_decorah = {
+	 2666.7.4 = {
+        holder = character_c_cerro_gordo
+        liege = k_iowa
+    }
+}
+
+
+c_cerro_gordo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_cerro_gordo
+        liege = k_iowa
+    }
+}
+
+c_winona = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_cerro_gordo
+        liege = k_iowa
+    }
+}
+
+c_union = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_union
+        liege = k_iowa
+    }
+}
+
+d_siouxland = {
+    2666.7.4 = {
+        holder = heartland_steffensmeier_zechariah_1
+			liege = k_the_dakotas
+    }
+}
+c_blue_earth = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_steffensmeier_zechariah_1
+		liege = k_the_dakotas
+    }
+}
+
+c_redwood = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_steffensmeier_zechariah_1
+		liege = k_the_dakotas
+    }
+}
+
+c_sioux = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_sioux_center
+		liege = d_siouxland
+    }
+}
+
+c_brookings = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_brookings
+		liege = d_siouxland
+    }
+}
+
+c_okoboji = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_sioux_center
+		liege = d_siouxland
+    }
+}
+
+
+#kansas
+k_kansas = {
+	2637.4.4 = {
+		holder = heartland_garland_merriweather_1
+	}
+	2666.7.1 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+d_west_kansas = {
+    2666.7.4 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+c_finney = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+c_colby = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+c_oberlin = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+c_prowers = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_garland_dorothy_1
+    }
+}
+
+d_chisholm = {
+    2666.7.4 = {
+        holder = heartland_kollman_art_kdad
+    }
+}
+
+c_wichita = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = heartland_kollman_art_kdad
+    }
+}
+
+c_lyon = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_kollman_art_kdad
+    }
+}
+
+c_verdigris = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_rogers_christopher_1
+        liege = d_chisholm
+    }
+}
+
+c_labette = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_rogers_christopher_1
+        liege = d_chisholm
+    }
+}
+
+c_topeka = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = heartland_tilmann_arlo_1
+    }
+}
+
+c_riley = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_tilmann_arlo_1
+    }
+}
+
+c_bourbon = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_tilmann_arlo_1
+    }
+}
+
+#missouri
+k_missouri = {
+    2658.7.4 = {
+        holder = heartland_waldron_caroline_1
+    }
+}
+
+d_mid_missouri= {
+    2666.7.4 = {
+        holder = heartland_waldron_caroline_1
+    }
+}
+c_jefferson_city = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = heartland_waldron_caroline_1
+ 
+    }
+}
+c_kansas_city = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = heartland_branch_wallace_1
+        liege = k_missouri
+    }
+}
+
+c_kaysinger = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_mach_clayton_1
+        liege = k_missouri
+    }
+}
+
+c_saline = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_waldron_caroline_1
+   
+    }
+}
+
+c_bolivar = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_waldron_caroline_1
+
+    }
+}
+
+c_boonslick = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = heartland_lohman_callaway_1
+        liege = k_missouri
+    }
+}
+c_chariton = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_lohman_callaway_1
+        liege = k_missouri
+    }
+}
+
+
+d_bootheel = {
+    2666.7.4 = {
+        holder = heartland_crow_sara_crow1
+    }
+}
+
+c_new_madrid = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_crow_sara_crow1
+    }
+}
+
+c_cape_girardeau = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_crow_sara_crow1
+    }
+}
+
+c_ste_genevieve = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_boyer_philip_fair_dad
+        liege = d_bootheel
+    }
+}
+
+
+
+
+
+#nebraska
+k_nebraska = {
+
+	2666.7.4 = {
+        holder = heartland_svoboda_absalom_1
+    }
+}
+d_platte = {
+    2666.7.4 = {
+        holder = heartland_stall_george_stall_george
+        liege = k_nebraska
+    }
+}
+
+c_loup = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_stall_george_stall_george
+        liege = k_nebraska
+    }
+}
+
+c_holt = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_stall_george_stall_george
+        liege = k_nebraska
+    }
+}
+
+c_keya_paha = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = heartland_stall_george_stall_george
+        liege = k_nebraska
+    }
+}
+
+c_wildcat_hills = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_garland_jen_1
+    }
+}
+c_ogallala = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_hiramson_galen_1
+        liege = k_nebraska
+    }
+}
+
+d_republican = {
+    2666.7.4 = {
+        holder = heartland_hickox_dave_1
+        liege = k_nebraska
+    }
+}
+
+c_salina = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_hickox_dave_1
+        liege = k_nebraska
+    }
+}
+
+c_hays = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_hickox_dave_1
+        liege = k_nebraska
+    }
+}
+
+c_smoky_hills = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_hickox_dave_1
+        liege = k_nebraska
+    }
+}
+
+c_big_blue = {
+	2666.7.4 = { change_development_level = 3 }
+        2666.7.4 = {
+        holder = heartland_svoboda_absalom_1
+    }
+}
+
+c_north_platte = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_hickox_dave_1
+        liege = k_nebraska
+    }
+}
+
+c_bohemian_alps = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_svoboda_absalom_1
+    }
+}
+
+c_grand_island = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = heartland_svoboda_absalom_1
+    }
+}
+
+c_ninnescah = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = heartland_masterson_wyatt_1
+        liege = k_kansas
+    }
+}
+
+c_dodge_city = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_masterson_wyatt_1
+        liege = k_kansas
+    }
+}
+
+d_omaha = {
+    2666.7.4 = {
+        holder = heartland_laflesche_abe_1
+        government=nomadic_government
+    }
+}
+
+c_thurston = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_laflesche_abe_1
+    }
+}
+
+c_elkhorn = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = heartland_laflesche_abe_1
+    }
+}
+
+c_omaha = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = heartland_laflesche_abe_1
+    }
+}
+
+c_atchison = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_stringfellow_gus_1
+        liege = d_omaha
+    }
+}
+
+c_south_platte = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_south_platte
+		liege = k_kansas
+    }
+}

@@ -1,0 +1,437 @@
+﻿#Yucatan
+k_yucatan = {
+    2666.7.4 = {
+        holder = character_k_yucatan
+        government = high_republic_government
+        succession_laws = { oligarchy_elective_succession_law }
+    }
+}
+
+d_riviera_yucatan = {
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+d_ruta_puuc = {
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_merida = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_tekax = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_valladolid = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_uman = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_motul = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+c_kanasin = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_k_yucatan
+    }
+}
+
+d_quintana_roo = {
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+c_felipe_carrillo_puerto = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+c_tulum = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+c_chichancanab = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+c_xpujil = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+c_chetumal = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_d_chan_santa_cruz
+        liege = k_yucatan    
+    }
+}
+
+d_tabasco = {
+    2666.7.4 = {
+        holder = character_d_tabasco
+        liege = k_yucatan    
+    }
+}
+
+c_villahermosa = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_tabasco
+        liege = k_yucatan    
+    }
+}
+
+c_teapa = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_teapa
+        liege = d_tabasco    
+    }
+}
+
+c_cardenas = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_cardenas
+        liege = d_tabasco    
+    }
+}
+
+c_carmen = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_carmen
+        liege = d_tabasco    
+    }
+}
+
+d_luuma_ximbal = {
+    2666.7.4 = {
+        holder = character_d_luuma_ximbal
+        liege = k_yucatan    
+    }
+}
+
+c_solidaridad = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_luuma_ximbal
+        liege = k_yucatan    
+    }
+}
+
+c_cancun = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = character_d_luuma_ximbal
+        liege = k_yucatan    
+    }
+}
+
+c_grijalva = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_tabasco
+        liege = k_yucatan    
+    }
+}
+
+d_el_mirador = {
+    2666.7.4 = {
+        holder = character_d_el_mirador
+        liege = k_yucatan    
+    }
+}
+
+c_escarcega = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_el_mirador
+        liege = k_yucatan    
+    }
+}
+
+c_candelaria = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_el_mirador
+        liege = k_yucatan    
+    }
+}
+
+c_calakmul = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_el_mirador
+        liege = k_yucatan    
+    }
+}
+
+c_usumacinta = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_usumacinta
+        liege = d_el_mirador    
+    }
+}
+
+c_campeche = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = character_c_campeche
+        liege = k_yucatan    
+    }
+}
+
+c_champoton = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_campeche
+        liege = k_yucatan    
+    }
+}
+
+c_ticul = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_ticul
+        liege = k_yucatan    
+    }
+}
+
+c_calkini = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_ticul
+        liege = k_yucatan    
+    }
+}
+
+c_hopelchen = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_hopelchen
+        liege = k_yucatan    
+    }
+}
+
+c_tizimin = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_tizimin
+        liege = k_yucatan    
+    }
+}
+
+c_espita = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_tizimin
+        liege = k_yucatan    
+    }
+}
+
+c_cozumel = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_bardillas_diego_1  
+    }
+}
+
+#Chiapas
+#k_chiapas = {
+#}
+d_chiapa_alta = {
+    2666.7.4 = {
+        holder = character_d_chiapa_alta
+    }
+}
+
+c_ocosingo = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_d_chiapa_alta
+    }
+}
+
+c_tulija = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_chiapa_alta
+    }
+}
+
+c_san_cristobal_de_las_casas = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = colombia_astilla_miguel_angel_1
+        liege = d_chiapa_alta    
+    }
+}
+
+c_comitan = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = colombia_astilla_miguel_angel_1
+        liege = d_chiapa_alta    
+    }
+}
+
+c_tapachula = {
+    2666.7.4 = {
+        holder = centroamerica_pensamiento_samanta_1
+        liege = d_los_altos    
+    }
+}
+
+#Peten
+#k_peten = {
+#}
+d_peten_itza = {
+    2666.7.4 = {
+        holder = character_d_peten
+    }
+}
+
+c_el_sibal = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_peten
+    }
+}
+
+c_los_zendales = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_peten
+    }
+}
+
+c_poptun = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_poptun
+        liege = d_peten_itza    
+    }
+}
+
+c_sayaxche = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_sayaxche
+        liege = d_peten_itza    
+    }
+}
+
+c_machaquila = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_poptun
+        liege = d_peten_itza    
+    }
+}
+
+c_laguna_del_tigre = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_c_laguna_del_tigre
+        liege = d_peten_itza    
+    }
+}
+
+d_belice = {
+    2666.7.4 = {
+        holder = caribe_witz_arana_1  
+    }
+}
+
+c_belize = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_witz_arana_1
+        liege = k_west_indies    
+    }
+}
+
+c_toledo_1 = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = caribe_witz_arana_1
+        liege = k_west_indies    
+    }
+}
+
+c_cayo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = caribe_thiessen_wilhelm_1
+        liege = d_belice    
+    }
+}
+
+c_orange_walk = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_tzalam_eloy_1
+        liege = d_belice    
+    }
+}
+
+c_tikal = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_peten
+    }
+}
+
+c_peten_itza = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_peten
+    }
+}
+
+#k_campeche = {
+#}

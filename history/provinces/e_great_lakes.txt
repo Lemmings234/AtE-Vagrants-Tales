@@ -1,0 +1,1056 @@
+#e_great_lakes
+#k_chicagoland
+#d_chicagoland
+#c_chicago
+#b_us_il_chicago
+7317 = {
+	culture = chicagoan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_in_hammond
+2233 = {
+	culture = chicagoan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_orland_park
+2234 = {
+	culture = chicagoan
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_naperville
+2229 = {
+	culture = chicagoan
+	religion = catholic
+	holding = none
+}
+#c_dupage
+#b_us_il_aurora
+2232 = {
+	culture = chicagoan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_wasco
+2231 = {
+	culture = chicagoan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_plano
+2230 = {
+	culture = chicagoan
+	religion = catholic
+	holding = none
+}
+#c_north_shore
+#b_us_il_waukegan
+2513 = {
+	culture = chicagoan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_elgin
+2514 = {
+	culture = chicagoan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_woodstock
+2512 = {
+	culture = chicagoan
+	religion = catholic
+	holding = church_holding
+}
+#d_peoria
+#c_winnebago
+#b_us_il_rockford
+8755 = {
+	culture = chicagoan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_belvidere
+8758 = {
+	culture = chicagoan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_dekalb
+8756 = {
+	culture = chicagoan
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_ottawa
+8757 = {
+	culture = chicagoan
+	religion = catholic
+	holding = none
+}
+#c_peoria
+#b_us_il_peoria
+2798 = {
+	culture = heartlander
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_canton
+2800 = {
+	culture = heartlander
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_princeton
+2797 = {
+	culture = heartlander
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_kewanee
+2799 = {
+	culture = heartlander
+	religion = catholic
+	holding = none
+}
+#b_us_il_abingdon
+2796 = {
+	culture = heartlander
+	religion = catholic
+	holding = none
+}
+#c_pecatonica
+#b_us_il_sterling
+9513 = {
+	culture = heartlander
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_freeport
+9512 = {
+	culture = heartlander
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_dixon
+9514 = {
+	culture = heartlander
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_galena
+9511 = {
+	culture = heartlander
+	religion = catholic
+	holding = none
+}
+#c_tazewell
+#b_us_il_pekin
+4684 = {
+	culture = hoosier
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_washington
+7547 = {
+	culture = chicagoan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_streator
+7548 = {
+	culture = chicagoan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_eureka
+7546 = {
+	culture = chicagoan
+	religion = catholic
+	holding = church_holding
+}
+#d_kaskaskia
+#c_coles
+#b_us_il_charleston
+8334 = {
+	culture = hoosier
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_taylorville
+8335 = {
+	culture = hoosier
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_shelbyville
+8336 = {
+	culture = hoosier
+	religion = catholic
+	holding = none
+}
+#b_us_il_pana
+8337 = {
+	culture = hoosier
+	religion = catholic
+	holding = none
+}
+#c_effingham
+#b_us_il_effingham
+8338 = {
+	culture = hoosier
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_vandalia
+11649 = {
+	culture = riverlander
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_fairfield
+5126 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#c_richland
+#b_us_il_olney
+5128 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = castle_holding
+}
+#b_us_il_robinson
+5125 = {
+	culture = riverlander
+	religion = hearthtender
+	holding = none
+}
+#k_ohio
+#d_the_reserve
+#c_cleveland
+#b_us_oh_cleveland
+7498 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_strongsville
+7497 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_lorain
+7496 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_oh_vermilion_on_the_lake
+7495 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#c_akron
+#b_us_oh_akron
+3464 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_canton
+11642 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_massillon
+11643 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_oh_wooster
+3463 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#c_ashtabula
+#b_us_oh_mentor
+8966 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_ashtabula
+8967 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_middlefield
+8968 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#d_maumee
+#c_toledo
+#b_us_oh_toledo
+8743 = {
+	culture = motowner
+	religion = islahiyyun
+	holding = castle_holding
+}
+#b_us_oh_sylvania
+8742 = {
+	culture = motowner
+	religion = islahiyyun
+	holding = city_holding
+}
+#b_us_oh_wauseon
+8744 = {
+	culture = motowner
+	religion = islahiyyun
+	holding = church_holding
+}
+#c_sandusky
+#b_us_oh_bowling_green
+5274 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_sandusky
+5271 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_fremont
+5272 = {
+    culture = buckeye
+    religion = galvanist
+    holding = church_holding
+    1936.06.02 = {
+        special_building = perrys_victory
+    }
+}
+#b_us_oh_shelby
+5273 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#c_findlay
+#b_us_oh_findlay
+6632 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_van_wert
+6631 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_ottawa
+11658 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_defiance
+#b_us_oh_napoleon
+6630 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_defiance
+6629 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_oh_bryan
+5311 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#d_upper_ohio
+#c_mahoning
+#b_us_oh_youngstown
+794 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_steubenville
+795 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_alliance
+793 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#c_belmont
+#b_us_oh_martins_ferry
+8614 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = castle_holding
+}
+#b_us_wv_new_martinsville
+8612 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = church_holding
+}
+#b_us_oh_caldwell
+8613 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = none
+}
+#c_guernsey
+#b_us_oh_cambridge
+8616 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = castle_holding
+}
+#b_us_oh_uhrichsville
+8611 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = city_holding
+}
+#b_us_oh_duncan_falls
+8615 = {
+	culture = buckeye
+	religion = hearthtender
+	holding = none
+}
+#k_michigan
+#d_detroit
+#c_detroit
+#b_us_mi_detroit
+571 = {
+	culture = motowner
+	religion = galvanist
+	holding = castle_holding
+	2005.5.12 = {
+		special_building = dearborn_islamic_center_1
+	}
+	1900.1.1 = {special_building = natural_harbour}
+}
+#b_us_mi_trenton
+5719 = {
+	culture = motowner
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_livonia
+5720 = {
+	culture = motowner
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_monroe
+5718 = {
+	culture = motowner
+	religion = galvanist
+	holding = church_holding
+}
+#c_oakland
+#b_us_mi_mount_clemens
+6796 = {
+	culture = motowner
+	religion = ansari
+	holding = castle_holding
+}
+#b_us_mi_pontiac
+6797 = {
+	culture = motowner
+	religion = ansari
+	holding = city_holding
+}
+#b_us_mi_lapeer
+6795 = {
+	culture = motowner
+	religion = ansari
+	holding = church_holding
+}
+#c_washtenaw
+#b_us_mi_ann_arbor
+6263 = {
+	culture = motowner
+	religion = galvanist
+	holding = castle_holding
+	1817.8.26 = {
+		special_building = generic_university
+	}
+}
+#b_us_mi_adrian
+6265 = {
+	culture = motowner
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_milan
+6264 = {
+	culture = motowner
+	religion = galvanist
+	holding = church_holding
+}
+#c_blue_water
+#b_us_mi_port_huron
+1259 = {
+	culture = motowner
+	religion = ansari
+	holding = castle_holding
+}
+#b_us_mi_richmond
+1258 = {
+	culture = motowner
+	religion = ansari
+	holding = city_holding
+}
+#b_us_mi_yale
+1257 = {
+	culture = motowner
+	religion = ansari
+	holding = church_holding
+}
+#d_midmichigan
+#c_lansing
+#b_us_mi_lansing
+7779 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_holt
+11662 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_waverly
+7776 = {
+	culture = michigander
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_saint_johns
+7778 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_fowlerville
+7777 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#c_kalamazoo
+#b_us_mi_kalamazoo
+563 = {
+	culture = potawatomi
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_mi_battle_creek
+560 = {
+	culture = potawatomi
+	religion = catholic
+	holding = city_holding
+}
+#b_us_mi_three_rivers
+561 = {
+	culture = potawatomi
+	religion = catholic
+	holding = church_holding
+}
+#b_us_mi_bronson
+562 = {
+	culture = potawatomi
+	religion = catholic
+	holding = none
+}
+#c_flint
+#b_us_mi_flint
+4299 = {
+	culture = motowner
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_owosso
+4300 = {
+	culture = motowner
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_walled_lake
+4298 = {
+	culture = motowner
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_howell
+4297 = {
+	culture = motowner
+	religion = galvanist
+	holding = none
+}
+#c_jacksonburg
+#b_us_mi_jackson
+6093 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_hillsdale
+6091 = {
+	culture = michigander
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_coldwater
+6092 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_albion
+6094 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#d_west_michigan
+#c_grand_rapids
+#b_us_mi_grand_rapids
+5991 = {
+	culture = michigander
+	religion = promethean
+	holding = castle_holding
+}
+#b_us_mi_walker
+5992 = {
+	culture = michigander
+	religion = promethean
+	holding = city_holding
+}
+#b_us_mi_ionia
+5993 = {
+	culture = michigander
+	religion = promethean
+	holding = church_holding
+}
+#b_us_mi_hastings
+5990 = {
+	culture = michigander
+	religion = promethean
+	holding = none
+}
+#c_muskegon
+#b_us_mi_muskegon
+8953 = {
+	culture = michigander
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_holland
+8952 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_whitehall
+8954 = {
+	culture = michigander
+	religion = lakeshore
+	holding = church_holding
+}
+#c_st_joseph
+#b_us_mi_benton_harbor
+111 = {
+	culture = chicagoan
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_dowagiac
+112 = {
+	culture = chicagoan
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_allegan
+110 = {
+	culture = chicagoan
+	religion = lakeshore
+	holding = church_holding
+}
+#c_manistee
+#b_us_mi_big_rapids
+9410 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_ludington
+9411 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_manistee
+9412 = {
+	culture = michigander
+	religion = lakeshore
+	holding = church_holding
+}
+#b_us_mi_baldwin
+9413 = {
+	culture = michigander
+	religion = lakeshore
+	holding = none
+}
+#d_saginaw
+#c_saginaw
+#b_us_mi_saginaw
+4612 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_beecher
+4616 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_bay_city
+4614 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#b_us_mi_shields
+4613 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#c_iosco
+#b_us_mi_midland
+962 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_east_tawas
+964 = {
+	culture = michigander
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_skidway_lake
+963 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#c_the_thumb
+#b_us_mi_caro
+851 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_sandusky
+850 = {
+	culture = michigander
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_bad_axe
+849 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_marlette
+848 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#d_upnorth
+#c_grand_traverse
+#b_us_mi_traverse_city
+902 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_frankfort
+905 = {
+	culture = michigander
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_suttons_bay
+904 = {
+	culture = michigander
+	religion = lakeshore
+	holding = church_holding
+}
+#c_antrim
+#b_us_mi_bay_harbor
+3069 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_elk_rapids
+903 = {
+	culture = michigander
+	religion = lakeshore
+	holding = church_holding
+}
+#b_us_mi_kalkaska
+839 = {
+	culture = michigander
+	religion = lakeshore
+	holding = none
+}
+#c_mackinac
+#b_us_mi_petoskey
+3072 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+	1957.11.1 = {
+		special_building = pillars_of_mackinac_south
+	}
+}
+#b_us_mi_cheboygan
+3071 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_saint_james
+3073 = {
+	culture = upnorther
+	religion = strangite
+	holding = tribal_holding
+}
+#b_us_mi_rogers_city
+3070 = {
+	culture = michigander
+	religion = lakeshore
+	holding = none
+}
+#c_alpena
+#b_us_mi_alpena
+3472 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_hubbard_lake
+3474 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_hillman
+3473 = {
+	culture = michigander
+	religion = lakeshore
+	holding = church_holding
+}
+#c_gaylord
+#b_us_mi_gaylord
+841 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_grayling
+840 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#d_mount_pleasant
+#c_isabella
+#b_us_mi_mount_pleasant
+1311 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_clare
+1313 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_mi_harrison
+1566 = {
+	culture = michigander
+	religion = galvanist
+	holding = church_holding
+}
+#c_gratiot
+#b_us_mi_alma
+1312 = {
+	culture = michigander
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_mi_canadian_lakes
+1314 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#b_us_mi_stanton
+1315 = {
+	culture = michigander
+	religion = galvanist
+	holding = none
+}
+#c_wexford
+#b_us_mi_cadillac
+1565 = {
+	culture = upnorther
+	religion = lakeshore
+	holding = castle_holding
+}
+#b_us_mi_houghton_lake
+1564 = {
+	culture = michigander
+	religion = lakeshore
+	holding = city_holding
+}
+#b_us_mi_lake_city
+1567 = {
+	culture = michigander
+	religion = lakeshore
+	holding = none
+}
+#k_indiana
+#d_michiana
+#c_gary
+#b_us_in_gary
+8806 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_portage
+8807 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_in_michigan_city
+8808 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = city_holding
+}
+#c_south_bend
+#b_us_in_south_bend
+2303 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_la_porte
+11635 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_elkhart
+2305 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_mi_sturgis
+2304 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#c_fort_wayne
+#b_us_in_fort_wayne
+5310 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_huntington
+#11653 = {
+#	culture = hoosier
+#	religion = galvanist
+#	holding = castle_holding
+#}
+#b_us_in_auburn
+5313 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_kendallville
+5312 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_columbia_city
+11654 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#c_kosciusko
+#b_us_in_warsaw
+2225 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_logansport
+2224 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_knox
+2223 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}

@@ -1,0 +1,593 @@
+﻿#Miskito
+
+k_miskito = {
+    2666.7.4 = {
+        holder = centroamerica_sully_jonathan_jonathan_sully
+    }
+}
+
+d_mosquito_coast = {
+    2666.7.4 = {
+        holder = centroamerica_sully_jonathan_jonathan_sully
+    }
+}
+
+c_bluefields = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_sully_jonathan_jonathan_sully
+    }
+}
+
+c_wawashang = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_sully_jonathan_jonathan_sully
+    }
+}
+
+c_nueva_guinea = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_sully_jonathan_jonathan_sully
+    }
+}
+
+d_gracias_a_dios = {
+    2666.7.4 = {
+        holder = centroamerica_forbes_charlie_1
+        liege = k_miskito    
+    }
+}
+
+c_bonanza = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_forbes_charlie_1
+        liege = k_miskito    
+    }
+}
+
+c_puerto_cabezas = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_forbes_charlie_1
+        liege = k_miskito    
+    }
+}
+
+c_puerto_lempira = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_ereba_sara_1
+        liege = d_gracias_a_dios    
+    }
+}
+
+c_siuna = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_cunningham_edward_gordon_1
+        liege = d_gracias_a_dios    
+    }
+}
+
+c_chontales = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_sobalvarro_zulema_1
+        liege = k_miskito    
+    }
+}
+
+c_rio_san_juan = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_sobalvarro_zulema_1
+        liege = k_miskito    
+    }
+}
+
+c_co_25_san_andr_s = {
+	2666.7.4 = { change_development_level = 5 }
+	2666.7.4 = {
+        holder = character_c_co_25_san_andr_s
+		liege = k_miskito 
+    }
+}
+
+#Costa Rica
+
+k_costa_rica = {
+    2666.7.4 = {
+        holder = centroamerica_lizano_dario_dario_lizano
+    }
+}
+
+d_san_jose = {
+    2666.7.4 = {
+        holder = centroamerica_lizano_dario_dario_lizano
+    }
+}
+
+c_puntarenas = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_lizano_dario_dario_lizano
+    }
+}
+
+c_managua = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = centroamerica_lizano_dario_dario_lizano
+    }
+}
+
+c_san_jose = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = centroamerica_lizano_dario_dario_lizano
+    }
+}
+
+c_cartago = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_drummond_donovan_1
+        liege = k_costa_rica    
+    }
+}
+
+c_heredia = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_povedano_anir_anir_povedano
+        liege = k_costa_rica    
+    }
+}
+
+c_osa = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_musmanni_gala_gala_musmanni
+        liege = k_costa_rica    
+    }
+}
+
+c_alajuela = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_povedano_anir_anir_povedano
+        liege = k_costa_rica    
+    }
+}
+
+c_liberia = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_azofeifa_manrique_1
+        liege = k_costa_rica    
+    }
+}
+
+c_limon = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_drummond_donovan_1
+        liege = k_costa_rica    
+    }
+}
+
+
+
+
+#El Salvador
+#k_el_salvador = {
+#}
+
+d_san_salvador = {
+    2666.7.4 = {
+        holder = centroamerica_siman_efrain_efrain_siman
+    }
+}
+
+c_san_salvador = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = centroamerica_siman_efrain_efrain_siman
+    }
+}
+
+c_santa_ana = {
+    2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = centroamerica_siman_efrain_efrain_siman
+    }
+}
+
+c_usulutan = {
+	2666.7.4 = { change_development_level = 6 }
+    2662.4.16= {
+		government = high_republic_government
+        holder = centroamerica_armas_justo_justo_armas
+        liege = d_san_salvador
+    }
+}
+
+c_san_miguel = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_usulutan
+        liege = d_san_salvador    
+    }
+}
+
+c_cuscatlan = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_menjivar_martina_1
+        liege = d_san_salvador    
+    }
+}
+
+c_morazan = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_entepica_carlos_1
+        liege = d_lempira    
+    }
+}
+
+#Guatemala
+#k_guatemala = {
+#}
+d_guatemala = {
+    2666.7.4 = {
+        holder = centroamerica_montufar_ricardo_ricardo_montufar
+    }
+}
+
+c_guatemala = {
+	2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = centroamerica_montufar_ricardo_ricardo_montufar
+    }
+}
+
+c_suchitepequez = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = centroamerica_montufar_ricardo_ricardo_montufar
+    }
+}
+
+c_jalapa = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = centroamerica_montufar_ricardo_ricardo_montufar
+    }
+}
+
+c_escuintla = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = centroamerica_icute_pantaleon_1
+        liege = d_guatemala    
+    }
+}
+
+c_jutiapa = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = centroamerica_linares_margarito_1
+        liege = d_guatemala    
+    }
+}
+
+d_chiapa_baja = {
+    2666.7.4 = {
+        holder = centroamerica_ch_akanik_humberto_humberto_chakanik
+    }
+}
+
+c_cintalapa = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_ch_akanik_humberto_humberto_chakanik
+    }
+}
+
+c_tuxtla = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = centroamerica_ch_akanik_humberto_humberto_chakanik
+    }
+}
+
+c_la_frailesca = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = omeya_cordoba
+		liege = d_chiapa_baja
+    }
+}
+
+c_tonala = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_ch_akanik_humberto_humberto_chakanik
+    }
+}
+
+c_jaltenango = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = omeya_cordoba
+		liege = d_chiapa_baja
+    }
+}
+
+c_tapachula = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = centroamerica_pensamiento_samanta_1
+        liege = d_los_altos    
+    }
+}
+
+c_quetzaltenango = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = centroamerica_pensamiento_samanta_1
+        liege = d_los_altos    
+    }
+}
+
+d_sula = {
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_roatan = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_izabal = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_atlantida = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_yoro = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_siguatepeque = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = centroamerica_fon_an_marielena_marielena_fonan
+    }
+}
+
+c_san_pedro_sula = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = character_c_santa_barbara_1
+        liege = d_sula    
+    }
+}
+
+c_trujillo = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_thomas_barbara_1
+        liege = d_sula        
+    }
+}
+
+c_huehuetenango = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_huehuetenango
+ 
+    }
+}
+
+c_chimaltenango = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = character_d_quetzaltenango
+    }
+}
+
+#Honduras
+#k_honduras = {
+#}
+d_olancho = {
+    2666.7.4 = {
+        holder = character_d_olancho
+    }
+}
+
+c_tegucigalpa = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = character_d_olancho
+    }
+}
+
+c_choluteca = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = centroamerica_xatruch_cecilio_1
+        liege = d_olancho    
+    }
+}
+
+c_guaype = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_guaype
+        liege = d_olancho    
+    }
+}
+
+c_juticalpa = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_juticalpa
+        liege = d_olancho    
+    }
+}
+
+c_el_paraiso = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_juticalpa
+        liege = d_olancho    
+    }
+}
+
+d_copan = {
+    2666.7.4 = {
+        holder = centroamerica_olimpio_amaleki_amaleki_olimpio
+    }
+}
+
+c_copan = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = centroamerica_olimpio_amaleki_amaleki_olimpio
+    }
+}
+
+c_yojoa = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_olimpio_amaleki_amaleki_olimpio
+    }
+}
+
+c_intibuca = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = centroamerica_olimpio_amaleki_amaleki_olimpio
+    }
+}
+
+c_comayagua = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = centroamerica_del_valle_aurelio_1
+        liege = d_lempira    
+    }
+}
+
+c_ixcan = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_ixcan
+
+    }
+}
+
+c_alta_verapaz = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_ixcan
+
+    }
+}
+
+c_baja_verapaz = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_ixcan
+    }
+}
+
+#Nicaragua
+
+k_nicaragua = {
+    2666.7.4 = {
+        holder = centroamerica_guardabarranco_violeta_violeta_guardabarranco
+    }
+}
+
+d_matagalpa = {
+    2666.7.4 = {
+        holder = centroamerica_guardabarranco_violeta_violeta_guardabarranco
+    }
+}
+
+c_matagalpa = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = centroamerica_guardabarranco_violeta_violeta_guardabarranco
+    }
+}
+
+c_jinotega = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_jinotega
+        liege = k_nicaragua    
+    }
+}
+
+c_nueva_segovia = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = centroamerica_yalaguino_enrique_1
+        liege = k_nicaragua   
+    }
+}
+
+c_xolotlan = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_xolotlan
+        liege = k_nicaragua 
+    }
+}
+
+c_rivas = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_rivas
+        liege = k_nicaragua   
+    }
+}
+
+c_managua = {
+    2666.7.4 = {
+        holder = character_c_xolotlan
+        liege = k_nicaragua  
+    }
+}
+
+c_masaya = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_rivas
+        liege = k_nicaragua     
+    }
+}

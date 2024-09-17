@@ -1,0 +1,528 @@
+﻿#Paraguay
+
+k_paraguay = {
+	1813.10.12 = {
+		holder = jose_gaspar_garcia_de_francia
+	}
+	1840.9.20 = {
+		holder = carlos_antonio_lopez
+	}
+	1862.9.2 = {
+		holder = francisco_solano_lopez
+	}
+	2364.12.25 = {
+		holder = alfonso_gelly
+	}
+	2396.4.3 = {
+		holder = luis_gelly
+	}
+	2421.1.7 = {
+		holder = jose_gelly
+	}
+	2447.12.13 = {
+		holder = hayes_gelly
+	}
+	2489.11.31 = {
+		holder = jose_lovera
+	}
+	2521.1.24 = {
+		holder = alberto_lovera
+	}
+	2530.4.21 = {
+		holder = adentak_aracuyu
+	}
+	2552.1.10 = {
+		holder = katu_aracuyu
+	}
+	2581.1.21 = {
+		holder = adentak2_aracuyu
+	}
+	2599.6.19 = {
+		holder = hayes_matvichuk
+	}
+	2601.2.30 = {
+		holder = alfonso_dynn_laplata_jara
+	}
+	2630.1.31 = {
+		holder = hayes_dynn_laplata_jara	
+	}
+    2664.6.13 = {
+        holder = character_k_paraguay
+    }
+}
+
+c_asuncion = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = character_k_paraguay
+    }
+}
+
+d_lower_parana = {
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_neembucu = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_itapua = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_caazapa = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_guaira = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_san_juan_bautista = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_encarnacion = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_paraguari = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = gran_chaco_okabayashi_sepe_1
+        liege = k_paraguay    
+    }
+}
+
+c_hernandarias = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_san_alberto
+        liege = d_lower_parana    
+    }
+}
+
+c_caaguazu = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_san_alberto
+        liege = d_lower_parana    
+    }
+}
+
+d_aquidaban = {
+    2666.7.4 = {
+        holder = character_d_aquidaban
+        liege = k_paraguay    
+    }
+}
+
+c_cordillera = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_aquidaban
+        liege = k_paraguay    
+    }
+}
+
+c_san_estanislao = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_aquidaban
+        liege = k_paraguay    
+    }
+}
+
+c_capiibary = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_aquidaban
+        liege = k_paraguay    
+    }
+}
+
+c_san_pedro = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_de_san_pedro
+        liege = d_aquidaban    
+    }
+}
+
+c_concepcion = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_de_san_pedro
+        liege = d_aquidaban    
+    }
+}
+
+d_upper_parana = {
+    2666.7.4 = {
+        holder = character_d_upper_parana
+        liege = k_paraguay        
+    }
+}
+
+c_minga_guazu = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_upper_parana
+        liege = k_paraguay        
+    }
+}
+
+#Chaco
+#k_chaco = { 
+#}
+
+d_chaco_oriental = {
+    2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_capitan_pablo_lagerenza = {
+	2666.7.4 = { change_development_level = 1 }
+	2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_fuerte_olimpo = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_puerto_casado = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_boqueron = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_nueva_asuncion = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_chaco_oriental
+		government = range_government
+    }
+}
+
+c_filadelfia = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_filadelfia
+        liege = d_chaco_oriental    
+    }
+}
+
+
+d_formosa = {
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_nueva_pompeya = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_pilcomayo = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_patino = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_copo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_presidente_hayes = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_formosa
+    }
+}
+
+c_matacos = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_ingeniero_guillermo_n_juarez
+        liege = d_formosa    
+    }
+}
+
+d_chaco_austral = {
+    2666.7.4 = {
+        holder = character_d_chaco_austral
+    }
+}
+
+c_resistencia = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_chaco_austral
+    }
+}
+
+c_saenz_pena = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_chaco_austral
+    }
+}
+
+c_castelli = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_chaco_austral
+    }
+}
+
+#Grigota
+#NEED TO MAKE DEFACTO
+k_grigota = { 
+	2666.7.4 = {
+		holder = character_c_montero
+		government = feudal_government
+	}
+}
+
+d_santa_cruz = { 
+	2666.7.4 = {
+		holder = character_c_montero
+		government = feudal_government
+	}
+}
+
+c_ichilo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_la_guardia
+        liege = k_grigota 
+		government = feudal_government
+    }
+}
+d_chiquitania = {
+	2666.7.4 = {
+        holder = character_c_pailon
+    }
+}
+c_pailon = { 
+	2666.7.4 = { change_development_level = 3 }
+	2666.7.4 = {
+        holder = character_c_pailon
+    }
+}
+c_camiri = {
+	2666.7.4 = { change_development_level = 5 }
+	2666.7.4 = {
+        holder = character_c_pailon
+    }
+}
+c_vallegrande = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_vallegrande
+        liege = d_chiquitania    
+    }
+}
+
+c_chiquitos = {
+	2666.7.4 = { change_development_level = 3 }
+	2666.7.4 = {
+        holder = character_c_pailon
+    }
+}
+
+c_velasco = {
+	2666.7.4 = { change_development_level = 3 }
+	2666.7.4 = {
+		holder = character_c_velasco
+		liege = d_chiquitania
+	}
+}
+
+c_wasteland = {
+	2666.7.4 = { change_development_level = 1 }
+	2666.7.4 = {
+		holder = character_c_velasco
+		liege = d_chiquitania
+	}
+}
+
+d_santa_cruz = {
+	2666.7.4 = {
+        holder = character_c_montero
+		government = feudal_government
+    }
+}
+
+c_santa_cruz_de_la_sierra ={
+	2666.7.4 = { change_development_level = 16 }
+	2666.7.4 = {
+        holder = character_c_montero
+		government = feudal_government
+    }
+}
+c_marban ={
+	2666.7.4 = { change_development_level = 0 }
+	2666.7.4 = {
+        holder = character_c_marban
+        liege = k_grigota    
+    }
+}
+c_ascension_de_guarayos = {
+	2666.7.4 = { change_development_level = 3 }
+	2666.6.4 = {
+		holder = character_c_la_guardia
+		liege = k_grigota
+		}
+}
+c_carrasco = {
+	2666.7.4 = { change_development_level = 4 }
+	2666.7.4 = {
+	holder = character_c_carrasco
+	liege = k_grigota
+	}
+}
+d_beni = {
+	2666.7.4 = {
+	holder = character_c_mamore
+	liege = k_grigota
+	}
+}
+c_mamore = {
+	2666.7.4 = { change_development_level = 2 }
+	2666.7.4 = {
+	holder = character_c_mamore
+	liege = k_grigota
+	government = feudal_government
+	}
+}
+c_itenez = {
+	2666.7.4 = { change_development_level = 2 }
+	2666.7.4 = {
+	holder = character_c_mamore
+	liege = k_grigota
+	government = feudal_government
+	}
+}
+c_cercado = {
+	2666.7.4 = { change_development_level = 6 }
+	2666.7.4 = {
+	holder = character_c_mamore
+	liege = k_grigota
+	government = feudal_government
+	}
+}
+c_moxos ={
+	2666.7.4 = { change_development_level = 0 }
+	2666.7.4 = {
+	holder = character_c_moxos
+	liege = d_beni
+	}
+}
+d_madre_de_dios = {
+	2666.7.4 = {
+	holder = character_d_madre_de_dios
+	}
+}
+c_santos_reyes = {
+	2666.7.4 = { change_development_level = 0 }
+	2666.7.4 = {
+	holder = character_d_madre_de_dios
+	}
+}
+c_san_borja = {
+	2666.7.4 = { change_development_level = 4 }
+	2666.7.4 = {
+	holder = character_d_madre_de_dios
+	}
+}
+c_riberalta = {
+	2666.7.4 = { change_development_level = 5 }
+	2666.7.4 = {
+	holder = character_d_madre_de_dios
+	}
+}
+d_pando = {
+	2666.7.4 = {
+	holder = character_d_pando
+	}
+}
+c_manuripi = {
+	2666.7.4 = { change_development_level = 0 }
+	2666.7.4 = {
+	holder = character_d_pando
+	}
+}
+c_gonzalo_moreno = {
+	2666.7.4 = { change_development_level = 0 }
+	2666.7.4 = {
+	holder = character_d_pando
+	}
+}
+c_abuna = {
+	2666.7.4 = { change_development_level = 1 }
+	2666.7.4 = {
+	holder = character_c_abuna
+	liege = d_pando
+	}
+}

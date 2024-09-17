@@ -1,0 +1,5227 @@
+﻿
+k061101034 = {
+	name = Gorete
+	female = yes
+	religion = saudosism
+	culture = siarense
+	2633.5.27 = {
+		birth = yes
+	}
+}
+k040064098 = {
+	name = Hugo
+	religion = candomble
+	culture = sergipano
+	2646.6.14 = {
+		birth = yes
+	}
+}
+k180015020 = {
+	name = Laurindo
+	religion = ciceritism
+	culture = sertanejo
+	2624.12.14 = {
+		birth = yes
+	}
+}
+k062198052 = {
+	name = V_i_act_tor
+	religion = ciceritism
+	culture = sertanejo
+	2624.12.24 = {
+		birth = yes
+	}
+}
+k048083224 = {
+	name = Marie
+	female = yes
+	religion = galvanist
+	culture = michigander
+	2640.8.15 = {
+		birth = yes
+	}
+}
+k255201014 = {
+	name = Stanley
+	religion = galvanist
+	culture = steelfolk
+	2604.9.10 = {
+		birth = yes
+	}
+}
+k225017064 = {
+	name = Luis
+	religion = animism
+	culture = cordobes
+	2613.8.15 = {
+		birth = yes
+	}
+}
+k116170252 = {
+	name = Mucu-pa-kii
+	religion = mormon
+	culture = ute
+	2629.5.18 = {
+		birth = yes
+	}
+}
+k183163113 = {
+	name = Hosteen
+	religion = mormon
+	culture = navajo
+	2613.6.6 = {
+		birth = yes
+	}
+}
+k207202170 = {
+	name = Salatiel
+	religion = cristero
+	culture = altiplanense
+	2643.11.14 = {
+		birth = yes
+	}
+}
+k111154178 = {
+	name = Horacio
+	religion = gauchada
+	culture = pampeano
+	2643.12.7 = {
+		birth = yes
+	}
+}
+k254226069 = {
+	name = Dolfo
+	religion = cristero
+	culture = hnahnu
+	2601.6.4 = {
+		birth = yes
+	}
+}
+k015175111 = {
+	name = Antonio
+	religion = el_santo
+	culture = mexicano
+	2618.10.20 = {
+		birth = yes
+	}
+}
+k157093143 = {
+	name = Tecolotl
+	religion = tlaneltokayotl
+	culture = mexicano
+	2646.6.4 = {
+		birth = yes
+	}
+}
+k129208102 = {
+	name = Rafael
+	religion = particularist
+	culture = yopara
+	2622.2.7 = {
+		birth = yes
+	}
+}
+k083195087 = {
+	name = Oziel
+	religion = hekura
+	culture = yanomami
+	2644.8.28 = {
+		birth = yes
+	}
+}
+k215091210 = {
+	name = Tl_a_act_loc
+	religion = el_santo
+	culture = californiano
+	2648.5.5 = {
+		birth = yes
+	}
+}
+k027121191 = {
+	name = Leonora
+	female = yes
+	religion = hach_kanik
+	culture = hach_winik
+	2631.7.31 = {
+		birth = yes
+	}
+}
+k152173137 = {
+	name = Ernesto
+	religion = tres_potencias
+	culture = warao
+	2637.3.17 = {
+		birth = yes
+	}
+}
+k122060029 = {
+	name = Delmon
+	religion = voodoo
+	culture = deltaic
+	2636.2.20 = {
+		birth = yes
+	}
+}
+k225174115 = {
+	name = Silvia
+	female = yes
+	religion = inti_religion
+	culture = huascareno
+	2642.8.20 = {
+		birth = yes
+	}
+}
+d048147122 = {
+	name = Eudes
+	religion = assembleiano
+	culture = siarense
+	2650.7.20 = {
+		birth = yes
+	}
+}
+d187213065 = {
+	name = Francisco_Deodato
+	religion = ciceritism
+	culture = franciscano
+	2611.12.29 = {
+		birth = yes
+	}
+}
+d039042170 = {
+	name = F_a_act_bio
+	religion = apostolicism
+	culture = ludovicense
+	2630.5.28 = {
+		birth = yes
+	}
+}
+d185062062 = {
+	name = C_i_act_cero
+	religion = ciceritism
+	culture = sertanejo
+	2647.1.24 = {
+		birth = yes
+	}
+}
+d180109026 = {
+	name = Irineu
+	religion = assembleiano
+	culture = imperatrizense
+	2615.12.25 = {
+		birth = yes
+	}
+}
+d005020115 = {
+	name = Laurindo
+	religion = ciceritism
+	culture = sertanejo
+	2649.9.25 = {
+		birth = yes
+	}
+}
+d245178186 = {
+	name = Jo_a_tld_o
+	religion = ciceritism
+	culture = sertanejo
+	2622.6.8 = {
+		birth = yes
+	}
+}
+d124191028 = {
+	name = Renato
+	religion = apostolicism
+	culture = paulista
+	2634.9.21 = {
+		birth = yes
+	}
+}
+d010155021 = {
+	name = Milton
+	religion = apostolicism
+	culture = carioca
+	2640.11.10 = {
+		birth = yes
+	}
+}
+d175023044 = {
+	name = Uriel
+	religion = apostolicism
+	culture = mineiro
+	2623.2.25 = {
+		birth = yes
+	}
+}
+d144206228 = {
+	name = Paula
+	female = yes
+	religion = terra_benta
+	culture = mineiro
+	2649.9.6 = {
+		birth = yes
+	}
+}
+d077214161 = {
+	name = L_u_act_cio
+	religion = terra_benta
+	culture = mineiro
+	2650.1.25 = {
+		birth = yes
+	}
+}
+d163096150 = {
+	name = Emory
+	religion = catholic
+	culture = texan
+	2593.7.27 = {
+		birth = yes
+	}
+}
+d122070153 = {
+	name = Francis
+	religion = evangelical
+	culture = southron
+	2623.7.29 = {
+		birth = yes
+	}
+}
+d173182143 = {
+	name = Cliff
+	religion = revelationist
+	culture = dixie
+	2627.1.26 = {
+		birth = yes
+	}
+}
+d162181030 = {
+	name = Jeriah
+	religion = anabaptist
+	culture = deitsch
+	2649.7.23 = {
+		birth = yes
+	}
+}
+d186180089 = {
+	name = Haniel
+	religion = architecturalist
+	culture = goiano
+	2636.9.10 = {
+		birth = yes
+	}
+}
+d188194070 = {
+	name = Glacial
+	religion = boiadist
+	culture = maracaju
+	2629.4.28 = {
+		birth = yes
+	}
+}
+d106132204 = {
+	name = Baldomar
+	religion = boiadist
+	culture = kaiowa
+	2641.5.19 = {
+		birth = yes
+	}
+}
+d056046124 = {
+	name = Ubirani
+	religion = porantimao
+	culture = kawaiwete
+	2646.6.6 = {
+		birth = yes
+	}
+}
+d009045025 = {
+	name = Cacildo
+	religion = wasahure_sena
+	culture = kraho
+	2646.10.18 = {
+		birth = yes
+	}
+}
+d168147096 = {
+	name = Laurindo
+	religion = candomble
+	culture = franciscano
+	2652.9.26 = {
+		birth = yes
+	}
+}
+d112123076 = {
+	name = Moses
+	religion = catholic
+	culture = heartlander
+	2633.9.30 = {
+		birth = yes
+	}
+}
+d190040065 = {
+	name = Finn
+	religion = revelationist
+	culture = riverlander
+	2632.9.25 = {
+		birth = yes
+	}
+}
+d033054096 = {
+	name = Schuyler
+	religion = galvanist
+	culture = steelfolk
+	2649.11.20 = {
+		birth = yes
+	}
+}
+d085195190 = {
+	name = Prentiss
+	religion = galvanist
+	culture = steelfolk
+	2631.4.3 = {
+		birth = yes
+	}
+}
+d115096125 = {
+	name = Mark
+	religion = viking
+	culture = michigander
+	2611.9.1 = {
+		birth = yes
+	}
+}
+d040065011 = {
+	name = Mac
+	religion = galvanist
+	culture = michigander
+	2612.1.23 = {
+		birth = yes
+	}
+}
+d087125083 = {
+	name = Rosemary
+	female = yes
+	religion = viking
+	culture = michigander
+	2632.3.1 = {
+		birth = yes
+	}
+}
+d157162178 = {
+	name = Noah
+	religion = galvanist
+	culture = hoosier
+	2632.7.20 = {
+		birth = yes
+	}
+}
+d031048016 = {
+	name = Helen
+	female = yes
+	religion = revelationist
+	culture = riverlander
+	2634.9.3 = {
+		birth = yes
+	}
+}
+d193115018 = {
+	name = Einar
+	religion = viking
+	culture = dairylander
+	2621.10.13 = {
+		birth = yes
+	}
+}
+d053128020 = {
+	name = Russell
+	religion = galvanist
+	culture = steelfolk
+	2609.2.28 = {
+		birth = yes
+	}
+}
+d052040142 = {
+	name = Alberto
+	religion = particularist
+	culture = turco
+	2608.2.26 = {
+		birth = yes
+	}
+}
+d186180114 = {
+	name = Gonzaga
+	religion = santa_diablada
+	culture = nhandeva
+	2637.10.23 = {
+		birth = yes
+	}
+}
+d183123128 = {
+	name = Lautaro
+	religion = animism
+	culture = cuyano
+	2607.6.6 = {
+		birth = yes
+	}
+}
+d229047094 = {
+	name = Martina
+	female = yes
+	religion = animism
+	culture = cuyano
+	2628.3.2 = {
+		birth = yes
+	}
+}
+d109213223 = {
+	name = Gustavo
+	religion = animism
+	culture = cuyano
+	2637.10.9 = {
+		birth = yes
+	}
+}
+d181016059 = {
+	name = Adalberto
+	religion = animism
+	culture = pampeano
+	2647.4.25 = {
+		birth = yes
+	}
+}
+d229124094 = {
+	name = Isidoro
+	religion = animism
+	culture = cuyano
+	2636.2.18 = {
+		birth = yes
+	}
+}
+d188024086 = {
+	name = John
+	religion = mormon
+	culture = utahn
+	2612.12.17 = {
+		birth = yes
+	}
+}
+d034170096 = {
+	name = Menlo
+	religion = mormon
+	culture = utahn
+	2614.11.25 = {
+		birth = yes
+	}
+}
+d002167091 = {
+	name = Don
+	religion = mormon
+	culture = snakelander
+	2599.1.11 = {
+		birth = yes
+	}
+}
+d000255033 = {
+	name = Mark
+	religion = mormon
+	culture = navajo
+	2654.8.19 = {
+		birth = yes
+	}
+}
+d045052193 = {
+	name = Mariiya
+	female = yes
+	religion = mormon
+	culture = hopi
+	2606.2.11 = {
+		birth = yes
+	}
+}
+d152026038 = {
+	name = Henry
+	religion = mormon
+	culture = snakelander
+	2604.3.27 = {
+		birth = yes
+	}
+}
+d118190213 = {
+	name = Lincoln
+	religion = gaian
+	culture = mountainer
+	2612.12.4 = {
+		birth = yes
+	}
+}
+d220080115 = {
+	name = Iradir
+	religion = farrapo
+	culture = gaucho
+	2605.6.18 = {
+		birth = yes
+	}
+}
+d187039018 = {
+	name = Mayana
+	female = yes
+	religion = farrapo
+	culture = gaucho
+	2653.7.23 = {
+		birth = yes
+	}
+}
+d021224078 = {
+	name = Heron
+	religion = farrapo
+	culture = gaucho
+	2603.1.1 = {
+		birth = yes
+	}
+}
+d165045151 = {
+	name = Pablo
+	religion = confederal
+	culture = guacho
+	2637.2.21 = {
+		birth = yes
+	}
+}
+d234019125 = {
+	name = Arnaldo
+	religion = apostolicism
+	culture = caipira
+	2626.1.23 = {
+		birth = yes
+	}
+}
+d224195113 = {
+	name = Gustavo
+	religion = cristero
+	culture = bravo
+	2598.6.21 = {
+		birth = yes
+	}
+}
+d168142069 = {
+	name = Bartol_o_act_
+	religion = cristero
+	culture = tenek
+	2605.10.29 = {
+		birth = yes
+	}
+}
+d034072039 = {
+	name = Yanosha
+	religion = zetanology
+	culture = apache
+	2631.2.15 = {
+		birth = yes
+	}
+}
+d000038255 = {
+	name = Mullen
+	religion = dustrider
+	culture = arixan
+	2650.9.21 = {
+		birth = yes
+	}
+}
+d222232116 = {
+	name = Mario
+	religion = dustrider
+	culture = oodham
+	2603.2.13 = {
+		birth = yes
+	}
+}
+d210192092 = {
+	name = Boyd
+	religion = half_moon
+	culture = arixan
+	2604.6.7 = {
+		birth = yes
+	}
+}
+d176128131 = {
+	name = Mario
+	religion = dustrider
+	culture = cahita
+	2644.11.20 = {
+		birth = yes
+	}
+}
+d185104075 = {
+	name = Baawe
+	religion = dustrider
+	culture = cahita
+	2615.5.4 = {
+		birth = yes
+	}
+}
+d153217235 = {
+	name = Loreto
+	religion = dustrider
+	culture = cahita
+	2594.12.9 = {
+		birth = yes
+	}
+}
+d182147163 = {
+	name = Miguel
+	religion = jakakukuecha
+	culture = altiplanense
+	2609.6.27 = {
+		birth = yes
+	}
+}
+d162075057 = {
+	name = Nuhexi
+	religion = tucaari_wixarika
+	culture = wixarika
+	2605.8.11 = {
+		birth = yes
+	}
+}
+d189162087 = {
+	name = Howard
+	religion = mennonite
+	culture = plautsdeutsch
+	2606.9.26 = {
+		birth = yes
+	}
+}
+d049086005 = {
+	name = Gustavo
+	religion = federalista
+	culture = porteno
+	2609.8.3 = {
+		birth = yes
+	}
+}
+d198080082 = {
+	name = Anah_i_act_
+	female = yes
+	religion = federalista
+	culture = porteno
+	2631.12.11 = {
+		birth = yes
+	}
+}
+d071246131 = {
+	name = Abel
+	religion = federalista
+	culture = porteno
+	2614.5.16 = {
+		birth = yes
+	}
+}
+d209082131 = {
+	name = Raquel
+	female = yes
+	religion = confederal
+	culture = urbuguayo
+	2651.4.21 = {
+		birth = yes
+	}
+}
+d074101158 = {
+	name = Tabar_e_act_
+	religion = confederal
+	culture = guacho
+	2637.1.2 = {
+		birth = yes
+	}
+}
+d094143052 = {
+	name = Carmelo
+	religion = confederal
+	culture = guacho
+	2610.5.27 = {
+		birth = yes
+	}
+}
+d147044051 = {
+	name = Adam
+	religion = gauchada
+	culture = pampeano
+	2617.8.13 = {
+		birth = yes
+	}
+}
+d102153000 = {
+	name = Atel_e_act_n
+	religion = xoon
+	culture = selknam
+	2618.10.9 = {
+		birth = yes
+	}
+}
+d206166155 = {
+	name = Emerio
+	religion = insular_caribbean
+	culture = cubano
+	2627.2.24 = {
+		birth = yes
+	}
+}
+d254163100 = {
+	name = Walfrido
+	religion = lucumi
+	culture = cubano
+	2625.4.15 = {
+		birth = yes
+	}
+}
+d255153000 = {
+	name = Nigel
+	religion = twelve_tribes
+	culture = calypsonian
+	2605.9.15 = {
+		birth = yes
+	}
+}
+d228202195 = {
+	name = Amando
+	religion = cristero
+	culture = abajeno
+	2634.9.4 = {
+		birth = yes
+	}
+}
+d215224246 = {
+	name = Beto
+	religion = cristero
+	culture = hnahnu
+	2617.9.4 = {
+		birth = yes
+	}
+}
+d197156024 = {
+	name = Ad_a_act_n
+	religion = el_santo
+	culture = abajeno
+	2613.10.17 = {
+		birth = yes
+	}
+}
+d071081145 = {
+	name = Adriana
+	female = yes
+	religion = el_santo
+	culture = tapatio
+	2636.5.29 = {
+		birth = yes
+	}
+}
+d124131147 = {
+	name = Rodimiro
+	religion = cristero
+	culture = xepeno
+	2613.2.3 = {
+		birth = yes
+	}
+}
+d065161226 = {
+	name = Tercio
+	religion = el_santo
+	culture = tapatio
+	2625.5.29 = {
+		birth = yes
+	}
+}
+d216208129 = {
+	name = Rufo
+	religion = cristero
+	culture = jarocho
+	2642.10.27 = {
+		birth = yes
+	}
+}
+d184141079 = {
+	name = Crescencio
+	religion = votanzapatista
+	culture = jarocho
+	2639.12.4 = {
+		birth = yes
+	}
+}
+d224020116 = {
+	name = Bartolom_e_act_
+	religion = cristero
+	culture = abajeno
+	2631.8.26 = {
+		birth = yes
+	}
+}
+d144038040 = {
+	name = Chojol
+	religion = cristero
+	culture = tenek
+	2625.5.20 = {
+		birth = yes
+	}
+}
+d159020025 = {
+	name = Esteban
+	religion = cristero
+	culture = altiplanense
+	2629.10.7 = {
+		birth = yes
+	}
+}
+d064028208 = {
+	name = Man
+	religion = tlaneltokayotl
+	culture = binn_i_zaa
+	2641.4.9 = {
+		birth = yes
+	}
+}
+d157083153 = {
+	name = Dani
+	religion = cristero
+	culture = nuu_savi
+	2644.11.8 = {
+		birth = yes
+	}
+}
+d028228254 = {
+	name = Cuauht_e_act_moc
+	religion = tlaneltokayotl
+	culture = mexicano
+	2591.6.5 = {
+		birth = yes
+	}
+}
+d076074186 = {
+	name = Pablo
+	religion = ypykuera
+	culture = kaiowa
+	2648.3.24 = {
+		birth = yes
+	}
+}
+d058153176 = {
+	name = Jos_e_act__Eduvigis
+	religion = particularist
+	culture = yopara
+	2593.7.14 = {
+		birth = yes
+	}
+}
+d171096158 = {
+	name = Marcelo
+	religion = particularist
+	culture = yopara
+	2612.11.8 = {
+		birth = yes
+	}
+}
+d193024139 = {
+	name = Manuel
+	religion = particularist
+	culture = chaqueno
+	2629.11.27 = {
+		birth = yes
+	}
+}
+d172063044 = {
+	name = Omar
+	religion = particularist
+	culture = wichi
+	2635.5.10 = {
+		birth = yes
+	}
+}
+d155114109 = {
+	name = Yumbai
+	religion = particularist
+	culture = nhandeva
+	2601.7.6 = {
+		birth = yes
+	}
+}
+d245223023 = {
+	name = Java_e_act_
+	religion = porantimao
+	culture = wuyjuyu
+	2617.3.8 = {
+		birth = yes
+	}
+}
+d214051104 = {
+	name = Patrique
+	religion = assembleiano
+	culture = paraense
+	2618.3.19 = {
+		birth = yes
+	}
+}
+d076191061 = {
+	name = Anderson
+	religion = liberationism
+	culture = paraense
+	2600.5.31 = {
+		birth = yes
+	}
+}
+d060041037 = {
+	name = Enar_e_hat_
+	religion = iraacungeguma
+	culture = mura
+	2625.8.29 = {
+		birth = yes
+	}
+}
+d224010198 = {
+	name = Uba_u_act_na
+	religion = assembleiano
+	culture = mura
+	2603.8.30 = {
+		birth = yes
+	}
+}
+d104171077 = {
+	name = Marani
+	religion = porantimao
+	culture = mawe
+	2613.4.21 = {
+		birth = yes
+	}
+}
+d037150047 = {
+	name = Raquel
+	female = yes
+	religion = iraacungeguma
+	culture = ticuna
+	2633.11.30 = {
+		birth = yes
+	}
+}
+d134163097 = {
+	name = Horein
+	religion = particularist
+	culture = wari
+	2594.5.12 = {
+		birth = yes
+	}
+}
+d211235022 = {
+	name = Marcelo
+	religion = liberationism
+	culture = apurinan
+	2630.4.17 = {
+		birth = yes
+	}
+}
+d245255063 = {
+	name = Estevam
+	religion = liberationism
+	culture = yaminawa
+	2615.10.28 = {
+		birth = yes
+	}
+}
+d160115005 = {
+	name = Alfredo
+	religion = hekura
+	culture = yanomami
+	2620.2.3 = {
+		birth = yes
+	}
+}
+d220208074 = {
+	name = Deen
+	religion = brethren
+	culture = angeleno
+	2651.11.10 = {
+		birth = yes
+	}
+}
+d241190144 = {
+	name = Marvin
+	religion = anahata
+	culture = angeleno
+	2618.5.5 = {
+		birth = yes
+	}
+}
+d199197170 = {
+	name = Kevin
+	religion = cetic
+	culture = angeleno
+	2645.6.29 = {
+		birth = yes
+	}
+}
+d173119164 = {
+	name = Lincoln
+	religion = cetic
+	culture = eightian
+	2617.4.11 = {
+		birth = yes
+	}
+}
+d233134198 = {
+	name = Shizeng
+	religion = cetic
+	culture = bayfolk
+	2655.2.8 = {
+		birth = yes
+	}
+}
+d233188194 = {
+	name = Terence
+	religion = cetic
+	culture = bayfolk
+	2653.11.29 = {
+		birth = yes
+	}
+}
+d193220108 = {
+	name = Oscar
+	religion = cetic
+	culture = valleyan
+	2642.3.16 = {
+		birth = yes
+	}
+}
+d157225080 = {
+	name = Jones
+	religion = cetic
+	culture = valleyan
+	2616.4.2 = {
+		birth = yes
+	}
+}
+d148224150 = {
+	name = Watson
+	religion = cetic
+	culture = valleyan
+	2619.4.3 = {
+		birth = yes
+	}
+}
+d162148173 = {
+	name = Galen
+	religion = cetic
+	culture = valleyan
+	2628.1.25 = {
+		birth = yes
+	}
+}
+d080142225 = {
+	name = Ian
+	religion = cetic
+	culture = valleyan
+	2634.7.28 = {
+		birth = yes
+	}
+}
+d245212251 = {
+	name = Gertrudis
+	female = yes
+	religion = el_santo
+	culture = californiano
+	2627.3.27 = {
+		birth = yes
+	}
+}
+d107125190 = {
+	name = Bristow
+	religion = dreamweaver
+	culture = jeffersonian
+	2637.4.16 = {
+		birth = yes
+	}
+}
+d052078202 = {
+	name = Suk
+	religion = cetic
+	culture = pomo
+	2617.8.20 = {
+		birth = yes
+	}
+}
+d067087180 = {
+	name = Olaf
+	religion = mormon
+	culture = prairielander
+	2612.11.2 = {
+		birth = yes
+	}
+}
+d140056145 = {
+	name = Bill
+	religion = real_road
+	culture = prairielander
+	2651.9.23 = {
+		birth = yes
+	}
+}
+d060109023 = {
+	name = Yuriy
+	religion = real_road
+	culture = preiryansky
+	2619.11.25 = {
+		birth = yes
+	}
+}
+d084233233 = {
+	name = Samuel
+	religion = sun_dance
+	culture = blackfoot
+	2620.5.2 = {
+		birth = yes
+	}
+}
+d041110119 = {
+	name = Fabi_a_act_n
+	religion = patria_grande
+	culture = opita
+	2627.2.10 = {
+		birth = yes
+	}
+}
+d043197188 = {
+	name = Ramiro
+	religion = inkarri_religion
+	culture = pastuso
+	2604.3.21 = {
+		birth = yes
+	}
+}
+d140213170 = {
+	name = Tigianniak
+	religion = ilisaijjut
+	culture = inuit
+	2631.7.28 = {
+		birth = yes
+	}
+}
+d137039032 = {
+	name = Laxij
+	religion = cristero
+	culture = ode_put
+	2634.7.3 = {
+		birth = yes
+	}
+}
+d089128120 = {
+	name = Maximino
+	religion = neomayan
+	culture = yoko_yinikob
+	2630.7.25 = {
+		birth = yes
+	}
+}
+d188057050 = {
+	name = Cristi_a_act_n
+	religion = votanzapatista
+	culture = hach_winik
+	2625.7.20 = {
+		birth = yes
+	}
+}
+d072179177 = {
+	name = Gabriel_Ajtzak
+	religion = neomayan
+	culture = yucateco
+	2630.8.2 = {
+		birth = yes
+	}
+}
+d100190200 = {
+	name = Florentino
+	religion = cruzob
+	culture = yucateco
+	2614.8.8 = {
+		birth = yes
+	}
+}
+d080100240 = {
+	name = Silvestre_Humberto
+	religion = hach_kanik
+	culture = hach_winik
+	2608.5.16 = {
+		birth = yes
+	}
+}
+d021192166 = {
+	name = Pacal_Balam
+	religion = votanzapatista
+	culture = mopan_itza
+	2644.8.28 = {
+		birth = yes
+	}
+}
+d168184108 = {
+	name = Enrique
+	religion = tres_potencias
+	culture = warao
+	2625.11.1 = {
+		birth = yes
+	}
+}
+d117009099 = {
+	name = Lourenzo
+	religion = assembleiano
+	culture = wajapi
+	2652.1.21 = {
+		birth = yes
+	}
+}
+d222228252 = {
+	name = Lempira
+	religion = lamanite
+	culture = lenca
+	2606.8.30 = {
+		birth = yes
+	}
+}
+d162214219 = {
+	name = E_act_dgar
+	religion = liberationism
+	culture = catracho
+	2597.7.23 = {
+		birth = yes
+	}
+}
+d209078021 = {
+	name = Sullivan
+	religion = catholic
+	culture = arklatexan
+	2613.10.8 = {
+		birth = yes
+	}
+}
+d172231234 = {
+	name = Robbie
+	religion = revelationist
+	culture = dixie
+	2642.7.16 = {
+		birth = yes
+	}
+}
+d077166111 = {
+	name = Jairo
+	religion = inkarri_religion
+	culture = serrano
+	2606.1.9 = {
+		birth = yes
+	}
+}
+c032129055 = {
+	name = Nivaldo
+	religion = apostolicism
+	culture = recifolindense
+	2633.7.19 = {
+		birth = yes
+	}
+}
+c064171150 = {
+	name = Ant_a_tld_o
+	religion = ciceritism
+	culture = sertanejo
+	2644.3.25 = {
+		birth = yes
+	}
+}
+c139034078 = {
+	name = Ant_o_hat_nio_Augusto
+	religion = ciceritism
+	culture = sertanejo
+	2600.9.11 = {
+		birth = yes
+	}
+}
+c148114070 = {
+	name = Constantino
+	religion = ciceritism
+	culture = sertanejo
+	2639.3.16 = {
+		birth = yes
+	}
+}
+c157071042 = {
+	name = Francisco_Ubirajara
+	religion = saudosism
+	culture = franciscano
+	2602.4.23 = {
+		birth = yes
+	}
+}
+c130193092 = {
+	name = Maria_Beatriz
+	female = yes
+	religion = ciceritism
+	culture = sertanejo
+	2625.7.25 = {
+		birth = yes
+	}
+}
+c195032032 = {
+	name = S_e_act_rgio
+	religion = kardecist
+	culture = siarense
+	2640.10.26 = {
+		birth = yes
+	}
+}
+c203176000 = {
+	name = Quatro-Voltas
+	religion = ciceritism
+	culture = sertanejo
+	2600.6.17 = {
+		birth = yes
+	}
+}
+c185062062 = {
+	name = Andrelino
+	religion = ciceritism
+	culture = sertanejo
+	2631.4.7 = {
+		birth = yes
+	}
+}
+c041202155 = {
+	name = J_u_act_nior
+	religion = ciceritism
+	culture = guajajara
+	2638.9.13 = {
+		birth = yes
+	}
+}
+c240252010 = {
+	name = Terto
+	religion = ciceritism
+	culture = sertanejo
+	2632.12.2 = {
+		birth = yes
+	}
+}
+c222020020 = {
+	name = Maria_do_Rocio
+	female = yes
+	religion = global_throne
+	culture = sertanejo
+	2637.7.20 = {
+		birth = yes
+	}
+}
+c038055149 = {
+	name = Zaqueu
+	religion = candomble
+	culture = seridoense
+	2607.5.23 = {
+		birth = yes
+	}
+}
+c033233233 = {
+	name = Dam_a_act_sio
+	religion = ciceritism
+	culture = sertanejo
+	2663.4.1 = {
+		birth = yes
+	}
+}
+c000080000 = {
+	name = Gilvan
+	religion = anussim
+	culture = seridoense
+	2656.8.9 = {
+		birth = yes
+	}
+}
+c010075020 = {
+	name = Jer_o_hat_nimo
+	religion = anussim
+	culture = seridoense
+	2617.1.3 = {
+		birth = yes
+	}
+}
+c222222222 = {
+	name = Rog_e_act_rio
+	religion = anussim
+	culture = seridoense
+	2607.6.1 = {
+		birth = yes
+	}
+}
+c072174183 = {
+	name = Maria_dos_Milagres
+	female = yes
+	religion = ciceritism
+	culture = sertanejo
+	2642.5.31 = {
+		birth = yes
+	}
+}
+c181072200 = {
+	name = Lister
+	religion = assembleiano
+	culture = imperatrizense
+	2616.9.2 = {
+		birth = yes
+	}
+}
+c216137200 = {
+	name = Orozimbo
+	religion = global_throne
+	culture = paulista
+	2642.6.26 = {
+		birth = yes
+	}
+}
+c121139137 = {
+	name = Eug_e_hat_nio
+	religion = apostolicism
+	culture = caicara
+	2607.9.22 = {
+		birth = yes
+	}
+}
+c082148129 = {
+	name = Felisberto
+	religion = global_throne
+	culture = caicara
+	2650.11.21 = {
+		birth = yes
+	}
+}
+c081101142 = {
+	name = Louren_c_ced_o
+	religion = global_throne
+	culture = fluminense
+	2624.11.12 = {
+		birth = yes
+	}
+}
+c209179106 = {
+	name = Cristiano
+	religion = terra_benta
+	culture = mineiro
+	2636.9.9 = {
+		birth = yes
+	}
+}
+c140090128 = {
+	name = L_u_act_cio
+	religion = terra_benta
+	culture = fluminense
+	2607.12.16 = {
+		birth = yes
+	}
+}
+c089097045 = {
+	name = Normando
+	religion = apostolicism
+	culture = caipira
+	2618.2.25 = {
+		birth = yes
+	}
+}
+c147170185 = {
+	name = E_act_rico
+	religion = apostolicism
+	culture = capixaba
+	2623.7.9 = {
+		birth = yes
+	}
+}
+c087082097 = {
+	name = Zar_a_tld_o
+	religion = candomble
+	culture = ilheense
+	2647.1.13 = {
+		birth = yes
+	}
+}
+c199167193 = {
+	name = T_u_act_lio
+	religion = apostolicism
+	culture = geralista
+	2622.2.12 = {
+		birth = yes
+	}
+}
+c200023173 = {
+	name = Affonso
+	religion = terra_benta
+	culture = geralista
+	2657.7.30 = {
+		birth = yes
+	}
+}
+c174093094 = {
+	name = Abelardo
+	religion = alternative_society
+	culture = geralista
+	2625.12.3 = {
+		birth = yes
+	}
+}
+c202180144 = {
+	name = T_u_act_lio
+	religion = apostolicism
+	culture = geralista
+	2640.10.21 = {
+		birth = yes
+	}
+}
+c039148099 = {
+	name = Paulo
+	religion = sagarana
+	culture = veredista
+	2630.7.28 = {
+		birth = yes
+	}
+}
+c039184105 = {
+	name = Mahk_i_hat_s_i_hat_s
+	religion = midewiwin
+	culture = woodland_cree
+	2644.4.5 = {
+		birth = yes
+	}
+}
+c188046097 = {
+	name = Bowie
+	religion = catholic
+	culture = texan
+	2644.10.21 = {
+		birth = yes
+	}
+}
+c094091149 = {
+	name = Albert
+	religion = catholic
+	culture = arklatexan
+	2600.5.31 = {
+		birth = yes
+	}
+}
+c159105116 = {
+	name = Georgie
+	female = yes
+	religion = catholic
+	culture = texan
+	2597.11.11 = {
+		birth = yes
+	}
+}
+c064193025 = {
+	name = Manuel
+	religion = zetanology
+	culture = tejano
+	2598.11.27 = {
+		birth = yes
+	}
+}
+c126230056 = {
+	name = Adolfo
+	religion = zetanology
+	culture = neomexicano
+	2598.7.11 = {
+		birth = yes
+	}
+}
+c033071172 = {
+	name = Carlos
+	religion = zetanology
+	culture = arixan
+	2636.6.24 = {
+		birth = yes
+	}
+}
+c152176050 = {
+	name = Roberto
+	religion = real_road
+	culture = neomexicano
+	2652.6.20 = {
+		birth = yes
+	}
+}
+c089174066 = {
+	name = Tagukicha_x_hat_
+	religion = cross_faith
+	culture = unangan
+	2638.9.15 = {
+		birth = yes
+	}
+}
+c093194155 = {
+	name = Yeidukdat_a_act_n
+	religion = cross_faith
+	culture = tlingit
+	2604.7.9 = {
+		birth = yes
+	}
+}
+c181188042 = {
+	name = Garth
+	religion = evangelical
+	culture = dixie
+	2629.8.10 = {
+		birth = yes
+	}
+}
+c119193099 = {
+	name = Crispor
+	religion = revelationist
+	culture = appalachian
+	2652.10.24 = {
+		birth = yes
+	}
+}
+c105128005 = {
+	name = Pedro
+	religion = principlist
+	culture = gothamite
+	2621.11.1 = {
+		birth = yes
+	}
+}
+c160025069 = {
+	name = Abel
+	religion = principlist
+	culture = lobsterman
+	2636.6.28 = {
+		birth = yes
+	}
+}
+c186071001 = {
+	name = Caesar
+	religion = constitutionalist
+	culture = delmarvan
+	2642.4.21 = {
+		birth = yes
+	}
+}
+c182098101 = {
+	name = Camargo
+	religion = architecturalist
+	culture = goiano
+	2596.6.19 = {
+		birth = yes
+	}
+}
+c128033088 = {
+	name = C_a_act_cio
+	religion = valley_of_dawn
+	culture = goiano
+	2640.10.13 = {
+		birth = yes
+	}
+}
+c083152061 = {
+	name = Trant_a_tld_o
+	religion = valley_of_dawn
+	culture = veredista
+	2640.2.5 = {
+		birth = yes
+	}
+}
+c080106167 = {
+	name = Belarmino
+	religion = kardecist
+	culture = goiano
+	2615.8.27 = {
+		birth = yes
+	}
+}
+c114226075 = {
+	name = Jorge
+	religion = alternative_society
+	culture = goiano
+	2626.8.12 = {
+		birth = yes
+	}
+}
+c058172110 = {
+	name = Herm_o_act_genes
+	religion = ciceritism
+	culture = veredista
+	2629.2.12 = {
+		birth = yes
+	}
+}
+c101105194 = {
+	name = Robison
+	religion = valley_of_dawn
+	culture = goiano
+	2615.1.25 = {
+		birth = yes
+	}
+}
+c186049176 = {
+	name = Jonatan
+	religion = boiadist
+	culture = maracaju
+	2643.9.13 = {
+		birth = yes
+	}
+}
+c102150136 = {
+	name = Jacozinho
+	religion = boiadist
+	culture = maracaju
+	2609.6.30 = {
+		birth = yes
+	}
+}
+c108048116 = {
+	name = Juana
+	female = yes
+	religion = boiadist
+	culture = kaiowa
+	2598.6.27 = {
+		birth = yes
+	}
+}
+c128164071 = {
+	name = Geraldo
+	religion = boiadist
+	culture = terena
+	2624.12.15 = {
+		birth = yes
+	}
+}
+c027162094 = {
+	name = Wualter
+	religion = boiadist
+	culture = kadiweu
+	2608.11.27 = {
+		birth = yes
+	}
+}
+c040210153 = {
+	name = Osman
+	religion = boiadist
+	culture = kaiowa
+	2625.12.31 = {
+		birth = yes
+	}
+}
+c084127047 = {
+	name = Adalberto
+	religion = boiadist
+	culture = matogrossense
+	2647.7.17 = {
+		birth = yes
+	}
+}
+c049211135 = {
+	name = Suwapte
+	religion = wasahure_sena
+	culture = xavante
+	2634.6.24 = {
+		birth = yes
+	}
+}
+c178107013 = {
+	name = Uba_u_act_na
+	religion = wasahure_sena
+	culture = kawaiwete
+	2627.3.25 = {
+		birth = yes
+	}
+}
+c106168022 = {
+	name = Simone
+	female = yes
+	religion = boiadist
+	culture = matogrossense
+	2619.8.31 = {
+		birth = yes
+	}
+}
+c046144062 = {
+	name = Iwaci
+	religion = porantimao
+	culture = kawaiwete
+	2599.1.31 = {
+		birth = yes
+	}
+}
+c063099058 = {
+	name = Abra_a_tld_o
+	religion = wasahure_sena
+	culture = xambioa
+	2628.1.15 = {
+		birth = yes
+	}
+}
+c104166024 = {
+	name = Raimundo
+	religion = wasahure_sena
+	culture = apinaje
+	2633.12.26 = {
+		birth = yes
+	}
+}
+c151201077 = {
+	name = Eudoro
+	religion = wasahure_sena
+	culture = xerente
+	2624.6.12 = {
+		birth = yes
+	}
+}
+c192169167 = {
+	name = Sandoval
+	religion = architecturalist
+	culture = tocantinense
+	2616.1.27 = {
+		birth = yes
+	}
+}
+c188070117 = {
+	name = Lindolfo
+	religion = architecturalist
+	culture = tocantinense
+	2611.6.16 = {
+		birth = yes
+	}
+}
+c064180036 = {
+	name = Mascarenhas
+	religion = wasahure_sena
+	culture = tapirape
+	2596.3.5 = {
+		birth = yes
+	}
+}
+c221153057 = {
+	name = Wanderlei
+	religion = architecturalist
+	culture = tocantinense
+	2635.4.18 = {
+		birth = yes
+	}
+}
+c125132009 = {
+	name = Jos_e_act__spc_Tadeu
+	religion = saudosism
+	culture = agrestino
+	2604.12.20 = {
+		birth = yes
+	}
+}
+c048026110 = {
+	name = Jos_e_act__spc_Martinho
+	religion = candomble
+	culture = agrestino
+	2614.10.19 = {
+		birth = yes
+	}
+}
+c130065180 = {
+	name = Jos_e_act__spc_Narciso
+	religion = candomble
+	culture = agrestino
+	2621.4.2 = {
+		birth = yes
+	}
+}
+c186171155 = {
+	name = Jos_e_act__spc_Olavo
+	religion = apostolicism
+	culture = agrestino
+	2610.2.8 = {
+		birth = yes
+	}
+}
+c139065169 = {
+	name = Jos_e_act__spc_Delfino
+	religion = alternative_society
+	culture = agrestino
+	2604.8.20 = {
+		birth = yes
+	}
+}
+c126148158 = {
+	name = Francisco_Pedro_Paulo
+	religion = ciceritism
+	culture = franciscano
+	2614.8.21 = {
+		birth = yes
+	}
+}
+c047095060 = {
+	name = Francisco_Jesus
+	religion = ciceritism
+	culture = franciscano
+	2618.7.6 = {
+		birth = yes
+	}
+}
+c064047110 = {
+	name = Jos_e_act__spc_Cec_i_act_lio
+	religion = apostolicism
+	culture = agrestino
+	2622.5.11 = {
+		birth = yes
+	}
+}
+c126023192 = {
+	name = Maria_das_Oliveiras
+	female = yes
+	religion = apostolicism
+	culture = pataxo
+	2623.7.18 = {
+		birth = yes
+	}
+}
+c031128158 = {
+	name = Jos_e_act__spc_Romeu
+	religion = apostolicism
+	culture = agrestino
+	2602.6.22 = {
+		birth = yes
+	}
+}
+c182028102 = {
+	name = Eleazar
+	religion = candomble
+	culture = ilheense
+	2623.4.10 = {
+		birth = yes
+	}
+}
+c224180082 = {
+	name = Corn_e_act_lio
+	religion = sagarana
+	culture = franciscano
+	2645.5.9 = {
+		birth = yes
+	}
+}
+c021200188 = {
+	name = Virgil
+	religion = catholic
+	culture = heartlander
+	2642.4.13 = {
+		birth = yes
+	}
+}
+c069127060 = {
+	name = Jackson
+	religion = galvanist
+	culture = steelfolk
+	2627.9.28 = {
+		birth = yes
+	}
+}
+c159047114 = {
+	name = Howard
+	religion = mennonite
+	culture = steelfolk
+	2626.12.1 = {
+		birth = yes
+	}
+}
+c198218000 = {
+	name = Henry
+	religion = galvanist
+	culture = steelfolk
+	2644.9.2 = {
+		birth = yes
+	}
+}
+c061072080 = {
+	name = Boone
+	religion = revelationist
+	culture = riverlander
+	2645.10.9 = {
+		birth = yes
+	}
+}
+c039171130 = {
+	name = Franklin
+	religion = galvanist
+	culture = motowner
+	2626.8.20 = {
+		birth = yes
+	}
+}
+c214163162 = {
+	name = Noah
+	religion = galvanist
+	culture = steelfolk
+	2624.3.5 = {
+		birth = yes
+	}
+}
+c042230073 = {
+	name = Galion
+	religion = galvanist
+	culture = steelfolk
+	2604.11.21 = {
+		birth = yes
+	}
+}
+c102025162 = {
+	name = Cleland
+	religion = galvanist
+	culture = michigander
+	2630.2.6 = {
+		birth = yes
+	}
+}
+c034074063 = {
+	name = Luke
+	religion = viking
+	culture = michigander
+	2647.11.23 = {
+		birth = yes
+	}
+}
+c211061146 = {
+	name = Arno
+	religion = viking
+	culture = michigander
+	2621.5.11 = {
+		birth = yes
+	}
+}
+c212103189 = {
+	name = Gerrit
+	religion = viking
+	culture = michigander
+	2623.12.7 = {
+		birth = yes
+	}
+}
+c213191133 = {
+	name = Odocoil
+	religion = viking
+	culture = michigander
+	2604.6.7 = {
+		birth = yes
+	}
+}
+c203110087 = {
+	name = Spencer
+	religion = galvanist
+	culture = michigander
+	2634.9.18 = {
+		birth = yes
+	}
+}
+c161160125 = {
+	name = Leonard
+	religion = galvanist
+	culture = hoosier
+	2612.7.18 = {
+		birth = yes
+	}
+}
+c038157103 = {
+	name = Cyrus
+	religion = galvanist
+	culture = chicagoan
+	2604.11.18 = {
+		birth = yes
+	}
+}
+c120057113 = {
+	name = Matthew
+	religion = galvanist
+	culture = hoosier
+	2624.11.27 = {
+		birth = yes
+	}
+}
+c183215181 = {
+	name = Orville
+	religion = galvanist
+	culture = hoosier
+	2633.1.16 = {
+		birth = yes
+	}
+}
+c110177036 = {
+	name = Thad
+	religion = revelationist
+	culture = riverlander
+	2610.9.25 = {
+		birth = yes
+	}
+}
+c207230133 = {
+	name = Nils
+	religion = catholic
+	culture = dairylander
+	2603.4.18 = {
+		birth = yes
+	}
+}
+c160112179 = {
+	name = Adolphus
+	religion = catholic
+	culture = dairylander
+	2612.2.4 = {
+		birth = yes
+	}
+}
+c031211117 = {
+	name = Durbin
+	religion = galvanist
+	culture = steelfolk
+	2628.6.9 = {
+		birth = yes
+	}
+}
+c214225060 = {
+	name = Erwin
+	religion = viking
+	culture = yooper
+	2645.8.18 = {
+		birth = yes
+	}
+}
+c185194197 = {
+	name = Miguel
+	religion = tres_potencias
+	culture = guaro
+	2647.6.17 = {
+		birth = yes
+	}
+}
+c150082006 = {
+	name = Rub_e_act_n
+	religion = patria_grande
+	culture = gocho
+	2623.1.1 = {
+		birth = yes
+	}
+}
+c059061180 = {
+	name = Luis
+	religion = aria_de_machete
+	culture = llanero
+	2659.4.30 = {
+		birth = yes
+	}
+}
+c198167007 = {
+	name = El_i_act_as
+	religion = aria_de_machete
+	culture = llanero
+	2619.8.15 = {
+		birth = yes
+	}
+}
+c031023051 = {
+	name = Marco
+	religion = aria_de_machete
+	culture = llanero
+	2631.1.15 = {
+		birth = yes
+	}
+}
+c037071086 = {
+	name = Rub_e_act_n
+	religion = aria_de_machete
+	culture = llanero
+	2623.7.13 = {
+		birth = yes
+	}
+}
+c089028138 = {
+	name = Exequiel
+	religion = federalista
+	culture = cordobes
+	2633.9.21 = {
+		birth = yes
+	}
+}
+c114106093 = {
+	name = Leonardo
+	religion = federalista
+	culture = cordobes
+	2640.2.3 = {
+		birth = yes
+	}
+}
+c255113163 = {
+	name = N_e_act_stor
+	religion = unitario
+	culture = porteno
+	2643.4.12 = {
+		birth = yes
+	}
+}
+c156053089 = {
+	name = Chango
+	religion = unitario
+	culture = litoraleno
+	2650.11.14 = {
+		birth = yes
+	}
+}
+c186020078 = {
+	name = Humberto
+	religion = federalista
+	culture = litoraleno
+	2649.3.30 = {
+		birth = yes
+	}
+}
+c042050137 = {
+	name = Jos_e_act_
+	religion = particularist
+	culture = turco
+	2633.10.14 = {
+		birth = yes
+	}
+}
+c040119151 = {
+	name = Juan_Jos_e_act_
+	religion = animism
+	culture = chaqueno
+	2614.12.19 = {
+		birth = yes
+	}
+}
+c179110152 = {
+	name = Napole_o_act_n
+	religion = particularist
+	culture = chaqueno
+	2601.3.8 = {
+		birth = yes
+	}
+}
+c222117048 = {
+	name = Marcos
+	religion = animism
+	culture = cordobes
+	2629.9.23 = {
+		birth = yes
+	}
+}
+c216190036 = {
+	name = Juan_Pablo
+	religion = animism
+	culture = cordobes
+	2619.10.19 = {
+		birth = yes
+	}
+}
+c206030029 = {
+	name = F_e_act_lix
+	religion = santa_diablada
+	culture = norteno
+	2604.11.30 = {
+		birth = yes
+	}
+}
+c080180015 = {
+	name = C_e_act_sar
+	religion = santa_diablada
+	culture = norteno
+	2634.9.27 = {
+		birth = yes
+	}
+}
+c053183129 = {
+	name = Cristina
+	female = yes
+	religion = animism
+	culture = norteno
+	2616.12.31 = {
+		birth = yes
+	}
+}
+c120116011 = {
+	name = Juan_Bautista
+	religion = santa_diablada
+	culture = norteno
+	2620.11.24 = {
+		birth = yes
+	}
+}
+c194190003 = {
+	name = Enrique
+	religion = santa_diablada
+	culture = norteno
+	2613.6.1 = {
+		birth = yes
+	}
+}
+c138071063 = {
+	name = Javier
+	religion = assembleiano
+	culture = wichi
+	2598.7.9 = {
+		birth = yes
+	}
+}
+c225075140 = {
+	name = Leonardo
+	religion = animism
+	culture = cordobes
+	2612.7.6 = {
+		birth = yes
+	}
+}
+c152163072 = {
+	name = Juan_Ignacio
+	religion = animism
+	culture = cuyano
+	2621.5.4 = {
+		birth = yes
+	}
+}
+c065022186 = {
+	name = Sofia
+	female = yes
+	religion = animism
+	culture = cuyano
+	2635.1.30 = {
+		birth = yes
+	}
+}
+c103102020 = {
+	name = Gloria
+	female = yes
+	religion = camino_estelar
+	culture = cuyano
+	2608.10.25 = {
+		birth = yes
+	}
+}
+c138140107 = {
+	name = Franco
+	religion = animism
+	culture = cuyano
+	2635.2.20 = {
+		birth = yes
+	}
+}
+c216167060 = {
+	name = Carlos
+	religion = animism
+	culture = turco
+	2626.10.20 = {
+		birth = yes
+	}
+}
+c036104067 = {
+	name = Santino
+	religion = animism
+	culture = cuyano
+	2623.11.9 = {
+		birth = yes
+	}
+}
+c038127153 = {
+	name = Za_i_act_n
+	religion = animism
+	culture = turco
+	2598.8.29 = {
+		birth = yes
+	}
+}
+c226185097 = {
+	name = Isidoro
+	religion = animism
+	culture = cuyano
+	2658.2.8 = {
+		birth = yes
+	}
+}
+c052153057 = {
+	name = Roberto
+	religion = animism
+	culture = turco
+	2635.5.16 = {
+		birth = yes
+	}
+}
+c130205056 = {
+	name = Pietro
+	religion = animism
+	culture = cuyano
+	2629.6.15 = {
+		birth = yes
+	}
+}
+c167053189 = {
+	name = Victoria
+	female = yes
+	religion = animism
+	culture = cuyano
+	2619.11.20 = {
+		birth = yes
+	}
+}
+c222108130 = {
+	name = Thiago
+	religion = animism
+	culture = cuyano
+	2644.3.26 = {
+		birth = yes
+	}
+}
+c072219119 = {
+	name = Cw_a_hat_n
+	religion = exovedate
+	culture = woodland_cree
+	2628.6.28 = {
+		birth = yes
+	}
+}
+c070161017 = {
+	name = Macaw_a_hat_sis
+	religion = exovedate
+	culture = plains_cree
+	2633.4.30 = {
+		birth = yes
+	}
+}
+c230140063 = {
+	name = Tom
+	religion = mennonite
+	culture = dane_zaa
+	2614.4.30 = {
+		birth = yes
+	}
+}
+c015092154 = {
+	name = James
+	religion = fire_cross
+	culture = dane_zaa
+	2617.5.19 = {
+		birth = yes
+	}
+}
+c184156108 = {
+	name = Francis
+	religion = mennonite
+	culture = dane_zaa
+	2595.6.20 = {
+		birth = yes
+	}
+}
+c164162105 = {
+	name = Y_o_hat_tin
+	religion = fire_cross
+	culture = plains_cree
+	2643.10.30 = {
+		birth = yes
+	}
+}
+c051047138 = {
+	name = Larry
+	religion = interranger
+	culture = coloradan
+	2613.9.17 = {
+		birth = yes
+	}
+}
+c139189121 = {
+	name = Frank
+	religion = atomicist
+	culture = coloradan
+	2632.5.28 = {
+		birth = yes
+	}
+}
+c053064106 = {
+	name = Valentine
+	female = yes
+	religion = shangrilaism
+	culture = coloradan
+	2609.11.30 = {
+		birth = yes
+	}
+}
+c184063006 = {
+	name = Kwucu
+	religion = atomicist
+	culture = ute
+	2653.3.13 = {
+		birth = yes
+	}
+}
+c085145168 = {
+	name = Sergio
+	religion = shangrilaism
+	culture = neomexicano
+	2606.1.2 = {
+		birth = yes
+	}
+}
+c130118191 = {
+	name = Luis
+	religion = interranger
+	culture = neomexicano
+	2623.7.15 = {
+		birth = yes
+	}
+}
+c052140146 = {
+	name = Jared
+	religion = mormon
+	culture = utahn
+	2629.4.19 = {
+		birth = yes
+	}
+}
+c223132054 = {
+	name = Gidgiddoni
+	religion = mormon
+	culture = utahn
+	2623.10.12 = {
+		birth = yes
+	}
+}
+c021099133 = {
+	name = Jacob
+	religion = mormon
+	culture = utahn
+	2642.3.9 = {
+		birth = yes
+	}
+}
+c117050163 = {
+	name = Colter
+	religion = mormon
+	culture = utahn
+	2621.4.5 = {
+		birth = yes
+	}
+}
+c048191043 = {
+	name = Orihah
+	religion = mormon
+	culture = utahn
+	2636.11.2 = {
+		birth = yes
+	}
+}
+c106104036 = {
+	name = Devin
+	religion = mormon
+	culture = utahn
+	2633.5.13 = {
+		birth = yes
+	}
+}
+c087150025 = {
+	name = Wingfield
+	religion = mormon
+	culture = utahn
+	2628.12.23 = {
+		birth = yes
+	}
+}
+c203141192 = {
+	name = Evan
+	religion = mormon
+	culture = utahn
+	2643.10.18 = {
+		birth = yes
+	}
+}
+c164219163 = {
+	name = Dewayne
+	religion = mormon
+	culture = ute
+	2633.4.5 = {
+		birth = yes
+	}
+}
+c171032186 = {
+	name = Nupi-ka-ti
+	religion = mormon
+	culture = ute
+	2639.4.1 = {
+		birth = yes
+	}
+}
+c226087101 = {
+	name = Nahia
+	female = yes
+	religion = sagestepper
+	culture = snakelander
+	2637.3.26 = {
+		birth = yes
+	}
+}
+c127116007 = {
+	name = Sally
+	female = yes
+	religion = mormon
+	culture = snakelander
+	2648.12.30 = {
+		birth = yes
+	}
+}
+c046155118 = {
+	name = Don
+	religion = mormon
+	culture = snakelander
+	2608.7.16 = {
+		birth = yes
+	}
+}
+c037145046 = {
+	name = Walt
+	religion = mormon
+	culture = snakelander
+	2644.2.22 = {
+		birth = yes
+	}
+}
+c076022145 = {
+	name = Gaci_pst_tiwa
+	religion = atomicist
+	culture = keres
+	2639.5.24 = {
+		birth = yes
+	}
+}
+c207039060 = {
+	name = Cipriano
+	religion = atomicist
+	culture = neomexicano
+	2597.3.22 = {
+		birth = yes
+	}
+}
+c157109190 = {
+	name = Loman
+	religion = half_moon
+	culture = zuni
+	2629.11.3 = {
+		birth = yes
+	}
+}
+c164226061 = {
+	name = Herman
+	religion = mormon
+	culture = navajo
+	2613.9.21 = {
+		birth = yes
+	}
+}
+c056090063 = {
+	name = Delfred
+	religion = mormon
+	culture = navajo
+	2649.8.15 = {
+		birth = yes
+	}
+}
+c195097164 = {
+	name = Lanterloo
+	religion = mormon
+	culture = mountainer
+	2620.7.8 = {
+		birth = yes
+	}
+}
+c226033168 = {
+	name = Kurt
+	religion = interranger
+	culture = mountainer
+	2637.2.10 = {
+		birth = yes
+	}
+}
+c131051098 = {
+	name = Bradley
+	religion = gaian
+	culture = mountainer
+	2610.5.10 = {
+		birth = yes
+	}
+}
+c151158099 = {
+	name = Fernando
+	religion = muckerism
+	culture = hunsrickisch
+	2645.6.1 = {
+		birth = yes
+	}
+}
+c228128092 = {
+	name = Edemar
+	religion = farrapo
+	culture = gaucho
+	2599.11.14 = {
+		birth = yes
+	}
+}
+c108080169 = {
+	name = Arthur
+	religion = celestism
+	culture = hunsrickisch
+	2608.4.10 = {
+		birth = yes
+	}
+}
+c098167060 = {
+	name = S_i_act_lvia
+	female = yes
+	religion = farrapo
+	culture = gaucho
+	2653.3.25 = {
+		birth = yes
+	}
+}
+c195160053 = {
+	name = Fritz
+	religion = celestism
+	culture = hunsrickisch
+	2649.2.18 = {
+		birth = yes
+	}
+}
+c140123151 = {
+	name = Onofre
+	religion = celestism
+	culture = gaucho
+	2610.7.30 = {
+		birth = yes
+	}
+}
+c230204052 = {
+	name = Carrion
+	religion = celestism
+	culture = gaucho
+	2654.2.10 = {
+		birth = yes
+	}
+}
+c050161155 = {
+	name = Angelo
+	religion = celestism
+	culture = talian
+	2646.3.31 = {
+		birth = yes
+	}
+}
+c120035166 = {
+	name = Leopoldo
+	religion = celestism
+	culture = hunsrickisch
+	2645.12.26 = {
+		birth = yes
+	}
+}
+c037061139 = {
+	name = S_a_tld_krig_o_grv_
+	religion = celestism
+	culture = kaingang
+	2634.1.8 = {
+		birth = yes
+	}
+}
+c057173178 = {
+	name = Ronaldo
+	religion = farrapo
+	culture = gaucho
+	2622.2.12 = {
+		birth = yes
+	}
+}
+c168195132 = {
+	name = Matheus
+	religion = johrei
+	culture = burajirujin
+	2598.5.26 = {
+		birth = yes
+	}
+}
+c217191123 = {
+	name = Ledevino
+	religion = celestism
+	culture = gaucho
+	2638.1.1 = {
+		birth = yes
+	}
+}
+c169215153 = {
+	name = Ivan
+	religion = byzantine_rite
+	culture = ruteno
+	2625.6.8 = {
+		birth = yes
+	}
+}
+c102089156 = {
+	name = Otelo
+	religion = celestism
+	culture = gaucho
+	2625.12.15 = {
+		birth = yes
+	}
+}
+c170091067 = {
+	name = A_act_lvaro
+	religion = celestism
+	culture = hunsrickisch
+	2604.1.11 = {
+		birth = yes
+	}
+}
+c056196026 = {
+	name = Raul
+	religion = celestism
+	culture = hunsrickisch
+	2621.5.26 = {
+		birth = yes
+	}
+}
+c153202184 = {
+	name = Otac_i_act_lio
+	religion = celestism
+	culture = barriga_verde
+	2628.1.31 = {
+		birth = yes
+	}
+}
+c082110179 = {
+	name = Cl_e_act_sio
+	religion = celestism
+	culture = barriga_verde
+	2626.5.12 = {
+		birth = yes
+	}
+}
+c159067108 = {
+	name = Odalgiro
+	religion = celestism
+	culture = hunsrickisch
+	2625.7.31 = {
+		birth = yes
+	}
+}
+c059041044 = {
+	name = Jos_e_act_
+	religion = celestism
+	culture = barriga_verde
+	2640.4.17 = {
+		birth = yes
+	}
+}
+c065224043 = {
+	name = Jailson
+	religion = celestism
+	culture = barriga_verde
+	2647.1.19 = {
+		birth = yes
+	}
+}
+c222020028 = {
+	name = Cesar
+	religion = celestism
+	culture = barriga_verde
+	2634.10.6 = {
+		birth = yes
+	}
+}
+c076222143 = {
+	name = Volnei
+	religion = celestism
+	culture = barriga_verde
+	2628.8.6 = {
+		birth = yes
+	}
+}
+c188171059 = {
+	name = Braulio
+	religion = santa_muerte
+	culture = bravo
+	2649.11.23 = {
+		birth = yes
+	}
+}
+c162059085 = {
+	name = Geronimo
+	religion = half_moon
+	culture = arixan
+	2630.12.28 = {
+		birth = yes
+	}
+}
+c133195130 = {
+	name = Deschiidn
+	religion = zetanology
+	culture = apache
+	2609.8.21 = {
+		birth = yes
+	}
+}
+c068183126 = {
+	name = Buford
+	religion = dustrider
+	culture = arixan
+	2603.4.1 = {
+		birth = yes
+	}
+}
+c176064006 = {
+	name = Artesa
+	female = yes
+	religion = atomicist
+	culture = arixan
+	2605.11.1 = {
+		birth = yes
+	}
+}
+c200212191 = {
+	name = Thomas
+	religion = atomicist
+	culture = hualapai
+	2596.3.7 = {
+		birth = yes
+	}
+}
+c164177074 = {
+	name = Dowell
+	religion = dustrider
+	culture = arixan
+	2654.5.29 = {
+		birth = yes
+	}
+}
+c060146067 = {
+	name = Suawaka
+	religion = dustrider
+	culture = cahita
+	2653.12.22 = {
+		birth = yes
+	}
+}
+c188114078 = {
+	name = Jos_e_act__Luis
+	religion = dustrider
+	culture = xepeno
+	2621.1.11 = {
+		birth = yes
+	}
+}
+c228218096 = {
+	name = Julio
+	religion = dustrider
+	culture = cahita
+	2641.10.11 = {
+		birth = yes
+	}
+}
+c057122187 = {
+	name = Beojko
+	religion = dustrider
+	culture = cahita
+	2650.11.16 = {
+		birth = yes
+	}
+}
+c111078059 = {
+	name = Yaitowi
+	religion = dustrider
+	culture = cahita
+	2627.6.10 = {
+		birth = yes
+	}
+}
+c047147029 = {
+	name = Ram_o_act_n
+	religion = dustrider
+	culture = cahita
+	2596.11.7 = {
+		birth = yes
+	}
+}
+c031116089 = {
+	name = Salvador
+	religion = cristero
+	culture = xepeno
+	2631.2.22 = {
+		birth = yes
+	}
+}
+c102153018 = {
+	name = C_e_act_sar
+	religion = dustrider
+	culture = xepeno
+	2638.12.1 = {
+		birth = yes
+	}
+}
+c087046133 = {
+	name = Jos_e_act__Mar_i_act_a
+	religion = dustrider
+	culture = xepeno
+	2617.8.20 = {
+		birth = yes
+	}
+}
+c182205013 = {
+	name = Paul
+	religion = dustrider
+	culture = oodham
+	2619.2.9 = {
+		birth = yes
+	}
+}
+c224060017 = {
+	name = Enrique
+	religion = zetanology
+	culture = altiplanense
+	2641.3.11 = {
+		birth = yes
+	}
+}
+c114154183 = {
+	name = Ed
+	religion = mennonite
+	culture = plautsdeutsch
+	2626.12.24 = {
+		birth = yes
+	}
+}
+c106205136 = {
+	name = Abigail
+	female = yes
+	religion = jakakukuecha
+	culture = altiplanense
+	2623.8.20 = {
+		birth = yes
+	}
+}
+c215176098 = {
+	name = Biquiy_a_act_
+	religion = dustrider
+	culture = raramuri
+	2594.1.23 = {
+		birth = yes
+	}
+}
+c110028086 = {
+	name = Patricio
+	religion = dustrider
+	culture = altiplanense
+	2617.8.23 = {
+		birth = yes
+	}
+}
+c189221171 = {
+	name = Vernon
+	religion = dustrider
+	culture = plautsdeutsch
+	2617.4.10 = {
+		birth = yes
+	}
+}
+c188208124 = {
+	name = George
+	religion = mennonite
+	culture = plautsdeutsch
+	2640.9.10 = {
+		birth = yes
+	}
+}
+c101227071 = {
+	name = Carari
+	religion = jakakukuecha
+	culture = raramuri
+	2615.2.10 = {
+		birth = yes
+	}
+}
+c000001255 = {
+	name = Jorge
+	religion = federalista
+	culture = porteno
+	2630.10.4 = {
+		birth = yes
+	}
+}
+c115020183 = {
+	name = Walter
+	religion = federalista
+	culture = porteno
+	2609.2.8 = {
+		birth = yes
+	}
+}
+c008000066 = {
+	name = David
+	religion = federalista
+	culture = porteno
+	2639.6.9 = {
+		birth = yes
+	}
+}
+c029000081 = {
+	name = Mauricio
+	religion = federalista
+	culture = porteno
+	2639.10.9 = {
+		birth = yes
+	}
+}
+c126000000 = {
+	name = Luciano
+	religion = gauchada
+	culture = pampeano
+	2636.11.5 = {
+		birth = yes
+	}
+}
+c165153086 = {
+	name = Ezio
+	religion = gauchada
+	culture = pampeano
+	2616.10.7 = {
+		birth = yes
+	}
+}
+c181168094 = {
+	name = Atilio
+	religion = gauchada
+	culture = pampeano
+	2653.4.18 = {
+		birth = yes
+	}
+}
+c098091147 = {
+	name = Constantino
+	religion = federalista
+	culture = pampeano
+	2613.7.31 = {
+		birth = yes
+	}
+}
+c152069211 = {
+	name = Genaro
+	religion = federalista
+	culture = pampeano
+	2615.12.19 = {
+		birth = yes
+	}
+}
+c076099046 = {
+	name = Ra_u_act_l
+	religion = federalista
+	culture = pampeano
+	2603.3.5 = {
+		birth = yes
+	}
+}
+c069070197 = {
+	name = Leonardo
+	religion = confederal
+	culture = urbuguayo
+	2613.7.7 = {
+		birth = yes
+	}
+}
+c183046179 = {
+	name = Bruno
+	religion = confederal
+	culture = guacho
+	2607.1.22 = {
+		birth = yes
+	}
+}
+c188158179 = {
+	name = Gabriel
+	religion = confederal
+	culture = urbuguayo
+	2637.11.13 = {
+		birth = yes
+	}
+}
+c128055153 = {
+	name = Nicol_a_act_s
+	religion = federalista
+	culture = litoraleno
+	2631.4.25 = {
+		birth = yes
+	}
+}
+c163045152 = {
+	name = Rodrigo
+	religion = federalista
+	culture = litoraleno
+	2608.2.11 = {
+		birth = yes
+	}
+}
+c084153178 = {
+	name = Osvaldo
+	religion = federalista
+	culture = litoraleno
+	2600.4.2 = {
+		birth = yes
+	}
+}
+c153123041 = {
+	name = Edgardo
+	religion = particularist
+	culture = litoraleno
+	2645.3.31 = {
+		birth = yes
+	}
+}
+c127153033 = {
+	name = Waldino
+	religion = federalista
+	culture = litoraleno
+	2598.4.1 = {
+		birth = yes
+	}
+}
+c151153065 = {
+	name = Miguel
+	religion = particularist
+	culture = litoraleno
+	2613.12.2 = {
+		birth = yes
+	}
+}
+c177174249 = {
+	name = Horacio
+	religion = gauchada
+	culture = pampeano
+	2608.8.8 = {
+		birth = yes
+	}
+}
+c137054046 = {
+	name = Luciano
+	religion = gauchada
+	culture = pampeano
+	2593.2.13 = {
+		birth = yes
+	}
+}
+c196077066 = {
+	name = Fabio
+	religion = gauchada
+	culture = pampeano
+	2628.4.15 = {
+		birth = yes
+	}
+}
+c140078090 = {
+	name = Millalhuan
+	religion = calafatist
+	culture = aonikenk
+	2625.12.11 = {
+		birth = yes
+	}
+}
+c127197092 = {
+	name = Juan
+	religion = calafatist
+	culture = kawesqar
+	2636.7.9 = {
+		birth = yes
+	}
+}
+c129145087 = {
+	name = Anganamon
+	religion = calafatist
+	culture = aonikenk
+	2607.10.31 = {
+		birth = yes
+	}
+}
+c227148183 = {
+	name = Halpatter
+	religion = imaginerian
+	culture = sunshiner
+	2597.12.2 = {
+		birth = yes
+	}
+}
+c087045025 = {
+	name = Cord
+	religion = imaginerian
+	culture = sunshiner
+	2650.11.26 = {
+		birth = yes
+	}
+}
+c067077114 = {
+	name = Janice
+	female = yes
+	religion = catholic
+	culture = ozark
+	2625.7.23 = {
+		birth = yes
+	}
+}
+c025120187 = {
+	name = Virgil
+	religion = catholic
+	culture = heartlander
+	2640.12.22 = {
+		birth = yes
+	}
+}
+c044039199 = {
+	name = Paul
+	religion = real_road
+	culture = heartlander
+	2597.2.8 = {
+		birth = yes
+	}
+}
+c059136115 = {
+	name = H_e_act_rib
+	religion = particularist
+	culture = yopara
+	2623.11.7 = {
+		birth = yes
+	}
+}
+c130150012 = {
+	name = Gerardo
+	religion = ypykuera
+	culture = kaiowa
+	2603.7.9 = {
+		birth = yes
+	}
+}
+c044167104 = {
+	name = Ysapy
+	female = yes
+	religion = boiadist
+	culture = yopara
+	2622.2.15 = {
+		birth = yes
+	}
+}
+c129173200 = {
+	name = Gloria
+	female = yes
+	religion = particularist
+	culture = camba
+	2627.2.14 = {
+		birth = yes
+	}
+}
+c081121073 = {
+	name = Pablo
+	religion = particularist
+	culture = camba
+	2625.10.7 = {
+		birth = yes
+	}
+}
+c229172025 = {
+	name = Fabio
+	religion = particularist
+	culture = camba
+	2638.1.10 = {
+		birth = yes
+	}
+}
+c076126154 = {
+	name = Josu_e_act_
+	religion = particularist
+	culture = chiquitano
+	2645.10.22 = {
+		birth = yes
+	}
+}
+c037132128 = {
+	name = Javier
+	religion = boiadist
+	culture = chiquitano
+	2605.12.17 = {
+		birth = yes
+	}
+}
+c160157053 = {
+	name = Milton
+	religion = particularist
+	culture = camba
+	2631.3.25 = {
+		birth = yes
+	}
+}
+c095196082 = {
+	name = Palmiro
+	religion = particularist
+	culture = camba
+	2626.1.18 = {
+		birth = yes
+	}
+}
+c208140090 = {
+	name = Maik
+	religion = porantimao
+	culture = huni_kuin
+	2619.12.26 = {
+		birth = yes
+	}
+}
+c086085054 = {
+	name = Pablo
+	religion = santa_diablada
+	culture = camba
+	2625.10.24 = {
+		birth = yes
+	}
+}
+c068200048 = {
+	name = Trif_o_act_n
+	religion = liberationism
+	culture = camba
+	2619.11.25 = {
+		birth = yes
+	}
+}
+c066212111 = {
+	name = Adentak
+	religion = boiadist
+	culture = ayoreo
+	2633.4.6 = {
+		birth = yes
+	}
+}
+c026082095 = {
+	name = Bidit
+	female = yes
+	religion = particularist
+	culture = wichi
+	2655.5.14 = {
+		birth = yes
+	}
+}
+c099225047 = {
+	name = Vicente
+	religion = particularist
+	culture = nivacle
+	2651.5.9 = {
+		birth = yes
+	}
+}
+c068036003 = {
+	name = Tadeo
+	religion = particularist
+	culture = nhandeva
+	2623.11.22 = {
+		birth = yes
+	}
+}
+c143037040 = {
+	name = Nanaique
+	religion = particularist
+	culture = mascoy
+	2631.4.11 = {
+		birth = yes
+	}
+}
+c084166026 = {
+	name = Gerival
+	religion = kardecist
+	culture = xambioa
+	2640.12.8 = {
+		birth = yes
+	}
+}
+c221177137 = {
+	name = Bento
+	religion = wasahure_sena
+	culture = kayapo
+	2635.5.3 = {
+		birth = yes
+	}
+}
+c096123063 = {
+	name = Silas
+	religion = assembleiano
+	culture = paraense
+	2622.7.8 = {
+		birth = yes
+	}
+}
+c230074115 = {
+	name = N_u_act_bia
+	female = yes
+	religion = assembleiano
+	culture = tapajoense
+	2655.9.13 = {
+		birth = yes
+	}
+}
+c208171169 = {
+	name = Claudiano
+	religion = assembleiano
+	culture = paraense
+	2608.4.30 = {
+		birth = yes
+	}
+}
+c145182136 = {
+	name = Maom_e_act_
+	religion = kardecist
+	culture = paraense
+	2643.3.9 = {
+		birth = yes
+	}
+}
+c229190105 = {
+	name = Auris
+	religion = edah_amazonah
+	culture = tapajoense
+	2622.5.5 = {
+		birth = yes
+	}
+}
+c107165092 = {
+	name = Querubim
+	religion = liberationism
+	culture = paraense
+	2639.7.9 = {
+		birth = yes
+	}
+}
+c070160173 = {
+	name = Lisandro
+	religion = apostolicism
+	culture = paraense
+	2606.3.3 = {
+		birth = yes
+	}
+}
+c133038138 = {
+	name = Lu_i_act_z
+	religion = tambor_de_mina
+	culture = paraense
+	2611.8.28 = {
+		birth = yes
+	}
+}
+c029197093 = {
+	name = Gardela
+	female = yes
+	religion = tambor_de_mina
+	culture = paraense
+	2647.4.9 = {
+		birth = yes
+	}
+}
+c046036200 = {
+	name = Pindara
+	religion = assembleiano
+	culture = manauara
+	2651.2.10 = {
+		birth = yes
+	}
+}
+c086144073 = {
+	name = Ronald
+	religion = hekwapienai
+	culture = hixkaryana
+	2634.4.20 = {
+		birth = yes
+	}
+}
+c057150017 = {
+	name = Itatiba
+	religion = liberationism
+	culture = mura
+	2625.2.18 = {
+		birth = yes
+	}
+}
+c214203061 = {
+	name = Maik
+	religion = porantimao
+	culture = karipuna
+	2629.6.20 = {
+		birth = yes
+	}
+}
+c178101085 = {
+	name = Br_i_act_gido
+	religion = liberationism
+	culture = trifinio
+	2603.3.30 = {
+		birth = yes
+	}
+}
+c146036073 = {
+	name = Toriba
+	religion = porantimao
+	culture = kagwahivanga
+	2619.11.10 = {
+		birth = yes
+	}
+}
+c025150057 = {
+	name = Marlon
+	religion = porantimao
+	culture = apurinan
+	2625.7.12 = {
+		birth = yes
+	}
+}
+c209039196 = {
+	name = Jatir
+	religion = santo_daime
+	culture = mawe
+	2635.7.23 = {
+		birth = yes
+	}
+}
+c071126078 = {
+	name = Endi
+	religion = porantimao
+	culture = mawe
+	2614.7.6 = {
+		birth = yes
+	}
+}
+c206025053 = {
+	name = Ibat_e_act_
+	religion = bahai
+	culture = mura
+	2626.5.23 = {
+		birth = yes
+	}
+}
+c069119153 = {
+	name = Iardei
+	religion = hekwapienai
+	culture = baniwabare
+	2621.12.29 = {
+		birth = yes
+	}
+}
+c173197014 = {
+	name = Renzo
+	religion = iraacungeguma
+	culture = ticuna
+	2620.11.2 = {
+		birth = yes
+	}
+}
+c152073029 = {
+	name = Emilio
+	religion = iraacungeguma
+	culture = ticuna
+	2643.3.6 = {
+		birth = yes
+	}
+}
+c068081162 = {
+	name = Vasco
+	religion = iraacungeguma
+	culture = ticuna
+	2602.12.26 = {
+		birth = yes
+	}
+}
+c087029015 = {
+	name = Valencia
+	religion = hekwapienai
+	culture = ticuna
+	2662.6.24 = {
+		birth = yes
+	}
+}
+c028178125 = {
+	name = S_o_act_til
+	religion = santo_daime
+	culture = ticuna
+	2654.8.21 = {
+		birth = yes
+	}
+}
+c164118101 = {
+	name = Adolfo
+	religion = liberationism
+	culture = rondoniense
+	2650.1.21 = {
+		birth = yes
+	}
+}
+c146143164 = {
+	name = Palet_o_act_
+	religion = liberationism
+	culture = wari
+	2616.1.19 = {
+		birth = yes
+	}
+}
+c039121069 = {
+	name = Giuseppe
+	religion = global_throne
+	culture = rondoniense
+	2608.10.17 = {
+		birth = yes
+	}
+}
+c144058033 = {
+	name = Maur_i_act_cio
+	religion = global_throne
+	culture = rondoniense
+	2616.6.10 = {
+		birth = yes
+	}
+}
+c061030131 = {
+	name = Marcos_Paulo
+	religion = liberationism
+	culture = acreano
+	2623.12.19 = {
+		birth = yes
+	}
+}
+c085046092 = {
+	name = Josu_e_act_
+	religion = liberationism
+	culture = apurinan
+	2634.12.13 = {
+		birth = yes
+	}
+}
+c133059193 = {
+	name = Rayan
+	religion = liberationism
+	culture = karipuna
+	2624.9.23 = {
+		birth = yes
+	}
+}
+c159189025 = {
+	name = Josu_e_act_
+	religion = hekwapienai
+	culture = waimiri
+	2652.12.6 = {
+		birth = yes
+	}
+}
+c216167058 = {
+	name = Alfredo
+	religion = hekura
+	culture = yanomami
+	2597.8.2 = {
+		birth = yes
+	}
+}
+c093159174 = {
+	name = Jean-Marie
+	religion = ursuline
+	culture = quebecois
+	2617.8.22 = {
+		birth = yes
+	}
+}
+c108146019 = {
+	name = Basile
+	religion = ursuline
+	culture = quebecois
+	2636.9.3 = {
+		birth = yes
+	}
+}
+c115159181 = {
+	name = Ysmael
+	religion = cetic
+	culture = angeleno
+	2646.12.14 = {
+		birth = yes
+	}
+}
+c222198122 = {
+	name = Kareem
+	religion = cetic
+	culture = angeleno
+	2614.2.12 = {
+		birth = yes
+	}
+}
+c090214036 = {
+	name = Pascal
+	religion = cetic
+	culture = angeleno
+	2616.7.3 = {
+		birth = yes
+	}
+}
+c203158029 = {
+	name = Chul
+	religion = cetic
+	culture = angeleno
+	2642.6.12 = {
+		birth = yes
+	}
+}
+c107103133 = {
+	name = Alborz
+	religion = cetic
+	culture = angeleno
+	2645.10.6 = {
+		birth = yes
+	}
+}
+c114213016 = {
+	name = Ike
+	religion = atomicist
+	culture = battleborn
+	2605.6.22 = {
+		birth = yes
+	}
+}
+c197046029 = {
+	name = Adil
+	religion = jesusfreak
+	culture = angeleno
+	2643.9.6 = {
+		birth = yes
+	}
+}
+c168076198 = {
+	name = Morris
+	religion = cetic
+	culture = bayfolk
+	2624.8.13 = {
+		birth = yes
+	}
+}
+c182022194 = {
+	name = Cyrus
+	religion = cetic
+	culture = eightian
+	2611.3.3 = {
+		birth = yes
+	}
+}
+c085205065 = {
+	name = Kelly
+	female = yes
+	religion = humanistic_buddhism
+	culture = bayfolk
+	2600.6.23 = {
+		birth = yes
+	}
+}
+c049124080 = {
+	name = Eliel
+	religion = cetic
+	culture = angeleno
+	2635.7.23 = {
+		birth = yes
+	}
+}
+c027191091 = {
+	name = Albert
+	religion = cetic
+	culture = bayfolk
+	2638.2.27 = {
+		birth = yes
+	}
+}
+c127142138 = {
+	name = John
+	religion = jesusfreak
+	culture = valleyan
+	2636.3.18 = {
+		birth = yes
+	}
+}
+c163076188 = {
+	name = Jeffrey
+	religion = cetic
+	culture = valleyan
+	2638.7.15 = {
+		birth = yes
+	}
+}
+c119072122 = {
+	name = Brian
+	religion = cetic
+	culture = valleyan
+	2640.12.24 = {
+		birth = yes
+	}
+}
+c171131021 = {
+	name = Benton
+	religion = cetic
+	culture = valleyan
+	2612.1.12 = {
+		birth = yes
+	}
+}
+c061214112 = {
+	name = Mickey
+	religion = cetic
+	culture = valleyan
+	2635.11.1 = {
+		birth = yes
+	}
+}
+c193050067 = {
+	name = Chelsea
+	female = yes
+	religion = cetic
+	culture = valleyan
+	2647.3.26 = {
+		birth = yes
+	}
+}
+c105074093 = {
+	name = Theodore
+	religion = cetic
+	culture = valleyan
+	2645.10.29 = {
+		birth = yes
+	}
+}
+c196189106 = {
+	name = Grantland
+	religion = cetic
+	culture = eightian
+	2636.10.7 = {
+		birth = yes
+	}
+}
+c196111176 = {
+	name = Murphy
+	religion = cetic
+	culture = valleyan
+	2645.6.25 = {
+		birth = yes
+	}
+}
+c128040062 = {
+	name = Rufus
+	religion = cetic
+	culture = valleyan
+	2643.2.3 = {
+		birth = yes
+	}
+}
+c024216109 = {
+	name = Cosijoeza
+	religion = cetic
+	culture = californiano
+	2622.1.8 = {
+		birth = yes
+	}
+}
+c039194129 = {
+	name = Mercurio
+	religion = cetic
+	culture = californiano
+	2630.9.22 = {
+		birth = yes
+	}
+}
+c165146017 = {
+	name = Leonel
+	religion = cetic
+	culture = californiano
+	2593.1.25 = {
+		birth = yes
+	}
+}
+c072170018 = {
+	name = Porfirio
+	religion = el_santo
+	culture = californiano
+	2614.12.23 = {
+		birth = yes
+	}
+}
+c078073008 = {
+	name = Kino
+	religion = el_santo
+	culture = californiano
+	2636.11.13 = {
+		birth = yes
+	}
+}
+c059101042 = {
+	name = Octavio
+	religion = el_santo
+	culture = californiano
+	2616.4.9 = {
+		birth = yes
+	}
+}
+c146109160 = {
+	name = Lilith
+	female = yes
+	religion = gaian
+	culture = cascadian
+	2616.7.2 = {
+		birth = yes
+	}
+}
+c096206092 = {
+	name = Leo
+	religion = phylosian
+	culture = jeffersonian
+	2615.2.25 = {
+		birth = yes
+	}
+}
+c141066131 = {
+	name = Xasis
+	religion = cetic
+	culture = pomo
+	2640.5.15 = {
+		birth = yes
+	}
+}
+c146065060 = {
+	name = Casper
+	religion = cetic
+	culture = jeffersonian
+	2628.6.6 = {
+		birth = yes
+	}
+}
+c100207132 = {
+	name = Sumu
+	religion = sagestepper
+	culture = paiute
+	2610.11.25 = {
+		birth = yes
+	}
+}
+c031136112 = {
+	name = Antony
+	religion = atomicist
+	culture = battleborn
+	2623.4.16 = {
+		birth = yes
+	}
+}
+c099211180 = {
+	name = Alex
+	religion = mormon
+	culture = battleborn
+	2650.1.20 = {
+		birth = yes
+	}
+}
+c189020146 = {
+	name = Howard
+	religion = mormon
+	culture = battleborn
+	2603.1.24 = {
+		birth = yes
+	}
+}
+c227123146 = {
+	name = Tyler
+	religion = mormon
+	culture = battleborn
+	2642.5.4 = {
+		birth = yes
+	}
+}
+c112039198 = {
+	name = Olinto
+	religion = mormon
+	culture = battleborn
+	2610.6.23 = {
+		birth = yes
+	}
+}
+c022194171 = {
+	name = Tommy
+	religion = midewiwin
+	culture = oji_cree
+	2627.4.24 = {
+		birth = yes
+	}
+}
+c201153042 = {
+	name = Horace
+	religion = midewiwin
+	culture = oji_cree
+	2615.6.12 = {
+		birth = yes
+	}
+}
+c114227199 = {
+	name = Curtis
+	religion = viking
+	culture = prairielander
+	2638.9.26 = {
+		birth = yes
+	}
+}
+c105078005 = {
+	name = David
+	religion = real_road
+	culture = oji_cree
+	2627.7.8 = {
+		birth = yes
+	}
+}
+c192096085 = {
+	name = Baseline
+	female = yes
+	religion = real_road
+	culture = mountainer
+	2631.3.4 = {
+		birth = yes
+	}
+}
+c030083181 = {
+	name = Alexis
+	religion = patria_grande
+	culture = chocoano
+	2611.11.22 = {
+		birth = yes
+	}
+}
+c089095004 = {
+	name = Diomedes
+	religion = patria_grande
+	culture = embera
+	2621.10.9 = {
+		birth = yes
+	}
+}
+c176170093 = {
+	name = V_i_act_ctor
+	religion = patria_grande
+	culture = istmeno
+	2646.2.21 = {
+		birth = yes
+	}
+}
+c187073140 = {
+	name = Iro
+	religion = mama_tatda
+	culture = ngabe
+	2629.8.12 = {
+		birth = yes
+	}
+}
+c086211181 = {
+	name = Lootie
+	religion = unipkaaq
+	culture = inuit
+	2632.9.17 = {
+		birth = yes
+	}
+}
+c148056139 = {
+	name = Samik
+	religion = unipkaaq
+	culture = inuit
+	2617.11.25 = {
+		birth = yes
+	}
+}
+c163066186 = {
+	name = Atanarjuat
+	religion = ilisaijjut
+	culture = inuit
+	2644.1.1 = {
+		birth = yes
+	}
+}
+c171063162 = {
+	name = Makik
+	religion = unipkaaq
+	culture = inuit
+	2624.10.21 = {
+		birth = yes
+	}
+}
+c079114037 = {
+	name = Josye
+	religion = votanzapatista
+	culture = ode_put
+	2633.9.23 = {
+		birth = yes
+	}
+}
+c109075082 = {
+	name = Rub_e_act_n
+	religion = neomayan
+	culture = yoko_yinikob
+	2605.12.10 = {
+		birth = yes
+	}
+}
+c031218065 = {
+	name = Ekchuah
+	religion = votanzapatista
+	culture = winik_atel
+	2612.4.13 = {
+		birth = yes
+	}
+}
+c211131056 = {
+	name = Salvador
+	religion = hach_kanik
+	culture = hach_winik
+	2621.8.18 = {
+		birth = yes
+	}
+}
+c207205071 = {
+	name = Ra_u_act_l_Armando
+	religion = neomayan
+	culture = yucateco
+	2624.12.6 = {
+		birth = yes
+	}
+}
+c039024189 = {
+	name = Federico_Manzanero
+	religion = neomayan
+	culture = yucateco
+	2649.12.6 = {
+		birth = yes
+	}
+}
+c160049055 = {
+	name = Iktan
+	religion = neomayan
+	culture = yucateco
+	2614.4.14 = {
+		birth = yes
+	}
+}
+c030216189 = {
+	name = Tom_a_act_s
+	religion = cruzob
+	culture = yucateco
+	2631.3.14 = {
+		birth = yes
+	}
+}
+c207096098 = {
+	name = Teodoro
+	religion = neomayan
+	culture = yoko_yinikob
+	2610.12.25 = {
+		birth = yes
+	}
+}
+c067146050 = {
+	name = Zyanya
+	female = yes
+	religion = qabantajik
+	culture = kekchi
+	2623.6.25 = {
+		birth = yes
+	}
+}
+c083022173 = {
+	name = Bydo
+	religion = qabantajik
+	culture = kekchi
+	2646.8.4 = {
+		birth = yes
+	}
+}
+c155049172 = {
+	name = Atl
+	religion = hach_kanik
+	culture = hach_winik
+	2650.8.23 = {
+		birth = yes
+	}
+}
+c127081034 = {
+	name = Linux
+	religion = gaian
+	culture = cascadian
+	2608.9.18 = {
+		birth = yes
+	}
+}
+c162033047 = {
+	name = Charles
+	religion = gaian
+	culture = cascadian
+	2638.3.3 = {
+		birth = yes
+	}
+}
+c193141143 = {
+	name = Eduardo
+	religion = gaian
+	culture = cascadian
+	2617.10.5 = {
+		birth = yes
+	}
+}
+c165112066 = {
+	name = Gray
+	religion = gaian
+	culture = cascadian
+	2606.11.14 = {
+		birth = yes
+	}
+}
+c042128034 = {
+	name = Bruce
+	religion = gaian
+	culture = okanaganer
+	2627.6.27 = {
+		birth = yes
+	}
+}
+c163057168 = {
+	name = Tsil
+	religion = gaian
+	culture = dakelh
+	2634.6.8 = {
+		birth = yes
+	}
+}
+c228001059 = {
+	name = Angus
+	religion = mennonite
+	culture = doukhobor
+	2623.1.30 = {
+		birth = yes
+	}
+}
+c200146085 = {
+	name = Xesq_pst_in
+	religion = gaian
+	culture = interior_salish
+	2612.7.3 = {
+		birth = yes
+	}
+}
+c148128124 = {
+	name = Jepiara
+	religion = hekwapienai
+	culture = tukano
+	2598.8.22 = {
+		birth = yes
+	}
+}
+c110074106 = {
+	name = Barberio
+	religion = tres_potencias
+	culture = warao
+	2606.4.10 = {
+		birth = yes
+	}
+}
+c128051104 = {
+	name = Ab_e_act_lard
+	religion = liberationism
+	culture = cayennais
+	2631.2.1 = {
+		birth = yes
+	}
+}
+c151061176 = {
+	name = Weh-Toreh
+	religion = hekwapienai
+	culture = makushi
+	2612.1.20 = {
+		birth = yes
+	}
+}
+c040047017 = {
+	name = Kwesi
+	religion = traditionalist
+	culture = guyanese
+	2631.3.20 = {
+		birth = yes
+	}
+}
+c108138002 = {
+	name = Maurice
+	religion = constitutionalist
+	culture = southron
+	2640.6.7 = {
+		birth = yes
+	}
+}
+c213193127 = {
+	name = Corky
+	religion = galvanist
+	culture = appalachian
+	2647.10.17 = {
+		birth = yes
+	}
+}
+c027205100 = {
+	name = Church
+	religion = evangelical
+	culture = appalachian
+	2633.2.8 = {
+		birth = yes
+	}
+}
+c190223008 = {
+	name = Jesco
+	religion = 	evangelical
+	culture = appalachian
+	2613.12.17 = {
+		birth = yes
+	}
+}
+c148041078 = {
+	name = Domingo
+	religion = animism
+	culture = centrino
+	2641.7.29 = {
+		birth = yes
+	}
+}
+c083062149 = {
+	name = Benjam_i_act_n
+	religion = animism
+	culture = huaso
+	2617.10.5 = {
+		birth = yes
+	}
+}
+c078188062 = {
+	name = Danilo
+	religion = animism
+	culture = centrino
+	2638.9.1 = {
+		birth = yes
+	}
+}
+c136077148 = {
+	name = Ra_u_act_l
+	religion = animism
+	culture = chilote
+	2601.3.6 = {
+		birth = yes
+	}
+}
+c054189097 = {
+	name = Gary
+	religion = camino_estelar
+	culture = atacameno
+	2638.8.23 = {
+		birth = yes
+	}
+}
+c194067087 = {
+	name = Ladislao
+	religion = liberationism
+	culture = nortechicano
+	2627.10.18 = {
+		birth = yes
+	}
+}
+c181199062 = {
+	name = Gustavo
+	religion = camino_estelar
+	culture = rimense
+	2639.11.24 = {
+		birth = yes
+	}
+}
+c148230116 = {
+	name = Jaime
+	religion = liberationism
+	culture = rimense
+	2617.7.8 = {
+		birth = yes
+	}
+}
+c184022175 = {
+	name = Wilder
+	religion = inti_religion
+	culture = wanka
+	2644.4.26 = {
+		birth = yes
+	}
+}
+c213224045 = {
+	name = Elmer
+	religion = liberationism
+	culture = wanka
+	2646.8.20 = {
+		birth = yes
+	}
+}
+c073074181 = {
+	name = Teobaldo
+	religion = camino_estelar
+	culture = iqueno
+	2629.12.5 = {
+		birth = yes
+	}
+}
+c204114096 = {
+	name = C_e_act_sar
+	religion = camino_estelar
+	culture = iqueno
+	2636.12.31 = {
+		birth = yes
+	}
+}
+c110160194 = {
+	name = Luis
+	religion = israelite
+	culture = selvalteno
+	2659.5.11 = {
+		birth = yes
+	}
+}
+c158158089 = {
+	name = Gilberto
+	religion = inti_religion
+	culture = arequipeno
+	2599.9.24 = {
+		birth = yes
+	}
+}
+c197120075 = {
+	name = Gustavo
+	religion = jolljepunco
+	culture = arequipeno
+	2623.5.1 = {
+		birth = yes
+	}
+}
+c067076189 = {
+	name = Ulises
+	religion = israelite
+	culture = selvalteno
+	2632.10.5 = {
+		birth = yes
+	}
+}
+c028210104 = {
+	name = Eliodoro
+	religion = inti_religion
+	culture = aymara
+	2626.5.30 = {
+		birth = yes
+	}
+}
+c083075185 = {
+	name = Francisco
+	religion = inti_religion
+	culture = aymara
+	2655.10.2 = {
+		birth = yes
+	}
+}
+c042148095 = {
+	name = Juan_Miguel
+	religion = jolljepunco
+	culture = ileno
+	2647.5.26 = {
+		birth = yes
+	}
+}
+c160157100 = {
+	name = Jos_e_act__Miguel
+	religion = jolljepunco
+	culture = ileno
+	2655.12.19 = {
+		birth = yes
+	}
+}
+c135102019 = {
+	name = Santos
+	religion = jolljepunco
+	culture = iqueno
+	2640.7.22 = {
+		birth = yes
+	}
+}
+c024212086 = {
+	name = Ces_a_act_reo
+	religion = jolljepunco
+	culture = arequipeno
+	2649.11.18 = {
+		birth = yes
+	}
+}
+c136129174 = {
+	name = Alberto
+	religion = santa_diablada
+	culture = kolla
+	2632.4.15 = {
+		birth = yes
+	}
+}
+c206218032 = {
+	name = Marcial
+	religion = santa_diablada
+	culture = aymara
+	2654.10.9 = {
+		birth = yes
+	}
+}
+c029081140 = {
+	name = Octavio
+	religion = santa_diablada
+	culture = aymara
+	2606.6.22 = {
+		birth = yes
+	}
+}
+c090222097 = {
+	name = Praxides
+	religion = pachamama_religion
+	culture = aymara
+	2616.3.23 = {
+		birth = yes
+	}
+}
+c160147010 = {
+	name = Xiiomara
+	female = yes
+	religion = assembleiano
+	culture = wichi
+	2611.8.24 = {
+		birth = yes
+	}
+}
+c219228011 = {
+	name = Quint_i_act_n
+	religion = santa_diablada
+	culture = kolla
+	2622.2.13 = {
+		birth = yes
+	}
+}
+c193216077 = {
+	name = Donato
+	religion = pachamama_religion
+	culture = aymara
+	2614.8.7 = {
+		birth = yes
+	}
+}
+c030215013 = {
+	name = Eusabio
+	religion = pachamama_religion
+	culture = aymara
+	2632.5.1 = {
+		birth = yes
+	}
+}
+c176041002 = {
+	name = Manuel
+	religion = pachamama_religion
+	culture = quechua
+	2638.5.16 = {
+		birth = yes
+	}
+}
+c030100082 = {
+	name = Waldo
+	religion = santa_diablada
+	culture = kolla
+	2630.2.19 = {
+		birth = yes
+	}
+}
+c152160115 = {
+	name = H_e_act_ctor
+	religion = pachamama_religion
+	culture = kolla
+	2620.1.23 = {
+		birth = yes
+	}
+}
+c021028173 = {
+	name = Ek_Chauj
+	religion = qabantajik
+	culture = wnaqqo
+	2628.9.27 = {
+		birth = yes
+	}
+}
+c102104036 = {
+	name = Marcial
+	religion = qabantajik
+	culture = kekchi
+	2628.7.9 = {
+		birth = yes
+	}
+}
+c100039083 = {
+	name = Aurelio
+	religion = lamanite
+	culture = catracho
+	2599.6.12 = {
+		birth = yes
+	}
+}
+c221201119 = {
+	name = Brayan
+	religion = liberationism
+	culture = catracho
+	2608.4.25 = {
+		birth = yes
+	}
+}
+c074167093 = {
+	name = Justo
+	religion = liberationism
+	culture = catracho
+	2633.8.29 = {
+		birth = yes
+	}
+}
+c083111106 = {
+	name = Mauricio
+	religion = penitents
+	culture = guanaco
+	2645.11.25 = {
+		birth = yes
+	}
+}
+c050046071 = {
+	name = Jorge
+	religion = assembleiano
+	culture = nica
+	2636.2.23 = {
+		birth = yes
+	}
+}
+c024120029 = {
+	name = Maximiliano
+	religion = penitents
+	culture = nica
+	2632.4.22 = {
+		birth = yes
+	}
+}
+c189020188 = {
+	name = Giovanni
+	religion = liberationism
+	culture = nica
+	2630.10.26 = {
+		birth = yes
+	}
+}
+c206135150 = {
+	name = Horacio
+	religion = liberationism
+	culture = nica
+	2620.10.1 = {
+		birth = yes
+	}
+}
+c097111189 = {
+	name = Warren
+	religion = revelationist
+	culture = arklatexan
+	2647.3.25 = {
+		birth = yes
+	}
+}
+c048152074 = {
+	name = Edmund
+	religion = voodoo
+	culture = dixie
+	2619.12.14 = {
+		birth = yes
+	}
+}
+c179085022 = {
+	name = Herbert
+	religion = revelationist
+	culture = deltaic
+	2607.2.14 = {
+		birth = yes
+	}
+}
+c098063022 = {
+	name = Elena
+	female = yes
+	religion = inkarri_religion
+	culture = serrano
+	2616.11.23 = {
+		birth = yes
+	}
+}
+c222108200 = {
+	name = Luis
+	religion = tridentinism
+	culture = guayasense
+	2621.1.17 = {
+		birth = yes
+	}
+}
+c200085160 = {
+	name = Alfredo
+	religion = tridentinism
+	culture = guayasense
+	2604.3.21 = {
+		birth = yes
+	}
+}
+c148134016 = {
+	name = Iv_a_act_n
+	religion = inkarri_religion
+	culture = serrano
+	2643.9.15 = {
+		birth = yes
+	}
+}
+c140227090 = {
+	name = Lucas
+	religion = tridentinism
+	culture = guayasense
+	2637.4.30 = {
+		birth = yes
+	}
+}
+c051215046 = {
+	name = Dami_a_act_n
+	religion = inkarri_religion
+	culture = serrano
+	2629.12.19 = {
+		birth = yes
+	}
+}
+c128161067 = {
+	name = Fausto
+	religion = inkarri_religion
+	culture = serrano
+	2659.1.18 = {
+		birth = yes
+	}
+}
+c212181049 = {
+	name = Crist_o_act_bal
+	religion = inkarri_religion
+	culture = serrano
+	2623.8.21 = {
+		birth = yes
+	}
+}
+c127135016 = {
+	name = Emilia
+	female = yes
+	religion = inkarri_religion
+	culture = serrano
+	2637.5.29 = {
+		birth = yes
+	}
+}
+c164211085 = {
+	name = Belisario
+	religion = inkarri_religion
+	culture = serrano
+	2611.10.9 = {
+		birth = yes
+	}
+}
+c172040159 = {
+	name = Ulbio
+	religion = tridentinism
+	culture = guayasense
+	2650.3.1 = {
+		birth = yes
+	}
+}
+c158102086 = {
+	name = Pedro
+	religion = tridentinism
+	culture = guayasense
+	2644.5.1 = {
+		birth = yes
+	}
+}
+c184057111 = {
+	name = Beltr_a_act_n
+	religion = divina_chicha
+	culture = costanorteno
+	2638.1.25 = {
+		birth = yes
+	}
+}
+c119031112 = {
+	name = Emilio
+	religion = inti_religion
+	culture = huascareno
+	2641.1.24 = {
+		birth = yes
+	}
+}
+c179224012 = {
+	name = Jos_e_act_
+	religion = inkarri_religion
+	culture = charapa
+	2612.7.26 = {
+		birth = yes
+	}
+}
+c075038075 = {
+	name = Rayan
+	religion = santo_daime
+	culture = matses
+	2607.12.30 = {
+		birth = yes
+	}
+}
+c093060165 = {
+	name = Cancio
+	religion = divina_chicha
+	culture = huascareno
+	2610.8.13 = {
+		birth = yes
+	}
+}
+c189050081 = {
+	name = Javier
+	religion = inkarri_religion
+	culture = charapa
+	2646.10.12 = {
+		birth = yes
+	}
+}
+c162144186 = {
+	name = Mamerto
+	religion = inti_religion
+	culture = charapa
+	2636.9.5 = {
+		birth = yes
+	}
+}
+c041055169 = {
+	name = Wewito
+	religion = santo_daime
+	culture = ashaninka
+	2656.2.11 = {
+		birth = yes
+	}
+}
+c208206046 = {
+	name = Marcelo
+	religion = ciceritism
+	culture = guajajara
+	2637.5.20 = {
+		birth = yes
+	}
+}
+c151073065 = {
+	name = Lincoln
+	religion = apostolicism
+	culture = mineiro
+	2594.10.9 = {
+		birth = yes
+	}
+}
+c078184006 = {
+	name = Amadeo
+	religion = real_road
+	culture = neomexicano
+	2637.10.30 = {
+		birth = yes
+	}
+}
+c170125121 = {
+	name = Marlene
+	female = yes
+	religion = gothic
+	culture = lobsterman
+	2625.8.8 = {
+		birth = yes
+	}
+}
+c208171078 = {
+	name = Townsend
+	religion = gothic
+	culture = yankee
+	2629.2.26 = {
+		birth = yes
+	}
+}
+c105100078 = {
+	name = Genevieve
+	female = yes
+	religion = constitutionalist
+	culture = hudsonian
+	2635.5.22 = {
+		birth = yes
+	}
+}
+c076032046 = {
+	name = Erastus
+	religion = mennonite
+	culture = upstater
+	2632.11.26 = {
+		birth = yes
+	}
+}
+c064094131 = {
+	name = Xander
+	religion = galvanist
+	culture = upstater
+	2628.8.2 = {
+		birth = yes
+	}
+}
+c137019056 = {
+	name = George
+	religion = catholic
+	culture = upstater
+	2616.1.28 = {
+		birth = yes
+	}
+}
+c075064003 = {
+	name = Alton
+	religion = catholic
+	culture = hudsonian
+	2613.1.10 = {
+		birth = yes
+	}
+}
+c093093083 = {
+	name = Francis
+	religion = catholic
+	culture = upstater
+	2600.2.3 = {
+		birth = yes
+	}
+}
+c147043074 = {
+	name = James
+	religion = catholic
+	culture = hudsonian
+	2634.4.6 = {
+		birth = yes
+	}
+}
+c222230103 = {
+	name = Vincent
+	religion = galvanist
+	culture = chicagoan
+	2628.5.23 = {
+		birth = yes
+	}
+}
+c193219013 = {
+	name = Malachi
+	religion = nyabinghi
+	culture = west_indian
+	2625.3.14 = {
+		birth = yes
+	}
+}
+d187105059 = {
+	name = Jari
+	religion = santo_daime
+	culture = mura
+	2618.3.18 = {
+		birth = yes
+	}
+}
+c049187044 = {
+	name = Charles-Auguste
+	religion = ursuline
+	culture = quebecois
+	2623.2.10 = {
+		birth = yes
+	}
+}
+c059069127 = {
+	name = Medwekanoonind
+	religion = ursuline
+	culture = algonquin
+	2627.2.2 = {
+		birth = yes
+	}
+}
+c112220087 = {
+	name = Thomas
+	religion = ursuline
+	culture = quebecois
+	2647.1.21 = {
+		birth = yes
+	}
+}
+d051158000 = {
+	name = Fakhruddin
+	religion = ansari
+	culture = angeleno
+	2621.1.5 = {
+		birth = yes
+	}
+}
+d102102097 = {
+	name = Hamza
+	religion = brethren
+	culture = angeleno
+	2608.8.23 = {
+		birth = yes
+	}
+}
+d198144179 = {
+	name = Ana
+	female = yes
+	religion = patria_grande
+	culture = paisa
+	2644.4.11 = {
+		birth = yes
+	}
+}
+c049148185 = {
+	name = Paskwa
+	religion = cristero
+	culture = ode_put
+	2610.11.13 = {
+		birth = yes
+	}
+}
+c090142255 = {
+	name = Carolina
+	female = yes
+	religion = cristero
+	culture = chapin
+	2613.1.2 = {
+		birth = yes
+	}
+}
+c156125090 = {
+	name = Pl_a_act_cido_Bernal
+	religion = cruzob
+	culture = yucateco
+	2654.9.16 = {
+		birth = yes
+	}
+}
+c087055166 = {
+	name = Ulises
+	religion = cruzob
+	culture = yucateco
+	2637.8.16 = {
+		birth = yes
+	}
+}
+c109132101 = {
+	name = Hunac
+	religion = qabantajik
+	culture = kiche
+	2618.12.22 = {
+		birth = yes
+	}
+}
+c221093017 = {
+	name = Virgilio
+	religion = penitents
+	culture = catracho
+	2612.9.6 = {
+		birth = yes
+	}
+}

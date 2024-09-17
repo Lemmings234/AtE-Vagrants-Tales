@@ -1,0 +1,1062 @@
+﻿# New England
+e_new_england = {
+	2229.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2376.7.4 = {
+		holder = 0
+	}
+}
+
+k_twin_crowns = {
+	2229.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.10.31 = {
+		holder = 0
+	}
+}
+
+k_maine = {
+	2142.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2425.3.27 = {
+		holder = noreast_mahonic_victor_1
+	}
+	2462.4.27 = {
+		holder = noreast_mahonic_ambrose_1
+	}
+	2501.2.1 = {
+		holder = 0
+	}
+	
+	2666.7.4 = {
+		holder = noreast_gagnon_clark_1
+		government = tribal_government
+	}
+}
+
+k_ivyland = {
+	2170.3.5 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2376.7.4 = {
+		holder = 0
+	}
+	2381.3.17 = {
+		holder = noreast_rockwell_we_hold_these_truths_1
+	}
+	2418.5.10 = {
+		holder = noreast_collin_goodness_of_the_great_legislator_1
+	}
+	2439.3.24 = {
+		holder = noreast_northwick_roger_1
+	}
+	2494.9.6 = {
+		holder = noreast_peterson_peter_1
+	}
+	2538.6.15 = {
+		holder = noreast_sideburns_robert_1
+	}
+	2538.6.16 = {
+		holder = 0
+	}
+	2538.7.2 = {
+		holder = noreast_sideburns_robert_1
+	}
+	2562.11.9 = {
+		holder = noreast_sideburns_robert_2
+	}
+	2594.7.30 = {
+		holder = noreast_sideburns_robert_3
+	}
+	2621.9.13 = {
+		holder = noreast_crewe_blessings_of_liberty
+	}
+	2654.10.8 = {
+		holder = noreast_miskaton_onesiphorus_1
+		succession_laws = {yankee_elective_succession_law}
+	}
+}
+d_boston = {
+	2142.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2425.3.27 = {
+		holder = noreast_mahonic_victor_1
+	}
+	2462.4.27 = {
+		holder = noreast_mahonic_ambrose_1
+	}
+	2501.2.1 = {
+		holder = noreast_mahonic_abdul_1
+	}
+	2541.1.18 = {
+		holder = noreast_mahonic_aiden_1
+	}
+	2593.4.29 = {
+		holder = noreast_mahonic_liam_3
+	}
+	2625.12.20 = {
+		holder = noreast_mahonic_sean_1
+	}
+	2643.12.16 = {
+		holder = noreast_miskaton_onesiphorus_1
+	}
+}
+
+c_boston = {
+	2666.7.4 = { change_development_level = 15 }
+	2170.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2425.3.27 = {
+		holder = noreast_mahonic_victor_1
+	}
+	2462.4.27 = {
+		holder = noreast_mahonic_ambrose_1
+	}
+	2501.2.1 = {
+		holder = noreast_mahonic_abdul_1
+	}
+	2541.1.18 = {
+		holder = noreast_mahonic_aiden_1
+	}
+	2593.4.29 = {
+		holder = noreast_mahonic_liam_3
+	}
+	2625.12.20 = {
+		holder = noreast_mahonic_sean_1
+	}
+	2643.12.16 = {
+		liege = d_boston
+	}
+	2662.1.7 = {
+		holder = noreast_mahonic_paul_1    
+	}
+}
+
+d_new_hampshire = {
+	2142.1.1 = {
+		holder = noreast_mahonic_keziah_1
+	}
+	2285.1.1 = {
+		holder = noreast_mahonic_liam_1
+	}
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2425.3.27 = {
+		holder = noreast_mahonic_victor_1
+	}
+	2462.4.27 = {
+		holder = 0
+	}
+	2666.7.4 = {
+		holder = noreast_dudley_akurion_1
+	}
+}
+
+d_maine = {
+	2322.6.16 = {
+		holder = noreast_mahonic_robert_1
+	}
+	2345.11.1 = {
+		holder = noreast_mahonic_zadok_1
+	}
+	2375.6.11 = {
+		holder = noreast_mahonic_liam_2
+	}
+	2425.3.27 = {
+		holder = noreast_mahonic_victor_1
+	}
+	2462.4.27 = {
+		holder = noreast_mahonic_ambrose_1
+	}
+	2501.2.1 = {
+		holder = 0
+	}
+	2666.7.4 = {
+		holder = noreast_gagnon_clark_1       
+	}
+}
+
+#Hudsonia
+k_hudsonia = { 
+    2660.7.4 = {
+        holder = noreast_vanderbronx_baltus_baltus
+    }
+    2657.4.12 = {
+        holder = noreast_vanderbronx_baltus_baltus_2
+    }
+    2609.9.15 = {
+        holder = noreast_clinton_tiaogeara_2
+    }
+    2569.3.23 = {
+        holder = noreast_clinton_ichabod_2
+    }
+    2552.5.9 = {
+        holder = noreast_clinton_baltus_1
+    }
+    2520.10.11 = {
+        holder = noreast_clinton_ichabod_1
+    }
+    2479.8.12 = {
+        holder = noreast_clinton_holbrook_1
+    }
+    2451.5.30 = {
+        holder = noreast_clinton_tiaogeara_1
+    }
+    2444.12.26 = {
+        holder = noreast_clinton_jervis_1
+    }
+    2430.12.26 = {
+        holder = noreast_clinton_artur_1
+    }
+    2381.6.30 = {
+        holder = noreast_clinton_ellis_1
+    }
+}
+
+d_albany = { 
+    2660.7.4 = {
+        holder = noreast_vanderbronx_baltus_baltus
+    }
+}
+
+c_saratoga = { 
+	2666.7.4 = { change_development_level = 5 }
+    2660.7.4 = {
+        holder = noreast_vanderbronx_baltus_baltus
+    }
+}
+
+c_albany = {
+	2666.7.4 = { change_development_level = 7 }
+    2660.7.4 = {
+        holder = noreast_vanderbronx_baltus_baltus
+    }
+}
+
+c_schoharie = { 
+	2666.7.4 = { change_development_level = 3 }
+    2660.7.4 = {
+        holder = noreast_vanderbronx_baltus_baltus
+    }
+}
+
+d_adirondack = {
+    2666.7.4 = {
+        holder = noreast_voorheis_quincy_1
+        liege = k_hudsonia    
+    }
+}
+
+c_jefferson = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_voorheis_quincy_1
+        liege = k_hudsonia    
+    }
+}
+
+c_lewis = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_voorheis_quincy_1
+        liege = k_hudsonia    
+    }
+}
+
+c_fulton_chain = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_voorheis_quincy_1
+        liege = k_hudsonia    
+    }
+}
+
+c_high_peaks = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_wheelock_tehoka_1
+        liege = d_adirondack    
+    }
+}
+
+d_catskill = {
+    2666.7.4 = {
+        holder = noreast_adder_james_1
+        liege = k_hudsonia    
+    }
+}
+
+c_otsego = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_adder_james_1
+        liege = k_hudsonia    
+    }
+}
+
+c_cortland = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_adder_james_1
+        liege = k_hudsonia    
+    }
+}
+
+c_broome = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = noreast_riley_virgil_count_broome
+    }
+}
+
+c_sullivan = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_hammerstein_lazar_hammer1
+        liege = d_catskill    
+    }
+}
+
+d_champlain = {
+    2666.7.4 = {
+        holder = noreast_casgrain_laura_1
+        liege = k_hudsonia    
+    }
+}
+
+c_glens_falls = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_casgrain_laura_1
+        liege = k_hudsonia    
+    }
+}
+
+c_clinton = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_casgrain_laura_1
+        liege = k_hudsonia    
+    }
+}
+
+c_ticonderoga = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_casgrain_laura_1
+        liege = k_hudsonia    
+    }
+}
+
+d_finger_lakes = {
+    2666.7.4 = {
+        holder = noreast_countryman_nathaniel_1
+        liege = k_hudsonia    
+    }
+}
+
+c_seneca = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_countryman_nathaniel_1
+        liege = k_hudsonia    
+    }
+}
+
+c_cayuga = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_countryman_nathaniel_1
+        liege = k_hudsonia    
+    }
+}
+
+c_rochester = { 
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = noreast_countryman_nathaniel_1
+        liege = k_hudsonia    
+    }
+}
+
+c_livingston = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_countryman_nathaniel_1
+        liege = k_hudsonia   
+    }
+}
+
+c_steuben = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_root_amadeus_1
+        liege = d_finger_lakes    
+    }
+}
+
+d_hudson_valley = {
+    2666.7.4 = {
+        holder = noreast_hemlock_felicia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_ulster = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_hemlock_felicia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_dutchess = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_hemlock_felicia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_rockland = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = noreast_hemlock_felicia_1
+        liege = k_hudsonia    
+    }
+}
+
+d_oneida = {
+    2666.7.4 = {
+        holder = noreast_bristol_zenobia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_onondaga = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = noreast_bristol_zenobia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_oswego = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = noreast_bristol_zenobia_1
+        liege = k_hudsonia    
+    }
+}
+
+c_utica = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = noreast_chalmers_gary_supernintendo
+        liege = d_oneida    
+    }
+}
+
+d_the_taconics = {
+    2666.7.4 = {
+        holder = noreast_sickles_oliver_1
+        liege = k_hudsonia    
+    }
+}
+
+c_renssalaer = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_sickles_oliver_1
+        liege = k_hudsonia    
+    }
+}
+
+c_hudson = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_sickles_oliver_1
+        liege = k_hudsonia    
+    }
+}
+
+c_berkshire = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_ashmead_killian_1
+        liege = d_the_taconics    
+    }
+}
+
+c_potsdam = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_rockwell_peregrin_1
+        liege = k_hudsonia    
+    }
+}
+
+#New England
+
+
+d_somerset_maine = {
+    2666.7.4 = {
+        holder = noreast_baxter_lilith_1
+    }
+}
+
+c_bangor = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_baxter_lilith_1
+    }
+}
+
+c_katahdin = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_baxter_lilith_1
+    }
+}
+
+
+
+c_moosehead = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = noreast_coffin_thaddeus_1
+        liege = d_somerset_maine    
+    }
+}
+
+c_mahoosuc = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_grafton_angela_1
+        liege = d_somerset_maine    
+    }
+}
+
+d_massachusetts = {
+    2666.7.4 = {
+        holder = noreast_akeley_wentworth_1
+    }
+}
+
+c_quabbin = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_akeley_wentworth_1
+    }
+}
+
+c_hampden = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_hampden
+        liege = d_massachusetts    
+    }
+}
+
+c_pioneer_valley = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_akeley_wentworth_1
+        liege = d_massachusetts    
+    }
+}
+
+c_bennington = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_pioneer_valley
+        liege = d_massachusetts    
+    }
+}
+
+d_connecticut = {
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+d_new_haven = {
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+c_new_haven = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+c_hartford = { #more like fartford
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+c_housatonic = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+c_westchester = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = 3801
+    }
+}
+
+c_new_london = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_northwick_morgan_1
+        liege = d_connecticut    
+    }
+}
+
+c_litchfield = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_litchfield
+        liege = d_connecticut    
+    }
+}
+
+c_suffolk = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = noreast_gurliaccio_ashley_1
+	government = high_republic_government
+        liege = d_connecticut    
+    }
+}
+
+c_hempstead = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = noreast_gurliaccio_ashley_1
+        liege = d_connecticut    
+    }
+}
+
+
+d_green_mountains = {
+    2666.7.4 = {
+        holder = noreast_thrush_christopher_1
+    }
+}
+
+c_montpelier = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_thrush_christopher_1
+    }
+}
+
+c_rutland = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_thrush_christopher_1
+    }
+}
+
+c_burlington = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_thrush_christopher_1
+    }
+}
+
+c_caledonia = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		#government = high_republic_government
+        holder = noreast_bellevue_gideon_1
+        liege = d_green_mountains    
+    }
+}
+c_great_north_woods = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_cabot_ambrose_1
+        liege = d_somerset_maine
+    }
+}
+
+c_essex_mass = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = noreast_miskaton_onesiphorus_1
+    }
+}
+
+c_seacoast = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_miskaton_onesiphorus_1
+    }
+}
+
+c_quiet_corner = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_delano_amerigo_1
+        liege = d_boston    
+    }
+}
+
+c_boston = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = noreast_mahonic_paul_1
+        liege = d_boston    
+    }
+}
+
+c_worcester = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = noreast_longfellow_napoleon_1
+        liege = d_boston    
+    }
+}
+
+c_rhode_island = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = noreast_swift_allison_1
+	government = high_republic_government
+        liege = d_boston    
+    }
+}
+
+c_plymouth = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = noreast_crewe_halliwell_1
+        liege = d_boston
+    }
+}
+
+c_barnstable = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_kennedy_patrick_1
+    }
+}
+
+c_vineyard = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_stirling_elin_1
+    }
+}
+
+c_nantucket = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_stirling_elin_1
+    }
+}
+c_monadnock = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_dudley_akurion_1
+    
+    }
+}
+
+c_merrimack_valley = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = noreast_dudley_akurion_1
+
+    }
+}
+
+c_white_mountain = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_starkweather_xanadu_1
+        liege = d_new_hampshire
+    }
+    
+}
+
+c_lebanon = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_starkweather_xanadu_1
+        liege = d_new_hampshire
+    }
+    
+}
+
+c_sagadahoc = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = noreast_gagnon_clark_1
+        
+    }
+}
+
+c_kennebeck = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_gagnon_clark_1
+        
+    }
+}
+
+c_portland = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = noreast_stormbrought_solomon_1
+        liege = k_maine
+    }
+}
+
+c_androscoggin = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_stormbrought_solomon_1
+        liege = k_maine
+    }
+}
+
+
+
+c_downeast = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        government = tribal_government
+        holder = noreast_sozap_glooskap_1
+        liege = k_maine
+    }
+}
+c_hancock = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = noreast_sozap_glooskap_1
+        liege = k_maine
+    }
+}
+c_aroostook = {
+	2666.7.4 = { change_development_level = 2 }
+    2626.10.31 = {
+        government = tribal_government
+        holder = canada_castel_regis_1
+    }
+}
+
+c_st_john_valley = {
+	2666.7.4 = { change_development_level = 2 }
+    2626.10.31 = {
+        government = tribal_government
+        holder = canada_castel_regis_1
+    }
+}
+
+#Gotham
+#k_gotham = { 
+#}
+
+d_new_york = {
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_theovelt_thaddeus_nypatrician
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_new_york = {
+	2666.7.4 = { change_development_level = 24 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_theovelt_thaddeus_nypatrician
+    }
+}
+
+c_kings = {
+	2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_theovelt_thaddeus_nypatrician
+    }
+}
+
+c_bergen = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_kelly_emma_countess_newark
+        liege = d_new_york    
+    }
+}
+
+c_middlesex_nj = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_cho_thomas_1
+        liege = d_new_york    
+    }
+}
+
+d_south_jersey = {
+    2666.7.4 = {
+        holder = noreast_midfield_henry_1
+        government = high_republic_government
+        succession_laws = { populism_elective_succession_law }
+    }
+}
+
+c_rancocas = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = noreast_midfield_henry_1
+    }
+}
+
+c_camden = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = noreast_midfield_henry_1
+        government = high_republic_government
+    }
+}
+
+c_cumberland_nj = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_ortega_kensey_1
+        liege = d_south_jersey    
+        government = high_republic_government
+    }
+}
+
+c_mercer = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = atlantica_martian_welles
+        government = high_republic_government
+        liege = d_south_jersey    
+    }
+}
+
+c_atlantic = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = atlantica_flavio_boardwalks
+        liege = d_south_jersey    
+        government = high_republic_government
+    }
+}
+
+c_monmouth = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = noreast_gutfreund_levi_1
+    }
+}
+
+c_ocean = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = noreast_gutfreund_levi_1
+    }
+}
+
+c_staten_island = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = noreast_theovelt_thaddeus_nypatrician
+    }
+}

@@ -1,0 +1,2697 @@
+﻿arctic_igiu_karoo_1 = { # k_nunavik
+    name = "Karoo"
+    dynasty = dynn_arctic_igiu
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_learning_3
+    trait = diligent
+    trait = ambitious
+    trait = lustful
+    
+	2637.12.2 = {
+        birth = yes
+        
+    }
+}
+arctic_qarsoq_nivineq_1 = { # k_greenland
+    name = "Nivineq"
+    dynasty = dynn_arctic_qarsoq
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	mother = arctic_qarsoq_nukaka_1
+
+	trait = education_learning_3
+    trait = zealous
+    trait = vengeful
+    trait = generous
+    trait = murderer
+    
+	2592.9.27 = {
+        birth = yes
+        
+    }
+	2661.2.10 = {
+        death = "2661.2.10"
+    }
+}
+arctic_qarsoq_agsile_nivineqsen = { # k_greenland
+    name = "Agsile"
+    dynasty = dynn_arctic_qarsoq
+    dna = dna_arctic_qarsoq_agsile_nivineqsen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_qarsoq_nivineq_1
+
+	trait = education_stewardship_2
+    trait = shy
+    trait = just
+    trait = zealous
+    trait = diligent
+    
+	2633.10.18 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_mikkiki_dagmar_ikkaqsen1
+    }
+}
+arctic_qarsoq_nukaka_1 = { # k_greenland
+    name = "Nukaka"
+    dynasty = dynn_arctic_qarsoq
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_diplomacy_3
+    trait = ambitious
+    trait = gregarious
+    trait = stubborn
+    trait = confider
+    trait = logistician
+    
+	2567.11.24 = {
+        birth = yes
+        
+    }
+	2630.1.27 = {
+        death = "2630.1.27"
+    }
+}
+arctic_norton_nukuutchikik_1 = { # k_inupiaq
+    name = "Nukuutchikik"
+    dynasty = dynn_arctic_norton
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inupiat
+    religion = unipkaaq
+
+	trait = education_learning_2
+    trait = content
+    trait = fickle
+    trait = honest
+    
+	2625.4.24 = {
+        birth = yes
+        
+    }
+}
+
+arctic_charlie_paul_1 = { # d_gwichin
+    name = "Paul"
+    dynasty = dynn_arctic_charlie
+    female = no
+    disallow_random_traits = yes
+    
+    culture = gwichin
+    religion = ayahan
+
+	trait = education_martial_4
+    trait = brave
+    trait = generous
+    trait = ambitious
+    trait = flexible_leader
+    
+	2633.4.8 = {
+        birth = yes
+        
+    }
+}
+arctic_charlie_elias_1 = { # d_shakwak
+    name = "Elias"
+    dynasty = dynn_arctic_charlie
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yukoner
+    religion = midnight_sun
+
+	trait = education_intrigue_4
+    trait = shy
+    trait = craven
+    trait = generous
+    
+	2638.3.5 = {
+        birth = yes
+        
+    }
+}
+arctic_gravel_lara_1 = { # d_juneau
+    name = "Lara"
+    dynasty = dynn_arctic_gravel
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = tlingit
+    religion = cross_faith
+
+	trait = education_martial_4
+    trait = wrathful
+    trait = just
+    trait = callous
+    
+	2642.1.15 = {
+        birth = yes
+        
+    }
+}
+arctic_moody_xuut_1 = { # d_alexander
+    name = "Xuut"
+    dynasty = dynn_arctic_moody
+    female = no
+    disallow_random_traits = yes
+    
+    culture = haida
+    religion = raven_tales
+
+	trait = education_martial_3
+    trait = ambitious
+    trait = brave
+    trait = stubborn
+    
+	2603.6.9 = {
+        birth = yes
+        
+    }
+}
+arctic_mcintyre_rich_1 = { # d_stikine
+    name = "Rich"
+    dynasty = dynn_arctic_mcintyre
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yukoner
+    religion = midnight_sun
+
+	trait = education_stewardship_2
+    trait = gluttonous
+    trait = cynical
+    trait = stubborn
+    
+	2633.10.9 = {
+        birth = yes
+        
+    }
+}
+arctic_betsina_edzo_1 = { # d_liard
+    name = "Edzo"
+    dynasty = dynn_arctic_betsina
+    female = no
+    disallow_random_traits = yes
+    
+    culture = deh_cho
+    religion = ayahan
+
+	trait = education_stewardship_4
+    trait = ambitious
+    trait = wrathful
+    trait = just
+    
+	2644.11.21 = {
+        birth = yes
+        
+    }
+}
+arctic_valldeez_nikolas_alaskadad = { # d_alaska
+    name = "Nikolas"
+    dynasty = dynn_arctic_valldeez
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_learning_3
+    trait = paranoid
+    trait = diligent
+    trait = arrogant
+    trait = lifestyle_hunter
+    trait = lifestyle_mystic
+    
+	2618.10.19 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_ross_libby_alaskamom
+    }
+}
+arctic_crowchild_akaitchu_1 = { # d_chipewyan
+    name = "Akaitchu"
+    dynasty = dynn_arctic_crowchild
+    female = no
+    disallow_random_traits = yes
+    
+    culture = denesuline
+    religion = ayahan
+
+	trait = education_intrigue_1
+    trait = cynical
+    trait = patient
+    trait = fickle
+    
+	2641.11.6 = {
+        birth = yes
+        
+    }
+}
+arctic_xunaa_yeilgooxu_1 = { # d_yukon
+    name = "Yeilgooxu"
+    dynasty = dynn_arctic_xunaa
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlingit
+    religion = cross_faith
+
+	trait = education_diplomacy_2
+    trait = vengeful
+    trait = generous
+    trait = patient
+    
+	2637.7.25 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+arctic_gon_henry_1 = { # d_dogrib
+    name = "Henry"
+    dynasty = dynn_arctic_gon
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlicho
+    religion = ayahan
+
+	trait = education_martial_2
+    trait = compassionate
+    trait = generous
+    trait = just
+    
+	2633.9.23 = {
+        birth = yes
+        
+    }
+}
+arctic_kamookak_jaasin_1 = { # d_iqaluit
+    name = "Jaasin"
+    dynasty = dynn_arctic_kamookak
+    female = no
+    disallow_random_traits = yes
+    dna = bookmark_nots_iqaluit
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_martial_3
+    trait = lustful
+    trait = arrogant
+    trait = brave
+    trait = adventurer
+    
+	2625.2.4 = {
+        birth = yes
+        
+    }
+
+    2647.8.6 ={
+        add_spouse = arctic_coachella_maria_1
+    }
+}
+
+arctic_coachella_maria_1 = { # d_iqaluit wife
+    name = "Maria"
+    dynasty = dynn_artic_coachella
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = chukchi
+    religion = cross_faith
+
+	trait = education_intrigue_4
+    trait = diligent
+    trait = vengeful
+    trait = callous
+    trait = intellect_good_1
+    trait = witch
+    
+	2630.5.17 = {
+        birth = yes
+    }
+
+    2647.8.6 ={
+        add_spouse = arctic_kamookak_jaasin_1
+    }
+}
+
+arctic_chythlook_qetunaq_1 = { # d_yukon_delta
+    name = "Qetunaq"
+    dynasty = dynn_arctic_chythlook
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = cross_faith
+
+	trait = education_diplomacy_2
+    trait = honest
+    trait = ambitious
+    trait = calm
+    
+	2620.11.21 = {
+        birth = yes
+        
+    }
+}
+arctic_enoksen_lutse_1 = { # d_avannaata
+    name = "Lutse"
+    dynasty = dynn_arctic_enoksen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_enoksen_nakataq_1
+
+	trait = education_intrigue_2
+    trait = paranoid
+    trait = arrogant
+    trait = gluttonous
+    trait = administrator
+    
+	2610.4.6 = {
+        birth = yes
+        
+    }
+	2662.9.3 = {
+        death = "2662.9.3"
+    }
+}
+arctic_enoksen_aakooq_1 = { # can we give him claims?, d_avannaata
+    name = "Aakooq"
+    dynasty = dynn_arctic_enoksen
+    dna = dna_arctic_enoksen_aakooq_1
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_enoksen_lutse_1
+
+	trait = education_intrigue_2
+    trait = generous
+    trait = arrogant
+    trait = shy
+    trait = beauty_good_3
+    
+	2641.6.17 = {
+        birth = yes
+        
+    }
+}
+arctic_enoksen_nakataq_1 = { # d_avannaata
+    name = "Nakataq"
+    dynasty = dynn_arctic_enoksen
+    female = no
+    disallow_random_traits = yes
+    sexuality = homosexual
+    culture = kalaaleq
+    religion = unipkaaq
+	father = arctic_enoksen_enok_1
+
+	trait = education_martial_1
+    trait = shy
+    trait = cynical
+    trait = wrathful
+    trait = possessed_1
+    trait = scarred
+    
+	2579.7.11 = {
+        birth = yes
+        
+    }
+	2648.9.14 = {
+        death = "2648.9.14"
+    }
+}
+arctic_mckenzie_becky_1 = { # d_labrador
+    name = "Becky"
+    dynasty = dynn_arctic_mckenzie
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = innu
+    religion = pelagic
+
+	trait = education_diplomacy_2
+    trait = compassionate
+    trait = humble
+    trait = fickle
+    
+	2635.8.14 = {
+        birth = yes
+        
+    }
+}
+arctic_iknikpalik_kikuyat_1 = { # d_north_slope
+    name = "Kikuyat"
+    dynasty = dynn_arctic_iknikpalik
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inupiat
+    religion = unipkaaq
+
+	trait = education_diplomacy_3
+    trait = humble
+    trait = zealous
+    trait = callous
+    
+	2635.3.27 = {
+        birth = yes
+        
+    }
+}
+arctic_enoksen_enok_1 = { # d_avannaata
+    name = "Enok"
+    dynasty = dynn_arctic_enoksen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_learning_3
+    trait = compassionate
+    trait = trusting
+    trait = gluttonous
+    trait = impatient
+    trait = education_martial_1
+    trait = scholar
+    trait = shrewd
+    
+	2557.8.12 = {
+        birth = yes
+        
+    }
+	2632.8.19 = {
+        death = "2632.8.19"
+    }
+}
+arctic_mcintyre_jack_1 = { # c_stikine
+    name = "Jack"
+    dynasty = dynn_arctic_mcintyre
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kaska
+    religion = midnight_sun
+
+	trait = education_intrigue_4
+    trait = paranoid
+    trait = lustful
+    trait = sadistic
+    
+	2629.9.11 = {
+        birth = yes
+        
+    }
+}
+arctic_pearson_sarah_1 = { # c_pelly
+    name = "Sarah"
+    dynasty = dynn_arctic_pearson
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = yukoner
+    religion = midnight_sun
+
+	trait = education_martial_2
+    trait = vengeful
+    trait = lustful
+    trait = ambitious
+    
+	2644.7.5 = {
+        birth = yes
+        
+    }
+}
+arctic_iihllngas_koya_1 = { # c_hydaburg
+    name = "Koya"
+    dynasty = dynn_arctic_iihllngas
+    female = no
+    disallow_random_traits = yes
+    
+    culture = haida
+    religion = raven_tales
+
+	trait = education_martial_4
+    trait = ambitious
+    trait = brave
+    trait = generous
+    
+	2640.4.10 = {
+        birth = yes
+        
+    }
+}
+arctic_fraser_rylund_1 = { # c_klondike
+    name = "Rylund"
+    dynasty = dynn_arctic_fraser
+    female = no
+    disallow_random_traits = yes
+    
+    culture = klondiker
+    religion = midnight_sun
+
+	trait = education_diplomacy_2
+    trait = trusting
+    trait = diligent
+    trait = stubborn
+    
+	2629.1.23 = {
+        birth = yes
+        
+    }
+}
+arctic_hotch_anya_1 = { # c_klawock
+    name = "Anya"
+    dynasty = dynn_arctic_hotch
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = tlingit
+    religion = cross_faith
+
+	trait = education_martial_4
+    trait = fickle
+    trait = arrogant
+    trait = vengeful
+    
+	2623.5.9 = {
+        birth = yes
+        
+    }
+}
+arctic_thlunaut_gavril_1 = { # c_kupreanof
+    name = "Gavril"
+    dynasty = dynn_arctic_thlunaut
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlingit
+    religion = cross_faith
+
+	trait = education_diplomacy_1
+    trait = wrathful
+    trait = content
+    trait = brave
+    
+	2630.9.17 = {
+        birth = yes
+        
+    }
+}
+arctic_shotridge_vasily_1 = { # c_yaktuat
+    name = "Vasily"
+    dynasty = dynn_arctic_shotridge
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlingit
+    religion = cross_faith
+
+	trait = education_learning_3
+    trait = stubborn
+    trait = diligent
+    trait = zealous
+    
+	2631.9.13 = {
+        birth = yes
+        
+    }
+}
+arctic_brooks_seward_1 = { # c_juneau
+    name = "Seward"
+    dynasty = dynn_arctic_brooks
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = cross_faith
+
+	trait = education_stewardship_2
+    trait = trusting
+    trait = patient
+    trait = fickle
+    
+	2621.9.18 = {
+        birth = yes
+        
+    }
+}
+arctic_godin_aurore_1 = { # c_whitehorse
+    name = "Aurore"
+    dynasty = dynn_arctic_godin
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = yukoner
+    religion = midnight_sun
+
+	trait = education_learning_2
+    trait = chaste
+    trait = patient
+    trait = forgiving
+    
+	2632.2.21 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+arctic_eeriksen_nanoq_eeriksen = { # c_qaqortoq
+    name = "Nanoq"
+    dynasty_house = house_arctic_qarsoq_eeriksen
+    dna = dna_arctic_eeriksen_nanoq_eeriksen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_eeriksen_eerik_1
+
+	trait = education_martial_4
+    trait = brave
+    trait = honest
+    trait = calm
+    trait = physique_good_3
+    trait = comfort_eater
+    trait = albino
+    trait = berserker
+    
+	2626.6.10 = {
+        birth = yes
+        
+    }
+}
+arctic_koso_paul_1 = { # c_unalaska
+    name = "Paul"
+    dynasty = dynn_arctic_koso
+    female = no
+    disallow_random_traits = yes
+    
+    culture = unangan
+    religion = cross_faith
+
+	trait = education_learning_2
+    trait = content
+    trait = gregarious
+    trait = gluttonous
+    
+	2607.10.4 = {
+        birth = yes
+        
+    }
+}
+arctic_scow_saasin_1 = { # c_campbell
+    name = "Saasin"
+    dynasty = dynn_arctic_scow
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kaska
+    religion = midnight_sun
+
+	trait = education_martial_3
+    trait = ambitious
+    trait = brave
+    trait = sadistic
+    
+	2648.10.18 = {
+        birth = yes
+        
+    }
+}
+arctic_lestenkof_leontiy_1 = { # c_unimak
+    name = "Leontiy"
+    dynasty = dynn_arctic_lestenkof
+    female = no
+    disallow_random_traits = yes
+    
+    culture = unangan
+    religion = cross_faith
+
+	trait = education_martial_4
+    trait = brave
+    trait = greedy
+    trait = ambitious
+    trait = lifestyle_blademaster
+    trait = adventurer
+    
+	2625.5.18 = {
+        birth = yes
+        
+    }
+}
+arctic_tippin_yayook_1 = { # c_inuvik
+    name = "Yayook"
+    dynasty = dynn_arctic_tippin
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inupiat
+    religion = ilisaijjut
+
+	trait = education_learning_2
+    trait = content
+    trait = craven
+    trait = trusting
+    
+	2635.10.6 = {
+        birth = yes
+        
+    }
+}
+arctic_rasmussen_stormi_rasmussen = { # c_nanortalik
+    name = "Stormi"
+    dynasty = dynn_arctic_rasmussen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = unipkaaq
+
+	trait = education_learning_2
+    trait = gregarious
+    trait = lustful
+    trait = craven
+    trait = reaver
+    trait = drunkard
+    
+	2620.10.10 = {
+        birth = yes
+        
+    }
+	2664.7.26 = {
+        death = "2664.7.26"
+    }
+}
+arctic_rasmussen_aaliksi_stormisen1 = { # c_nanortalik
+    name = "Aaliksi"
+    dynasty = dynn_arctic_rasmussen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_rasmussen_stormi_rasmussen
+
+	trait = education_learning_4
+    trait = gregarious
+    trait = chaste
+    trait = generous
+    trait = shrewd
+    trait = lifestyle_hunter
+    
+	2642.7.2 = {
+        birth = yes
+        
+    }
+}
+arctic_angilirq_nathan_1 = { # c_aujuittuq
+    name = "Nathan"
+    dynasty = dynn_arctic_angilirq
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_martial_3
+    trait = diligent
+    trait = cynical
+    trait = impatient
+    
+	2646.2.18 = {
+        birth = yes
+        
+    }
+}
+arctic_opie_hazel_1 = { # c_prudhoe_bay
+    name = "Hazel"
+    dynasty = dynn_arctic_opie
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inupiat
+    religion = ilisaijjut
+
+	trait = education_martial_4
+    trait = ambitious
+    trait = brave
+    trait = lustful
+    trait = beauty_good_1
+    
+	2650.10.25 = {
+        birth = yes
+        
+    }
+}
+arctic_betsina_dolphus_1 = { # c_hay_river
+    name = "Dolphus"
+    dynasty = dynn_arctic_betsina
+    female = no
+    disallow_random_traits = yes
+    
+    culture = deh_cho
+    religion = ayahan
+
+	trait = education_martial_2
+    trait = content
+    trait = brave
+    trait = diligent
+    
+	2649.12.6 = {
+        birth = yes
+        
+    }
+}
+arctic_betsina_lloyd_1 = { # c_high_level
+    name = "Lloyd"
+    dynasty = dynn_arctic_betsina
+    female = no
+    disallow_random_traits = yes
+    
+    culture = deh_cho
+    religion = midnight_sun
+
+	trait = education_learning_3
+    trait = wrathful
+    trait = trusting
+    trait = shy
+    
+	2647.3.18 = {
+        birth = yes
+        
+    }
+}
+arctic_ringstad_noel_1 = { # c_seward
+    name = "Noel"
+    dynasty = dynn_arctic_ringstad
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_intrigue_1
+    trait = content
+    trait = trusting
+    trait = calm
+    
+	2615.1.22 = {
+        birth = yes
+        
+    }
+}
+arctic_case_harlan_1 = { # c_muncho
+    name = "Harlan"
+    dynasty = dynn_arctic_case
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kaska
+    religion = midnight_sun
+
+	trait = education_learning_4
+    trait = ambitious
+    trait = craven
+    trait = just
+    
+	2638.3.24 = {
+        birth = yes
+        
+    }
+}
+arctic_toho_herb_1 = { # c_fort_simpson
+    name = "Herb"
+    dynasty = dynn_arctic_toho
+    female = no
+    disallow_random_traits = yes
+    
+    culture = deh_cho
+    religion = midnight_sun
+
+	trait = education_intrigue_1
+    trait = paranoid
+    trait = just
+    trait = cynical
+    
+	2633.10.20 = {
+        birth = yes
+        
+    }
+}
+arctic_tizya_ruth_1 = { # c_chandalar
+    name = "Ruth"
+    dynasty = dynn_arctic_tizya
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = gwichin
+    religion = midnight_sun
+
+	trait = education_learning_3
+    trait = shy
+    trait = vengeful
+    trait = compassionate
+    
+	2636.7.8 = {
+        birth = yes
+        
+    }
+}
+arctic_sam_barney_1 = { # c_arctic_gates
+    name = "Barney"
+    dynasty = dynn_arctic_sam
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inupiat
+    religion = unipkaaq
+
+	trait = education_learning_1
+    trait = content
+    trait = callous
+    trait = calm
+    
+	2622.10.11 = {
+        birth = yes
+        
+    }
+}
+arctic_billy_silas_1 = { # c_huslia
+    name = "Silas"
+    dynasty = dynn_arctic_billy
+    female = no
+    disallow_random_traits = yes
+    
+    culture = koyukon
+    religion = quaker
+
+	trait = education_intrigue_3
+    trait = content
+    trait = zealous
+    trait = forgiving
+    
+	2635.12.13 = {
+        birth = yes
+        
+    }
+}
+arctic_telida_abraham_1 = { # c_dichinanek
+    name = "Abraham"
+    dynasty = dynn_arctic_telida
+    female = no
+    disallow_random_traits = yes
+    
+    culture = koyukon
+    religion = quaker
+
+	trait = education_learning_2
+    trait = gregarious
+    trait = just
+    trait = zealous
+    
+	2629.4.16 = {
+        birth = yes
+        
+    }
+}
+arctic_joe_lauren_1 = { # c_galena
+    name = "Lauren"
+    dynasty = dynn_arctic_joe
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = koyukon
+    religion = quaker
+
+	trait = education_diplomacy_4
+    trait = gregarious
+    trait = lustful
+    trait = honest
+    
+	2650.11.27 = {
+        birth = yes
+        
+    }
+}
+arctic_swenson_linus_1 = { # c_kuskokwim
+    name = "Linus"
+    dynasty = dynn_arctic_swenson
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = quaker
+
+	trait = education_martial_3
+    trait = impatient
+    trait = ambitious
+    trait = arrogant
+    trait = strong
+    trait = rough_terrain_expert
+    
+	2611.5.10 = {
+        birth = yes
+        
+    }
+}
+arctic_tobin_judy_1 = { # c_ahtna
+    name = "Judy"
+    dynasty = dynn_arctic_tobin
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_learning_3
+    trait = ambitious
+    trait = compassionate
+    trait = generous
+    
+	2650.8.6 = {
+        birth = yes
+        
+    }
+}
+arctic_eeriksen_eerik_1 = { # c_qaqortoq
+    name = "Eerik"
+    dynasty_house = house_arctic_qarsoq_eeriksen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	mother = arctic_qarsoq_nukaka_1
+
+	trait = education_martial_1
+    trait = just
+    trait = compassionate
+    trait = gluttonous
+    
+	2598.6.25 = {
+        birth = yes
+        
+    }
+	2645.10.18 = {
+        death = "2645.10.18"
+    }
+}
+arctic_valldeez_gregory_1 = { # c_kenai
+    name = "Gregory"
+    dynasty = dynn_arctic_valldeez
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_learning_4
+    trait = ambitious
+    trait = zealous
+    trait = sadistic
+    
+	2623.12.2 = {
+        birth = yes
+        
+    }
+}
+arctic_valldeez_joseph_1 = { # c_chugach
+    name = "Joseph"
+    dynasty = dynn_arctic_valldeez
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_diplomacy_2
+    trait = calm
+    trait = diligent
+    trait = humble
+    
+	2644.2.27 = {
+        birth = yes
+        
+    }
+}
+arctic_alexander_ray_1 = { # c_fort_yukon
+    name = "Ray"
+    dynasty = dynn_arctic_alexander
+    female = no
+    disallow_random_traits = yes
+    
+    culture = gwichin
+    religion = midnight_sun
+
+	trait = education_martial_4
+    trait = calm
+    trait = ambitious
+    trait = patient
+    
+	2645.10.8 = {
+        birth = yes
+        
+    }
+}
+arctic_goldheart_bonanza_1 = { # c_fairbanks
+    name = "Bonanza"
+    dynasty = dynn_arctic_goldheart
+    female = no
+    disallow_random_traits = yes
+    
+    culture = klondiker
+    religion = midnight_sun
+
+	trait = education_stewardship_4
+    trait = generous
+    trait = callous
+    trait = fickle
+    
+	2615.6.22 = {
+        birth = yes
+        
+    }
+}
+arctic_horwood_dalton_1 = { # c_cassiar
+    name = "Dalton"
+    dynasty = dynn_arctic_horwood
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kaska
+    religion = midnight_sun
+
+	trait = education_martial_3
+    trait = lustful
+    trait = brave
+    trait = fickle
+    
+	2650.2.26 = {
+        birth = yes
+        
+    }
+}
+arctic_broussie_danny_1 = { # c_uranium
+    name = "Danny"
+    dynasty = dynn_arctic_broussie
+    female = no
+    disallow_random_traits = yes
+    
+    culture = denesuline
+    religion = ayahan
+
+	trait = education_martial_4
+    trait = compassionate
+    trait = gluttonous
+    trait = content
+    
+	2606.2.3 = {
+        birth = yes
+        
+    }
+}
+arctic_sangris_norman_1 = { # c_resolution
+    name = "Norman"
+    dynasty = dynn_arctic_sangris
+    female = no
+    disallow_random_traits = yes
+    
+    culture = denesuline
+    religion = ayahan
+
+	trait = education_stewardship_2
+    trait = ambitious
+    trait = fickle
+    trait = zealous
+    
+	2646.1.13 = {
+        birth = yes
+        
+    }
+}
+arctic_penikett_annie_1 = { # c_hay
+    name = "Annie"
+    dynasty = dynn_arctic_penikett
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = denesuline
+    religion = half_moon
+
+	trait = education_stewardship_2
+    trait = wrathful
+    trait = gregarious
+    trait = generous
+    
+	2633.11.12 = {
+        birth = yes
+        
+    }
+}
+arctic_apannah_lloyd_1 = { # c_fort_providence
+    name = "Lloyd"
+    dynasty = dynn_arctic_apannah
+    female = no
+    disallow_random_traits = yes
+    
+    culture = deh_cho
+    religion = ayahan
+
+	trait = education_martial_3
+    trait = trusting
+    trait = zealous
+    trait = vengeful
+    trait = witch
+    
+	2615.5.25 = {
+        birth = yes
+        
+    }
+}
+arctic_paniaq_sauri_1 = { # c_cambridge_bay
+    name = "Sauri"
+    dynasty = dynn_arctic_paniaq
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_martial_1
+    trait = craven
+    trait = sadistic
+    trait = ambitious
+    trait = kinslayer_3
+    
+	2648.4.16 = {
+        birth = yes
+        
+    }
+}
+arctic_qulitalik_oki_1 = { # c_netsilik
+    name = "Oki"
+    dynasty = dynn_arctic_qulitalik
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_intrigue_3
+    trait = lustful
+    trait = deceitful
+    trait = gregarious
+    trait = lifestyle_hunter
+    trait = fornicator
+    
+	2633.12.18 = {
+        birth = yes
+        
+    }
+}
+arctic_baton_wanda_1 = { # c_fort_good_hope
+    name = "Wanda"
+    dynasty = dynn_arctic_baton
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = sahtu
+    religion = ayahan
+
+	trait = education_diplomacy_3
+    trait = paranoid
+    trait = zealous
+    trait = diligent
+    
+	2625.2.5 = {
+        birth = yes
+        
+    }
+}
+arctic_irngaut_oopik_1 = { # c_puvirnituq
+    name = "Oopik"
+    dynasty = dynn_arctic_irngaut
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_learning_3
+    trait = zealous
+    trait = honest
+    trait = shy
+    
+	2636.7.21 = {
+        birth = yes
+        
+    }
+}
+arctic_thule_luuvi_luuvi = { # c_qaanaaq
+    name = "Luuvi"
+    dynasty = dynn_arctic_thule
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inughuit
+    religion = ilisaijjut
+	father = arctic_thule_nikkulaat_nikkulaat
+
+	trait = education_learning_2
+    trait = calm
+    trait = zealous
+    trait = trusting
+    trait = winter_soldier
+    
+	2631.11.11 = {
+        birth = yes
+        
+    }
+}
+arctic_lynge_ussarkak_1 = { # c_ittoqqortoormiit
+    name = "Ussarkak"
+    dynasty = dynn_arctic_lynge
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_martial_3
+    trait = brave
+    trait = stubborn
+    trait = arrogant
+    trait = peasant_leader
+    trait = strong
+    
+	2633.9.2 = {
+        birth = yes
+        
+    }
+}
+arctic_ukaleqsen_tupeq_ukaleqsen = { # c_upernavik
+    name = "Tupeq"
+    dynasty_house = house_arctic_enoksen_ukaleqsen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_ukaleqsen_ukaleq_1
+
+	trait = education_diplomacy_2
+    trait = arrogant
+    trait = sadistic
+    trait = arbitrary
+    trait = torturer
+    trait = lunatic_1
+    
+	2621.5.10 = {
+        birth = yes
+        
+    }
+}
+arctic_anguupisen_norsaq_1 = { # c_sisimiut
+    name = "Norsaq"
+    dynasty = dynn_arctic_anguupisen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_intrigue_1
+    trait = sadistic
+    trait = paranoid
+    trait = fickle
+    
+	2580.6.19 = {
+        birth = yes
+        
+    }
+	2622.2.8 = {
+        death = "2622.2.8"
+    }
+}
+arctic_anguupisen_mikile_norsaqsen = { # c_sisimiut
+    name = "Mikile"
+    dynasty = dynn_arctic_anguupisen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_anguupisen_norsaq_1
+
+	trait = education_intrigue_4
+    trait = vengeful
+    trait = callous
+    trait = temperate
+    trait = cynical
+    trait = winter_soldier
+    trait = one_eyed
+    trait = schemer
+    trait = lifestyle_blademaster
+    
+	2587.8.12 = {
+        birth = yes
+        
+    }
+}
+arctic_tsannie_wanda_1 = { # c_lutselke
+    name = "Wanda"
+    dynasty = dynn_arctic_tsannie
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = denesuline
+    religion = ayahan
+
+	trait = education_learning_3
+    trait = callous
+    trait = lustful
+    trait = diligent
+    
+	2604.4.15 = {
+        birth = yes
+        
+    }
+}
+arctic_football_joe_1 = { # c_behchoko
+    name = "Joe"
+    dynasty = dynn_arctic_football
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlicho
+    religion = ayahan
+
+	trait = education_martial_4
+    trait = zealous
+    trait = callous
+    trait = just
+    
+	2647.4.21 = {
+        birth = yes
+        
+    }
+}
+arctic_modeste_jim_1 = { # c_tulita
+    name = "Jim"
+    dynasty = dynn_arctic_modeste
+    female = no
+    disallow_random_traits = yes
+    
+    culture = sahtu
+    religion = ayahan
+
+	trait = education_learning_1
+    trait = sadistic
+    trait = ambitious
+    trait = zealous
+    
+	2634.11.4 = {
+        birth = yes
+        
+    }
+}
+arctic_kogvik_apak_1 = { # c_uqsuqtuuq
+    name = "Apak"
+    dynasty = dynn_arctic_kogvik
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_stewardship_1
+    trait = compassionate
+    trait = impatient
+    trait = gluttonous
+    
+	2648.12.8 = {
+        birth = yes
+        
+    }
+}
+arctic_thule_nikkulaat_nikkulaat = { # c_qaanaaq
+    name = "Nikkulaat"
+    dynasty = dynn_arctic_thule
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_learning_4
+    trait = calm
+    trait = humble
+    trait = brave
+    trait = reclusive
+    
+	2589.6.20 = {
+        birth = yes
+        
+    }
+	2658.5.22 = {
+        death = "2658.5.22"
+    }
+}
+arctic_betsidea_charles_1 = { # c_deline
+    name = "Charles"
+    dynasty = dynn_arctic_betsidea
+    female = no
+    disallow_random_traits = yes
+    
+    culture = sahtu
+    religion = ayahan
+
+	trait = education_stewardship_2
+    trait = wrathful
+    trait = content
+    trait = trusting
+    
+	2632.4.1 = {
+        birth = yes
+        
+    }
+}
+arctic_tshakapesh_emish_1 = { # c_labrador_west
+    name = "Emish"
+    dynasty = dynn_arctic_tshakapesh
+    female = no
+    disallow_random_traits = yes
+    
+    culture = innu
+    religion = midewiwin
+
+	trait = education_stewardship_3
+    trait = sadistic
+    trait = deceitful
+    trait = zealous
+    
+	2633.5.21 = {
+        birth = yes
+        
+    }
+}
+arctic_kotierk_kumaglak_1 = { # c_salluit
+    name = "Kumaglak"
+    dynasty = dynn_arctic_kotierk
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_martial_1
+    trait = diligent
+    trait = gregarious
+    trait = cynical
+    trait = athletic
+    
+	2641.6.25 = {
+        birth = yes
+        
+    }
+}
+arctic_nuvalinga_allakariallak_1 = { # c_kangiqsujuaq
+    name = "Allakariallak"
+    dynasty = dynn_arctic_nuvalinga
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_martial_3
+    trait = diligent
+    trait = lustful
+    trait = deceitful
+    trait = lifestyle_hunter
+    
+	2643.1.18 = {
+        birth = yes
+        
+    }
+}
+arctic_teevee_mishak_1 = { # c_aupaluk
+    name = "Mishak"
+    dynasty = dynn_arctic_teevee
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_martial_2
+    trait = just
+    trait = callous
+    trait = greedy
+    
+	2633.3.13 = {
+        birth = yes
+        
+    }
+}
+arctic_nakoolak_emma_1 = { # c_hopedale
+    name = "Emma"
+    dynasty = dynn_arctic_nakoolak
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = pelagic
+
+	trait = education_stewardship_3
+    trait = lustful
+    trait = gregarious
+    trait = greedy
+    trait = beauty_good_1
+    
+	2647.3.19 = {
+        birth = yes
+        
+    }
+}
+arctic_rich_chwan_1 = { # c_alexis
+    name = "Chwan"
+    dynasty = dynn_arctic_rich
+    female = no
+    disallow_random_traits = yes
+    
+    culture = innu
+    religion = pelagic
+
+	trait = education_martial_2
+    trait = ambitious
+    trait = craven
+    trait = gregarious
+    
+	2648.11.1 = {
+        birth = yes
+        
+    }
+}
+arctic_bellefleur_ruby_1 = { # c_schefferville
+    name = "Ruby"
+    dynasty = dynn_arctic_bellefleur
+    dna = dna_arctic_bellefleur_ruby_1
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = innu
+    religion = midewiwin
+
+	trait = education_learning_4
+    trait = honest
+    trait = compassionate
+    trait = gregarious
+    trait = physique_bad_2
+    trait = depressed_1
+    
+	2649.1.5 = {
+        birth = yes
+        
+    }
+}
+arctic_mikkiki_haansi_elder1 = { # c_paamiut
+    name = "Haansi"
+    dynasty = dynn_arctic_mikkiki
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+
+	trait = education_diplomacy_3
+    trait = just
+    trait = vengeful
+    trait = callous
+    trait = schemer
+    trait = fornicator
+    
+	2596.5.14 = {
+        birth = yes
+        
+    }
+	2636.2.28 = {
+        death = "2636.2.28"
+    }
+}
+arctic_ukaleqsen_ukaleq_1 = { # c_upernavik
+    name = "Ukaleq"
+    dynasty_house = house_arctic_enoksen_ukaleqsen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_enoksen_enok_1
+
+	trait = education_diplomacy_3
+    trait = paranoid
+    trait = lustful
+    trait = generous
+    trait = fecund
+    
+	2599.9.13 = {
+        birth = yes
+        
+    }
+	2651.7.19 = {
+        death = "2651.7.19"
+    }
+}
+arctic_barr_paul_1 = { # c_bethel
+    name = "Paul"
+    dynasty = dynn_arctic_barr
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = cross_faith
+
+	trait = education_intrigue_1
+    trait = just
+    trait = diligent
+    trait = wrathful
+    
+	2630.9.12 = {
+        birth = yes
+        
+    }
+}
+arctic_mikkiki_ikkaq_haansisen = { # c_paamiut
+    name = "Ikkaq"
+    dynasty = dynn_arctic_mikkiki
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_mikkiki_haansi_elder1
+
+	trait = education_learning_1
+    trait = greedy
+    trait = vengeful
+    trait = sadistic
+    trait = avaricious
+    
+	2609.9.4 = {
+        birth = yes
+        
+    }
+}
+arctic_qulaut_nyla_1 = { # c_arviat
+    name = "Nyla"
+    dynasty = dynn_arctic_qulaut
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_diplomacy_4
+    trait = just
+    trait = compassionate
+    trait = generous
+    
+	2600.4.7 = {
+        birth = yes
+        
+    }
+}
+arctic_takatak_unalaq_av3 = { # c_salliq
+    name = "Unalaq"
+    dynasty = dynn_arctic_takatak
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+	father = arctic_takatak_yakone_av1
+
+	trait = education_intrigue_3
+    trait = ambitious
+    trait = sadistic
+    trait = vengeful
+    trait = lifestyle_mystic
+    
+	2650.11.28 = {
+        birth = yes
+        
+    }
+}
+arctic_takatak_tonraq_av2 = { # c_kangiqliniq
+    name = "Tonraq"
+    dynasty = dynn_arctic_takatak
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+	father = arctic_takatak_yakone_av1
+
+	trait = education_stewardship_4
+    trait = content
+    trait = brave
+    trait = honest
+    
+	2647.11.11 = {
+        birth = yes
+        
+    }
+}
+arctic_takatak_yakone_av1 = { # c_kangiqliniq
+    name = "Yakone"
+    dynasty = dynn_arctic_takatak
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_martial_4
+    trait = ambitious
+    trait = brave
+    trait = sadistic
+    
+	2604.2.15 = {
+        birth = yes
+        
+    }
+	2660.8.17 = {
+        death = "2660.8.17"
+    }
+}
+arctic_tatlelik_chikuk_1 = { # c_holy_cross
+    name = "Chikuk"
+    dynasty = dynn_arctic_tatlelik
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = cross_faith
+
+	trait = education_martial_2
+    trait = brave
+    trait = shy
+    trait = gluttonous
+    
+	2648.10.7 = {
+        birth = yes
+        
+    }
+}
+arctic_arlooktoo_eve_1 = { # c_arctic_bay
+    name = "Eve"
+    dynasty = dynn_arctic_arlooktoo
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_learning_1
+    trait = wrathful
+    trait = fickle
+    trait = generous
+    
+	2623.3.15 = {
+        birth = yes
+        
+    }
+}
+arctic_quassa_oki_1 = { # c_uqqummiut
+    name = "Oki"
+    dynasty = dynn_arctic_quassa
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_martial_2
+    trait = trusting
+    trait = chaste
+    trait = callous
+    
+	2645.8.7 = {
+        birth = yes
+        
+    }
+}
+arctic_anawak_sarah_1 = { # c_kinngait
+    name = "Sarah"
+    dynasty = dynn_arctic_anawak
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_stewardship_2
+    trait = diligent
+    trait = honest
+    trait = compassionate
+    
+	2635.12.23 = {
+        birth = yes
+        
+    }
+}
+arctic_mikki_scott_igloolik = { # c_iglulik
+    name = "Scott"
+    dynasty = dynn_arctic_mikki
+    dna = dna_arctic_mikki_scott_igloolik
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = unipkaaq
+
+	trait = education_martial_3
+    trait = brave
+    trait = content
+    trait = lustful
+    trait = lifestyle_hunter
+    
+	2641.1.22 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_ukaliannuk_jeena_igloolik2
+    }
+}
+arctic_sovoroff_amiyuung_1 = { # c_chignik
+    name = "Amiyuung"
+    dynasty = dynn_arctic_sovoroff
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = unangan
+    religion = cross_faith
+
+	trait = education_martial_2
+    trait = shy
+    trait = brave
+    trait = compassionate
+    trait = winter_soldier
+    
+	2647.2.23 = {
+        birth = yes
+        
+    }
+}
+arctic_nitsiza_eddie_1 = { # c_yellowknife
+    name = "Eddie"
+    dynasty = dynn_arctic_nitsiza
+    female = no
+    disallow_random_traits = yes
+    
+    culture = tlicho
+    religion = ayahan
+
+	trait = education_learning_2
+    trait = craven
+    trait = callous
+    trait = calm
+    
+	2621.2.14 = {
+        birth = yes
+        
+    }
+}
+arctic_haakanson_eric_1 = { # c_kodiak
+    name = "Eric"
+    dynasty = dynn_arctic_haakanson
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alutiiq
+    religion = cross_faith
+
+	trait = education_diplomacy_3
+    trait = generous
+    trait = lustful
+    trait = deceitful
+    
+	2627.8.24 = {
+        birth = yes
+        
+    }
+}
+arctic_chichenoff_isiik_1 = { # c_naknek
+    name = "Isiik"
+    dynasty = dynn_arctic_chichenoff
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = alutiiq
+    religion = cross_faith
+
+	trait = education_intrigue_1
+    trait = paranoid
+    trait = craven
+    trait = sadistic
+    
+	2640.9.3 = {
+        birth = yes
+        
+    }
+}
+arctic_ivanoff_yaqulpaq_1 = { # c_st_lawrence_island
+    name = "Yaqulpaq"
+    dynasty = dynn_arctic_ivanoff
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = unipkaaq
+
+	
+    
+	2626.5.19 = {
+        birth = yes
+        
+    }
+}
+arctic_tunguryak_ticasuk_1 = { # c_unalakleet
+    name = "Ticasuk"
+    dynasty = dynn_arctic_tunguryak
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = unipkaaq
+
+	trait = education_diplomacy_3
+    trait = compassionate
+    trait = stubborn
+    trait = humble
+    
+	2633.12.10 = {
+        birth = yes
+        
+    }
+}
+arctic_pingayak_felix_1 = { # c_dillingham
+    name = "Felix"
+    dynasty = dynn_arctic_pingayak
+    female = no
+    disallow_random_traits = yes
+    sexuality = bisexual
+    culture = yupik
+    religion = cross_faith
+
+	trait = education_intrigue_3
+    trait = paranoid
+    trait = diligent
+    trait = gregarious
+    
+	2605.1.9 = {
+        birth = yes
+        
+    }
+}
+arctic_umugak_agyalluk_1 = { # c_emmonak
+    name = "Agyalluk"
+    dynasty = dynn_arctic_umugak
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yupik
+    religion = cross_faith
+
+	trait = education_learning_4
+    trait = deceitful
+    trait = stubborn
+    trait = just
+    
+	2641.7.11 = {
+        birth = yes
+        
+    }
+}
+arctic_ross_libby_alaskamom = {
+    name = "Libby"
+    dynasty = dynn_arctic_ross
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+
+	trait = education_learning_3
+    trait = calm
+    trait = honest
+    trait = lustful
+    
+	2619.8.13 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_valldeez_nikolas_alaskadad
+    }
+}
+arctic_anguupisen_siissi_mikilesen3 = {
+    name = "Siissi"
+    dynasty = dynn_arctic_anguupisen
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_anguupisen_mikile_norsaqsen
+
+	trait = education_intrigue_2
+    trait = arrogant
+    trait = wrathful
+    trait = zealous
+    trait = seducer
+    
+	2636.8.14 = {
+        birth = yes
+        
+    }
+}
+arctic_ukaleqsen_haansi_tupeqsen1 = {
+    name = "Haansi"
+    dynasty_house = house_arctic_enoksen_ukaleqsen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_ukaleqsen_tupeq_ukaleqsen
+
+	trait = education_diplomacy_4
+    trait = arrogant
+    trait = wrathful
+    trait = deceitful
+    trait = scarred
+    
+	2646.1.27 = {
+        birth = yes
+        
+    }
+}
+arctic_ukaleqsen_qaaqquk_tupeqsen2 = {
+    name = "Qaaqquk"
+    dynasty_house = house_arctic_enoksen_ukaleqsen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_ukaleqsen_tupeq_ukaleqsen
+
+	trait = education_intrigue_3
+    trait = shy
+    trait = craven
+    trait = deceitful
+    trait = scarred
+    trait = depressed_1
+    
+	2647.8.26 = {
+        birth = yes
+        
+    }
+}
+arctic_ukaleqsen_aaja_tupeqsen3 = {
+    name = "Aaja"
+    dynasty_house = house_arctic_enoksen_ukaleqsen
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_ukaleqsen_tupeq_ukaleqsen
+
+	trait = education_intrigue_4
+    trait = brave
+    trait = vengeful
+    trait = compassionate
+    trait = schemer
+    
+	2649.5.22 = {
+        birth = yes
+        
+    }
+}
+arctic_mikki_serafina_igloolik4 = {
+    name = "Serafina"
+    dynasty = dynn_arctic_mikki
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+	father = arctic_mikki_scott_igloolik
+	mother = arctic_ukaliannuk_jeena_igloolik2
+
+	trait = rowdy
+    trait = beauty_good_1
+    
+	2663.5.18 = {
+        birth = yes
+        
+    }
+}
+arctic_valldeez_joe_1 = {
+    name = "Joe"
+    dynasty = dynn_arctic_valldeez
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+	father = arctic_valldeez_nikolas_alaskadad
+	mother = arctic_ross_libby_alaskamom
+
+	trait = education_martial_2
+    trait = ambitious
+    trait = fickle
+    trait = brave
+    
+	2642.12.1 = {
+        birth = yes
+        
+    }
+}
+arctic_rasmussen_aua_stormisen2 = {
+    name = "Aua"
+    dynasty = dynn_arctic_rasmussen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_rasmussen_stormi_rasmussen
+
+	trait = education_martial_2
+    trait = zealous
+    trait = craven
+    trait = generous
+    trait = intellect_good_1
+    
+	2646.9.1 = {
+        birth = yes
+        
+    }
+}
+arctic_ukaliannuk_jeena_igloolik2 = {
+    name = "Jeena"
+    dynasty = dynn_arctic_ukaliannuk
+    dna = dna_arctic_ukaliannuk_jeena_igloolik2
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+
+	trait = education_learning_4
+    trait = just
+    trait = compassionate
+    trait = zealous
+    trait = lifestyle_mystic
+    
+	2644.10.6 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_mikki_scott_igloolik
+    }
+}
+arctic_mikki_atanarjuat_igloolik3 = {
+    name = "Atanarjuat"
+    dynasty = dynn_arctic_mikki
+    female = no
+    disallow_random_traits = yes
+    
+    culture = inuit
+    religion = ilisaijjut
+	father = arctic_mikki_scott_igloolik
+	mother = arctic_ukaliannuk_jeena_igloolik2
+
+	trait = shrewd #clever
+    
+	2664.2.3 = {
+        birth = yes
+        
+    }
+}
+arctic_anguupisen_jenseraq_mikilesen1 = {
+    name = "Jenseraq"
+    dynasty = dynn_arctic_anguupisen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_anguupisen_mikile_norsaqsen
+
+	trait = education_martial_3
+    trait = arrogant
+    trait = arbitrary
+    trait = calm
+    trait = flexible_leader
+    trait = lifestyle_reveler
+    
+	2619.6.26 = {
+        birth = yes
+        
+    }
+}
+arctic_anguupisen_anguupi_mikilesen2 = {
+    name = "Anguupi"
+    dynasty = dynn_arctic_anguupisen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_anguupisen_mikile_norsaqsen
+
+	trait = education_intrigue_4
+    trait = humble
+    trait = greedy
+    trait = zealous
+    trait = lifestyle_mystic
+    
+	2626.6.27 = {
+        birth = yes
+        
+    }
+}
+arctic_qarsoq_ujukku_agsilesen1 = {
+    name = "Ujukku"
+    dynasty = dynn_arctic_qarsoq
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_qarsoq_agsile_nivineqsen
+	mother = arctic_mikkiki_dagmar_ikkaqsen1
+
+	trait = education_stewardship_3
+    trait = just
+    trait = curious
+    trait = impatient
+    
+	2659.2.26 = {
+        birth = yes
+        
+    }
+}
+arctic_mikkiki_haansi_ikkaqsen2 = {
+    name = "Haansi"
+    dynasty = dynn_arctic_mikkiki
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_mikkiki_ikkaq_haansisen
+
+	trait = education_stewardship_4
+    trait = shrewd
+    trait = shy
+    trait = compassionate
+    trait = physique_bad_1
+    
+	2644.12.25 = {
+        birth = yes
+        
+    }
+}
+arctic_mikkiki_dagmar_ikkaqsen1 = {
+    name = "Dagmar"
+    dynasty = dynn_arctic_mikkiki
+    dna = dna_arctic_mikkiki_dagmar_ikkaqsen1
+    female = yes
+    disallow_random_traits = yes
+    sexuality = bisexual
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_mikkiki_ikkaq_haansisen
+
+	trait = education_martial_2
+    trait = wrathful
+    trait = diligent
+    trait = temperate
+    trait = physique_bad_1
+    
+	2641.10.4 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = arctic_qarsoq_agsile_nivineqsen
+    }
+}
+arctic_eeriksen_paalusi_nanoqsen2 = {
+    name = "Paalusi"
+    dynasty_house = house_arctic_qarsoq_eeriksen
+    female = no
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_eeriksen_nanoq_eeriksen
+
+	trait = pensive
+    trait = brave
+    trait = gluttonous
+    trait = physique_good_2
+    trait = albino
+    
+	2652.2.25 = {
+        birth = yes
+        
+    }
+}
+arctic_eeriksen_tammaq_nanoqsen1 = {
+    name = "Tammaq"
+    dynasty_house = house_arctic_qarsoq_eeriksen
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_eeriksen_nanoq_eeriksen
+
+	trait = education_martial_2
+    trait = compassionate
+    trait = honest
+    trait = fickle
+    trait = physique_good_1
+    trait = albino
+    
+	2646.10.7 = {
+        birth = yes
+        
+    }
+}
+arctic_rasmussen_arnalulunguak_stormisen3 = {
+    name = "Arnalulunguak"
+    dynasty = dynn_arctic_rasmussen
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_rasmussen_stormi_rasmussen
+
+	trait = education_stewardship_3
+    trait = shy
+    trait = calm
+    trait = honest
+    trait = intellect_good_1
+    trait = fecund
+    
+	2650.11.15 = {
+        birth = yes
+        
+    }
+}
+arctic_valldeez_petra_1 = {
+    name = "Petra"
+    dynasty = dynn_arctic_valldeez
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+	father = arctic_valldeez_nikolas_alaskadad
+	mother = arctic_ross_libby_alaskamom
+
+	trait = education_learning_4
+    trait = ambitious
+    trait = honest
+    trait = humble
+    
+	2643.11.23 = {
+        birth = yes
+        
+    }
+}
+arctic_vikværing_fartein_hobart1 = {
+    name = "Fartein"
+    dynasty = dynn_arctic_vikværing
+    female = no
+    disallow_random_traits = yes
+    
+    culture = svalbarder
+    religion = earthvault
+
+	trait = education_intrigue_1
+    trait = brave
+    trait = impatient
+    trait = vengeful
+    
+	2614.3.10 = {
+        birth = yes
+        
+    }
+}
+arctic_vikværing_filip_hobart2 = {
+    name = "Filip"
+    dynasty = dynn_arctic_vikværing
+    dna = dna_arctic_vikværing_filip_hobart2
+    female = no
+    disallow_random_traits = yes
+    
+    culture = svalbarder
+    religion = earthvault
+
+	trait = education_stewardship_2
+    trait = calm
+    trait = content
+    trait = lazy
+    trait = shrewd
+    
+	2642.2.22 = {
+        birth = yes
+        
+    }
+}
+arctic_vikværing_nina_hobart3 = {
+    name = "Nina"
+    dynasty = dynn_arctic_vikværing
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = svalbarder
+    religion = earthvault
+
+	trait = education_learning_1
+    trait = gregarious
+    trait = forgiving
+    trait = content
+    trait = lifestyle_physician
+    
+	2645.1.25 = {
+        birth = yes
+        
+    }
+}
+arctic_valldeez_tom_1 = {
+    name = "Tom"
+    dynasty = dynn_arctic_valldeez
+    female = no
+    disallow_random_traits = yes
+    
+    culture = alaskan
+    religion = midnight_sun
+	father = arctic_valldeez_nikolas_alaskadad
+	mother = arctic_ross_libby_alaskamom
+
+	trait = education_martial_3
+    trait = ambitious
+    trait = calm
+    trait = generous
+    
+	2645.6.8 = {
+        birth = yes
+        
+    }
+}
+arctic_mcgee_jim_1 = { 
+    name = "Jim"
+    dynasty = dynn_arctic_mcgee
+    female = no
+    disallow_random_traits = yes
+    
+    culture = yukoner
+    religion = midnight_sun
+
+	trait = education_learning_1
+    trait = gregarious
+    trait = compassionate
+    trait = paranoid
+    
+	2606.3.13 = {
+        birth = yes
+        
+    }
+	2666.7.4 = {
+        
+    }
+}
+arctic_qarsoq_qaaqqortooq_agsilesen2 = {
+    name = "Qaaqqortooq"
+    dynasty = dynn_arctic_qarsoq
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = kalaaleq
+    religion = ilisaijjut
+	father = arctic_qarsoq_agsile_nivineqsen
+	mother = arctic_mikkiki_dagmar_ikkaqsen1
+
+	trait = rowdy
+    
+	2661.4.9 = {
+        birth = yes
+        
+    }
+}

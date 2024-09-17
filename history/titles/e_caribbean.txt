@@ -1,0 +1,913 @@
+﻿#west indies
+
+k_west_indies = {
+    2666.7.4 = {
+        holder = caribe_seacole_portia_jamaica2
+    }
+}
+
+c_surrey = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = caribe_seacole_portia_jamaica2
+    }
+}
+
+c_cornwall = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_seacole_portia_jamaica2
+    }
+}
+
+c_middlesex = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_seacole_portia_jamaica2
+    }
+}
+
+d_cayman_islands = {
+    2666.7.4 = {
+        holder = character_d_cayman_islands
+        liege = k_west_indies    
+    }
+}
+
+c_cayman_islands = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_cayman_islands
+        liege = k_west_indies    
+    }
+}
+
+c_freeport = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_poitier_dennis_1
+        liege = k_west_indies    
+    }
+}
+
+c_andros = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = caribe_poitier_dennis_1
+        liege = k_west_indies    
+    }
+}
+
+c_turks_and_caicos = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_ewing_delancy_1
+        liege = k_west_indies    
+    }
+}
+
+c_east_cays = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = caribe_mckay_henry_1
+        liege = k_west_indies    
+    }
+}
+
+c_nassau = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_mckay_henry_1
+        liege = k_west_indies    
+    }
+}
+
+#haiti
+
+k_haiti = {
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+d_port_au_prince = {
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+c_port_au_prince = {
+	2666.7.4 = { change_development_level = 17 }
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+c_grand_anse = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+c_la_gonave = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+c_artibonite = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = caribe_petion_esau_haiti4
+    }
+}
+
+c_jacmel = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_chevalier_alphonse_1
+        liege = k_haiti    
+    }
+}
+
+c_les_cayes = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_chevalier_alphonse_1
+        liege = k_haiti    
+    }
+}
+
+c_hinche = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_mompremier_jean_pierre_1
+        liege = k_haiti    
+    }
+}
+
+c_port_de_paix = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_panosty_rousseau_1
+        liege = k_haiti    
+    }
+}
+
+c_le_cap = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_panosty_rousseau_1
+        liege = k_haiti    
+    }
+}
+
+d_tortuga = {
+    2666.7.4 = {
+        holder = caribe_moineau_jacques_1
+        liege = k_haiti    
+    }
+}
+
+c_tortuga = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = caribe_moineau_jacques_1
+        liege = k_haiti    
+    }
+}
+
+#domingo
+k_domingo = {
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+d_ozama = {
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+d_enriquillo = {
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+c_santo_domingo = {
+	2666.7.4 = { change_development_level = 14 }
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+c_valdesia = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+c_baoruco = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_guerra_israel_haiti3
+    }
+}
+
+d_el_cibao = {
+    2666.7.4 = {
+        holder = caribe_sosa_sancho_1
+        liege = k_domingo    
+    }
+}
+
+c_cibao = {
+	2666.7.4 = { change_development_level = 14 }
+    2666.7.4 = {
+        holder = caribe_sosa_sancho_1
+        liege = k_domingo    
+    }
+}
+
+c_la_vega = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = caribe_sosa_sancho_1
+        liege = k_domingo    
+    }
+}
+
+c_duarte = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_bernardez_elias_1
+        liege = d_el_cibao    
+    }
+}
+
+c_valverde = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_santillan_romeo_1
+        liege = d_el_cibao    
+    }
+}
+
+c_higuamo = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_espaillat_florimel_1
+        liege = k_domingo    
+    }
+}
+
+c_yaque = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_beltre_damaris_1
+        liege = k_domingo    
+    }
+}
+
+c_la_romana = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_espaillat_florimel_1
+        liege = k_domingo    
+    }
+}
+
+#antilles
+
+k_antilles = {
+    2666.7.4 = {
+		#government = high_republic_government
+        succession_laws = { feudal_elective_succession_law }
+        holder = caribe_collymore_clifton_collymore
+    }
+}
+
+d_windward_islands = {
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_collymore_clifton_collymore
+		succession_laws = { kleptocracy_elective_succession_law }
+    }
+}
+
+c_barbados = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_collymore_clifton_collymore
+    }
+}
+
+d_leeward_islands = {
+    2666.7.4 = {
+		government = high_republic_government
+		succession_laws = { populism_elective_succession_law }
+        holder = character_d_leeward_islands
+        liege = k_antilles    
+    }
+}
+
+c_saint_kitts_and_nevis = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_d_leeward_islands
+        liege = k_antilles    
+    }
+}
+
+c_saint_martin = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_liburd_wycliffe_1
+        liege = d_leeward_islands    
+    }
+}
+
+c_virgin_islands = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_hodge_phyllis_1
+        liege = d_leeward_islands    
+    }
+}
+
+c_antigua_and_barbuda = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_walling_errol_1
+        liege = d_leeward_islands    
+    }
+}
+
+d_puerto_rico = {
+    2666.7.4 = {
+        holder = caribe_ayala_ramon_boricua3
+        liege = k_west_indies    
+    }
+}
+
+c_caguas = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_ayala_ramon_boricua3
+        liege = k_west_indies    
+    }
+}
+
+c_san_juan_pr = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_ayala_ramon_boricua3
+        liege = k_west_indies    
+    }
+}
+
+c_ponce = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_joglar_renato_1
+        liege = d_puerto_rico    
+    }
+}
+
+c_mayaguez = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_cabra_eduardo_1
+        liege = d_puerto_rico    
+    }
+}
+
+d_french_antilles = {
+    2666.7.4 = {
+		government = high_republic_government
+		succession_laws = { stratocracy_elective_succession_law }
+        holder = caribe_georges_jean_luc_1
+        liege = k_antilles    
+    }
+}
+
+c_guadeloupe = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_georges_jean_luc_1
+        liege = k_antilles    
+    }
+}
+
+c_dominica = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_john_baptiste_lennox_1
+        liege = d_french_antilles    
+    }
+}
+
+c_martinique = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_compere_leandre_1
+        liege = d_french_antilles    
+    }
+}
+
+c_saint_lucia = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_cenac_cedric_1
+        liege = k_antilles    
+    }
+}
+
+c_saint_vincent = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_strangways_sunil_1
+        liege = k_antilles    
+    }
+}
+
+c_grenada = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_woolsworth_darlie_1
+        liege = k_antilles    
+    }
+}
+
+d_trinidad_and_tobago = {
+    2666.7.4 = {
+        holder = caribe_kitchener_aloysius_1
+    }
+}
+
+c_port_of_spain = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_kitchener_aloysius_1
+    }
+}
+
+c_naparima = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_kitchener_aloysius_1
+    }
+}
+
+c_tobago = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_barrow_leon_1
+        liege = d_trinidad_and_tobago    
+    }
+}
+
+c_aruba = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = caribe_farrell_andre_1
+    }
+}
+
+c_curacao = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_yarzagaray_willem_1
+    }
+}
+
+c_bonaire = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_van_horn_roberto_1
+    }
+}
+
+
+#cuba
+#k_cuba = {
+#}
+
+d_havana = {
+    2666.7.4 = {
+        holder = caribe_buenavista_omara_cubaking5
+    }
+}
+
+c_havana = {
+	2666.7.4 = { change_development_level = 18 }
+    2666.7.4 = {
+        holder = caribe_buenavista_omara_cubaking5
+    }
+}
+
+c_artemisa = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_buenavista_omara_cubaking5
+    }
+}
+
+d_matanzas = {
+    2666.7.4 = {
+        holder = caribe_buenavista_ramos_ruben_cubaking4
+    }
+}
+
+c_matanzas = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_buenavista_ramos_ruben_cubaking4
+    }
+}
+
+c_jaguey = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_buenavista_ramos_ruben_cubaking4
+    }
+}
+
+
+
+c_cienfuegos = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_o_farrill_felix_1
+        liege = d_matanzas    
+    }
+}
+
+d_pinar_del_rio = {
+    2666.7.4 = {
+        holder = character_d_pinar_del_rio
+    }
+}
+
+c_pinar_del_rio = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_d_pinar_del_rio
+    }
+}
+
+c_guanahacabibes = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_pinar_del_rio
+    }
+}
+
+c_isla_de_la_juventud = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = caribe_saralegi_catalina_1
+        liege = d_pinar_del_rio    
+    }
+}
+
+d_oriente = {
+    2666.7.4 = {
+        holder = caribe_arnaz_celia_cubaking7
+    }
+}
+
+c_camaguey = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = caribe_arnaz_celia_cubaking7
+    }
+}
+
+c_guaimaro = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_arnaz_celia_cubaking7
+    }
+}
+
+c_las_tunas = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_pons_antonia_1
+        liege = d_oriente    
+    }
+}
+
+c_santiago_de_cuba = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = caribe_egues_desiderio_1
+        liege = d_oriente    
+    }
+}
+
+c_holguin = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_cugat_juan_1
+        liege = d_oriente    
+    }
+}
+
+c_guantanamo = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_valdes_jose_1
+        liege = d_oriente    
+    }
+}
+
+c_granma = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_grau_euclides_1
+        liege = d_oriente    
+    }
+}
+
+c_guacanayabo = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_grau_euclides_1
+        liege = d_oriente    
+    }
+}
+
+c_nipe = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_more_josefa_1
+        liege = d_oriente    
+    }
+}
+
+d_camaguey = {
+	2666.7.4 = {
+		holder = caribe_buenavista_portuondo_filiberto_cubaking3
+	}
+}
+
+c_moron = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = caribe_buenavista_portuondo_filiberto_cubaking3
+    }
+}
+
+c_ciego_de_avila = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_buenavista_portuondo_filiberto_cubaking3
+    }
+}
+
+d_las_villas = {
+	2666.7.4 = {
+		 holder = caribe_buenavista_ochoa_eliades_cubaking4a
+	}
+}
+
+c_sancti_spiritus = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = caribe_buenavista_ochoa_eliades_cubaking4a
+    }
+}
+
+c_villa_clara = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = caribe_buenavista_ochoa_eliades_cubaking4a
+    }
+}
+
+#florida
+#k_florida = {
+#}
+
+d_eyefour = { #The Mouse, for Waltney
+    2660.7.3 = {
+        holder = caribe_waltney_elias_1
+    }
+}
+
+c_orlando = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = caribe_waltney_elias_1
+    }
+}
+
+c_okeechobee = {
+	2666.7.4 = { change_development_level = 5 }
+    2665.7.4 = {
+        holder = caribe_swift_achilles_1
+        liege = d_eyefour    
+    }
+}
+
+c_space_coast = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        government = high_republic_government
+        holder = caribe_cochran_buzz_1
+        liege = d_eyefour    
+    }
+}
+
+c_ocala = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_caravelle_john_1
+        liege = d_eyefour    
+    }
+}
+
+c_sebring = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = caribe_jupiter_saladin_1
+        liege = d_eyefour    
+    }
+}
+
+d_first_coast = {
+    2637.1.15 = {
+        holder = caribe_argo_james_1
+
+    }
+    2661.11.11 = {
+        holder = caribe_argo_james_2
+    }
+}
+
+c_jacksonville = {
+	2666.7.4 = { change_development_level = 13 }
+    2637.1.15 = {
+        holder = caribe_argo_james_1
+        
+    }
+    2661.11.11 = {
+        holder = caribe_argo_james_2
+    }
+}
+
+c_st_augustine = {
+	2666.7.4 = { change_development_level = 3 }
+    2637.1.15 = {
+        holder = caribe_argo_james_1
+
+    }
+    2661.11.11 = {
+        holder = caribe_argo_rosemund_1
+        liege = d_first_coast
+    }
+}
+
+c_volusia = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = caribe_hogan_ajax_1
+        liege = d_first_coast    
+    }
+}
+
+c_alachua = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_atreus_anton_1
+        liege = d_first_coast    
+    }
+}
+
+d_suncoast = {
+    2649.3.12 = {
+        holder = caribe_gaspar_jose_1
+        
+    }
+    2656.12.4 = {
+        holder = caribe_nelson_ali_1
+    }
+}
+
+c_pine_ridge = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_atreus_matthew_1
+        liege = d_suncoast
+    }
+}
+
+c_tampa = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = caribe_nelson_ali_1
+    }
+}
+
+c_st_petersburg = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = caribe_nelson_ali_1
+    }
+}
+
+c_gasparilla = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = caribe_gaspar_jose_1
+        liege = d_suncoast    
+    }
+}
+
+c_archbold = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = caribe_venus_armando_1
+        liege = d_suncoast
+    }
+}
+
+d_miami = {
+    2652.1.1 = {
+		government = high_republic_government
+        holder = caribe_dorsalis_usnavi_mayamipatrician
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_miami_dade = {
+	2666.7.4 = { change_development_level = 21 }
+    2652.1.1 = {
+		government = high_republic_government
+        holder = caribe_dorsalis_usnavi_mayamipatrician
+    }
+}
+
+c_broward = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_castillo_peter_1
+        liege = d_miami    
+    }
+}
+
+c_everglades = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = caribe_mico_holatta_1
+        liege = d_miami    
+    }
+}
+
+c_florida_keys = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_felix_ulysses_1
+        liege = d_miami    
+    }
+}
+
+c_palm_beach = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = caribe_horowitz_leonard_1
+        liege = d_miami    
+    }
+}
+
+c_st_lucie = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        government = high_republic_government
+        holder = caribe_ordonez_kayla_1
+        liege = d_miami
+    }
+}

@@ -1,0 +1,2240 @@
+#e_amazonia
+	#k_para
+		#d_belem
+			#c_belem
+				#b_br_16_bel_m
+				2654 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+					1900.1.1 = {special_building = natural_harbour}
+				}
+				#b_br_16_castanhal
+				625 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+				}
+				#b_br_16_abaetetuba
+				627 = {
+					culture = paraense
+					religion = assembleiano
+					holding = city_holding
+				}
+				#b_br_16_moju
+				626 = {
+					culture = paraense
+					religion = assembleiano
+					holding = church_holding
+				}
+				#b_br_16_acar_0
+				628 = {
+					culture = paraense
+					religion = assembleiano
+					holding = none
+				}
+			#c_braganca
+				#b_br_16_bragan_a
+				4089 = {
+					culture = paraense
+					religion = bumba_meu_deus
+					holding = castle_holding
+				}
+				#b_br_16_vigia
+				4087 = {
+					culture = paraense
+					religion = bumba_meu_deus
+					holding = city_holding
+				}
+				#b_br_16_salin_polis
+				4086 = {
+					culture = paraense
+					religion = bumba_meu_deus
+					holding = church_holding
+				}
+				#b_br_16_s_o_miguel_do_guam_
+				4085 = {
+					culture = paraense
+					religion = bumba_meu_deus
+					holding = none
+				}
+				#b_br_16_viseu
+				4088 = {
+					culture = paraense
+					religion = bumba_meu_deus
+					holding = none
+				}
+			#c_paragominas
+				#b_br_16_paragominas
+				8345 = {
+					culture = kaapor
+					religion = bumba_meu_deus
+					holding = castle_holding
+				}
+				#b_br_16_capit_o_po_o
+				8346 = {
+					culture = kaapor
+					religion = bumba_meu_deus
+					holding = none
+				}
+				#b_br_16_tom_a_u
+				8347 = {
+					culture = kaapor
+					religion = bumba_meu_deus
+					holding = none
+				}
+		#d_carajas
+			#c_parauapebas
+				#b_br_16_parauapebas
+				3887 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = tribal_holding
+					2000.12.31 = {
+						special_building_slot = carajas_mines_01
+					}
+				}
+				#b_br_16_xinguara
+				3886 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+			#c_maraba
+				#b_br_16_marab_
+				6881 = {
+					culture = xambioa
+					religion = wasahure_sena
+					holding = city_holding
+				}
+				#b_br_16_s_o_geraldo_do_araguaia
+				6882 = {
+					culture = xambioa
+					religion = wasahure_sena
+					holding = none
+				}
+				#b_br_16_metade
+				6883 = {
+					culture = xambioa
+					religion = wasahure_sena
+					holding = none
+				}
+			#c_redencao
+				#b_br_16_reden_o
+				511 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = tribal_holding
+				}
+				#b_br_16_concei_o_do_araguaia
+				508 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+				#b_br_16_cidade_vale_do_rio_cristalino
+				509 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+				#b_br_16_s_o_jo_o_batista
+				510 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+			#c_itupiranga
+				#b_br_16_itupiranga
+				6363 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+				#b_br_16_posto_ind_gena_da_funai
+				6361 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+				#b_br_16_v_rtice
+				6362 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+		#d_tapajos
+			#c_santarem
+				#b_br_16_santar_m
+				4143 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = castle_holding
+				}
+				#b_br_16_jabuti
+				4141 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = church_holding
+				}
+				#b_br_16_s_o_miguel_do_puruzinho
+				4142 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = city_holding
+				}
+			#c_itaituba
+				#b_br_16_itaituba
+				129 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = castle_holding
+				}
+				#b_br_16_juruti
+				126 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = city_holding
+				}
+				#b_br_16_cachoeira_do_aru_
+				128 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = church_holding
+				}
+				#b_br_16_ana
+				125 = {
+					culture = tapajoense
+					religion = toadas_bumba
+					holding = none
+				}
+				#b_br_16_catauara
+				127 = {
+					culture = tapajoense
+					religion = assembleiano
+					holding = none
+				}
+				#b_br_04_aldeia_santa_maria
+				130 = {
+					culture = tapajoense
+					religion = assembleiano
+					holding = none
+				}
+			#c_jacareacanga
+				#b_br_16_jacareacanga
+				1960 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_16_trairao
+				1958 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = none
+				}
+				#b_br_16_porto_rico
+				1959 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = none
+				}
+				#b_br_16_vila_nova
+				1961 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = none
+				}
+			#c_fordlandia
+				#b_br_16_fordlandia
+				6951 = {
+					culture = wuyjuyu
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_linha_ga_cha
+				6950 = {
+					culture = wuyjuyu
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+			#c_boa_nova
+				#b_br_16_rico
+				930 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_16_posto_ind_gena_mundurunu
+				929 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = none
+				}
+				#b_br_04_boa_nova
+				931 = {
+					culture = wuyjuyu
+					religion = porantimao
+					holding = none
+				}
+		#d_tucuria
+			#c_tucurui
+				#b_br_16_tucuru_
+				2194 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+				}
+				#b_br_16_igarap_s_o_domingos
+				2195 = {
+					culture = paraense
+					religion = assembleiano
+					holding = church_holding
+				}
+				#b_br_16_fazenda_santo_antonio_do_araran
+				2196 = {
+					culture = paraense
+					religion = assembleiano
+					holding = city_holding
+				}
+			#c_cameta
+				#b_br_16_camet_
+				4420 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_pedreira
+				4421 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+				#b_br_16_irapuru
+				4422 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+			#c_mocajuba
+				#b_br_16_mocajuba
+				7724 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+				}
+				#b_br_16_do_carmo_do_tocantins
+				7725 = {
+					culture = paraense
+					religion = assembleiano
+					holding = city_holding
+				}
+				#b_br_16_turi_acu
+				7726 = {
+					culture = paraense
+					religion = assembleiano
+					holding = church_holding
+				}
+			#c_folha_vinte_e_cinco
+				#b_br_16_aldeia_manuel_ant_nio
+				2430 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+				}
+				#b_br_16_folha_vinte_e_cinco
+				2431 = {
+					culture = paraense
+					religion = assembleiano
+					holding = castle_holding
+				}
+				#b_br_16_liga_o_do_par_
+				2432 = {
+					culture = paraense
+					religion = assembleiano
+					holding = city_holding
+				}
+			#c_vale_caribe
+				#b_br_16_pacaj_
+				1069 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_jos_filipe_rodrigues
+				1068 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+				#b_br_16_vale_carib_
+				1070 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+		#d_altamira
+			#c_altamira
+				#b_br_16_altamira
+				4103 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_irateua
+				4102 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+				#b_br_16_ouara
+				4104 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+				#b_br_16_campinho
+				4101 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = none
+				}
+			#c_ourilandia_do_norte
+				#b_br_16_ouril_ndia_do_norte
+				8265 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = tribal_holding
+				}
+				#b_br_16_pedra_do_cir_aco
+				8264 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+				#b_br_16_sao_joao
+				8266 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+				#b_ca_qc_noname2213038
+				8267 = {
+					culture = kayapo
+					religion = wasahure_sena
+					holding = none
+				}
+			#c_portel
+				#b_br_16_portel
+				1348 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_de_moz
+				1351 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+				#b_br_16_senador_jos_porf_rio
+				1349 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+				#b_br_16_anapu
+				1352 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = none
+				}
+				#b_br_16_belo_monte
+				1350 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = none
+				}
+			#c_aldeia_indigena_ipixuna
+				#b_br_16_piranhaquara
+				9599 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = castle_holding
+				}
+				#b_br_16_morada_bom_lugar
+				9600 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = city_holding
+				}
+				#b_br_16_aldeia_ind_gena_ipixuna
+				9601 = {
+					culture = paraense
+					religion = tambor_de_mina
+					holding = church_holding
+				}
+		#d_pamboapy
+			#c_oriximina
+				#b_br_16_oriximina
+				148 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = city_holding
+				}
+				#b_br_16_alenquer
+				146 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = castle_holding
+				}
+				#b_br_16_sete_varas
+				149 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = church_holding
+				}
+				#b_br_16_acampamento
+				147 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = none
+				}
+			#c_monte_alegre
+				#b_br_16_monte_alegre
+				9267 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = castle_holding
+				}
+				#b_br_16_almeirim
+				9266 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = city_holding
+				}
+				#b_br_16_cafezal
+				9265 = {
+					culture = tapajoense
+					religion = edah_amazonah
+					holding = church_holding
+				}
+		#d_marajo
+			#c_breves
+				#b_br_16_breves
+				7445 = {
+					culture = paraense
+					religion = pajelanca
+					holding = castle_holding
+				}
+				#b_br_16_cocal
+				7447 = {
+					culture = paraense
+					religion = pajelanca
+					holding = city_holding
+				}
+				#b_br_16_abacate
+				7448 = {
+					culture = paraense
+					religion = pajelanca
+					holding = church_holding
+				}
+				#b_br_16_pal_cio_de_cristal
+				7446 = {
+					culture = paraense
+					religion = pajelanca
+					holding = none
+				}
+			#c_soure
+				#b_br_16_soure
+				5865 = {
+					culture = paraense
+					religion = pajelanca
+					holding = castle_holding
+				}
+				#b_br_16_muan_
+				5863 = {
+					culture = paraense
+					religion = pajelanca
+					holding = city_holding
+				}
+				#b_br_16_diamantina
+				5864 = {
+					culture = paraense
+					religion = pajelanca
+					holding = church_holding
+				}
+				#b_br_16_santo_henrique
+				5862 = {
+					culture = paraense
+					religion = pajelanca
+					holding = none
+				}
+			#c_tucuma
+				#b_br_16_tucum_
+				4688 = {
+					culture = paraense
+					religion = pajelanca
+					holding = castle_holding
+				}
+				#b_br_16_afu_
+				4689 = {
+					culture = paraense
+					religion = pajelanca
+					holding = city_holding
+				}
+				#b_br_16_povoa_o
+				4686 = {
+					culture = paraense
+					religion = pajelanca
+					holding = none
+				}
+				#b_br_16_am_lia
+				4687 = {
+					culture = paraense
+					religion = pajelanca
+					holding = none
+				}
+			#c_nazare
+				#b_br_16_baturit_
+				9160 = {
+					culture = paraense
+					religion = pajelanca
+					holding = castle_holding
+				}
+				#b_br_16_nazar_
+				9158 = {
+					culture = paraense
+					religion = pajelanca
+					holding = city_holding
+				}
+				#b_br_16_ajeric_
+				9159 = {
+					culture = paraense
+					religion = pajelanca
+					holding = church_holding
+				}
+	#k_amazonas
+		#d_manaus
+			#c_manaus
+				#b_br_04_manaus
+				8319 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = castle_holding
+					1896.12.31 = {
+						special_building = manaus_opera_house
+					}
+				}
+			#c_manacapuru
+				#b_br_04_manacapuru
+				2739 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = castle_holding
+				}
+				#b_br_04_arixi
+				2737 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = city_holding
+				}
+				#b_br_04_chic_do_igarap_santo_antonio
+				2738 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = church_holding
+				}
+			#c_maravilha
+				#b_br_04_s_tio_ant_nio_a_alencar
+				3559 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = church_holding
+				}
+				#b_br_04_tanaua_
+				3560 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = city_holding
+				}
+				#b_br_04_maravilha
+				3561 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+		#d_itacoatiara
+			#c_itacoatiara
+				#b_br_04_itacoatiara
+				8468 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = castle_holding
+				}
+				#b_br_04_rio_preto_da_eva
+				8466 = {
+					culture = manauara
+					religion = toadas_bumba
+					holding = city_holding
+				}
+				#b_br_04_urucurituba
+				8465 = {
+					culture = manauara
+					religion = assembleiano
+					holding = church_holding
+				}
+				#b_br_04_itapiranga
+				8464 = {
+					culture = manauara
+					religion = assembleiano
+					holding = none
+				}
+				#b_br_04_fazenda_agripino
+				8467 = {
+					culture = manauara
+					religion = assembleiano
+					holding = none
+				}
+			#c_parintins
+				#b_br_04_parintins
+				1695 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = tribal_holding
+				}
+				#b_br_04_mau_s
+				1693 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = none
+				}
+				#b_br_04_barreirinha
+				1694 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = none
+				}
+				#b_br_04_jabotituba
+				1696 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = none
+				}
+			#c_santa
+				#b_br_16_santa
+				6789 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = tribal_holding
+				}
+				#b_br_16_oriximin_
+				6787 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = church_holding
+				}
+				#b_br_04_urucar_
+				6788 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = none
+				}
+				#b_br_04_s_tio_luis_g_kunha
+				6790 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = none
+				}
+			#c_aldeia_mapuera
+				#b_bo_04_noname13622738
+				6099 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = castle_holding
+				}
+				#b_br_16_aldeia_mapuera
+				6098 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = church_holding
+				}
+				#b_br_16_kassaua
+				6100 = {
+					culture = hixkaryana
+					religion = watunna
+					holding = city_holding
+				}
+		#d_copea
+			#c_tefe
+				#b_br_04_tef_
+				4394 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = city_holding
+				}
+				#b_br_04_cipoal
+				4395 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = church_holding
+				}
+				#b_br_04_coadi
+				4397 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_campo_novo
+				4396 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = church_holding
+				}
+			#c_coari
+				#b_br_04_coari
+				2046 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04_catal_o
+				2045 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_seringal_nova_f_
+				2047 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_abufari
+				2048 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+			#c_codajas
+				#b_br_04_codaj_s
+				7973 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04_belmiro
+				7972 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_enseada_da_cutia
+				7974 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+			#c_carauari
+				#b_br_04_carauari
+				778 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_pupunha
+				779 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_aruaj_
+				780 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_taititu
+				781 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+			#c_barro_alto
+				#b_br_04_barro_alto
+				3883 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04_copa_ba
+				3884 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_s_o_francisco_do_bom_futuro
+				3885 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+			#c_hevelandia
+				#b_br_04_santo_ant_nio_do_jari
+				1555 = {
+					culture = mawe
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_hevel_ndia
+				1554 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+			#c_jacitara
+				#b_br_04_jacitara
+				340 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04__bico
+				338 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_us_in_noname2457067
+				339 = {
+					culture = mura
+					religion = iraacungeguma
+					holding = none
+				}
+		#d_vale_do_javari
+			#c_leticia
+				#b_co_01_leticia
+				2517 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_04_s_o_paulo_de_oliven_a
+				2515 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_04_santo_ant_nio_do_i_
+				2518 = {
+					culture = ticuna
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_04_sao_sebastiao
+				2516 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = none
+				}
+			#c_benjamin_constant
+				#b_br_04_benjamin_constant
+				7915 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_pe_16_ram_n_castilla
+				7914 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_16_santarita
+				7912 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_16_nuevo_san_jos_de_parinari
+				7913 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = none
+				}
+			#c_huapapa
+				#b_pe_16_huapapa
+				1237 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_corbata
+				1238 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_bufeo
+				1239 = {
+					culture = trifinio
+					religion = santo_daime
+					holding = city_holding
+				}
+		#d_igarape_mamoria
+			#c_humaita
+				#b_br_04_humait_
+				4090 = {
+					culture = kagwahivanga
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_24_periquitos0
+				4092 = {
+					culture = kagwahivanga
+					religion = porantimao
+					holding = church_holding
+				}
+				#b_br_04_b_ca_do_acar_
+				4091 = {
+					culture = kagwahivanga
+					religion = porantimao
+					holding = none
+				}
+			#c_manicore
+				#b_br_04_manicor_
+				9026 = {
+					culture = mawe
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_barreira
+				9025 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+				#b_br_04_b_ca_do_capan_
+				9027 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+			#c_canutama
+				#b_br_04_canutama
+				9359 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_igarap_da_ponte
+				9357 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_bom_jesus_do_livramento
+				9358 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = none
+				}
+			#c_america
+				#b_br_04_binga
+				3845 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_falc_o
+				3844 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_am_rica
+				3846 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = none
+				}
+			#c_bela_brisa
+				#b_br_04_baianos
+				2822 = {
+					culture = mawe
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_preta_do_p_branco
+				2821 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+			#c_sao_paulo_br
+				#b_br_04_infern_o
+				2035 = {
+					culture = kagwahivanga
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_sao_paulo
+				2036 = {
+					culture = kagwahivanga
+					religion = porantimao
+					holding = none
+				}
+		#d_aironia
+			#c_borba
+				#b_br_04_borba
+				1065 = {
+					culture = mawe
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_manaquiri
+				1067 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+				#b_br_04_autazes
+				1064 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+				#b_br_04_careiro_da_v_rzea
+				1066 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+			#c_nova_olinda_do_norte
+				#b_br_04_nova_olinda_do_norte
+				2069 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = tribal_holding
+				}
+				#b_br_04_aldeia_xad_
+				2070 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = none
+				}
+				#b_br_04_abacaxis
+				2071 = {
+					culture = mawe
+					religion = toadas_bumba
+					holding = none
+				}
+			#c_alvorada
+				#b_br_04_alvorada
+				7408 = {
+					culture = mawe
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_04_pirarema
+				7407 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+				#b_br_04_fazenda_vista_alegre
+				7409 = {
+					culture = mawe
+					religion = porantimao
+					holding = none
+				}
+		#d_cabeca_do_cachorro
+			#c_sao_gabriel_da_cachoeira
+				#b_br_04_s_o_gabriel_da_cachoeira
+				8570 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_br_04_trindade
+				8572 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_br_04_ilha_grande
+				8571 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = none
+				}
+			#c_barcelos
+				#b_br_04_barcelos
+				1216 = {
+					culture = mura
+					religion = bahai
+					holding = tribal_holding
+				}
+				#b_br_04_foz_do_rio_ja_
+				1215 = {
+					culture = mura
+					religion = bahai
+					holding = none
+				}
+				#b_br_04_cachoeira_do_ja_
+				1217 = {
+					culture = mura
+					religion = bahai
+					holding = none
+				}
+				#b_br_04_carvoeiro
+				1218 = {
+					culture = mura
+					religion = bahai
+					holding = none
+				}
+				#b_br_04_mucura
+				1219 = {
+					culture = mura
+					religion = bahai
+					holding = none
+				}
+			#c_santa_isabel_do_rio_negro
+				#b_br_04_santa_isabel_do_rio_negro
+				7501 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_br_04_castanheiro
+				7502 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = none
+				}
+				#b_br_04_boca_do_rio_preto
+				7503 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = none
+				}
+				#b_br_04_andirobal
+				7504 = {
+					culture = baniwabare
+					religion = hekwapienai
+					holding = none
+				}
+			#c_yavarate
+				#b_co_30_yavarat_
+				1876 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_ve_01_bruno
+				1873 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = none
+				}
+				#b_br_04_sao_joaquim
+				1874 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = none
+				}
+				#b_co_15_pana_pana
+				1875 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = none
+				}
+			#c_br_04_igualdade
+				#b_br_04_igualdade
+				2744 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_co_01_santa_clara
+				2743 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_tamandare
+				2745 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+		#d_vale_do_bia
+			#c_fonte_boa
+				#b_br_04_fonte_boa
+				9081 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04_p_rto_seguro
+				9079 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = church_holding
+				}
+				#b_br_04_arumanduba
+				9080 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = city_holding
+				}
+			#c_maraa
+				#b_br_04_mara_
+				3764 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+				#b_br_04_florian_polis
+				3765 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = city_holding
+				}
+				#b_br_04_boiacanga
+				3766 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = church_holding
+				}
+			#c_belezas
+				#b_br_04_periquito
+				7560 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_mamori
+				7561 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_05_noname6970162
+				7562 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = none
+				}
+				#b_br_04_belezas
+				7563 = {
+					culture = ticuna
+					religion = iraacungeguma
+					holding = tribal_holding
+				}
+		#d_vaupes
+			#c_mitu
+				#b_co_30_mit_
+				4668 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_co_14_calamar
+				4666 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = none
+				}
+				#b_co_14_miraflores
+				4667 = {
+					culture = tukano
+					religion = hekwapienai
+					holding = church_holding
+				}
+			#c_taraira
+				#b_co_30_taraira
+				6761 = {
+					culture = ticuna
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_co_30_sona_a
+				6763 = {
+					culture = ticuna
+					religion = hekwapienai
+					holding = church_holding
+				}
+				#b_co_01_abisinia
+				6762 = {
+					culture = ticuna
+					religion = hekwapienai
+					holding = none
+				}
+			#c_tarapaca
+				#b_co_01_camaritagua
+				9206 = {
+					culture = ticuna
+					religion = hekwapienai
+					holding = tribal_holding
+				}
+				#b_co_01_alegr_a
+				9207 = {
+					culture = ticuna
+					religion = hekwapienai
+					holding = city_holding
+				}
+	#k_rondonia
+		#d_guapore
+			#c_porto_velho
+				#b_br_24_velho
+				3206 = {
+					culture = rondoniense
+					religion = liberationism
+					holding = castle_holding
+				}
+				#b_br_24_boa_hora
+				3207 = {
+					culture = rondoniense
+					religion = liberationism
+					holding = none
+				}
+			#c_guayaramerin
+				#b_bo_03_guayaramer_n
+				4067 = {
+					culture = wari
+					religion = liberationism
+					holding = tribal_holding
+				}
+				#b_br_24_periquitos
+				4064 = {
+					culture = wari
+					religion = liberationism
+					holding = none
+				}
+				#b_br_24_fazenda_s_o_luis
+				4065 = {
+					culture = wari
+					religion = liberationism
+					holding = none
+				}
+				#b_br_24_sao_carlos
+				4066 = {
+					culture = wari
+					religion = liberationism
+					holding = none
+				}
+			#c_ariquemes
+				#b_br_24_ariquemes
+				8761 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = tribal_holding
+				}
+				#b_br_24_jamari
+				8759 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_vale_do_anari
+				8760 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+			#c_extrema
+				#b_br_24_extrema
+				1401 = {
+					culture = apurinan
+					religion = porantimao
+					holding = tribal_holding
+				}
+				#b_br_24_nacional
+				1402 = {
+					culture = apurinan
+					religion = porantimao
+					holding = none
+				}
+			#c_alto_paraiso
+				#b_br_24_monte_negro
+				7948 = {
+					culture = rondoniense
+					religion = liberationism
+					holding = castle_holding
+				}
+				#b_br_24_alto_para_so
+				7947 = {
+					culture = rondoniense
+					religion = liberationism
+					holding = none
+				}
+				#b_br_24_oriente
+				7949 = {
+					culture = rondoniense
+					religion = liberationism
+					holding = none
+				}
+		#d_ji_parana
+			#c_ji_parana
+				#b_br_24_ji_paran_
+				4177 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = tribal_holding
+				}
+				#b_br_24_cacoal
+				4175 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_fazenda_gotarde
+				4176 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+			#c_posto_fiscal_rolim_de_moura
+				#b_br_24_p_sto_fiscal_rolim_de_moura
+				6353 = {
+					culture = paresi
+					religion = global_throne
+					holding = tribal_holding
+				}
+				#b_br_24_pimenta_bueno
+				6354 = {
+					culture = paresi
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_alto_alegre_dos_parecis
+				6355 = {
+					culture = paresi
+					religion = global_throne
+					holding = none
+				}
+			#c_vilhena
+				#b_br_24_vilhena
+				1286 = {
+					culture = paresi
+					religion = global_throne
+					holding = tribal_holding
+				}
+				#b_br_24_corumbiara
+				1285 = {
+					culture = paresi
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_primavera
+				1287 = {
+					culture = paresi
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_aldeia_capit_o_moa
+				1288 = {
+					culture = paresi
+					religion = global_throne
+					holding = none
+				}
+			#c_jaru
+				#b_br_24_jaru
+				8985 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = castle_holding
+				}
+				#b_br_24_s_o_miguel_do_guapor_
+				8983 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+				#b_br_24_morro_arai_muru
+				8984 = {
+					culture = rondoniense
+					religion = global_throne
+					holding = none
+				}
+			#c_sitio_limoeiro
+				#b_br_24_s_tio_limoeiro
+				4073 = {
+					culture = wari
+					religion = particularist
+					holding = tribal_holding
+				}
+				#b_br_24_fazenda_assunto
+				4072 = {
+					culture = wari
+					religion = particularist
+					holding = none
+				}
+				#b_br_24_fazenda_monte_castelo
+				4074 = {
+					culture = wari
+					religion = particularist
+					holding = none
+				}
+	#k_acre
+		#d_lesser_acre
+			#c_rio_branco
+				#b_br_01_rio_branco
+				2786 = {
+					culture = acreano
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_01_senador_guiomard
+				2788 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_ramal_da_judia
+				2787 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+			#c_sena_madureira
+				#b_br_01_sena_madureira
+				9557 = {
+					culture = huni_kuin
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_01_seringal_santana
+				9556 = {
+					culture = huni_kuin
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_brasil
+				9558 = {
+					culture = huni_kuin
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_coloca_o_canaviera
+				9559 = {
+					culture = huni_kuin
+					religion = santo_daime
+					holding = none
+				}
+			#c_boca_do_acre
+				#b_br_04_boca_do_acre
+				6625 = {
+					culture = acreano
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_04_conjunto_antonio_jorge
+				6623 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_04_seringal_central
+				6624 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+			#c_pauini
+				#b_br_04_pauini
+				6340 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = castle_holding
+				}
+				#b_br_04_coatu
+				6339 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = city_holding
+				}
+			#c_manoel_urbano
+				#b_br_01_manoel_urbano
+				7855 = {
+					culture = acreano
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_pe_25_jos_pardo
+				7856 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_puerto_esperanza
+				7857 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_botafogo
+				7858 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+			#c_serra_verde
+				#b_br_04_ajuricaba
+				6871 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_serra_verde
+				6870 = {
+					culture = apurinan
+					religion = shedipawo
+					holding = none
+				}
+		#d_taumaturgia
+			#c_cruzeiro_do_sul
+				#b_br_01_cruzeiro_do_sul
+				9264 = {
+					culture = acreano
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_br_01_m_ncio_lima
+				9262 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_marechal_thaumaturgo
+				9261 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+				#b_br_01_estir_o_do_tejo
+				9263 = {
+					culture = acreano
+					religion = santo_daime
+					holding = none
+				}
+			#c_tarauaca
+				#b_br_01_tarauac_
+				1108 = {
+					culture = ashaninka
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_01_novo_jap_o
+				1109 = {
+					culture = ashaninka
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_01_camurcim
+				1110 = {
+					culture = ashaninka
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_01_jord_o
+				1111 = {
+					culture = ashaninka
+					religion = shedipawo
+					holding = none
+				}
+			#c_eirunepe
+				#b_br_04_eirunep_
+				4677 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_envira
+				4676 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_arara
+				4678 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+			#c_chapeu_de_sol
+				#b_br_04_bacaba
+				925 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_iracema
+				922 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_chapeu_de_sol
+				923 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04__guia
+				924 = {
+					culture = karipuna
+					religion = shedipawo
+					holding = none
+				}
+			#c_recife_br
+				#b_br_04_igarap_da_extrema
+				3815 = {
+					culture = yaminawa
+					religion = shedipawo
+					holding = tribal_holding
+				}
+				#b_br_04_recife
+				3814 = {
+					culture = yaminawa
+					religion = shedipawo
+					holding = none
+				}
+				#b_br_04_usina
+				3816 = {
+					culture = yaminawa
+					religion = shedipawo
+					holding = none
+				}
+	#k_omagua
+		#d_loreto
+			#c_iquitos
+				#b_pe_16_iquitos
+				3007 = {
+					culture = charapa
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_san_antonio_del_estrecho
+				3006 = {
+					culture = charapa
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_copal_urco
+				3005 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_16_arabela
+				3009 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+			#c_yurimaguas
+				#b_pe_16_yurimaguas
+				7396 = {
+					culture = charapa
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_contamana
+				7394 = {
+					culture = charapa
+					religion = santo_daime
+					holding = city_holding
+				}
+				#b_pe_22_navarro
+				7395 = {
+					culture = charapa
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_holanda
+				7393 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+			#c_maranon
+				#b_pe_16_barranca
+				2426 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = castle_holding
+				}
+				#b_pe_16_puerto_am_rica
+				2424 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = city_holding
+				}
+				#b_pe_16_charupa
+				2423 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = church_holding
+				}
+				#b_pe_16_san_isidro
+				2425 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = none
+				}
+			#c_yavari
+				#b_pe_16_francisco_de_orellana
+				9213 = {
+					culture = matses
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_san_ant_nio
+				9212 = {
+					culture = matses
+					religion = santo_daime
+					holding = city_holding
+				}
+				#b_pe_16_san_joaqu_n_de_omaguas
+				9215 = {
+					culture = matses
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_colombia
+				9214 = {
+					culture = matses
+					religion = santo_daime
+					holding = none
+				}
+			#c_requena
+				#b_pe_16_saquena
+				7284 = {
+					culture = matses
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_pe_16_santa_elena
+				7285 = {
+					culture = matses
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_16_angamos
+				7283 = {
+					culture = matses
+					religion = santo_daime
+					holding = none
+				}
+			#c_nauta
+				#b_pe_16_nauta
+				3008 = {
+					culture = charapa
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_san_regis
+				6932 = {
+					culture = charapa
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_san_jos_de_saramuro
+				6934 = {
+					culture = charapa
+					religion = santo_daime
+					holding = city_holding
+				}
+				#b_pe_16_pucacuro
+				6931 = {
+					culture = charapa
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_piura
+				6933 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+			#c_napo
+				#b_pe_16_tempestad
+				2612 = {
+					culture = serrano
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_16_pantoja
+				2613 = {
+					culture = serrano
+					religion = santo_daime
+					holding = city_holding
+				}
+				#b_pe_16_flor_de_coco
+				2611 = {
+					culture = serrano
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_16_marsella
+				2614 = {
+					culture = serrano
+					religion = santo_daime
+					holding = none
+				}
+		#d_amazonas
+			#c_moyobamba
+				#b_pe_22_moyobamba
+				9190 = {
+					culture = charapa
+					religion = inti_religion
+					holding = castle_holding
+				}
+				#b_pe_22_la_banda
+				9191 = {
+					culture = charapa
+					religion = inti_religion
+					holding = city_holding
+				}
+				#b_pe_22_sion
+				9189 = {
+					culture = charapa
+					religion = inti_religion
+					holding = church_holding
+				}
+			#c_tingo_maria
+				#b_pe_10_tingo_mar_a
+				4485 = {
+					culture = charapa
+					religion = inti_religion
+					holding = castle_holding
+				}
+				#b_pe_22_tocache
+				4483 = {
+					culture = charapa
+					religion = inti_religion
+					holding = city_holding
+				}
+				#b_pe_22_santa_cruz
+				4487 = {
+					culture = charapa
+					religion = inti_religion
+					holding = church_holding
+				}
+				#b_pe_25_san_alejandro
+				4486 = {
+					culture = charapa
+					religion = inti_religion
+					holding = none
+				}
+				#b_pe_10_tournavista
+				4484 = {
+					culture = charapa
+					religion = inti_religion
+					holding = none
+				}
+			#c_chachapoyas
+				#b_pe_01_bagua_grande
+				6490 = {
+					culture = huascareno
+					religion = divina_chicha
+					holding = castle_holding
+				}
+				#b_pe_01_chachapoyas
+				6492 = {
+					culture = huascareno
+					religion = divina_chicha
+					holding = city_holding
+				}
+				#b_pe_01_dos_de_mayo
+				6491 = {
+					culture = huascareno
+					religion = divina_chicha
+					holding = church_holding
+				}
+			#c_bagua
+				#b_pe_01_la_peca
+				1940 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = castle_holding
+				}
+				#b_pe_16_puerto_alegr_a
+				1938 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = city_holding
+				}
+				#b_pe_01_soledad
+				1939 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = church_holding
+				}
+				#b_pe_01_ch_vez_valdivia
+				1937 = {
+					culture = charapa
+					religion = inkarri_religion
+					holding = none
+				}
+		#d_ucayali
+			#c_pucallpa
+				#b_pe_25_pucallpa
+				8418 = {
+					culture = charapa
+					religion = santo_daime
+					holding = castle_holding
+				}
+				#b_pe_25_jun_n_pablo
+				8416 = {
+					culture = charapa
+					religion = santo_daime
+					holding = city_holding
+				}
+				#b_pe_16_tirunt_n
+				8420 = {
+					culture = charapa
+					religion = santo_daime
+					holding = church_holding
+				}
+				#b_pe_25_pucallpillo
+				8419 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_puerto_putaya
+				8417 = {
+					culture = charapa
+					religion = santo_daime
+					holding = none
+				}
+			#c_atalaya
+				#b_pe_25_puntijao
+				5824 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_pe_25_balta
+				5826 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_breu
+				5823 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_dos_de_mayo
+				5825 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}
+		#d_tambopata
+			#c_tambopata
+				#b_pe_17_puerto_maldonado
+				2834 = {
+					culture = charapa
+					religion = inti_religion
+					holding = castle_holding
+				}
+				#b_pe_17_laberinto
+				2833 = {
+					culture = charapa
+					religion = inti_religion
+					holding = church_holding
+				}
+				#b_pe_17_planchon
+				2836 = {
+					culture = charapa
+					religion = inti_religion
+					holding = city_holding
+				}
+				#b_pe_21_guarayos
+				2835 = {
+					culture = charapa
+					religion = inti_religion
+					holding = none
+				}
+			#c_sandia
+				#b_pe_21_sandia
+				3322 = {
+					culture = kolla
+					religion = pachamama_religion
+					holding = castle_holding
+				}
+				#b_pe_21_san_juan_del_oro
+				3323 = {
+					culture = kolla
+					religion = pachamama_religion
+					holding = city_holding
+				}
+			#c_manu
+				#b_pe_17_huepetuhe
+				3299 = {
+					culture = charapa
+					religion = inti_religion
+					holding = castle_holding
+				}
+				#b_pe_17_san_juan_grande
+				3297 = {
+					culture = charapa
+					religion = inti_religion
+					holding = city_holding
+				}
+				#b_pe_17_salvaci_n
+				3298 = {
+					culture = charapa
+					religion = inti_religion
+					holding = church_holding
+				}
+			#c_san_gaban
+				#b_pe_21_ayapata
+				6437 = {
+					culture = quechua
+					religion = inti_religion
+					holding = castle_holding
+				}
+				#b_pe_21_esquena
+				6439 = {
+					culture = quechua
+					religion = inti_religion
+					holding = city_holding
+				}
+				#b_pe_21_astillero
+				6438 = {
+					culture = quechua
+					religion = inti_religion
+					holding = church_holding
+				}
+			#c_tahuamanu
+				#b_pe_17_grupo_ocho
+				8679 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = tribal_holding
+				}
+				#b_pe_17_col_n
+				8678 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_cocama
+				8680 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}
+				#b_pe_25_alerta
+				8681 = {
+					culture = ashaninka
+					religion = santo_daime
+					holding = none
+				}

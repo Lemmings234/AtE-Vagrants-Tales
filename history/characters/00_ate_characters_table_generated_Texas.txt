@@ -1,0 +1,946 @@
+﻿texas_eschiti_isawura_1 = { # k_red_river
+    name = "Isawura"
+    dynasty = dynn_texas_eschiti
+    female = no
+    disallow_random_traits = no
+    
+    culture = comanche
+    religion = half_moon
+
+	trait = education_martial_3
+    trait = zealous
+    trait = ambitious
+    trait = chaste
+    trait = scarred
+    
+	2639.7.11 = {
+        birth = yes
+        
+    }
+}
+texas_rosado_carmen_1 = { # d_middle_rio
+    name = "Carmen"
+    dynasty = dynn_texas_rosado
+    female = yes
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = santa_muerte
+
+	trait = education_intrigue_4
+    trait = lustful
+    trait = ambitious
+    trait = callous
+    
+	2648.6.22 = {
+        birth = yes
+        
+    }
+}
+texas_jackson_abel_abel_jackson = { # d_brazos
+    name = "Abel"
+    dynasty = dynn_texas_jackson
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+	father = texas_jackson_perry_perry_jackson
+	mother = texas_mcintosh_bridget_bridget_mcintosh
+
+	
+    
+	2630.12.25 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = texas_vo_rayna_rayna_vo
+    }
+}
+texas_maverick_allison_allison_maverick = { # d_violet_crown
+    name = "Allison"
+    dynasty = dynn_texas_maverick
+    female = yes
+    disallow_random_traits = no
+    sexuality = bisexual
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_martial_3
+    trait = compassionate
+    trait = stubborn
+    trait = zealous
+    trait = beauty_good_1
+    trait = athletic
+    
+	2642.11.18 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_matrilineal_spouse = texas_jackson_marcus_marcus_jackson
+    }
+}
+texas_knowles_jesse_jesse_knowles = { # d_greater_houston
+    name = "Jesse"
+    dynasty = dynn_texas_knowles
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	
+    
+	2621.9.14 = {
+        birth = yes
+        
+    }
+}
+texas_azul_danno_1 = { # d_golden_crescent
+    name = "Danno"
+    dynasty = dynn_texas_azul
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_martial_2
+    trait = compassionate
+    trait = stubborn
+    trait = honest
+    
+	2647.12.9 = {
+        birth = yes
+        
+    }
+}
+texas_flores_william_william_flores = { # d_alamo
+    name = "William"
+    dynasty = dynn_texas_flores
+    female = no
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = exceptionalist
+
+	trait = education_intrigue_4
+    trait = sadistic
+    trait = zealous
+    trait = brave
+    trait = torturer
+    
+	2626.3.17 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = texas_maverick_eleanor_eleanor_maverick
+    }
+}
+texas_alvarez_john_1 = { # d_galveston
+    name = "John"
+    dynasty = dynn_texas_alvarez
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = education_diplomacy_4
+    trait = brave
+    trait = gregarious
+    trait = calm
+    trait = lifestyle_hunter
+    
+	2638.10.6 = {
+        birth = yes
+        
+    }
+}
+texas_aviador_alberto_1 = { # d_trans_pecos
+    name = "Alberto"
+    dynasty = dynn_texas_aviador
+    female = no
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = zetanology
+
+	trait = education_learning_1
+    trait = diligent
+    trait = stubborn
+    trait = temperate
+    
+	2632.4.13 = {
+        birth = yes
+        
+    }
+}
+texas_cantu_gonzalo_1 = { # d_petroplex
+    name = "Gonzalo"
+    dynasty = dynn_texas_cantu
+    female = no
+    disallow_random_traits = no
+    
+    culture = estacadan
+    religion = soiltapper
+
+	
+    
+	2643.4.15 = {
+        birth = yes
+        
+    }
+}
+texas_dennison_doug_1 = { # d_amarillo
+    name = "Doug"
+    dynasty = dynn_texas_dennison
+    female = no
+    disallow_random_traits = no
+    
+    culture = estacadan
+    religion = dustrider
+
+	
+    
+	2604.2.4 = {
+        birth = yes
+        
+    }
+}
+texas_annie_william_1 = { # d_oklahoma
+    name = "William"
+    dynasty = dynn_texas_annie
+    female = no
+    disallow_random_traits = no
+    
+    culture = okie
+    religion = dustrider
+
+	trait = education_stewardship_3
+    trait = lustful
+    trait = honest
+    trait = forgiving
+    
+	2645.11.24 = {
+        birth = yes
+        
+    }
+}
+texas_mortimer_mallory_1 = { # d_permia
+    name = "Mallory"
+    dynasty = dynn_texas_mortimer
+    female = yes
+    disallow_random_traits = no
+    
+    culture = estacadan
+    religion = soiltapper
+
+	
+    
+	2648.10.10 = {
+        birth = yes
+        
+    }
+}
+texas_nieves_hector_1 = { # c_wintergarden
+    name = "H_e_act_ctor"
+    dynasty = dynn_texas_nieves
+    female = no
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = santa_muerte
+
+	trait = education_diplomacy_3
+    trait = content
+    trait = compassionate
+    trait = gregarious
+    
+	2637.2.24 = {
+        birth = yes
+        
+    }
+}
+texas_wise_denton_1 = { # c_fort_worth
+    name = "Denton"
+    dynasty = dynn_texas_wise
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = dustrider
+
+	
+    
+	2615.7.20 = {
+        birth = yes
+        
+    }
+}
+texas_sawyer_drayton_sawyer_cook = { # c_brown
+    name = "Drayton"
+    dynasty = dynn_texas_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = soiltapper
+
+	trait = education_diplomacy_3
+    trait = arrogant
+    trait = sadistic
+    trait = arbitrary
+    trait = cannibal
+    
+	2613.1.5 = {
+        birth = yes
+        
+    }
+}
+texas_kassanavoid_korose_1 = { # c_big_country
+    name = "Korose"
+    dynasty = dynn_texas_kassanavoid
+    female = no
+    disallow_random_traits = no
+    
+    culture = comanche
+    religion = half_moon
+
+	
+    
+	2625.10.7 = {
+        birth = yes
+        
+    }
+}
+texas_murchison_elvira_1 = { # c_dallas
+    name = "Elvira"
+    dynasty = dynn_texas_murchison
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = dustrider
+
+	
+    
+	2634.4.17 = {
+        birth = yes
+        
+    }
+}
+
+texas_yusuf_skipworth = { # c_dallas
+    name = "Yusuf"
+    dynasty = dynn_texas_skipworth
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = dustrider
+    
+	2630.2.27 = {
+        birth = yes
+        effect = {
+			make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:traditionalist }
+		} 
+    }
+}
+texas_ironhorse_bill_bill_ironhorse = { # c_waco
+    name = "Bill"
+    dynasty = dynn_texas_ironhorse
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_learning_3
+    trait = brave
+    trait = zealous
+    trait = scarred
+    
+	2641.10.21 = {
+        birth = yes
+        
+    }
+}
+texas_brenham_jana_jana_brenham = { # c_bluebonnet
+    name = "Jana"
+    dynasty = dynn_texas_brenham
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = exceptionalist
+
+	trait = education_martial_2
+    trait = impatient
+    trait = arrogant
+    trait = gregarious
+    trait = athletic
+    
+	2662.2.9 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+texas_hruska_isaac_1 = { # c_new_praha
+    name = "Isaac"
+    dynasty = dynn_texas_hruska
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = exceptionalist
+
+	
+    
+	2639.3.24 = {
+        birth = yes
+        
+    }
+}
+texas_cuellar_calhoun_jose_antonio_1 = { # c_corpus_christi
+    name = "Jos_e_act__Antonio"
+    dynasty = dynn_texas_cuellar_calhoun
+    female = no
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = exceptionalist
+
+	
+    
+	2621.12.24 = {
+        birth = yes
+        
+    }
+}
+texas_von_ormy_carl_1 = { # c_comal
+    name = "Carl"
+    dynasty = dynn_texas_von_ormy
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = exceptionalist
+
+	
+    
+	2632.6.19 = {
+        birth = yes
+        
+    }
+}
+texas_weaselbear_clarence_1 = { # c_kay
+    name = "Clarence"
+    dynasty = dynn_texas_weaselbear
+    female = no
+    disallow_random_traits = no
+    
+    culture = dhegihan
+    religion = half_moon
+
+	
+    
+	2636.4.19 = {
+        birth = yes
+        
+    }
+}
+texas_botone_etadleuh_1 = { # c_altus
+    name = "Etadleuh"
+    dynasty = dynn_texas_botone
+    female = no
+    disallow_random_traits = no
+    
+    culture = kiowa
+    religion = half_moon
+
+	trait = education_stewardship_1
+    trait = content
+    trait = stubborn
+    trait = honest
+    
+	2632.7.14 = {
+        birth = yes
+        
+    }
+}
+texas_friesenhahn_adam_1 = { # c_san_saba
+    name = "Adam"
+    dynasty = dynn_texas_friesenhahn
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = soiltapper
+
+	trait = education_learning_4
+    trait = arrogant
+    trait = callous
+    trait = just
+    
+	2635.11.5 = {
+        birth = yes
+        
+    }
+}
+texas_hainta_belo_1 = { # c_graham
+    name = "Belo"
+    dynasty = dynn_texas_hainta
+    female = no
+    disallow_random_traits = no
+    
+    culture = kiowa
+    religion = dustrider
+
+	trait = education_diplomacy_3
+    trait = compassionate
+    trait = lazy
+    trait = shy
+    
+	2650.5.21 = {
+        birth = yes
+        
+    }
+}
+texas_nimitz_otto_1 = { # c_san_bernard
+    name = "Otto"
+    dynasty = dynn_texas_nimitz
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = exceptionalist
+
+	
+    
+	2610.5.8 = {
+        birth = yes
+        
+    }
+}
+texas_hannegan_abner_1 = { # c_texarkana
+    name = "Abner"
+    dynasty = dynn_texas_hannegan
+    female = no
+    disallow_random_traits = no
+    
+    culture = arklatexan
+    religion = catholic
+
+	
+    
+	2635.12.19 = {
+        birth = yes
+        
+    }
+}
+texas_abraham_darius_1 = { # c_matagorda
+    name = "Darius"
+    dynasty = dynn_texas_abraham
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = education_martial_4
+    trait = ambitious
+    trait = just
+    trait = vengeful
+    trait = lifestyle_blademaster
+    trait = flexible_leader
+    
+	2636.4.8 = {
+        birth = yes
+        
+    }
+}
+texas_monk_alvin_1 = { # c_tyler
+    name = "Alvin"
+    dynasty = dynn_texas_monk
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_learning_2
+    trait = trusting
+    trait = just
+    trait = gregarious
+    trait = intellect_bad_1
+    
+	2645.3.14 = {
+        birth = yes
+        
+    }
+}
+texas_pfardentrott_wyatt_1 = { # c_angelina
+    name = "Wyatt"
+    dynasty = dynn_texas_pfardentrott
+    female = no
+    disallow_random_traits = no
+    
+    culture = arklatexan
+    religion = exceptionalist
+
+	
+    
+	2632.2.17 = {
+        birth = yes
+        
+    }
+}
+texas_vo_james_james_vo = { # c_trinity_texas
+    name = "James"
+    dynasty = dynn_texas_vo
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = education_martial_3
+    trait = content
+    trait = callous
+    trait = forgiving
+    
+	2602.2.22 = {
+        birth = yes
+        
+    }
+}
+texas_woosypitti_moses_1 = { # c_antelope_hills
+    name = "Moses"
+    dynasty = dynn_texas_woosypitti
+    female = no
+    disallow_random_traits = no
+    
+    culture = caddo
+    religion = half_moon
+
+	trait = education_martial_4
+    trait = brave
+    trait = ambitious
+    trait = just
+    trait = physique_good_3
+    
+	2636.11.1 = {
+        birth = yes
+        
+    }
+}
+texas_tran_dara_dara_tran = { # Ate Lore; murdered her own mother, with a chair_, 
+    name = "Dara"
+    dynasty = dynn_texas_tran
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = education_learning_3
+    trait = brave
+    trait = honest
+    trait = kinslayer_3
+    trait = lifestyle_physician
+    
+	2642.3.6 = {
+        birth = yes
+        
+    }
+}
+texas_maverick_eleanor_eleanor_maverick = {
+    name = "Eleanor"
+    dynasty = dynn_texas_maverick
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+	father = texas_maverick_maurice_mavdad
+
+	
+    
+	2634.3.9 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+texas_sawyer_grayson_sawyer_grandpa = {
+    name = "Grayson"
+    dynasty = dynn_texas_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_stewardship_1
+    trait = impatient
+    trait = gluttonous
+    trait = sadistic
+    trait = cannibal
+    trait = lifestyle_blademaster
+    
+	2571.12.27 = {
+        birth = yes
+        
+    }
+}
+texas_sawyer_robert_sawyer_chop_top = {
+    name = "Robert"
+    dynasty = dynn_texas_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_martial_4
+    trait = brave
+    trait = fickle
+    trait = lustful
+    trait = cannibal
+    trait = twin
+    trait = disfigured
+    
+	2638.4.12 = {
+        birth = yes
+        
+    }
+}
+texas_sawyer_nubbins_sawyer_hitchhiker = {
+    name = "Nubbins"
+    dynasty = dynn_texas_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_intrigue_2
+    trait = gregarious
+    trait = deceitful
+    trait = greedy
+    trait = vengeful
+    trait = cannibal
+    trait = twin
+    
+	2638.10.6 = {
+        birth = yes
+        
+    }
+}
+texas_sawyer_jebidiah_sawyer_bubba = {
+    name = "Jebediah"
+    dynasty = dynn_texas_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_martial_1
+    trait = trusting
+    trait = gluttonous
+    trait = patient
+    trait = shy
+    trait = cannibal
+    trait = giant
+    trait = physique_good_2
+    trait = intellect_bad_1
+    
+	2640.8.2 = {
+        birth = yes
+        
+    }
+}
+texas_maverick_maurice_mavdad = {
+    name = "Maurice"
+    dynasty = dynn_texas_maverick
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	
+    
+	2604.9.23 = {
+        birth = yes
+        
+    }
+}
+texas_jackson_perry_perry_jackson = {
+    name = "Perry"
+    dynasty = dynn_texas_jackson
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	
+    
+	2615.4.26 = {
+        birth = yes
+        
+    }
+	2650.1.1 = {
+        add_spouse = texas_mcintosh_bridget_bridget_mcintosh
+    }
+	2650.6.3 = {
+        death = "2650.6.3"
+    }
+}
+texas_jackson_brooks_1 = {
+    name = "Brooks"
+    dynasty = dynn_texas_jackson
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+	father = texas_jackson_perry_perry_jackson
+	mother = texas_mcintosh_bridget_bridget_mcintosh
+
+	
+    
+	2650.9.18 = {
+        birth = yes
+        
+    }
+}
+texas_jackson_marcus_marcus_jackson = {
+    name = "Marcus"
+    dynasty = dynn_texas_jackson
+    female = no
+    disallow_random_traits = no
+    sexuality = heterosexual
+    culture = texan
+    religion = exceptionalist
+	father = texas_jackson_perry_perry_jackson
+	mother = texas_mcintosh_bridget_bridget_mcintosh
+
+	trait = education_stewardship_2
+    trait = temperate
+    trait = honest
+    trait = callous
+    trait = legitimized_bastard
+    trait = giant
+    trait = strong
+    
+	2645.7.9 = {
+        birth = yes
+    #    give_nickname = nick_mountain #Added to resolve nickname issue, might need replacing with canonical nickname
+    }
+	2666.1.1 = {
+        add_spouse = texas_maverick_allison_allison_maverick
+    }
+}
+texas_maverick_jonathan_jonathan_maverick = {
+    name = "Jonathan"
+    dynasty = dynn_texas_maverick
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+	father = texas_maverick_maurice_mavdad
+
+	trait = education_martial_3
+    
+	2618.10.17 = {
+        birth = yes
+        
+    }
+	2650.6.3 = {
+        death = "2650.6.3"
+    }
+}
+texas_vo_rayna_rayna_vo = {
+    name = "Rayna"
+    dynasty = dynn_texas_vo
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = education_stewardship_3
+    trait = diligent
+    trait = stubborn
+    trait = honest
+    trait = physique_good_2
+    trait = strong
+    
+	2634.10.5 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = texas_jackson_abel_abel_jackson
+    }
+}
+texas_mcintosh_bridget_bridget_mcintosh = {
+    name = "Bridget"
+    dynasty = dynn_texas_mcintosh
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+	
+    
+	2612.8.9 = {
+        birth = yes
+        
+    }
+	2650.1.1 = {
+        add_spouse = texas_jackson_perry_perry_jackson
+    }
+	2650.6.3 = {
+        death = "2650.6.3"
+    }
+}
+insert_San_Jocinto = {
+    name = "Marchamil"
+    dynasty = dynn_Pevey
+	culture = estacadan
+    religion = zetanology
+	sexuality = bisexual
+	female = no
+	dna = marcy_pevey_dna
+	disallow_random_traits = yes
+
+    trait = education_martial_3
+    trait = intellect_good_1
+    trait = hashishiyah
+    trait = just
+    trait = cynical
+    trait = paranoid
+	
+    2643.1.1 = {
+        birth = yes
+		
+    }
+    2666.7.4 = {
+        employer = texas_aviador_alberto_1
+    }
+}

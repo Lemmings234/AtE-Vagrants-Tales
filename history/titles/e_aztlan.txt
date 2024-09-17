@@ -1,0 +1,967 @@
+﻿#Altiplano
+#k_altiplano = {
+#}
+
+k_altiplano = {
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+d_chihuahua = {
+    2666.7.4 = {
+        holder = emiliano_cibolero
+		liege = k_altiplano
+    }
+}
+
+c_chihuahua = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+c_casas_grandes = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+c_ahumada = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+d_nueva_extremadura = {
+    2666.7.4 = {
+        holder = fernando_casavantes_1
+        liege = k_altiplano
+    }
+}
+
+c_ocampo = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = fernando_casavantes_1
+        liege = k_altiplano
+    }
+}
+
+c_delicias = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = emiliano_cibolero
+		liege = k_altiplano
+    }
+}
+
+d_sierra_tarahumara = {
+	2610.10.10 = {
+		holder = rahui_cubesare
+	}
+    2666.7.4 = {
+        holder = ignacio_marston
+        liege = k_altiplano
+    }
+}
+
+c_guachochi = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = ignacio_marston
+        liege = k_altiplano
+    }
+}
+
+c_guadalupe_y_calvo = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = anayahuari_syotabo
+        liege = d_sierra_tarahumara
+    }
+}
+
+c_madera = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_madera
+        liege = d_sierra_tarahumara
+    }
+}
+
+c_guerrero = {
+	2666.7.4 = { change_development_level = 2 }
+
+	2620.1.1 = {
+		holder = angela_boehr
+		government = tribal_government
+		liege = d_sierra_tarahumara
+    }
+	2647.7.30 = {
+		holder = barbara_boehr
+        liege = d_sierra_tarahumara
+    }
+    2658.1.1 = {
+        holder = bryan_boehr
+        liege = d_sierra_tarahumara
+    }
+}
+
+c_parral = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = ayasimi_yahuirachi
+        liege = k_altiplano
+    }
+}
+
+c_ojinaga = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+c_camargo = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = la_cucaracha
+    }
+}
+
+c_paso_del_norte = {
+	2666.7.4 = { change_development_level = 17 }
+    2666.7.4 = {
+        holder = character_c_paso_del_norte
+        liege = k_altiplano
+    }
+}
+
+c_cuauhtemoc = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = el_menona
+	government = tribal_government
+        liege = k_altiplano
+    }
+}
+
+d_comarca_lagunera = {
+	2619.3.2={holder=felix_najera_2}
+	2619.7.10={holder=leon_najera}
+}
+
+c_tlahualilo = {
+	2666.7.4 = { change_development_level = 3 }
+	2662.10.28 = {
+        holder = leon_najera_1
+        liege = d_comarca_lagunera
+    }
+}
+
+c_torreon = {
+	2666.7.4 = { change_development_level = 11 }
+	2551.6.29={holder=felix_najera}
+	2608.4.25={holder=felix_najera_2}
+    2619.7.10={holder=leon_najera}
+}
+
+c_gomez_palacio = {
+	2666.7.4 = { change_development_level = 9 }
+    2662.10.28 = {
+        holder = leon_najera_1
+        liege = d_comarca_lagunera
+    }
+}
+
+c_cuencame = {
+	2666.7.4 = { change_development_level = 2 }
+	2619.7.10={holder=leon_najera}
+}
+
+c_juan_aldama = {
+	2666.7.4 = { change_development_level = 4 }
+    2619.7.10={holder=leon_najera}
+}
+
+c_mayran = {
+	2666.7.4 = { change_development_level = 0 }
+    2662.10.28 = {
+        holder = leon_najera_1
+        liege = d_comarca_lagunera
+    }
+}
+
+d_durango = {
+	2608.4.26={holder=ernesto_jauregui}
+	2545.4.24={holder=plutarco_jauregui}
+	2575.1.15={holder=0}
+
+	2645.3.4 = {
+		 holder = raco_cubesare
+	}
+    2666.2.2 = {
+        holder = pakotami_cubesare
+    }
+}
+
+c_pueblo_nuevo = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = parixicam_caxcan
+		liege = d_durango
+    }
+}
+
+c_guadiana = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = pakotami_cubesare
+    }
+}
+
+c_suchil = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = kaneni_choreachi
+        liege = d_durango
+    }
+}
+
+c_guadalupe_victoria = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_guadalupe_victoria
+        liege = d_durango
+    }
+}
+
+c_papasquiaro = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = simasnura_cubesare
+        liege = d_durango
+    }
+}
+
+c_el_oro = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = simasnura_cubesare
+        liege = d_durango
+    }
+}
+
+#Nuevo Leon
+k_nuevo_leon = {
+    2545.6.1={holder=felix_najera}
+	2551.7.7 = {
+        holder = eugenio_garza_1
+    }
+    2558.6.2 = {
+        holder = eugenio_garza_2
+    }
+    2640.1.10 = {
+        holder = jose_reyes
+    }
+}
+
+d_pilon = {
+    2640.1.10 = {
+        holder = jose_reyes
+    }
+}
+
+d_valle_de_andalucia = {
+    2551.7.7 = {
+        holder = eugenio_garza_1
+    }
+    2558.6.2 = {
+        holder = eugenio_garza_2
+    }
+    2619.7.10 = {
+        holder = luis_g_g
+    }
+    2662.12.12 = {
+        holder = mariana_g_g
+		liege = k_nuevo_leon
+    }
+}
+
+c_monterrey = {
+	2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = mariana_g_g
+    }
+}
+
+c_guadelupe = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = mariana_g_g
+    }
+}
+
+c_escobedo = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = mariana_g_g
+    }
+}
+
+d_rio_bravo = {
+	2503.11.12={holder=wenceslao_najera_2}
+	2528.10.30={holder=alejandro_najera_2}
+	2538.2.22={holder=bernardo_najera}
+	2542.8.8={holder=felix_najera}
+	2551.7.7={holder=0}
+    2666.7.4 = {
+        holder = abraham_g_m_1
+        liege = k_nuevo_leon
+    }
+}
+
+c_salinas_victoria = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = mariana_g_g
+    }
+}
+
+c_anahuac = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = abraham_g_m_1
+    }
+}
+
+c_cerralvo = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = abraham_g_m_1
+    }
+}
+
+c_nuevo_laredo = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = abraham_g_m_1
+    }
+}
+
+c_montemorelos = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = jose_reyes
+    }
+}
+
+c_galeana = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = jaime_rojo
+        liege = k_nuevo_leon
+    }
+}
+
+c_doctor_arroyo = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = jaime_rojo
+        liege = k_nuevo_leon
+    }
+}
+
+d_tamaulipas = {
+    2666.7.4 = {
+        holder = alfonso_soto
+        liege = k_nuevo_leon
+    }
+}
+
+c_san_fernando = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = alfonso_soto
+    }
+}
+
+c_padilla = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = alfonso_soto
+    }
+}
+
+c_matamoros = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = argos_dearca
+        liege = d_tamaulipas
+    }
+}
+
+c_reynosa = {
+	2666.7.4 = { change_development_level = 11 }
+	2486.8.18={holder=wenceslao_najera_2}
+	2528.10.30={holder=0}
+    2666.7.4 = {
+        holder = argos_dearca
+        liege = d_tamaulipas
+    }
+}
+
+c_cadereyta = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = jose_reyes
+    }
+}
+
+c_linares = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = jose_reyes
+    }
+}
+
+c_china = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = jose_reyes
+    }
+}
+
+d_coahuila = {
+    2666.7.4 = {
+        holder = francisco_reyes_1
+    }
+}
+
+c_saltillo = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = tulio_cobarrubias
+        liege = d_coahuila
+    }
+}
+
+c_monclova = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = francisco_reyes_1
+    }
+}
+
+c_parras = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = tulio_cobarrubias
+        liege = d_coahuila
+    }
+}
+
+c_ramos_arizpe = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = tulio_cobarrubias
+        liege = d_coahuila
+    }
+}
+
+c_cuatrociengas = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = francisco_reyes_1
+    }
+}
+
+c_muzquiz = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = francisco_reyes_1
+    }
+}
+
+d_huasteca_menor = {
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+c_tampico = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+c_ciudad_victoria = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+c_el_mante = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+c_el_cielo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+c_soto_la_marina = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = la_bruja
+    }
+}
+
+d_piedras_negras = {
+    2666.7.4 = {
+        holder = cesar_rubio
+    }
+}
+
+
+c_piedras_negras = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = cesar_rubio
+    }
+}
+
+c_acuna = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = cesar_rubio
+    }
+}
+
+c_sabinas = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = estela_mora
+        liege = d_piedras_negras
+    }
+}
+
+c_allende = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = estela_mora
+        liege = d_piedras_negras
+    }
+}
+
+
+#Arixo
+#k_arixo = {
+#
+
+k_arixo = {
+	 2666.7.4 = {
+        holder = brumby_mcjunkin
+    }
+}
+
+d_saguaro = {
+    2666.7.4 = {
+        holder = character_d_us_az_cochise
+    }
+}
+
+c_tucson = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = aridoamerica_jojo_kino
+		liege = d_saguaro
+    }
+}
+
+c_graham = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+       holder = character_c_bisbee
+        liege = d_saguaro
+    }
+}
+
+c_sierra_vista = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_us_az_cochise
+    }
+}
+
+c_cochise = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_bisbee
+        liege = d_saguaro
+    }
+}
+
+d_gadsden = {
+    2666.7.4 = {
+        holder = aridoamerica_juan_martinez
+	government = range_government
+    }
+}
+
+c_pima = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = aridoamerica_juan_martinez
+	government = range_government
+    }
+}
+
+c_yuma = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = aridoamerica_juan_martinez
+	government = range_government
+    }
+}
+
+c_pinal = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brumby_mcjunkin
+    }
+}
+
+d_gila = {
+    2666.7.4 = {
+        holder = aridoamerica_gilgamesh_the_visited
+    }
+}
+
+c_luna = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = aridoamerica_gilgamesh_the_visited
+    }
+}
+
+d_arizona = {
+    2666.7.4 = {
+        holder = character_c_meadview
+    }
+}
+
+c_phoenix = {
+	2666.7.4 = { change_development_level = 17 }
+    2666.7.4 = {
+        holder = brumby_mcjunkin
+    }
+}
+
+c_yavapai = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+		holder = character_c_meadview
+    }
+}
+
+c_coconino = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+		holder = character_c_meadview
+    }
+}
+
+d_the_colorado = {
+    2666.7.4 = {
+        holder = aridomerica_kaiser_edward_0
+    }
+}
+
+c_havasu = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = aridomerica_kaiser_edward_0
+    }
+}
+
+c_kofa = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = aridomerica_kaiser_edward_0
+    }
+}
+
+c_virgin = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_virgin
+    }
+}
+
+c_parashant = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = aridoamerica_c_meadview
+	government = range_government
+    }
+}
+
+c_mogollon = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_globe
+    }
+}
+
+c_san_carlos = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_globe
+		liege = d_gila
+    }
+}
+
+c_greenlee = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_puerto_palomas
+        liege = d_gila
+    }
+}
+
+c_socorro = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = aridoamerica_gilgamesh_the_visited
+    }
+}
+
+#Nueva Navarra
+#k_nueva_navarra = {
+#}
+
+d_sonora = {
+    2666.7.4 = {
+        holder = elsa_moreno
+    }
+}
+
+c_horcasitas = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = elsa_moreno
+    }
+}
+
+c_hermosillo = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = andres_valenzuela
+        liege = d_sonora
+    }
+}
+
+c_nacozari = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_ures
+        liege = d_sonora
+    }
+}
+
+c_cananea = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_cananea
+        liege = d_sonora
+    }
+}
+
+c_agua_prieta = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_cananea
+        liege = d_sonora
+    }
+}
+
+c_ures = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_ures
+        liege = d_sonora
+    }
+}
+
+d_cortes = {
+    2666.7.4 = {
+        holder = emerico_padres
+    }
+}
+
+c_caborca = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = emerico_padres
+    }
+}
+
+c_kino = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = emerico_padres
+    }
+}
+
+c_gran_altar = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_gran_altar
+        liege = d_cortes
+    }
+}
+
+c_magdalena_de_kino = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_ambos_nogales
+        liege = d_cortes
+    }
+}
+
+c_ambos_nogales = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_ambos_nogales
+        liege = d_cortes
+    }
+}
+
+d_cahita = {
+    2666.7.4 = {
+        holder = choawe_heeka
+    }
+}
+
+c_cajeme = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = choawe_heeka
+    }
+}
+
+c_guaymas = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = choawe_heeka
+    }
+}
+
+c_huatabampo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_huatabampo
+        liege = d_cahita
+    }
+}
+
+c_navojoa = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_huatabampo
+        liege = d_cahita
+    }
+}
+
+c_sahuaripa = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_sahuaripa
+        liege = d_cahita
+    }
+}
+
+d_sinaloa = {
+	2452.5.9={holder=alejo_najera}
+	2460.9.11={holder=alejo_areaga}
+	2502.2.21={holder=alejo_areaga_2}
+	2540.4.24={holder=aristoteles_areaga}
+	2542.8.8={holder=edilio_areaga}
+	2546.10.6={holder=0}
+    2666.7.4 = {
+        holder = chayito_d_m
+    }
+}
+
+c_elota = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = chayito_d_m
+    }
+}
+
+c_culiacan = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = chayito_d_m
+    }
+}
+
+c_guamuchil = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = chayito_d_m
+    }
+}
+
+c_mazatlan = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = pepe_toro
+        liege = d_sinaloa
+    }
+}
+
+c_baluarte = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = pepe_toro
+        liege = d_sinaloa
+    }
+}
+
+c_los_mochis = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_los_mochis
+        liege = d_sinaloa
+    }
+}
+
+c_guasave = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_guasave
+        liege = d_sinaloa
+    }
+}
+
+c_el_fuerte = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_el_fuerte
+        liege = d_sinaloa
+    }
+}

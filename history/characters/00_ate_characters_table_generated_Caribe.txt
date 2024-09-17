@@ -1,0 +1,2641 @@
+﻿caribe_collymore_clifton_collymore = { # k_antilles
+	name = "Clifton"
+	dynasty = dynn_caribe_collymore
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_diplomacy_3
+
+	2608.12.4 = {
+		birth = yes
+
+	}
+}
+caribe_gonave_ti_memenne_1 = { # k_haiti
+	name = "Timemenne"
+	dynasty = dynn_caribe_gonave
+	female = yes
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+
+
+
+	1900.11.15 = {
+		birth = yes
+
+	}
+	1926.1.24 = {
+		death = "1926.1.24"
+	}
+}
+caribe_seacole_portia_jamaica2 = { # k_west_indies
+	name = "Portia"
+	dynasty = dynn_caribe_seacole
+	dna = dna_caribe_seacole_portia_jamaica2
+	female = yes
+	disallow_random_traits = no
+
+	culture = jamaican
+	religion = nyabinghi
+	father = caribe_seacole_philip_jamaica1
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = cynical
+	trait = diplomat
+
+	2640.7.13 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_matrilineal_spouse = caribe_collymore_geoffrey_collymore2
+	}
+	2666.1.3 = {
+		effect = {#Mainly copied from Soady who copied Haesting of Nantes character - Elzephor - Poom
+			add_gold = 500
+			add_prestige = 1000
+			add_prestige_experience = 2000
+
+
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1200
+				men_at_arms = {
+					type = house_guard
+					stacks = 3
+				}
+				location = province:8113 #Kingston, Jamaica
+				origin = province:8113 #Kingston, Jamaica
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1200
+				men_at_arms = {
+					type = house_guard
+					stacks = 3
+				}
+				location = province:8113 #Kingston, Jamaica
+				origin = province:8113 #Kingston, Jamaica
+			}
+		}
+	}
+}
+caribe_petion_esau_haiti4 = { # k_haiti
+	name = "E_act_sa_u_uml_"
+	dynasty_house = house_caribe_petion_petion
+	dna = dna_caribe_petion_esau_haiti4
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+	father = caribe_petion_esau_haiti2
+
+	trait = education_martial_3
+	trait = zealous
+	trait = ambitious
+	trait = vengeful
+	trait = holy_warrior
+
+	2639.7.22 = {
+		birth = yes
+		add_pressed_claim = title:k_domingo
+	}
+	2666.1.3 = {
+
+		effect = {
+			add_dynasty_prestige = 1000
+
+		}
+	}
+}
+caribe_guerra_israel_haiti3 = { # k_domingo
+	name = "Israel"
+	dynasty_house = house_caribe_petion_guerra
+	dna = dna_caribe_guerra_israel_haiti3
+	female = no
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+	father = caribe_petion_toussaint_haiti1
+	mother = caribe_ayala_rebeca_boricuarebeca
+
+	trait = education_stewardship_2
+	trait = trusting
+	trait = zealous
+	trait = temperate
+	trait = poet
+
+	2626.7.12 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = caribe_ayala_raquel_boricua6
+	}
+}
+caribe_petion_esau_haiti2 = { # k_haiti
+	name = "E_act_sa_u_uml_"
+	dynasty_house = house_caribe_petion_petion
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+	father = caribe_petion_toussaint_haiti1
+
+	trait = legitimized_bastard
+
+	2612.8.2 = {
+		birth = yes
+
+	}
+	2655.5.17 = {
+		death = "2615.5.17"
+	}
+}
+caribe_wirkus_faustin_1 = { # k_haiti
+	name = "Faustin"
+	dynasty = dynn_caribe_wirkus
+	dna = dna_caribe_wirkus_faustin_1
+	female = no
+	disallow_random_traits = no
+
+	culture = upstater
+	religion = catholic
+
+
+
+	1896.5.7 = {
+		birth = yes
+
+	}
+	1929.3.26 = {
+		death = "1929.3.26"
+	}
+}
+caribe_petion_toussaint_haiti1 = { # k_haiti
+	name = "Toussaint"
+	dynasty_house = house_caribe_petion_petion
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+
+
+
+	2580.12.6 = {
+		birth = yes
+
+	}
+	2650.1.1 = {
+		add_spouse = caribe_ayala_rebeca_boricuarebeca
+	}
+	2650.12.11 = {
+		death = "2650.12.11"
+	}
+}
+caribe_soulouque_faustin_1 = { # k_haiti
+	name = "Faustin"
+	dynasty = dynn_caribe_soulouque
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = insular_caribbean
+
+
+
+	1782.6.23 = {
+		birth = yes
+
+	}
+	1859.11.23 = {
+		death = "1859.11.23"
+	}
+}
+caribe_christophe_henri_1 = { # k_haiti
+	name = "Henri"
+	dynasty = dynn_caribe_christophe
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = insular_caribbean
+
+
+
+	1804.11.13 = {
+		birth = yes
+
+	}
+	1820.1.20 = {
+		death = "1820.1.20"
+	}
+}
+caribe_dessalines_jacques_1 = { # k_haiti
+	name = "Jacques"
+	dynasty = dynn_caribe_dessalines
+	dna = dna_caribe_dessalines_jacques_1
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = insular_caribbean
+
+
+
+	1758.5.14 = {
+		birth = yes
+
+	}
+	1806.4.21 = {
+		death = "1806.4.21"
+	}
+}
+caribe_buenavista_maximo_cubaking2 = { # k_cuba
+	name = "M_a_act_ximo"
+	dynasty_house = house_caribe_buenavista_buenavista
+	dna = dna_caribe_buenavista_maximo_cubaking2
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking1
+
+
+
+	2603.5.18 = {
+		birth = yes
+
+	}
+	2648.5.7 = {
+		death = "2648.5.7"
+	}
+}
+caribe_buenavista_maximo_cubaking1 = { # k_cuba
+	name = "M_a_act_ximo"
+	dynasty_house = house_caribe_buenavista_buenavista
+	dna = dna_caribe_buenavista_maximo_cubaking1
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+
+
+
+	2552.8.17 = {
+		birth = yes
+
+	}
+	2620.6.13 = {
+		death = "2620.6.13"
+	}
+}
+caribe_ayala_ramon_boricua3 = { # d_puerto_rico
+	name = "Ram_o_act_n"
+	dynasty = dynn_caribe_ayala
+	dna = dna_caribe_ayala_ramon_boricua3
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua1
+
+	trait = education_diplomacy_3
+	trait = vengeful
+	trait = ambitious
+	trait = impatient
+	trait = schemer
+
+	2626.12.11 = {
+		birth = yes
+
+	}
+}
+caribe_kitchener_aloysius_1 = { # d_trinidad_and_tobago
+	name = "Aloysius"
+	dynasty = dynn_caribe_kitchener
+	female = no
+	disallow_random_traits = yes
+	dna = bookmark_caribe_trinidad
+
+	culture = trini
+	religion = samaj_hinduism
+
+	trait = education_diplomacy_3
+	trait = gregarious
+	trait = stubborn
+	trait = calm
+	trait = content
+	trait = poet
+
+	2612.8.6 = {
+		birth = yes
+
+	}
+}
+caribe_cannonier_glenroy_1 = { # d_leeward_antilles
+	name = "Glenroy"
+	dynasty = dynn_caribe_cannonier
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_martial_3
+	trait = wrathful
+	trait = content
+	trait = arrogant
+	trait = lifestyle_blademaster
+
+	2637.8.21 = {
+		birth = yes
+
+	}
+}
+caribe_georges_jean_luc_1 = { # d_french_antilles
+	name = "Jean-Luc"
+	dynasty = dynn_caribe_georges
+	female = no
+	disallow_random_traits = no
+
+	culture = venteux
+	religion = vodou
+
+	trait = education_stewardship_3
+	trait = diligent
+	trait = temperate
+	trait = greedy
+
+	2638.8.14 = {
+		birth = yes
+
+	}
+}
+caribe_witz_arana_1 = { # d_belice
+	name = "Arana"
+	dynasty = dynn_caribe_witz
+	dna = dna_caribe_witz_arana_1
+	female = yes
+	disallow_random_traits = no
+
+	culture = kriol
+	religion = insular_caribbean
+
+	trait = education_learning_3
+	trait = brave
+	trait = impatient
+	trait = callous
+
+	2642.7.13 = {
+		birth = yes
+
+	}
+}
+caribe_seacole_philip_jamaica1 = { # d_jamaica
+	name = "Philip"
+	dynasty = dynn_caribe_seacole
+	female = no
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = bobo_ashanti
+
+	trait = education_martial_3
+	trait = brave
+	trait = ambitious
+	trait = arrogant
+
+	2610.6.20 = {
+		birth = yes
+
+	}
+	2656.10.20 = {
+		death = "2656.10.20"
+	}
+}
+caribe_ayala_luis_boricua2 = { # d_puerto_rico
+	name = "Luis"
+	dynasty = dynn_caribe_ayala
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua1
+
+	trait = education_martial_1
+
+	2620.8.3 = {
+		birth = yes
+
+	}
+	2660.12.10 = {
+		death = "2660.12.10"
+	}
+}
+caribe_ayala_camilo_1 = { # d_puerto_rico
+	name = "Camilo"
+	dynasty = dynn_caribe_ayala
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_luis_boricua2
+
+
+
+	2649.10.21 = {
+		birth = yes
+
+	}
+	2660.3.8 = {
+		death = "2660.3.8"
+	}
+}
+caribe_ayala_ramon_boricua1 = { # d_puerto_rico
+	name = "Ram_o_act_n"
+	dynasty = dynn_caribe_ayala
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+
+
+
+	2575.2.24 = {
+		birth = yes
+
+	}
+	2640.3.12 = {
+		death = "2640.3.12"
+	}
+}
+caribe_sosa_sancho_1 = { # d_el_cibao
+	name = "Sancho"
+	dynasty = dynn_caribe_sosa
+	dna = dna_caribe_sosa_sancho_1
+	female = no
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+
+
+
+	2630.3.26 = {
+		birth = yes
+
+	}
+}
+caribe_arnaz_celia_cubaking7 = { # d_oriente
+	name = "Celia"
+	dynasty = dynn_caribe_arnaz
+	dna = dna_caribe_arnaz_celia_cubaking7
+	female = yes
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = lucumi
+
+	trait = education_martial_4
+	trait = zealous
+	trait = generous
+	trait = ambitious
+	trait = peasant_leader
+
+	2631.7.2 = {
+		birth = yes
+
+	}
+}
+caribe_buenavista_ramos_ruben_cubaking4 = { # d_matanzas
+	name = "Rub_e_act_n"
+	dynasty_house = house_caribe_buenavista_buenavista_ramos
+	dna = dna_caribe_buenavista_ramos_ruben_cubaking4
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking1
+
+	trait = education_stewardship_2
+	trait = deceitful
+	trait = brave
+	trait = arbitrary
+
+	2619.9.17 = {
+		birth = yes
+		add_pressed_claim = title:d_pinar_del_rio
+		add_pressed_claim = title:d_matanzas
+		add_pressed_claim = title:d_las_villas
+		add_pressed_claim = title:d_camaguey
+		add_pressed_claim = title:d_oriente
+		add_pressed_claim = title:d_havana
+	}
+}
+caribe_more_josefa_1 = { # c_nipe
+	name = "Josefa"
+	dynasty = dynn_caribe_more
+	female = yes
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = lucumi
+
+
+
+	2641.3.16 = {
+		birth = yes
+
+	}
+}
+caribe_buenavista_ochoa_eliades_cubaking4a = { # c_villa_clara
+	name = "Eliades"
+	dynasty_house = house_caribe_buenavista_buenavista_ochoa
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking1
+
+	trait = education_learning_3
+	trait = craven
+	trait = temperate
+	trait = zealous
+
+	2620.1.20 = {
+		birth = yes
+		add_pressed_claim = title:d_pinar_del_rio
+		add_pressed_claim = title:d_matanzas
+		add_pressed_claim = title:d_las_villas
+		add_pressed_claim = title:d_camaguey
+		add_pressed_claim = title:d_oriente
+		add_pressed_claim = title:d_havana
+	}
+}
+caribe_buenavista_omara_cubaking5 = { # c_havana
+	name = "Omara"
+	dynasty_house = house_caribe_buenavista_buenavista
+	dna = dna_caribe_buenavista_omara_cubaking5
+	female = yes
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking2
+
+	trait = education_martial_3
+	trait = zealous
+	trait = vengeful
+	trait = ambitious
+
+	2646.7.13 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = caribe_ayala_llandel_boricua5
+		add_pressed_claim = title:d_pinar_del_rio
+		add_pressed_claim = title:d_matanzas
+		add_pressed_claim = title:d_las_villas
+		add_pressed_claim = title:d_camaguey
+		add_pressed_claim = title:d_oriente
+		add_pressed_claim = title:d_havana
+	}
+}
+caribe_buenavista_pio_cubaking6 = { # c_guanahacabibes
+	name = "P_i_act_o"
+	dynasty_house = house_caribe_buenavista_buenavista
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking2
+
+	trait = education_diplomacy_3
+	trait = greedy
+	trait = shy
+	trait = lazy
+
+	2647.7.21 = {
+		birth = yes
+
+	}
+}
+caribe_o_farrill_felix_1 = { # c_cienfuegos
+	name = "F_e_act_lix"
+	dynasty = dynn_caribe_o_farrill
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = lucumi
+
+	trait = education_intrigue_3
+	trait = brave
+	trait = gregarious
+	trait = chaste
+
+	2640.12.22 = {
+		birth = yes
+
+	}
+}
+caribe_egues_desiderio_1 = { # c_santiago_de_cuba
+	name = "Desiderio"
+	dynasty = dynn_caribe_egues
+	dna = dna_caribe_egues_desiderio_1
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = palo
+
+
+
+	2630.2.11 = {
+		birth = yes
+
+	}
+}
+caribe_saralegi_catalina_1 = { # c_isla_de_la_juventud
+	name = "Catalina"
+	dynasty = dynn_caribe_saralegi
+	dna = dna_caribe_saralegi_catalina_1
+	female = yes
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+
+	trait = pensive
+
+	2656.7.25 = {
+		birth = yes
+
+	}
+}
+caribe_cugat_juan_1 = { # c_holguin
+	name = "Juan"
+	dynasty = dynn_caribe_cugat
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = palo
+
+
+
+	2629.9.23 = {
+		birth = yes
+
+	}
+}
+caribe_valdes_jose_1 = { # c_guantanamo
+	name = "Jos_e_act_"
+	dynasty = dynn_caribe_valdes
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = palo
+
+
+
+	2626.4.16 = {
+		birth = yes
+
+	}
+}
+caribe_pons_antonia_1 = { # c_las_tunas
+	name = "Antonia"
+	dynasty = dynn_caribe_pons
+	female = yes
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = lucumi
+
+
+
+	2640.6.16 = {
+		birth = yes
+
+	}
+}
+caribe_buenavista_portuondo_filiberto_cubaking3 = { # c_ciego_de_avila
+	name = "Filiberto"
+	dynasty_house = house_caribe_buenavista_buenavista_portuondo
+	dna = dna_caribe_buenavista_portuondo_filiberto_cubaking3
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = insular_caribbean
+	father = caribe_buenavista_maximo_cubaking1
+
+	trait = education_intrigue_2
+	trait = cynical
+	trait = craven
+	trait = deceitful
+
+	2618.5.8 = {
+		birth = yes
+		add_pressed_claim = title:d_pinar_del_rio
+		add_pressed_claim = title:d_matanzas
+		add_pressed_claim = title:d_las_villas
+		add_pressed_claim = title:d_camaguey
+		add_pressed_claim = title:d_oriente
+		add_pressed_claim = title:d_havana
+	}
+}
+caribe_beltre_damaris_1 = { # c_yaque
+	name = "D_a_act_maris"
+	dynasty = dynn_caribe_beltre
+	dna = dna_caribe_beltre_damaris_1
+	female = yes
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+
+	trait = education_stewardship_2
+	trait = diligent
+	trait = content
+	trait = chaste
+	trait = scarred
+
+	2648.3.24 = {
+		birth = yes
+
+	}
+}
+caribe_grau_euclides_1 = { # c_guacanayabo
+	name = "Euclides"
+	dynasty = dynn_caribe_grau
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = palo
+
+
+
+	2630.3.10 = {
+		birth = yes
+	}
+	2656.11.26 = {
+		effect = {
+			make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:juliano }
+		}
+	}
+}
+caribe_yarzagaray_willem_1 = { # c_curacao
+	name = "Willem"
+	dynasty = dynn_caribe_yarzagaray
+	female = no
+	disallow_random_traits = no
+
+	culture = papiamen
+	religion = brethren
+
+
+
+	2632.1.26 = {
+		birth = yes
+
+	}
+}
+caribe_chevalier_alphonse_1 = { # c_les_cayes
+	name = "Alphonse"
+	dynasty = dynn_caribe_chevalier
+	dna = dna_caribe_chevalier_alphonse_1
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+
+	trait = education_learning_3
+	trait = compassionate
+	trait = lustful
+	trait = fickle
+
+	2642.2.16 = {
+		birth = yes
+
+	}
+}
+caribe_espaillat_florimel_1 = { # c_la_romana
+	name = "Florimel"
+	dynasty = dynn_caribe_espaillat
+	dna = dna_caribe_espaillat_florimel_1
+	female = yes
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+
+	trait = education_diplomacy_4
+	trait = cynical
+	trait = honest
+	trait = brave
+	trait = lifestyle_hunter
+
+	2645.5.25 = {
+		birth = yes
+
+	}
+}
+caribe_cabra_eduardo_1 = { # c_mayaguez
+	name = "Eduardo"
+	dynasty = dynn_caribe_cabra
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+
+	trait = education_diplomacy_3
+	trait = shy
+	trait = compassionate
+	trait = generous
+	trait = lifestyle_herbalist
+
+	2635.11.12 = {
+		birth = yes
+
+	}
+}
+caribe_joglar_renato_1 = { # c_ponce
+	name = "Renato"
+	dynasty = dynn_caribe_joglar
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+
+	trait = education_intrigue_3
+	trait = stubborn
+	trait = gregarious
+	trait = cynical
+
+	2634.7.23 = {
+		birth = yes
+
+	}
+}
+caribe_henry_morgan_1 = { # c_san_andres
+	name = "Morgan"
+	dynasty = dynn_caribe_henry
+	female = yes
+	disallow_random_traits = no
+
+	culture = raizal
+	religion = brethren
+
+	trait = education_martial_3
+	trait = deceitful
+	trait = brave
+	trait = arbitrary
+	trait = reaver
+
+	2641.8.24 = {
+		birth = yes
+
+	}
+}
+caribe_van_horn_roberto_1 = { # should be papiamen, c_bonaire
+	name = "Roberto"
+	dynasty = dynn_caribe_van_horn
+	female = no
+	disallow_random_traits = no
+
+	culture = cubano
+	religion = brethren
+
+	trait = education_stewardship_3
+	trait = vengeful
+	trait = greedy
+	trait = gluttonous
+
+	2631.3.1 = {
+		birth = yes
+
+	}
+}
+caribe_swan_lisa_1 = { # c_roatan
+	name = "Lisa"
+	dynasty = dynn_caribe_swan
+	female = yes
+	disallow_random_traits = no
+
+	culture = garinagu
+	religion = brethren
+
+	trait = education_diplomacy_3
+	trait = lustful
+	trait = just
+	trait = diligent
+	trait = flexible_leader
+
+	2640.1.19 = {
+		birth = yes
+
+	}
+}
+caribe_bardillas_diego_1 = { # c_cozumel
+	name = "Diego"
+	dynasty = dynn_caribe_bardillas
+	female = no
+	disallow_random_traits = no
+
+	culture = yucateco
+	religion = brethren
+
+	trait = education_stewardship_3
+	trait = ambitious
+	trait = impatient
+	trait = zealous
+	trait = rakish
+	trait = hashishiyah
+	trait = jungle_stalker
+
+	2628.12.24 = {
+		birth = yes
+
+	}
+}
+caribe_headey_diana_1 = { # c_bermuda
+	name = "Diana"
+	dynasty = dynn_caribe_headey
+	female = yes
+	disallow_random_traits = no
+
+	culture = bermudian
+	religion = brethren
+
+	trait = education_learning_3
+	trait = greedy
+	trait = sadistic
+	trait = zealous
+	trait = logistician
+
+	2643.7.28 = {
+		birth = yes
+
+	}
+}
+caribe_mckay_henry_1 = { # c_nassau
+	name = "Henry"
+	dynasty = dynn_caribe_mckay
+	female = no
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = brethren
+
+	trait = education_martial_2
+	trait = brave
+	trait = sadistic
+	trait = honest
+	trait = beauty_bad_2
+	trait = physique_good_1
+
+	2643.6.11 = {
+		birth = yes
+
+	}
+}
+caribe_poitier_dennis_1 = { # c_andros
+	name = "Dennis"
+	dynasty = dynn_caribe_poitier
+	dna = dna_caribe_poitier_dennis_1
+	female = no
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = brethren
+
+	trait = education_diplomacy_3
+	trait = patient
+	trait = ambitious
+	trait = chaste
+
+	2631.2.28 = {
+		birth = yes
+
+	}
+}
+caribe_moineau_jacques_1 = { # c_tortuga
+	name = "Jacques"
+	dynasty = dynn_caribe_moineau
+	dna = dna_caribe_moineau_jacques_1
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = haitian
+	religion = brethren
+
+	trait = education_martial_4
+	trait = craven
+	trait = vengeful
+	trait = arrogant
+	trait = lustful
+	trait = reaver
+
+	2637.5.14 = {
+		birth = yes
+
+	}
+}
+caribe_farrell_andre_1 = { # c_aruba
+	name = "Andr_e_act_"
+	dynasty = dynn_caribe_farrell
+	female = no
+	disallow_random_traits = no
+
+	culture = papiamen
+	religion = brethren
+
+
+
+	2636.5.12 = {
+		birth = yes
+
+	}
+}
+caribe_panosty_rousseau_1 = { # c_port_de_paix
+	name = "Rousseau"
+	dynasty = dynn_caribe_panosty
+	dna = dna_caribe_panosty_rousseau_1
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+
+
+
+	2638.6.12 = {
+		birth = yes
+
+	}
+}
+caribe_mompremier_jean_pierre_1 = { # c_hinche
+	name = "Jean-Pierre"
+	dynasty = dynn_caribe_mompremier
+	dna = dna_caribe_mompremier_jean_pierre_1
+	female = no
+	disallow_random_traits = no
+
+	culture = haitian
+	religion = vodou
+
+	trait = education_martial_3
+	trait = brave
+	trait = compassionate
+	trait = just
+
+	2621.3.26 = {
+		birth = yes
+
+	}
+}
+caribe_bernardez_elias_1 = { # c_duarte
+	name = "El_i_act_as"
+	dynasty = dynn_caribe_bernardez
+	dna = dna_caribe_bernardez_elias_1
+	female = no
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+
+	trait = education_martial_1
+	trait = zealous
+	trait = deceitful
+	trait = craven
+	trait = spindly
+
+	2632.9.12 = {
+		birth = yes
+
+	}
+}
+caribe_santillan_romeo_1 = { # c_valverde
+	name = "Romeo"
+	dynasty = dynn_caribe_santillan
+	dna = dna_caribe_santillan_romeo_1
+	female = no
+	disallow_random_traits = no
+
+	culture = quisqueyano
+	religion = insular_caribbean
+
+
+
+	2630.11.6 = {
+		birth = yes
+
+	}
+}
+caribe_hodge_phyllis_1 = { # c_virgin_islands
+	name = "Phyllis"
+	dynasty = dynn_caribe_hodge
+	female = yes
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_martial_2
+	trait = lustful
+	trait = wrathful
+	trait = brave
+	trait = greedy
+
+	2635.11.10 = {
+		birth = yes
+
+	}
+}
+caribe_barrow_leon_1 = { # c_tobago
+	name = "Leon"
+	dynasty = dynn_caribe_barrow
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = samaj_hinduism
+
+	trait = education_stewardship_3
+	trait = ambitious
+	trait = diligent
+	trait = paranoid
+	trait = zealous
+	trait = shrewd
+
+	2642.3.5 = {
+		birth = yes
+
+	}
+}
+caribe_woolsworth_darlie_1 = { # c_grenada
+	name = "Darlie"
+	dynasty = dynn_caribe_woolsworth
+	female = yes
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+
+
+	2625.10.27 = {
+		birth = yes
+
+	}
+}
+caribe_strangways_sunil_1 = { # c_saint_vincent
+	name = "Sunil"
+	dynasty = dynn_caribe_strangways
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_learning_3
+	trait = trusting
+	trait = gregarious
+	trait = lustful
+
+	2627.3.15 = {
+		birth = yes
+
+	}
+}
+caribe_cenac_cedric_1 = { # c_saint_lucia
+	name = "Cedric"
+	dynasty = dynn_caribe_cenac
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = vodou
+
+	trait = education_intrigue_2
+	trait = arrogant
+	trait = paranoid
+	trait = deceitful
+
+	2639.11.13 = {
+		birth = yes
+
+	}
+}
+caribe_walling_errol_1 = { # c_antigua_and_barbuda
+	name = "Errol"
+	dynasty = dynn_caribe_walling
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_diplomacy_2
+	trait = patient
+	trait = fickle
+	trait = arbitrary
+	trait = lifestyle_hunter
+
+	2591.11.8 = {
+		birth = yes
+
+	}
+}
+caribe_liburd_wycliffe_1 = { # c_saint_martin
+	name = "Wycliffe"
+	dynasty = dynn_caribe_liburd
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+
+
+	2618.10.25 = {
+		birth = yes
+
+	}
+}
+caribe_john_baptiste_lennox_1 = { # c_dominica
+	name = "Lennox"
+	dynasty = dynn_caribe_john_baptiste
+	female = no
+	disallow_random_traits = no
+
+	culture = venteux
+	religion = vodou
+
+
+
+	2641.3.25 = {
+		birth = yes
+
+	}
+}
+caribe_compere_leandre_1 = { # c_martinique
+	name = "L_e_act_andre"
+	dynasty = dynn_caribe_compere
+	female = no
+	disallow_random_traits = no
+
+	culture = venteux
+	religion = vodou
+
+	trait = education_diplomacy_3
+	trait = chaste
+	trait = temperate
+	trait = generous
+
+	2633.4.19 = {
+		birth = yes
+
+	}
+}
+caribe_glasspole_curtly_1 = { # c_cayman_islands
+	name = "Curtly"
+	dynasty = dynn_caribe_glasspole
+	female = no
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = nyabinghi
+
+	trait = education_stewardship_4
+	trait = greedy
+	trait = arrogant
+	trait = patient
+
+	2633.12.20 = {
+		birth = yes
+
+	}
+}
+caribe_tzalam_eloy_1 = { # c_orange_walk
+	name = "Eloy"
+	dynasty = dynn_caribe_tzalam
+	female = no
+	disallow_random_traits = no
+
+	culture = kriol
+	religion = anglican
+
+	2612.1.4 = {
+		birth = yes
+
+	}
+}
+caribe_thiessen_wilhelm_1 = { # c_cayo
+	name = "Wilhelm"
+	dynasty = dynn_caribe_thiessen
+	female = no
+	disallow_random_traits = no
+
+	culture = belizonite
+	religion = mennonite
+
+
+
+	2627.1.1 = {
+		birth = yes
+
+	}
+}
+caribe_ewing_delancy_1 = { # c_turks_and_caicos
+	name = "Delancy"
+	dynasty = dynn_caribe_ewing
+	female = no
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = brethren
+
+	trait = education_learning_2
+	trait = shy
+	trait = patient
+	trait = greedy
+
+	2649.5.22 = {
+		birth = yes
+
+	}
+}
+caribe_ayala_raquel_boricua6 = {
+	name = "Raquel"
+	dynasty = dynn_caribe_ayala
+	female = yes
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua3
+
+
+
+	2647.4.10 = {
+		birth = yes
+
+	}
+}
+caribe_ayala_sofia_1 = {
+	name = "Sof_i_act_a"
+	dynasty = dynn_caribe_ayala
+	female = yes
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_luis_boricua2
+
+
+
+	2650.9.14 = {
+		birth = yes
+
+	}
+	2660.12.17 = {
+		death = "2660.12.17"
+	}
+}
+caribe_ayala_omar_boricua4 = {
+	name = "Omar"
+	dynasty = dynn_caribe_ayala
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua3
+
+
+
+	2644.6.24 = {
+		birth = yes
+
+	}
+}
+caribe_ayala_llandel_boricua5 = {
+	name = "Llandel"
+	dynasty = dynn_caribe_ayala
+	female = no
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua3
+
+
+
+	2645.8.7 = {
+		birth = yes
+
+	}
+}
+caribe_ayala_rebeca_boricuarebeca = {
+	name = "Rebeca"
+	dynasty = dynn_caribe_ayala
+	female = yes
+	disallow_random_traits = no
+
+	culture = boricua
+	religion = insular_caribbean
+	father = caribe_ayala_ramon_boricua1
+
+	trait = education_intrigue_3
+	trait = callous
+	trait = deceitful
+	trait = cynical
+	trait = murderer
+
+	2620.6.6 = {
+		birth = yes
+
+	}
+}
+caribe_seacole_barrington_1 = {
+	name = "Barrington"
+	dynasty = dynn_caribe_seacole
+	female = no
+	disallow_random_traits = no
+
+	culture = jamaican
+	religion = bobo_ashanti
+	father = caribe_collymore_geoffrey_collymore2
+	mother = caribe_seacole_portia_jamaica2
+
+
+
+	2664.9.27 = {
+		birth = yes
+
+	}
+}
+caribe_seacole_rainford_1 = {
+	name = "Rainford"
+	dynasty = dynn_caribe_seacole
+	female = no
+	disallow_random_traits = no
+
+	culture = jamaican
+	religion = twelve_tribes
+	father = caribe_collymore_geoffrey_collymore2
+	mother = caribe_seacole_portia_jamaica2
+
+
+
+	2663.3.1 = {
+		birth = yes
+
+	}
+}
+caribe_collymore_errol_1 = {
+	name = "Errol"
+	dynasty = dynn_caribe_collymore
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+	father = caribe_collymore_clifton_collymore
+
+	trait = education_diplomacy_3
+
+	2636.6.6 = {
+		birth = yes
+
+	}
+}
+caribe_collymore_geoffrey_collymore2 = {
+	name = "Geoffrey"
+	dynasty = dynn_caribe_collymore
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = twelve_tribes
+	father = caribe_collymore_clifton_collymore
+
+	trait = education_diplomacy_2
+
+	2637.4.8 = {
+		birth = yes
+
+	}
+}
+caribe_arnaz_celia_1 = {
+	name = "Celia"
+	dynasty = dynn_caribe_arnaz
+	female = yes
+	disallow_random_traits = no
+
+	mother = caribe_arnaz_celia_cubaking7
+
+	culture = cubano
+	religion = lucumi
+
+	trait = pensive
+
+	2659.4.4 = {
+		birth = yes
+
+	}
+}
+canada_kapoor_bradley_anglicansynod = { # d_anglican_synod
+	name = "Bradley"
+	dynasty = dynn_canada_kapoor #Legacy of Anglicanism being originally in Canada, may be a mild pain in the ass to change
+	female = no
+	disallow_random_traits = no
+
+	culture = calypsonian
+	religion = anglican
+
+	trait = education_learning_3
+	trait = zealous
+	trait = stubborn
+	trait = compassionate
+	trait = bastard
+	trait = shrewd
+	trait = journaller
+
+	2621.5.14 = {
+		birth = yes
+
+	}
+}
+caribe_dorsalis_usnavi_mayamipatrician = { # Miami Patrician, d_miami
+	name = "Usnavi"
+	dynasty = dynn_caribe_dorsalis
+	dna = dna_caribe_dorsalis_usnavi_mayamipatrician
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = mayami
+	religion = insular_caribbean
+
+	trait = education_intrigue_3
+	trait = arrogant
+	trait = gluttonous
+	trait = ambitious
+	trait = dwarf
+	trait = lifestyle_reveler
+	trait = physique_good_2
+
+	2621.6.4 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = caribe_ruiz_lizeth_mmom
+	}
+	2666.7.4 = {
+
+	}
+}
+caribe_waltney_elias_1 = { # d_eyefour, special localisation to The Mouse
+	name = "Elias"
+	dynasty = dynn_caribe_waltney
+	dna = dna_caribe_waltney_elias_1
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = education_diplomacy_4
+	trait = gregarious
+	trait = ambitious
+	trait = craven
+	trait = gallant
+	trait = scarred
+	
+	intrigue = 2
+	martial = 14
+
+	father = caribe_waltney_charles_1
+
+	2628.8.12 = {
+		birth = yes
+	}
+	# 2666.1.1 = {
+	#     effect = {
+	# 		set_relation_friend = caribe_waltney_ariel_1
+	# 	}
+	# }
+}
+
+caribe_argo_james_1 = {
+	name = "James"
+	dna = dna_caribe_argo_james_1
+	dynasty = dynn_caribe_argo
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = springsearcher
+
+	trait = education_stewardship_2
+	trait = patient
+	trait = stubborn
+	trait = shy
+
+	2605.9.6 = {
+		birth = yes
+	}
+	2618.1.7 = {
+		add_spouse = caribe_dillet_louise_1
+	}
+	2661.11.11 = {
+		death = yes
+	}
+}
+caribe_dillet_louise_1 = {
+	name = "Louise"
+	dynasty = dynn_caribe_dillet
+	female = yes
+	disallow_random_traits = no
+
+	culture = west_indian
+	religion = twelve_tribes
+
+	trait = education_learning_2
+	trait = callous
+	trait = fickle
+	trait = temperate
+
+	2609.9.6 = {
+		birth = yes
+	}
+	2661.11.11 = {
+		death = yes
+	}
+}
+caribe_argo_james_2 = { # d_first_coast
+	name = "James"
+	dynasty = dynn_caribe_argo
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = springsearcher
+
+	father = caribe_argo_james_1
+	mother = caribe_dillet_louise_1
+
+	trait = education_diplomacy_3
+	trait = just
+	trait = gregarious
+	trait = calm
+	trait = poet
+	trait = journaller
+
+	2626.2.4 = {
+		birth = yes
+
+	}
+}
+caribe_argo_rosemund_1 = { # c_st_augustine
+	name = "Rosemund"
+	dynasty = dynn_caribe_argo
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = springsearcher
+
+	father = caribe_argo_james_1
+	mother = caribe_dillet_louise_1
+
+	trait = education_diplomacy_2
+	trait = gregarious
+	trait = diligent
+	trait = trusting
+	trait = poet
+
+	2630.9.25 = {
+		birth = yes
+
+	}
+}
+caribe_mason_ava_1 = {
+	name = "Ava"
+	dynasty = dynn_caribe_mason
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = brethren
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = greedy
+	trait = forder
+	trait = reaver
+
+	2644.6.18 = {
+		birth = yes
+
+	}
+}
+caribe_cochran_buzz_1 = { # c_space_coast
+	name = "Buzz"
+	dynasty = dynn_caribe_cochran
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = education_learning_4
+	trait = honest
+	trait = brave
+	trait = shy
+
+	2637.7.7 = {
+		birth = yes
+
+	}
+}
+caribe_caravelle_john_1 = { # c_ocala
+	name = "John"
+	dynasty = dynn_caribe_caravelle
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = education_intrigue_2
+	trait = ambitious
+	trait = deceitful
+	trait = lustful
+
+	2645.8.3 = {
+		birth = yes
+
+	}
+}
+caribe_jupiter_saladin_1 = { # c_sebring
+	name = "Saladin"
+	dynasty = dynn_caribe_jupiter
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = education_diplomacy_3
+	trait = honest
+	trait = compassionate
+	trait = fickle
+
+	2629.2.10 = {
+		birth = yes
+
+	}
+}
+caribe_horowitz_leonard_1 = { # c_palm_beach
+	name = "Leonard"
+	dynasty = dynn_caribe_horowitz
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = reform
+
+	2621.1.10 = {
+		birth = yes
+	}
+}
+caribe_ordonez_kayla_1 = { # c_st_lucie
+	name = "Kayla"
+	dynasty = dynn_caribe_ordonez
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = imaginerian
+
+	trait = education_diplomacy_2
+	trait = diligent
+	trait = content
+	trait = sadistic
+
+	2641.9.18 = {
+		birth = yes
+
+	}
+}
+caribe_nelson_ali_1 = { # d_suncoast
+	name = "Ali"
+	dna = dna_caribe_nelson_ali_1
+	dynasty = dynn_caribe_nelson
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = shriner
+
+	trait = education_stewardship_4
+	trait = compassionate
+	trait = ambitious
+	trait = gregarious
+	trait = generous
+	trait = beauty_good_1
+	trait = architect
+	
+	stewardship = 18
+
+	2640.1.23 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		give_nickname = nick_fabulous_he
+		effect = {
+			create_alliance = character:caribe_venus_armando_1
+			set_relation_friend = character:caribe_venus_armando_1
+		}
+	}
+}
+caribe_mico_holatta_1 = { # c_everglades
+	name = "Holatta"
+	dna = dna_caribe_mico_holatta_1
+	dynasty = dynn_caribe_mico
+	female = no
+	disallow_random_traits = no
+
+	culture = seminole
+	religion = insular_caribbean
+
+	trait = education_martial_4
+	trait = stubborn
+	trait = ambitious
+	trait = brave
+
+	2650.3.3 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		vassal_contract_set_obligation_level = {
+			type = fortification_rights
+			level = 1
+		}
+		vassal_contract_set_obligation_level = {
+			type = title_revocation_rights
+			level = 1
+		}
+		vassal_contract_set_obligation_level = {
+			type = feudal_government_levies
+			level = 3
+		}
+		effect = {
+			set_relation_lover = character:caribe_ordonez_kayla_1
+		}
+	}
+}
+caribe_tate_linda_1 = {
+	name = "Linda"
+	dynasty = dynn_caribe_tate
+	female = yes
+	disallow_random_traits = no
+
+	culture = dixie
+	religion = evangelical
+	father = caribe_tate_lindsey_1
+
+
+
+	2650.2.25 = {
+		birth = yes
+	}
+
+}
+caribe_waltney_ariel_1 = {
+	name = "Ariel"
+	dynasty = dynn_caribe_waltney
+	female = yes
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+	father = caribe_waltney_charles_1
+	
+	trait = education_learning_2
+	trait = patient
+	trait = forgiving
+	trait = trusting
+	trait = weak
+	trait = wheezing
+	
+	2634.9.3 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		effect = {
+			set_relation_friend = character:caribe_waltney_elias_1
+			set_relation_friend = character:caribe_waltney_oswald_1
+		}
+	}
+}
+
+caribe_waltney_charles_1 = {
+	name = "Charles"
+	dynasty = dynn_caribe_waltney
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+	
+	trait = education_diplomacy_1
+	trait = trusting
+	trait = humble
+	trait = diligent
+
+	2589.4.23 = {
+		birth = yes
+	}
+	2653.7.14 = {
+		death = yes
+	}
+}
+caribe_waltney_oswald_1 = {
+	name = "Oswald"
+	dynasty = dynn_caribe_waltney
+	disallow_random_traits = yes
+
+	culture = sunshiner
+	religion = imaginerian
+
+	father = caribe_waltney_charles_1
+
+	trait = education_intrigue_3
+	trait = deceitful
+	trait = content
+	trait = arbitrary
+	trait = disinherited
+	trait = reclusive
+	trait = depressed_genetic
+
+	2627.1.13 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		# effect = {
+		# 	set_relation_friend = caribe_waltney_ariel_1
+		# }
+	}
+}
+caribe_swift_richard_1 = {
+	name = "Richard"
+	dynasty = dynn_caribe_swift
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	2602.9.12 = {
+		birth = yes
+	}
+	2632.7.15 = {
+		add_spouse = caribe_marino_theodora_1
+	}
+	2661.8.14 = {
+		death = yes
+	}
+}
+caribe_marino_theodora_1 = {
+	name = "Theodora"
+	dynasty = dynn_caribe_marino
+	female = yes
+	disallow_random_traits = no
+
+	trait = beauty_good_3
+
+	culture = sunshiner
+	religion = imaginerian
+
+	2614.7.24 = {
+		birth = yes
+	}
+}
+caribe_swift_achilles_1 = {
+	name = "Achilles"
+	dynasty = dynn_caribe_swift
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = education_martial_3
+	trait = brave
+	trait = arrogant
+	trait = arbitrary
+	trait = lifestyle_blademaster
+	trait = beauty_good_2
+	trait = aggressive_attacker
+
+	father = caribe_swift_richard_1
+	mother = caribe_marino_theodora_1
+
+	sexuality = homosexual
+
+	2640.12.11 = {
+		birth = yes
+	}
+	2666.7.3 = {
+		effect = {
+			set_relation_soulmate = character:caribe_calos_pedro_1
+		}
+	}
+}
+caribe_swift_russel_1 = {
+	name = "Russel"
+	dynasty = dynn_caribe_swift
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	trait = rowdy
+	trait = sadistic
+	trait = beauty_good_2
+
+	father = caribe_swift_achilles_1
+
+	2659.4.6 = {
+		birth = yes
+	}
+}
+caribe_calos_fidel_1 = {
+	name = "Fidel"
+	dynasty = dynn_caribe_calos
+	female = no
+	disallow_random_traits = no
+
+	culture =  mayami
+	religion = insular_caribbean
+
+	2597.6.13 = {
+		birth = yes
+	}
+	2633.3.19 = {
+		add_spouse = caribe_luna_maria_1
+	}
+	2658.8.14 = {
+		death = yes
+	}
+}
+caribe_luna_maria_1 = {
+	name = "Maria"
+	dynasty = dynn_caribe_luna
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	2601.10.19 = {
+		birth = yes
+	}
+	2657.11.16 = {
+		death = yes
+	}
+}
+caribe_calos_pedro_1 = {
+	name = "Pedro"
+	dynasty = dynn_caribe_calos
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = imaginerian
+
+	father = caribe_calos_fidel_1
+	mother = caribe_luna_maria_1
+
+	trait = education_martial_2
+	trait = compassionate
+	trait = honest
+	trait = humble
+	trait = lifestyle_physician
+
+	sexuality = homosexual
+
+	2635.8.17 = {
+		birth = yes
+	}
+	2666.7.3 = {
+		employer = caribe_swift_achilles_1
+	}
+}
+caribe_atreus_aaron_1 = {
+	name = "Aaron"
+	dynasty = dynn_caribe_atreus
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	2588.7.15 = {
+		birth = yes
+	}
+	2654.4.12 = {
+		death = yes
+	}
+}
+caribe_atreus_anton_1 = {
+	name = "Anton"
+	dynasty = dynn_caribe_atreus
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	father = caribe_atreus_aaron_1
+	mother = caribe_toros_anne_1
+
+	trait = education_diplomacy_1
+	trait = ambitious
+	trait = callous
+	trait = stubborn
+	trait = wrathful
+
+	2620.2.13 = {
+		birth = yes
+	}
+}
+caribe_toros_anne_1 = {
+	name = "Anne"
+	dynasty = dynn_caribe_toros
+	female = yes
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	2597.4.18 = {
+		birth = yes
+	}
+	2652.9.27 = {
+		death = yes
+	}
+}
+caribe_atreus_matthew_1 = {
+	name = "Matthew"
+	dynasty = dynn_caribe_atreus
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	father = caribe_atreus_aaron_1
+	mother = caribe_toros_anne_1
+
+	trait = education_martial_2
+	trait = shy
+	trait = brave
+	trait = vengeful
+
+	2623.10.18 = {
+		birth = yes
+	}
+	2660.1.1 = {
+		add_spouse = caribe_ledan_elizabeth_1
+	}
+	2666.1.1 = {
+		remove_spouse = caribe_ledan_elizabeth_1
+		effect = {
+			create_alliance = character:caribe_atreus_anton_1
+			set_relation_rival = character:caribe_castillo_alexander_1
+		}
+	}
+}
+caribe_atreus_helena_1 = {
+	name = "Helena"
+	dynasty = dynn_caribe_atreus
+	female = yes
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	father = caribe_atreus_matthew_1
+	mother = caribe_ledan_elizabeth_1
+
+	trait = beauty_good_3
+
+	2663.1.22 = {
+		birth = yes
+	}
+}
+caribe_ledan_leda_1 = {
+	name = "Leda"
+	dynasty = dynn_caribe_ledan
+	female = yes
+	disallow_random_traits = no
+
+	culture = dixie
+	religion = imaginerian
+
+	2600.5.9 = {
+		birth = yes
+	}
+	2663.4.15 = {
+		death = yes
+	}
+
+}
+caribe_ledan_elizabeth_1 = {
+	name = "Elizabeth"
+	dynasty = dynn_caribe_ledan
+	female = yes
+	disallow_random_traits = no
+
+	culture = dixie
+	religion = imaginerian
+
+	mother = caribe_ledan_leda_1
+
+	trait = education_diplomacy_3
+	trait = lustful
+	trait = calm
+	trait = trusting
+	trait = intellect_good_1
+	trait = beauty_good_3
+
+	2643.10.28 = {
+		birth = yes
+	}
+}
+caribe_ledan_cleo_1 = {
+	name = "Cleo"
+	dynasty = dynn_caribe_ledan
+	female = yes
+	disallow_random_traits = no
+
+	culture = dixie
+	religion = imaginerian
+
+	mother = caribe_ledan_leda_1
+
+	trait = education_intrigue_3
+	trait = ambitious
+	trait = vengeful
+	trait = deceitful
+
+	2629.8.17 = {
+		birth = yes
+	}
+}
+caribe_felix_lamar_1 = {
+	name = "Lamar"
+	dynasty = dynn_caribe_felix
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = imaginerian
+
+	2603.11.13 = {
+		birth = yes
+	}
+}
+caribe_velvela_simone_1 = {
+	name = "Simone"
+	dynasty = dynn_caribe_velvela
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = brethren
+
+	2602.11.10 = {
+		birth = yes
+	}
+	2663.9.15 = {
+		death = yes
+	}
+}
+caribe_felix_ulysses_1 = {
+	name = "Ulysses"
+	dynasty =  dynn_caribe_felix
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = brethren
+
+	father = caribe_felix_lamar_1
+	mother = caribe_velvela_simone_1
+
+	trait = education_diplomacy_4
+	trait = humble
+	trait = vengeful
+	trait = deceitful
+	trait = intellect_good_1
+	trait = shrewd
+
+	2622.2.8 = {
+		birth = yes
+	}
+}
+caribe_hogan_terry_1 = {
+	name = "Terry"
+	dynasty = dynn_caribe_hogan
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	2591.5.14 = {
+		birth = yes
+	}
+	2655.7.8 = {
+		death = yes
+	}
+}
+caribe_hogan_ajax_1 = {
+	name = "Ajax"
+	dynasty  = dynn_caribe_hogan
+	female = no
+	disallow_random_traits = no
+
+	culture = sunshiner
+	religion = imaginerian
+
+	father = caribe_hogan_terry_1
+
+	trait = education_martial_2
+	trait = gregarious
+	trait = arrogant
+	trait = brave
+	trait = giant
+
+	2633.12.12 = {
+		birth = yes
+	}
+}
+caribe_riso_laura_1 = {
+	name = "Laura"
+	dynasty = dynn_caribe_riso
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	2555.1.26 = {
+		birth = yes
+	}
+	2657.1.13 = {
+		death = yes
+	}
+}
+caribe_castillo_lucas_1 = {
+	name = "Lucas"
+	dynasty = dynn_caribe_castillo
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	2554.6.19 = {
+		birth = yes
+	}
+	2655.3.29 ={
+		death = yes
+	}
+}
+caribe_castillo_peter_1 = {
+	name = "Peter"
+	dynasty = dynn_caribe_castillo
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	father = caribe_castillo_lucas_1
+	mother = caribe_riso_laura_1
+
+	trait = education_stewardship_4
+	trait = cynical
+	trait = gregarious
+	trait = compassionate
+
+	2577.12.25 = {
+		birth = yes
+	}
+	2600.1.1 = {
+		add_spouse = caribe_paulo_helen_1
+	}
+}
+caribe_paulo_helen_1 = {
+	name = "Helen"
+	dynasty = dynn_caribe_paulo
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	2570.4.14 = {
+		birth = yes
+	}
+}
+caribe_castillo_hector_1 = {
+	name = "Hector"
+	dynasty = dynn_caribe_castillo
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	father = caribe_castillo_peter_1
+	mother = caribe_paulo_helen_1
+
+	trait = education_martial_4
+	trait = cynical
+	trait = just
+	trait = brave
+	trait = unyielding_defender
+
+	2636.8.21 = {
+		birth = yes
+	}
+}
+caribe_castillo_alexander_1 = {
+	name = "Alexander"
+	dynasty = dynn_caribe_castillo
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	father = caribe_castillo_peter_1
+	mother = caribe_paulo_helen_1
+
+	trait = education_intrigue_2
+	trait = lustful
+	trait = craven
+	trait = humble
+	trait = beauty_good_2
+
+	2642.2.14 = {
+		birth = yes
+	}
+	2666.1.2 = {
+		add_spouse = caribe_ledan_elizabeth_1
+	}
+}
+caribe_castillo_cassandra_1 = {
+	name = "Cassandra"
+	dynasty = dynn_caribe_castillo
+	female = yes
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = springsearcher
+
+	father = caribe_castillo_peter_1
+	mother = caribe_paulo_helen_1
+
+	trait = education_stewardship_2
+	trait = trusting
+	trait = lustful
+	trait = zealous
+	trait = possessed_1
+	trait = depressed_1
+
+	2649.7.13 = {
+		birth = yes
+	}
+}
+caribe_venus_michael_1 = {
+	name = "Michael"
+	dynasty = dynn_caribe_venus
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = insular_caribbean
+
+	2615.4.28 = {
+		birth = yes
+	}
+}
+caribe_venus_armando_1 = {
+	name = "Armando"
+	dynasty = dynn_caribe_venus
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = shriner
+
+	father = caribe_venus_michael_1
+
+	trait = education_learning_2
+	trait = zealous
+	trait = brave
+	trait = ambitious
+	trait = lifestyle_mystic
+
+	2639.12.14 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		effect = {
+			set_relation_best_friend = character:caribe_castillo_hector_1
+			# set_relation_friend = character:caribe_nelson_ali_1
+		}
+	}
+}
+caribe_gaspar_jose_1 = {
+	name = "Jos_e_act_"
+	dna = dna_caribe_gaspar_jose_1
+	dynasty = dynn_caribe_gaspar
+	female = no
+	disallow_random_traits = no
+
+	culture = mayami
+	religion = brethren
+
+	trait = brave
+	trait = sadistic
+	trait = ambitious
+
+	trait = adventurer
+	trait = lifestyle_blademaster
+	trait = scarred
+	trait = one_eyed
+	trait = education_martial_3
+
+	2628.10.10 ={
+		birth = yes
+	}
+	2656.5.13 = {
+		add_pressed_claim = title:d_suncoast
+		vassal_contract_set_obligation_level = {
+			type = religious_rights
+			level = religious_rights_protected
+		}
+		vassal_contract_set_obligation_level = {
+			type = title_revocation_rights
+			level = title_revocation_rights_protected
+		}
+		vassal_contract_set_obligation_level = {
+			type = feudal_government_levies
+			level = 3
+		}
+		effect = {
+			set_relation_rival = character:caribe_nelson_ali_1
+		}
+	}
+}

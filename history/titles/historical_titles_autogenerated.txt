@@ -1,0 +1,2569 @@
+﻿k_presidency = {
+	1776.7.4= {
+		holder = gv_washington_george_1
+	}
+	1797.11.4= {
+		holder = gv_john_adams_1
+	}
+	1801.11.4= {
+		holder = gv_thomas_jefferson_1
+	}
+	1805.11.8= {
+		holder = gv_benjamin_franklin_1
+	}
+	1809.11.3= {
+		holder = gv_alexander_hamilton_1
+	}
+	1817.11.2= {
+		holder = gv_james_madison_1
+	}
+	1825.11.2= {
+		holder = gv_andrew_jackson_1
+	}
+	1832.11.3= {
+		holder = gv_davy_crockett_1
+	}
+	1836.3.6= {
+		holder = gv_tippecanoe_tyler_1
+	}
+	1844.7.4= {
+		holder = gv_tom_sawyer_1
+	}
+	1861.7.4= {
+		holder = gv_abraham_lincoln_1
+	}
+	1865.4.15= {
+		holder = gv_ulysses_caesar_grant_1
+	}
+	1881.11.4= {
+		holder = gv_grover_i_cleveland_1
+	}
+	1885.11.2= {
+		holder = gv_grover_ii_cleveland_1
+	}
+	1889.11.8= {
+		holder = gv_teddy_roosevelt_1
+	}
+	1909.11.7= {
+		holder = gv_william_taft_1
+	}
+	1913.11.2= {
+		holder = gv_wilrow_woodson_1
+	}
+	1920.11.6= {
+		holder = gv_jay_gatzby_1
+	}
+	1930.1.1= {
+		holder = gv_herbert_hoover_1
+	}
+	1936.11.2= {
+		holder = gv_franklin_roosevelt_1
+	}
+	1945.4.12= {
+		holder = gv_harry_haberdasher_1
+	}
+	1947.11.5= {
+		holder = gv_clark_kent_1
+	}
+	1953.11.4= {
+		holder = gv_joseph_mccarthy_1
+	}
+	1957.11.8= {
+		holder = gv_ike_eisenhower_1
+	}
+	1961.11.6= {
+		holder = gv_jack_jfk_kennedy_1
+	}
+	1963.11.22= {
+		holder = gv_elby_jumbo_johnson_1
+	}
+	1965.11.6= {
+		holder = gv_martin_luther_king_1
+	}
+	1968.4.4= {
+		holder = gv_dick_nixon_1
+	}
+	1974.11.8= {
+		holder = gv_neil_armstrong_1
+	}
+	1977.11.5= {
+		holder = gv_jimmy_washington_carter_1
+	}
+	1981.11.9= {
+		holder = gv_gipper_reagan_1
+	}
+	2299.4.22= {
+		holder = gv_smithson_bannister_1
+	}
+	2328.10.19= {
+		holder = gv_pitchstone_rushmore_1
+	}
+	2345.9.5= {
+		holder = gv_slaughter_oathson_1
+	}
+	2380.5.29= {
+		holder = gv_avondale_stanislaus_1
+	}
+	 2392.1.20= {
+		holder = gv_whitehall_charming_1
+	}
+	 2425.8.8= {
+		holder = gv_patt_lucius_1
+	}
+	2459.10.14= {
+		holder = gv_martinez_wyatt_1
+	}
+	2474.5.4= {
+		holder = gv_dellarocca_ruthven_1
+	}
+	2475.10.1= {
+		holder = gv_heinisch_bucee_1
+	}
+	2478.6.12= {
+		holder = gv_belmont_apollo_kennedy_1
+	}
+	2484.10.31= {
+		holder = gv_dellarocca_damien_1
+	}
+	2488.2.5= {
+		holder = gv_eldridge_randy_1
+	}
+	2488.10.28= {
+		holder = gv_maverick_austin_1
+	}
+	2520.1.1= {
+		holder = gv_dandridge_foxtrot_1
+	}
+	2534.6.11= {
+		holder = gv_welles_christopher_columbus_1
+	}
+	2539.7.28= {
+		holder = gv_dayringer_johnny_ray_1
+	}
+	2565.12.4= {
+		holder = gv_dandridge_atticus_1
+	}
+	2572.8.29= {
+		holder = gv_avondale_konrad_1
+	}
+	2588.1.22= {
+		holder = gv_odonnell_trial_by_jury_1
+	}
+	2592.2.4= {
+		holder = gv_calvert_respublia_1
+	}
+	2614.4.2= {
+		holder = gv_dandridge_abraham_lincoln_1
+	}
+	2637.9.30= {
+		holder = gv_dellarocca_nico_1
+	}
+	2650.1.21= {
+		holder = gv_ironwrit_franklin_1
+	}
+}
+k_haiti = {
+	1806.1.1= {
+		holder = caribe_dessalines_jacques_1
+	}
+	1819.1.1= {
+		holder = caribe_christophe_henri_1
+	}
+	1859.1.1= {
+		holder = caribe_soulouque_faustin_1
+	}
+	1926.1.1= {
+		holder = caribe_gonave_ti_memenne_1
+	}
+	1929.1.1= {
+		holder = caribe_wirkus_faustin_1
+	}
+	2615.1.1= {
+		holder = caribe_petion_esau_haiti2
+	}
+	2650.1.1= {
+		holder = caribe_petion_toussaint_haiti1
+	}
+}
+d_caudillo_patria_grande = {
+	1819.1.1= {
+		holder = colombia_bolivar_simon_1
+	}
+	1831.1.1= {
+		holder = colombia_santander_francisco_1
+	}
+	1943.1.1= {
+		holder = colombia_gaitan_jorge_1
+	}
+	2364.1.1= {
+		holder = colombia_gaitero_jorge_1
+	}
+	2414.1.1= {
+		holder = colombia_narvaez_juan_1
+	}
+	2439.1.1= {
+		holder = colombia_lobezno_johana_1
+	}
+	2440.1.1= {
+		holder = colombia_lopez_sebastian_1
+	}
+	2563.1.1= {
+		holder = colombia_alvarado_zacarias_alvarado01
+	}
+	2619.1.1= {
+		holder = colombia_alvarado_zacarias_alvarado02
+	}
+	2621.1.1= {
+		holder = colombia_alvarado_zacarias_alvarado03
+	}
+}
+d_macondo = {
+	1982.1.1= {
+		holder = colombia_garcia_gabriel_1
+	}
+	2653.1.1= {
+		holder = colombia_buendia_arcadio_macondo1
+	}
+	2663.1.1= {
+		holder = colombia_barca_amilcar_macondo2
+	}
+}
+k_papal_state = {
+	2158.3.22= {
+		holder = heartland_o_neal_edward_1
+	}
+	2172.7.10= {
+		holder = heartland_lawson_benjamin_1
+	}
+	2175.4.4= {
+		holder = heartland_hayer_rolf_1
+	}
+	2176.9.14= {
+		holder = heartland_reina_alejandro_1
+	}
+	2179.7.21= {
+		holder = heartland_nowak_adam_1
+	}
+	2184.4.10= {
+		holder = heartland_weisz_leslie_1
+	}
+	2185.1.21= {
+		holder = heartland_clair_wharton_1
+	}
+	2187.4.19= {
+		holder = heartland_smith_john_1
+	}
+	2188.1.9= {
+		holder = heartland_none_louis_1
+	}
+	2191.8.18= {
+		holder = heartland_stevens_joseph_1
+	}
+	2193.11.29= {
+		holder = heartland_sonnenschein_wesley_1
+	}
+	2198.5.12= {
+		holder = heartland_pryor_lennox_1
+	}
+	2201.9.28= {
+		holder = heartland_greystone_eli_1
+	}
+	2206.12.24= {
+		holder = heartland_doucette_antoine_1
+	}
+	2211.1.3= {
+		holder = heartland_pope_quincy_1
+	}
+	2217.5.9= {
+		holder = heartland_peregrinus_edward_1
+	}
+	2227.3.21= {
+		holder = heartland_laforge_georges_1
+	}
+	2233.6.7= {
+		holder = heartland_christian_frederick_1
+	}
+	2242.7.15= {
+		holder = heartland_verde_clay_1
+	}
+	2248.1.3= {
+		holder = heartland_ortega_eloy_1
+	}
+	2252.8.19= {
+		holder = heartland_hazelwood_clayton_1
+	}
+	2255.11.6= {
+		holder = heartland_de_palma_daniel_1
+	}
+	2257.4.12= {
+		holder = heartland_ferry_ramsay_1
+	}
+	2260.8.2= {
+		holder = heartland_montour_david_1
+	}
+	2262.12.22= {
+		holder = heartland_carpenter_howard_1
+	}
+	2264.6.25= {
+		holder = heartland_weil_levi_1
+	}
+	2266.9.18= {
+		holder = heartland_hartmann_peter_1
+	}
+	2283.1.17= {
+		holder = heartland_lynch_cole_1
+	}
+	2286.8.3= {
+		holder = heartland_mcgrath_samuel_1
+	}
+	2292.11.14= {
+		holder = heartland_zamora_victor_1
+	}
+	2296.5.2= {
+		holder = heartland_richardson_nestor_1
+	}
+	2296.5.3= {
+		holder = heartland_celestinian_john_1
+	}
+	2303.1.10= {
+		holder = heartland_carlinian_carl_1
+	}
+	2309.3.10= {
+		holder = heartland_celestinian_augustus_1
+	}
+	2314.12.2= {
+		holder = heartland_carlinian_owen_1
+	}
+	2320.1.2= {
+		holder = heartland_littleriver_american_1
+	}
+	2323.10.31= {
+		holder = heartland_stringfellow_leonard_1
+	}
+	2330.6.29= {
+		holder = heartland_robinson_john_1
+	}
+	2334.9.6= {
+		holder = heartland_vaclavik_jack_1
+	}
+	2338.2.19= {
+		holder = heartland_makowski_odysseus_1
+	}
+	2342.12.25= {
+		holder = heartland_finnegan_guglielmo_1
+	}
+	2353.2.27= {
+		holder = heartland_heuser_ciaran_1
+	}
+	2359.7.4= {
+		holder = heartland_fischer_simon_1
+	}
+	2367.7.4= {
+		holder = heartland_lund_olaf_1
+	}
+	2379.8.11= {
+		holder = heartland_genovese_francis_1
+	}
+	2390.4.9= {
+		holder = heartland_chlebowski_david_1
+	}
+	2395.6.27= {
+		holder = heartland_loonsfoot_animikapso_1
+	}
+	2399.6.17= {
+		holder = heartland_attlee_david_1
+	}
+	2401.4.20= {
+		holder = heartland_simmons_roderick_1
+	}
+	2406.8.2= {
+		holder = heartland_martin_roger_1
+	}
+	2416.7.11= {
+		holder = heartland_singleton_virgil_1
+	}
+	2427.6.13= {
+		holder = heartland_stanson_richard_1
+	}
+	2431.10.15= {
+		holder = heartland_celestinian_john_2
+	}
+	2436.2.28= {
+		holder = heartland_roger_thomas_1
+	}
+	2442.1.2= {
+		holder = heartland_madison_david_1
+	}
+	2459.8.12= {
+		holder = heartland_tran_wendel_1
+	}
+	2460.7.11= {
+		holder = heartland_davis_porter_1
+	}
+	2464.12.26= {
+		holder = heartland_nemeth_paul_1
+	}
+	2472.8.13= {
+		holder = heartland_wojcik_geza_1
+	}
+	2474.4.6= {
+		holder = heartland_oneda_mark_1
+	}
+	2482.3.16= {
+		holder = heartland_watts_randell_1
+	}
+	2489.9.24= {
+		holder = heartland_stevens_broderick_1
+	}
+	2495.5.19= {
+		holder = heartland_tallbear_carl_1
+	}
+	2502.3.21= {
+		holder = heartland_alcazar_rafael_1
+	}
+	2504.12.25= {
+		holder = heartland_valds_johannes_1
+	}
+	2507.8.23= {
+		holder = heartland_eshoo_michael_1
+	}
+	2511.3.18= {
+		holder = heartland_brown_nereus_1
+	}
+	2520.8.3= {
+		holder = heartland_koneiczka_jakob_1
+	}
+	2524.4.18= {
+		holder = heartland_rodman_philip_1
+	}
+	2531.6.22= {
+		holder = heartland_gregory_claxton_1
+	}
+	2535.3.4= {
+		holder = heartland_reed_david_1
+	}
+	2533.7.13= {
+		holder = heartland_tomczyk_irving_1
+	}
+	2535.12.13= {
+		holder = heartland_rodman_kenneth_1
+	}
+	2543.2.22= {
+		holder = heartland_lewis_clark_oswald_1
+	}
+	2545.8.24= {
+		holder = heartland_wazowski_michael_1
+	}
+	2548.10.1= {
+		holder = heartland_waldron_eli_1
+	}
+	2549.10.8= {
+		holder = heartland_stricken_evan_1
+	}
+	2561.2.28= {
+		holder = heartland_agasga_gola_1
+	}
+	2565.8.17= {
+		holder = heartland_debryun_maurice_1
+	}
+	2568.6.6= {
+		holder = heartland_tyson_ty_1
+	}
+	2572.7.30= {
+		holder = heartland_carter_wilson_1
+	}
+	2574.3.10= {
+		holder = heartland_blatt_brad_1
+	}
+	2578.1.19= {
+		holder = heartland_fuchs_benedict_1
+	}
+	2581.5.4= {
+		holder = heartland_wise_paul_1
+	}
+	2584.2.23= {
+		holder = heartland_rixon_francis_1
+	}
+	2587.4.4= {
+		holder = heartland_rickett_melchizedeck_1
+	}
+	2593.8.17= {
+		holder = heartland_jane_wayne_1
+	}
+	2596.12.3= {
+		holder = heartland_rye_walker_bill_1
+	}
+	2600.1.1= {
+		holder = heartland_mcronald_frederick_1
+	}
+	2602.9.6= {
+		holder = heartland_waldron_george_1
+	}
+	2610.7.5= {
+		holder = heartland_franks_claude_1
+	}
+	2619.9.9= {
+		holder = heartland_lohman_jack_1
+	}
+	2620.6.29= {
+		holder = heartland_lohman_james_1
+	}
+	2622.10.2= {
+		holder = heartland_lewis_clark_adolphus_1
+	}
+	2626.2.7= {
+		holder = heartland_ramsey_brigham_1
+	}
+	2630.5.18= {
+		holder = heartland_rodman_kenneth_2
+	}
+	2634.11.5= {
+		holder = heartland_waldron_ashton_1
+	}
+	2638.4.13= {
+		holder = heartland_waldron_kirk_1
+	}
+	2635.4.3= {
+		holder = heartland_burntower_basil_1
+	}
+	2638.10.30= {
+		holder = heartland_boyer_robert_1
+	}
+	2643.9.24= {
+		holder = heartland_lewis_clark_stephen_1
+	}
+	2646.8.30= {
+		holder = heartland_waldron_brock_1
+	}
+	2664.3.31= {
+		holder = heartland_muckham_paul_1
+	}
+}
+d_guatemala = {
+	2358.7.8= {
+		holder = centroamerica_vejol_serapio_serapio_vejol
+	}
+	2360.5.1= {
+		holder = centroamerica_montufar_jacobo_jacobo_montufar
+	}
+}
+d_chiapa_baja = {
+	2344.10.20= {
+		holder = centroamerica_ch_akanik_atanasio_atanasio_chakanik
+	}
+	2620.11.3= {
+		holder = centroamerica_ch_akanik_humberto_humberto_chakanik
+	}
+}
+c_quetzaltenango = {
+	2409.11.30= {
+		holder = centroamerica_irtra_roberto_roberto_irtra
+	}
+	2623.2.27= {
+		holder = centroamerica_irtra_lorenzo_lorenzo_irtra
+	}
+}
+k_tierradentro = {
+	2470.1.1= {
+		holder = colombia_araucaima_graciliano_invasorsur1
+	}
+	2500.1.1= {
+		holder = colombia_araucaima_graciliano_invasorsur2
+	}
+	2543.1.1= {
+		holder = colombia_araucaima_graciliano_invasorsur3
+	}
+	2623.1.1= {
+		holder = colombia_araucaima_alvaro_invasorsur4
+	}
+	2645.1.1= {
+		holder = colombia_araucaima_alvaro_invasorsur5
+	}
+	2650.4.18 = {
+        holder = 0
+    }
+}
+e_inca = {
+	2440.1.1= {
+		holder = andes_condorcanqui_tupac_amaru_inca1
+	}
+	2480.1.1= {
+		holder = andes_condorcanqui_tupac_katari_inca2
+	}
+	2540.1.1= {
+		holder = andes_condorcanqui_cura_ocllo_inca3
+	}
+	2550.1.1= {
+		holder = andes_condorcanqui_manco_capac_inca4
+	}
+	2600.1.1= {
+		holder = andes_condorcanqui_tarco_huaman_inca5
+	}
+	2650.1.1= {
+		holder = andes_condorcanqui_pachacutec_inca6
+	}
+	2665.1.1= {
+		holder = andes_condorcanqui_cusi_coyllur_inca7
+	}
+}
+c_barra = {
+	2445.8.1= {
+		holder = brazil_van_derley_jose_gasparino_cotegipe_1
+	}
+}
+k_venezuela = {
+	2570.1.1= {
+		holder = venezuela_leon_santiago_leon1ve
+	}
+	2600.1.1= {
+		holder = venezuela_miranda_sebastian_miranda1ve
+	}
+	2640.1.1= {
+		holder = venezuela_bello_andres_bello1ve
+	}
+}
+k_zulia = {
+	2570.1.1= {
+		holder = colombia_santos_saturno_wayuu1
+	}
+	2600.1.1= {
+		holder = colombia_santos_oneida_wayuu2
+	}
+	2630.1.1= {
+		holder = colombia_santos_oneida_wayuu3
+	}
+	2660.1.1= {
+		holder = colombia_santos_oneida_wayuu4
+	}
+}
+k_sipan = {
+	2548.1.1= {
+		holder = andes_watanabe_victor_watanabe1
+	}
+	2579.1.1= {
+		holder = andes_watanabe_ruperto_watanabe2
+	}
+	2590.1.1= {
+		holder = andes_watanabe_ruperto_watanabe3
+	}
+	2594.1.1= {
+		holder = andes_watanabe_rodrigo_watanabe6
+	}
+	2600.1.1= {
+		holder = andes_watanabe_rosa_watanabe5
+	}
+	2650.1.1= {
+		holder = andes_watanabe_benito_watanabe9
+	}
+}
+k_el_caribe = {
+	2600.1.1= {
+		holder = colombia_alvarado_patricio_alvarado05
+	}
+	2620.1.1= {
+		holder = colombia_alvarado_patricio_alvarado06
+	}
+	2620.11.15 = {
+		holder = 0
+	}
+}
+k_louisiana = {
+	1684.1.1= {
+		holder = miss_king_pharaoh_myth
+	}
+	1718.4.12= {
+		holder = miss_king_louis_myth
+	}
+	1750.1.1= {
+		holder = miss_queen_anna_myth
+	}
+	1762.3.3= {
+		holder = miss_alejandro_oreilly
+	}
+	1800.10.1= {
+		holder = miss_napoleon_bonaparte
+	}
+	1815.4.12= {
+		holder = miss_stanley_facilier
+	}
+	1928.1.1= {
+		holder = miss_huey_long
+	}
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2610.3.27= {
+		holder = miss_creaux_samuel_laking2
+	}
+	2627.8.12= {
+		holder = miss_creaux_hercule_laking3
+	}
+	2652.9.19= {
+		holder = miss_creaux_louis_laking4
+	}
+}
+c_lafayette = {
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2610.3.27= {
+		holder = miss_creaux_samuel_laking2
+	}
+	2627.8.12= {
+		holder = miss_creaux_hercule_laking3
+	}
+	2652.9.19= {
+		holder = miss_creaux_louis_laking4
+	}
+}
+c_st_landry = {
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2610.3.27= {
+		holder = miss_creaux_samuel_laking2
+	}
+	2627.8.12= {
+		holder = miss_creaux_hercule_laking3
+	}
+	2652.9.19= {
+		holder = miss_creaux_louis_laking4
+	}
+}
+c_vermilion = {
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2610.3.27= {
+		holder = miss_creaux_samuel_laking2
+	}
+	2627.8.12= {
+		holder = miss_creaux_hercule_laking3
+	}
+	2652.9.19= {
+		holder = miss_creaux_louis_laking4
+	}
+}
+d_kisatchie = {
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2590.1.1= {
+		holder = miss_bercegeay_napoleon_laduke1
+	}
+	2605.10.11= {
+		holder = miss_bercegeay_corentin_laduke1
+	}
+	2639.9.23= {
+		holder = miss_bercegeay_clovis_laduke1
+	}
+	2658.8.2= {
+		holder = miss_bercegeay_clotaire_laduke1
+	}
+}
+c_natchitoches = {
+	2584.4.12= {
+		holder = miss_creaux_jean_laking1
+	}
+	2590.1.1= {
+		holder = miss_bercegeay_napoleon_laduke1
+	}
+	2605.10.11= {
+		holder = miss_bercegeay_corentin_laduke1
+	}
+	2639.9.23= {
+		holder = miss_bercegeay_clovis_laduke1
+	}
+	2658.8.2= {
+		holder = miss_bercegeay_clotaire_laduke1
+	}
+}
+c_la_salle = {
+	2417.1.1 = {
+		holder = miss_joseph_lewis
+	}
+	2456.9.20 = {
+		holder = miss_otis_lewis
+	}
+	2509.7.4 = {
+		holder = miss_cyrus_lewis
+	}
+	2535.6.20 = {
+		holder = miss_jeremiah_lewis
+	}
+	2551.10.31 = {
+		holder = miss_cormac_lewis
+	}
+	2597.11.6 = {
+		holder = miss_holden_lewis
+	}
+	2602.11.17 = {
+		holder = miss_hachotukni_lewis_1
+	}
+	2624.4.30 = {
+		holder = miss_hlikuklo_lewis
+	}
+	2641.7.22 = {
+		holder = miss_hachotukni_lewis_2
+	}
+	2664.12.23 = {
+		holder = miss_hoshishimataha_lewis
+	}
+}
+d_new_orleans = {
+	2659.1.1 = {
+		holder = miss_bellocq_samuel_1
+	}
+}
+k_omagua = {
+	2599.1.1= {
+		holder = andes_del_aguila_leonor_1
+	}
+	2610.1.1= {
+		holder = andes_del_aguila_pantaleon_1
+	}
+	2639.1.1= {
+		holder = andes_del_aguila_porfirio_1
+	}
+	2658.1.1= {
+		holder = andes_del_aguila_leonor_2
+	}
+}
+d_gran_caracas = {
+	2615.1.1= {
+		holder = venezuela_leon_santiago_leon2ve
+	}
+	2655.1.1= {
+		holder = venezuela_leon_santiago_leon3ve
+	}
+}
+k_panama = {
+	2618.1.1= {
+		holder = colombia_alvarado_miro_bendicion_alvarado08
+	}
+	2640.1.1= {
+		holder = colombia_alvarado_miro_zacarias_alvarado09
+	}
+	2663.1.1= {
+		holder = colombia_alvarado_miro_bendicion_alvarado10
+	}
+	2665.1.1= {
+		holder = colombia_alvarado_miro_zacarias_alvarado11
+	}
+}
+
+k_los_llanos = {
+	2618.1.1= {
+		holder = venezuela_parra_vicente_llanoking1
+	}
+	2618.12.13 = {
+		holder = 0
+    }
+}
+
+k_cuba = {
+	2620.1.1= {
+		holder = caribe_buenavista_maximo_cubaking1
+	}
+	2648.1.1= {
+		holder = caribe_buenavista_maximo_cubaking2
+	}
+	2648.5.8 = {
+        holder = 0
+    }
+}
+c_sisimiut = {
+	2595.1.1= {
+		holder = arctic_anguupisen_norsaq_1
+	}
+	2622.1.1= {
+		holder = arctic_anguupisen_mikile_norsaqsen
+	}
+}
+d_shenandoah = {
+	2623.1.1= {
+		holder = gv_eldridge_rhett_r1
+	}
+	2654.1.1= {
+		holder = gv_eldridge_rhett_r2
+	}
+	2654.1.1= {
+		holder = gv_eldridge_rhett_r3
+	}
+}
+k_greenland = {
+	2601.1.1= {
+		holder = arctic_qarsoq_nukaka_1
+	}
+	2630.1.1= {
+		holder = arctic_qarsoq_nivineq_1
+	}
+	2661.1.1= {
+		holder = arctic_qarsoq_agsile_nivineqsen
+	}
+}
+d_pichincha = {
+	2630.1.1= {
+		holder = colombia_feijoo_alfonso_ecuquito1
+	}
+	2651.1.1= {
+		holder = colombia_feijoo_marcelo_ecuquito2
+	}
+}
+
+k_the_falklands = {
+	2626.3.5 = {
+		holder = patagonia_cockwell_margaret_1
+	}
+	2632.2.22 = {
+		holder = patagonia_cockwell_charles_1
+	}
+	2641.11.6 = {
+        holder = 0
+    }
+}
+c_stormont_glengarry = {
+	2632.1.1= {
+		holder = canada_macdonell_fletcher_macdonellgramp
+	}
+	2663.1.1= {
+		holder = canada_macdonell_john_macdonelldad
+	}
+	2663.1.1= {
+		holder = canada_macdonell_grace_1
+	}
+}
+d_avannaata = {
+	2632.1.1= {
+		holder = arctic_enoksen_enok_1
+	}
+	2632.1.1= {
+		holder = arctic_enoksen_nakataq_1
+	}
+	2648.1.1= {
+		holder = arctic_enoksen_lutse_1
+	}
+	2662.1.1= {
+		holder = arctic_enoksen_aakooq_1
+	}
+}
+c_paamiut = {
+	2630.1.1= {
+		holder = arctic_mikkiki_haansi_elder1
+	}
+	2636.1.1= {
+		holder = arctic_mikkiki_ikkaq_haansisen
+	}
+}
+d_lara = {
+	2639.1.1= {
+		holder = venezuela_miranda_isabel_miranda25ve
+	}
+}
+d_puerto_rico = {
+	2640.1.1= {
+		holder = caribe_ayala_ramon_boricua1
+	}
+	2660.1.1= {
+		holder = caribe_ayala_luis_boricua2
+	}
+	2660.1.1= {
+		holder = caribe_ayala_camilo_1
+	}
+}
+d_rideau = {
+	2641.1.1= {
+		holder = canada_vanier_eric_ottawagrandad
+	}
+	2659.1.1= {
+		holder = canada_vanier_lester_ottawadad
+	}
+}
+d_nova_rutenia = {
+	2641.1.1= {
+		holder = brazil_swiat_teresa_teresa_s
+	}
+}
+c_qaqortoq = {
+	2630.1.1= {
+		holder = arctic_eeriksen_eerik_1
+	}
+	2645.1.1= {
+		holder = arctic_eeriksen_nanoq_eeriksen
+	}
+}
+d_boyaca = {
+	2645.1.1= {
+		holder = colombia_nasar_ibrahim_nasar1
+	}
+	2656.1.1= {
+		holder = colombia_nasar_santiago_nasar2
+	}
+}
+c_el_pao = {
+	2646.1.1= {
+		holder = venezuela_ayram_griselda_ayram1
+	}
+}
+d_avalon = {
+	2649.1.1= {
+		holder = canada_power_gordon_faydad
+	}
+	2649.1.1= {
+		holder = canada_power_morgan_fay1
+	}
+}
+c_arauca = {
+	2650.1.1= {
+		holder = venezuela_paez_josefina_paezve1
+	}
+}
+k_antioquia = {
+	2640.1.1= {
+		holder = colombia_issacs_jorge_issacs1
+	}
+	2650.3.2 = {
+		holder = 0
+	}
+}
+d_sucre = {
+	2650.1.1= {
+		holder = venezuela_rodriguez_jose_pumave1
+	}
+}
+c_upernavik = {
+	2632.1.1= {
+		holder = arctic_ukaleqsen_ukaleq_1
+	}
+	2651.1.1= {
+		holder = arctic_ukaleqsen_tupeq_ukaleqsen
+	}
+}
+c_seneca = {
+	2654.1.1= {
+		holder = noreast_harrington_zeus_harrington1
+	}
+	2654.1.1= {
+		holder = noreast_harrington_stephanus_1
+	}
+}
+d_azuay = {
+	2655.1.1= {
+		holder = colombia_veintimilla_mercedes_ven1
+	}
+}
+d_jamaica = {
+	2656.1.1= {
+		holder = caribe_seacole_philip_jamaica1
+	}
+	2656.10.21 = {
+        holder = 0
+    }
+}
+k_mato_grosso = {
+	2658.1.1= {
+		holder = brazil_pena_branca_luciano_1
+	}
+}
+c_qaanaaq = {
+	2620.1.1= {
+		holder = arctic_thule_nikkulaat_nikkulaat
+	}
+	2658.1.1= {
+		holder = arctic_thule_luuvi_luuvi
+	}
+}
+k_superior = {
+	2659.1.1= {
+		holder = great_lakes_soady_albert_bigbadsoady
+	}
+}
+d_cochabamba = {
+	2660.1.1= {
+		holder = andes_wilstermann_walter_cocha1
+	}
+}
+d_meta = {
+	2660.1.1= {
+		holder = venezuela_cova_arturo_cova1
+	}
+}
+c_chimbote = {
+	2660.1.1= {
+		holder = andes_durand_yolanda_durand1
+	}
+}
+k_great_coast = {
+	2660.1.1= {
+		holder = cascadia_tlgunghung_skilhlang_haida_ancestor
+	}
+}
+d_aguas = {
+	2660.1.1= {
+		holder = colombia_aguilar_julieta_aguaszulia1
+	}
+}
+c_kangiqliniq = {
+	2629.1.1= {
+		holder = arctic_takatak_yakone_av1
+	}
+	2660.1.1= {
+		holder = arctic_takatak_tonraq_av2
+	}
+}
+k_magnolia = {
+	2578.12.18= {
+		holder = miss_rocksley_steve_magnolia
+	}
+	2619.3.30= {
+		holder = miss_rocksley_jebediah_magnolia
+	}
+	2643.5.6= {
+		holder = miss_rocksley_harry_magnolia
+	}
+}
+d_pine_belt = {
+	2576.1.1= {
+		holder = miss_mcdaniel_daniel_0
+	}
+	2623.1.14= {
+		holder = miss_mcdaniel_atreus_1
+	}
+	2646.6.4= {
+		holder = miss_mcdaniel_daniel_1
+	}
+	2666.7.3= {
+		holder = miss_mcdaniel_menelaus_1
+	}
+}
+c_hattiesburg = {
+	2576.1.1= {
+		holder = miss_mcdaniel_daniel_0
+	}
+	2623.1.14= {
+		holder = miss_mcdaniel_atreus_1
+	}
+	2646.6.4= {
+		holder = miss_mcdaniel_daniel_1
+	}
+	2666.7.3= {
+		holder = miss_mcdaniel_menelaus_1
+	}
+}
+d_north_mississippi = {
+	2597.1.1= {
+		holder = miss_rockford_ricky
+	}
+	2618.1.29= {
+		holder = miss_rockford_elvis
+	}
+	2658.1.19= {
+		holder = miss_rockford_rooney
+	}
+}
+c_tupelo = {
+	2597.1.1= {
+		holder = miss_rockford_ricky
+	}
+	2640.1.19= {
+		holder = miss_rockford_elvis
+	}
+	2658.1.19= {
+		holder = miss_rockford_rooney
+	}
+}
+k_el_pacifico = {
+	2660.1.1= {
+		holder = colombia_goyo_miguel_choco1
+	}
+	2661.11.27 = {
+		holder = 0
+	}
+}
+d_olympus = {
+	2637.6.1= {
+		holder = cascadia_meares_zeke_1
+	}
+	2661.5.7= {
+		holder = cascadia_meares_adina_1
+	}
+}
+c_barcelona = {
+	2661.1.1= {
+		holder = venezuela_suarez_jeffren_jeffren1
+	}
+}
+c_kennebeck = {
+	2661.1.1= {
+		holder = noreast_gagnon_matteo_gangond
+	}
+}
+d_delaware_valley = {
+	2663.1.1= {
+		holder = noreast_savior_franklin_phillycontestdad
+	}
+}
+d_galapagos = {
+	2664.1.1= {
+		holder = colombia_astilla_yovani_galapago1
+	}
+	2664.3.2 = {
+        holder = 0
+    }
+}
+c_nanortalik = {
+	2653.1.1= {
+		holder = arctic_rasmussen_stormi_rasmussen
+	}
+	2664.1.1= {
+		holder = arctic_rasmussen_aaliksi_stormisen1
+	}
+}
+c_hastings = {
+	2665.1.1= {
+		holder = canada_thorburn_rose_grandmarose
+	}
+	2665.1.1= {
+		holder = canada_thorburn_blake_blakethorburn
+	}
+}
+c_jefferson = {
+	2665.1.1= {
+		holder = noreast_granger_adam_grangerdad
+	}
+	2665.1.1= {
+		holder = noreast_granger_bethany_1
+	}
+}
+c_poplar_bluff = {
+	2661.1.1= {
+		holder = miss_plumbum_priscilla_priscilla_plumbum
+	}
+}
+c_texas = {
+	2661.1.1= {
+		holder = miss_plumbum_porter_porter_plumbum
+	}
+}
+c_winona = {
+	2652.1.1= {
+		holder = miss_plumbum_pearl_pearl_plumbum
+	}
+}
+c_eufaula = {
+	2638.1.1= {
+		holder = miss_pissachubi_kent_kent_pissachubi
+	}
+}
+c_baxter = {
+	2646.1.1= {
+		holder = miss_gilliland_antrim_antrim_gilliland
+	}
+}
+c_kiamichi = {
+	2659.1.1= {
+		holder = miss_oklahombi_wesley_wesley_oklahombi
+	}
+}
+c_st_francis = {
+	2657.1.1= {
+		holder = miss_slayinghand_yvonne_yvonne_slayinghand
+	}
+}
+c_west_memphis = {
+	2657.1.1= {
+		holder = miss_marion_raleigh_raleigh_marion
+	}
+}
+c_crowleys_ridge = {
+	2657.1.1= {
+		holder = miss_burntower_philius_philius_burntower
+	}
+}
+c_stuttgart = {
+	2660.1.1= {
+		holder = miss_yoder_alf_alf_yoder
+	}
+}
+c_russellville = {
+	2660.1.1= {
+		holder = miss_digger_johnny_johnny_digger
+	}
+}
+c_pine_bluff = {
+	2656.1.1= {
+		holder = miss_dollarway_corbin_corbin_dollarway
+	}
+}
+c_the_arbuckles = {
+	2665.1.1= {
+		holder = miss_goodnight_kowishto_.kowishto_goodnight
+	}
+}
+c_choctawhatchee = {
+	2659.1.1= {
+		holder = hcc_pelecand_jubilard_1
+	}
+}
+c_sea_islands = {
+	2665.1.1= {
+		holder = hcc_bohicket_omar_1
+	}
+}
+c_steinhatchee = {
+	2660.1.1= {
+		holder = hcc_hardee_kerfoot_1
+	}
+}
+c_rowan = {
+	2666.1.1= {
+		holder = hcc_gaunt_lawrence_1
+	}
+}
+c_piedmont_triad = {
+	2662.1.1= {
+		holder = hcc_oakheart_walter_1
+	}
+}
+c_wake = {
+	2658.1.1= {
+		holder = hcc_knox_orville_knoxm
+	}
+}
+c_aiken = {
+	2660.1.1= {
+		holder = hcc_paris_leah_1
+	}
+}
+c_uwharrie = {
+	2654.1.1= {
+		holder = hcc_sturdivant_augustus_1
+	}
+}
+c_oconee = {
+	2656.1.1= {
+		holder = hcc_hollywell_seth_1
+	}
+}
+c_athens = {
+	2663.1.1= {
+		holder = hcc_arguelles_suro_noah_1
+	}
+}
+c_yadkin = {
+	2649.1.1= {
+		holder = hcc_sutton_pulley_webster_lee_1
+	}
+}
+c_cartersville = {
+	2660.1.1= {
+		holder = hcc_musser_michael_1
+	}
+}
+#c_ohopee = {
+#	2655.1.1= {
+#		holder = hcc_mccook_elrod_1
+#	}
+#}
+c_salkehatchie = {
+	2658.1.1= {
+		holder = hcc_wildboar_quentin_1
+	}
+}
+c_edisto = {
+	2653.1.1= {
+		holder = hcc_mcgruder_dexter_1
+	}
+}
+c_congaree = {
+	2659.1.1= {
+		holder = hcc_moye_jamarion_1
+	}
+}
+c_waxhaws = {
+	2662.1.1= {
+		holder = hcc_kincaid_silas_1
+	}
+}
+c_saluda = {
+	2660.4.10= {
+		holder = hcc_littlepage_clarence_1
+	}
+}
+c_pee_dee = {
+	2653.1.1= {
+		holder = hcc_littlepage_wade_1
+	}
+}
+c_santee = {
+	2657.1.1= {
+		holder = hcc_royall_orpheus_1
+	}
+}
+c_winston = {
+	2649.1.1= {
+		holder = hcc_cherryholmes_fox_1
+	}
+}
+c_carroll = {
+	2663.1.1= {
+		holder = hcc_carroll_laura_1
+	}
+}
+c_early = {
+	2666.1.1= {
+		holder = hcc_mcgriff_isaiah_1
+	}
+}
+c_montgomery = {
+	2643.1.1= {
+		holder = hcc_pike_haywood_1
+	}
+}
+c_dothan = {
+	2625.1.1= {
+		holder = hcc_somers_henry_1
+	}
+}
+c_conecuh = {
+	2635.1.1= {
+		holder = hcc_treadwell_winston_1
+	}
+}
+c_trujillo = {
+	2669.9.11= {
+		holder = centroamerica_thomas_barbara_1
+	}
+}
+c_puerto_lempira = {
+	2669.9.10= {
+		holder = centroamerica_ereba_sara_1
+	}
+}
+c_butler = {
+	2666.1.1= {
+		holder = hcc_pritchett_antipas_1
+	}
+}
+c_talladega = {
+	2631.1.1= {
+		holder = hcc_none_ricky_1
+	}
+}
+c_rome = {
+	2653.1.1= {
+		holder = hcc_berry_rowan_1
+	}
+}
+c_thomasville = {
+	2648.1.1= {
+		holder = hcc_pritchett_wilbur_1
+	}
+}
+#c_shreveport = {
+#	2656.1.1= {
+#		holder = miss_sharp_polly_pollysharp
+#	}
+#}
+c_macon = {
+	2650.1.1= {
+		holder = hcc_nettles_everett_1
+	}
+}
+c_st_marys = {
+	2666.1.1= {
+		holder = hcc_habersham_oxford_1
+	}
+}
+c_appalachicola = {
+	2655.1.1= {
+		holder = hcc_ellis_buford_1
+	}
+}
+c_suwanee = {
+	2658.1.1= {
+		holder = hcc_cockrell_colquitt_1
+	}
+}
+c_sabine = {
+	2663.1.1= {
+		holder = miss_pointdexter_orville_1
+	}
+}
+c_croatan = {
+	2654.1.1= {
+		holder = hcc_archer_john_1
+	}
+}
+c_hertford = {
+	2666.1.1= {
+		holder = hcc_rowan_robert_1
+	}
+}
+c_albemarle = {
+	2649.1.1= {
+		holder = hcc_quarles_porter_1
+	}
+}
+c_dougherty = {
+	2644.1.1= {
+		holder = hcc_mcbroom_deforest_1
+	}
+}
+c_lenoir = {
+	2661.1.1= {
+		holder = hcc_blackwine_wayne_1
+	}
+}
+c_chontales = {
+	2640.4.4= {
+		holder = centroamerica_sobalvarro_zulema_1
+	}
+}
+c_lane = {
+	2645.3.17= {
+		holder = cascadia_verter_matt_1
+	}
+}
+
+c_cowlitz = {
+	2658.11.10= {
+		holder = cascadia_freeland_marissa_1
+	}
+}
+c_rainier = {
+	2665.3.14= {
+		holder = cascadia_arnolt_robert_1
+	}
+}
+c_clallam = {
+	2664.3.18= {
+		holder = cascadia_daka_naana_1
+	}
+}
+c_lower_skagit = {
+	2660.6.14= {
+		holder = cascadia_nahanee_kitsap_1
+	}
+}
+c_coos = {
+	2664.12.24= {
+		holder = cascadia_whitetail_carissa_1
+	}
+}
+#c_grays_harbour = {
+#	2660.4.6= {
+#		holder = cascadia_freeland_curtis_1
+#	}
+#}
+c_bend = {
+	2599.7.15= {
+		holder = cascadia_buster_jacob_1
+	}
+}
+c_wynoochee = {
+	2658.8.3= {
+		holder = cascadia_quinault_jewels_1
+	}
+}
+c_clark = {
+	2660.11.23= {
+		holder = cascadia_couve_arwen_1
+	}
+}
+c_mckenzie = {
+	2666.2.4= {
+		holder = cascadia_crow_olivia_1
+	}
+}
+#c_frazier = {
+#	2649.3.6= {
+#		holder = cascadia_elmwood_antonio_1
+#	}
+#}
+c_clackamas = {
+	2661.12.12= {
+		holder = cascadia_lebedev_olga_1
+	}
+}
+c_pend_oreille = {
+	2656.4.23= {
+		holder = cascadia_truman_dougie_1
+	}
+}
+c_quimper = {
+	2653.7.18= {
+		holder = cascadia_ortega_lee_1
+	}
+}
+c_antofagasta = {
+	2634.1.1= {
+		holder = chile_araya_osvaldo_1
+	}
+}
+c_santiago = {
+	2640.1.1= {
+		holder = chile_tapia_jose_1
+	}
+}
+c_grant = {
+	2666.1.30= {
+		holder = cascadia_irrigador_paul_1
+	}
+}
+c_calama = {
+	2652.1.1= {
+		holder = chile_cayente_radomiro_1
+	}
+}
+c_tocopilla = {
+	2663.1.1= {
+		holder = chile_sanchez_ascanio_1
+	}
+}
+c_umatilla = {
+	2664.4.23= {
+		holder = cascadia_courtwright_hog_1
+	}
+}
+c_warner = {
+	2651.8.13= {
+		holder = cascadia_albers_lawrence_1
+	}
+}
+c_klamath_falls = {
+	2661.1.23= {
+		holder = cascadia_claypool_ceeweez_1
+	}
+}
+c_outback = {
+	2666.8.13= {
+		holder = cascadia_dollarhide_fritz_1
+	}
+}
+c_walla_walla = {
+	2656.4.1= {
+		holder = cascadia_barton_clarkand_1
+	}
+}
+c_muskogee = {
+	2659.1.1= {
+		holder = miss_harjo_isparhecher_isparhecher_harjo
+	}
+}
+c_potomac_highlands = {
+	2662.1.1= {
+		holder = gv_baskerville_hilton_1
+	}
+}
+c_thurlow = {
+	2651.1.1= {
+		holder = canada_mowat_angus_1
+	}
+}
+c_ganaraska = {
+	2651.1.1= {
+		holder = canada_mowat_harold_1
+	}
+}
+c_escanaba = {
+	2659.12.25= {
+		holder = great_lakes_soady_reuben_soadyheir
+	}
+}
+#c_schefferville = {
+#	2665.1.1= {
+#		holder = arctic_bellefleur_ruby_1
+#	}
+#}
+c_alexis = {
+	2664.1.1= {
+		holder = arctic_rich_chwan_1
+	}
+}
+c_hopedale = {
+	2646.1.1= {
+		holder = arctic_nakoolak_emma_1
+	}
+}
+#c_aupaluk = {
+#	2659.1.1= {
+#		holder = arctic_teevee_mishak_1
+#	}
+#}
+#c_olinda = {
+#	2600.2.7= {
+#		holder = brazil_coelho_daniel_jose_daniel_coelho2
+#	}
+#}
+c_kangiqsujuaq = {
+	2659.1.1= {
+		holder = arctic_nuvalinga_allakariallak_1
+	}
+}
+c_yankton = {
+	2653.1.1= {
+		holder = thunder_eagle_bone_sue_1
+	}
+}
+c_banff = {
+	2656.1.1= {
+		holder = thunder_crawler_corrine_1
+	}
+}
+#c_great_falls = {
+#	2666.1.1= {
+#		holder = thunder_vigil_custer_1
+#	}
+#}
+c_gravelbourg = {
+	2656.1.1= {
+		holder = thunder_o_watch_toktenaga_1
+	}
+}
+c_turtle_mountain = {
+	2649.1.1= {
+		holder = thunder_vandal_david_1
+	}
+}
+c_minot = {
+	2656.1.1= {
+		holder = thunder_thornton_ryder_1
+	}
+}
+c_marquette = {
+	2659.12.25= {
+		holder = great_lakes_soady_remnar_soadyheir2
+	}
+}
+c_salluit = {
+	2659.1.1= {
+		holder = arctic_kotierk_kumaglak_1
+	}
+}
+c_labrador_west = {
+	2653.1.1= {
+		holder = arctic_tshakapesh_emish_1
+	}
+}
+c_crow_wing = {
+	2631.1.1= {
+		holder = thunder_swanson_swan_1
+	}
+}
+c_shakopee = {
+	2643.1.1= {
+		holder = thunder_abdinoor_faysal_1
+	}
+}
+c_sullivan = {
+	2599.1.1= {
+		holder = noreast_hammerstein_lazar_hammer1
+	}
+}
+c_gasconade = {
+	2648.1.1= {
+		holder = miss_bertelsmeyer_fulton_fulton_bertelsmeyer
+	}
+}
+c_deline = {
+	2663.1.1= {
+		holder = arctic_betsidea_charles_1
+	}
+}
+c_fort_good_hope = {
+	2648.1.1= {
+		holder = arctic_baton_wanda_1
+	}
+}
+#c_puvirnituq = {
+#	2649.1.1= {
+#		holder = arctic_irngaut_oopik_1
+#	}
+#}
+c_alexandria = {
+	2645.1.1= {
+		holder = thunder_rasmussen_rune_1
+	}
+}
+c_tulita = {
+	2654.1.1= {
+		holder = arctic_modeste_jim_1
+	}
+}
+c_dix = {
+	2654.1.1= {
+		holder = gv_barnes_winslow_1
+	}
+}
+c_kenton = {
+	2657.1.1= {
+		holder = gv_pendergrast_davenport_1
+	}
+}
+c_winchester = {
+	2648.1.1= {
+		holder = gv_winchester_john_supdad
+	}
+}
+c_transylvania = {
+	2659.1.1= {
+		holder = gv_seraphim_elhanon_1
+	}
+}
+c_pike = {
+	2665.1.1= {
+		holder = gv_galbraith_clayton_1
+	}
+}
+c_kanawha = {
+	2666.1.1= {
+		holder = gv_watson_rymer_1
+	}
+}
+
+c_greenbrier = {
+	2656.1.1= {
+		holder = gv_murdogh_kermit_1
+	}
+}
+c_monongalia = {
+	2663.1.1= {
+		holder = gv_earle_rosie_1
+	}
+}
+c_roanoke = {
+	2654.1.1= {
+		holder = gv_fairfax_shadrack_1
+	}
+}
+#c_yougiogheny = {
+#	2657.1.1= {
+#		holder = gv_dooley_zebulon_1
+#	}
+#}
+c_tygart = {
+	2660.1.1= {
+		holder = gv_worthington_abraham_1
+	}
+}
+c_fairfax = {
+	2656.1.1= {
+		holder = gv_carter_samuel_1
+	}
+}
+c_fredericksburg = {
+	2564.1.1= {
+		holder = gv_ashington_publicola_1
+	}
+}
+#c_newport_news = {
+#	2656.1.1= {
+#		holder = gv_alewife_cornelius_1
+#	}
+#}
+c_wight = {
+	2634.1.1= {
+		holder = gv_beverly_harlan_1
+	}
+}
+c_huntsville = {
+	2651.1.1= {
+		holder = gv_redstone_alton_1
+	}
+}
+c_gauley = {
+	2666.1.1= {
+		holder = gv_crowley_bev_1
+	}
+}
+c_chattanooga = {
+	2657.1.1= {
+		holder = gv_reek_preston_1
+	}
+}
+c_barren = {
+	2659.1.1= {
+		holder = gv_baron_kimber_baronmom
+	}
+}
+c_tullahoma = {
+	2645.1.1= {
+		holder = gv_coffee_deckard_1
+	}
+}
+c_st_cloud = {
+	2658.1.1= {
+		holder = thunder_vang_helga_1
+	}
+}
+c_memphis = {
+	2659.1.1= {
+		holder = gv_cain_lamar_1
+	}
+}
+c_the_purchase = {
+	2664.1.1= {
+		holder = gv_asriel_aramis_1
+	}
+}
+c_owensboro = {
+	2649.1.1= {
+		holder = gv_flatt_randall_1
+	}
+}
+c_behchoko = {
+	2665.1.1= {
+		holder = arctic_football_joe_1
+	}
+}
+c_lutselke = {
+	2648.1.1= {
+		holder = arctic_tsannie_wanda_1
+	}
+}
+c_teresina = {
+	2665.11.1= {
+		holder = brazil_jenipapo_miguel_miguel_jenipapo
+	}
+}
+c_ittoqqortoormiit = {
+	2660.1.1= {
+		holder = arctic_lynge_ussarkak_1
+	}
+}
+c_dillingham = {
+	2638.1.1= {
+		holder = arctic_pingayak_felix_1
+	}
+}
+c_unalakleet = {
+	2649.1.1= {
+		holder = arctic_tunguryak_ticasuk_1
+	}
+}
+c_yellowknife = {
+	2645.1.1= {
+		holder = arctic_nitsiza_eddie_1
+	}
+}
+c_kinngait = {
+	2649.1.1= {
+		holder = arctic_anawak_sarah_1
+	}
+}
+c_uqqummiut = {
+	2666.1.1= {
+		holder = arctic_quassa_oki_1
+	}
+}
+#c_arctic_bay = {
+#	2657.1.1= {
+#		holder = arctic_arlooktoo_eve_1
+#	}
+#}
+c_iglulik = {
+	2657.1.1= {
+		holder = arctic_mikki_scott_igloolik
+	}
+}
+c_salliq = {
+	2660.1.1= {
+		holder = arctic_takatak_unalaq_av3
+	}
+}
+c_arviat = {
+	2641.1.1= {
+		holder = arctic_qulaut_nyla_1
+	}
+}
+c_uqsuqtuuq = {
+	2639.1.1= {
+		holder = arctic_kogvik_apak_1
+	}
+}
+c_netsilik = {
+	2654.1.1= {
+		holder = arctic_qulitalik_oki_1
+	}
+}
+#c_cambridge_bay = {
+#	2666.1.1= {
+#		holder = arctic_paniaq_sauri_1
+#	}
+#}
+#c_prudhoe_bay = {
+#	2663.1.1= {
+#		holder = arctic_opie_hazel_1
+#	}
+#}
+c_aujuittuq = {
+	2654.1.1= {
+		holder = arctic_angilirq_nathan_1
+	}
+}
+c_inuvik = {
+	2651.1.1= {
+		holder = arctic_tippin_yayook_1
+	}
+}
+c_campbell = {
+	2663.1.1= {
+		holder = arctic_scow_saasin_1
+	}
+}
+c_pelly = {
+	2658.1.1= {
+		holder = arctic_pearson_sarah_1
+	}
+}
+c_whitehorse = {
+	2652.1.1= {
+		holder = arctic_godin_aurore_1
+	}
+}
+c_juneau = {
+	2637.1.1= {
+		holder = arctic_brooks_seward_1
+	}
+}
+c_yakutat = {
+	2661.1.1= {
+		holder = arctic_shotridge_vasily_1
+	}
+}
+c_kupreanof = {
+	2656.1.1= {
+		holder = arctic_thlunaut_gavril_1
+	}
+}
+c_klawock = {
+	2641.1.1= {
+		holder = arctic_hotch_anya_1
+	}
+}
+c_klondike = {
+	2660.1.1= {
+		holder = arctic_fraser_rylund_1
+	}
+}
+c_hydaburg = {
+	2660.1.1= {
+		holder = arctic_iihllngas_koya_1
+	}
+}
+c_stikine = {
+	2651.1.1= {
+		holder = arctic_mcintyre_jack_1
+	}
+}
+#c_high_level = {
+#	2662.1.1= {
+#		holder = arctic_betsina_lloyd_1
+#	}
+#}
+c_hay_river = {
+	2662.1.1= {
+		holder = arctic_betsina_dolphus_1
+	}
+}
+c_muncho = {
+	2659.1.1= {
+		holder = arctic_case_harlan_1
+	}
+}
+c_fort_simpson = {
+	2667.1.1= {
+		holder = arctic_toho_herb_1
+	}
+}
+c_fort_providence = {
+	2639.1.1= {
+		holder = arctic_apannah_lloyd_1
+	}
+}
+#c_hay = {
+#	2639.1.1= {
+#		holder = arctic_penikett_annie_1
+#	}
+#}
+c_resolution = {
+	2666.1.1= {
+		holder = arctic_sangris_norman_1
+	}
+}
+c_uranium = {
+	2632.1.1= {
+		holder = arctic_broussie_danny_1
+	}
+}
+c_cassiar = {
+	2660.1.1= {
+		holder = arctic_horwood_dalton_1
+	}
+}
+c_fairbanks = {
+	2639.1.1= {
+		holder = arctic_goldheart_bonanza_1
+	}
+}
+c_fort_yukon = {
+	2663.1.1= {
+		holder = arctic_alexander_ray_1
+	}
+}
+c_chugach = {
+	2647.1.1= {
+		holder = arctic_valldeez_joseph_1
+	}
+}
+c_kenai = {
+	2655.1.1= {
+		holder = arctic_valldeez_gregory_1
+	}
+}
+c_seward = {
+	2628.1.1= {
+		holder = arctic_ringstad_noel_1
+	}
+}
+c_ahtna = {
+	2666.1.1= {
+		holder = arctic_tobin_judy_1
+	}
+}
+c_kuskokwim = {
+	2650.1.1= {
+		holder = arctic_swenson_linus_1
+	}
+}
+c_galena = {
+	2661.1.1= {
+		holder = arctic_joe_lauren_1
+	}
+}
+c_dichinanek = {
+	2662.1.1= {
+		holder = arctic_telida_abraham_1
+	}
+}
+c_huslia = {
+	2653.1.1= {
+		holder = arctic_billy_silas_1
+	}
+}
+c_arctic_gates = {
+	2641.1.1= {
+		holder = arctic_sam_barney_1
+	}
+}
+c_chandalar = {
+	2657.1.1= {
+		holder = arctic_tizya_ruth_1
+	}
+}
+d_brazos = {
+	2650.6.3= {
+		holder = texas_jackson_abel_abel_jackson
+	}
+}
+d_fargo = {
+	2657.1.1= {
+		holder = thunder_lundegaard_geraldine_1
+	}
+}
+d_violet_crown = {
+	2650.6.3= {
+		holder = texas_maverick_allison_allison_maverick
+	}
+}
+d_willamette = {
+	2661.6.21= {
+		holder = cascadia_freeland_anna_1
+	}
+}
+d_palouse = {
+	2659.8.3= {
+		holder = cascadia_morkov_may_1
+	}
+}
+d_colville = {
+	2656.6.20= {
+		holder = cascadia_tonasket_pelka_mulox_1
+	}
+}
+d_tri_cities = {
+	2659.6.1= {
+		holder = cascadia_guerrero_kenne_1
+	}
+}
+d_deschutes = {
+	2662.2.25= {
+		holder = cascadia_greenhorn_richard_1
+	}
+}
+d_yakima = {
+	2664.4.23= {
+		holder = cascadia_taptat_colestah_1
+	}
+}
+d_puget = {
+	2660.1.1= {
+		holder = cascadia_baldwin_jeff_1
+	}
+}
+d_gracias_a_dios = {
+	2665.2.3= {
+		holder = centroamerica_forbes_charlie_1
+	}
+}
+d_san_salvador = {
+	2642.7.4= {
+		holder = centroamerica_siman_efrain_efrain_siman
+	}
+}
+d_north_dakota = {
+	2662.1.1= {
+		holder = thunder_kelsey_harmon_1
+	}
+}
+d_fort_berthold = {
+	2641.1.1= {
+		holder = thunder_first_rider_orin_1
+	}
+}
+d_western_montana = {
+	2661.1.1= {
+		holder = thunder_warner_maddie_1
+	}
+}
+d_portlandia = {
+	2661.6.21= {
+		holder = cascadia_freeland_kaitlin_1
+	}
+}
+d_tillamook = {
+	2635.8.10= {
+		holder = cascadia_freeland_cramer_1
+	}
+}
+d_turner_ward_knob = {
+	2601.1.1= {
+		holder = miss_chronister_zarephath_zarephath_chronister
+	}
+}
+d_gwichin = {
+	2655.1.1= {
+		holder = arctic_charlie_paul_1
+	}
+}
+d_shakwak = {
+	2653.1.1= {
+		holder = arctic_charlie_elias_1
+	}
+}
+d_yukon = {
+	2657.1.1= {
+		holder = arctic_xunaa_yeilgooxu_1
+	}
+}
+d_juneau = {
+	2660.1.1= {
+		holder = arctic_gravel_lara_1
+	}
+}
+d_alexander = {
+	2614.1.1= {
+		holder = arctic_moody_xuut_1
+	}
+}
+d_stikine = {
+	2664.1.1= {
+		holder = arctic_mcintyre_rich_1
+	}
+}
+d_liard = {
+	2662.1.1= {
+		holder = arctic_betsina_edzo_1
+	}
+}
+#d_alaska = {
+#	2649.1.1= {
+#		holder = arctic_valldeez_nikolas_alaskadad
+#	}
+#}
+d_chipewyan = {
+	2658.1.1= {
+		holder = arctic_crowchild_akaitchu_1
+	}
+}
+d_arctic_synod = {
+	2651.1.1= {
+		holder = arctic_james_tsuk_1
+	}
+}
+d_dogrib = {
+	2656.1.1= {
+		holder = arctic_gon_henry_1
+	}
+}
+d_sequoyah = {
+	2638.2.21= {
+		holder = miss_udoda_nunnahitsunega_nunnahitsunega_udoda
+	}
+}
+d_labrador = {
+	2655.1.1= {
+		holder = arctic_mckenzie_becky_1
+	}
+}
+d_iqaluit = {
+	2640.1.1= {
+		holder = arctic_kamookak_jaasin_1
+	}
+}
+d_muskogee = {
+	2661.1.1= {
+		holder = hcc_tate_lindsey_1
+	}
+}
+d_birmingham = {
+	2594.3.16= {
+		holder = hcc_latimer_booker_0
+	}
+	2601.1.2= {
+		holder = hcc_latimer_israel_1
+	}
+	2629.3.4= {
+		holder = hcc_latimer_booker_1
+	}
+	2654.1.1= {
+		holder = hcc_latimer_huey_1
+	}
+}
+d_sowega = {
+	2659.1.1= {
+		holder = hcc_dunwoody_fred_1
+	}
+}
+d_altamaha = {
+	2665.1.1= {
+		holder = hcc_mcgillin_heron_1
+	}
+}
+d_augusta = {
+	2632.1.1= {
+		holder = hcc_robinson_stephanus_1
+	}
+}
+d_savannah = {
+	2644.1.1= {
+		holder = hcc_bailey_althea_1
+	}
+}
+d_lowcountry = {
+	2659.1.1= {
+		holder = hcc_littlepage_algernon_1
+	}
+}
+d_upcountry = {
+	2652.1.1= {
+		holder = hcc_spratt_thomas_1
+	}
+}
+d_cape_fear = {
+	2653.1.1= {
+		holder = hcc_oxendine_gabriel_1
+	}
+}
+#d_the_triangle = {
+#	2652.1.1= {
+#		holder = hcc_eubanks_octavian_1
+#	}
+#}
+d_inner_banks = {
+	2663.1.1= {
+		holder = hcc_josias_anastasia_anastasiajosias
+	}
+}
+d_piedmont_crescent = {
+	2666.1.1= {
+		holder = hcc_litchfield_paxton_1
+	}
+}
+
+#d_tenesi = {
+#	2650.1.1= {
+#		holder = gv_crockoone_ellis_1
+#	}
+#}
+d_new_york = {
+	2665.11.12= {
+		holder = noreast_theovelt_thaddeus_nypatrician
+	}
+}
+d_blue_ridge = {
+	2661.1.1= {
+		holder = gv_biltmore_golden_ashevillem
+	}
+}
+d_southside = {
+	2669.1.1= {
+		holder = gv_pixane_cornelia_1
+	}
+}
+d_clinch = {
+	2654.1.1= {
+		holder = gv_skidmore_ginger_1
+	}
+}
+d_tidewater = {
+	2654.1.1= {
+		holder = gv_merrimack_john_1
+	}
+}
+d_bluegrass = {
+	2653.1.1= {
+		holder = gv_scruggs_josias_1
+	}
+}
+d_kentucky = {
+	2652.1.1= {
+		holder = gv_bullion_henry_bulliondad
+	}
+}
+d_caxias = {
+	2665.10.28= {
+		holder = brazil_lima_jose_francisco_duque_de_caxias2
+	}
+}
+#d_recife = {
+#	2666.1.1= {
+#		holder = brazil_amazonas_henrique_henrique_amazonas
+#	}
+#}
+#d_mossoro = {
+#	2656.4.3= {
+#		holder = brazil_escocia_jeronimo_jeronimoescocia20
+#	}
+#}
+d_montreal = {
+	2642.5.4= {
+		holder = canada_turcot_roland_montreal_duke_dad
+	}
+}
+d_north_ozarks = {
+	2661.1.2= {
+		holder = miss_danvorn_earl_earl_danvorn
+	}
+}
+d_arkansas = {
+	2640.9.10= {
+		holder = miss_blythe_jubal_jubal_blythe
+	}
+}
+k_costa_rica = {
+	2657.5.1= {
+		holder = centroamerica_lizano_dario_dario_lizano
+	}
+}
+k_the_dakotas = {
+	2643.1.1= {
+		holder = thunder_mnikhowozu_thasunke_luta_1
+	}
+}
+
+k_old_dominion = {
+	2653.1.1= {
+		holder = gv_dandridge_james_1
+	}
+}
+k_inupiaq = {
+	2658.1.1= {
+		holder = arctic_norton_nukuutchikik_1
+	}
+}
+k_nunavik = {
+	2654.1.1= {
+		holder = arctic_igiu_karoo_1
+	}
+}
+e_hcc = {
+	2339.12.25= {
+		holder = hcc_royall_leonidas_the_great
+	}
+	2361.1.2= {
+		holder = hcc_royall_king_james
+	}
+	2372.2.11= {
+		holder = hcc_royall_leonidas_ii
+	}
+	2397.5.19= {
+		holder = hcc_royall_leonidas_iii
+	}
+	2410.12.25= {
+		holder = hcc_royall_ulixes_i
+	}
+	2419.3.20= {
+		holder = hcc_yelverton_hunter_i
+	}
+	2428.5.3= {
+		holder = hcc_yelverton_hunter_ii
+	}
+	2462.11.29= {
+		holder = hcc_yelverton_preston
+	}
+	2495.4.4= {
+		holder = hcc_royall_samuel
+	}
+	2503.6.24= {
+		holder = hcc_spratt_baldwin_i
+	}
+	2509.7.4= {
+		holder = hcc_spratt_baldwin_ii
+	}
+	2525.4.16= {
+		holder = hcc_somers_scipio
+	}
+	2533.8.24= {
+		holder = hcc_robinson_conrad
+	}
+	2552.2.9= {
+		holder = hcc_spratt_ulixes_ii
+	}
+	2564.6.23= {
+		holder = hcc_spratt_leonidas_iv
+	}
+	2580.3.9= {
+		holder = hcc_bailey_silvanus
+	}
+	2588.6.16= {
+		holder = hcc_spratt_leonidas_v
+	}
+	2592.9.26= {
+		holder = hcc_dunwoody_clevon_1
+	}
+	2609.3.16= {
+		holder = hcc_spratt_baldwin_iii
+	}
+	2624.12.18= {
+		holder = hcc_spratt_cyrus
+	}
+	2647.6.1= {
+		holder = hcc_dunwoody_clevon_ii
+	}
+	2652.4.29= {
+		holder = hcc_spratt_leonidas_vi
+	}
+	2660.5.21= {
+		holder = hcc_littlepage_agamenticus
+	}
+	2665.11.11= {
+		holder = hcc_gee_julius_1
+	}
+}
+d_monashee = {
+	2601.1.2= {
+		holder = cascadia_vereschagin_peter_2
+	}
+}

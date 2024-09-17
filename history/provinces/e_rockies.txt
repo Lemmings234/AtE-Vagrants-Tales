@@ -1,0 +1,1461 @@
+#e_the_rockies
+#k_utah
+#d_wasatch
+#c_salt_lake
+#b_us_ut_salt_lake_city
+4529 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+	1893.04.06 = {
+		special_building = temple_square
+	}
+}
+#b_us_ut_west_valley_city
+4528 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_west_jordan
+4530 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#b_us_ut_sandy
+9533 = {	#Sandy
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#c_weber
+#b_us_ut_layton
+5586 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_ogden
+5585 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_bountiful
+5584 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#b_us_ut_eden
+9534 = {	#Eden
+	culture = utahn
+	religion = mormon
+	holding = none
+}
+#c_provo
+#b_us_ut_provo
+1398 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+	1875.10.16 = {
+		special_building = generic_university
+	}
+}
+#b_us_ut_spanish_fork
+1396 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_eagle_mountain
+1397 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_summit
+#b_us_ut_park_city
+7798 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_heber_city
+7799 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_morgan
+7797 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#d_us_ut_washington
+#c_st_george
+#b_us_ut_saint_george
+# c_st_george
+8186 = {	#Hurricane
+	culture = utahn
+	religion = woolleyite
+	holding = castle_holding
+}
+8185 = {	#Saint George
+	culture = utahn
+	religion = woolleyite
+	holding = church_holding
+}
+# c_iron
+404 = {	#Cedar City
+	culture = utahn
+	religion = woolleyite
+	holding = castle_holding
+}
+405 = {	#Enterprise
+	culture = utahn
+	religion = woolleyite
+	holding = none
+}
+406 = {	#Parowan
+	culture = utahn
+	religion = woolleyite
+	holding = city_holding
+}
+## c_kane
+9530 = {	#Kanab
+	culture = utahn
+	religion = woolleyite
+	holding = castle_holding
+}
+9531 = {	#Escalante
+	culture = utahn
+	religion = woolleyite
+	holding = church_holding
+}
+9532 = {	#Panguitch
+	culture = utahn
+	religion = woolleyite
+	holding = city_holding
+}
+#c_beaver
+#b_us_ut_beaver
+2500 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_milford
+2501 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#d_us_ut_cache
+#c_cache
+#b_us_ut_logan
+5465 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_preston
+5464 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#c_box_elder
+#b_us_ut_brigham_city
+8342 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_tremonton
+8343 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_howell
+8344 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#d_sevier
+#c_tooele
+#b_us_ut_tooele
+2889 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+	1906.01.01 = {
+		special_building = bingham_mines_01
+	}
+}
+#b_us_ut_dugway
+2887 = {
+	culture = utahn
+	religion = mormon
+	holding = none
+}
+#b_us_ut_vernon
+2888 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_sanpete
+#b_us_ut_ephraim
+4640 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_gunnison
+4639 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_mount_pleasant
+4641 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_sevier
+#b_us_ut_richfield
+5920 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_circleville
+5921 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_koosharem
+5922 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_millard
+#b_us_ut_delta
+1757 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_fillmore
+1756 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#c_juab
+#b_us_ut_nephi
+842 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_levan
+843 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_eureka
+844 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_loa
+#b_us_ut_loa
+6732 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_hanksville
+6731 = {
+	culture = utahn
+	religion = mormon
+	holding = none
+}
+#d_green_river
+#c_green_river
+#b_us_ut_price
+1293 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_east_carbon_city
+1292 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_green_river
+1295 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#b_us_ut_scofield
+1294 = {
+	culture = utahn
+	religion = mormon
+	holding = none
+}
+#c_moab
+#b_us_ut_blanding
+2156 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_moab
+2155 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_spanish_valley
+2157 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_emery
+#b_us_ut_huntington
+1310 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_emery
+1309 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#d_uintah
+#c_uintah
+#b_us_ut_vernal
+3169 = {
+	culture = ute
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_bonanza
+3168 = {
+	culture = ute
+	religion = mormon
+	holding = city_holding
+}
+#c_duchesne
+#b_us_ut_roosevelt
+2878 = {
+	culture = ute
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_ut_duchesne
+2877 = {
+	culture = ute
+	religion = mormon
+	holding = city_holding
+}
+#k_idaho
+#d_treasure_valley
+#c_boise
+#b_us_id_boise
+4549 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_nampa
+4550 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#b_us_id_idaho_city
+4551 = {
+	culture = snakelander
+	religion = interranger
+	holding = church_holding
+}
+#c_ontario
+#b_us_or_ontario
+2552 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_emmett
+2554 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#b_us_id_midvale
+2553 = {
+	culture = snakelander
+	religion = interranger
+	holding = church_holding
+}
+#c_elmore
+#b_us_id_mountain_home
+3614 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_glenns_ferry
+3615 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#b_us_id_twin_springs
+3613 = {
+	culture = snakelander
+	religion = interranger
+	holding = church_holding
+}
+#c_valley
+#b_us_id_mccall
+7138 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_council
+7139 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#b_us_id_horseshoe_bend
+7137 = {
+	culture = snakelander
+	religion = interranger
+	holding = church_holding
+}
+#c_owyhee
+#b_us_id_homedale
+1627 = {
+	culture = snakelander
+	religion = sagestepper
+	holding = tribal_holding
+}
+#b_us_id_triangle
+1626 = {
+	culture = snakelander
+	religion = sagestepper
+	holding = none
+}
+#b_us_nv_williams_cabin
+1628 = {
+	culture = snakelander
+	religion = sagestepper
+	holding = none
+}
+#d_east_snake
+#c_bonneville
+#b_us_id_idaho_falls
+9552 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_rexburg
+9553 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_id_blackfoot
+9554 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#b_us_id_moreland
+9555 = {
+	culture = snakelander
+	religion = mormon
+	holding = none
+}
+#c_twin_falls
+#b_us_id_twin_falls
+5399 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_jerome
+5398 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_id_hailey
+5401 = {
+	culture = snakelander
+	religion = mormon
+	holding = none
+}
+#b_us_id_burley
+5400 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#b_us_id_rupert
+5402 = {
+	culture = snakelander
+	religion = mormon
+	holding = none
+}
+#b_us_id_gooding
+5403 = {
+	culture = snakelander
+	religion = mormon
+	holding = none
+}
+#c_pocatello
+#b_us_id_pocatello
+4927 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_american_falls
+4928 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_id_mccammon
+4929 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#c_craters_of_the_moon
+#b_us_id_aberdeen
+8441 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_arco
+8442 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_id_carey
+8443 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#c_jackpot
+#b_us_nv_jackpot
+8857 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_malta
+8859 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_ut_rosette
+8858 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#d_glacier
+#c_missoula
+#b_us_mt_missoula
+8396 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_hamilton
+8395 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_flathead
+#b_us_mt_kalispell
+9007 = {
+	culture = ktunaxa
+	religion = waashat
+	holding = tribal_holding
+}
+#b_us_mt_polson
+9009 = {
+	culture = ktunaxa
+	religion = waashat
+	holding = none
+}
+#b_us_mt_hungry_horse
+9008 = {
+	culture = ktunaxa
+	religion = waashat
+	holding = none
+}
+#b_us_mt_marion
+9010 = {
+	culture = ktunaxa
+	religion = waashat
+	holding = none
+}
+#c_deer_lodge
+#b_us_mt_deer_lodge
+979 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_seeley_lake
+981 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_philipsburg
+980 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#d_north_idaho
+#c_coeur_d_alene
+#b_us_id_coeur_d_alene
+5836 = {
+	culture = inlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_id_kellogg
+5835 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+	1893.04.06 = {
+		special_building = lucky_friday_mine_01
+	}
+}
+#b_us_id_priest_river
+5834 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#c_kaniksu
+#b_us_id_sandpoint
+4864 = {
+	culture = inlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_thompson_falls
+4862 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#b_us_mt_pioneer_junction
+4863 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#c_moscow
+#b_us_id_saint_maries
+6418 = {
+	culture = inlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_id_pierce
+6419 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#b_us_id_powell_junction
+6420 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#b_us_id_the_cedars
+6421 = {
+	culture = inlander
+	religion = interranger
+	holding = none
+}
+#d_nez_perce
+#c_lewiston
+#b_us_id_lewiston
+5598 = {
+	culture = nez_perce
+	religion = waashat
+	holding = tribal_holding
+}
+#b_us_id_grangeville
+5599 = {
+	culture = nez_perce
+	religion = waashat
+	holding = none
+}
+#b_us_id_elk_city
+5597 = {
+	culture = nez_perce
+	religion = waashat
+	holding = none
+}
+#c_no_return
+#b_us_id_riggins
+3499 = {
+	culture = nez_perce
+	religion = waashat
+	holding = tribal_holding
+}
+#b_us_mt_moosehorn
+3500 = {
+	culture = nez_perce
+	religion = waashat
+	holding = none
+}
+#d_silver_bow
+#c_butte
+#b_us_mt_dillon
+2299 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_butte
+2301 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_big_sky
+2302 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_dell
+2300 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_lemhi
+#b_us_id_salmon
+2927 = {
+	culture = snakelander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_id_mackay
+2929 = {
+	culture = snakelander
+	religion = interranger
+	holding = none
+}
+#b_us_id_leadore
+2928 = {
+	culture = snakelander
+	religion = interranger
+	holding = none
+}
+#b_us_id_patterson
+2930 = {
+	culture = snakelander
+	religion = interranger
+	holding = none
+}
+#c_dubois_us
+#b_us_id_dubois
+791 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_mud_lake
+792 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#k_navajoland
+#d_apacheria
+#c_sandoval
+#b_us_nm_bernalillo
+7260 = {
+	culture = keres
+	religion = atomicist
+	holding = castle_holding
+}
+#b_us_nm_zia
+7259 = {
+	culture = keres
+	religion = atomicist
+	holding = city_holding
+}
+#b_us_nm_jemez
+7261 = {
+	culture = keres
+	religion = atomicist
+	holding = church_holding
+}
+#c_los_alamos
+#b_us_nm_los_alamos
+1154 = {
+	culture = neomexicano
+	religion = atomicist
+	holding = castle_holding
+}
+#b_us_nm_santa_teresa
+1155 = {
+	culture = neomexicano
+	religion = atomicist
+	holding = church_holding
+}
+#c_cibola
+#b_us_nm_grants
+4647 = {
+	culture = keres
+	religion = zetanology
+	holding = castle_holding
+}
+#b_us_nm_laguna
+4646 = {
+	culture = keres
+	religion = zetanology
+	holding = city_holding
+}
+#b_us_nm_alamo
+4645 = {
+	culture = keres
+	religion = zetanology
+	holding = none
+}
+#c_taos
+#b_us_nm_chimayo
+1430 = {
+	culture = neomexicano
+	religion = kanadevan
+	holding = castle_holding
+}
+#b_us_nm_taos
+1432 = {
+	culture = neomexicano
+	religion = kanadevan
+	holding = none
+}
+#b_us_nm_lamadera
+1431 = {
+	culture = neomexicano
+	religion = kanadevan
+	holding = none
+}
+#c_rio_arriba
+#b_us_nm_dulce
+2912 = {
+	culture = apache
+	religion = atomicist
+	holding = castle_holding
+}
+#b_us_nm_cuba
+2913 = {
+	culture = apache
+	religion = atomicist
+	holding = none
+}
+#c_el_malpais
+#b_us_nm_zuni
+3537 = {
+	culture = zuni
+	religion = half_moon
+	holding = castle_holding
+}
+#b_us_nm_black_rock
+3539 = {
+	culture = zuni
+	religion = half_moon
+	holding = church_holding
+}
+#b_us_nm_quemado
+3538 = {
+	culture = zuni
+	religion = half_moon
+	holding = none
+}
+#d_us_nm_san_juan
+#c_shiprock
+#b_us_nm_farmington
+797 = {
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+#b_us_nm_shiprock
+798 = {
+	culture = navajo
+	religion = hozhooji
+	holding = city_holding
+}
+#b_us_nm_sanostee
+799 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#b_us_nm_beclabito
+796 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#c_mckinley
+#b_us_nm_gallup
+4183 = {
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+#b_us_nm_crownpoint
+4181 = {
+	culture = navajo
+	religion = hozhooji
+	holding = city_holding
+}
+#b_us_nm_nageezi
+4182 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#c_four_corners
+#b_us_az_teec_nos_pos
+3166 = {
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+#b_us_az_rock_point
+3165 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#b_us_ut_white_mesa
+3167 = {
+	culture = navajo
+	religion = hozhooji
+	holding = church_holding
+}
+#d_hopi
+#c_show_low
+#b_us_az_show_low
+2644 = {
+	culture = hopi
+	religion = half_moon
+	holding = castle_holding
+}
+#b_us_az_winslow
+2645 = {
+	culture = hopi
+	religion = half_moon
+	holding = none
+}
+#b_us_az_joseph_city
+2647 = {
+	culture = hopi
+	religion = half_moon
+	holding = city_holding
+}
+#b_us_az_sun_valley
+2646 = {
+	culture = hopi
+	religion = half_moon
+	holding = none
+}
+#c_tuba
+#b_us_az_tuba_city
+8311 = {
+	culture = hopi
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_az_first_mesa
+8310 = {
+	culture = hopi
+	religion = mormon
+	holding = none
+}
+#b_us_az_hotevilla_bacavi
+8309 = {
+	culture = hopi
+	religion = mormon
+	holding = none
+}
+#d_navajoland
+### Blessing Way
+# c_window_rock
+2767 = {	#Dilkon
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+2768 = {	#Ganado
+	culture = navajo
+	religion = hozhooji
+	holding = city_holding
+}
+2769 = {	#Fort Defiance
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+2770 = {	#Houck
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#c_powell
+#b_us_az_page
+2826 = {
+	culture = navajo
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_az_vista_encantada
+2827 = {
+	culture = navajo
+	religion = mormon
+	holding = none
+	1893.04.06 = {
+		special_building = vermilion_cliffs
+	}
+}
+#c_canyon_de_chelly
+#b_us_az_chinle
+4526 = {
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+#b_us_az_lukachukai
+4527 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#c_kayenta
+#b_us_az_kayenta
+8030 = {
+	culture = navajo
+	religion = mormon
+	holding = castle_holding
+	1893.04.06 = {
+		special_building = monument_valley
+	}
+}
+#b_us_az_shonto
+8031 = {
+	culture = navajo
+	religion = mormon
+	holding = none
+}
+#c_pinon
+#b_us_az_pinon
+4339 = {
+	culture = navajo
+	religion = hozhooji
+	holding = castle_holding
+}
+#b_us_az_rough_rock
+4338 = {
+	culture = navajo
+	religion = hozhooji
+	holding = none
+}
+#k_great_divide
+#d_western_slope
+#c_mesa
+#b_us_co_grand_junction
+4362 = {
+	culture = coloradan
+	religion = atomicist
+	holding = castle_holding
+}
+#b_us_co_montrose
+4364 = {
+	culture = coloradan
+	religion = atomicist
+	holding = city_holding
+}
+#b_us_co_gunnison
+4363 = {
+	culture = coloradan
+	religion = atomicist
+	holding = church_holding
+}
+#c_pitkin
+#b_us_co_aspen
+8160 = {
+	culture = coloradan
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_co_glenwood_springs
+8158 = {
+	culture = coloradan
+	religion = interranger
+	holding = city_holding
+}
+#b_us_co_salida
+8159 = {
+	culture = coloradan
+	religion = interranger
+	holding = church_holding
+}
+#c_durango
+#b_us_co_durango
+2206 = {
+	culture = ute
+	religion = shangrilaism
+	holding = castle_holding
+}
+#b_us_nm_aztec
+2204 = {
+	culture = ute
+	religion = shangrilaism
+	holding = city_holding
+}
+#b_us_co_bayfield
+2205 = {
+	culture = ute
+	religion = shangrilaism
+	holding = church_holding
+}
+#c_yampa
+#b_us_co_steamboat_springs
+7694 = {
+	culture = coloradan
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_co_craig
+7697 = {
+	culture = coloradan
+	religion = interranger
+	holding = city_holding
+}
+#b_us_co_rangely
+7695 = {
+	culture = coloradan
+	religion = interranger
+	holding = church_holding
+}
+#b_us_co_meeker
+7696 = {
+	culture = coloradan
+	religion = interranger
+	holding = none
+}
+#c_montezuma
+#b_us_co_cortez
+9295 = {
+	culture = ute
+	religion = atomicist
+	holding = castle_holding
+	1000.1.1 = {
+		special_building = 	cliff_palace
+	}
+}
+#b_us_co_towaoc
+9294 = {
+	culture = ute
+	religion = atomicist
+	holding = city_holding
+}
+#c_telluride
+#b_us_co_telluride
+132 = {
+	culture = coloradan
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_co_dove_creek
+131 = {
+	culture = coloradan
+	religion = mormon
+	holding = city_holding
+}
+#d_red_desert
+#c_carbon
+#b_us_wy_rawlins
+1820 = {
+	culture = coloradan
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_wy_saratoga
+1821 = {
+	culture = mountainer
+	religion = interranger
+	holding = city_holding
+}
+#b_us_wy_baggs
+1822 = {
+	culture = mountainer
+	religion = interranger
+	holding = church_holding
+}
+#c_popo_agie
+#b_us_wy_wamsutter
+5048 = {
+	culture = coloradan
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_wy_superior
+5050 = {
+	culture = mountainer
+	religion = interranger
+	holding = city_holding
+}
+#b_us_co_powder_wash
+5049 = {
+	culture = mountainer
+	religion = interranger
+	holding = church_holding
+}
+#d_sweetwater
+#c_sweetwater
+#b_us_wy_rock_springs
+1674 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_wy_green_river
+1675 = {
+	culture = mountainer
+	religion = mormon
+	holding = none
+}
+#b_us_wy_lyman
+1673 = {
+	culture = mountainer
+	religion = mormon
+	holding = none
+}
+#b_us_ut_manila
+1676 = {
+	culture = mountainer
+	religion = mormon
+	holding = none
+}
+#c_bear_lake
+#b_us_wy_evanston
+4813 = {
+	culture = utahn
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_montpelier
+4812 = {
+	culture = utahn
+	religion = mormon
+	holding = city_holding
+}
+#b_us_wy_afton
+4811 = {
+	culture = utahn
+	religion = mormon
+	holding = church_holding
+}
+#c_caribou
+#b_us_id_soda_springs
+8479 = {
+	culture = snakelander
+	religion = mormon
+	holding = castle_holding
+}
+#b_us_id_williamsburg
+8478 = {
+	culture = snakelander
+	religion = mormon
+	holding = city_holding
+}
+#b_us_id_trailton
+8480 = {
+	culture = snakelander
+	religion = mormon
+	holding = church_holding
+}
+#d_beartooth
+#c_shoshone
+#b_us_wy_cody
+6128 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_wy_lovell
+6126 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_red_lodge
+6127 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_wind_river
+#b_us_wy_riverton
+6381 = {
+	culture = arapaho
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_wy_shoshoni
+6383 = {
+	culture = arapaho
+	religion = interranger
+	holding = city_holding
+}
+#b_us_wy_swaim_place
+6382 = {
+	culture = arapaho
+	religion = interranger
+	holding = church_holding
+}
+#c_washakie
+#b_us_wy_worland
+326 = {
+	culture = arapaho
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_wy_thermopolis
+325 = {
+	culture = arapaho
+	religion = interranger
+	holding = none
+}
+#b_us_wy_basin
+324 = {
+	culture = arapaho
+	religion = interranger
+	holding = none
+}
+#d_highland_springs
+#c_teton
+#b_us_wy_jackson
+1399 = {
+	culture = mountainer
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_wy_kelly
+1400 = {
+	culture = mountainer
+	religion = interranger
+	holding = city_holding
+}
+#c_targhee
+#b_us_id_victor
+6838 = {
+	culture = snakelander
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_id_ashton
+6839 = {
+	culture = snakelander
+	religion = interranger
+	holding = city_holding
+}
+#b_us_id_island_park
+6837 = {
+	culture = snakelander
+	religion = interranger
+	holding = church_holding
+}
+#c_sublette
+#b_us_wy_marbleton
+310 = {
+	culture = utahn
+	religion = interranger
+	holding = castle_holding
+}
+#b_us_wy_pinedale
+309 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_wy_atlantic_city
+311 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_yellowstone
+#b_us_mt_gardiner
+4759 = {
+	culture = mountainer
+	religion = holocenian
+	holding = castle_holding
+}
+#b_us_mt_west_yellowstone
+4758 = {
+	culture = mountainer
+	religion = holocenian
+	holding = church_holding
+	1893.04.06 = {
+		special_building = wonder_yellowstone
+	}
+}
+#b_us_mt_cooke_city
+4757 = {
+	culture = mountainer
+	religion = holocenian
+	holding = none
+}

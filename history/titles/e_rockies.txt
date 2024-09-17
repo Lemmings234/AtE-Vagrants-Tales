@@ -1,0 +1,842 @@
+﻿
+#Idaho
+k_idaho = {
+    2633.9.20 = {
+        holder = rockies_tagotoka_tavibo
+        government = range_government
+    }
+}
+
+d_east_snake = {
+    2666.7.4 = {
+        holder = rockies_arrizabala_leeford_1
+		government = range_government
+    }
+}
+c_pocatello = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = rockies_arrizabala_leeford_1
+    }
+}
+c_twin_falls = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = rockies_arrizabala_leeford_1
+    }
+}
+c_jackpot = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_arrizabala_leeford_1
+    }
+}
+c_craters_of_the_moon = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_salutregui_otter_1
+        liege = d_east_snake
+		government = range_government
+    }
+}
+c_bonneville = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = rockies_spud_jean_1
+		government = range_government
+    }
+}
+c_targhee = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_spud_jean_1
+    }
+}
+
+c_dubois_us = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_younger_lebois_1
+	liege = d_silver_bow
+	government = range_government
+    }
+}
+
+d_north_idaho = {
+    2666.7.4 = {
+        holder = rockies_silvermount_osb_1
+    }
+}
+c_coeur_d_alene = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = rockies_silvermount_osb_1
+    }
+}
+c_moscow = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_silvermount_osb_1
+    }
+}
+c_kaniksu = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_silvermount_osb_1
+    }
+}
+c_missoula = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = rockies_tankersly_colter_1
+        liege = d_north_idaho    
+    }
+}
+
+c_flathead = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = rockies_charlo_akam_1
+        liege = d_north_idaho    
+    }
+}
+
+d_nez_perce = {
+    2666.7.4 = {
+        holder = rockies_yatoinu_motsqueh_1
+    }
+}
+
+c_lewiston = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = rockies_yatoinu_motsqueh_1
+    }
+}
+c_no_return = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_yatoinu_motsqueh_1
+    }
+}
+
+d_treasure_valley = {
+    2666.7.4 = {
+        holder = rockies_uberuaga_jack_1
+		government = high_republic_government
+        succession_laws = { populism_elective_succession_law }
+    }
+}
+c_boise = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = rockies_uberuaga_jack_1
+    }
+}
+c_owyhee = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_shooter_ernest_1
+    }
+}
+c_elmore = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = rockies_clancy_anderson_1
+		liege = d_treasure_valley
+		government = high_republic_government
+    }
+}
+c_ontario = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = rockies_uberuaga_jack_1
+        liege = d_treasure_valley    
+    }
+}
+
+c_valley = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_gemmount_kayleigh_1
+        liege = d_treasure_valley
+		government = high_republic_government
+    }
+}
+
+d_silver_bow = {
+    2666.7.4 = {
+        holder = rockies_lookout_don_1  
+    }
+}
+
+#d_glacier = {
+#}
+
+c_deer_lodge = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_lookout_don_1   
+    }
+}
+c_butte = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = rockies_lookout_don_1  
+    }
+}
+c_lemhi = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_lookout_don_1  
+    }
+}
+
+c_malheur = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = rockies_shooter_ernest_1
+    }
+}
+
+c_bonneville = {
+    2666.7.4 = {
+        holder = rockies_spud_jean_1
+    }
+}
+
+c_targhee = {
+    2666.7.4 = {
+        holder = rockies_spud_jean_1
+    }
+}
+
+c_caribou = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_spud_jean_1
+    }
+}
+
+#Deseret
+k_utah = { 
+    2666.7.4 = {
+        holder = character_k_utah
+        government = range_government
+    }
+}
+
+c_salt_lake = { 
+	1893.04.06 = {
+		special_building = temple_square
+	}
+	2666.7.4 = { change_development_level = 10 }
+	2666.7.4 = {
+        holder = character_k_utah
+    }
+}
+
+c_provo = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_k_utah
+    }
+}
+
+c_weber = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_k_utah
+    }
+}
+
+c_tooele = { 
+	1906.01.01 = {
+		special_building = bingham_mine_01
+	}
+	2666.7.4 = { change_development_level = 4 }
+	2666.7.4 = {
+        holder = character_k_utah
+    }
+}
+
+d_green_river = {
+    2666.7.4 = {
+        holder = character_d_green_river
+        liege = k_utah    
+    }
+}
+
+c_green_river = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_green_river
+        liege = k_utah    
+    }
+}
+
+c_moab = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_green_river
+        liege = k_utah    
+    }
+}
+
+d_sevier = {
+    2666.7.4 = {
+        holder = character_d_sevier
+        liege = k_utah    
+    }
+}
+
+c_sanpete = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_sevier
+        liege = k_utah    
+    }
+}
+
+c_millard = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_sevier
+        liege = k_utah    
+    }
+}
+
+c_juab = { 
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_sevier
+        liege = k_utah    
+    }
+}
+
+c_beaver = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_cedar_city
+        liege = d_sevier    
+    }
+}
+
+c_iron = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_cedar_city
+        liege = d_sevier    
+    }
+}
+
+c_sevier = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_richfield
+        liege = d_sevier    
+    }
+}
+
+c_loa = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_loa
+        liege = d_sevier    
+    }
+}
+
+c_emery = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_huntington
+        liege = d_green_river    
+    }
+}
+
+c_summit = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_us_ut_roosevelt
+        liege = k_utah    
+    }
+}
+
+c_duchesne = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_us_ut_roosevelt
+        liege = k_utah    
+    }
+}
+
+c_st_george = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = rockies_afton_jeremy_1
+        liege = k_utah    
+    }
+}
+
+c_uintah = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_vernal
+	government = range_government
+        liege = k_utah    
+    }
+}
+
+c_kane = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_kanab
+        liege = k_utah    
+    }
+}
+
+c_box_elder = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_brigham_city
+        liege = k_utah    
+    }
+}
+
+c_cache = { 
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_brigham_city
+        liege = k_utah    
+    }
+}
+
+
+#Colorado
+################
+###NEED TO DO###
+################
+k_front_range = { 
+	2637.4.4 = {
+		holder = heartland_garland_merriweather_1
+	}
+	2666.7.1 = {
+        government = nomadic_government
+        holder = heartland_garland_jen_1
+    }
+}
+
+d_denver = { 
+	2666.7.1 = {
+        holder = heartland_garland_jen_1
+    }
+}
+
+c_denver = { 
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        government = high_republic_government
+        holder = character_c_denver
+		liege = k_front_range
+    }
+}
+
+c_boulder = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_boulder
+		liege = k_front_range
+    }
+}
+
+c_poudre = { 
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = heartland_garland_jen_1
+    }
+}
+c_logan = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = heartland_garland_jen_1
+    }
+}
+
+c_arapaho = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_breckenridge
+    }
+}
+
+c_mesa = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_grand_junction
+    }
+}
+
+c_pitkin = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_edwards
+    }
+}
+
+c_yampa = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_edwards
+    }
+}
+
+c_durango = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_durango
+    }
+}
+
+c_montezuma = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_durango
+    }
+}
+
+c_pueblo = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_pueblo
+	government = nomadic_government
+    }
+}
+
+c_costilla = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_alamosa
+    }
+}
+
+c_las_animas = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_alamosa
+    }
+}
+
+c_fremont = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_woodland_park
+    }
+}
+
+c_kit_carson = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_kit_carson
+        liege = k_kansas    
+    }
+}
+
+c_colorado_springs = { 
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_colorado_springs
+		liege = k_front_range
+    }
+}
+
+#Navajoland
+k_navajoland = { 
+    2666.7.4 = {
+        holder = character_k_navajoland
+		government = high_republic_government
+        succession_laws = { theodemocracy_elective_succession_law }
+        laws = { theodemocracy_succession_election_law }
+    }
+}
+
+d_navajoland = { 
+    2666.7.4 = {
+        holder = character_k_navajoland
+    }
+}
+
+c_canyon_de_chelly = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_k_navajoland
+    }
+}
+
+c_pinon = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_k_navajoland
+    }
+}
+
+c_window_rock = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_k_navajoland
+    }
+}
+
+d_hopi = {
+    2666.7.4 = {
+        holder = character_d_hopi
+        liege = k_navajoland    
+    }
+}
+
+c_tuba = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_hopi
+        liege = k_navajoland    
+    }
+}
+
+c_show_low = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_hopi
+        liege = k_navajoland    
+    }
+}
+
+d_us_nm_san_juan = {
+    2666.7.4 = {
+        holder = character_d_us_nm_san_juan
+        liege = k_navajoland    
+    }
+}
+
+c_shiprock = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_us_nm_san_juan
+        liege = k_navajoland    
+    }
+}
+
+c_mckinley = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_us_nm_san_juan
+        liege = k_navajoland    
+    }
+}
+
+c_four_corners = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_teec_nos_pos
+        liege = d_us_nm_san_juan    
+    }
+}
+
+c_el_malpais = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_zuni
+        liege = k_navajoland    
+    }
+}
+
+c_powell = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_kayenta
+        liege = k_navajoland    
+    }
+}
+
+c_kayenta = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_kayenta
+        liege = k_navajoland    
+    }
+}
+
+c_rio_arriba = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_enchanted_hills
+    }
+}
+
+c_sandoval = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_enchanted_hills
+    }
+}
+
+c_cibola = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_bernalillo
+    }
+}
+
+c_telluride = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = character_c_grand_junction
+    }
+}
+
+#Wyoming
+#k_great_divide = { 
+#}
+
+d_highland_springs = {
+    2666.7.4 = {
+        holder = rockies_schumacher_pompey_1
+		government = range_government
+    }
+}
+
+c_teton = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_schumacher_pompey_1
+    }
+}
+
+c_sublette = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_schumacher_pompey_1
+    }
+}
+
+c_yellowstone = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+    holder = rockies_fontenelle_josephine_1
+	liege = d_highland_springs
+	government = range_government
+    }
+}
+
+d_sweetwater = { 
+    2666.7.4 = {
+        holder = rockies_drips_hustle_1
+    }
+}
+
+c_sweetwater = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = rockies_drips_hustle_1
+    }
+}
+
+c_bear_lake = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = rockies_drips_hustle_1
+    }
+}
+d_red_desert = {
+    2666.7.4 = {
+        holder = rockies_drips_bustle_1
+		government = range_government
+    }
+}
+
+c_carbon = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_drips_bustle_1
+    }
+}
+
+c_popo_agie = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = rockies_drips_bustle_1
+    }
+}
+
+d_laramie = {
+    2666.7.4 = {
+        holder = rockies_flatiron_montanos_1
+		liege = k_front_range
+        government = nomadic_government
+    }
+}
+
+c_cheyenne = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = rockies_flatiron_montanos_1
+    }
+}
+
+c_laramie = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = rockies_flatiron_montanos_1
+    }
+}
+
+c_converse = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = rockies_flatiron_montanos_1
+    }
+}
+
+c_natrona = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+    holder = rockies_warren_bannack_1
+	liege = d_laramie
+    government = nomadic_government
+    }
+}
+
+c_shoshone = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_cody
+        government = nomadic_government
+    }
+}
+
+c_wind_river = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_riverton
+		government = range_government
+    }
+}
+
+c_washakie = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_worland
+    }
+}

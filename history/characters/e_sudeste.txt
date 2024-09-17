@@ -1,0 +1,620 @@
+﻿20001 = {
+	name = "Maria"	
+	dynasty = braganca_originais
+	religion = apostolicism
+	culture = ancient_portuguese
+	female = yes
+	1734.12.17 = {
+		birth = yes
+	}
+	1816.3.20 = {
+		death = yes
+	}
+}
+20002 = {
+	name = "Jo_a_tld_o"	
+	dynasty = braganca_originais
+	religion = apostolicism
+	culture = ancient_portuguese
+	mother = 20001
+	1756.5.13 = {
+		birth = yes
+	}
+	1822.9.7 = {
+	death = {
+		death_reason=death_went_old_world
+	}
+	}
+}
+20003 ={
+	name="Pedro"
+	dynasty= braganca_originais
+	culture= ancient_portuguese
+	religion = apostolicism
+	father = 20002
+	trait=education_martial_2
+	trait=brave
+	trait=ambitious
+	trait=arrogant
+	trait= beauty_good_1
+	trait= physique_good_2
+	1798.10.12={birth=yes}
+	1831.4.7 ={
+	death = {
+	death_reason=death_went_old_world
+	}
+	}
+}
+20004 ={
+	name="Pedro"
+	dynasty= braganca_originais
+	culture=carioca
+	religion=apostolicism
+	father = 20003
+	trait=education_stewardship_4
+	trait=diligent
+	trait=patient
+	trait=brave
+	1825.12.2={birth=yes}
+	1889.11.15 = {
+	death = {
+	death_reason=death_went_old_world
+	}
+	}
+}
+20005 ={
+	name="Luis_Campos"
+	dynasty= cafe_com_leite
+	culture= paulista
+	religion=apostolicism
+	trait=education_diplomacy_1
+	trait=arrogant
+	trait=stubborn
+	trait=content
+	1889.11.15={birth=yes}
+	1931.1.1={death=yes}
+}
+20006 ={
+	name="Juscelino"
+	dynasty= dynn_kubitschek
+	culture= mineiro
+	religion=architecturalist
+	trait=education_stewardship_4
+	trait=diligent
+	trait=compassionate
+	trait=impatient
+	trait=architect
+	1902.9.12={birth=yes}
+	1976.4.1={
+	death = {
+		death_reason = death_mysterious
+	}
+	}
+}
+20007 = {
+	name = "Alexandre" #Alexandre Cantarini, King of the Paulistan Kingdom
+	dynasty = dynn_brazil_cantarini
+	religion = apostolicism
+	culture = paulistano
+	disallow_random_traits = yes
+	trait = education_martial_4
+	trait = intellect_good_2
+	trait = adventurer
+	trait = ambitious
+	trait = arrogant
+	trait = brave
+	trait = aggressive_attacker
+	
+	martial = 8
+	diplomacy = 10
+	intrigue = 5
+	stewardship = 10
+	learning = 5
+	
+	2222.3.5 = {
+		birth = yes
+	}
+	2264.9.9 = {
+		death = yes
+	}
+}
+
+20008 = {
+	name = "Augusto"
+	#Augusto Cantarini, son of Alexandre
+	dynasty = dynn_brazil_cantarini
+	religion = apostolicism
+	culture = paulistano
+	father = 20007
+	trait = intellect_good_2
+	trait = trusting
+	trait = content
+	trait = gregarious
+	trait=drunkard
+	2247.10.10 = {
+		birth = yes
+	}
+	2322.8.12 = {
+		death = yes
+	}
+}
+
+20009 = {
+	name = "S_e_act_rgio"
+	#dynasty = cantarinis
+	dynasty_house = house_brazil_cantarini_cantarini
+	religion = apostolicism
+	culture = paulistano
+	father = 20008
+	trait = intellect_good_3
+	trait = humble
+	trait = callous
+	trait = brave
+	2267.10.10 = {
+		birth = yes
+	}
+	2337.10.31 = {
+		death = yes
+	}
+}
+
+20010 = {
+	name = "Renato"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = paulistano
+	father = 20008
+	trait = intellect_good_1
+	trait = gregarious
+	trait = calm
+	trait = trusting
+	2277.10.10 = {
+		birth = yes
+	}
+	2341.3.4={
+		death = yes
+	}
+	
+}
+
+20011 = {
+	name = "Jo_a_tld_o"
+	dynasty_house = house_brazil_cantarini_uberaba
+	religion = apostolicism
+	culture = paulistano
+	father = 20008
+	trait = intellect_good_2
+	trait = diligent
+#	trait = 
+	trait = brave
+	2281.7.21 = {
+		birth = yes
+	}
+	2344.8.13={
+		death = yes
+	}
+}
+
+20012 = {
+	name = "Caetano"
+	dynasty_house = house_brazil_cantarini_uberaba
+	religion = apostolicism
+	culture = paulistano
+	father = 20011
+	trait = intellect_good_2
+	trait = temperate
+	trait = calm
+	trait = deceitful
+	2309.1.1 = {
+		birth = yes
+	}
+	2358.4.11={
+		death = yes
+	}
+}
+
+20013 = {
+	name = "Ruan"
+	dynasty_house = house_brazil_cantarini_uberaba
+	religion = apostolicism
+	culture = paulistano
+	father = 20012
+	trait = intellect_good_2
+	trait = temperate
+	trait = calm
+	trait = brave
+	2345.7.21 = {
+		birth = yes
+	}
+	2359.9.14={
+		death = yes
+	}
+}
+
+
+brazil_de_braganca_jonas = {
+	name = "Jonas"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = paulistano
+	father = 20010
+	trait = intellect_good_2
+	trait = diligent
+	trait = content
+	trait = trusting
+	2300.01.02 = {
+		birth = yes
+	}
+	2360.8.11={
+		death = yes
+	}
+	
+}
+
+brazil_de_braganca_joao = {
+	name = "Jo_a_tld_o"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_jonas
+	2321.06.03 = {
+		birth = yes
+	}
+	2383.02.02={
+		death = yes
+	}
+	
+}
+
+brazil_de_braganca_joao_batista = {
+	name = "Jo_a_tld_o_Batista"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_joao
+	2350.01.09 = {
+		birth = yes
+	}
+	2402.08.10={
+		death = yes
+	}
+	
+}
+
+brazil_de_braganca_leopoldo = {
+	name = "Leopoldo"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_joao_batista
+	2375.08.03 = {
+		birth = yes
+	}
+	2407.02.01={
+		death = yes
+	}
+	
+}
+
+brazil_de_braganca_joao_2 = {
+	name = "Jo_a_tld_o"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = carioca
+	father = brazil_de_braganca_leopoldo
+	trait=education_diplomacy_3
+	trait=strong
+	trait=brave
+	trait=ambitious
+	trait=gregarious
+	2397.03.03 = {
+		birth = yes
+	}
+	2449.09.03={
+		death = yes
+	}
+	
+}
+
+20014 ={
+	name="Pedro" #the Restorer
+	dynasty_house = house_brazil_cantarini_de_braganca
+	culture = carioca
+	religion=apostolicism
+	father = brazil_de_braganca_joao_2
+	trait=education_martial_4
+	trait=strong
+	trait=brave
+	trait=humble
+	trait=diligent
+	trait=zealous
+	2425.12.2={birth=yes}
+	2491.12.5={death=yes}
+}
+2100006={
+	name="Isabel" #the Diligent
+	female=yes
+	dynasty_house = house_brazil_cantarini_de_braganca
+	culture = carioca
+	religion=apostolicism
+	father=20014
+	trait=education_stewardship_4
+	trait=compassionate
+	trait=diligent
+	trait=gregarious
+	trait=lustful
+	2450.7.12={birth=yes}
+	2500.8.1={death=yes}
+}
+2100007={
+	name="Jo_a_tld_o" #the Cruel
+	dynasty=2004020 #da Costa
+	culture = carioca
+	religion=apostolicism
+	mother=2100006
+	trait=education_intrigue_3
+	trait=cynical
+	trait=callous
+	trait=generous
+	trait=deceitful
+	2473.9.18={birth=yes}
+	2500.8.1={death={
+			death_reason=death_duel
+			killer=2100008
+		}
+	}
+}
+2100008={
+	name="Pedro" #the Just
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture=carioca
+	religion=apostolicism
+	mother=2100006
+	trait=legitimized_bastard
+	trait=education_martial_3
+	trait=ambitious
+	trait=stubborn
+	trait=just
+	trait=wrathful
+	2468.10.12={birth=yes
+		culture = carioca
+	}
+	2502.2.28={death={
+			death_reason=death_murder_unknown
+		}
+	}
+}
+2100009={
+	name="Eduardo"
+	dynasty=2004024 #da Silva
+	culture = carioca
+	religion = global_throne
+	trait=theologian
+	trait=zealous
+	trait=greedy
+	trait=possessed_1
+	trait=arbitrary
+	2465.12.25={birth=yes}
+	2524.10.2={death={
+			death_reason=death_battle
+			killer=2100010
+		}
+	}
+}
+2100010={
+	name="Pedro"
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture = carioca
+	religion=apostolicism
+	father=2100008
+	trait=education_martial_2
+	trait=brave
+	trait=compassionate
+	trait=just
+	trait=humble
+	trait=cancer
+	2501.2.28={birth=yes}
+	2566.6.7={death={
+			death_reason=death_trait
+		}
+	}
+}
+2100011={
+	name="Pedro"
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture = carioca
+	religion=apostolicism
+	father=2100010
+	trait=education_diplomacy_4
+	trait=patient
+	trait=humble
+	trait=generous
+	trait=cynical
+	2528.5.19={birth=yes}
+	2586.11.20={death=yes}
+}
+2100012={
+	name="Pedro"
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture = carioca
+	religion=apostolicism
+	father=2100011
+	trait=education_stewardship_3
+	trait=diligent
+	trait=greedy
+	trait=lustful
+	trait=gluttonous
+	2551.4.20={birth=yes}
+	2603.1.12={death=yes}
+}
+2100013={
+	name="Pedro"
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture = carioca
+	religion=apostolicism
+	father=2100012
+	trait=education_intrigue_3
+	trait=deceitful
+	trait=gregarious
+	trait=cynical
+	trait=patient
+	2577.7.19={birth=yes}
+	2610.2.16={death=yes}
+}
+2100014={
+	name="Isabel"
+	female=yes
+	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+	culture = carioca
+	religion=apostolicism
+	father=2100013
+	trait=education_martial_3
+	trait=shrewd
+	trait=ambitious
+	trait=shy
+	trait=compassionate
+	# trait=sympathy_afro_syncretic
+	2594.10.14={birth=yes}
+	2640.2.17={death=yes}
+}
+
+brazil_de_braganca_sergio = {
+	name = "S_e_act_rgio"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_leopoldo
+	2402.04.21 = {
+		birth = yes
+	}
+	2467.03.03={
+		death = yes
+	}
+}
+brazil_de_braganca_joao_carlos = {
+	name = "Jo_a_tld_o_Carlos"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_sergio
+	2432.12.21 = {
+		birth = yes
+	}
+	2501.01.23={
+		death = yes
+	}
+}
+brazil_de_braganca_decio = {
+	name = "D_e_act_cio"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_joao_carlos
+	2455.06.15 = {
+		birth = yes
+	}
+	2507.05.13={
+		death = yes
+	}
+}
+brazil_de_braganca_jurandir = {
+	name = "Jurandir"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_decio
+	2481.05.06 = {
+		birth = yes
+	}
+	2535.01.15={
+		death = yes
+	}
+}
+brazil_de_braganca_edmir = {
+	name = "Edmir"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_jurandir
+	2510.01.06 = {
+		birth = yes
+	}
+	2565.01.15={
+		death = yes
+	}
+}
+brazil_de_braganca_conrado = {
+	name = "Conrado"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_edmir
+	2535.06.01 = {
+		birth = yes
+	}
+	2600.08.14={
+		death = yes
+	}
+}
+brazil_de_braganca_tobias = {
+	name = "Tobias"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_conrado
+	2558.11.08 = {
+		birth = yes
+	}
+	2623.01.10={
+		death = yes
+	}
+}
+brazil_de_braganca_adalberto = {
+	name = "Adalberto"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_tobias
+	2583.01.02 = {
+		birth = yes
+	}
+	2653.08.15={
+		death = yes
+	}
+}
+brazil_de_braganca_juscelino = {
+	name = "Juscelino"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	religion = apostolicism
+	culture = capiau
+	father = brazil_de_braganca_adalberto
+	2602.09.08 = {
+		birth = yes
+	}
+	2663.02.05={
+		death = yes
+	}
+}
+#2100015={
+#	name="Pedro"
+#	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+#	culture = carioca
+#	religion=apostolicism
+#	mother=2100014
+#	trait=gluttonous
+#	trait=content
+#	trait=wrathful
+#	2614.1.8={birth=yes}
+#	2648.8.20={death=yes}
+#}
+#2100016={
+#	name="Pedro"
+#	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+#	culture = carioca
+#	religion=apostolicism
+#	father=2100015
+#	trait=trusting
+#	trait=gregarious
+#	trait=humble
+#	2648.3.10={birth=yes}
+#}

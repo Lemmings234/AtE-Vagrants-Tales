@@ -1,0 +1,1863 @@
+﻿california_talenque_troyii = { # e_california
+    name = "Troy"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = yes
+    father = california_talenque_chad
+    dna = dna_troyii_talenque
+
+    culture = eightian
+    religion = cetic
+
+	trait = gregarious
+	trait = craven
+	trait = arrogant
+	trait = education_stewardship_3
+	trait = reincarnation
+	intrigue = 2
+	martial = 3
+	stewardship = 12
+
+	2620.3.18 = {
+		birth = yes
+		learn_language = language_spanglish
+		set_variable = {
+			name = reincarnation_of
+			value = character:california_talenque_troyi
+		}
+    }
+
+    2659.3.4 = {
+        add_spouse = california_moore_miku
+    }
+}
+
+california_moore_miku = {
+    name = "Miku"
+    dynasty = dynn_california_moore
+    female = yes
+    disallow_random_traits = yes
+
+    religion = cetic
+    culture = bayfolk
+
+    trait = compassionate
+    trait = arrogant
+    trait = generous
+
+    trait = hashishiyah
+
+    mother = california_moore_alicia_1
+
+    2622.7.3 = {
+        birth = yes
+    }
+    2659.3.4 = {
+        add_spouse = california_talenque_troyii
+    }
+}
+
+
+california_talenque_nirvana = { # princesssss
+    name = "Nirvana"
+    dynasty = dynn_california_talenque
+    female = yes
+    disallow_random_traits = yes
+    father = california_talenque_troyii
+    mother = california_moore_miku
+    culture = eightian
+    religion = cetic
+
+    dna = dna_nirvana_talanque
+
+	trait = bossy
+    trait = ambitious
+	trait = twin
+
+	2655.6.26 = {
+        birth = yes
+
+    }
+}
+california_talenque_karmaleigh = { # princesssss 2
+    name = "Karmaleigh"
+    dynasty = dynn_california_talenque
+    female = yes
+    disallow_random_traits = yes
+    father = california_talenque_troyii
+    mother = california_moore_miku
+    culture = eightian
+    religion = cetic
+
+    dna = dna_karmaleigh_talanque
+
+	trait = curious
+    trait = compassionate
+	trait = sickly
+	trait = twin
+
+	2655.6.26 = {
+        birth = yes
+
+    }
+}
+california_norton_norton_1 = { # e_california
+    name = "Norton"
+    dynasty = dynn_california_norton
+    female = no
+    disallow_random_traits = no
+
+    culture = bayfolk
+    religion = kadmonic
+
+
+
+	1818.2.4 = {
+        birth = yes
+        give_nickname = nick_the_great
+    }
+	1880.1.8 = {
+        death = yes
+
+    }
+}
+california_talenque_chad = { # e_california
+    name = "Chad"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_norton
+    culture = eightian
+    religion = cetic
+
+
+
+	2571.1.5 = {
+        birth = yes
+        give_nickname = nick_the_boneless
+    }
+	2637.9.22 = {
+        death = yes
+
+    }
+}
+california_talenque_norton = { # e_california
+    name = "Norton"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_eltoniii
+    culture = eightian
+    religion = cetic
+
+
+
+	2538.2.24 = {
+        birth = yes
+
+    }
+	2596.1.5 = {
+        death = yes
+
+    }
+}
+california_talenque_elvis = { # e_california prince
+    name = "Elvis_Antonius"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_eltoniii
+    culture = eightian
+    religion = cetic
+
+	trait = gregarious
+	trait = cynical
+	trait = trusting
+	trait = seducer
+
+	2538.2.24 = {
+        birth = yes
+
+    }
+	2563.10.20 = {
+        death = yes
+
+    }
+}
+california_talenque_autumn = { # e_california princess
+    name = "Autumn"
+    dynasty = dynn_california_talenque
+    female = yes
+    disallow_random_traits = no
+    father = california_talenque_eltoniii
+    culture = eightian
+    religion = cetic
+
+	trait = zealous
+	trait = callous
+
+	2538.2.24 = {
+        birth = yes
+
+    }
+	2558.4.16 = {
+        death = yes
+
+    }
+}
+california_talenque_eltoniii = { # e_california
+    name = "Elton"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_eltonii
+    culture = eightian
+    religion = cetic
+
+
+
+	2488.12.20 = {
+        birth = yes
+
+    }
+	2559.12.2 = {
+        death = yes
+
+    }
+}
+california_talenque_zen = { # e_california
+    name = "Zen"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_eltonii
+    culture = eightian
+    religion = cetic
+
+
+
+	2483.3.4 = {
+        birth = yes
+        give_nickname = nick_the_cocky
+    }
+	2503.8.19 = {
+        death = yes
+
+    }
+}
+california_talenque_eltonii = { # e_california
+    name = "Elton"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_troyi
+    culture = eightian
+    religion = cetic
+
+
+
+	2452.6.7 = {
+        birth = yes
+		give_nickname = nick_the_just
+
+    }
+	2501.3.12 = {
+        death = yes
+
+    }
+}
+california_talenque_troyi = { # e_california
+    name = "Troy"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    father = california_talenque_elton_lawgiver
+    culture = eightian
+    religion = cetic
+
+
+	2426.5.5 = {
+        birth = yes
+
+    }
+	2493.12.3 = {
+        death = yes
+
+    }
+}
+california_talenque_elton_lawgiver = { # e_california
+    name = "Elton"
+    dynasty = dynn_california_talenque
+    female = no
+	father = california_talenque_talenque
+    disallow_random_traits = yes
+    culture = eightian
+    religion = cetic
+
+	trait = ambitious
+	trait = diligent
+	trait = just
+	trait = patient
+	trait = administrator
+	trait = education_learning_5
+	trait = august
+	trait = holy_warrior
+	trait = faith_warrior
+	trait = strategist
+	trait = organizer
+	trait = theologian
+	trait = child_of_concubine_female
+
+
+	2398.3.21 = {
+        birth = yes
+        give_nickname = nick_the_lawgiver
+    }
+	2473.12.1 = {
+        death = yes
+
+    }
+}
+california_talenque_talenque = { # k_valley
+    name = "Talenque"
+    dynasty = dynn_california_talenque
+    female = no
+    disallow_random_traits = no
+    culture = eightian
+    religion = jewbu
+	trait = reincarnation
+	trait = lifestyle_mystic
+
+	2359.7.25 = {
+        birth = yes
+    }
+	2421.5.5 = {
+        death = yes
+    }
+}
+california_califia = { # e_california
+    name = "Califia"
+    dynasty = dynn_california_of_california
+    female = yes
+    disallow_random_traits = yes
+
+    culture = pomo
+    religion = gnarlist
+
+
+	1490.3.6 = {
+        birth = yes
+
+    }
+	1550.6.5 = {
+        death = yes
+
+    }
+}
+california_moore_cullen_1 = { # k_andreas
+    name = "Cullen"
+	dna = dna_cullen_moore
+    dynasty = dynn_california_moore
+    female = no
+	mother = california_moore_alicia_1
+    disallow_random_traits = no
+    culture = bayfolk
+    religion = cetic
+
+
+
+	2632.6.7 = {
+        birth = yes
+
+    }
+	2666.1.3 = {
+        effect = {
+			give_nickname = nick_the_stylish
+
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_taxes
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_levies
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = fortification_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = war_declaration_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+
+			add_realm_law_skip_effects = bureaucracy_authority_1
+		}
+    }
+	2666.7.4 = {
+		effect = { remove_short_term_gold = 400 }
+	}
+}
+
+california_wachowski_deckard = {
+    name = "Deckard"
+    dynasty = dynn_california_moore
+    culture = bayfolk
+    religion = cetic
+	female = no
+	father = california_moore_cullen_1
+	disallow_random_traits = yes
+
+    trait = education_learning_3
+    trait = cynical
+    trait = brave
+    trait = stubborn
+    trait = adopted
+
+    2651.6.25 = {
+        birth = yes
+    }
+	2660.7.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:character_d_east_bay }
+		}
+    }
+}
+
+california_wachowski_akira = {
+    name = "Akira"
+    dynasty = dynn_california_moore
+    culture = bayfolk
+    religion = cetic
+	female = yes
+	father = california_moore_cullen_1
+	disallow_random_traits = yes
+
+    trait = shy
+    trait = shrewd
+
+    2656.7.16 = {
+        birth = yes
+    }
+}
+
+california_carmine_ronald_1 = { # k_socal
+    name = "Ronald"
+	dna = dna_carmine_ronald_1
+    dynasty = dynn_california_carmine
+    female = no
+    disallow_random_traits = yes
+
+    culture = angeleno
+    religion = cetic
+
+	trait = education_intrigue_3
+	trait = calm
+	trait = callous
+	trait = lustful
+	trait = bleeder
+
+	2625.9.15 = {
+        birth = yes
+
+    }
+	2666.1.3 = {
+        effect = {
+
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_taxes
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_levies
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = fortification_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = war_declaration_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+
+			add_realm_law_skip_effects = bureaucracy_authority_1
+		}
+    }
+}
+california_armour_pollock_1 = { # k_valley
+    name = "Adonis"
+	dna = dna_pollock_armour
+    dynasty = dynn_california_armour
+    female = no
+    disallow_random_traits = no
+
+    culture = valleyan
+    religion = cetic
+
+
+
+	2618.10.12 = {
+        birth = yes
+
+    }
+	2666.1.3 = {
+        effect = {
+
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_taxes
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_levies
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = fortification_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = war_declaration_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+
+			add_realm_law_skip_effects = bureaucracy_authority_1
+		}
+    }
+}
+
+california_armour_woodstock = {
+    name = "Woodstock"
+    dynasty = dynn_california_armour
+    culture = valleyan
+    religion = cetic
+	female = yes
+	disallow_random_traits = yes
+
+    father = california_armour_pollock_1
+
+    trait = arbitrary
+	trait = generous
+	trait = gregarious
+    trait = profligate
+	trait = stuttering
+
+    2647.2.22 = {
+        birth = yes
+    }
+}
+
+california_gable_stanford_1 = { # k_phylosian, d_shasta_cascade
+    name = "Stanford"
+    dynasty = dynn_california_gable
+    female = no
+    disallow_random_traits = no
+
+    culture = jeffersonian
+    religion = phylosian
+
+	trait = zealous
+	trait = brave
+	trait = just
+	trait = education_martial_3
+	trait = heresiarch
+	trait = holy_warrior
+
+
+	2639.1.18 = {
+        birth = yes
+
+    }
+}
+california_kutsavidokado_tenaya_1 = { # d_death_valley
+    name = "Tenaya"
+    dynasty = dynn_california_kutsavidokado
+    female = yes
+    disallow_random_traits = no
+
+    culture = battleborn
+    religion = ashtari
+
+
+
+	2647.9.15 = {
+        birth = yes
+
+    }
+}
+
+california_nathan_esquire = { # d_inland_duchy
+    name = "Nathaniel"
+    dynasty = dynn_california_esquire
+    female = no
+    disallow_random_traits = yes
+
+    culture = battleborn
+    religion = atomicist
+
+	trait = arrogant
+	trait = stubborn
+	trait = brave
+	trait = rowdy
+	trait = strong
+	trait = education_martial_1
+	trait = adventurer
+	trait = murderer
+	trait = berserker
+	trait = peasant_leader
+	trait = reckless
+	trait = aggressive_attacker
+	trait = lifestyle_blademaster
+	trait = desert_warrior
+	prowess = 40
+
+	2616.2.17 = {
+        birth = yes
+
+    }
+	2649.5.22 = {
+		death = yes
+	}
+}
+
+california_zakariyya_abbas_1 = { # c_orange
+    name = "Zakariyya"
+    dynasty = dynn_california_abbas
+    female = no
+	dna = dna_zakariyya_abbas
+    disallow_random_traits = yes
+
+    culture = angeleno
+    religion = abbasiyya
+	father = california_danyal_abbas_1
+
+	trait = sayyid
+	trait = generous
+	trait = ambitious
+	trait = just
+	trait = education_martial_3
+	trait = pilgrim
+	trait = shrewd
+
+	2647.9.15 = {
+        birth = yes
+
+	}
+	2664.2.12 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:character_d_southland }
+		}
+	}
+	2661.11.26 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:insert_Hyo_Karo }
+			set_relation_friend = { reason = friend_generic_history target = character:mai_self_insert }
+		}
+	}
+	2655.2.12 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:california_iskander_abbas_1 }
+		}
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+		}
+	}
+}
+
+california_iskander_abbas_1 = { # c_orange
+    name = "Iskander"
+    dynasty = dynn_california_abbas
+    female = no
+	dna = dna_iskander_abbas
+    disallow_random_traits = yes
+
+    culture = angeleno
+    religion = gnarlist
+	father = california_danyal_abbas_1
+
+	trait = sayyid
+	trait = generous
+	trait = calm
+	trait = trusting
+	trait = education_learning_1
+	trait = strong
+
+	diplomacy = 15
+
+	2649.4.27 = {
+        birth = yes
+    }
+}
+
+california_danyal_abbas_1 = { # c_orange
+    name = "Danyal"
+    dynasty = dynn_california_abbas
+    female = no
+    disallow_random_traits = no
+
+    culture = angeleno
+    religion = abbasiyya
+
+	learning = 13
+	trait = sayyid
+	trait = pneumonic
+	health = 1
+
+	2610.11.6 = {
+        birth = yes
+
+    }
+}
+
+california_brody_bradson_1 = { # c_channel_islands
+    name = "Bodhi"
+    dynasty = dynn_california_bradson
+    female = no
+    disallow_random_traits = no
+
+    culture = angeleno
+    religion = gnarlist
+	father = character_d_baja_california_norte
+
+	trait = education_diplomacy_2
+    trait = trusting
+    trait = gregarious
+    trait = arrogant
+	trait = hashishiyah
+
+	2642.6.20 = {
+        birth = yes
+
+    }
+}
+
+california_bronte_bradson = { # baja norte heir
+    name = "Bronte"
+    dynasty = dynn_california_bradson
+    female = no
+    disallow_random_traits = no
+
+    culture = californiano
+    religion = gnarlist
+	father = character_d_baja_california_norte
+
+	trait = education_diplomacy_2
+    trait = cynical
+    trait = greedy
+    trait = arrogant
+
+	2640.2.10 = {
+        birth = yes
+
+    }
+}
+
+california_bill_esquire = { # bill and ted reference
+    name = "Bill_Preston"
+    dynasty = dynn_california_esquire
+    female = no
+    disallow_random_traits = yes
+	father = california_nathan_esquire
+
+    culture = angeleno
+    religion = gnarlist
+
+	trait = education_diplomacy_2
+    trait = honest
+    trait = ambitious
+    trait = trusting
+	trait = poet
+
+	2648.2.17 = {
+        birth = yes
+    }
+	2666.7.4 = {
+        employer = california_carmine_ronald_1
+    }
+	2662.7.3 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:california_ted_logan }
+		}
+    }
+}
+
+california_ted_logan = { # bill and ted reference
+    name = "Theodore"
+    dynasty = dynn_california_ted_logan
+    female = no
+    disallow_random_traits = yes
+
+    culture = angeleno
+    religion = gnarlist
+
+	trait = education_diplomacy_2
+    trait = honest
+    trait = ambitious
+    trait = trusting
+	trait = poet
+
+	2648.2.17 = {
+        birth = yes
+    }
+	2666.7.4 = {
+        employer = california_carmine_ronald_1
+    }
+}
+
+
+california_aries_moonley = { # d_salinas
+    name = "Aries"
+    dynasty = dynn_california_moonley
+    female = no
+    disallow_random_traits = yes
+
+    culture = angeleno
+    religion = anahata
+
+	trait = education_intrigue_4
+    trait = zealous
+    trait = vengeful
+    trait = just
+	trait = peasant_leader
+
+	2647.10.8 = {
+        birth = yes
+
+    }
+
+	2666.7.3 = {
+		effect = {
+			set_relation_rival = { reason = rival_historical target = character:california_moore_cullen_1 }
+		}
+    }
+
+	2662.7.3 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:california_brody_bradson_1 }
+		}
+    }
+}
+
+california_garfield_insert = {
+    name = "Gerrod"
+    dynasty = dynn_garfield_hangan
+    female = no
+    disallow_random_traits = no
+
+    culture = bayfolk
+    religion = gnarlist
+
+	trait = education_learning_1
+    trait = temperate
+    trait = trusting
+    trait = shy
+	trait = poet
+
+	2648.7.4 = {
+        birth = yes
+
+    }
+
+	2666.6.4 = {
+        employer = california_moore_cullen_1
+    }
+}
+
+character_c_berdoo = {
+	name = "Miguel"
+	dynasty = dynn_california_angel
+	religion = "cetic"
+	culture = "angeleno"
+	female = no
+
+	trait = education_intrigue_4
+	trait = callous
+	trait = arbitrary
+	trait = vengeful
+
+	2611.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_mojave = {
+	name = "Jes_u_act_s"
+	dynasty = dynn_california_vrillon
+	religion = "ashtari"
+	culture = "mojavean"
+	female = no
+
+	trait = physique_good_2
+	trait = education_martial_3
+	trait = patient
+	trait = ambitious
+	trait = zealous
+	trait = desert_warrior
+	prowess = 30
+
+	2604.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_coachella = {
+	name = "Becky"
+	dynasty = dynn_california_slater
+	religion = "ashtari"
+	culture = "cahuilla"
+	female = yes
+
+	trait = education_learning_2
+	trait = trusting
+	trait = lustful
+	trait = lazy
+
+	2644.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_glamis = {
+	name = "Von"
+	dynasty = dynn_california_lyon
+	religion = "ashtari"
+	culture = "mojavean"
+	female = no
+
+	trait = education_stewardship_2
+	trait = forgiving
+	trait = impatient
+	trait = cynical
+
+	2599.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_baja_california_norte = {
+	name = "Jorge"
+	dynasty = dynn_california_bradson
+	religion = "gnarlist"
+	culture = "californiano"
+	female = no
+
+	trait = education_martial_1
+	trait = gregarious
+	trait = compassionate
+	trait = brave
+
+	2610.1.1 = {
+		birth = yes
+	}
+	2666.1.3 = {
+        effect = {
+
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_taxes
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = state_bureaucracy_government_levies
+				level = 0
+			}
+			vassal_contract_set_obligation_level = {
+				type = fortification_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = war_declaration_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+    }
+}
+
+character_c_san_pedro_martir = { #and also c_san_quentin
+	name = "Ysa_i_act_as"
+	dynasty = dynn_california_carson
+	religion = "quetzaltec"
+	culture = "californiano"
+	female = no
+
+	trait = education_intrigue_2
+	trait = cynical
+	trait = vengeful
+	trait = sadistic
+
+	2597.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_mexicali = {
+	name = "Amado"
+	dynasty = dynn_california_garcia
+	religion = "quetzaltec"
+	culture = "californiano"
+	female = no
+
+	trait = education_diplomacy_2
+	trait = diligent
+	trait = craven
+	trait = greedy
+
+	2639.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_baja_california_sur = {
+	name = "Ram_o_act_n"
+	dynasty = dynn_california_meillon
+	religion = "navegante"
+	culture = "californiano"
+	female = no
+
+	trait = intellect_good_2
+	trait = education_martial_4
+	trait = wrathful
+	trait = just
+	trait = ambitious
+
+	2645.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		spawn_army = {
+			name = event_troop_default_name
+			levies = 200
+			men_at_arms = {
+				type = light_horsemen
+				stacks = 4
+			}
+			men_at_arms = {
+				type = archers
+				stacks = 2
+			}
+			men_at_arms = {
+				type = onagers
+				stacks = 2
+			}
+			location = province:3869
+			origin = province:3869
+		}
+	}
+}
+
+character_c_mulege = {
+	name = "Ail_i_act_n"
+	dynasty = dynn_california_catalano
+	religion = "navegante"
+	culture = "californiano"
+	female = yes
+
+	trait = education_intrigue_3
+	trait = content
+	trait = shy
+	trait = deceitful
+
+	2617.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_el_vizcaino = {
+	name = "Narciso"
+	dynasty = dynn_california_de_leon
+	religion = "navegante"
+	culture = "californiano"
+	female = no
+
+	trait = education_diplomacy_3
+	trait = impatient
+	trait = cynical
+	trait = fickle
+
+	2595.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_motherlode = {
+	name = "George"
+	dynasty = dynn_california_hargraves
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+
+	trait = education_learning_3
+	trait = stubborn
+	trait = zealous
+	trait = temperate
+
+	2599.1.1 = {
+		birth = yes
+	}
+	#2666.1.3 = {
+       # effect = {
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_taxes
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_levies
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = fortification_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = war_declaration_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = title_revocation_rights
+			#	level = 1
+			#}
+		#}
+    #}
+}
+
+character_c_mendota = {
+	name = "Dale"
+	dynasty = dynn_california_rivers
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+
+	trait = education_intrigue_2
+	trait = deceitful
+	trait = calm
+	trait = paranoid
+
+	2636.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_stanislaus = { #also c_los_banos
+	name = "Khais"
+	dynasty = dynn_california_amirkhanian
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+
+	trait = education_learning_3
+	trait = gregarious
+	trait = temperate
+	trait = chaste
+
+	2611.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_sierra_nevada = {
+	name = "Betsy"
+	dynasty = dynn_california_rose
+	religion = "cetic"
+	culture = "valleyan"
+	female = yes
+
+	trait = education_diplomacy_1
+	trait = patient
+	trait = trusting
+	trait = vengeful
+
+	2654.1.1 = {
+		birth = yes
+	}
+	#2666.1.3 = {
+        #effect = {
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_taxes
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_levies
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = fortification_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = war_declaration_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = title_revocation_rights
+			#	level = 1
+			#}
+		#}
+    #}
+}
+
+
+character_d_yolo = {
+	name = "Edward"
+	dynasty = dynn_california_davis
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+
+	trait = education_stewardship_3
+	trait = brave
+	trait = deceitful
+	trait = content
+
+	2633.1.1 = {
+		birth = yes
+	}
+	#2666.1.3 = {
+        #effect = {
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_taxes
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_levies
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = fortification_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = war_declaration_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = title_revocation_rights
+			#	level = 1
+			#}
+		#}
+    #}
+}
+
+character_c_glenn = {
+	name = "Hector"
+	dynasty = dynn_california_orland
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+
+	trait = education_learning_4
+	trait = ambitious
+	trait = forgiving
+	trait = brave
+
+	2626.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_north_valley = {
+	name = "Ida"
+	dynasty = dynn_california_bedolla
+	religion = "cetic"
+	culture = "valleyan"
+
+	trait = education_stewardship_1
+	trait = patient
+	trait = chaste
+	trait = just
+
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+	#2666.1.3 = {
+        #effect = {
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_taxes
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_levies
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = fortification_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = war_declaration_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = title_revocation_rights
+			#	level = 1
+			#}
+		#}
+    #}
+}
+
+character_c_chico = {
+	name = "Muddy"
+	dynasty = dynn_california_rawson
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+
+	trait = education_stewardship_4
+	trait = impatient
+	trait = brave
+	trait = deceitful
+
+	2620.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_kern = {
+	name = "Nevaeh"
+	dynasty = dynn_california_arvin
+	religion = "jesusfreak"
+	culture = "valleyano"
+	female = yes
+
+	trait = education_martial_2
+	trait = callous
+	trait = temperate
+	trait = just
+
+	2628.1.1 = {
+		birth = yes
+	}
+	#2666.1.3 = {
+        #effect = {
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_taxes
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = state_bureaucracy_government_levies
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = fortification_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = war_declaration_rights
+			#	level = 1
+			#}
+			#vassal_contract_set_obligation_level = {
+			#	type = title_revocation_rights
+			#	level = 1
+			#}
+		#}
+    #}
+}
+
+character_c_tulare = { #also c_visalia
+	name = "Claudio"
+	dynasty = dynn_california_taft
+	religion = "hermandad"
+	culture = "valleyano"
+	female = no
+
+	trait = education_intrigue_1
+	trait = shy
+	trait = callous
+	trait = calm
+
+	2608.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_pine_flat = {
+	name = "Howard_Jes_u_act_s"
+	dynasty = dynn_california_baker
+	religion = hermandad
+	culture = "valleyano"
+	female = no
+
+	trait = education_learning_1
+	trait = compassionate
+	trait = forgiving
+	trait = shy
+
+	2605.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_transverse = {
+	name = "Aaron"
+	dynasty = dynn_california_gurvich
+	religion = "kadmonic"
+	culture = "angeleno"
+	female = no
+	dna = dna_aaron_gurvich
+
+	trait = education_martial_2
+	trait = shy
+	trait = lazy
+	trait = arrogant
+
+	2618.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_southland = {
+	name = "Keki"
+	dna = dna_keki_azmehregan
+	dynasty = dynn_california_azmehreghan
+	religion = "ashavanite"
+	culture = "angeleno"
+	female = no
+
+	trait = education_diplomacy_3
+	trait = honest
+	trait = gregarious
+	trait = content
+	trait = reincarnation
+
+	2643.1.1 = {
+		birth = yes
+	}
+
+	2664.2.12 = {
+		vassal_contract_set_obligation_level = {
+            type = religious_rights
+            level = religious_rights_protected
+        }
+		vassal_contract_set_obligation_level = {
+            type = title_revocation_rights
+            level = title_revocation_rights_protected
+        }
+    }
+}
+
+character_c_oceanside = {
+	name = "Vivienne"
+	dynasty = dynn_california_maia
+	religion = "cetic"
+	culture = "angeleno"
+	female = yes
+
+	trait = education_learning_3
+	trait = gregarious
+	trait = humble
+	trait = compassionate
+
+	2648.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_san_luis_obispo = {
+	name = "Audrey"
+	dynasty = dynn_california_alton
+	religion = "anahata"
+	culture = "angeleno"
+	female = yes
+
+	trait = education_stewardship_4
+	trait = sadistic
+	trait = arrogant
+	trait = zealous
+
+	2612.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_san_benito = {
+	name = "Robin"
+	dynasty = dynn_california_hollister
+	religion = "anahata"
+	culture = "bayfolk"
+	female = no
+
+	trait = education_intrigue_3
+	trait = temperate
+	trait = generous
+	trait = diligent
+
+	2640.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_marin = {
+	name = "Moshe"
+	dynasty = dynn_california_silver
+	religion = "kadmonic"
+	culture = "bayfolk"
+	female = no
+
+	trait = education_learning_3
+	trait = forgiving
+	trait = paranoid
+	trait = humble
+
+	2640.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_east_bay = {
+	name = "Lana"
+	dynasty = dynn_california_anderson
+	religion = "dreamweaver"
+	culture = "bayfolk"
+	female = yes
+
+	trait = intellect_good_1
+	trait = education_learning_4
+	trait = forgiving
+	trait = compassionate
+	trait = zealous
+
+	2639.1.1 = {
+		birth = yes
+		give_nickname = nick_the_genderless
+	}
+	2660.7.1 = {
+		# effect = {
+		# 	set_relation_friend = { reason = friend_generic_history target = character:california_wachowski_deckard }
+		# }
+    }
+}
+
+character_d_redwoods = {
+	name = "Zalophus"
+	dynasty = dynn_california_whaleback
+	religion = "yeomanist"
+	culture = "jeffersonian"
+	female = no
+
+	trait = education_diplomacy_1
+	trait = calm
+	trait = ambitious
+	trait = deceitful
+
+	2628.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_covelo = { #also c_mendocino
+	name = "Luwana"
+	dynasty = dynn_california_benson
+	religion = "humanistic_buddhism"
+	culture = "pomo"
+	female = yes
+
+	trait = education_learning_2
+	trait = gregarious
+	trait = wrathful
+	trait = craven
+
+	2595.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_wineland = {
+	name = "Paul_Tsunanori"
+	dynasty = dynn_california_mays
+	religion = "humanistic_buddhism"
+	culture = "bayfolk"
+	female = no
+
+	trait = education_stewardship_2
+	trait = patient
+	trait = honest
+	trait = lazy
+
+	2622.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_solano = {
+	name = "Adobe"
+	dynasty = dynn_california_watson
+	religion = "dreamweaver"
+	culture = "bayfolk"
+	female = no
+
+	trait = education_martial_4
+	trait = generous
+	trait = sadistic
+	trait = gregarious
+
+	2601.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_nevada = {
+	name = "Kene"
+	dynasty = dynn_california_winnemucca
+	religion = "burner"
+	culture = "paiute"
+	female = no
+
+	trait = education_stewardship_2
+	trait = sadistic
+	trait = gregarious
+	trait = just
+
+	2642.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_modoc = {
+	name = "Rusty"
+	dynasty = dynn_california_alturas
+	religion = "yeomanist"
+	culture = "jeffersonian"
+	female = no
+
+	trait = education_martial_2
+	trait = brave
+	trait = callous
+	trait = stubborn
+
+	2634.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_churchill = {
+	name = "Wesley"
+	dynasty = dynn_california_fallon
+	religion = "burner"
+	culture = "battleborn"
+	female = no
+
+	trait = education_learning_3
+	trait = paranoid
+	trait = gregarious
+	trait = impatient
+
+	2631.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_south_fork = {
+	name = "Gilgah"
+	dynasty = dynn_california_allred
+	religion = "mormon"
+	culture = "battleborn"
+	female = no
+
+	trait = education_stewardship_3
+	trait = fickle
+	trait = sadistic
+	trait = calm
+
+	2650.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_northern_basin = {
+	name = "Egan"
+	dynasty = dynn_california_tagotoka
+	religion = "waashat"
+	culture = "paiute"
+	female = no
+	father = rockies_tagotoka_tavibo
+
+	trait = education_learning_4
+	trait = lunatic_1
+	trait = zealous
+	trait = patient
+	trait = greedy
+
+	2630.2.15 = {
+		birth = yes
+	}
+}
+
+character_d_the_strip = {
+	name = "Ace"
+	dynasty = dynn_california_fortunado
+	religion = "thermonullist"
+	culture = "mojavean"
+	female = no
+
+	trait = education_diplomacy_4
+	trait = gregarious
+	trait = cynical
+	trait = lustful
+	trait = lifestyle_reveler
+	trait = ao_adopted
+
+	2642.1.8 = {
+		birth = yes
+	}
+	2769.1.1 = {
+		death = yes
+	}
+}
+
+character_c_nye = {
+	name = "Zenia"
+	dynasty = dynn_california_bostock
+	religion = "atomicist"
+	culture = "battleborn"
+	female = yes
+
+	trait = education_stewardship_1
+	trait = humble
+	trait = deceitful
+	trait = fickle
+
+	2644.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_trinity	 = {
+	name = "Clough"
+	dynasty = dynn_california_weaver
+	religion = "yeomanist"
+	culture = "jeffersonian"
+	female = no
+
+	trait = education_diplomacy_4
+	trait = stubborn
+	trait = lazy
+	trait = gluttonous
+
+	2614.1.1 = {
+		birth = yes
+	}
+}
+
+mai_self_insert = {
+	name = "Mai"
+	dynasty = dynn_california_phung
+	dna = dna_insert_mai
+	religion = cetic
+	culture = angeleno
+	female = yes 
+    sexuality = homosexual
+	
+	learning = 10
+
+	trait = education_learning_4
+	trait = craven
+	trait = stubborn
+	trait = trusting
+	trait = patient 
+	trait = poet
+	trait = confider
+	trait = infertile
+
+	2647.3.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		employer = california_carmine_ronald_1
+		give_council_position = councillor_court_chaplain
+	}
+}
+
+vanessa_whaleback = {
+    name = "Vanessa"
+    dynasty = dynn_california_whaleback
+    culture = jeffersonian
+    religion = yeomanist
+	female = yes
+	father = character_d_redwoods
+	disallow_random_traits = yes
+
+    trait = education_martial_3
+    trait = brave
+    trait = deceitful
+    trait = paranoid
+
+    2649.1.1 = {
+        birth = yes
+    }
+}
+
+#go go barbie lets go party
+Barbie_Handler = {
+	name = Barbie
+	dynasty = dynn_ca_Handler
+	dna = barbie_dna
+	female = yes
+	culture = angeleno
+	religion = cetic
+	trait = beauty_good_3
+	trait = education_diplomacy_4
+	trait = trusting
+	trait = gregarious
+	trait = compassionate
+	trait = diplomatic_court_2
+	2645.3.9 = { birth = yes }
+	2664.2.14 = { add_matrilineal_spouse = Ken_Doll }
+	2666.7.4 = {
+		employer = california_carmine_ronald_1
+	}
+}
+
+Ken_Doll = {
+	name = Ken
+	dynasty = dynn_ca_Doll
+	dna = ken_dna
+	culture = angeleno
+	religion = gnarlist
+	disallow_random_traits = yes
+	trait = beauty_good_3
+	trait = loyal
+	2645.3.11 = { birth = yes }
+	2664.2.14 = { add_matrilineal_spouse = Barbie_Handler }
+	2666.7.4 = {
+		employer = california_carmine_ronald_1
+	}
+}
+
+insert_Hyo_Karo = {
+	name = "Hyo"
+	dynasty = dynn_california_karo
+	# dna = 
+	culture = angeleno
+	religion = mormon
+	disallow_random_traits = yes
+	trait = education_learning_2
+	trait = lazy
+	trait = eccentric
+	trait = gregarious
+	trait = cynical
+	trait = athletic
+	2646.7.4 = { birth = yes }
+	2666.7.4 = {
+		employer = california_zakariyya_abbas_1
+	}
+}

@@ -1,0 +1,1084 @@
+﻿chile_fernandez_dante1 = {
+	name = "Dante"
+	dynasty = dynn_chile_fernandez_historical
+	female = no
+	culture = huaso
+	religion = particularist
+
+	trait = education_intrigue_4
+	trait = ambitious
+	trait = callous
+	trait = gregarious
+
+	2221.2.3 = {
+		birth = yes
+	}
+
+	2281.4.2 = {
+		death = yes
+	}
+}
+
+chile_fernandez_aurelio1 = {
+	name = "Aurelio"
+	dynasty = dynn_chile_fernandez_historical
+	female = no
+	culture = huaso
+	religion = particularist
+
+	father = chile_fernandez_dante1
+
+	trait = education_stewardship_5
+	trait = gregarious
+	trait = ambitious
+	trait = trusting
+
+	2243.3.7 = {
+		birth = yes
+	}
+
+	2299.8.12 = {
+		death = yes
+	}
+}
+
+chile_fernandez_aurelio2 = {
+	name = "Aurelio"
+	dynasty = dynn_chile_fernandez_historical
+	female = no
+	culture = huaso
+	religion = particularist
+
+	trait = education_stewardship_2
+	trait = diligent
+	trait = shy
+	trait = compassionate
+
+	father = chile_fernandez_aurelio1 
+
+	2265.8.2 = {
+		birth = yes
+	}
+
+	2322.12.27 = {
+		death = yes
+	}
+}
+
+chile_valdivieso_augusto1 = {
+	name = "Augusto"
+	dynasty = dynn_chile_valdivieso
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_martial_3
+	trait = diligent
+	trait = honest
+	trait = ambitious
+
+	2280.11.30 = {
+		birth = yes
+	}
+
+	2331.4.6 = {
+		death = yes
+	}
+}
+
+chile_valdivieso_charles1 = {
+	name = "Charles"
+	dynasty = dynn_chile_valdivieso
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_valdivieso_augusto1 
+
+	trait = education_intrigue_3
+	trait = stubborn
+	trait = cruel
+	trait = diligent
+
+	2299.12.23 = {
+		birth = yes
+	}
+
+	2359.4.6 = {
+		death = yes
+	}
+}
+
+chile_valdivieso_charles2 = {
+	name = "Charles"
+	dynasty = dynn_chile_valdivieso
+	female = no
+	culture = centrino
+	religion = particularist
+
+
+	father = chile_valdivieso_charles1
+
+	trait = education_learning_2
+	trait = deceitful
+	trait = zealous
+	trait = arrogant
+
+	trait = crusader_king 
+
+	2331.12.27 = {
+		birth = yes
+	}
+
+	2393.2.3 = {
+		death = yes
+	}
+}
+
+chile_valdivieso_carlos = {
+	name = "Carlos"
+	dynasty = dynn_chile_valdivieso
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_valdivieso_charles2 
+
+	2369.2.5 = {
+		birth = yes
+	}
+
+	2390.7.3 = {
+		death = yes
+	}
+}
+
+chile_valdivieso_aurelio3 = {
+	name = "Aurelio"
+	dynasty = dynn_chile_valdivieso
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = pensive
+
+	father = chile_valdivieso_carlos
+
+	2388.2.4 = {
+		birth = yes
+	}
+
+	2402.3.12 = {
+		death = yes
+	}
+}
+
+chile_figueroa_marmaduque1 = {
+	name = "Marmaduque"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_stewardship_4
+	trait = just
+	trait = brave
+	trait = diligent
+
+	2369.4.2 = {
+		birth = yes
+	}
+
+	2434.2.17 = {
+		death = yes
+	}
+}
+
+chile_figueroa_alan1 = {
+	name = "Alan"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+
+	father = chile_figueroa_marmaduque1
+
+	trait = education_stewardship_3
+	trait = impatient
+	trait = humble
+	trait = gregarious
+
+	2396.5.4 = {
+		birth = yes
+	}
+
+	2445.1.23 = {
+		death = yes
+	}
+}
+
+chile_figueroa_eusebio1 = {
+	name = "Eusebio"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_figueroa_alan1
+
+	trait = education_intrigue_2
+	trait = deceitful
+	trait = content
+	trait = shy
+
+	2411.1.30 = {
+		birth = yes
+	}
+
+	2458.4.31 = {
+		death = yes
+	}
+}
+
+chile_figueroa_eusebio2 = {
+	name = "Eusebio"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_figueroa_eusebio1
+
+	trait = education_learning_3
+	trait = zealous
+	trait = humble
+	trait = honest
+
+	2436.5.24 = {
+		birth = yes
+	}
+
+	2472.8.12 = {
+		death = yes
+	}
+}
+
+chile_figueroa_dante2 = {
+	name = "Marmaduque"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_figueroa_eusebio2
+
+	trait = education_martial_4
+	trait = fickle
+	trait = callous
+	trait = brave
+
+	2458.10.3 = {
+		birth = yes
+	}
+
+	2483.10.2 = {
+		death = yes
+	}
+}
+
+chile_figueroa_marmaduque2 = {
+	name = "Marmaduque"
+	dynasty = dynn_chile_figueroa_historical
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_figueroa_eusebio2
+
+	trait = education_martial_3
+	trait = fickle
+	trait = callous
+	trait = humble
+
+	2462.10.10 = {
+		birth = yes
+	}
+
+	2487.7.3 = {
+		death = {
+			death_reason = death_killed_by_inca
+		}
+	}
+}
+
+chile_alessandri_alberto1 = {
+	name = "Alberto"
+	dynasty = dynn_chile_alessandri
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_martial_1
+	
+	2441.4.2 = {
+		birth = yes
+	}
+
+	2487.9.3 = {
+		death = {
+			death_reason = death_killed_by_inca
+		}
+	}
+}
+
+chile_bishara_daud1 = {
+	name = "Daud"
+	dynasty = dynn_chile_bishara
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_stewardship_3
+	trait = cynical
+	trait = diligent
+	trait = chaste
+
+	2458.4.3 = {
+		birth = yes
+	}
+
+	2501.2.21 = {
+		death = yes
+	}
+	
+}
+
+chile_bishara_federico1 = {
+	name = "Federico"
+	dynasty = dynn_chile_bishara
+	female = no
+	culture = centrino
+	religion = particularist
+
+	father = chile_bishara_daud1 
+
+	trait = education_martial_4
+	trait = brave
+	trait = cynical
+	trait = lazy
+
+	2480.5.6 = {
+		birth = yes
+	}
+
+	2512.1.3 = {
+		death = {
+			death_reason = death_killed_by_inca
+		}
+	}
+	
+}
+
+chile_bishara_marmaduque3 = {
+	name = "Marmaduque"
+	dynasty = dynn_chile_bishara
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_learning_2
+	trait = craven
+	trait = forgiving
+	trait = compassionate
+
+	father = chile_bishara_federico1
+
+	2501.12.1 = {
+		birth = yes
+	}
+
+	2533.12.23 = {
+		death = yes
+	}
+	
+}
+
+chile_bishara_aurelio4 = {
+	name = "Aurelio"
+	dynasty = dynn_chile_bishara
+	female = no
+	culture = centrino
+	religion = particularist
+
+	trait = education_martial_3
+	trait = brave
+	trait = diligent
+	trait = greedy
+
+	father = chile_bishara_marmaduque3 
+
+	2520.12.4 = {
+		birth = yes
+	}
+
+	2551.9.20 = {
+		death = yes
+	}
+	
+}
+
+chile_naranjo_manuel_naranjo1 = { # k_chile
+	name = "Manuel"
+	dynasty = dynn_chile_naranjo
+	female = no
+	culture = huaso
+	religion = animism
+
+	trait = education_stewardship_4
+	trait = greedy
+	trait = gregarious
+	trait = honest
+	martial = 9
+	stewardship = 8
+	disallow_random_traits = yes
+	
+
+	2529.3.24 = {
+		birth = yes
+	}
+	2580.4.6 = {
+		death = yes
+	}
+}
+chile_naranjo_tulio_naranjo2 = { # k_chile
+	name = "Tulio"
+	dynasty = dynn_chile_naranjo
+	female = no
+	disallow_random_traits = no
+    
+	culture = huaso
+	religion = animism
+	father = chile_naranjo_manuel_naranjo1
+
+	trait = education_diplomacy_3
+	diplomacy = 7
+	trait = craven
+	trait = deceitful
+	trait = humble
+	disallow_random_traits = yes
+    
+	2555.8.8 = {
+		birth = yes
+	}
+	2616.6.16 = {
+		death = yes
+	}
+}
+chile_naranjo_policarpo_naranjo3 = { # k_chile
+	name = "Policarpo"
+	dynasty = dynn_chile_naranjo
+	female = no
+	disallow_random_traits = no
+    
+	culture = huaso
+	religion = animism
+	father = chile_naranjo_tulio_naranjo2
+
+	trait = education_stewardship_3
+	trait = administrator
+	trait = humble
+	trait = generous
+	trait = honest
+	disallow_random_traits = yes
+	
+	2589.8.2 = {
+		birth = yes 
+	}
+	2656.1.1 = {
+		add_spouse = chile_vidal_luisa_naranjo3spouse
+	}
+	2656.3.25 = {
+		death = yes
+	}
+}
+chile_naranjo_tulio_naranjo4 = { # k_chile
+    name = "Tulio"
+    dna=tulio_naranjo_dna
+    dynasty = dynn_chile_naranjo
+    female = no
+    disallow_random_traits = no
+    culture = huaso
+    religion = animism
+	father = chile_naranjo_policarpo_naranjo3
+	mother = chile_vidal_luisa_naranjo3spouse
+
+	trait = education_learning_2
+    trait = patron_balmaceda
+	trait = shy
+	trait = craven
+	trait = compassionate
+	disallow_random_traits = yes
+    
+	2620.10.6 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = chile_correa_victorina_naranjo4spouse
+        set_relation_rival = character:chile_camiroaga_felipe_1
+    }
+}
+chile_gallo_marmaduque_1 = { # d_copiapo
+    name = "Marmaduque"
+    dynasty = dynn_chile_gallo
+    female = no
+    disallow_random_traits = no
+    
+    culture = almagreno
+    religion = camino_estelar
+
+	trait = education_martial_2
+    
+	2619.8.22 = {
+        birth = yes
+        
+    }
+}
+chile_moya_adriana_1 = { # d_coquimbo
+    name = "Adriana"
+    dynasty = dynn_chile_moya
+    female = yes
+    disallow_random_traits = no
+    
+    culture = almagreno
+    religion = camino_estelar
+
+	trait = education_learning_3
+    
+	2633.5.17 = {
+        birth = yes
+        
+    }
+}
+chile_riquelme_violeta_1 = { # d_nuble
+    name = "Violeta"
+    dynasty = dynn_chile_riquelme
+    female = yes
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_martial_4
+    
+	2630.10.21 = {
+        birth = yes
+        
+    }
+}
+chile_quintupil_venancio_1 = { # d_araucania
+    name = "Venancio"
+    dynasty = dynn_chile_quintupil
+    female = no
+    disallow_random_traits = no
+    
+    culture = reifunche
+    religion = nguillatun
+
+	trait = education_stewardship_3
+    
+	2619.3.1 = {
+        birth = yes
+        
+    }
+}
+chile_figueroa_federico_1 = { # c_valparaiso
+    name = "Federico"
+    dynasty = dynn_chile_figueroa
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_intrigue_4
+    
+	2625.12.23 = {
+        birth = yes
+        
+    }
+}
+chile_tapia_jose_1 = { # c_santiago
+    name = "Jos_e_act_"
+    dynasty = dynn_chile_tapia
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = syncado
+
+	trait = education_learning_4
+	martial = 8
+	2618.3.15 = {
+        birth = yes
+        
+    }
+}
+chile_rios_catalina_1 = { # c_petorca
+    name = "Catalina"
+    dynasty = dynn_chile_rios
+    female = yes
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_martial_2
+    
+	2640.1.14 = {
+        birth = yes
+        
+    }
+}
+chile_mardones_palmenia_1 = { # c_san_felipe
+    name = "Palmenia"
+    dynasty = dynn_chile_mardones
+    female = yes
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_stewardship_2
+    
+	2630.4.1 = {
+        birth = yes
+        
+    }
+}
+chile_klocker_eberardo_1 = { # c_la_union
+    name = "Eberardo"
+    dynasty = dynn_chile_klocker
+    female = no
+    disallow_random_traits = no
+    
+    culture = chilote
+    religion = archipelagic
+
+	trait = education_martial_2
+    
+	2627.6.4 = {
+        birth = yes
+        
+    }
+}
+chile_cobarrubias_joaquin_1 = { # c_talagante
+    name = "Joaqu_i_act_n"
+    dynasty = dynn_chile_cobarrubias
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_intrigue_2
+    
+	2620.7.22 = {
+        birth = yes
+        
+    }
+}
+chile_cayente_radomiro_1 = { # c_calama
+    name = "Radomiro"
+    dynasty = dynn_chile_cayente
+    female = no
+    disallow_random_traits = no
+    
+    culture = atacameno
+    religion = santa_diablada
+
+	trait = education_diplomacy_2
+    
+	2623.9.17 = {
+        birth = yes
+        
+    }
+}
+chile_sanchez_ascanio_1 = { # c_tocopilla
+    name = "Ascanio"
+    dynasty = dynn_chile_sanchez
+    female = no
+    disallow_random_traits = no
+    
+    culture = atacameno
+    religion = camino_estelar
+
+	trait = education_martial_3
+    
+	2637.3.17 = {
+        birth = yes
+        
+    }
+}
+chile_huenupil_humberto_1 = { # c_arauco
+    name = "Humberto"
+    dynasty = dynn_chile_huenupil
+    female = no
+    disallow_random_traits = no
+    
+    culture = reifunche
+    religion = nguillatun
+
+	trait = education_martial_3
+    
+	2626.5.12 = {
+        birth = yes
+        
+    }
+}
+chile_araya_osvaldo_1 = { # c_antofagasta
+    name = "Osvaldo"
+    dynasty = dynn_chile_araya
+    female = no
+    disallow_random_traits = no
+    
+    culture = atacameno
+    religion = camino_estelar
+
+	trait = education_stewardship_3
+    
+	2610.10.18 = {
+        birth = yes
+        
+    }
+}
+chile_kunstmann_luciano_1 = { # c_valdivia
+    name = "Luciano"
+    dynasty = dynn_chile_kunstmann
+    female = no
+    disallow_random_traits = no
+    
+    culture = chilote
+    religion = animism
+
+	trait = education_intrigue_4
+    
+	2632.1.2 = {
+        birth = yes
+        
+    }
+}
+chile_aranguiz_mariano_1 = { # c_puente_alto
+    name = "Mariano"
+    dynasty = dynn_chile_aranguiz
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_martial_3
+    
+	2639.11.15 = {
+        birth = yes
+        
+    }
+}
+chile_marin_fernanda_1 = { # c_monte_patria
+    name = "Fernanda"
+    dynasty = dynn_chile_marin
+    female = yes
+    disallow_random_traits = no
+    
+    culture = atacameno
+    religion = camino_estelar
+
+	trait = education_martial_3
+    
+	2644.8.21 = {
+        birth = yes
+        
+    }
+}
+chile_caceres_sotero_1 = { # c_cauquenes
+    name = "S_o_act_tero"
+    dynasty = dynn_chile_caceres
+    female = no
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_diplomacy_3
+    
+	2622.10.15 = {
+        birth = yes
+        
+    }
+}
+chile_acevedo_agustin_1 = { # c_cardenal_caro
+    name = "Agust_i_act_n"
+    dynasty = dynn_chile_acevedo
+    female = no
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_intrigue_3
+    
+	2634.5.5 = {
+        birth = yes
+        
+    }
+}
+chile_montero_neandro_1 = { # c_colchagua
+    name = "Neandro"
+    dynasty = dynn_chile_montero
+    female = no
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_learning_3
+    
+	2606.1.11 = {
+        birth = yes
+        
+    }
+}
+chile_soto_tomas_1 = { # c_cachapoal
+    name = "Tom_a_act_s"
+    dynasty = dynn_chile_soto
+    female = no
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_stewardship_2
+    
+	2637.5.26 = {
+        birth = yes
+        
+    }
+}
+chile_elgueta_nicanor_1 = { # c_melipilla
+    name = "Nicanor"
+    dynasty = dynn_chile_elgueta
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_stewardship_2
+    
+	2642.11.15 = {
+        birth = yes
+        
+    }
+}
+chile_camiroaga_felipe_1 = { # d_santiago
+    name = "Felipe"
+    dynasty = dynn_chile_camiroaga
+    female = no
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_diplomacy_3
+    trait = compassionate
+    trait = honest
+    
+	2633.3.20 = {
+        birth = yes
+        
+    }
+}
+chile_tabilo_daniela_1 = { # c_chanaral
+    name = "Daniela"
+    dynasty = dynn_chile_tabilo
+    female = yes
+    disallow_random_traits = no
+    
+    culture = almagreno
+    religion = camino_estelar
+
+	trait = education_stewardship_4
+    
+	2635.7.2 = {
+        birth = yes
+        
+    }
+}
+chile_quezada_heriberto_1 = { # c_biobio
+    name = "Heriberto"
+    dynasty = dynn_chile_quezada
+    female = no
+    disallow_random_traits = no
+    
+    culture = reifunche
+    religion = nguillatun
+
+	trait = education_diplomacy_3
+    
+	2622.12.9 = {
+        birth = yes
+        
+    }
+}
+chile_bahamondes_jacobo_1 = { # c_chiloe
+    name = "Jacobo"
+    dynasty = dynn_chile_bahamondes
+    female = no
+    disallow_random_traits = no
+    
+    culture = chilote
+    religion = archipelagic
+
+	trait = education_intrigue_3
+    trait = witch
+    
+	2635.10.10 = {
+        birth = yes
+        
+    }
+}
+chile_lazcano_josefa_1 = { # c_chaiten
+    name = "Josefa"
+    dynasty = dynn_chile_lazcano
+    female = yes
+    disallow_random_traits = no
+    
+    culture = chilote
+    religion = archipelagic
+
+	trait = education_diplomacy_3
+    
+	2647.2.22 = {
+        birth = yes
+        
+    }
+}
+chile_sandoval_alfonso_1 = { # c_puerto_montt
+    name = "Alfonso"
+    dynasty = dynn_chile_sandoval
+    female = no
+    disallow_random_traits = no
+    
+    culture = chilote
+    religion = animism
+
+	trait = education_learning_2
+    
+	2644.9.15 = {
+        birth = yes
+        
+    }
+}
+chile_calfulen_carmen_1 = { # c_carahue
+    name = "Carmen"
+    dynasty = dynn_chile_calfulen
+    female = yes
+    disallow_random_traits = no
+    
+    culture = reifunche
+    religion = nguillatun
+
+	trait = education_martial_3
+    
+	2617.4.27 = {
+        birth = yes
+        
+    }
+}
+chile_naranjo_policarpo_naranjo5 = {
+    name = "Policarpo"
+    dynasty = dynn_chile_naranjo
+    female = no
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+	father = chile_naranjo_tulio_naranjo4
+	mother = chile_correa_victorina_naranjo4spouse
+
+	trait = education_martial_3
+    
+	2649.11.18 = {
+        birth = yes
+        
+    }
+}
+chile_correa_victorina_naranjo4spouse = {
+    name = "Victorina"
+    dynasty = dynn_chile_correa
+    female = yes
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+
+	trait = education_diplomacy_3
+    
+	2627.5.26 = {
+        birth = yes
+        
+    }
+}
+chile_naranjo_patricia_naranjo6 = {
+    name = "Patricia"
+    dynasty = dynn_chile_naranjo
+    female = yes
+    disallow_random_traits = no
+    
+    culture = huaso
+    religion = animism
+	father = chile_naranjo_tulio_naranjo4
+	mother = chile_correa_victorina_naranjo4spouse
+
+	
+    
+	2653.1.20 = {
+        birth = yes
+        
+    }
+}
+chile_vidal_luisa_naranjo3spouse = {
+    name = "Luisa"
+    dynasty = dynn_chile_vidal
+    female = yes
+    disallow_random_traits = no
+    
+    culture = centrino
+    religion = animism
+
+	trait = education_intrigue_2
+    
+	2600.6.23 = {
+        birth = yes
+        
+    }
+}
+
+#El Vicario Juan Luis Moya se lavaba
+#juan_luis_moya_1 = {
+#    name = "Juan Luis"
+#    dynasty = dynn_chile_moya_centrino
+#    female = no
+#    disallow_random_traits = no
+#    employer = chile_naranjo_tulio_naranjo4
+#    culture = centrino
+#    religion = animism
+#
+#    trait = education_learning_3
+#    
+#    2627.6.4 = {
+#        birth = yes
+#        
+#    }
+#}

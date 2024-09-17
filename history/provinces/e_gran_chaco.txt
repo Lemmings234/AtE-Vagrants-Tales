@@ -1,0 +1,1235 @@
+#e_gran_chaco
+#k_paraguay
+#d_paraguay
+#c_asuncion
+#b_py_22_asunci_n
+2088 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_06_it_
+2087 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_08_tobat_
+2086 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_guaira
+#b_py_10_villarrica
+6902 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_py_15_ybycu_
+6901 = {
+	culture = yopara
+	religion = ypykuera
+	holding = city_holding
+}
+#b_py_15_mbuyapey
+6903 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#c_cordillera
+#b_py_08_piribebuy
+6488 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_08_eusebio_ayala
+6489 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#c_paraguari
+#b_py_15_carapegu_
+9195 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_15_caapuc_
+9192 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_13_oliva
+9194 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#b_py_13_puesto_tapit_
+9193 = {
+	culture = yopara
+	religion = particularist
+	holding = none
+}
+#c_san_estanislao
+#b_py_17_uni_n
+4460 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_17_itacurub_del_rosario
+4461 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_17_general_elizardo_aquino
+4459 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_capiibary
+#b_py_17_capiibary
+7910 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_17_guajayvi
+7911 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#d_upper_parana
+#c_minga_guazu
+#b_py_01_del_este
+2141 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_ar_14_puerto_eldorado
+2142 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#b_py_01_santa_rita
+2143 = {
+	culture = yopara
+	religion = ypykuera
+	holding = city_holding
+}
+#c_caaguazu
+#b_py_04_caaguaz_
+5876 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_py_04_coronel_oviedo
+5875 = {
+	culture = yopara
+	religion = ypykuera
+	holding = city_holding
+}
+#b_py_04_repatriaci_n
+5874 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#b_py_04_compa_a_puerto
+5877 = {
+	culture = yopara
+	religion = ypykuera
+	holding = none
+}
+#c_canindeyu
+#b_py_19_nueva_esperanza
+2261 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = tribal_holding
+}
+#b_py_19_san_isidro_de_curuguaty
+2262 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = none
+}
+#b_py_19_paranhos
+2263 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = none
+}
+#c_hernandarias
+#b_py_01_san_alberto
+4773 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = tribal_holding
+}
+#b_py_01_itakyry
+4774 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = none
+}
+#b_py_01_deportiva
+4772 = {
+	culture = kaiowa
+	religion = ypykuera
+	holding = none
+}
+#d_lower_parana
+#c_encarnacion
+#b_py_11_encarnaci_n
+4829 = {
+	culture = mbya
+	religion = morangatu
+	holding = tribal_holding
+}
+#b_py_11_carmen_del_paran_
+4828 = {
+	culture = mbya
+	religion = particularist
+	holding = none
+}
+#b_py_11_general_artigas
+4827 = {
+	culture = mbya
+	religion = particularist
+	holding = none
+}
+#c_san_juan_bautista
+#b_py_12_san_juan_bautista
+3468 = {
+	culture = yopara
+	religion = morangatu
+	holding = castle_holding
+}
+#b_py_12_ayolas
+3466 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_12_puesto_san_jos_
+3467 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_itapua
+#b_ar_14_puerto_rico
+1670 = {
+	culture = mbya
+	religion = ypykuera
+	holding = tribal_holding
+}
+#b_py_11_tom_s_romero_pereira
+1671 = {
+	culture = mbya
+	religion = ypykuera
+	holding = none
+}
+#b_py_11_pirap_
+1672 = {
+	culture = mbya
+	religion = ypykuera
+	holding = none
+}
+#c_neembucu
+#b_py_13_pilar
+2876 = {
+	culture = yopara
+	religion = morangatu
+	holding = castle_holding
+}
+#b_py_13_cerrito
+2875 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_13_guaz_cu_
+2874 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_caazapa
+#b_py_05_san_juan_nepomuceno
+3354 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_py_05_yuty
+3352 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#b_py_11_san_pedro_del_paran_
+3355 = {
+	culture = yopara
+	religion = ypykuera
+	holding = city_holding
+}
+#b_py_05_san_roque
+3353 = {
+	culture = yopara
+	religion = ypykuera
+	holding = none
+}
+#d_aquidaban
+#c_amambay
+#b_py_02_pedro_juan_caballero
+8535 = {
+	culture = yopara
+	religion = ypykuera
+	holding = tribal_holding
+}
+#b_py_02_capit_n_bado
+8536 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#b_br_11_bela_vista
+8537 = {
+	culture = yopara
+	religion = ypykuera
+	holding = none
+}
+#c_concepcion
+#b_py_07_concepci_n
+3622 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_07_san_l_zaro
+3623 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_07_sana
+3621 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_san_pedro
+#b_py_17_san_pedro_de_ycuamandiy_
+3076 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_py_17_lima
+3075 = {
+	culture = yopara
+	religion = ypykuera
+	holding = castle_holding
+}
+#b_py_17_bernardino_caballero
+3074 = {
+	culture = yopara
+	religion = ypykuera
+	holding = church_holding
+}
+#k_grigota
+#d_santa_cruz
+#c_santa_cruz_de_la_sierra
+#b_bo_08_santa_cruz_de_la_sierra
+7154 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#c_montero
+#b_bo_08_montero
+4808 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_08_el_chuchial
+4806 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_08_los_cates
+4807 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#c_ichilo
+#b_bo_08_la_guardia
+4058 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_08_santa_rosa_del_sara
+4060 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_08_barraca_sacta
+4059 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#c_vallegrande
+#b_bo_08_vallegrande
+1324 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_00_zanja_honda
+1323 = {
+	culture = kolla
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_08_la_ceja
+1325 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#c_marban
+#b_bo_03_embocada
+6245 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_aroma
+6243 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_03_aparejos
+6244 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#c_carrasco
+#b_bo_02_puerto_villarroel
+4308 = {
+	culture = kolla
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_barrientos
+4309 = {
+	culture = kolla
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_02_barraca_general_rom_n
+4310 = {
+	culture = kolla
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_02_castell_n
+4311 = {
+	culture = kolla
+	religion = particularist
+	holding = none
+}
+#d_madre_de_dios
+#c_riberalta
+#b_bo_03_riberalta
+151 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_alegrete
+150 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_03_aime
+152 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#c_san_borja
+#b_bo_03_san_borja
+4054 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_rurrenabaque
+4053 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_03_santa_ana_de_yacuma
+4052 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_03_campamento_de_la_vuelta
+4051 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#c_santos_reyes
+#b_bo_03_azul
+7012 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_agua_dulce
+7013 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_03_cavedor
+7014 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_03_apere
+7011 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#d_guarayos
+#c_ascension_de_guarayos
+#b_bo_08_ascenci_n_de_guarayos
+153 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_08_almac_n
+155 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_08_abeja
+156 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_08_agua_blanca
+154 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#c_pontes_e_lacerda
+#b_br_14_pontes_e_lacerda
+5104 = {
+	culture = chiquitano
+	religion = boiadist
+	holding = tribal_holding
+}
+#b_br_14_lucialva
+5105 = {
+	culture = chiquitano
+	religion = boiadist
+	holding = church_holding
+}
+#b_br_14_sub_destacamento_palmerito
+5103 = {
+	culture = chiquitano
+	religion = boiadist
+	holding = none
+}
+#c_velasco
+#b_bo_08_san_ignacio_de_velasco
+7242 = {
+	culture = chiquitano
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_08_verd_n
+7243 = {
+	culture = chiquitano
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_08_san_antonio_de_lomerio
+7244 = {
+	culture = chiquitano
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_08_perro_cansado
+7241 = {
+	culture = chiquitano
+	religion = particularist
+	holding = none
+}
+#c_wasteland
+#b_br_24_pimenteiras_do_oeste
+8860 = {
+	culture = chiquitano
+	religion = boiadist
+	holding = tribal_holding
+}
+#b_bo_08_ascenci_n
+8861 = {
+	culture = chiquitano
+	religion = boiadist
+	holding = none
+}
+#d_beni
+#c_cercado
+#b_bo_03_trinidad
+3387 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_casarabe
+3388 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_03_puerto_del_carmen
+3389 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#c_moxos
+#b_bo_03_aijur_co
+6377 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_basilea
+6374 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_07_comunidad_nohata
+6375 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_02_campamento_del_otro_lado
+6376 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#c_mamore
+#b_bo_03_san_joaquin
+635 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_puerto_siles
+637 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#c_itenez
+#b_bo_03_magdalena
+636 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_br_24_s_tio_esp_ritu_santo
+1810 = {
+	culture = camba
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_03_huacaraje
+1811 = {
+	culture = camba
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_03_alta_gracia0
+1812 = {
+	culture = camba
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_03_bol_var
+1809 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#b_br_24_santa_cruz
+1813 = {
+	culture = camba
+	religion = particularist
+	holding = none
+}
+#d_pando
+#c_cobija
+#b_bo_06_cobija
+1087 = {
+	culture = huni_kuin
+	religion = porantimao
+	holding = tribal_holding
+}
+#b_br_01_comunidad_belmonte
+1085 = {
+	culture = huni_kuin
+	religion = porantimao
+	holding = church_holding
+}
+#b_pe_17_iberia
+1086 = {
+	culture = huni_kuin
+	religion = porantimao
+	holding = none
+}
+#c_manuripi
+#b_bo_06_ingavi
+1887 = {
+	culture = camba
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_06_isla_independencia
+1886 = {
+	culture = camba
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_06_palmar_seca
+1888 = {
+	culture = camba
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_gonzalo_moreno
+#b_bo_06_barroquita
+6815 = {
+	culture = camba
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_06_agua_dulce
+6813 = {
+	culture = camba
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_06_am_rica
+6814 = {
+	culture = camba
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_abuna
+#b_br_24_miseric_rdia
+7534 = {
+	culture = camba
+	religion = liberationism
+	holding = castle_holding
+}
+#b_bo_06_santos_mercado
+7531 = {
+	culture = camba
+	religion = liberationism
+	holding = city_holding
+}
+#b_bo_06_nueva_esperanza
+7532 = {
+	culture = camba
+	religion = liberationism
+	holding = church_holding
+}
+#b_bo_03_alianza
+7533 = {
+	culture = camba
+	religion = liberationism
+	holding = none
+}
+#c_ixiamas
+#b_bo_04_aguas_de_la_vida
+3997 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_06_puesto_el_tigre
+3998 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_bo_04_barrera
+3999 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#d_chiquitania
+#c_pailon
+#b_bo_08_pail_n
+5309 = {
+	culture = nhandeva
+	religion = particularist
+	holding = tribal_holding
+}
+#b_bo_08_abap_
+5307 = {
+	culture = nhandeva
+	religion = particularist
+	holding = none
+}
+#b_bo_08_comunidad_isiporenda
+5306 = {
+	culture = nhandeva
+	religion = particularist
+	holding = none
+}
+#b_bo_08_cacha_labrada
+5308 = {
+	culture = nhandeva
+	religion = particularist
+	holding = none
+}
+#c_san_matias
+#b_bo_08_puerto_quijarro
+4831 = {
+	culture = camba
+	religion = boiadist
+	holding = tribal_holding
+}
+#b_bo_08_boqui
+4830 = {
+	culture = camba
+	religion = boiadist
+	holding = church_holding
+}
+#b_bo_08_cacumba
+4832 = {
+	culture = camba
+	religion = boiadist
+	holding = none
+}
+#c_chiquitos
+#b_bo_08_robor_
+4151 = {
+	culture = ayoreo
+	religion = particularist
+	holding = none
+}
+#b_py_23_aguay
+4152 = {
+	culture = ayoreo
+	religion = particularist
+	holding = none
+}
+#b_bo_08_san_jos_de_chiquitos
+4153 = {
+	culture = ayoreo
+	religion = particularist
+	holding = tribal_holding
+}
+#c_camiri
+#b_bo_08_camiri
+1220 = {
+	culture = nhandeva
+	religion = particularist
+	holding = castle_holding
+}
+#b_bo_08_cuevo
+1221 = {
+	culture = nhandeva
+	religion = particularist
+	holding = church_holding
+}
+#b_bo_01_algodonal
+1222 = {
+	culture = kolla
+	religion = particularist
+	holding = city_holding
+}
+#b_bo_09_villamontes
+3390 = {
+	culture = wichi
+	religion = assembleiano
+	holding = none
+}
+#c_busch
+#b_bo_08_puerto_suarez
+7617 = {
+	culture = ayoreo
+	religion = pantaneiro
+	holding = tribal_holding
+}
+#b_bo_08_el_carmen_rivero_torrez
+7618 = {
+	culture = ayoreo
+	religion = boiadist
+	holding = none
+}
+#b_py_23_cerrito_jara
+7619 = {
+	culture = ayoreo
+	religion = boiadist
+	holding = none
+}
+#k_chaco
+#d_chaco_austral
+#c_resistencia
+#b_ar_03_resistencia
+3154 = {
+	culture = qom
+	religion = assembleiano
+	holding = tribal_holding
+}
+#b_ar_03_general_jos_de_san_mart_n
+3153 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#b_ar_03_la_leonesa
+3155 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#c_saenz_pena
+#b_ar_03_roque_s_enz_pe_a
+4805 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_03_charata
+4804 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_03__ngela
+4803 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#c_castelli
+#b_ar_03_castelli
+3909 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_03_pampa_del_infierno
+3910 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_03_miraflores
+3908 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#c_nueva_pompeya
+#b_ar_03_la_filelidad
+3310 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_17_tolloche
+3311 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_09_el_sauzalito
+3313 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#b_ar_03_de_almirante_brown
+3312 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = none
+}
+#d_formosa
+#c_pilcomayo
+#b_ar_09_formosa
+5441 = {
+	culture = qom
+	religion = assembleiano
+	holding = tribal_holding
+}
+#b_ar_09_clorinda
+5437 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#b_ar_09_piran_
+5440 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#b_ar_09_el_colorado
+5439 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#b_ar_09_riacho_eh_eh
+5438 = {
+	culture = qom
+	religion = assembleiano
+	holding = none
+}
+#c_patino
+#b_ar_09_ibarreta
+3686 = {
+	culture = chaqueno
+	religion = particularist
+	holding = castle_holding
+}
+#b_ar_09_las_lomitas
+3688 = {
+	culture = chaqueno
+	religion = particularist
+	holding = city_holding
+}
+#b_ar_09_palo_santo
+3689 = {
+	culture = chaqueno
+	religion = particularist
+	holding = church_holding
+}
+#b_ar_09_general_guemes
+3687 = {
+	culture = chaqueno
+	religion = particularist
+	holding = none
+}
+#c_matacos
+#b_ar_09_ingeniero_guillermo_n_ju_rez
+9309 = {
+	culture = wichi
+	religion = particularist
+	holding = tribal_holding
+}
+#b_ar_09_laguna_yema
+9308 = {
+	culture = wichi
+	religion = particularist
+	holding = none
+}
+#b_ar_09_general_enrique_mosconi
+9310 = {
+	culture = wichi
+	religion = particularist
+	holding = none
+}
+#d_chaco_oriental
+#c_presidente_hayes
+#b_py_16_hayes
+2284 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_16_la_piedad_veinticinco_leguas
+2280 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_07_san_jos_olero
+2282 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#b_py_16_arce_rojas
+2281 = {
+	culture = yopara
+	religion = particularist
+	holding = none
+}
+#b_py_16_batall_n_ingeniero_n_mero_cinco_p_j_caballero
+2283 = {
+	culture = yopara
+	religion = particularist
+	holding = none
+}
+#c_filadelfia
+#b_py_24_filadelfia
+6194 = {
+	culture = nivacle
+	religion = particularist
+	holding = tribal_holding
+}
+#b_py_24_retiro_palma_sola
+6192 = {
+	culture = nivacle
+	religion = particularist
+	holding = none
+}
+#b_py_16_centro
+6193 = {
+	culture = nivacle
+	religion = particularist
+	holding = none
+}
+#c_boqueron
+#b_py_24_santa_mar_a
+5373 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_24_achaval
+5374 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_24_mari_christie
+5375 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}
+#c_nueva_asuncion
+#b_py_23_destacamento_general_p_colman
+7576 = {
+	culture = nhandeva
+	religion = particularist
+	holding = tribal_holding
+}
+#b_py_24_cobija
+7577 = {
+	culture = nhandeva
+	religion = particularist
+	holding = none
+}
+#b_py_24_escobar
+7578 = {
+	culture = nhandeva
+	religion = particularist
+	holding = none
+}
+#d_alto_paraguay
+#c_puerto_casado
+#b_py_23_san_blas
+4211 = {
+	culture = mascoy
+	religion = particularist
+	holding = tribal_holding
+}
+#b_py_24_menno
+4209 = {
+	culture = mascoy
+	religion = particularist
+	holding = none
+}
+#b_py_23_don_bosco
+4210 = {
+	culture = mascoy
+	religion = particularist
+	holding = none
+}
+#c_fuerte_olimpo
+#b_py_23_fuerte_olimpo
+6307 = {
+	culture = ayoreo
+	religion = pantaneiro
+	holding = tribal_holding
+}
+#b_py_23_campos
+6305 = {
+	culture = ayoreo
+	religion = boiadist
+	holding = none
+}
+#b_py_23_campamento_a_a_ret_
+6306 = {
+	culture = ayoreo
+	religion = boiadist
+	holding = none
+}
+#b_py_23_aguaray
+6308 = {
+	culture = ayoreo
+	religion = boiadist
+	holding = none
+}
+#c_capitan_pablo_lagerenza
+#b_py_23_capit_n_pablo_lagerenza
+2784 = {
+	culture = yopara
+	religion = particularist
+	holding = castle_holding
+}
+#b_py_23_jhovy
+2783 = {
+	culture = yopara
+	religion = particularist
+	holding = city_holding
+}
+#b_py_24_destacamento_militar_n_mero_dos_parque_cu_
+2785 = {
+	culture = yopara
+	religion = particularist
+	holding = church_holding
+}

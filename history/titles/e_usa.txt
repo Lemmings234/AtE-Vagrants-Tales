@@ -1,0 +1,98 @@
+﻿e_usa = {
+	1776.7.4 = {
+		holder = gv_washington_george_1
+	}
+	1797.11.4 = {
+		holder = gv_john_adams_1
+	}
+	1801.11.4 = {
+		holder = gv_thomas_jefferson_1
+	}
+	1805.11.8 = {
+		holder = gv_benjamin_franklin_1
+	}
+	1809.11.3 = {
+		holder = gv_alexander_hamilton_1
+	}
+	1817.11.2 = {
+		holder = gv_james_madison_1
+	}
+	1825.11.2 = {
+		holder = gv_andrew_jackson_1
+	}
+	1832.11.3 = {
+		holder = gv_davy_crockett_1
+	}
+	1836.3.6 = {
+		holder = gv_tippecanoe_tyler_1
+	}
+	1844.7.4 = {
+		holder = gv_tom_sawyer_1
+	}
+	1861.7.4 = {
+		holder = gv_abraham_lincoln_1
+	}
+	1865.4.15= {
+		holder = gv_ulysses_caesar_grant_1
+	}
+	1881.11.4 = {
+		holder = gv_grover_i_cleveland_1
+	}
+	1885.11.2 = {
+		holder = gv_grover_ii_cleveland_1
+	}
+	1889.11.8 = {
+		holder = gv_teddy_roosevelt_1
+	}
+	1909.11.7 = {
+		holder = gv_william_taft_1
+	}
+	1913.11.2 = {
+		holder = gv_wilrow_woodson_1
+	}
+	1920.11.6 = {
+		holder = gv_jay_gatzby_1
+	}
+	1930.1.1 = {
+		holder = gv_herbert_hoover_1
+	}
+	1936.11.2 = {
+		holder = gv_franklin_roosevelt_1
+	}
+	1945.4.12= {
+		holder = gv_harry_haberdasher_1
+	}
+	1947.11.5 = {
+		holder = gv_clark_kent_1
+	}
+	1953.11.4 = {
+		holder = gv_joseph_mccarthy_1
+	}
+	1957.11.8 = {
+		holder = gv_ike_eisenhower_1
+	}
+	1961.11.6 = {
+		holder = gv_jack_jfk_kennedy_1
+	}
+	1963.11.22= {
+		holder = gv_elby_jumbo_johnson_1
+	}
+	1965.11.6 = {
+		holder = gv_martin_luther_king_1
+	}
+	1968.4.4 = {
+		holder = gv_dick_nixon_1
+	}
+	1974.11.8 = {
+		holder = gv_neil_armstrong_1
+	}
+	1977.11.5 = {
+		holder = gv_jimmy_washington_carter_1
+	}
+	1981.11.9 = {
+		holder = gv_gipper_reagan_1
+	}
+	2066.8.24 = {
+        holder = 0
+    }
+}

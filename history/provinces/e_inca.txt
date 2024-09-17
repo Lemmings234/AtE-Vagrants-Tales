@@ -1,0 +1,1720 @@
+#e_inca
+#k_peru
+#d_lima
+#c_lima
+#b_pe_lma_lima
+7593 = {
+	culture = rimense
+	religion = liberationism
+	holding = castle_holding
+	1551.5.12 = {
+		special_building_slot = generic_university
+	}
+	
+}
+#b_pe_15_urb_santo_domingo
+7594 = {
+	culture = rimense
+	religion = liberationism
+	holding = city_holding
+}
+#c_lurin
+#b_pe_15_chosica
+6920 = {
+	culture = rimense
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_15_mala
+6919 = {
+	culture = rimense
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_15_asentamiento_humano_nicolas_de_pierola
+6918 = {
+	culture = rimense
+	religion = liberationism
+	holding = church_holding
+}
+#c_huacho
+#b_pe_15_huacho
+1726 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_15_huaura
+1725 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_15_oy_n
+1727 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = church_holding
+}
+#b_pe_15_ambar
+1728 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = none
+}
+#c_pe_15_imperial
+#b_pe_15_imperial
+2353 = {
+	culture = rimense
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_pe_15_huancaya
+2351 = {
+	culture = rimense
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_pe_15_clarita
+2352 = {
+	culture = rimense
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_huaral
+#b_pe_15_huaral
+3962 = {
+	culture = rimense
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_15_san_juan_de_iris
+3963 = {
+	culture = rimense
+	religion = liberationism
+	holding = city_holding
+}
+#d_mantaro
+#c_huancayo
+#b_pe_12_huancayo
+4253 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_12_jauja
+4255 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_12_chupaca
+4256 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_12_carhuacallanga
+4254 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = none
+}
+#c_huanuco
+#b_pe_10_hu_nuco
+2214 = {
+	culture = wanka
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_10_yanacancha
+2213 = {
+	culture = wanka
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_10_pacayhua
+2215 = {
+	culture = wanka
+	religion = inti_religion
+	holding = church_holding
+}
+#c_pasco
+#b_pe_19_cerro_de_pasco
+825 = {
+	culture = wanka
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_10_cayna
+827 = {
+	culture = wanka
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_12_santa_barbara_de_carhuacayan
+826 = {
+	culture = wanka
+	religion = liberationism
+	holding = church_holding
+}
+#c_tarma
+#b_pe_12_tarma
+1518 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_12_jun_n
+1520 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_12_santa_rosa_de_sacco
+1519 = {
+	culture = wanka
+	religion = divina_chicha
+	holding = church_holding
+}
+#c_huancavelica
+#b_pe_09_huancavelica
+8384 = {
+	culture = wanka
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_09_quishuar
+8386 = {
+	culture = wanka
+	religion = israelite
+	holding = church_holding
+}
+#b_pe_09_san_pedro_de_coris
+8385 = {
+	culture = wanka
+	religion = israelite
+	holding = city_holding
+}
+#d_ica
+#c_ica
+#b_pe_11_ica
+2268 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_pe_11_pisco
+2267 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_pe_11_boca_chica
+2269 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = church_holding
+	1400.1.1 = {special_building = guano_mine_1}
+}
+#c_chincha
+#b_pe_11_chincha_alta
+1031 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_pe_09_huachos
+1032 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_pe_09_huachocolpa
+1033 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_nazca
+#b_pe_11_nazca
+7324 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = castle_holding
+	1.1.1 = {
+special_building = nazca_lines
+}
+}
+#b_pe_09_laramarca
+7323 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_pe_05_otoca
+7322 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_palpa
+#b_pe_11_santiago
+1267 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_pe_11_los_tronquitos
+1269 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_pe_11_ullujaya
+1268 = {
+	culture = iqueno
+	religion = camino_estelar
+	holding = church_holding
+}
+#d_chanchamayo
+#c_satipo
+#b_pe_12_santa_rosa
+3878 = {
+	culture = selvalteno
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_25_maldonadillo
+3879 = {
+	culture = selvalteno
+	religion = israelite
+	holding = city_holding
+}
+#b_pe_12_quiteni
+3880 = {
+	culture = selvalteno
+	religion = israelite
+	holding = church_holding
+}
+#c_la_merced
+#b_pe_12_comas
+7853 = {
+	culture = wanka
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_12_san_ram_n
+7854 = {
+	culture = wanka
+	religion = israelite
+	holding = city_holding
+}
+#b_pe_19_paucartambo
+7852 = {
+	culture = wanka
+	religion = israelite
+	holding = church_holding
+}
+#c_oxapampa
+#b_pe_19_oxapampa
+5704 = {
+	culture = selvalteno
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_25_oventeni
+5707 = {
+	culture = selvalteno
+	religion = israelite
+	holding = city_holding
+}
+#b_pe_19_san_crist_bal
+5706 = {
+	culture = selvalteno
+	religion = israelite
+	holding = church_holding
+	
+}
+#b_pe_19_puerto_amistad
+5705 = {
+	culture = selvalteno
+	religion = israelite
+	holding = none
+}
+#k_cusco
+#d_arequipa
+#c_arequipa
+#b_pe_04_arequipa
+3513 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = castle_holding
+	1551.5.12 = {
+		special_building = cerro_verde_mines_01
+	}
+}
+#b_pe_04_el_pedregal
+3512 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = city_holding
+}
+#c_mollendo
+#b_pe_04_mollendo
+3611 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_04_punta_de_bomb_n
+3609 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_18_puquina
+3612 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = church_holding
+}
+#b_pe_04_el_toro
+3610 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = none
+}
+#c_colca
+#b_pe_04_llongasora
+3482 = {
+	culture = arequipeno
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_04_orcopampa
+3481 = {
+	culture = arequipeno
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_04_imata
+3483 = {
+	culture = arequipeno
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_04_lluta
+3484 = {
+	culture = arequipeno
+	religion = inti_religion
+	holding = none
+}
+#c_castilla
+#b_pe_04_huaynacotas
+1573 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_04_machahuay
+1571 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_04_iquipi
+1572 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = church_holding
+}
+#d_choquequirao
+#c_cusco
+#b_pe_08_cusco
+900 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_08_calca
+899 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_08_ccatca
+901 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#c_canchis
+#b_pe_08_sicuani
+9305 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_08_yauri
+9306 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_08_santo_tomas
+9307 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#c_apurimac
+#b_pe_03_abancay
+898 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_03_andahuaylas
+897 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_08_llusco
+896 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#c_quillabamba
+#b_pe_08_santa_ana
+7616 = {
+	culture = selvalteno
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_05_ayna
+521 = {
+	culture = selvalteno
+	religion = israelite
+	holding = castle_holding
+}
+#b_pe_08_machupicchu
+7614 = {
+	culture = selvalteno
+	religion = israelite
+	holding = castle_holding
+	 1450.1.1 = {
+special_building = machu_picchu
+}
+}
+#b_pe_08_nueva_luz
+7615 = {
+	culture = selvalteno
+	religion = israelite
+	holding = church_holding
+}
+#d_puno
+#c_san_roman
+#b_pe_21_juliaca
+401 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_21_asillo
+402 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_21_lampa
+400 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_21_arapa
+403 = {
+	culture = quechua
+	religion = inti_religion
+	holding = none
+}
+#c_puno
+#b_pe_21_puno
+9199 = {
+	culture = aymara
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_21_ilave
+9201 = {
+	culture = aymara
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_21_santa_luc_a
+9202 = {
+	culture = aymara
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_21_sacuyo
+9200 = {
+	culture = aymara
+	religion = inti_religion
+	holding = none
+}
+#c_huancane
+#b_pe_21_la
+6929 = {
+	culture = aymara
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_21_putina
+6928 = {
+	culture = aymara
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_21_soraycho_umabamba
+6930 = {
+	culture = aymara
+	religion = inti_religion
+	holding = church_holding
+}
+#c_melgar
+#b_pe_21_ayaviri
+617 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_21_macusani
+616 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_21_ocuviri
+618 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#c_chucuito
+#b_pe_21_desaguadero
+2433 = {
+	culture = aymara
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_21_juli
+2434 = {
+	culture = aymara
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_21_mazo_cruz
+2435 = {
+	culture = aymara
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_21_pajchani
+2436 = {
+	culture = aymara
+	religion = inti_religion
+	holding = none
+}
+#d_vilcanota
+#c_tacna
+#b_pe_23_tacna
+8625 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_23_totoral
+8624 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_23_sama_grande
+8623 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = church_holding
+	1700.1.1 = {special_building = guano_mine_1}
+}
+#c_moquegua
+#b_pe_18_moquegua
+3384 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_18_ilo
+3383 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_23_ilabaya
+3385 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = church_holding
+}
+#b_pe_18_los_molles
+3386 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = none
+}
+#c_tarata
+#b_pe_23_chuquitira
+5917 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_21_patalaca
+5918 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_23_alto_per_
+5919 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = church_holding
+}
+#c_churilaca
+#b_pe_18_carumas
+7184 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_18_chojata
+7183 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_18_achacala
+7182 = {
+	culture = ileno
+	religion = jolljepunco
+	holding = church_holding
+}
+#d_ayacucho
+#c_ayacucho
+#b_pe_05_ayacucho
+4846 = {
+	culture = quechua
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_05_apongo
+4847 = {
+	culture = quechua
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_05_cancha_cancha
+4845 = {
+	culture = quechua
+	religion = inti_religion
+	holding = church_holding
+}
+#c_lucanas
+#b_pe_05_puquio
+4272 = {
+	culture = quechua
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_05_coracora
+4270 = {
+	culture = quechua
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_05_oyolo
+4269 = {
+	culture = quechua
+	religion = jolljepunco
+	holding = church_holding
+}
+#b_pe_05_santa_cruz_de_pichigua
+4271 = {
+	culture = quechua
+	religion = jolljepunco
+	holding = none
+}
+#d_camana
+#c_camana
+#b_pe_04_caman_
+2903 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_04_cosos
+2902 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_04_san_agust_n
+2904 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = church_holding
+}
+#c_acari
+#b_pe_04_acar_
+4568 = {
+	culture = iqueno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_05_pullo
+4569 = {
+	culture = iqueno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_04_achanizo
+4567 = {
+	culture = iqueno
+	religion = jolljepunco
+	holding = church_holding
+}
+#c_caraveli
+#b_pe_04_piuca
+9381 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = castle_holding
+}
+#b_pe_04_la_planchada
+9383 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = city_holding
+}
+#b_pe_04_atico
+9382 = {
+	culture = arequipeno
+	religion = jolljepunco
+	holding = church_holding
+}
+#k_collao
+#d_cochabamba
+#c_cochabamba
+#b_bo_02_cochabamba
+3244 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_02_quillacollo
+3242 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_02_tapacar_
+3243 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_oruro
+#b_bo_05_oruro
+2492 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_04_yaco
+2494 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_05_cachicachi
+2493 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_llallagua
+#b_bo_07_llallagua
+4524 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_05_huanuni
+4525 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_07_sacaca
+4523 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_turco
+#b_bo_05_turco
+6858 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_05_cruz_de_machacamarca
+6857 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#c_carangas
+#b_bo_05__nimas
+1166 = {
+	culture = aymara
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_05_corque
+1165 = {
+	culture = aymara
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_bo_05_el_choro
+1167 = {
+	culture = aymara
+	religion = santa_diablada
+	holding = city_holding
+}
+#d_la_paz
+#c_la_paz_1
+#b_bo_04_la_paz
+5564 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_pe_21_yunguyo
+5565 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = city_holding
+}
+#b_bo_04_achacachi
+5562 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_04_pucarani
+5563 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = none
+}
+#b_bo_04_laja
+5566 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = none
+}
+#c_ingavi
+#b_bo_04_jes_s_de_machaca
+87 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_04_san_andr_s_de_machaca
+88 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#b_bo_04_achavico
+86 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_04_santiago_de_machaca
+85 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = none
+}
+#c_larecaja
+#b_bo_04_escoma
+9180 = {
+	culture = aymara
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_04_quiabaya
+9181 = {
+	culture = aymara
+	religion = santa_diablada
+	holding = city_holding
+}
+#c_patacamaya
+#b_bo_04_lahuachaca
+7095 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_04_coro_coro
+7093 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#b_bo_04_mecapaca
+7094 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_04_umala
+7092 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = none
+}
+#c_sajama
+#b_bo_04_san_pedro_de_curahuara
+6590 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_cl_16_achacala
+6591 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_cl_16_challapujo
+6592 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#d_tarija
+#c_tarija
+#b_bo_09_tarija
+6103 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_09_bermejo
+6102 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_09_entre_r_os
+6101 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_yacuiba
+#b_bo_09_yacuiba
+3391 = {
+	culture = wichi
+	religion = assembleiano
+	holding = tribal_holding
+}
+#b_bo_09_algarrobilla
+3392 = {
+	culture = wichi
+	religion = assembleiano
+	holding = none
+}
+#c_cinti
+#b_bo_01_azurduy
+1650 = {
+	culture = kolla
+	religion = mesias_che
+	holding = castle_holding
+}
+#b_bo_01_charcas
+1649 = {
+	culture = kolla
+	religion = mesias_che
+	holding = church_holding
+}
+#b_bo_01_abras_de_ivio
+1651 = {
+	culture = kolla
+	religion = mesias_che
+	holding = city_holding
+}
+#c_nancahuazu
+#b_bo_01_serrano
+7731 = {
+	culture = kolla
+	religion = mesias_che
+	holding = castle_holding
+}
+#b_bo_08_alto_de_tareira
+7730 = {
+	culture = kolla
+	religion = mesias_che
+	holding = none
+}
+#d_chuquisaca
+#c_sucre
+#b_bo_01_sucre
+6742 = {
+	culture = kolla
+	religion = mesias_che
+	holding = castle_holding
+}
+#b_bo_02_mizque
+6743 = {
+	culture = kolla
+	religion = mesias_che
+	holding = city_holding
+}
+#b_bo_02_aiquile
+6741 = {
+	culture = kolla
+	religion = mesias_che
+	holding = church_holding
+}
+#b_bo_07_san_pedro_de_buena_vista
+6744 = {
+	culture = kolla
+	religion = mesias_che
+	holding = none
+}
+#c_yamparaez
+#b_bo_07_chaqui
+2777 = {
+	culture = kolla
+	religion = mesias_che
+	holding = castle_holding
+}
+#b_bo_01_tarabuco
+2778 = {
+	culture = kolla
+	religion = mesias_che
+	holding = city_holding
+}
+#b_bo_07_puna
+2779 = {
+	culture = kolla
+	religion = mesias_che
+	holding = church_holding
+}
+#c_comarapa
+#b_bo_08_saipina
+582 = {
+	culture = kolla
+	religion = mesias_che
+	holding = castle_holding
+}
+#b_bo_01_zud_ez
+580 = {
+	culture = kolla
+	religion = mesias_che
+	holding = city_holding
+}
+#b_bo_02_omereque
+581 = {
+	culture = kolla
+	religion = mesias_che
+	holding = church_holding
+}
+#d_potosi
+#c_potosi
+#b_bo_07_potos_
+8687 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+	1545.1.1 = {
+		special_building = 	cerro_ricco_mines_01
+	}
+}
+#b_bo_07_pocoata
+8686 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_07_apacheta
+8688 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_challapata
+#b_bo_07_colchani
+692 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_05_challapata
+691 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_05_quillacas
+693 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_lipez
+#b_bo_07_llica
+1734 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_07_churacari
+1735 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#c_sabaya
+#b_bo_05_sabaya
+9098 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_05_pampa_aullagas
+6533 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_05_alapaxa
+9099 = {
+	culture = aymara
+	religion = pachamama_religion
+	holding = city_holding
+}
+#d_chichas
+#c_villazon
+#b_bo_07_villaz_n
+7299 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_10_abra_pampa
+7302 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_10_antiguyo
+7301 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_cl_03_lever
+7300 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = none
+}
+#c_tupiza
+#b_bo_07_tupiza
+2651 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_07_san_pablo_de_lipez
+2652 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_07_aguas_calientes
+2653 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = city_holding
+}
+#c_uyuni
+#b_bo_07_uyuni
+2625 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_07_san_crist_bal
+2623 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = city_holding
+	1551.5.12 = {
+		special_building = san_cristobal_mines_01
+	}
+}
+#b_bo_07_acha_icha
+2624 = {
+	culture = quechua
+	religion = pachamama_religion
+	holding = church_holding
+}
+#c_cotagaita
+#b_bo_01_camargo
+9130 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_bo_01_camblaya
+9129 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#d_yungas
+#c_chulumani
+#b_bo_04_cairoma
+1792 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_04_chulumani
+1790 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = city_holding
+}
+#b_bo_04_balsa_pampa
+1791 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = church_holding
+}
+#c_caranavi
+#b_bo_04_coroico
+1158 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_04_guanay
+1156 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_04_emanuel
+1157 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = city_holding
+}
+#c_apolo
+#b_bo_04_mapiri
+3737 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_bo_04_sarayoj
+3736 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = church_holding
+}
+#b_bo_04_utanani
+3738 = {
+	culture = yungano
+	religion = pachamama_religion
+	holding = city_holding
+}
+#k_sipan
+#d_amotape
+#c_piura
+#b_pe_20_piura
+1229 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_20_chulucanas
+1225 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_20_las_lomas
+1227 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_20_sechura
+1226 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = none
+}
+#b_pe_20_malache
+1228 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = none
+}
+#c_sullana
+#b_pe_20_sullana
+9184 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_20_talara
+9185 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_20_la_breita
+9182 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_20_alamor
+9183 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = none
+}
+#c_tumbes
+#b_pe_24_tumbes
+2209 = {
+	culture = costanorteno
+	religion = chimborazismo
+	holding = castle_holding
+}
+#b_pe_24_zorritos
+2208 = {
+	culture = costanorteno
+	religion = chimborazismo
+	holding = city_holding
+}
+#d_moche
+#c_trujillo_pe
+#b_pe_13_trujillo
+975 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_13_vir_
+977 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_13_otuzco
+976 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_02_huandoval
+978 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = none
+}
+#c_cajamarca
+#b_pe_06_cajamarca
+8040 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = castle_holding
+	1551.5.12 = {
+		special_building = yanacocha_mines_01
+	}
+}
+#b_pe_06_celend_n
+8041 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_13_cascas
+8039 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = church_holding
+}
+#c_ascope
+#b_pe_13_chocope
+6873 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_13_pacasmayo
+6875 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_13_santiago_de_cao
+6874 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_13_parrapos
+6872 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = none
+}
+#c_huamachuco
+#b_pe_13_huamachuco
+5378 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_13_la_soledad
+5381 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = city_holding
+}
+#b_pe_06_otuto
+5380 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_13_san_vicente_de_pa_l
+5379 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = none
+}
+#d_chaparri
+#c_lambayeque
+#b_pe_14_chiclayo
+5205 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_13_chep_n
+5203 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_14_sa_a
+5204 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#c_jaen
+#b_pe_06_ja_n
+1247 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_20_huancabamba
+1248 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_06_zapotal
+1246 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = church_holding
+}
+#c_motupe
+#b_pe_14_mochum_
+3928 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_14_motupe
+3927 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_14_cerro_de_arena
+3926 = {
+	culture = costanorteno
+	religion = divina_chicha
+	holding = church_holding
+}
+#c_chota
+#b_pe_06_chota
+1000 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = castle_holding
+}
+#b_pe_14_oyot_n
+1001 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = city_holding
+}
+#b_pe_06_bellavista
+1003 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = church_holding
+}
+#b_pe_06_llama
+1002 = {
+	culture = huascareno
+	religion = divina_chicha
+	holding = none
+}
+#d_ancash
+#c_chimbote
+#b_pe_02_chimbote
+8272 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_15_paramonga
+8274 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_02_huanchuy
+8273 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = church_holding
+}
+#c_huaraz
+#b_pe_02_huaraz
+4635 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_02_pilcomayo
+4634 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_02_tumpa
+4638 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = church_holding
+}
+#b_pe_02_anta
+4637 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = none
+}
+#b_pe_02_aija
+4636 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = none
+}
+#c_barranca
+#b_pe_15_barranca
+7609 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = castle_holding
+}
+#b_pe_02_pacll_n
+7608 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = city_holding
+}
+#b_pe_02_ocros
+7610 = {
+	culture = nortechicano
+	religion = liberationism
+	holding = church_holding
+}
+#c_fitzcarrald
+#b_pe_02_yauya
+1241 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = castle_holding
+}
+#b_pe_02_yanas
+1242 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = none
+}
+#b_pe_13_challas
+1240 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = church_holding
+}
+#b_pe_02_huari
+1243 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = city_holding
+	1551.5.12 = {
+		special_building = antamina_mines_01
+	}
+}
+#b_pe_10_san_pedro_de_chonta
+1244 = {
+	culture = huascareno
+	religion = inti_religion
+	holding = none
+}

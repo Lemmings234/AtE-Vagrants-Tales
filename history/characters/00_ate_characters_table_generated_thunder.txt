@@ -1,0 +1,2312 @@
+﻿thunder_mnikhowozu_thasunke_luta_1 = { # k_the_dakotas
+	name = "Tha_s_hat__u_act__n_g_ke_L_u_act_ta"
+	dynasty = dynn_thunder_mnikhowozu
+	female = no
+	disallow_random_traits = no
+	
+	culture = lakota
+	religion = fire_cross
+
+	trait = education_learning_3
+	trait = generous
+	trait = calm
+	trait = patient
+	
+	2612.12.10 = {
+		birth = yes
+		
+	}
+}
+thunder_lundegaard_peter_1 = { # d_minnesota
+	name = "Peter"
+	dynasty = dynn_thunder_lundegaard
+	female = no
+	disallow_random_traits = no
+	
+	culture = northlander
+	religion = viking
+	
+	2643.9.18 = {
+		birth = yes
+		
+	}
+}
+thunder_lorne_exo = {
+	name = "Lorne"
+	dynasty = dynn_gundersen
+	religion = "exovedate"
+	culture = "northlander"
+	female = no
+	disallow_random_traits = yes
+	trait = disloyal
+	trait = humble
+	trait = patient
+	trait = gregarious
+	trait = education_stewardship_2
+	trait = lifestyle_hunter
+	2642.2.28 = {
+		birth = yes
+		make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:viking }
+	}
+}
+thunder_morden_lorne_1 = { # d_regina
+	name = "Lorne"
+	dynasty = dynn_thunder_morden
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = real_road
+
+	
+	
+	2616.9.5 = {
+		birth = yes
+		
+	}
+}
+thunder_cardinal_maskwa_1 = { # d_north_saskatchewan
+	name = "Maskwa"
+	dynasty = dynn_thunder_cardinal
+	female = no
+	disallow_random_traits = no
+	
+	culture = plains_cree
+	religion = sun_dance
+
+	trait = education_diplomacy_3
+	trait = calm
+	trait = ambitious
+	trait = brave
+	trait = diligent
+	trait = physique_good_2
+	trait = overseer
+	
+	2637.4.4 = {
+		birth = yes
+		
+	}
+}
+thunder_butterdome_gord_1 = { # d_edmonton
+	name = "Gord"
+	dynasty = dynn_thunder_butterdome
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = soiltapper
+
+	trait = education_stewardship_3
+	trait = callous
+	trait = just
+	trait = temperate
+	trait = lifestyle_hunter
+	trait = physique_good_2
+	
+	2630.9.5 = {
+		birth = yes
+		give_nickname = nick_the_greasy
+	}
+	2666.1.1 = { 
+		effect = {
+			set_relation_rival = { target = character:thunder_hamoudi_hasan_1 reason = rival_historical } # battle for Alberta
+		}
+	}
+}
+thunder_buddy_puckschlager_1 = { # c_red_deer
+	name = "Buddy"
+	dynasty = dynn_buddy_puckschlager
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = real_road
+
+	trait = education_martial_4
+    trait = patient
+    trait = humble
+    trait = brave
+    trait = lifestyle_blademaster
+    trait = dull
+    trait = athletic
+    trait = winter_soldier
+	
+	learning = 0
+	prowess = 25
+    
+	2648.6.3 = {
+		birth = yes
+		give_nickname = nick_the_goon
+	}
+}
+
+thunder_lundegaard_geraldine_1 = { # d_fargo
+	name = "Geraldine"
+	dynasty = dynn_thunder_lundegaard
+	female = yes
+	disallow_random_traits = no
+	
+	culture = northlander
+	religion = viking
+
+	trait = education_diplomacy_4
+	trait = craven
+	trait = greedy
+	trait = gregarious
+	trait = stuttering
+	
+	2635.3.15 = {
+		birth = yes
+		# give_nickname = nick_my_deal
+	}
+}
+thunder_fedoruk_wasyly_1 = { # d_kelsey
+	name = "Wasyly"
+	dynasty = dynn_thunder_fedoruk
+	female = no
+	disallow_random_traits = no
+	
+	culture = preiryansky
+	religion = real_road
+
+	trait = education_martial_1
+	trait = brave
+	trait = impatient
+	trait = vengeful
+	trait = strong
+	trait = intellect_bad_2
+	
+	2637.1.26 = {
+		birth = yes
+		
+	}
+}
+thunder_nelson_roger_1 = { # d_twin_cities
+	name = "Roger"
+	dynasty = dynn_thunder_nelson
+	dna = roger_nelson
+	female = no
+	martial = 10
+	diplomacy = 20
+	intrigue = 11
+	stewardship = 13
+	learning = 13
+	
+	trait = poet
+	trait = paranoid
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	
+	culture = minnesotan
+	religion = viking
+
+	
+	
+	2641.4.8 = {
+		birth = yes
+		
+	}
+}
+fi_chay_vong_northstar = { 
+	name = "Fi_Chay"
+	dynasty = dynn_thunder_vong
+	female = no
+	disallow_random_traits = yes
+	martial = 20
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 13
+	learning = 9
+	
+	trait = strategist
+	trait = ambitious
+	trait = calm
+	trait = brave
+	trait = education_martial_4
+	trait = winter_soldier
+	trait = ill
+	
+	culture = minnesotan
+	religion = lakeshore
+
+	
+	
+	2211.2.20 = {
+		birth = yes
+		
+	}
+	2272.3.29 = {
+		death = {death_reason=death_smallpox } }
+}
+vu_paj_vong_northstar = { 
+	name = "Vu_Paj"
+	dynasty = dynn_thunder_vong
+	female = no
+	father = fi_chay_vong_northstar
+	disallow_random_traits = yes
+	martial = 5
+	diplomacy = 10
+	intrigue = 2
+	stewardship = 11
+	learning = 2
+	
+	trait = fickle
+	trait = generous
+	trait = brave
+	trait = education_stewardship_3
+	trait = scarred
+	
+	culture = minnesotan
+	religion = lakeshore
+
+	
+	
+	2245.5.1 = {
+		birth = yes
+		
+	}
+	2300.6.2 = { death = { death_reason = death_shot } }
+}
+st_cole_hayer = { 
+	name = "Cole"
+	dynasty = dynn_thunder_hayer
+	female = no
+	disallow_random_traits = yes
+	martial = 11
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 2
+	learning = 15
+	
+	trait = zealous
+	trait = brave
+	trait = diligent
+	trait = education_learning_3
+	trait = saint
+	trait = holy_warrior
+	trait = theologian
+	trait = one_legged
+	trait = pneumonic
+	trait = maimed
+	
+	culture = minnesotan
+	religion = catholic
+
+	
+	
+	2232.10.26 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	
+	2309.9.1={death=yes}
+}
+thunder_khan_wazir_1 = { # d_calgary
+	name = "Wazir"
+	dynasty = dynn_thunder_khan
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = traditionalist
+
+	
+	
+	2614.3.8 = {
+		birth = yes
+		
+	}
+}
+thunder_sinclair_anders_1 = { # d_palliser
+	# Give me a fundie brother!
+	name = "Anders"
+	dynasty = dynn_thunder_sinclair
+	female = no
+	disallow_random_traits = no
+
+	trait = twin    
+
+	culture = prairielander
+	religion = mormon
+
+	father = morereligions_sinclair_gordon
+	
+	2623.9.20 = {
+		birth = yes
+		
+	}
+}
+
+thunder_sinclair_card_1 = { # d_palliser
+	# That fundie brother
+	name = "Card"
+	dynasty = dynn_thunder_sinclair
+	female = no
+	disallow_random_traits = no
+
+	trait = twin    
+
+	culture = prairielander
+	religion = woolleyite
+
+	father = morereligions_sinclair_gordon
+	
+	2623.9.20 = {
+		birth = yes
+		
+	}
+}
+
+morereligions_sinclair_gordon = {
+	# Their dad
+	name = "Anders"
+	dynasty = dynn_thunder_sinclair
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = mormon
+
+	
+	
+	2594.1.1 = {
+		birth = yes
+	}
+
+	2657.4.18 = {
+		death = yes
+	}
+}
+thunder_desjarlais_xavier_1 = { # d_flin_flon
+	name = "Xavier"
+	dynasty = dynn_thunder_desjarlais
+	female = no
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+
+	trait = hunchbacked
+	
+	2640.1.13 = {
+		birth = yes
+		
+	}
+}
+thunder_fox_chibenashi_1 = { # d_itasca
+	name = "Chibenashi"
+	dynasty = dynn_thunder_fox
+	female = no
+	disallow_random_traits = no
+	
+	culture = chippewa
+	religion = midewiwin
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = callous
+	trait = arrogant
+	trait = forder
+	
+	2644.11.27 = {
+		birth = yes
+		
+	}
+}
+thunder_epp_werner_1 = { # d_smoky_river
+	name = "Werner"
+	dynasty = dynn_thunder_epp
+	female = no
+	disallow_random_traits = no
+	
+	culture = plautsdeutsch
+	religion = mennonite
+
+	
+	
+	2626.12.19 = {
+		birth = yes
+		
+	}
+}
+thunder_wombdiska_ohiye_s_a_1 = { # d_cannington
+	name = "Oh_i_act_ye_Sa"
+	dynasty = dynn_thunder_wombdiska
+	female = no
+	disallow_random_traits = no
+	
+	culture = dakota
+	religion = sun_dance
+
+	
+	
+	2643.8.14 = {
+		birth = yes
+		
+	}
+}
+thunder_mctavish_roderick_1 = { # d_saskatoon
+	name = "Roderick"
+	dynasty = dynn_thunder_mctavish
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = real_road
+
+	trait = education_martial_2
+	trait = wrathful
+	trait = brave
+	trait = stubborn
+	trait = lunatic_1
+	
+	2621.9.2 = {
+		birth = yes
+		
+	}
+}
+thunder_supernault_auguste_1 = { # d_winnipeg
+	name = "Auguste-Louis"
+	dynasty = dynn_thunder_supernault
+	female = no
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+	trait = zealous
+
+	
+	
+	2642.9.18 = {
+		birth = yes
+		
+	}
+}
+thunder_david_paradis = {
+	name = "David_Ren_e_act_"
+	dynasty = dynn_paradis
+	female = no
+	disallow_random_traits = yes
+	
+	culture = metis
+	religion = exovedate
+	trait = zealous
+	trait = education_learning_5
+	trait = brave
+	trait = arrogant
+	trait = wounded_1
+	trait = loyal
+	trait = ill
+
+	
+	
+	2625.11.16 = {
+		birth = yes
+		give_nickname = nick_the_pious
+	}
+}
+thunder_trevor_worms = {
+	name = "Trevor"
+	dynasty = dynn_worms
+	female = no
+	disallow_random_traits = yes
+	
+	culture = metis
+	religion = exovedate
+	trait = wrathful
+	trait = greedy
+	trait = ambitious
+	trait = reaver
+	trait = one_eyed
+	trait = forder
+
+	
+	
+	2632.9.19 = {
+		birth = yes
+		give_nickname = nick_the_last_pirate
+	}
+}
+thunder_gabriel_olympe = {
+	name = "Gabriel"
+	dynasty = dynn_olympe
+	female = no
+	disallow_random_traits = yes
+	
+	culture = metis
+	religion = exovedate
+	trait = education_martial_3
+	trait = gallant
+	trait = chaste
+	trait = trusting
+	trait = just
+
+	
+	
+	2637.6.11 = {
+		birth = yes
+		
+	}
+}
+thunder_deen.sam_1 = { # d_chinook
+	name = "Sam"
+	dynasty_house = house_thunder_khan_deen
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = real_road
+
+	
+	
+	2645.10.21 = {
+		birth = yes
+		
+	}
+}
+thunder_spear_chief_kai_okotan_1 = { # d_hi_line
+	name = "Kai_Okotan"
+	dynasty = dynn_thunder_spear_chief
+	female = no
+	disallow_random_traits = no
+	
+	culture = blackfoot
+	religion = sun_dance
+
+	
+	
+	2627.9.25 = {
+		birth = yes
+		
+	}
+}
+thunder_amiotte_sinte_maza_1 = { # d_coteau_des_prairies
+	name = "Si_n_g_t_e_act__M_a_act_za"
+	dynasty = dynn_thunder_amiotte
+	female = no
+	disallow_random_traits = no
+	
+	culture = lakota
+	religion = sun_dance
+
+	
+	
+	2615.12.10 = {
+		birth = yes
+		
+	}
+}
+thunder_kelsey_harmon_1 = { # d_north_dakota
+	name = "Harmon"
+	dynasty_house = house_thunder_moon_kelsey
+	female = no
+	disallow_random_traits = no
+	
+	culture = badlander
+	religion = real_road
+
+	trait = education_learning_4
+	trait = shy
+	trait = lustful
+	trait = content
+	trait = beauty_good_3
+	
+	2636.5.22 = {
+		birth = yes
+		
+	}
+}
+thunder_first_rider_orin_1 = { # d_fort_berthold
+	name = "Orin"
+	dynasty = dynn_thunder_first_rider
+	female = no
+	disallow_random_traits = no
+	
+	culture = mandaree
+	religion = sun_dance
+
+	trait = education_diplomacy_2
+	trait = compassionate
+	trait = just
+	trait = gluttonous
+	
+	2624.5.26 = {
+		birth = yes
+		
+	}
+}
+thunder_canku_snasna_1 = { # d_sheyenne
+	name = "Sn_a_act_sna"
+	dynasty = dynn_thunder_canku
+	female = yes
+	disallow_random_traits = no
+	
+	culture = dakota
+	religion = sun_dance
+
+	
+	
+	2634.4.12 = {
+		birth = yes
+		
+	}
+}
+thunder_hiwalker_motseske_ohnexahpo_1 = { # d_eastern_montana
+	name = "Mot_s_hat__e_act__s_hat_ke__o_act_hn_e_act_x_a_act_hpo"
+	dynasty = dynn_thunder_hiwalker
+	female = no
+	disallow_random_traits = no
+	
+	culture = cheyenne
+	religion = sun_dance
+
+	
+	
+	2624.12.16 = {
+		birth = yes
+		
+	}
+}
+thunder_peelatchi_waaxpaash_robert_1 = { # d_powder_river
+	name = "Robert"
+	dynasty = dynn_thunder_peelatchi_waaxpaash
+	female = no
+	disallow_random_traits = no
+	
+	culture = crow
+	religion = sun_dance
+
+	
+	
+	2639.1.12 = {
+		birth = yes
+		
+	}
+}
+thunder_warner_maddie_1 = { # d_western_montana
+	name = "Maddie"
+	dynasty = dynn_thunder_warner
+	female = yes
+	disallow_random_traits = no
+	
+	culture = mountainer
+	religion = interranger
+
+	trait = education_learning_4
+	trait = lustful
+	trait = compassionate
+	trait = gregarious
+	
+	2649.6.24 = {
+		birth = yes
+		
+	}
+}
+thunder_eashappie_alexie_1 = { # d_medicine_line
+	name = "Alexie"
+	dynasty = dynn_thunder_eashappie
+	female = no
+	disallow_random_traits = no
+	
+	culture = nakota
+	religion = sun_dance
+
+	
+	
+	2638.6.18 = {
+		birth = yes
+		
+	}
+}
+
+thunder_groening_menno_1 = { # d_upper_peace
+	name = "Menno"
+	dynasty = dynn_thunder_groening
+	female = no
+	disallow_random_traits = no
+	
+	culture = plautsdeutsch
+	religion = mennonite
+
+	
+	
+	2629.9.8 = {
+		birth = yes
+		
+	}
+}
+thunder_delorme_wilma_1 = { # c_wynyard
+	name = "Wilma"
+	dynasty = dynn_thunder_delorme
+	female = yes
+	disallow_random_traits = no
+	
+	culture = oji_cree
+	religion = real_road
+
+	
+	
+	2646.11.19 = {
+		birth = yes
+		
+	}
+}
+thunder_onez_ilao_erwin_1 = { # c_portage_la_prairie
+	name = "Erwin"
+	dynasty = dynn_thunder_onez_ilao
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = exovedate
+
+	
+	
+	2646.8.26 = {
+		birth = yes
+		
+	}
+}
+thunder_malarchuk_norman_1 = { # c_newell
+	name = "Nurali"
+	dynasty = dynn_thunder_malarchuk
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2636.9.3 = {
+		birth = yes
+		
+	}
+}
+thunder_stone_hawk_waglula_1 = { # c_standing_rock
+	name = "Wagl_u_act_la"
+	dynasty = dynn_thunder_stone_hawk
+	female = no
+	disallow_random_traits = no
+	
+	culture = lakota
+	religion = sun_dance
+
+	trait = education_learning_3
+	trait = sadistic
+	trait = wrathful
+	trait = patient
+	
+	2642.6.20 = {
+		birth = yes
+		
+	}
+}
+thunder_eagle_bone_sue_1 = { # c_yankton
+	name = "Sue"
+	dynasty = dynn_thunder_eagle_bone
+	female = yes
+	disallow_random_traits = no
+	
+	culture = dakota
+	religion = sun_dance
+
+	trait = education_martial_3
+	trait = brave
+	trait = wrathful
+	trait = callous
+	trait = physique_good_2
+	
+	2638.3.28 = {
+		birth = yes
+		
+	}
+}
+
+
+thunder_hofner_zacharias_1 = {
+	name = "Zacharias"
+	dynasty = dynn_thunder_hofner
+	female = no
+	disallow_random_traits = yes
+
+	culture = plautsdeutsch
+	religion = hutterite
+
+	trait = education_learning_2
+	trait = zealous
+	trait = forgiving
+	trait = impatient
+
+	2589.12.30 = {
+		birth = yes
+	}
+
+	2603.11.13 = {
+		add_spouse = thunder_jansen_elisabeth_1
+	}
+
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+
+thunder_jansen_elisabeth_1 = {
+	name = "Elisabeth"
+	dynasty = dynn_thunder_jansen
+	female = yes
+
+	culture = plautsdeutsch
+	religion = hutterite
+
+	trait = education_stewardship_3
+	trait = cynical
+	trait = forgiving
+	trait = calm
+
+	2593.3.5 = {
+		birth = yes
+	}
+}
+
+thunder_makha_icu_thamakhoche_thehila_1 = { # c_haakon
+	name = "Tham_a_act_kho_c_hat_he_Theh_i_act_la"
+	dynasty = dynn_thunder_makha_icu
+	female = no
+	disallow_random_traits = no
+	
+	culture = lakota
+	religion = fire_cross
+
+	
+	
+	2631.9.22 = {
+		birth = yes
+		
+	}
+}
+thunder_crawler_corrine_1 = { # c_banff
+	name = "Corrine"
+	dynasty = dynn_thunder_crawler
+	female = yes
+	disallow_random_traits = no
+	
+	culture = nakota
+	religion = holocenian
+
+	trait = education_learning_4
+	trait = craven
+	trait = shy
+	trait = ambitious
+	
+	2631.6.21 = {
+		birth = yes
+		
+	}
+}
+thunder_macpherson_wayne_1 = { # c_edmonton
+	name = "Wayne"
+	dynasty = dynn_thunder_macpherson
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = real_road
+
+	
+	
+	2633.9.13 = {
+		birth = yes
+		
+	}
+}
+thunder_baird_sean_1 = { # c_fort_mac
+	name = "Sean"
+	dynasty = dynn_thunder_baird
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = soiltapper
+
+	
+	
+	2642.7.12 = {
+		birth = yes
+		
+	}
+}
+thunder_arcand_stephane_1 = { # c_slave_lake
+	name = "St_e_act_phane"
+	dynasty = dynn_thunder_arcand
+	female = no
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = mennonite
+
+	
+	
+	2635.3.1 = {
+		birth = yes
+		
+	}
+}
+thunder_tyrrell_roy_1 = { # d_assiniboia
+	name = "Roy"
+	dynasty = dynn_thunder_tyrrell
+	female = no
+	disallow_random_traits = yes
+	
+	culture = prairielander
+	religion = saurian
+
+	trait = education_martial_3
+	trait = zealous
+	trait = wrathful
+	trait = humble
+	trait = possessed_1 
+	trait = cannibal
+	
+	2640.2.16 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		effect = {
+			add_trait = lifestyle_hunter
+			add_trait_xp = {
+				trait = lifestyle_hunter
+				track = hunter
+				value = 100
+			}
+		}
+	}
+}
+thunder_vigil_custer_1 = { # c_great_falls
+	name = "Custer"
+	dynasty = dynn_thunder_vigil
+	female = no
+	disallow_random_traits = no
+	
+	culture = mountainer
+	religion = real_road
+
+	trait = education_intrigue_2
+	trait = lustful
+	trait = brave
+	trait = ambitious
+	trait = intellect_bad_3
+	
+	2647.4.10 = {
+		birth = yes
+		
+	}
+}
+thunder_o_watch_toktenaga_1 = { # c_gravelbourg
+	name = "Tokt_e_act_naga"
+	dynasty = dynn_thunder_o_watch
+	female = no
+	disallow_random_traits = no
+	
+	culture = nakota
+	religion = sun_dance
+
+	
+	
+	2647.2.26 = {
+		birth = yes
+		
+	}
+}
+thunder_vandal_david_1 = { # c_turtle_mountain
+	name = "David"
+	dynasty = dynn_thunder_vandal
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = metis
+	religion = exovedate
+
+	trait = education_martial_2
+	trait = content
+	trait = gregarious
+	trait = diligent
+	trait = lifestyle_hunter
+	
+	2621.3.15 = {
+		birth = yes
+		
+	}
+}
+thunder_thornton_ryder_1 = { # c_minot
+	name = "Ryder"
+	dynasty = dynn_thunder_thornton
+	female = no
+	disallow_random_traits = no
+	
+	culture = northlander
+	religion = viking
+
+	trait = education_intrigue_3
+	trait = lustful
+	trait = ambitious
+	trait = brave
+	trait = berserker
+	trait = intellect_good_1
+	
+	2643.8.19 = {
+		birth = yes
+		
+	}
+}
+thunder_kawamura_ian_1 = { # c_medicine_hat
+	name = "Ian"
+	dynasty = dynn_thunder_kawamura
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = saurian
+
+	
+	
+	2620.8.20 = {
+		birth = yes
+		
+	}
+}
+thunder_wuttunee_waseskwan_iskwew_1 = { # c_prince_albert
+	name = "Waseskwan_Iskwew"
+	dynasty = dynn_thunder_wuttunee
+	female = yes
+	disallow_random_traits = no
+	
+	culture = plains_cree
+	religion = exovedate
+
+	
+	
+	2643.1.6 = {
+		birth = yes
+		
+	}
+}
+thunder_dumont_danielle_1 = { # c_st_paul
+	name = "Danielle"
+	dynasty = dynn_thunder_dumont
+	female = yes
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+
+	
+	
+	2641.12.10 = {
+		birth = yes
+		
+	}
+}
+thunder_isbister_keith_1 = { # c_cold_lake
+	name = "Keith"
+	dynasty = dynn_thunder_isbister
+	female = no
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+
+	
+	
+	2623.12.16 = {
+		birth = yes
+		
+	}
+}
+thunder_swanson_swan_1 = { # c_crow_wing
+	name = "Swan"
+	dynasty = dynn_thunder_swanson
+	female = no
+	disallow_random_traits = no
+	
+	culture = northlander
+	religion = viking
+
+	trait = education_martial_2
+	trait = humble
+	trait = gregarious
+	trait = wrathful
+	trait = lifestyle_blademaster
+	
+	2617.11.24 = {
+		birth = yes
+		
+	}
+}
+thunder_abdinoor_faysal_1 = { # c_shakopee
+	name = "Faysal"
+	dynasty = dynn_thunder_abdinoor
+	female = no
+	disallow_random_traits = no
+	
+	culture = minnesotan
+	religion = viking
+
+	trait = education_intrigue_3
+	trait = paranoid
+	trait = lustful
+	trait = brave
+	
+	2627.7.2 = {
+		birth = yes
+		
+	}
+}
+thunder_rasmussen_rune_1 = { # c_alexandria
+	name = "Rune"
+	dynasty = dynn_thunder_rasmussen
+	female = no
+	disallow_random_traits = no
+	
+	culture = northlander
+	religion = viking
+
+	trait = education_martial_4
+	trait = brave
+	trait = sadistic
+	trait = calm
+	
+	2632.9.11 = {
+		birth = yes
+		# give_nickname = nick_the_grim
+	}
+}
+thunder_vang_helga_1 = { # c_st_cloud
+	name = "Helga"
+	dynasty = dynn_thunder_vang
+	female = yes
+	disallow_random_traits = no
+	
+	culture = minnesotan
+	religion = viking
+
+	trait = education_martial_3
+	trait = generous
+	trait = fickle
+	trait = zealous
+	trait = strong
+	trait = shieldmaiden
+	
+	2645.7.17 = {
+		birth = yes
+		
+	}
+}
+thunder_thorlakson_thrain_1 = { # c_little_iceland
+	name = "Thrain"
+	dynasty = dynn_thunder_thorlakson
+	female = no
+	disallow_random_traits = no
+	
+	culture = prairielander
+	religion = viking
+
+	trait = education_martial_3
+	trait = stubborn
+	trait = arrogant
+	trait = brave
+	trait = dwarf
+	trait = physique_good_1
+	
+	2636.4.16 = {
+		birth = yes
+		
+	}
+}
+thunder_badger_mukitou_1 = { # c_granville
+	name = "Mukitou"
+	dynasty = dynn_thunder_badger
+	female = no
+	disallow_random_traits = no
+	
+	culture = woodland_cree
+	religion = exovedate
+
+	
+	
+	2635.5.18 = {
+		birth = yes
+		
+	}
+}
+thunder_klassen_otto_1 = { # c_steinbach
+	name = "Otto"
+	dynasty = dynn_thunder_klassen
+	female = no
+	disallow_random_traits = no
+	
+	culture = plautsdeutsch
+	religion = hutterite
+
+	
+	
+	2611.4.18 = {
+		birth = yes
+		
+	}
+}
+
+thunder_moliwsyn_mykyta_1 = { #
+	name = "Mykyta"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = real_road
+	2320.5.14 = {
+		birth = yes
+		
+	}
+	2363.9.27 = {
+		death = "2363.9.27"
+		
+	}
+}
+thunder_moliwsyn_orest_1 = { # first king of Saskachewan
+	name = "Orest"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_mykyta_1
+	culture = preiryansky
+	religion = real_road
+	2339.10.13 = {
+		birth = yes
+		
+	}
+	2388.10.20 = {
+		death = "2388.10.20"
+		
+	}
+}
+thunder_moliwsyn_poltava_1 = { #Poltava, conqueror of Alberta
+	name = "Poltava"
+	dynasty = dynn_thunder_moliwsyn
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_orest_1
+	culture = preiryansky
+	religion = real_road
+	2356.11.7 = {
+		birth = yes
+		
+	}
+	2405.4.24 = {
+		death = "2405.4.24"
+		
+	}
+}
+thunder_moliwsyn_olha_1 = { #Hetmanka of Saskachewan 
+	name = "Olha"
+	dynasty = dynn_thunder_moliwsyn
+	female = yes
+	disallow_random_traits = yes
+	mother = thunder_moliwsyn_poltava_1
+	culture = preiryansky
+	religion = real_road
+	2375.5.4 = {
+		birth = yes
+		
+	}
+	2418.7.8 = {
+		death = "2418.7.8"
+		
+	}
+}
+thunder_moliwsyn_jarema_1 = { #The Old_ Conqueror of Manitoba
+	name = "Jarema"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_moliwsyn_olha_1
+	culture = preiryansky
+	religion = real_road
+	2394.3.14 = {
+		birth = yes
+		
+	}
+	2457.7.21 = {
+		death = "2457.7.21"
+		
+	}
+}
+thunder_moliwsyn_orest_2 = { #The Livid_ Hetman of Saskachewan, killed and usurped the throne oh his brother Kherson
+	name = "Orest"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_jarema_1
+	culture = preiryansky
+	religion = real_road
+	2412.9.25 = {
+		birth = yes
+		
+	}
+	2462.2.18 = {
+	death = {
+		death_reason = death_battle
+		killer = thunder_moliwsyn_taras_great
+	}
+	}
+}
+thunder_moliwsyn_kherson_1 = { #
+	name = "Kherson"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_jarema_1
+	culture = preiryansky
+	religion = real_road
+	2423.3.6 = {
+		birth = yes
+		
+	}
+	2459.7.17 = {
+	death = {
+		death_reason = death_battle
+		killer = thunder_moliwsyn_orest_2
+	}
+	}
+}
+thunder_synmykyty_mykyta_1 = { #
+	name = "Mykyta"
+	dynasty_house = house_thunder_moliwsyn_synmykyty
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_moliwsyn_poltava_1
+	culture = preiryansky
+	religion = real_road
+	2381.7.30 = {
+		birth = yes
+		
+	}
+	2427.4.26 = {
+		death = "2427.4.26"
+		
+	}
+}
+thunder_synmykyty_sambor_1 = { #transfered capital to Calgary and embraced local ahmadiyya faith_ Regarded as an annointed figure
+	name = "Sambor"
+	dynasty_house = house_thunder_moliwsyn_synmykyty
+	female = no
+	disallow_random_traits = yes
+	father = thunder_synmykyty_mykyta_1
+	culture = preiryansky
+	religion = ahmadiyya
+	2401.8.18 = {
+		birth = yes
+		
+	}
+	2456.2.24 = {
+		death = "2456.2.24"
+		
+	}
+}
+thunder_synmykyty_zakhar_1 = { #A pious muslim, attempted to contest Saskachewan from Taras I but lost and was killed heirless_ Rest of his pious army formed what is now Jamaat of Calgary
+	name = "Zakhar"
+	dynasty_house = house_thunder_moliwsyn_synmykyty
+	female = no
+	disallow_random_traits = yes
+	father = thunder_synmykyty_sambor_1
+	culture = preiryansky
+	religion = ahmadiyya
+	2435.9.9 = {
+		birth = yes
+		
+	}
+	2463.1.23 = {
+	death = {
+		death_reason = death_battle
+		killer = thunder_moliwsyn_taras_great
+	}
+		
+	}
+}
+thunder_synmykyty_zoria_1 = { #daughter of Zakhar, taken as a wife by his general Hwedir, who later united the Jamaat of Calgary
+	name = "Zor_i_uml_a"
+	dynasty_house = house_thunder_moliwsyn_synmykyty
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_synmykyty_zakhar_1
+	culture = preiryansky
+	religion = ahmadiyya
+	2454.3.7 = {
+		birth = yes
+		
+	}
+	2507.9.11 = {
+		death = "2507.9.11"
+		
+	}
+}
+thunder_moliwsyn_taras_great = { #Providnyk_ Grand Hetman-Unifier of the Three Realms 
+	name = "Taras"
+	dynasty = dynn_thunder_moliwsyn
+	female = no
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_kherson_1
+	culture = preiryansky
+	religion = real_road
+	2441.8.24 = {
+		birth = yes
+		
+	}
+	2487.8.24 = { 
+		add_spouse = ceilidh_beaton
+	}
+	2506.10.23 = {
+		death = "2506.10.23"
+		
+	}
+}
+ceilidh_beaton = { #known in the Hetmanate as Kelïa "Halychanka" Hordon, daughter of Maritime King Winchester MacGordan Beaton
+	name = "Ceilidh"
+	dynasty = dynn_canada_beaton
+	female = yes
+	disallow_random_traits = yes
+	
+	culture = gaidheal
+	religion = real_road
+	father=gordan_beaton
+	mother=juno_mcneil
+	2469.1.12 = {
+		birth = yes
+		
+	}
+	2491.11.3 = {
+	death = {
+		death_reason = death_childbirth 
+	}
+		
+	}
+}
+thunder_moliwsyn_poltava_2 = { #Eldest of the daughters of Taras, Hetmanka of Saskachewan_ Took the name Hordon after her prestegious mother
+	name = "Poltava"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_taras_great
+	mother = ceilidh_beaton
+	culture = preiryansky
+	religion = real_road
+	2488.1.4 = {
+		birth = yes
+		
+	}
+	2543.12.20 = {
+		death = "2543.12.20"
+		
+	}
+}
+thunder_moliwsyn_taras_2 = { #Killed Kherson II and usurped Manitoba_ Manitoba was later conquered be the invading Exovedate, Taras Kia_ Saskachewan was usurped my Martyn Stephanyk
+	name = "Taras"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_moliwsyn_poltava_2
+	culture = preiryansky
+	religion = real_road
+	2509.7.28 = {
+		birth = yes
+		
+	}
+	2571.6.30 = {
+	death = {
+		death_reason = death_siege
+	}
+	}
+}
+thunder_moliwsyn_zhytomyr_d_1 = { #rebelled against Martyn the Imposter but lost and was killed
+	name = "Zhytomyr"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_moliwsyn_poltava_2
+	culture = preiryansky
+	religion = real_road
+	2527.12.1 = {
+		birth = yes
+		
+	}
+	2573.10.10 = {
+	death = {
+		death_reason = death_decapitated
+		killer = thunder_stephanyk_martyn_1
+		}
+	}
+}
+thunder_moliwsyn_jarema_2 = { #was 4 years old when his father was executed, his mother plotted revenge while Stephanyks were to busy killing each other to kill him_ Eventually died of illness
+	name = "Jarema"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = no
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_zhytomyr_d_1
+	culture = preiryansky
+	religion = real_road
+	2569.9.1 = {
+		birth = yes
+		
+	}
+	2605.10.19 = {
+	death = {
+		death_reason = death_ill
+		}
+	}
+}
+thunder_moliwsyn_zhytomyr_1 = { #Killed Didukh Stephanyk and usurped Saskachewan back_ Was a major reformer, bringing in feudalism from the east and attempting to convert the free folk_ Was betrayed and murdered by his close friend Petropawlo 
+	name = "Zhytomyr"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = no
+	trait = education_stewardship_4
+	trait = just
+	trait = zealous
+	trait = stubborn
+	trait = intellect_good_3
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_jarema_2
+	culture = preiryansky
+	religion = real_road
+
+	
+	2587.7.7 = {
+		birth = yes
+		
+	}
+	2641.1.2 = {
+	death = {
+		death_reason = death_murder_known
+		killer = thunder_stephanyk_petropawlo_1
+		}
+	}
+}
+thunder_moliwsyn_taras_1 = { # c_melfort
+	name = "Taras"
+	dynasty_house = house_thunder_moliwsyn_hordon
+	female = no
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = lazy
+	trait = fickle
+	trait = patient
+	trait = architect
+	trait = lifestyle_gardener
+	father = thunder_moliwsyn_zhytomyr_1 
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = real_road
+	2638.5.9 = {
+		birth = yes
+		
+	}
+}
+thunder_oleskiw_oleksa_1 = { #middle daughter of taras, called sometimes "the eternal queen in the west", significantly empowered non-preiryansky nobles to conteract the plotting home-tribes
+	name = "Oleksa"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_taras_great
+	mother = ceilidh_beaton
+	culture = prairielander
+	religion = real_road
+	trait = twin
+	2491.11.2 = {
+		birth = yes
+		
+	}
+	2559.6.17 = {
+		death = "2559.6.17"
+		
+	}
+}
+thunder_oleskiw_mykyta_1 = { #Lived all his life in shadow of his mother, died only 4 years after her
+	name = "Mykyta"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_oleskiw_oleksa_1
+	culture = prairielander
+	religion = real_road
+	2516.4.1 = {
+		birth = yes
+		
+	}
+	2563.8.18 = {
+		death = "2563.8.18"
+		
+	}
+}
+thunder_oleskiw_zakhar_1 = { #under his rule the prairielander nobility started gaining more and more power, eventually usurping the throne and killing him
+	name = "Zakhar"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = no
+	disallow_random_traits = yes
+	father = thunder_oleskiw_mykyta_1
+	culture = preiryansky
+	religion = real_road
+	2538.2.2 = {
+		birth = yes
+		
+	}
+	2582.5.13 = {
+	death = {
+		death_reason = death_mysterious
+		}
+	}
+}
+thunder_oleskiw_mykyta_2 = { #was 15 when his father was murdered_ Strifed for power his whole life, battling real roader tribr, ahmadiyya expansion and northern amerindian pressure_ The latter eventuaally got him_
+	name = "Mykyta"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = no
+	disallow_random_traits = yes
+	father = thunder_oleskiw_zakhar_1
+	culture = preiryansky
+	religion = real_road
+	2567.2.20 = {
+		birth = yes
+		
+	}
+	2624.8.21 = {
+	death = {
+		death_reason = death_battle
+		}
+	}
+}
+thunder_oleskiw_peremyshl_1 = { #swore fealty to the duke of north saskatchewan in exchange for his life_ An honourable man, he never rebeled_
+	name = "Peremyshl"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = no
+	disallow_random_traits = yes
+	father = thunder_oleskiw_mykyta_2
+	culture = preiryansky
+	religion = real_road
+	2605.9.11 = {
+		birth = yes
+		
+	}
+	2664.7.2 = {
+		death = "2664.7.2"
+		
+	}
+}
+thunder_oleskiw_omelian_1 = { # c_camrose
+	name = "Omel_i_uml_in"
+	dynasty_house = house_thunder_moliwsyn_oleskiw
+	female = no
+	disallow_random_traits = yes
+	trait = education_learning_4
+	trait = forgiving
+	trait = stubborn
+	trait = ambitious
+	father = thunder_oleskiw_peremyshl_1
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2637.12.14 = {
+		birth = yes
+		
+	}
+	2664.1.1 = {
+		add_spouse = thunder_ghedz_wendy_1 
+	}	
+}
+thunder_ghedz_wendy_1 = { 
+	name = "Wendy"
+	dynasty = dynn_thunder_ghedz
+	female = yes
+	disallow_random_traits = yes
+	trait = education_diplomacy_4
+	trait = content
+	trait = wrathful
+	trait = gregarious
+	trait = beauty_good_2
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2639.10.08 = {
+		birth = yes
+		
+	}	
+}
+thunder_odesyt_odesa_1 = { #youngest daughter of Taras_ A fair maiden, he was infamous for her infidelity, her only known son was born out of wedlock
+	name = "Odesa"
+	dynasty_house = house_thunder_moliwsyn_odesyt
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_moliwsyn_taras_great
+	mother = ceilidh_beaton
+	culture = preiryansky
+	religion = real_road
+	trait = twin
+	2491.11.3 = {
+		birth = yes
+		
+	}
+	2531.12.16 = {
+	death = {
+		death_reason = death_vanished
+		}
+	}
+}
+thunder_odesyt_kherson_1 = { #A legitimized bastard, was murdered by his own cousin in his atempt to claim the throne of manitoba
+	name = "Kherson"
+	dynasty_house = house_thunder_moliwsyn_odesyt
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_odesyt_odesa_1
+	culture = preiryansky
+	religion = real_road
+	trait = legitimized_bastard
+	2512.6.6 = {
+		birth = yes
+		
+	}
+	2554.6.8 = {
+	death = {
+		death_reason = death_battle
+		killer = thunder_moliwsyn_taras_2 
+		}
+	}
+}
+thunder_odesyt_solomija_1 = { #Illigitimate daughter of Odesa, was not legitimized and married a lowborn out of love
+	name = "Solomija"
+	dynasty_house = house_thunder_moliwsyn_odesyt
+	female = yes
+	disallow_random_traits = yes
+	mother = thunder_odesyt_odesa_1
+	culture = preiryansky
+	religion = real_road
+	trait = bastard
+	2517.1.3 = {
+		birth = yes
+		
+	}
+	2571.6.30 = {
+	death = {
+		death_reason = death_siege
+		}
+	}
+}
+thunder_odesyt_odesa_2 = { #Lowborn daughter of Solomija, later taken by Martin the Imposter to legitimize his rights on the Saskachewan throne_ Despised him, taken his and her own life becasuse of it
+	name = "Odesa"
+	dynasty_house = house_thunder_moliwsyn_odesyt
+	female = yes
+	disallow_random_traits = yes
+	mother = thunder_odesyt_solomija_1
+	culture = preiryansky
+	religion = real_road
+	trait = bastard
+	2557.2.12 = {
+		birth = yes
+		
+	}
+	2586.9.6 = {
+	death = {
+		death_reason = death_suicide
+		}
+	}
+}
+thunder_stephanyk_didukh_1 = { #A protegee and possibly lover of queen Odesa, was given the duchy of Parkland was his servises
+	name = "Didukh"
+	dynasty = dynn_thunder_stephanyk
+	female = no
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2501.10.19 = {
+		birth = yes
+	}
+	2547.4.4 = {
+		death = "2547.4.4"
+	}
+}
+thunder_stephanyk_martyn_1 = { #Duke of Parkland, used the chaos of exovedate invasion to conquer the domain of his late liege king Taras Ii_ Killed by Odesa, his lowborn wife
+	name = "Martyn"
+	dynasty = dynn_thunder_stephanyk
+	female = no
+	disallow_random_traits = yes
+	father = thunder_stephanyk_didukh_1
+	culture = preiryansky
+	religion = real_road
+
+	2535.9.6 = {
+		birth = yes
+		give_nickname = nick_the_imposter
+	}
+	2576.1.1 = {
+	add_spouse = thunder_odesyt_odesa_2
+	}
+	2586.9.6 = {
+	death = {
+		death_reason = death_poison
+		killer = thunder_odesyt_odesa_2
+		}
+	}
+}
+thunder_stephanyk_poltava_1 = { #Fought her brother all her rule, eventually losing and getting executed_
+	name = "Poltava"
+	dynasty = dynn_thunder_stephanyk
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_stephanyk_martyn_1
+	mother = thunder_odesyt_odesa_2
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2578.4.17 = {
+		birth = yes
+	}
+	2613.9.9 = {
+	death = {
+		death_reason = death_burned
+		killer = thunder_stephanyk_didukh_2
+		}
+	}
+}
+thunder_stephanyk_didukh_2 = { #Was a newborn when his parents died, a cossack party in government used him as a figurhead in a bid for power_ Executed his sisiter Poltava_ Murdered by Zhytomyr Hordon in rebelion
+	name = "Didukh"
+	dynasty = dynn_thunder_stephanyk
+	female = no
+	disallow_random_traits = yes
+	father = thunder_stephanyk_martyn_1
+	mother = thunder_odesyt_odesa_2
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2585.5.18 = {
+		birth = yes
+	}
+	2621.8.13 = {
+	death = {
+		death_reason = death_battle
+		killer = thunder_moliwsyn_zhytomyr_1 
+		}
+	}
+}
+thunder_stephanyk_petropawlo_1 = { # Son of Poltava Stephanyk, a protegee of King Zhytomyr_ Eventually rose up in an open rebellion against his reforms, killing his master_ All in vain, as soon the free Cossacks conquered Saskachewan 
+	name = "Petropawlo"
+	dynasty = dynn_thunder_stephanyk
+	female = no
+	trait = education_diplomacy_3
+	trait = gregarious
+	trait = zealous
+	trait = content
+	trait = lifestyle_mystic
+	trait = lifestyle_reveler
+	trait = intellect_good_2
+	trait = depressed_1
+	mother = thunder_stephanyk_poltava_1
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = real_road
+
+	
+	
+	2611.2.20 = {
+		birth = yes
+		add_pressed_claim = title:k_saskatchewan
+	}
+}
+thunder_stephanyk_orysia_1 = { # d_parkland heir
+	name = "Orys_i_uml_a"
+	dynasty = dynn_thunder_stephanyk
+	female = yes
+	trait = education_intrigue_4
+	trait = gregarious
+	trait = calm
+	trait = callous
+	trait = beauty_good_1
+	trait = intellect_good_1
+	disallow_random_traits = yes
+	father = thunder_stephanyk_petropawlo_1
+	culture = preiryansky
+	religion = real_road
+	
+	2646.3.3 = {
+		birth = yes
+	}
+}
+thunder_doroshenko_zoria_1 = { # k_saskachewan
+	name = "Zor_i_uml_a"
+	dynasty = dynn_thunder_doroshenko
+	female = yes
+	trait = education_martial_3
+	trait = cynical 
+	trait = stubborn
+	trait = wrathful
+	trait = physique_good_2
+	trait = open_terrain_expert
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = real_road
+
+	2634.5.14 = {
+		birth = yes
+		give_nickname = nick_cherwona
+		effect = { add_character_flag = used_lifetime_migration }
+	}
+}
+thunder_sawchuck_hwedir_1 = { # General under the command of Caliph Zakhar_ After the defeat of his army retreated and claimed the Caliphate for himself, marrying his daughter Zoria
+	name = "Hwedir"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	
+	culture = preiryansky
+	religion = ahmadiyya
+	
+	2433.7.12 = {
+		birth = yes
+	}
+	2464.12.5 = {
+	add_spouse = thunder_synmykyty_zoria_1
+	}
+	2491.11.30 = {
+	death = yes
+	}
+}
+thunder_sawchuck_muhammad_1 = { # lived for over 70 years and ruled for half a century
+	name = "Muhammad"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_hwedir_1
+	mother = thunder_synmykyty_zoria_1
+	culture = prairielander
+	religion = ahmadiyya
+	
+	2472.3.16 = {
+		birth = yes
+	}
+	2547.11.3 = {
+		death = yes
+		give_nickname = nick_the_old
+	}
+}
+thunder_sawchuck_goodjohn_1 = { # Favorite child of Muhammad the First, was chosen successor even tho he was 10th in the line_ After ascension all 9 of his siblings "dissapeared" one ater another
+	name = "Goodjohn"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_muhammad_1
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2522.12.31 = {
+		birth = yes
+	}
+	2580.6.6 = {
+		death = {
+			death_reason = death_poison
+		}
+	}  
+}
+thunder_sawchuck_hasan_1 = { # 
+	name = "Hasan"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_goodjohn_1
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2557.2.17 = {
+		birth = yes
+		
+	}
+	2613.4.4 = {
+		death = yes
+	}
+}
+thunder_sawchuck_muhammad_2 = { # 
+	name = "Muhammad"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_hasan_1
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2577.7.7 = {
+		birth = yes
+		
+	}
+	2620.6.2 = {
+		death = {
+			death_reason = death_battle
+			#killer = 
+		}
+	}
+}
+thunder_sawchuck_kelso_1 = { # 
+	name = "Kelso"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_muhammad_2
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2598.2.8 = {
+		birth = yes
+		
+	}
+	2620.6.2 = {
+		death = {
+			death_reason = death_battle
+			#killer = 
+		}
+	}
+}
+thunder_sawchuck_hasan_2 = { # 
+	name = "Hasan"
+	dynasty = dynn_thunder_sawchuck
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_muhammad_2
+	culture = prairielander
+	religion = ahmadiyya
+
+	
+	
+	2601.2.5 = {
+		birth = yes
+		
+	}
+	2620.6.2 = {
+		death = {
+			death_reason = death_battle
+			#killer = 
+		}
+	}
+}
+thunder_hamoudi_muhammad_1 = { # 
+	name = "Muhammad"
+	dynasty = dynn_thunder_hamoudi
+	female = no
+	disallow_random_traits = yes
+	father = thunder_sawchuck_muhammad_2
+	culture = prairielander
+	religion = ahmadiyya
+	trait = bastard
+	
+	
+	2604.7.28 = {
+		birth = yes
+		
+	}
+	2666.7.1 = {
+	death = yes
+	}
+}
+thunder_hamoudi_cindy = { # 
+	name = "Cindy"
+	dynasty = dynn_thunder_hamoudi
+	female = yes
+	disallow_random_traits = yes
+	father = thunder_hamoudi_muhammad_1
+	culture = prairielander
+	religion = ahmadiyya
+	trait = education_diplomacy_3
+	trait = beauty_good_1
+	trait = lustful
+	trait = ambitious
+	trait = brave
+	
+	2627.9.11 = {
+		birth = yes
+	}
+	2647.8.11 = {
+	add_matrilineal_spouse = thunder_dibiazah_yaqub_1
+	}
+}
+thunder_hamoudi_hasan_1 = { # 
+	name = "Zulqarnain"
+	dynasty = dynn_thunder_hamoudi
+	female = no
+	disallow_random_traits = yes
+	mother = thunder_hamoudi_cindy
+	father = thunder_dibiazah_yaqub_1
+	culture = prairielander
+	religion = ahmadiyya
+	trait = education_martial_4
+	trait = brave
+	trait = stubborn
+	trait = ambitious
+	trait = beauty_good_1
+	trait = strong
+
+	2666.1.1 = {
+		give_nickname = nick_bronco
+	}
+
+	
+	2648.8.11 = {
+		birth = yes
+	}
+	2666.1.1 = { #don't know who this is
+		# effect = {
+		# 	set_relation_rival = { target = character:thunder_kwong_gord_1 } # battle for Alberta
+		# }
+	}
+}
+######Six Noble Knights of the Calipha#######
+thunder_dibiazah_yaqub_1 = { # 
+	name = "Ya'qub"
+	dynasty = dynn_thunder_dibiazah
+	female = no
+	disallow_random_traits = yes
+	culture = sunshiner
+	religion = ahmadiyya
+	trait = beauty_good_3
+	trait = education_stewardship_4
+	trait = just
+	trait = brave
+	trait = fickle
+	2634.3.21 = {
+		birth = yes
+		give_nickname = nick_qamar_al_din
+		employer = thunder_hamoudi_hasan_1
+	}
+}
+thunder_kashmiri_khalid_1 = { # 
+	name = "Khalid"
+	dynasty = dynn_thunder_kashmiri
+	female = no
+	disallow_random_traits = yes
+	culture = mountainer
+	religion = ahmadiyya
+	trait = physique_good_3
+	trait = education_martial_4
+	trait = aggressive_attacker
+	trait = rough_terrain_expert
+	trait = zealous
+	trait = shy
+	trait = wrathful
+	trait = possessed_1
+
+	2644.6.7 = {
+		birth = yes
+		employer = thunder_hamoudi_hasan_1
+	}
+}
+thunder_karawita_hwedir_1 = { # 
+	name = "Hwedir"
+	dynasty = dynn_thunder_karawita
+	female = no
+	disallow_random_traits = yes
+	culture = preiryansky
+	religion = ahmadiyya	
+	trait = education_martial_4
+	trait = lifestyle_blademaster
+	trait = open_terrain_expert	
+	trait = calm
+	trait = patient
+	trait = deceitful
+
+	2627.2.22 = {
+		birth = yes
+		employer = thunder_hamoudi_hasan_1
+	}
+}
+thunder_kanabawi_ismailahmad_1 = { # 
+	name = "Ismail_Ahmad"
+	dynasty = dynn_thunder_kanabawi
+	female = no
+	disallow_random_traits = yes
+	culture = prairielander
+	religion = ahmadiyya
+	trait = education_martial_4
+	trait = organizer
+	trait = wrathful
+	trait = callous
+	trait = patient
+
+	2632.12.12 = {
+		birth = yes
+		employer = thunder_hamoudi_hasan_1
+	}
+}
+thunder_jalilshisha_usmanabdul_1 = { # 
+	name = "Usman_Abdul"
+	dynasty = dynn_thunder_jalilshisha
+	female = no
+	disallow_random_traits = yes
+	culture = coloradan 
+	religion = ahmadiyya
+	trait = shrewd
+	trait = education_learning_4
+	trait = lifestyle_mystic
+	trait = hashishiyah
+	trait = diligent
+	trait = calm
+	trait = content
+
+	2630.7.9 = {
+		birth = yes
+		employer = thunder_hamoudi_hasan_1
+	}
+}
+thunder_sumbul_muhammad_1 = { # 
+	name = "Muhammad"
+	dynasty = dynn_thunder_sumbul
+	female = no
+	disallow_random_traits = yes
+	culture = prairielander
+	religion = ahmadiyya
+	trait = fecund
+	trait = education_martial_4
+	trait = lifestyle_hunter
+	trait = lustful
+	trait = calm
+	trait = gregarious
+
+
+	2636.9.19 = {
+		birth = yes
+		employer = thunder_hamoudi_hasan_1
+	}
+}

@@ -1,0 +1,2411 @@
+﻿gv_washington_george_1 = { # k_presidency 1
+    name = "George"
+    dynasty = dynn_gv_washington
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = constitutionalist
+
+	trait = education_martial_5
+    trait = brave
+    trait = honest
+    trait = just
+    trait = physique_good_3
+    
+	1732.7.4 = {
+        birth = yes
+    }
+    1776.1.1 = {
+      	add_spouse = flotus_martha_washington_1
+    }
+	1808.7.4 = {
+        death = "1808.7.4"
+    }
+}
+
+gv_john_adams_1 = { # k_presidency 2
+    name = "John"
+    dynasty = dynn_gv_adams
+    female = no
+    disallow_random_traits = no
+    
+    culture = letterman
+    religion = constitutionalist
+
+    
+	1735.2.14 = {
+        birth = yes
+    }
+    1796.1.1 = {
+      	add_spouse = flotus_abigail_smith_1
+    }
+	1826.7.4 = {
+        death = "1826.7.4"
+    }
+}
+
+gv_thomas_jefferson_1 = { # k_presidency 3
+    name = "Thomas"
+    dynasty = dynn_gv_jefferson
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = yeomanist
+
+    
+	1743.1.1 = {
+        birth = yes
+        
+    }
+	1826.7.4 = {
+        death = "1826.7.4"
+    }
+}
+
+gv_benjamin_franklin_1 = { # k_presidency 4
+    name = "Benjamin"
+    dynasty = dynn_gv_franklin
+    female = no
+    disallow_random_traits = no
+    
+    culture = letterman
+    religion = principlist
+
+    
+	1706.1.1 = {
+        birth = yes
+        
+    }
+	1810.1.1 = {
+        death = "1810.1.1"
+    }
+}
+
+gv_alexander_hamilton_1 = { # k_presidency 5
+    name = "Alexander"
+    dynasty = dynn_gv_hamilton
+    female = no
+    disallow_random_traits = no
+    
+    culture = calypsonian
+    religion = constitutionalist
+
+    
+	1767.1.1 = {
+        birth = yes
+        
+    }
+	1817.1.1 = {
+        death = "1817.1.1"
+    }
+}
+
+gv_james_madison_1 = { # k_presidency 6
+    name = "James"
+    dynasty = dynn_gv_madison
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+    
+	1751.1.1 = {
+        birth = yes
+    }
+	1812.1.1 = {
+      	add_spouse = flotus_dolley_payne_1
+    }
+	1836.1.1 = {
+        death = "1836.1.1"
+    }
+}
+
+gv_andrew_jackson_1 = { # k_presidency 7
+    name = "Andrew"
+    dynasty = dynn_gv_jackson
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = exceptionalist
+
+    
+	1767.1.1 = {
+        birth = yes
+        
+    }
+	1845.1.1 = {
+        death = "1845.1.1"
+    }
+}
+
+gv_davy_crockett_1 = { # k_presidency 8
+    name = "Davy"
+    dynasty = dynn_gv_crockett
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = exceptionalist
+
+    
+	1786.1.1 = {
+        birth = yes
+        
+    }
+	1836.3.6 = {
+        death = "1836.3.6"
+    }
+}
+
+gv_tippecanoe_tyler_1 = { # k_presidency 9
+    name = "Tippecanoe"
+    dynasty = dynn_gv_tyler
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+    
+	1790.1.1 = {
+        birth = yes
+        
+    }
+	1850.1.1 = {
+        death = "1850.1.1"
+    }
+}
+
+gv_tom_sawyer_1 = { # k_presidency 10
+    name = "Tom"
+    dynasty = dynn_gv_sawyer
+    female = no
+    disallow_random_traits = no
+    
+    culture = gatewayan
+    religion = imaginerian
+
+    
+	1833.7.4 = {
+        birth = yes
+        
+    }
+	1861.7.4 = {
+        death = "1861.7.4"
+    }
+}
+
+gv_abraham_lincoln_1 = { # k_presidency 11
+    name = "Abraham"
+    dynasty = dynn_gv_lincoln
+    female = no
+    disallow_random_traits = no
+    
+    culture = hoosier
+    religion = principlist
+
+	trait = education_learning_4
+    trait = giant
+    trait = honest
+    trait = just
+    trait = physique_good_3
+	trait = strong
+	prowess = 100
+    
+	1809.1.1 = {
+        birth = yes
+        
+    }
+	1865.4.15 = {
+        death = "1865.4.15"
+    }
+}
+
+gv_ulysses_caesar_grant_1 = { # k_presidency 12
+    name = "Ulysses_Caesar"
+    dynasty = dynn_gv_grant
+    female = no
+    disallow_random_traits = no
+    
+    culture = ohioan 
+    religion = exceptionalist
+	
+    
+	1822.1.1 = {
+        birth = yes
+        
+    }
+	1885.1.1 = {
+        death = "1885.1.1"
+    }
+}
+
+gv_grover_i_cleveland_1 = { # k_presidency 13
+    name = "Grover"
+    dynasty = dynn_gv_cleveland
+    female = no
+    disallow_random_traits = no
+    
+    culture = buckeye
+    religion = constitutionalist
+	
+	trait = twin
+    
+	1837.1.1 = {
+        birth = yes
+        
+    }
+	1908.1.1 = {
+        death = "1908.1.1"
+    }
+}
+
+gv_grover_ii_cleveland_1 = { # k_presidency 14
+    name = "Grover"
+    dynasty = dynn_gv_cleveland
+    female = no
+    disallow_random_traits = no
+    
+    culture = buckeye
+    religion = constitutionalist
+	
+	trait = twin
+    
+	1837.1.1 = {
+        birth = yes
+        
+    }
+	1908.1.1 = {
+        death = "1908.1.1"
+    }
+}
+
+gv_teddy_roosevelt_1 = { # k_presidency 15
+    name = "Teddy"
+    dynasty = dynn_gv_roosevelt
+    female = no
+    disallow_random_traits = no
+    
+    culture = gothamite
+    religion = exceptionalist
+
+    trait = physique_good_3
+    
+	1858.1.1 = {
+        birth = yes
+        
+    }
+	1919.1.1 = {
+        death = "1919.1.1"
+    }
+}
+
+gv_william_taft_1 = { # k_presidency 16
+    name = "William"
+    dynasty = dynn_gv_taft
+    female = no
+    disallow_random_traits = no
+    
+    culture = ohioan
+    religion = constitutionalist
+
+    
+	1857.1.1 = {
+        birth = yes
+        
+    }
+	1930.1.1 = {
+        death = "1930.1.1"
+    }
+}
+
+gv_wilrow_woodson_1 = { # k_presidency 17
+    name = "Wilrow"
+    dynasty = dynn_gv_woodson
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	trait = education_learning_4
+    trait = physique_bad_3
+	trait = weak
+	trait = spindly
+    
+	1856.1.1 = {
+        birth = yes
+    }
+    1915.1.1 = {
+      	add_spouse = flotus_edith_bolling_1
+    }
+	1924.1.1 = {
+        death = "1924.1.1"
+    }
+}
+
+gv_jay_gatzby_1 = { # k_presidency 18
+    name = "Jay"
+    dynasty = dynn_gv_gatzby
+    female = no
+    disallow_random_traits = yes
+    
+    culture = northlander
+    religion = imaginerian
+
+	trait = education_stewardship_5
+    trait = diligent
+    trait = greedy
+    # trait = generous
+    trait = profligate
+	# trait = improvident
+	trait = seducer
+	
+    
+	1895.1.1 = {
+        birth = yes
+        give_nickname = nick_the_roaring
+    }
+	1930.1.1 = {
+        death = "1930.1.1"
+    }
+}
+
+gv_herbert_hoover_1 = { # k_presidency 19
+    name = "Herbert"
+    dynasty = dynn_gv_hoover
+    female = no
+    disallow_random_traits = no
+    
+    culture = heartlander
+    religion = constitutionalist
+
+	trait = depressed_genetic
+    
+	1874.1.1 = {
+        birth = yes
+        
+    }
+	1940.1.1 = {
+        death = "1940.1.1"
+    }
+}
+
+gv_franklin_roosevelt_1 = { # k_presidency 20
+    name = "Franklin"
+    dynasty = dynn_gv_roosevelt
+    female = no
+    disallow_random_traits = no
+    
+    culture = hudsonian
+    religion = principlist
+
+    trait = one_legged
+	trait = weak
+    
+	1882.1.1 = {
+        birth = yes
+    }
+	1932.1.1 = {
+      	add_spouse = gv_eleanor_roosevelt_1
+    }
+	1945.4.12 = {
+        death = "1945.4.12"
+    }
+}
+
+gv_harry_haberdasher_1 = { # k_presidency 21
+    name = "Harry"
+    dynasty = dynn_gv_haberdasher
+    female = no
+    disallow_random_traits = no
+    
+    culture = heartlander
+    religion = exceptionalist
+
+	trait = education_martial_4
+    
+	1884.1.1 = {
+        birth = yes
+        give_nickname = nick_the_true_man
+    }
+	1972.1.1 = {
+        death = "1972.1.1"
+    }
+}
+
+gv_clark_kent_1 = { # k_presidency 22 truth justice and the american way
+    name = "Clark"
+    dynasty = dynn_gv_kent
+    female = no
+    disallow_random_traits = yes
+    
+    culture = grangelander 
+    religion = imaginerian
+
+	trait = education_diplomacy_2
+    trait = brave
+    trait = compassionate
+    trait = just
+    trait = physique_good_3
+	trait = gallant
+	trait = strong
+	trait = loyal
+	trait = adopted
+	trait = paragon
+	trait = humble
+    
+	1917.6.18 = {
+        birth = yes
+        
+    }
+	1993.1.10 = {
+        death = "1993.1.10"
+    }
+}
+
+gv_joseph_mccarthy_1 = { # k_presidency 23
+    name = "Joseph"
+    dynasty = dynn_gv_mccarthy
+    female = no
+    disallow_random_traits = no
+    
+    culture = dairylander
+    religion = constitutionalist
+
+	trait = paranoid
+    trait = shrewd
+    
+	1908.1.1 = {
+        birth = yes
+        
+    }
+	1957.7.4 = {
+        death = "1957.7.4"
+    }
+}
+
+gv_ike_eisenhower_1 = { # k_presidency 24
+    name = "Ike"
+    dynasty = dynn_gv_eisenhower 
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = exceptionalist
+
+	trait = education_martial_4
+    
+	1890.1.1 = {
+        birth = yes
+        
+    }
+	1969.1.1 = {
+        death = "1969.1.1"
+    }
+}
+
+gv_jack_jfk_kennedy_1 = { # k_presidency 25
+    name = "Jack_JFK"
+    dynasty = dynn_gv_kennedy
+    female = no
+    disallow_random_traits = no
+    
+    culture = letterman
+    religion = imaginerian
+
+	trait = education_diplomacy_4
+    trait = lustful
+    trait = august
+    trait = crusader_king
+	trait = paragon
+	trait = beauty_good_2
+    
+	1917.6.18 = {
+        birth = yes
+        
+    }
+	1963.11.22 = {
+        death = "1963.11.22"
+    }
+}
+
+gv_elby_jumbo_johnson_1 = { # k_presidency 26
+    name = "Elby"
+    dynasty = dynn_gv_johnson
+    female = no
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+
+	trait = whole_of_body
+    trait = rowdy
+	trait = arrogant
+    
+	1908.1.1 = {
+        birth = yes
+        give_nickname = nick_jumbo
+    }
+    1964.1.1 = {
+      	add_spouse = flotus_claudia_taylor_1
+    }
+	1972.1.1 = {
+        death = "1972.1.1"
+    }
+}
+
+gv_martin_luther_king_1 = { # k_presidency 27
+    name = "Martin_Luther"
+    dynasty = dynn_gv_king
+    female = no
+    disallow_random_traits = no
+    
+    culture = atlantan
+    religion = principlist
+
+	trait = education_diplomacy_5
+    trait = just
+    trait = compassionate
+    trait = ambitious
+    trait = theologian
+	trait = paragon
+	trait = poet
+    
+	1929.1.1 = {
+        birth = yes
+        
+    }
+	1968.4.4 = {
+        death = "1968.4.4"
+    }
+}
+
+gv_dick_nixon_1 = { # k_presidency 28
+    name = "Dick"
+    dynasty = dynn_gv_nixon
+    female = no
+    disallow_random_traits = yes
+    
+    culture = angeleno
+    religion = exceptionalist
+
+	trait = education_intrigue_5
+    trait = deceitful
+    trait = ambitious
+    trait = greedy
+    trait = schemer
+	trait = disloyal
+	
+	intrigue = 60
+    
+	1913.1.1 = {
+        birth = yes
+        give_nickname = nick_the_tricky
+    }
+	1994.7.4 = {
+        death = "1994.7.4"
+    }
+}
+
+gv_neil_armstrong_1 = { # k_presidency 29
+    name = "Niel"
+    dynasty = dynn_gv_armstrong
+    female = no
+    disallow_random_traits = no
+    
+    culture = buckeye
+    religion = imaginerian
+
+    trait = brave
+    trait = adventurer
+	trait = faith_warrior
+    
+	1930.1.1 = {
+        birth = yes
+        give_nickname = nick_the_spaceman
+    }
+	1986.1.28 = {
+        death = "1986.1.28"
+    }
+}
+
+gv_jimmy_washington_carter_1 = { # k_presidency 30
+    name = "Jimmy_Washington"
+    dynasty = dynn_gv_carter
+    female = no
+    disallow_random_traits = no
+    
+    culture = dixie
+    religion = principlist
+
+	trait = whole_of_body
+    trait = compassionate
+    
+	1924.1.1 = {
+        birth = yes
+    }
+    1976.1.1 = {
+      	add_spouse = flotus_rosalynn_carter_1
+    }
+	2666.7.3 = {
+        death = "2666.7.3"
+    }
+}
+
+gv_gipper_reagan_1 = { # k_presidency 30
+    name = "Gipper"
+    dynasty = dynn_gv_reagan
+    female = no
+    disallow_random_traits = no
+    
+    culture = angeleno
+    religion = constitutionalist
+
+	trait = education_stewardship_4
+    trait = shrewd
+	trait = trusting
+	trait = gregarious
+	trait = ambitious
+	trait = beauty_good_1
+    
+	1911.1.1 = {
+        birth = yes
+        
+    }
+	1993.7.4 = {
+        death = "1993.7.4"
+    }
+}
+
+gv_dandridge_james_1 = { # k_old_dominion
+    name = "Aymeric"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = no
+    father = gv_dandridge_brutus_1
+    culture = southron
+    religion = constitutionalist
+
+	trait = education_stewardship_3
+    trait = ambitious
+    trait = arrogant
+    trait = zealous
+    trait = lifestyle_physician
+    trait = twin
+    
+	2636.4.26 = {
+        birth = yes
+        
+    }
+}
+
+gv_smithson_bannister_1 = { # k_presidency
+    name = "Bannister"
+    dynasty = dynn_gv_smithson
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = constitutionalist
+
+	
+    
+	2264.2.27 = {
+        birth = yes
+        
+    }
+	2328.10.19 = {
+        death = "2328.10.18"
+    }
+}
+gv_pitchstone_rushmore_1 = { # k_presidency
+    name = "Rushmore"
+    dynasty = dynn_gv_pitchstone
+    female = no
+    disallow_random_traits = no
+    
+    culture = badlander
+    religion = constitutionalist
+
+	
+    
+	2270.3.10 = {
+        birth = yes
+        
+    }
+	2345.9.4 = {
+        death = "2345.9.4"
+    }
+}
+gv_slaughter_oathson_1 = { # k_presidency
+    name = "Oathson"
+    dynasty = dynn_gv_slaughter
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+
+	trait = education_martial_3
+	trait = vengeful
+	trait = brave
+	trait = just
+	trait = scarred
+	trait = one_eyed
+	trait = berserker
+	trait = aggressive_attacker
+	trait = holy_warrior
+    
+	2345.9.5 = {
+        birth = yes
+        give_nickname = nick_the_sword_of_washington
+    }
+    2368.1.1 = {
+        effect = {
+            add_trait = lifestyle_hunter
+            add_trait_xp = {
+                trait = lifestyle_hunter
+                track = hunter
+                value = 100
+            }
+        }
+    }
+	2380.5.27 = {
+        death = "2380.5.27"
+    }
+}
+gv_avondale_stanislaus_1 = { # k_presidency
+    name = "Stanislaus"
+    dynasty = dynn_gv_avondale
+    female = no
+    disallow_random_traits = no
+    
+    culture = chicagoan
+    religion = constitutionalist
+
+	
+    
+	2322.9.6 = {
+        birth = yes
+        
+    }
+	2392.1.19 = {
+        death = "2392.1.19"
+    }
+}
+gv_whitehall_charming_1 = { # k_presidency
+    name = "Charming"
+    dynasty = dynn_gv_whitehall
+    female = no
+    disallow_random_traits = no
+    
+    culture = mayami
+    religion = imaginerian
+
+	trait = beauty_good_3
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = gallant
+	trait = diplomat
+    
+	2362.6.11 = {
+        birth = yes
+        
+    }
+	2425.8.7 = {
+        death = "2425.8.7"
+    }
+}
+gv_patt_lucius_1 = { # k_presidency
+    name = "Lucius"
+    dynasty = dynn_gv_patt
+    female = no
+    disallow_random_traits = no
+    
+    culture = ohioan
+    religion = exceptionalist
+
+	
+    
+	2395.7.3 = {
+        birth = yes
+        
+    }
+	2459.10.13 = {
+        death = "2459.10.13"
+    }
+}
+gv_martinez_wyatt_1 = { # k_presidency
+    name = "Wyatt"
+    dynasty = dynn_gv_martinez
+    female = no
+    disallow_random_traits = no
+    
+    culture = tejano
+    religion = exceptionalist
+
+	
+    
+	2421.5.30 = {
+        birth = yes
+        
+    }
+	2474.5.3 = {
+        death = "2474.5.3"
+    }
+}
+gv_dellarocca_ruthven_1 = { # k_presidency
+    name = "Ruthven"
+    dynasty = dynn_noreast_dellarocca
+    female = no
+    disallow_random_traits = no
+    
+    culture = gothamite
+    religion = constitutionalist
+
+	
+    
+	2410.10.31 = {
+        birth = yes
+        give_nickname = nick_the_vampire
+    }
+	2475.9.30 = {
+        death = "2475.9.30"
+    }
+}
+gv_heinisch_bucee_1 = { # k_presidency
+    name = "Bucee"
+    dynasty = dynn_gv_heinisch
+    female = no
+    disallow_random_traits = no
+    
+    culture = texaner
+    religion = imaginerian
+
+	
+    
+	2437.12.25 = {
+        birth = yes
+        give_nickname = nick_the_vampire_slayer
+    }
+	2478.6.11 = {
+        death = "2478.6.11"
+    }
+}
+gv_belmont_apollo_kennedy_1 = { # k_presidency
+    name = "Apollo_Kennedy"
+    dynasty = dynn_gv_belmont
+    female = no
+    disallow_random_traits = no
+    
+    culture = sunshiner
+    religion = imaginerian
+
+	trait = intellect_good_2
+	trait = seducer
+    
+	2450.1.2 = {
+        birth = yes
+        
+    }
+	2484.10.30 = {
+        death = "2484.10.30"
+    }
+}
+gv_dellarocca_damien_1 = { # k_presidency
+    name = "Damien"
+    dynasty = dynn_noreast_dellarocca
+    female = no
+    disallow_random_traits = no
+    
+    culture = gothamite
+    religion = constitutionalist
+
+	
+    
+	2460.2.1 = {
+        birth = yes
+        
+    }
+	2488.2.4 = {
+        death = "2488.2.4"
+    }
+}
+gv_eldridge_randy_1 = { # k_presidency
+    name = "Randy"
+    dynasty = dynn_gv_eldridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+
+	
+    
+	2444.4.4 = {
+        birth = yes
+        
+    }
+	2488.10.27 = {
+        death = "2488.10.27"
+    }
+}
+gv_maverick_austin_1 = { # k_presidency
+    name = "Austin"
+    dynasty = dynn_texas_maverick
+    female = yes
+    disallow_random_traits = no
+    
+    sexuality = bisexual
+    culture = texan
+    religion = exceptionalist
+
+	trait = education_martial_5
+    trait = compassionate
+    trait = stubborn
+    trait = just
+    trait = beauty_good_1
+    trait = strong
+	trait = august
+	trait = holy_warrior
+	trait = gallant
+    
+	2466.3.6 = {
+        birth = yes
+        give_nickname = nick_buckaroo_belle
+    }
+	2519.12.31 = {
+        death = "2519.12.31"
+    }
+}
+gv_dandridge_foxtrot_1 = { # k_presidency
+    name = "Foxtrot"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	
+    
+	2470.4.13 = {
+        birth = yes
+        
+    }
+	2534.6.10 = {
+        death = "2534.6.10"
+    }
+}
+gv_welles_christopher_columbus_1 = { # k_presidency
+    name = "Christopher_Columbus"
+    dynasty = dynn_atlantica_welles
+    dna = dna_atlantica_martian_welles
+    female = no
+    disallow_random_traits = no
+    
+    culture = youser
+    religion = imaginerian
+
+	
+    
+	2501.9.22 = {
+        birth = yes
+        
+    }
+	2539.7.27 = {
+        death = "2539.7.27"
+    }
+}
+gv_dayringer_johnny_ray_1 = { # k_presidency
+    name = "Johnny_Ray"
+    dynasty = dynn_gv_dayringer
+    female = no
+    disallow_random_traits = no
+    
+    culture = piedmontese
+    religion = principlist
+
+	
+    
+	2498.2.26 = {
+        birth = yes
+        
+    }
+	2565.12.3 = {
+        death = "2565.12.3"
+    }
+}
+gv_dandridge_atticus_1 = { # k_presidency
+    name = "Atticus"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	
+    
+	2510.5.19 = {
+        birth = yes
+        
+    }
+	2572.8.28 = {
+        death = "2572.8.28"
+    }
+}
+gv_avondale_konrad_1 = { # k_presidency
+    name = "Konrad"
+    dynasty = dynn_gv_avondale
+    female = no
+    disallow_random_traits = no
+    
+    culture = chicagoan
+    religion = constitutionalist
+
+	
+    
+	2531.11.1 = {
+        birth = yes
+        
+    }
+	2588.1.21 = {
+        death = "2588.1.21"
+    }
+}
+gv_odonnell_trial_by_jury_1 = { # k_presidency
+    name = "Trial_by_Jury"
+    dynasty = dynn_gv_odonnell
+    female = no
+    disallow_random_traits = no
+    
+    culture = letterman
+    religion = constitutionalist
+
+	
+    
+	2512.7.4 = {
+        birth = yes
+        
+    }
+	2592.2.3 = {
+        death = "2592.2.3"
+    }
+}
+gv_calvert_respublia_1 = { # k_presidency
+    name = "Respublia"
+    dynasty = dynn_atlantica_calvert
+    dna = dna_atlantica_boh_calvert
+    female = yes
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = exceptionalist
+
+	
+    
+	2569.1.20 = {
+        birth = yes
+        
+    }
+	2614.4.1 = {
+        death = "2614.4.1"
+    }
+}
+gv_dandridge_abraham_lincoln_1 = { # k_presidency
+    name = "Abraham_Lincoln"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	
+    
+	2578.6.10 = {
+        birth = yes
+        
+    }
+	2637.9.29 = {
+        death = "2637.9.29"
+    }
+}
+gv_dellarocca_nico_1 = { # k_presidency
+    name = "Nico"
+    dynasty = dynn_noreast_dellarocca
+    female = no
+    disallow_random_traits = no
+    
+    culture = gothamite
+    religion = imaginerian
+
+	
+    
+	2561.10.5 = {
+        birth = yes
+        
+    }
+	2650.1.20 = {
+        death = "2650.1.20"
+    }
+}
+
+gv_ironwrit_franklin_1 = { # k_presidency
+    name = "Franklin"
+    dynasty = dynn_gv_ironwrit
+    dna = dna_gv_ironwrit_franklin_1
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = constitutionalist
+
+	trait = education_diplomacy_4
+    trait = zealous
+    trait = wrathful
+    trait = diligent
+    trait = arrogant
+    trait = physique_good_2
+    
+	2620.11.2 = {
+        birth = yes
+        
+    }
+}
+gv_ironwrit_douglas_1 = { # sotus
+    name = "Douglas"
+    dynasty = dynn_gv_ironwrit
+    dna = dna_gv_ironwrit_franklin_1
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = constitutionalist
+	father = gv_ironwrit_franklin_1
+
+    trait = wrathful
+    trait = physique_good_1
+	trait = ill
+    
+	2655.4.4 = {
+        birth = yes
+        
+    }
+}
+gv_eldridge_rhett_r3 = { # d_shenandoah
+    name = "Rhett"
+    dynasty = dynn_gv_eldridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+	father = gv_eldridge_rhett_r2
+	mother = gv_skidmore_maple_rm2
+
+	trait = education_learning_4
+    trait = compassionate
+    trait = forgiving
+    trait = diligent
+	trait = lifestyle_gardener
+    
+	2646.7.19 = {
+        birth = yes
+        
+    }
+}
+gv_bullion_henry_bulliondad = { # d_kentucky
+    name = "Henry"
+    dynasty = dynn_gv_bullion
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+
+	trait = education_martial_4
+    trait = brave
+    trait = content
+    trait = zealous
+    trait = unyielding_defender
+    trait = scarred
+    
+	2632.7.28 = {
+        birth = yes
+        give_nickname = the_stoic
+    }
+	2666.1.1 = {
+        add_spouse = gv_sovereign_galatea_bullionmom
+    }
+}
+gv_scruggs_josias_1 = { # d_bluegrass
+    name = "Josias"
+    dynasty = dynn_gv_scruggs
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+
+	trait = education_diplomacy_3
+    trait = compassionate
+    trait = trusting
+    trait = craven
+    
+	2634.8.22 = {
+        birth = yes
+        
+    }
+}
+gv_merrimack_john_1 = { # d_tidewater
+    name = "Shaun"
+    dynasty = dynn_gv_merrimack
+    female = no
+    disallow_random_traits = no
+    
+    culture = hoi_toider
+    religion = constitutionalist
+
+	trait = education_martial_4
+    trait = impatient
+    trait = diligent
+    trait = vengeful
+    
+	2648.4.21 = {
+        birth = yes
+        
+    }
+}
+gv_skidmore_ginger_1 = { # d_clinch
+    name = "Ginger"
+    dynasty = dynn_gv_skidmore
+    female = yes
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = education_diplomacy_2
+    trait = lustful
+    trait = ambitious
+    trait = wrathful
+    
+	2638.11.3 = {
+        birth = yes
+        
+    }
+}
+gv_pixane_cornelia_1 = { # d_southside
+    name = "Cornelia"
+    dynasty = dynn_gv_pixane
+    female = yes
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = principlist
+
+	trait = education_learning_3
+    trait = diligent
+    trait = gregarious
+    trait = impatient
+    
+	2641.11.3 = {
+        birth = yes
+        
+    }
+		2666.1.1 = {
+		effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract
+                level = 2
+            }
+	}
+	}
+
+}
+gv_eldridge_rhett_r2 = { # d_shenandoah
+    name = "Rhett"
+    dynasty = dynn_gv_eldridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+	father = gv_eldridge_rhett_r1
+
+	trait = education_martial_2
+    trait = brave
+    trait = diligent
+    trait = wrathful
+    
+	2587.2.3 = {
+        birth = yes
+        
+    }
+	2654.11.15 = {
+        death = "2654.11.15"
+    }
+}
+gv_biltmore_golden_ashevillem = { # d_blue_ridge
+    name = "Golden"
+    dynasty = dynn_gv_biltmore
+    dna = dna_gv_biltmore_golden_ashevillem
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_martial_4
+    trait = ambitious
+    trait = brave
+    trait = gregarious
+    trait = arrogant
+    trait = reckless
+    trait = physique_good_3
+    
+	2648.5.11 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = gv_mccoy_gemma_ashevillef
+    }
+}
+gv_crockoone_ellis_1 = { # d_tenesi
+    name = "Ellis"
+    dynasty = dynn_gv_crockoone
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_martial_2
+    trait = compassionate
+    trait = trusting
+    trait = just
+    trait = zealous
+    trait = beauty_good_1
+    
+	2628.11.5 = {
+        birth = yes
+        
+    }
+}
+gv_smith_john_1 = { # d_capital
+    name = "John"
+    dynasty = dynn_gv_smith
+    female = no
+    disallow_random_traits = no
+    
+    culture = delawarean
+    religion = constitutionalist
+
+	
+    
+	2594.9.26 = {
+        birth = yes
+        
+    }
+}
+gv_eldridge_rhett_r1 = { # d_shenandoah
+    name = "Rhett"
+    dynasty = dynn_gv_eldridge
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+
+	trait = education_martial_3
+    trait = vengeful
+    trait = honest
+    trait = gregarious
+    
+	2544.11.5 = {
+        birth = yes
+        
+    }
+	2623.7.9 = {
+        death = "2623.7.9"
+    }
+}
+gv_lomax_arlow_1 = { # c_pulaski
+    name = "Arlow"
+    dynasty = dynn_gv_lomax
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = omenteller
+
+	trait = education_stewardship_4
+    trait = honest
+    trait = humble
+    trait = wrathful
+    
+	2642.4.26 = {
+        birth = yes
+        
+    }
+}
+gv_wadigeaskali_degadoga_1 = { # c_nantahala
+    name = "Degadoga"
+    dynasty = dynn_gv_wadigeaskali
+    female = no
+    disallow_random_traits = no
+    
+    culture = cherokee
+    religion = omenteller
+
+	trait = education_martial_2
+    trait = ambitious
+    trait = brave
+    trait = diligent
+    trait = forest_fighter
+    trait = physique_good_2
+    
+	2638.6.10 = {
+        birth = yes
+        
+    }
+}
+gv_murdogh_kermit_1 = { # c_greenbrier
+    name = "Kermit"
+    dynasty = dynn_gv_murdogh
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = education_diplomacy_2
+    trait = lustful
+    trait = gregarious
+    trait = generous
+    
+	2621.8.23 = {
+        birth = yes
+        give_nickname = nick_mad_dog
+    }
+}
+gv_watson_rymer_1 = { # c_kanawha
+    name = "Rymer"
+    dynasty = dynn_gv_watson
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = shrewd #clever
+    
+	2656.9.11 = {
+        birth = yes
+        
+    }
+}
+gv_galbraith_clayton_1 = { # c_pike
+    name = "Clayton"
+    dynasty = dynn_gv_galbraith
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = education_stewardship_2
+    trait = gregarious
+    trait = lustful
+    trait = trusting
+    trait = strong
+    
+	2645.10.5 = {
+        birth = yes
+        
+    }
+}
+gv_seraphim_elhanon_1 = { # c_transylvania
+    name = "Elhanon"
+    dynasty = dynn_gv_seraphim
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = education_martial_3
+    trait = ambitious
+    trait = compassionate
+    trait = shy
+    trait = forest_fighter
+    trait = one_eyed
+    
+	2637.11.3 = {
+        birth = yes
+        
+    }
+}
+gv_crane_jedediah_1 = { # c_bradley
+    name = "Jedediah"
+    dynasty = dynn_gv_crane
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_intrigue_1
+    trait = paranoid
+    trait = just
+    trait = callous
+    
+	2628.11.17 = {
+        birth = yes
+        
+    }
+}
+gv_sexton_emory_1 = { # c_knox
+    name = "Emory"
+    dynasty = dynn_gv_sexton
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_martial_2
+    trait = craven
+    trait = fickle
+    trait = generous
+    
+	2632.3.3 = {
+        birth = yes
+        
+    }
+}
+gv_dooley_zebulon_1 = { # c_yougiogheny
+    name = "Zebulon"
+    dynasty = dynn_gv_dooley
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+
+	trait = education_martial_2
+    trait = callous
+    trait = craven
+    trait = cynical
+    
+	2646.5.23 = {
+        birth = yes
+        
+    }
+}
+gv_winchester_john_supdad = { # c_winchester
+    name = "John"
+    dynasty = dynn_gv_winchester
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_martial_4
+    trait = callous
+    trait = brave
+    trait = diligent
+    trait = lifestyle_hunter
+    
+	2610.4.7 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = gv_campbell_mary_supmom
+    }
+}
+gv_pendergrast_davenport_1 = { # c_kenton
+    name = "Davenport"
+    dynasty = dynn_gv_pendergrast
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = omenteller
+
+	trait = education_martial_3
+    trait = gregarious
+    trait = diligent
+    trait = craven
+    
+	2633.7.19 = {
+        birth = yes
+        
+    }
+}
+gv_barnes_winslow_1 = { # c_dix
+    name = "Winslow"
+    dynasty = dynn_gv_barnes
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_stewardship_2
+    trait = shy
+    trait = fickle
+    trait = greedy
+    
+	2621.4.7 = {
+        birth = yes
+        
+    }
+}
+gv_baskerville_hilton_1 = { # c_potomac_highlands
+    name = "Hilton"
+    dynasty = dynn_gv_baskerville
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = constitutionalist
+
+	trait = education_learning_4
+    trait = brave
+    trait = paranoid
+    trait = fickle
+    
+	2640.1.19 = {
+        birth = yes
+        
+    }
+}
+gv_earle_rosie_1 = { # c_monongalia
+    name = "Rosie"
+    dynasty = dynn_gv_earle
+    female = yes
+    disallow_random_traits = no
+    
+    culture = yinzer
+    religion = galvanist
+
+	trait = education_intrigue_3
+    trait = ambitious
+    trait = lustful
+    trait = callous
+    
+	2647.7.8 = {
+        birth = yes
+        
+    }
+}
+gv_fairfax_shadrack_1 = { # c_roanoke
+    name = "Shadrach"
+    dynasty = dynn_gv_fairfax
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = evangelical
+
+	trait = education_stewardship_2
+    trait = brave
+    trait = shy
+    trait = cynical
+    
+	2625.6.7 = {
+        birth = yes
+        
+    }
+}
+gv_baron_kimber_baronmom = { # c_barren
+    name = "Kimber"
+    dynasty = dynn_gv_baron
+    female = yes
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+
+	trait = education_intrigue_3
+    trait = lustful
+    trait = zealous
+    trait = diligent
+    trait = intellect_good_1
+    
+	2644.12.6 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+gv_carter_samuel_1 = { # c_fairfax
+    name = "Ibrahim_Laynkuln"
+    dynasty = dynn_gv_carter
+    female = no
+    disallow_random_traits = no
+    
+    culture = oldbayer
+    religion = amriki
+
+	trait = education_learning_4
+    trait = vengeful
+    trait = just
+    trait = ambitious
+    trait = lifestyle_physician
+    
+	2636.8.5 = {
+        birth = yes
+        
+    }
+}
+gv_ashington_publicola_1 = { # c_fredericksburg
+    name = "Publicola"
+    dynasty = dynn_gv_ashington
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	trait = education_learning_2
+    trait = compassionate
+    trait = cynical
+    trait = brave
+    
+	2623.11.25 = {
+        birth = yes
+        
+    }
+}
+gv_alewife_cornelius_1 = { # c_newport_news
+    name = "Cornelius"
+    dynasty = dynn_gv_alewife
+    female = no
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+
+	trait = education_martial_1
+    trait = compassionate
+    trait = shy
+    trait = paranoid
+    
+	2621.10.17 = {
+        birth = yes
+        
+    }
+}
+gv_beverly_harlan_1 = { # c_wight
+    name = "Harlan"
+    dynasty = dynn_gv_beverly
+    female = no
+    disallow_random_traits = no
+    
+    culture = tuskegean
+    religion = constitutionalist
+
+	trait = education_learning_2
+    trait = just
+    trait = gregarious
+    trait = greedy
+    
+	2610.8.10 = {
+        birth = yes
+        
+    }
+}
+gv_redstone_alton_1 = { # c_huntsvile
+    name = "Alton"
+    dynasty = dynn_gv_redstone
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_martial_4
+    trait = honest
+    trait = callous
+    trait = shy
+    
+	2645.11.7 = {
+        birth = yes
+        
+    }
+}
+gv_crowley_bev_1 = { # c_gauley
+    name = "Bev"
+    dynasty = dynn_gv_crowley
+    female = yes
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = omenteller
+
+	trait = education_intrigue_4
+    trait = ambitious
+    trait = diligent
+    trait = just
+    
+	2648.11.24 = {
+        birth = yes
+        
+    }
+}
+gv_reek_preston_1 = { # c_chattanooga
+    name = "Preston"
+    dynasty = dynn_gv_reek
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_diplomacy_1
+    trait = trusting
+    trait = fickle
+    trait = wrathful
+    trait = albino
+    
+	2643.11.6 = {
+        birth = yes
+        
+    }
+}
+gv_worthington_abraham_1 = { # c_tygart
+    name = "Abraham"
+    dynasty = dynn_gv_worthington
+    female = no
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = principlist
+
+	trait = education_martial_3
+    trait = lustful
+    trait = gregarious
+    trait = generous
+    
+	2644.4.2 = {
+        birth = yes
+        
+    }
+}
+gv_coffee_deckard_1 = { # c_tullahoma
+    name = "Deckard"
+    dynasty = dynn_gv_coffee
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_martial_2
+    trait = sadistic
+    trait = ambitious
+    trait = lustful
+    
+	2612.6.8 = {
+        birth = yes
+        
+    }
+}
+gv_cain_lamar_1 = { # c_memphis
+    name = "Lamar"
+    dynasty = dynn_gv_cain
+    female = no
+    disallow_random_traits = no
+    
+    culture = deltaic
+    religion = revelationist
+
+	trait = education_martial_3
+    trait = brave
+    trait = ambitious
+    trait = just
+    trait = physique_bad_1
+    trait = flexible_leader
+    
+	2642.6.25 = {
+        birth = yes
+        
+    }
+}
+gv_asriel_aramis_1 = { # c_the_purchase
+    name = "Aramis"
+    dynasty = dynn_gv_asriel
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_learning_1
+    trait = lustful
+    trait = gregarious
+    trait = calm
+    trait = strong
+    
+	2642.2.20 = {
+        birth = yes
+        
+    }
+}
+gv_flatt_randall_1 = { # c_owensboro
+    name = "Randall"
+    dynasty = dynn_gv_flatt
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+
+	trait = education_diplomacy_3
+    trait = sadistic
+    trait = fickle
+    trait = trusting
+    
+	2635.9.2 = {
+        birth = yes
+        
+    }
+}
+gv_bullion_rex_b2 = {
+    name = "Rex"
+    dynasty = dynn_gv_bullion
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+	father = gv_bullion_henry_bulliondad
+	mother = gv_sovereign_galatea_bullionmom
+
+	trait = charming
+    trait = twin
+    
+	2658.11.5 = {
+        birth = yes
+        
+    }
+}
+gv_bullion_trigg_b3 = {
+    name = "Trigg"
+    dynasty = dynn_gv_bullion
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+	father = gv_bullion_henry_bulliondad
+	mother = gv_sovereign_galatea_bullionmom
+
+	trait = charming
+    trait = twin
+    
+	2658.6.12 = {
+        birth = yes
+        
+    }
+}
+gv_winchester_sam_1 = {
+    name = "Sam"
+    dynasty = dynn_gv_winchester
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+	father = gv_winchester_john_supdad
+	mother = gv_campbell_mary_supmom
+
+	trait = education_learning_3
+    trait = brave
+    trait = cynical
+    trait = honest
+    trait = lifestyle_hunter
+    
+	2648.8.10 = {
+        birth = yes
+        
+    }
+}
+gv_mccoy_gemma_ashevillef = {
+    name = "Gemma"
+    dynasty = dynn_gv_mccoy
+    dna = dna_gv_mccoy_gemma_ashevillef
+    female = yes
+    disallow_random_traits = yes
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_intrigue_4
+    trait = lustful
+    trait = zealous
+    trait = compassionate
+    trait = shrewd
+    trait = intellect_good_1
+    
+	2649.8.15 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = gv_biltmore_golden_ashevillem
+    }
+}
+gv_skidmore_maple_rm2 = {
+    name = "Maple"
+    dynasty = dynn_gv_skidmore
+    female = yes
+    disallow_random_traits = no
+    
+    culture = appalachian
+    religion = revelationist
+
+	trait = education_learning_3
+    trait = zealous
+    trait = wrathful
+    trait = callous
+    
+	2586.10.24 = {
+        birth = yes
+        
+    }
+}
+gv_none_rex_barondad = {
+    name = "Rex"
+    dynasty = none
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_martial_4
+    trait = lustful
+    trait = ambitious
+    trait = zealous
+    trait = winter_soldier
+    
+	2642.12.26 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        
+    }
+}
+gv_sovereign_galatea_bullionmom = {
+    name = "Galatea"
+    dynasty = dynn_gv_sovereign
+    female = yes
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = exceptionalist
+
+	trait = education_learning_2
+    trait = chaste
+    trait = compassionate
+    trait = just
+    
+	2637.5.16 = {
+        birth = yes
+        
+    }
+	2666.1.1 = {
+        add_spouse = gv_bullion_henry_bulliondad
+    }
+}
+gv_winchester_dean_1 = {
+    name = "Dean"
+    dynasty = dynn_gv_winchester
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+	father = gv_winchester_john_supdad
+	mother = gv_campbell_mary_supmom
+
+	trait = education_diplomacy_3
+    trait = brave
+    trait = lustful
+    trait = compassionate
+    trait = lifestyle_hunter
+    
+	2646.5.23 = {
+        birth = yes
+        
+    }
+}
+gv_campbell_mary_supmom = {
+    name = "Mary"
+    dynasty = dynn_gv_campbell
+    female = yes
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+
+	trait = education_learning_2
+    trait = compassionate
+    trait = generous
+    trait = gregarious
+    trait = witch
+    
+	2615.3.6 = {
+        birth = yes
+        
+    }
+	2646.1.1 = {
+        add_spouse = gv_winchester_john_supdad
+    }
+	2646.3.21 = {
+        death = "2646.3.21"
+    }
+}
+gv_baron_foxglove_baron2 = {
+    name = "Foxglove"
+    dynasty = dynn_gv_baron
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+	mother = gv_baron_kimber_baronmom
+
+	
+    
+	2663.12.3 = {
+        birth = yes
+        
+    }
+}
+gv_baron_garland_baron1 = {
+    name = "Garland"
+    dynasty = dynn_gv_baron
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = revelationist
+	mother = gv_baron_kimber_baronmom
+
+	trait = bossy
+    
+	2660.9.1 = {
+        birth = yes
+        
+    }
+}
+gv_bullion_tulip_b4 = {
+    name = "Tulip"
+    dynasty = dynn_gv_bullion
+    female = yes
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = exceptionalist
+	father = gv_bullion_henry_bulliondad
+	mother = gv_sovereign_galatea_bullionmom
+
+	
+    
+	2662.7.25 = {
+        birth = yes
+        
+    }
+}
+gv_bullion_quintin_b1 = {
+    name = "Quintin"
+    dynasty = dynn_gv_bullion
+    female = no
+    disallow_random_traits = no
+    
+    culture = riverlander
+    religion = ophiolatry
+	father = gv_bullion_henry_bulliondad
+	mother = gv_sovereign_galatea_bullionmom
+
+	trait = curious
+    trait = rowdy
+    
+	2656.7.16 = {
+        birth = yes
+        
+    }
+}
+
+gv_dandridge_armstrong_1 = { 
+    name = "Armstrong"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = yes
+    father = gv_dandridge_brutus_1
+    culture = southron
+    religion = evangelical
+
+    prowess = 10
+
+	trait = education_martial_3
+    trait = twin
+    trait = giant
+    trait = just
+    trait = zealous
+    trait = humble
+    trait = disinherited
+    2637.1.1 = { birth = yes }
+    2666.1.1 = {employer = hcc_gee_julius_1}
+}
+
+gv_dandridge_brutus_1 = { 
+    name = "Brutus"
+    dynasty = dynn_gv_dandridge
+    female = no
+    disallow_random_traits = yes
+   
+    culture = southron
+    religion = constitutionalist
+
+	trait = education_intrigue_4
+    trait = calm
+    trait = patient
+    trait = arrogant
+    trait = torturer
+
+    2659.3.15 = { death = yes }
+    2616.10.13 = { birth = yes }
+}
+
+#First Ladies
+
+flotus_martha_washington_1 = { # 
+    name = "Martha"
+    dynasty = dynn_gv_dandridge
+    female = yes
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+    
+	1731.6.2 = { birth = yes }
+	1776.1.1 = {
+      	add_spouse = gv_washington_george_1
+    	}
+    	1802.5.22 = { death = yes }
+}
+
+flotus_abigail_smith_1 = { # 
+    name = "Abigail"
+    dynasty = dynn_flotus_smithadams
+    female = yes
+    disallow_random_traits = no
+    
+    culture = letterman
+    religion = constitutionalist
+    
+	1744.11.22 = { birth = yes }
+	1796.1.1 = {
+      	add_spouse = gv_john_adams_1
+    	}
+    	1818.10.28 = { death = yes }
+}
+
+flotus_dolley_payne_1 = { # 
+    name = "Dolley"
+    dynasty = dynn_flotus_payne
+    female = yes
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+    
+	1768.5.20 = { birth = yes }
+	1812.1.1 = {
+      	add_spouse = gv_james_madison_1
+    	}
+    	1849.7.12 = { death = yes }
+}
+
+flotus_edith_bolling_1 = { # 
+    name = "Edith"
+    dynasty = dynn_flotus_bolling
+    female = yes
+    disallow_random_traits = no
+    
+    culture = southron
+    religion = constitutionalist
+    
+	1872.10.15 = { birth = yes }
+	1915.1.1 = {
+      	add_spouse = gv_wilrow_woodson_1
+    	}
+    	1961.12.28 = { death = yes }
+}
+
+flotus_eleanor_roosevelt_1 = { # 
+    name = "Eleanor"
+    dynasty = dynn_gv_roosevelt
+    female = yes
+    disallow_random_traits = no
+    
+    culture = hudsonian
+    religion = principlist
+    
+	1884.10.11 = { birth = yes }
+	1932.1.1 = {
+      	add_spouse = gv_franklin_roosevelt_1
+    	}
+    	1962.11.7 = { death = yes }
+}
+
+flotus_claudia_taylor_1 = { # 
+    name = "Claudia"
+    dynasty = dynn_flotus_taylor
+    female = yes
+    disallow_random_traits = no
+    
+    culture = texan
+    religion = imaginerian
+    
+	1912.12.22 = { birth = yes
+			give_nickname = nick_lady_bird }
+	1964.1.1 = {
+      	add_spouse = gv_elby_jumbo_johnson_1
+    	}
+    	2007.7.11 = { death = yes }
+}
+
+flotus_rosalynn_carter_1 = { # 
+    name = "Rosalynn"
+    dynasty = dynn_flotus_smithcarter
+    female = yes
+    disallow_random_traits = no
+    
+    culture = dixie
+    religion = principlist
+    
+	1927.8.18 = { birth = yes }
+	1976.1.1 = {
+      	add_spouse = gv_jimmy_washington_carter_1
+    	}
+    	2023.11.19 = { death = yes }
+}

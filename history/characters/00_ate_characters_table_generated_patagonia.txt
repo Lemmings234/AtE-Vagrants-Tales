@@ -1,0 +1,610 @@
+﻿patagonia_cockwell_margaret_1 = { # k_falklands
+    name = "Margaret"
+    dynasty = dynn_patagonia_cockwell
+    female = yes
+    disallow_random_traits = no
+
+    culture = falklander
+    religion = waveruler
+
+	trait = education_diplomacy_1
+    trait = wrathful
+    trait = arbitrary
+    trait = ambitious
+
+	2569.4.2 = {
+        birth = yes
+
+    }
+	2632.2.22 = {
+        death = "2632.2.22"
+    }
+}
+patagonia_cockwell_charles_1 = { # k_falklands
+    name = "Charles"
+    dynasty = dynn_patagonia_cockwell
+    female = no
+    disallow_random_traits = no
+    mother = patagonia_cockwell_margaret_1
+
+    culture = falklander
+    religion = waveruler
+
+	trait = education_martial_3
+    trait = impatient
+    trait = humble
+    trait = zealous
+
+	2599.5.25 = {
+        birth = yes
+
+    }
+	2641.11.5 = {
+        death = "2641.11.5"
+    }
+}
+patagonia_apmadoc_lewisyto_1 = { # k_chubut
+    name = "Lewisyto"
+    dynasty = dynn_patagonia_apmadoc
+    female = no
+    disallow_random_traits = yes
+    father = patagonia_apmadoc_dwyn
+
+    culture = wladfaeg
+    religion = calafatist
+
+	trait = zealous
+    trait = generous
+    trait = stubborn
+    trait = education_diplomacy_3
+    trait = poet
+    trait = journaller
+
+	2633.9.17 = {
+        birth = yes
+
+    }
+}
+patagonia_apmadoc_joseowain_1 = { # d_futaleufu
+    name = "JoseOwain"
+    #dynasty_house = house_apmadoc_gorana
+    dynasty = dynn_patagonia_apmadoc
+    female = no
+    disallow_random_traits = yes
+    father = patagonia_apmadoc_dwyn
+
+    culture = wladfaeg
+    religion = calafatist
+
+	trait = just
+    trait = brave
+    trait = stubborn
+    trait = loyal
+    trait = education_martial_2
+    trait = poet
+    trait = one_legged
+
+	2629.6.22 = {
+        birth = yes
+
+    }
+}
+patagonia_apmadoc_elphin_1 = { # c_porth_madryn
+    name = "Elphin"
+    #dynasty_house = house_apmadoc_mimosaiaid
+    dynasty = dynn_patagonia_apmadoc
+    female = no
+    disallow_random_traits = yes
+    father = patagonia_apmadoc_dwyn
+
+    culture = wladfaeg
+    religion = calafatist
+
+	trait = patient
+    trait = paranoid
+    trait = diligent
+    trait = education_stewardship_3
+    trait = poet
+    trait = reclusive
+
+	2646.2.11 = {
+        birth = yes
+
+    }
+}
+patagonia_apmadoc_dwyn = {
+    name = "Dwyn"
+    dynasty = dynn_patagonia_apmadoc
+    female = no
+    disallow_random_traits = yes
+
+    culture = wladfaeg
+    religion = calafatist
+
+	trait = zealous
+    trait = just
+    trait = stubborn
+    trait = education_martial_3
+    trait = poet
+
+	2592.6.5 = {
+        birth = yes
+    }
+    2664.3.16 = {
+        death = { death_reason = death_suicide }
+    }
+}
+patagonia_mariman_manuel_1 = { # k_neuquen
+    name = "Manuel"
+    dynasty = dynn_patagonia_mariman
+    female = no
+    disallow_random_traits = no
+
+    culture = puelche
+    religion = nguillatun
+
+	trait = education_martial_4
+
+	2605.10.24 = {
+        birth = yes
+
+    }
+}
+patagonia_perfumo_hilda_1 = { # d_deseado
+    name = "Hilda"
+    dynasty = dynn_patagonia_perfumo
+    female = yes
+    disallow_random_traits = no
+
+    culture = santacruceno
+    religion = calafatist
+
+	trait = education_learning_3
+
+	2635.8.16 = {
+        birth = yes
+
+    }
+}
+patagonia_arabel_pablo_1 = { # d_lago_argentino
+    name = "Pablo"
+    dynasty = dynn_patagonia_arabel
+    female = no
+    disallow_random_traits = no
+
+    culture = santacruceno
+    religion = calafatist
+
+	trait = education_diplomacy_2
+
+	2646.7.27 = {
+        birth = yes
+
+    }
+}
+patagonia_barra_zenobio_1 = { # d_capitan_prat
+    name = "Zenobio"
+    dynasty = dynn_patagonia_barra
+    female = no
+    disallow_random_traits = no
+
+    culture = australino
+    religion = calafatist
+
+	trait = education_stewardship_2
+
+	2641.7.16 = {
+        birth = yes
+
+    }
+}
+patagonia_martinic_diego_1 = { # d_magallanes
+    name = "Diego"
+    dynasty = dynn_patagonia_martinic
+    female = no
+    disallow_random_traits = no
+
+    culture = australino
+    religion = xoon
+
+	trait = education_intrigue_2
+    trait = compassionate
+    trait = shy
+    trait = diligent
+
+	2636.11.13 = {
+        birth = yes
+
+    }
+}
+patagonia_canales_aneki_1 = { # d_tierra_del_fuego
+    name = "Aneki"
+    dynasty = dynn_patagonia_canales
+	dna = canales_aneki
+    female = no
+    disallow_random_traits = no
+
+    culture = selknam
+    religion = xoon
+
+	trait = education_martial_2
+    trait = ambitious
+    trait = gluttonous
+    trait = wrathful
+
+	2625.4.8 = {
+        birth = yes
+
+    }
+}
+patagonia_oyarzun_david_1 = { # d_futaleufu
+    name = "David"
+    dynasty = dynn_patagonia_oyarzun
+    female = no
+    disallow_random_traits = no
+
+    culture = wladfaeg
+    religion = calafatist
+
+	trait = education_martial_1
+
+	2644.10.28 = {
+        birth = yes
+
+    }
+}
+patagonia_loncopan_jorge_1 = { # d_bariloche
+    name = "Jorge"
+    dynasty = dynn_patagonia_loncopan
+    female = no
+    disallow_random_traits = no
+
+    culture = pewenche
+    religion = animism
+
+	trait = education_diplomacy_3
+
+	2630.5.17 = {
+        birth = yes
+
+    }
+}
+patagonia_aristimuno_hilarion_1 = { # d_valle_medio
+    name = "Hilari_o_act_n"
+    dynasty = dynn_patagonia_aristimuno
+    female = no
+    disallow_random_traits = no
+
+    culture = desertico
+    religion = gauchada
+
+	trait = education_martial_2
+
+	2618.1.16 = {
+        birth = yes
+    }
+	2666.1.3 = {
+        effect = {
+			add_unpressed_claim = title:k_la_pampa
+		}
+    }
+
+}
+patagonia_verani_horacio_1 = { # d_viedma
+    name = "Horacio"
+    dynasty = dynn_patagonia_verani
+    female = no
+    disallow_random_traits = no
+
+    culture = desertico
+    religion = gauchada
+
+	trait = education_martial_3
+
+	2635.7.13 = {
+        birth = yes
+
+    }
+	2666.1.3 = {
+        effect = {
+			add_unpressed_claim = title:k_la_pampa
+		}
+    }
+}
+patagonia_paine_hugo_1 = { # c_chos_malal
+    name = "Hugo"
+    dynasty = dynn_patagonia_paine
+    female = no
+    disallow_random_traits = no
+
+    culture = puelche
+    religion = nguillatun
+
+	trait = education_intrigue_3
+
+	2640.3.12 = {
+        birth = yes
+
+    }
+}
+patagonia_capos_fernando_1 = { # c_rio_turbio
+    name = "Fernando"
+    dynasty = dynn_patagonia_capos
+    female = no
+    disallow_random_traits = no
+
+    culture = santacruceno
+    religion = xoon
+
+	trait = education_martial_3
+
+	2637.5.4 = {
+        birth = yes
+
+    }
+}
+patagonia_canuelas_isidoro_1 = { # c_los_menucos
+    name = "Isidoro"
+    dynasty = dynn_patagonia_canuelas
+    female = no
+    disallow_random_traits = no
+    sexuality = heterosexual
+    culture = desertico
+    religion = gauchada
+
+	trait = education_intrigue_2
+    trait = gregarious
+    trait = greedy
+    trait = craven
+    trait = lifestyle_reveler
+
+	2640.7.22 = {
+        birth = yes
+
+    }
+}
+patagonia_endeiza_luis_1 = { # c_coyhaique
+    name = "Luis"
+    dynasty = dynn_patagonia_endeiza
+    female = no
+    disallow_random_traits = no
+
+    culture = australino
+    religion = calafatist
+
+	trait = education_martial_3
+    trait = paranoid
+    trait = zealous
+    trait = temperate
+
+	2627.3.22 = {
+        birth = yes
+
+    }
+}
+patagonia_rosales_graciela_1 = { # c_puerto_cisnes
+    name = "Graciela"
+    dynasty = dynn_patagonia_rosales
+    female = yes
+    disallow_random_traits = no
+
+    culture = australino
+    religion = calafatist
+
+	trait = education_martial_4
+    trait = wrathful
+    trait = chaste
+    trait = arrogant
+
+	2624.7.20 = {
+        birth = yes
+
+    }
+}
+patagonia_copolque_nestor_1 = { # c_rio_gallegos
+    name = "N_e_act_stor"
+    dynasty = dynn_patagonia_copolque
+    female = no
+    disallow_random_traits = no
+
+    culture = aonikenk
+    religion = calafatist
+
+	trait = education_stewardship_3
+
+	2618.12.3 = {
+        birth = yes
+
+    }
+}
+patagonia_nahuelquir_rosa_1 = { # c_puerto_deseado
+    name = "Rosa"
+    dynasty = dynn_patagonia_nahuelquir
+    female = yes
+    disallow_random_traits = no
+
+    culture = aonikenk
+    religion = calafatist
+
+	trait = education_stewardship_4
+
+	2615.5.16 = {
+        birth = yes
+
+    }
+}
+patagonia_chiquichano_emilio_1 = { # c_perito_moreno
+    name = "Emilio"
+    dynasty = dynn_patagonia_chiquichano
+    female = no
+    disallow_random_traits = no
+
+    culture = aonikenk
+    religion = calafatist
+
+	trait = education_diplomacy_3
+
+	2638.10.10 = {
+        birth = yes
+
+    }
+}
+patagonia_almonacid_enrique_1 = { # c_comodoro_rivadavia
+    name = "Enrique"
+    dynasty = dynn_patagonia_almonacid
+    female = no
+    disallow_random_traits = no
+
+    culture = desertico
+    religion = calafatist
+
+	trait = education_martial_2
+
+	2619.9.12 = {
+        birth = yes
+
+    }
+}
+patagonia_tramaleo_inayacal_1 = { # c_sarmiento
+    name = "Inayacal"
+    dynasty = dynn_patagonia_tramaleo
+    female = no
+    disallow_random_traits = no
+
+    culture = aonikenk
+    religion = calafatist
+
+	trait = education_intrigue_4
+
+	2606.1.19 = {
+        birth = yes
+
+    }
+}
+patagonia_baker_peteyem_1 = { # c_ultima_esperanza
+    name = "Peteyem"
+    dynasty = dynn_patagonia_baker
+    female = no
+    disallow_random_traits = no
+
+    culture = kawesqar
+    religion = calafatist
+
+	trait = education_learning_4
+    trait = just
+    trait = generous
+    trait = humble
+
+	2616.9.11 = {
+        birth = yes
+
+    }
+}
+patagonia_maripangui_fabiola_1 = { # c_lacar
+    name = "Fabiola"
+    dynasty = dynn_patagonia_maripangui
+    female = yes
+    disallow_random_traits = no
+
+    culture = pewenche
+    religion = nguillatun
+
+	trait = education_diplomacy_2
+
+	2613.8.1 = {
+        birth = yes
+
+    }
+}
+patagonia_cockwell_anne_1 = { # c_west_falkland
+    name = "Anne"
+    dynasty = dynn_patagonia_cockwell
+    female = yes
+    disallow_random_traits = no
+    father = patagonia_cockwell_charles_1
+
+    culture = falklander
+    religion = waveruler
+
+	trait = education_martial_3
+    trait = stubborn
+
+	2640.11.14 = {
+        birth = yes
+
+    }
+}
+patagonia_cockwell_james_1 = { # c_lafonia
+    name = "James"
+    dynasty = dynn_patagonia_cockwell
+    female = no
+    disallow_random_traits = no
+    father = patagonia_cockwell_charles_1
+
+    culture = falklander
+    religion = waveruler
+
+	trait = education_stewardship_2
+    trait = stubborn
+
+	2637.5.25 = {
+        birth = yes
+
+    }
+}
+patagonia_cockwell_robert_1 = { # c_east_falkland
+    name = "Robert"
+    dynasty = dynn_patagonia_cockwell
+    female = no
+    disallow_random_traits = no
+    father = patagonia_cockwell_charles_1
+
+    culture = falklander
+    religion = waveruler
+
+	trait = education_learning_1
+    trait = stubborn
+
+	2633.3.28 = {
+        birth = yes
+
+    }
+}
+patagonia_zuloaga_santiago_1 = { # c_rio_grande
+    name = "Santiago"
+    dynasty = dynn_patagonia_zuloaga
+    female = no
+    disallow_random_traits = no
+
+    culture = santacruceno
+    religion = xoon
+
+	trait = education_diplomacy_3
+    trait = calm
+    trait = lustful
+    trait = just
+
+	2640.9.7 = {
+        birth = yes
+
+    }
+}
+patagonia_llancalahuen_josefina_1 = { # c_guaitecas
+    name = "Josefina"
+    dynasty = dynn_patagonia_llancalahuen
+    female = yes
+    disallow_random_traits = no
+
+    culture = australino
+    religion = calafatist
+
+	trait = education_intrigue_3
+    trait = brave
+    trait = compassionate
+    trait = cynical
+
+	2643.11.27 = {
+        birth = yes
+
+    }
+}

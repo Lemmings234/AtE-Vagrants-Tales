@@ -1,0 +1,747 @@
+﻿#Cordoba
+k_cordoba = {
+    2666.7.4 = {
+        holder = character_k_cordoba
+		government = range_government
+    }
+}
+
+d_cordoba = {
+    2666.7.4 = {
+        holder = character_d_cordoba
+        liege = k_cordoba   
+		government = range_government		
+    }
+}
+c_cordoba = {
+	2666.7.4 = { change_development_level = 14 }
+	    2666.7.4 = {
+        holder = character_k_cordoba
+		government = range_government
+    }
+}
+c_rio_segundo = {
+	2666.7.4 = { change_development_level = 4 }
+	    2666.7.4 = {
+        holder = character_k_cordoba
+		government = range_government
+    }
+}
+c_rio_tercero = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_cordoba
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_calamuchita = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_cordoba
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_paravachasca = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_k_cordoba
+		government = range_government
+          
+    }
+}
+
+c_villa_maria = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_cordoba
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_bell_ville = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_bell_ville
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_ansenuza = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_dean_funes
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_san_justo = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_bell_ville
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_san_roque = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_cruz_del_eje
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_ischilin = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_dean_funes
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_quilino = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_c_cruz_del_eje
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_cruz_del_eje = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_cruz_del_eje
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+d_santiago_del_estero = {
+	2666.7.4 = {
+        holder = character_c_clodomira
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_rio_hondo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_alderetes
+        liege = d_santiago_del_estero   
+		government = range_government
+    }
+}
+
+c_cruz_alta = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_alderetes
+        liege = d_santiago_del_estero    
+		government = range_government
+    }
+}
+
+c_santiago_del_estero = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = character_c_clodomira
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_banda = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_clodomira
+        liege = k_cordoba    
+		government = range_government
+    }
+}
+
+c_laboulaye = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_rio_cuarto
+        liege = d_trenque_lauquen    
+		government = range_government
+    }
+}
+c_corral = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_rio_cuarto
+        liege = d_trenque_lauquen    
+		government = range_government
+    }
+}
+
+c_rio_cuarto = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_rio_cuarto
+        liege = d_trenque_lauquen    
+		government = range_government
+    }
+}
+
+c_rosario = {
+	2666.7.4 = { change_development_level = 14 }
+    2666.7.4 = {
+        holder = character_c_rosario
+    }
+}
+
+k_unitario = {
+    2666.7.4 = {
+        holder = character_c_rosario  
+    }
+}
+
+c_general_lopez = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_venado_tuerto
+        liege = k_unitario   
+    }
+}
+
+c_las_colonias = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_galvez
+        liege = d_rosario    
+    }
+}
+
+c_rufino_santa_fe = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_venado_tuerto
+    }
+}
+
+c_general_obligado = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_tostado
+        liege = d_chaco_austral    
+    }
+}
+
+c_santa_fe_de_la_vera_cruz = {
+    2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = character_c_tostado
+        liege = d_chaco_austral    
+    }
+}
+
+c_castellanos = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder =  character_c_san_cristobal
+        liege = k_cordoba
+    }
+}
+
+c_vera = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_tostado
+        liege = d_chaco_austral    
+    }
+}
+
+c_tostado = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_tostado
+        liege = d_chaco_austral    
+    }
+}
+
+c_san_cristobal =  {
+	2666.7.4 = { change_development_level = 3 }
+	2666.7.4 = {
+        holder =  character_c_san_cristobal
+		liege = k_cordoba
+    }
+}
+
+c_iriondo = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_galvez
+    }
+}
+
+c_general_taboada = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_quimili
+        liege = d_chaco_austral    
+    }
+}
+
+c_ojo_de_agua = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_clodomira
+        liege = k_cordoba    
+    }
+}
+
+c_moreno = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_quimili
+        liege = d_chaco_austral    
+    }
+}
+
+#Cuyo
+k_cuyo = { 
+	2666.7.4 = {
+        holder = interior_malbecez_eleanora
+    }
+}
+d_mendoza = {
+    2666.7.4 = {
+        holder = interior_malbecez_rose
+		liege = k_cuyo
+    }
+}
+d_la_rioja = { 
+	2666.7.4 = {
+        holder = interior_malbecez_roja
+		liege = k_cuyo
+    }
+}
+
+
+c_mendoza = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = interior_malbecez_eleanora
+    }
+}
+
+c_san_rafael = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = interior_malbecez_rose
+		liege = k_cuyo
+    }
+}
+
+c_san_martin = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = interior_malbecez_eleanora
+    }
+}
+
+c_uspallata = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = interior_malbecez_eleanora
+    }
+}
+
+c_tunuyan = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = interior_malbecez_eleanora
+    }
+}
+
+c_villa_san_carlos = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = interior_malbecez_rose
+		liege = k_cuyo
+    }
+}
+
+
+
+c_aconcagua = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = interior_malbecez_quimera
+        liege = k_cuyo    
+    }
+}
+
+d_san_juan = {
+    2666.7.4 = {
+        holder = interior_malbecez_espumosa
+		liege = k_cuyo
+    }
+}
+
+c_gran_san_juan = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = interior_malbecez_espumosa
+		liege = k_cuyo
+    }
+}
+
+c_caucete = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = interior_malbecez_blanca
+		liege = d_san_juan
+    }
+}
+
+c_albardon = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = interior_malbecez_espumosa
+		liege = k_cuyo
+    }
+}
+
+c_jachal = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = interior_malbecez_espumosa
+		liege = k_cuyo
+    }
+}
+
+d_san_rafael = {
+    2666.7.4 = {
+        holder = character_d_san_rafael
+    }
+}
+
+c_chalileo = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_d_san_rafael
+    }
+}
+
+c_las_loicas = {
+    2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_san_rafael
+    }
+}
+
+c_malargue = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_d_san_rafael
+    }
+}
+
+c_jaime_prats = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_san_rafael
+    }
+}
+
+d_san_luis = {
+    2666.7.4 = {
+        #holder = interior_malbecez_roja
+		holder = character_d_san_luis
+		#liege = k_cuyo
+    }
+}
+
+c_san_luis = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_d_san_luis
+    }
+}
+
+c_dupuy = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = interior_martinez_victorio
+		liege = d_san_luis
+    }
+}
+c_nacunan = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = argentina_tejon_mafalda_1
+        liege = d_san_luis  
+    }
+}
+c_lavalle = {
+    2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = argentina_tejon_mafalda_1
+        liege = d_san_luis  
+    }
+}
+c_conlara = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_san_luis #or rose?
+		#liege = k_cuyo
+    }
+}
+
+c_quines = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_san_luis
+		#liege = k_cuyo
+    }
+}
+
+c_chamical = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_chamical
+		liege = d_la_rioja
+    }
+}
+
+c_la_troya = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_vinchina
+        liege = d_la_rioja    
+    }
+}
+
+c_chepes = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = interior_malbecez_blanca
+		liege = d_san_juan
+    }
+}
+c_chilecito = {
+	2666.7.4 = { change_development_level = 4 }
+	2666.7.4 = {
+        holder = character_c_las_juntas
+        liege = d_la_rioja    
+    }
+}
+
+c_guandacol = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_las_juntas
+        liege = d_la_rioja    
+    }
+}
+
+c_tinogasta = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_chilecito_ar
+    }
+}
+
+c_calchaqui = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_londres
+    }
+}
+
+c_general_alvear = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_toscal
+        liege = d_san_rafael    
+    }
+}
+
+c_ar_05_dolores = {
+    2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = interior_malbecez_roja
+		liege = k_cuyo
+    }
+}
+
+
+
+c_la_rioja = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = interior_malbecez_roja
+		liege = k_cuyo
+    }
+}
+
+c_antofalla = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_de_corral_quemado
+    }
+}
+
+c_calingasta = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = interior_malbecez_quimera
+        liege = k_cuyo    
+    }
+}
+
+c_valle_fertil = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = interior_malbecez_blanca
+		liege = d_san_juan
+    }
+}
+
+c_iglesia = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = interior_alfareria_de_hongos_mariano
+		liege = d_san_juan
+    }
+}
+
+#Norte Viejo
+#k_norte_viejo = { 
+#}
+d_salta = {
+    2666.7.4 = {
+        holder = character_d_salta
+    }
+}
+
+c_rivadavia = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_d_salta
+    }
+}
+
+c_oran = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_salta
+    }
+}
+
+c_cafayate = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_salta
+        liege = d_tucuman    
+    }
+}
+
+c_san_salvador_de_jujuy = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = character_c_san_salvador_de_jujuy
+        liege = d_salta    
+    }
+}
+
+c_tartagal = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_tartagal
+        liege = d_salta    
+    }
+}
+d_catamarca = {
+	2666.7.4 = {
+        holder = character_d_catamarca
+    }
+}
+c_andalgala = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_catamarca
+    }
+}
+
+c_san_miguel_de_tucuman = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = character_c_san_miguel_de_tucuman
+        liege = d_tucuman    
+    }
+}
+
+c_chicligasta = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_san_miguel_de_tucuman
+        liege = d_tucuman    
+    }
+}
+
+c_metan = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_el_galpon
+        liege = d_tucuman    
+    }
+}
+
+c_anta = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_el_galpon
+        liege = d_tucuman    
+    }
+}
+
+d_tucuman = {
+	 2666.7.4 = {
+        holder = character_c_san_antonio_de_los_cobres
+    }
+}
+	
+c_san_antonio_de_los_cobres = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_san_antonio_de_los_cobres
+    }
+}
+
+c_recreo = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_recreo
+        liege = d_catamarca    
+    }
+}
+
+c_valle_de_catamarca = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_d_catamarca
+    }
+}
+
+c_salta = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = character_c_salta
+        liege = d_tucuman    
+    }
+}

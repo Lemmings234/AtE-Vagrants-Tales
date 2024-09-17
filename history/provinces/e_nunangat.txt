@@ -1,0 +1,1261 @@
+#e_nunangat
+#k_greenland
+#d_sermersooq
+#c_nuuk
+#b_gl_nuuk
+7327 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_qeqertarsuatsiaat
+7325 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_kapisillit
+7326 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_sisimiut
+#b_gl_sisimiut
+8137 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_kangerlussuaq
+8135 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_kangaamiut
+8136 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_maniitsoq
+#b_gl_maniitsoq
+6525 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_atammik
+6527 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_paamiut
+#b_gl_paamiut
+7995 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_kangilinnguit
+7994 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_aasiaat
+#b_gl_aasiaat
+8075 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_qasigiannguit
+6485 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_kangaatsiaq
+8076 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_attu
+6526 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_qeqertarsuaq
+#b_gl_qeqertarsuaq
+5500 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#d_kujalleq
+#c_qaqortoq
+#b_gl_qaqortoq
+7339 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_narsarsuaq
+7338 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_narsaq
+8042 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#c_nanortalik
+#b_gl_nanortalik
+2802 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_aappilattoq
+2801 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#d_avannaata
+#c_ilulissat
+#b_gl_ilulissat
+6487 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_saqqaq
+6486 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_upernavik
+#b_gl_upernavik
+4633 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_tasiusak
+4632 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_kullorsuaq
+5303 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#c_qaanaaq
+#b_gl_qaanaaq
+247 = {
+	culture = inughuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_pituffik
+249 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_qeqertat
+248 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_uummannaq
+#b_gl_uummannaq
+7902 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_ikerasak
+7901 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#d_tunu - Tunu
+#c_ammassalik
+#b_gl_tasiilaq
+160 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_isortoq
+161 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#b_gl_sermiligaaq
+162 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#c_ittoqqortoormiit
+#b_gl_ittoqqortoormiit
+163 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_gl_mestersvig
+172 = {
+	culture = kalaaleq
+	religion = ilisaijjut
+	holding = none
+}
+#d_svalbard
+#c_spitsbergen
+#b_sj_21_longyearbyen
+3033 = {
+	culture = svalbarder
+	religion = earthvault
+	holding = tribal_holding
+}
+#b_sj_21_ny_lesund
+3035 = {
+	culture = svalbarder
+	religion = earthvault
+	holding = none
+}
+#b_sj_21_pyramiden
+3034 = {
+	culture = svalbarder
+	religion = earthvault
+	holding = none
+}
+#k_nunavik
+#d_caniapiscau
+#c_labrador_west
+#b_ca_nl_labrador_city
+4414 = {
+	culture = innu
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_qc_schefferville
+516 = {
+	culture = innu
+	religion = midewiwin
+	holding = none
+}
+#b_ca_nl_churchill_falls
+4415 = {
+	culture = innu
+	religion = midewiwin
+	holding = none
+}
+#c_fermont
+#b_ca_qc_fermont
+9301 = {
+	culture = innu
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_qc_manicouagan
+8367 = {
+	culture = innu
+	religion = midewiwin
+	holding = none
+}
+#d_labrador
+#c_melville
+#b_ca_nl_happy_valley_goose_bay
+5583 = {
+	culture = innu
+	religion = pelagic
+	holding = tribal_holding
+}
+#b_ca_nl_sheshatshiu
+5582 = {
+	culture = innu
+	religion = pelagic
+	holding = none
+}
+#c_cartwright
+#b_ca_nl_cartwright
+7473 = {
+	culture = innu
+	religion = pelagic
+	holding = tribal_holding
+}
+#b_ca_nl_charlottetown
+7472 = {
+	culture = innu
+	religion = pelagic
+	holding = none
+}
+#c_alexis
+#b_ca_nl_port_hope_simpson
+144 = {
+	culture = innu
+	religion = pelagic
+	holding = tribal_holding
+}
+#b_ca_nl_marys_harbour
+145 = {
+	culture = innu
+	religion = pelagic
+	holding = none
+}
+#b_ca_nl_lanse_au_loup
+3052 = {
+	culture = innu
+	religion = pelagic
+	holding = none
+}
+#d_kativik
+#c_salluit
+#b_ca_qc_salluit
+8015 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_ivujivik
+8014 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_qc_akulivik
+318 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_kuujjuaq
+#b_ca_qc_kuujjuaq
+8368 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_kangiqsualujjuaq
+319 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_whapmagoostui
+#b_ca_qc_kuujuaraapik
+6598 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_sanikiluaq
+6596 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_qc_umiujaq
+6597 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_inukjuak
+#b_ca_qc_puvirnituq
+6770 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_inukjuaq
+6769 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_tasiujaq
+#b_ca_qc_tasiujaq
+4005 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_aupaluk
+4006 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_kangiqsujuaq
+#b_ca_qc_kangiqsujuaq
+1664 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_kangirsuq
+1663 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_qc_quaqtaq
+317 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#d_nunatsiavut
+#c_hopedale
+#b_ca_nl_hopedale
+2445 = {
+	culture = inuit
+	religion = pelagic
+	holding = tribal_holding
+}
+#b_ca_nl_rigolat
+2443 = {
+	culture = inuit
+	religion = pelagic
+	holding = none
+}
+#b_ca_nl_makkovik
+2444 = {
+	culture = inuit
+	religion = pelagic
+	holding = none
+}
+#c_nain
+#b_ca_nl_nain
+558 = {
+	culture = inuit
+	religion = pelagic
+	holding = tribal_holding
+}
+#b_ca_nl_natuashish
+559 = {
+	culture = inuit
+	religion = pelagic
+	holding = none
+}
+#k_nunavut
+#d_iqaluit
+#c_iqaluit
+#b_ca_nu_iqaluit
+1632 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_ca_nu_niaqunngut
+1634 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#c_pangnirtung
+#b_ca_nu_pangniqtuuq
+2197 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_ca_nu_paallavvik
+2199 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#b_ca_nu_qikiqtarjuaq
+2200 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#c_uqqummiut
+#b_ca_nu_kangiqtugaapik
+2207 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#c_kinngait
+#b_ca_nu_kinngait
+4901 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_ca_nu_kimmirut
+4899 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#b_ca_nu_amadjuak
+4900 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#d_iglulik
+#c_ikpiarjuk
+#b_ca_nu_ikpiarjuk
+2862 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_mittimatalik
+2860 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nu_nuluyait
+3535 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_iglulik
+#b_ca_nu_iglulik
+3534 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_sikosak
+3536 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nu_sanirajak
+8055 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#c_aujuittuq
+#b_ca_nu_qausuittuq
+3949 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = tribal_holding
+}
+#b_ca_nu_aujuittuq
+3950 = {
+	culture = inuit
+	religion = ilisaijjut
+	holding = none
+}
+#d_inuvik
+#c_inuvik
+#b_ca_nwt_inuvik
+9197 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nwt_aklavik
+9196 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nwt_qikiqtaruk
+9198 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#c_qurluqtuq
+#b_ca_nu_qurluqtuq
+9515 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#c_tuktoyaktuk
+#b_ca_nwt_tuktuyaaqtuuq
+3572 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nwt_paulatuuq
+3571 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_ulukhaktok
+#b_ca_nwt_ulukhaktok
+8462 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nwt_ikaahuk
+8463 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#d_kivalliq
+#c_kangiqliniq
+#b_ca_nu_igluligaarjuk
+9004 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_kangiqiniq
+9006 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nu_qamanituaq
+7179 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_aivilik
+#b_ca_nu_naujaat
+8058 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_ukkusiksalik
+9005 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_arviat
+#b_ca_nu_arviat
+3218 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_tikiraqjuaq
+3220 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nu_ennadai
+3219 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_salliq
+#b_ca_nu_salliq
+8333 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#d_kitikmeot
+#c_iqaluktuuttiaq
+#b_ca_nu_iqaluktuuttiaq
+3273 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_umingmaktuuq
+3271 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_nu_qingaut
+3272 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_uqsuqtuuq
+#b_ca_nu_uqsuqtuuq
+7181 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_iluilik
+7180 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_netsilik
+#b_ca_nu_kugaaruq
+9586 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_nu_talurjuaq
+9585 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#k_jamesie
+#d_abitibi
+#c_abitibi
+#b_ca_qc_amos
+283 = {
+	culture = ontarien
+	religion = ursuline
+	holding = castle_holding
+}
+#b_ca_qc_la_sarre
+282 = {
+	culture = ontarien
+	religion = ursuline
+	holding = church_holding
+}
+#c_vallee_de_l_or
+#b_ca_qc_val_d_or
+601 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+	1923.1.1 = {
+		special_building = 	malartic_mine_01
+	}
+}
+#b_ca_qc_senneterre
+599 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_qc_malartic
+600 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_qc_lebel_sur_qu_villon
+5936 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#c_temiskaming
+#b_ca_qc_ville_marie
+6303 = {
+	culture = ontarien
+	religion = ursuline
+	holding = castle_holding
+}
+#b_ca_qc_temiscaming
+6302 = {
+	culture = ontarien
+	religion = ursuline
+	holding = church_holding
+}
+#b_ca_qc_rouyn_noranda
+284 = {
+	culture = ontarien
+	religion = ursuline
+	holding = city_holding
+}
+#b_ca_qc_belleterre
+6304 = {
+	culture = ontarien
+	religion = ursuline
+	holding = none
+}
+#d_eeyou_istchee
+#c_chibougamau
+#b_ca_qc_chibougamau
+911 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_qc_mistissini
+910 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_qc_chapais
+909 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#c_mattagami
+#b_ca_qc_matagami
+5935 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_qc_waswanipi
+5937 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#c_nemaska
+#b_ca_qc_nemiscau
+5120 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#d_james_bay
+#c_chisasibi
+#b_ca_qc_chisasibi
+2533 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_ca_qc_radisson
+2534 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#b_ca_qc_wemindji
+2531 = {
+	culture = inuit
+	religion = unipkaaq
+	holding = none
+}
+#c_waskaganish
+#b_ca_qc_waskaganish
+9244 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_qc_eastmain
+9243 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#c_moosonee
+#b_ca_on_moose_factory
+1717 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_moosonee
+1718 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#c_attawapiskat
+#b_ca_on_attawapiskat
+8530 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_kashechewan
+2532 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_fort_albany
+8529 = {
+	culture = east_cree
+	religion = midewiwin
+	holding = none
+}
+#k_keewatin
+#d_nelson
+#c_thompson
+#b_ca_mb_thompson
+2580 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_wabowden
+2581 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_pikwitonei
+602 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_nelson_house
+549 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_south_indian_lake
+548 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_granville
+#b_ca_mb_lynn_lake
+539 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_sk_southend
+540 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_pukatawagan
+541 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_leaf_rapids
+547 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#c_norway_house
+#b_ca_mb_norway_house
+1028 = {
+	culture = metis
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_mb_cross_lake
+1026 = {
+	culture = metis
+	religion = midewiwin
+	holding = none
+}
+#d_flin_flon
+#c_flin_flon
+#b_ca_mb_flin_flon
+5165 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_sandy_bay
+542 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_sk_deschambault_lake
+5166 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_sk_cumberland_house
+5167 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#c_paskoyac
+#b_ca_mb_the_pas
+2222 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_sk_nipawin
+2220 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_sk_smoky_burn
+2221 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_moose_lake
+#b_ca_mb_moose_lake
+1160 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_snow_lake
+1161 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_grand_rapids
+1159 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#d_keewatin
+#c_fox_lake
+#b_ca_mb_gillam
+5896 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_bird
+5894 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_churchill
+5895 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#c_wapusk
+#b_ca_mb_shamattawa 
+5897 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_on_peawanuck
+8740 = {
+	culture = woodland_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_fort_severn
+8741 = {
+	culture = woodland_cree
+	religion = midewiwin
+	holding = none
+}
+#c_gods_lake
+#b_ca_mb_oxford_house
+1800 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_gods_river
+2582 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_gods_lake_narrows
+6729 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#c_cochrane_river
+#b_ca_sk_wollaston_lake
+9242 = {
+	culture = denesuline
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_ca_on_tadoule_lake
+8056 = {
+	culture = denesuline
+	religion = ayahan
+	holding = none
+}
+#b_ca_on_lac_brochet
+8057 = {
+	culture = denesuline
+	religion = ayahan
+	holding = none
+}
+#c_reindeer_lake
+#b_ca_mb_brochet
+13 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_sk_kinoosao
+19 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#c_split_lake
+#b_ca_mb_split_lake
+544 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_ilford
+545 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_york_factory
+543 = {
+	culture = woodland_cree
+	religion = exovedate
+	holding = none
+}
+#d_patricia
+#c_osnaburgh
+#b_ca_on_osnaburgh
+2076 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_cat_lake
+4661 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_slate_falls
+2078 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#c_deer_lake
+#b_ca_on_sandy_lake
+4662 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_keewaywin
+4660 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_deer_lake
+1317 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#c_windigo
+#b_ca_on_weagamow_lake
+4659 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_sachigo_lake
+8176 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_bearskin_lake
+8177 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#c_shibogama
+#b_ca_on_big_trout_lake
+365 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_kingfisher_lake
+363 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_kasabonika
+1633 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_wunnumin_lake
+2861 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#c_matawa
+#b_ca_on_fort_hope
+2198 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_on_summer_beaver
+366 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_webequie
+364 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_martin_falls
+2068 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_aroland
+5905 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}

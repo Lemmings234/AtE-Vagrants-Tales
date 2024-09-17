@@ -1,0 +1,11 @@
+﻿
+minnie_soda = {
+	name = "Minnie_Soda"
+    female = yes
+	dynasty = none
+	religion = viking
+	culture = northlander
+	2638.11.30 = {
+		birth = yes
+	}
+}

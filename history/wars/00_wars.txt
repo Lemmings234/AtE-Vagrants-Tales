@@ -1,0 +1,182 @@
+#Inca civil war - Francisca's claim
+war = {
+
+	start_date = 2666.1.1
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		e_inca
+	}
+	
+	casus_belli = claim_cb
+	attackers = { andes_condorcanqui_francisca_inca8 andes_apaza_juan_carlos_1 }
+	defenders = { andes_condorcanqui_cusi_coyllur_inca7 }
+	claimant = andes_condorcanqui_francisca_inca8
+
+}
+
+#Inca civil war - Maria's claim
+war = {
+
+	start_date = 2666.1.1
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		e_inca
+	}
+	
+	casus_belli = claim_cb
+	attackers = { andes_condorcanqui_maria_inca9 andes_mallma_epifanio_1 }
+	defenders = { andes_condorcanqui_cusi_coyllur_inca7 }
+	claimant = andes_condorcanqui_maria_inca9
+
+}
+
+#Freeland war for Oregon
+war = {
+
+	start_date = 2666.1.1
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		d_willamette
+	}
+	
+	casus_belli = claim_cb
+	attackers = { cascadia_freeland_kaitlin_1 }
+	defenders = { cascadia_freeland_anna_1 }
+	claimant = cascadia_freeland_kaitlin_1
+
+}
+
+#Magnolia War Creaux
+war = {
+
+	start_date = 2665.12.25
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		k_magnolia
+	}
+	
+	casus_belli = claim_cb
+	attackers = { miss_creaux_narcisse_missdad miss_creaux_louis_laking4 }
+	defenders = { miss_rocksley_harry_magnolia }
+	claimant = miss_creaux_narcisse_missdad
+
+}
+
+#Magnolia War Latimer
+war = {
+
+	start_date = 2665.12.25
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		k_magnolia
+	}
+	
+	casus_belli = claim_cb
+	attackers = { miss_latimer_syagrius hcc_latimer_huey_1 }
+	defenders = { miss_rocksley_harry_magnolia }
+	claimant = miss_latimer_syagrius
+
+}
+
+#Jeffersonian Revolt
+war = {
+	name = "war_Jeffersonian_Revolt"
+	start_date = 2661.11.27
+	end_date = 2667.1.1
+	
+	targeted_titles = {
+		k_jefferson
+	}
+	
+	casus_belli = independence_war
+	attackers = {
+		california_gable_stanford_1 
+		character_d_redwoods 
+		character_d_modoc
+		character_c_trinity 
+	}
+	defenders = { california_talenque_troyii }
+}
+
+#Governate War
+war = {
+	name = "governator_WAR_NAME"
+	start_date = 2666.4.2
+	end_date = 2667.1.1
+	
+	casus_belli = shogun_diadochi_war
+	attackers = { california_carmine_ronald_1 }
+	defenders = { california_moore_cullen_1 }
+}
+
+# war = {
+# 	name = "governator_WAR_NAME"
+# 	start_date = 2666.4.12
+# 	end_date = 2667.1.1
+	
+# 	casus_belli = shogun_diadochi_war
+# 	attackers = { california_armour_pollock_1 }
+# 	defenders = { california_moore_cullen_1 }
+# }
+
+# war = {
+# 	name = "governator_WAR_NAME"
+# 	start_date = 2666.4.12
+# 	end_date = 2667.1.1
+	
+# 	casus_belli = shogun_diadochi_war
+# 	attackers = { california_carmine_ronald_1 }
+# 	defenders = { california_armour_pollock_1 }
+# }
+
+war = {
+	start_date = 2666.7.4
+	end_date = 2667.1.1
+
+	targeted_titles = {
+		c_san_quintin
+	}
+	
+	casus_belli = grand_raid_cb
+	attackers = {
+		character_d_baja_california_sur  
+	}
+	defenders = { california_talenque_troyii }
+}
+
+#Ontario Vassalization of Thames
+war = {
+	
+	start_date = 2666.7.4
+	end_date = 2667.1.1
+	
+	
+	
+	casus_belli = vassalization_cb
+	attackers = {
+		canada_yonge_morley_1 
+	}
+	defenders = { canada_porter_sakokweniokwas.1 }
+}
+
+#Haida Invasion of Vancouver Island
+
+war = {
+
+    start_date = 2666.7.4
+	end_date = 2667.1.1
+    
+	targeted_titles = {
+		d_vancouver_island
+	}
+    
+    casus_belli = claim_cb
+    attackers = { cascadia_tlgunghung_skilhlang_1}
+    defenders = { cascadia_macdowall_garth_1 }
+    claimant = cascadia_tlgunghung_skilhlang_1
+}

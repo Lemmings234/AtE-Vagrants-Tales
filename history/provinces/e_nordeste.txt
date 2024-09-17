@@ -1,0 +1,1852 @@
+#e_nordeste
+#k_pernambuco
+#d_br_30_recife
+#c_recife
+#b_br_30_recife
+11777 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = castle_holding
+	1946.8.11 = {
+		special_building = brennand_garden
+	}
+}
+#b_br_30_jaboat_o
+11774 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_30_vit_ria_de_santo_ant_o
+11714 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_30_s_o_louren_o_da_mata
+11776 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_30_paulista
+#b_br_30_paulista
+11701 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_30_carpina
+11699 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_30_igarassu
+11700 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = none
+}
+#b_br_30_timba_ba
+11697 = {
+	culture = recifolindense
+	religion = ciceritism
+	holding = none
+}
+#c_br_30_ipojuca
+#b_br_30_ipojuca
+11775 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_30_sirinha_m
+11710 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = church_holding
+}
+#b_br_30_ribeir_o
+11716 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = castle_holding
+}
+#c_br_30_palmares
+#b_br_30_palmares
+11713 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_30_barreiros
+11715 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_30_xexeu
+11711 = {
+	culture = recifolindense
+	religion = santeiro
+	holding = church_holding
+}
+#d_br_30_caruaru
+#c_caruaru
+#b_br_30_caruaru
+11882 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_30_altinho
+11884 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_30_santa_cruz_do_capibaribe
+11885 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = none
+}
+#b_br_30_cupira
+11712 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_garanhuns
+#b_br_30_garanhuns
+11684 = {
+	culture = borboremense
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_30_bom_conselho
+11679 = {
+	culture = borboremense
+	religion = santeiro
+	holding = church_holding
+}
+#b_br_30_barra_do_jenipapo
+11681 = {
+	culture = borboremense
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_30__guas_belas
+11686 = {
+	culture = borboremense
+	religion = santeiro
+	holding = none
+}
+#c_br_30_arcoverde
+#b_br_30_arcoverde
+11685 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_30_bu_que
+11678 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = none
+}
+#b_br_30_pesqueira
+11683 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#b_br_30_caet_s
+11680 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#c_br_30_surubim
+#b_br_30_surubim
+11698 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_30_taquaritinga_do_norte
+11883 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#d_br_30_serra_talhada
+#c_exu
+#b_br_30_exu
+11671 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_30_araripina
+11672 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_30_parnamirim
+11811 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+}
+#c_serra_talhada
+#b_br_30_serra_talhada
+11721 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = castle_holding
+	1900.1.1 = {special_building = pedra_do_reino}
+}
+#b_br_30_s_o_jos_do_belmonte
+11724 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#b_br_30_salgueiro
+11673 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#c_br_30_afogados_da_ingazeira
+#b_br_30_afogados_da_ingazeira
+11725 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#b_br_30_s_o_jos_do_egito
+11722 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#b_br_30_a_ude
+11723 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#c_br_30_sert_nia
+#b_br_30_sert_nia
+11677 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_30_rem_dio
+11726 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = none
+}
+#b_br_30_aldeia_velha
+11676 = {
+	culture = borboremense
+	religion = jurema_sagrada
+	holding = none
+}
+#d_br_30_petrolina
+#c_petrolina
+#b_br_30_petrolina
+11788 = {
+	culture = franciscano
+	religion = sebastianism
+	holding = castle_holding
+}
+#b_br_05_santa_maria_da_boa_vista
+11786 = {
+	culture = franciscano
+	religion = sebastianism
+	holding = city_holding
+}
+#b_br_30_caboclo
+11787 = {
+	culture = franciscano
+	religion = sebastianism
+	holding = church_holding
+}
+#c_br_30_floresta
+#b_br_30_floresta
+11808 = {
+	culture = pankararu
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_30_cabrob_
+11807 = {
+	culture = pankararu
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_30_bel_m_de_s_o_francisco
+11809 = {
+	culture = pankararu
+	religion = ciceritism
+	holding = city_holding
+}
+#c_br_30_petrol_ndia
+#b_br_30_petrol_ndia
+11810 = {
+	culture = pankararu
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_30_aguap_
+11806 = {
+	culture = pankararu
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#b_br_30_baixa_da_umburana
+11682 = {
+	culture = pankararu
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#k_ceara
+#d_br_06_fortaleza
+#c_br_06_caucaia
+#b_br_06_caucaia
+11832 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+	
+}
+#b_br_06_itapipoca
+6182 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_soares
+11791 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_canind_
+6185 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#c_fortaleza
+#b_br_06_fortaleza
+11748 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+	1978.1.1 = {
+		special_building = black_church
+	}
+}
+#b_br_06_maracana_
+11747 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_aquiraz
+11789 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_guai_ba
+11793 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_novo_parque_iracema
+11833 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#c_br_06_cascavel
+#b_br_06_cascavel
+11863 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_beberibe
+7836 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_chorozinho
+11794 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#c_br_06_baturit_
+#b_br_06_reden_o
+11790 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_uirapuru
+11792 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_baturit_
+11795 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#d_br_06_juazeiro_do_norte
+#c_juazeiro_do_norte
+#b_br_06_juazeiro_do_norte
+7465 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+	1900.1.1 = {special_building = cicero_statue}
+}
+#b_br_06_brejo_santo
+11855 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_aurora
+11854 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_barbalha
+11856 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = none
+}
+#c_iguatu
+#b_br_06_iguatu
+11900 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_lavras_da_mangabeira
+11897 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_juc_s
+2689 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = none
+}
+#c_br_06_crato
+#b_br_06_crato
+4203 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_campos_sales
+11771 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_assar_
+11772 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = city_holding
+}
+#d_br_06_sobral
+#c_sobral
+#b_br_06_sobral
+11805 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_santa_quit_ria
+11799 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#b_br_06_irau_uba
+11803 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_reriutaba
+11800 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#c_camocim
+#b_br_06_camocim
+11750 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_santana_do_acara_
+11749 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#b_br_06_amontada
+3111 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#c_br_06_tiangu_
+#b_br_06_tiangu_
+5155 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_guaraciaba_do_norte
+11804 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_ipu
+11801 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#d_br_06_quixada
+#c_br_06_quixad_
+#b_br_06_quixad_
+11783 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_quixeramobim
+11778 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_boa_viagem
+11802 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_06_crate_s
+#b_br_06_crate_s
+11746 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_s_o_jo_o_dos_inhamuns	
+11745 = {
+	culture = siarense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_06_a_udinho
+11773 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_06_acopiara
+#b_br_06_acopiara
+11899 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_momba_a
+11898 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#d_br_06_russas
+#c_br_06_jaguaribe
+#b_br_06_jaguaribe
+11781 = {
+	culture = siarense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_06_barbat_o
+11779 = {
+	culture = siarense
+	religion = anussim
+	holding = city_holding
+}
+#b_br_06_alto_santo
+11782 = {
+	culture = siarense
+	religion = anussim
+	holding = none
+}
+#b_br_06_feiticeiro
+11785 = {
+	culture = siarense
+	religion = anussim
+	holding = church_holding
+}
+#c_br_06_aracati
+#b_br_06_aracati
+7835 = {
+	culture = siarense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_06_tom_
+11780 = {
+	culture = siarense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_06_russas
+11784 = {
+	culture = siarense
+	religion = ciceritism
+	holding = none
+}
+#b_br_06_baixa
+7834 = {
+	culture = siarense
+	religion =ciceritism
+	holding = none
+}
+#k_baixo_sao_francisco
+#d_alagoas
+#c_maceio
+#b_br_02_macei_
+11839 = {
+	culture = alagoano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_02_s_o_lu_s_do_quitunde
+11841 = {
+	culture = alagoano
+	religion = santeiro
+	holding = none
+}
+#b_br_02_japaratinga
+11840 = {
+	culture = alagoano
+	religion = santeiro
+	holding = none
+}
+#b_br_02_barra_de_santo_ant_nio
+11837 = {
+	culture = alagoano
+	religion = santeiro
+	holding = none
+}
+#c_br_02_rio_largo
+#b_br_02_rio_largo
+11838 = {
+	culture = alagoano
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_02_uni_o_dos_palmares
+11842 = {
+	culture = alagoano
+	religion = santeiro
+	holding = church_holding
+	1946.8.11 = {
+		special_building = serra_da_barriga
+	}
+}
+#b_br_02_vi_osa
+11843 = {
+	culture = alagoano
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_02_ibateguara
+11844 = {
+	culture = alagoano
+	religion = santeiro
+	holding = church_holding
+}
+#c_arapiraca
+#b_br_02_arapiraca
+11853 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#b_br_02_palmeira_dos_indios
+11851 = {
+	culture = xukuru
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#c_delmiro_gouveia
+#b_br_02_delmiro_gouveia
+11730 = {
+	culture = franciscano
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_02_piranhas
+11733 = {
+	culture = franciscano
+	religion = jurema_sagrada
+	holding = city_holding
+}
+#b_br_02_santana_do_ipanema
+11731 = {
+	culture = franciscano
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#c_penedo
+#b_br_02_penedo
+11798 = {
+	culture = alagoano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_02_s_o_miguel_dos_campos
+11796 = {
+	culture = alagoano
+	religion = santeiro
+	holding = church_holding
+}
+#b_br_02_coruripe
+11797 = {
+	culture = alagoano
+	religion = santeiro
+	holding = church_holding
+}
+#c_br_02_batalha
+#b_br_02_batalha
+11732 = {
+	culture = alagoano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_02_campo_grande
+11852 = {
+	culture = alagoano
+	religion = santeiro
+	holding = city_holding
+}
+#d_br_28_aracaju
+#c_aracaju
+#b_br_28_aracaju
+11820 = {
+	culture = sergipano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_28_est_ncia
+11906 = {
+	culture = sergipano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_28_japaratuba
+11821 = {
+	culture = sergipano
+	religion = santeiro
+	holding = castle_holding
+}
+#c_itabaiana
+#b_br_28_itabaiana
+11708 = {
+	culture = sergipano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_28_lagarto
+11707 = {
+	culture = sergipano
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_28_ribeir_polis
+11706 = {
+	culture = sergipano
+	religion = santeiro
+	holding = church_holding
+}
+#b_br_28_po_o_verde
+11709 = {
+	culture = sergipano
+	religion = santeiro
+	holding = city_holding
+}
+#c_pacatuba
+#b_br_02_pacatuba
+11890 = {
+	culture = sergipano
+	religion = santeiro
+	holding = castle_holding
+}
+#b_br_28_capela
+11891 = {
+	culture = sergipano
+	religion = santeiro
+	holding = church_holding
+}
+#c_nossa_senhora_da_gloria
+#b_br_28_nossa_senhora_da_gl_ria
+11729 = {
+	culture = franciscano
+	religion = compadecidos
+	holding = castle_holding
+}
+#b_br_28_da_folha
+11727 = {
+	culture = franciscano
+	religion = compadecidos
+	holding = city_holding
+}
+#b_br_28_canind_de_s_o_francisco
+11728 = {
+	culture = franciscano
+	religion = compadecidos
+	holding = church_holding
+}
+#c_br_28_itabaianinha
+#b_br_28_itabaianinha
+11905 = {
+	culture = sergipano
+	religion = santeiro
+	holding = city_holding
+}
+#b_br_28_indiaroba
+11907 = {
+	culture = sergipano
+	religion = santeiro
+	holding = church_holding
+}
+#k_maranhao
+#d_br_13_s_o_lu_s
+#c_sao_luis
+#b_br_13_s_o_lu_s
+11741 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = castle_holding
+	1900.1.1 = {special_building = lions_palace}
+}
+#b_br_13_s_o_jos_de_ribamar
+11738 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = church_holding
+}
+#b_br_13_residencial_livre
+11737 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = city_holding
+}
+#b_br_13_cajapi_
+11739 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = none
+}
+#b_us_ne_ilha_carrapatal
+#c_br_20_delta_do_paraiba
+#b_br_20_araioses
+11828 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = castle_holding
+}
+#b_br_20_sao_bernardo
+11831 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = church_holding
+}
+#b_br_13_tut_ia
+11829 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = city_holding
+}
+#c_br_13_viana
+#b_br_13_viana
+11669 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = castle_holding
+}
+#b_br_13_palmeir_ndia
+11670 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = church_holding
+}
+#b_br_13_bequim_o
+11668 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = castle_holding
+}
+#c_barreirinhas
+#b_br_13_barreirinhas
+11826 = {
+	culture = ludovicense
+	religion = boi_regio
+	holding = castle_holding
+	1000.1.1 = {
+		special_building = lencois_maranhenenses
+	}
+}
+#b_br_13_anajatuba
+11735 = {
+	culture = ludovicense
+	religion = boi_regio
+	holding = city_holding
+}
+#b_br_13_humberto_de_campos
+11740 = {
+	culture = ludovicense
+	religion = boi_regio
+	holding = none
+}
+#b_br_13_icatu
+11736 = {
+	culture = ludovicense
+	religion = boi_regio
+	holding = none
+}
+#d_caxias
+#c_caxias
+#b_br_13_caxias
+11718 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_13_presidente_dutra
+11881 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = tribal_holding
+}
+#b_br_13_colinas
+11757 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = city_holding
+}
+#c_santa_ines
+#b_br_13_santa_in_s
+11888 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_13_s_o_mateus_do_maranh_o
+11886 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = none
+}
+#b_br_13_esperantin_polis
+11880 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = none
+}
+#c_br_13_cod_
+#b_br_13_cod_
+11717 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = castle_holding
+}
+#b_br_13_vargem_grande
+11719 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = city_holding
+}
+#b_br_13_itapecuru_mirim
+11887 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = none
+}
+#c_br_13_chapadinha
+#b_br_13_chapadinha
+11827 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = castle_holding
+}
+#b_br_13_coelho_neto
+11720 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = city_holding
+}
+#b_br_13_santa_quit_ria_do_maranh_o
+11830 = {
+	culture = parnaibano
+	religion = boi_regio
+	holding = church_holding
+}
+#d_br_13_pinheiro
+#c_pinheiro
+#b_br_13_pinheiro
+11666 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = castle_holding
+}
+#b_br_13_santa_helena
+11760 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = city_holding
+}
+#b_br_13_roque
+11667 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = city_holding
+}
+#c_br_13_maraca_um_
+#b_br_13_maraca_um_
+11848 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = castle_holding
+}
+#b_br_13_nova_olinda_do_maranh_o
+11847 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = church_holding
+}
+#b_br_13_junco_do_maranh_o
+11761 = {
+	culture = ludovicense
+	religion = bumba_meu_deus
+	holding = city_holding
+}
+#c_br_13_mon_o
+#b_br_13_mon_o
+11849 = {
+	culture = imperatrizense
+	religion = bumba_meu_deus
+	holding = castle_holding
+}
+#b_br_13_s_o_jo_o_do_car_
+11850 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = city_holding
+}
+#k_paraiba
+#d_br_17_jo_o_pessoa
+#c_joao_pessoa
+#b_br_17_jo_o_pessoa
+11862 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_17_conde
+11860 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_17_santa_rita
+11861 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_17_mamanguape
+#b_br_17_mamanguape
+11858 = {
+	culture = potiguara
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_17_jacara_
+11859 = {
+	culture = potiguara
+	religion = ciceritism
+	holding = none
+}
+#d_princesa
+#c_campina_grande
+#b_br_17_campina_grande
+11846 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_17_guarabira
+11857 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_17_itabaiana
+11845 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_17_sol_nea
+#b_br_17_sol_nea
+11754 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_17_cuit_
+11753 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_17_soledade
+11752 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_monteiro
+#b_br_17_monteiro
+11893 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_17_tapero_
+11751 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_17_a_udinho
+11894 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_17_s_o_domingos_do_cariri
+11896 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_17__guazinha
+11892 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = none
+}
+#d_br_17_patos
+#c_sousa
+#b_br_17_sousa
+11705 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_17_catol_do_rocha
+11703 = {
+	culture = seridoense
+	religion = anussim
+	holding = church_holding
+}
+#b_br_17_pombal
+11702 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#c_patos
+#b_br_17_patos
+11696 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_17_teixeira
+11695 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#b_br_17_palestina_do_cariri
+11895 = {
+	culture = seridoense
+	religion = anussim
+	holding = church_holding
+}
+#b_br_17_s_o_bento_de_pombal
+11694 = {
+	culture = seridoense
+	religion = anussim
+	holding = none
+}
+#c_br_17_itaporanga
+#b_br_17_itaporanga
+11818 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_17_princesa_isabel
+11819 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = none
+}
+#c_cajazeiras
+#b_br_17_cajazeiras
+11817 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = castle_holding
+}
+#b_br_17_uira_na
+11704 = {
+	culture = sertanejo
+	religion = jurema_sagrada
+	holding = church_holding
+}
+#k_rio_grande_do_norte
+#d_br_22_natal
+#c_natal
+#b_br_22_natal
+11689 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_22_cear_mirim
+11688 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_22_maca_ba
+11692 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_22_extremoz
+11691 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = city_holding
+}
+#c_br_22_canguaretama
+#b_br_22_goianinha
+11690 = {
+	culture = potiguara
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_22_canguaretama
+11693 = {
+	culture = potiguara
+	religion = ciceritism
+	holding = city_holding
+}
+#c_br_22_santa_cruz
+#b_br_22_santa_cruz
+11876 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_22_nova_cruz
+11687 = {
+	culture = borboremense
+	religion = ciceritism
+	holding = none
+}
+#c_sao_miguel
+#b_br_22_s_o_miguel
+11674 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_22_jo_o_c_mara
+11675 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = city_holding
+}
+#d_br_22_mossor_
+#c_mossoro
+#b_br_22_mossor_
+11867 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_22_tranquilim
+11865 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_22_a_u
+11866 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#b_br_22_macau
+11864 = {
+	culture = seridoense
+	religion = anussim
+	holding = church_holding
+	1886.10.28 = {
+		special_building = macau_salt_flats_01
+	}
+}
+#c_sao_bento
+#b_br_17_s_o_bento
+11814 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_22_venha_ver
+11815 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#c_br_22_apodi
+#b_br_22_apodi
+11812 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_22_jucurutu
+11813 = {
+	culture = seridoense
+	religion = anussim
+	holding = church_holding
+}
+#b_br_22_cara_bas
+11816 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#d_br_22_caic_
+#c_caico
+#b_br_22_caic_
+11825 = {
+	culture = seridoense
+	religion = anussim
+	holding = castle_holding
+}
+#b_br_22_parelhas
+11824 = {
+	culture = seridoense
+	religion = anussim
+	holding = city_holding
+}
+#b_br_22_acari
+11822 = {
+	culture = seridoense
+	religion = anussim
+	holding = none
+}
+#b_br_22_tenente_laurentino_cruz
+11823 = {
+	culture = seridoense
+	religion = anussim
+	holding = none
+}
+#c_currais_novos
+#b_br_22_currais_novos
+11875 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_22_agua_nova
+11743 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_22_s_o_paulo_do_potengi
+11744 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_22_santana_do_matos
+11874 = {
+	culture = seridoense
+	religion = ciceritism
+	holding = none
+}
+#k_piaui
+#d_teresina
+#c_teresina
+#b_br_20_teresina
+3799 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_20_pedro_ii
+3798 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = city_holding
+}
+#b_br_20_castelo_do_piau_
+3797 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = church_holding
+}
+#c_barras
+#b_br_20_barras
+4518 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_20_cedro
+4517 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = city_holding
+}
+#b_br_20_esperantina
+4516 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = church_holding
+}
+#c_demerval_lobao
+#b_br_20_demerval_lob_o
+2364 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_20__gua_branca
+2363 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_20_balan_o
+2365 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = church_holding
+}
+#c_parnaiba
+#b_br_20_parnaiba
+2530 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_20_piracuruca
+2528 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = city_holding
+}
+#b_br_20_s_o_jos_do
+2527 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = church_holding
+}
+#b_br_20_murici_dos_portelas
+2529 = {
+	culture = piauiense
+	religion = tambor_de_mina
+	holding = none
+}
+#d_serra_da_capivara
+#c_itaueira
+#b_br_20_floriano
+9312 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = tribal_holding
+}
+#b_br_20_alagoa_grande
+9311 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = none
+}
+#b_br_20_santa_f_de_boiadeiro
+9313 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = none
+}
+#c_sao_raimundo_nonato
+#b_br_20_s_o_raimundo_nonato
+4713 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = tribal_holding
+}
+#b_br_20_s_o_jo_o_do_piau_
+4714 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = none
+}
+#b_br_20_canto_do_buriti
+4711 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = none
+}
+#b_br_05_anjico
+4712 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = none
+}
+#c_simplicio_mendes
+#b_br_20_simpl_cio_mendes
+7360 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = tribal_holding
+	1946.8.11 = {
+		special_building = pedra_furada
+	}
+}
+#b_br_20_po_o_da_umburana
+7358 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = church_holding
+}
+#b_br_20_patos_do_piau_
+7359 = {
+	culture = sertanejo
+	religion = compadecidos
+	holding = none
+}
+#c_gilbues
+#b_br_20_gilbu_s
+8037 = {
+	culture = sertanejo
+	religion = sagarana
+	holding = tribal_holding
+}
+#b_br_20_barro_alto
+8035 = {
+	culture = sertanejo
+	religion = sagarana
+	holding = none
+}
+#b_br_20_castel
+8038 = {
+	culture = sertanejo
+	religion = sagarana
+	holding = none
+}
+#b_br_20_lameir_o
+8036 = {
+	culture = sertanejo
+	religion = sagarana
+	holding = none
+}
+#d_oeiras
+#c_oeiras
+#b_br_20_oeiras
+5246 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = tribal_holding
+}
+#b_br_20__gua_verde
+5245 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = none
+}
+#b_br_20_wall_ferraz
+5244 = {
+	culture = parnaibano
+	religion = ciceritism
+	holding = none
+}
+#c_jaicos
+#b_br_20_jaic_s
+2520 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_20_alagoinha_do_piaui
+2521 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = church_holding
+}
+#b_br_20_itain_polis
+2519 = {
+	culture = sertanejo
+	religion = ciceritism
+	holding = city_holding
+}
+#c_valenca_do_piaui
+#b_br_20_valen_a_do_piau_
+5507 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_20_pimenteiras
+5509 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = city_holding
+}
+#b_br_20_assun_o_do_piau_
+5508 = {
+	culture = piauiense
+	religion = ciceritism
+	holding = church_holding
+}
+#k_bons_pastos
+#d_br_13_imperatriz
+#c_br_13_imperatriz
+#b_br_13_imperatriz
+11764 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_br_13_montes_altos
+11873 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = city_holding
+}
+#b_br_13_fazenda_floresta
+11762 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = city_holding
+}
+#b_br_13_varj_o
+11767 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = none
+}
+#c_amarante_do_maranhao
+#b_br_13_amarante_do_maranh_o
+11770 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = castle_holding
+}
+#b_br_13_verona
+11766 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = none
+}
+#b_br_13_bom_jesus_das_selvas
+11769 = {
+	culture = guajajara
+	religion = ciceritism
+	holding = church_holding
+}
+#c_br_13_aldeia_amanaj_s_taua_
+#b_br_13_aldeia_amanaj_s_taua_
+11768 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_br_13_corrego_novo
+11763 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = church_holding
+}
+#b_br_13_s_o_francisco_do_brej_o
+11765 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = church_holding
+}
+#d_br_13_balsas
+#c_balsas
+#b_br_13_balsas
+11903 = {
+	culture = parnaibano
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_br_13_morros
+11836 = {
+	culture = parnaibano
+	religion = assembleiano
+	holding = church_holding
+}
+#b_br_13_tasso_fragoso
+11834 = {
+	culture = parnaibano
+	religion = assembleiano
+	holding = city_holding
+}
+#b_br_13_macaco
+11835 = {
+	culture = parnaibano
+	religion = assembleiano
+	holding = none
+}
+#c_br_13_uru_u_
+#b_br_13_uru_u_
+11904 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_13_raposa
+11755 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = none
+}
+#b_br_13_s_o_raimundo_das_mangabeiras
+11901 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = none
+}
+#c_br_13_riach_o
+#b_br_13_riach_o
+11902 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_br_13_bom_jardim
+11872 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = none
+}
+#b_br_13_s_o_jo_o_da_cachoeira
+11868 = {
+	culture = imperatrizense
+	religion = assembleiano
+	holding = city_holding
+}
+#d_br_13_barra_do_corda
+#c_barra_do_corda
+#b_br_13_barra_do_corda
+11877 = {
+	culture = guajajara
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_13_correntinho
+11878 = {
+	culture = guajajara
+	religion = tambor_de_mina
+	holding = church_holding
+}
+#b_br_13_jenipapo_dos_vieiras
+11879 = {
+	culture = guajajara
+	religion = tambor_de_mina
+	holding = none
+}
+#c_grajau
+#b_br_13_graja_
+11870 = {
+	culture = imperatrizense
+	religion = tambor_de_mina
+	holding = castle_holding
+}
+#b_br_13_s_o_rom_o
+11871 = {
+	culture = imperatrizense
+	religion = tambor_de_mina
+	holding = church_holding
+}
+#b_br_13_buriti_do_raimundo
+11759 = {
+	culture = imperatrizense
+	religion = tambor_de_mina
+	holding = none
+}
+#c_br_13_mirador
+#b_br_13_mirador
+11756 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = tribal_holding
+}
+#b_br_13_juparal
+11758 = {
+	culture = parnaibano
+	religion = tambor_de_mina
+	holding = none
+}

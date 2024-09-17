@@ -1,0 +1,850 @@
+﻿religious_apostolicism_washington_1 = {
+	name = "Washington"
+	culture = paulista
+	religion = apostolicism
+	2601.2.19 = {
+		birth = yes
+	}
+}
+
+religious_culto_dos_santos_zeferino_1 = {
+	name = "Zeferino"
+	culture = agrestino
+	religion = candomble
+	2617.11.3 = {
+		birth = yes
+	}
+}
+
+religious_particularism_juan_1 = {
+	name = "Juan"
+	culture = yopara
+	religion = particularist
+	2621.8.23 = {
+		birth = yes
+	}
+}
+
+religious_animism_fernando_1 = {
+	name = "Fernando"
+	culture = cuyano
+	religion = animism
+	2628.1.25 = {
+		birth = yes
+	}
+}
+
+religious_inti_wilmer_1 = {
+	name = "Wilmer"
+	culture = wanka
+	religion = inti_religion
+	2624.3.17 = {
+		birth = yes
+	}
+}
+
+religious_che_ernesto_1 = {
+	name = "Ernesto"
+	culture = cubano
+	religion = mesias_che
+	2638.4.19 = {
+		birth = yes
+	}
+}
+
+religious_maya_hof_1 = {
+	name = "Te_o_act_filo"
+	culture = maaya
+	religion = cruzob
+	2628.6.13 = {
+		birth = yes
+	}
+}
+
+religious_cristo_rey_hof_1 = {
+	name = "Jorge"
+	culture = chilango
+	religion = cristero
+	2621.5.09 = {
+		birth = yes
+	}
+}
+
+religious_taborist_hof_1 = {
+	name = "Gavriil"
+	culture = tlingit
+	religion = cross_faith
+	2631.7.07 = {
+		birth = yes
+	}
+}
+religious_shriner_hof_1 = {
+	name = "Florenz"
+	culture = sunshiner
+	religion = shriner
+	2622.11.19 = {
+		birth = yes
+	}
+}
+
+religious_galvanist_hof_1 = {
+	name = "Marshall"
+	dynasty = dynn_fredericks
+	culture = motowner
+	religion = galvanist
+	trait = administrator
+	2608.1.31 = {
+		birth = yes
+	}
+}
+
+wainwright_hof = {
+	name = "Wainwright"
+	dynasty = dynn_greatlakes_brewer
+	culture = chicagoan
+	religion = galvanist
+	trait = giant
+	trait = architect
+	2351.5.23 = {
+		birth = yes
+	}
+	2351.5.23 = {
+		give_nickname = nick_skyscraper
+	}
+	2420.6.26 = {
+		death = yes
+	}
+}
+
+chrysler_hof = {
+	name = "Chrysler"
+	dynasty = dynn_van_alen
+	culture = gothamite
+	religion = galvanist
+	trait = scholar
+	2371.6.26 = {
+		birth = yes
+	}
+	2421.1.13 = {
+		death = yes
+	}
+}
+
+sullivan_hof = {
+	name = "Sullivan"
+	dynasty = dynn_adler
+	culture = chicagoan
+	religion = galvanist
+	trait = architect
+	2390.1.13 = {
+		birth = yes
+	}
+	2431.4.7 = {
+		death = yes
+	}
+}
+
+lloyd_hof = {
+	name = "Lloyd"
+	dynasty = dynn_praries
+	culture = chicagoan
+	religion = galvanist
+	trait = theologian
+	2395.4.7 = {
+		birth = yes
+	}
+	2445.3.27 = {
+		death = yes
+	}
+}
+
+wilson_hof = {
+	name = "Wilson"
+	dynasty = dynn_sears
+	culture = chicagoan
+	religion = galvanist
+	trait = diplomat
+	2401.3.27 = {
+		birth = yes
+	}
+	2457.8.13 = {
+		death = yes
+	}
+}
+
+rosie_hof = {
+	name = "Rosie"
+	dynasty = dynn_hulman
+	culture = hoosier
+	religion = galvanist
+	female = yes
+	trait = scholar
+	2410.8.13 = {
+		birth = yes
+	}
+	2465.5.6 = {
+		death = yes
+	}
+}
+
+purdue_hof = {
+	name = "Purdue"
+	dynasty = dynn_johnson
+	culture = hoosier
+	religion = galvanist
+	trait = scholar
+	2411.5.6 = {
+		birth = yes
+	}
+	2482.4.10 = {
+		death = yes
+	}
+}
+
+hannaford_hof = {
+	name = "Hannaford"
+	dynasty = dynn_springer
+	culture = ohioan
+	religion = galvanist
+	trait = architect
+	2420.8.20 = {
+		birth = yes
+	}
+	2488.9.18 = {
+		death = yes
+	}
+}
+
+crosley_hof = {
+	name = "Crosley"
+	dynasty = dynn_pinecroft
+	culture = ohioan
+	religion = galvanist
+	trait = lifestyle_mystic
+	2422.9.18 = {
+		birth = yes
+	}
+	2503.5.30 = {
+		death = yes
+	}
+}
+
+indy_hof = {
+	name = "Indy"
+	dynasty = dynn_penske
+	culture = hoosier
+	religion = galvanist
+	trait = strategist
+	2450.5.30 = {
+		birth = yes
+	}
+	2521.11.25 = {
+		death = yes
+	}
+}
+
+andrew_hof = {
+	name = "Andrew"
+	dynasty = dynn_morgan
+	culture = steelfolk
+	religion = galvanist
+	trait = theologian
+	2465.11.25 = {
+		birth = yes
+	}
+	2541.12.1 = {
+		death = yes
+	}
+}
+
+roebling_hof = {
+	name = "Roebling"
+	dynasty = dynn_bridges
+	culture = ohioan
+	religion = galvanist
+	2470.12.1 = {
+		birth = yes
+	}
+	2543.8.10 = {
+		death = yes
+	}
+}
+
+magyar_hof = {
+	name = "Magyar"
+	dynasty = dynn_shaker
+	culture = steelfolk
+	religion = galvanist
+	2487.8.10 = {
+		birth = yes
+	}
+	2555.10.16 = {
+		death = yes
+	}
+}
+
+hering_hof = {
+	name = "Hering"
+	dynasty = dynn_hope
+	culture = steelfolk
+	religion = galvanist
+	trait = theologian
+	2496.10.16 = {
+		birth = yes
+	}
+	2566.2.8 = {
+		death = yes
+	}
+}
+
+cathy_hof = {
+	name = "Cathy"
+	dynasty = dynn_klauder
+	culture = steelfolk
+	religion = galvanist
+	female = yes
+	trait = scholar
+	2507.2.8 = {
+		birth = yes
+	}
+	2572.3.20 = {
+		death = yes
+	}
+}
+
+diescher_hof = {
+	name = "Diescher"
+	dynasty = dynn_duquesne
+	culture = steelfolk
+	religion = galvanist
+	trait = administrator
+	2513.3.20 = {
+		birth = yes
+	}
+	2590.5.23 = {
+		death = yes
+	}
+}
+
+carey_hof = {
+	name = "Carey"
+	dynasty = dynn_barker
+	culture = steelfolk
+	religion = galvanist
+	female = yes
+	trait = diplomat
+	2520.5.23 = {
+		birth = yes
+	}
+	2610.3.7 = {
+		death = yes
+	}
+}
+
+buick_hof = {
+	name = "Buick"
+	dynasty = dynn_dunbar
+	culture = motowner
+	religion = galvanist
+	trait = administrator
+	2532.3.7 = {
+		birth = yes
+	}
+	2626.12.28 = {
+		death = yes
+	}
+}
+
+pontiac_hof = {
+	name = "Pontiac"
+	dynasty = dynn_oakland
+	culture = motowner
+	religion = galvanist
+	trait = shrewd
+	2548.12.28 = {
+		birth = yes
+	}
+	2630.11.9 = {
+		death = yes
+	}
+}
+
+gerber_hof = {
+	name = "Gerber"
+	dynasty = dynn_canning
+	culture = michigander
+	religion = galvanist
+	trait = strategist
+	2569.11.9 = {
+		birth = yes
+	}
+	2634.1.16 = {
+		death = yes
+	}
+}
+
+kellog_hof = {
+	name = "Kellog"
+	dynasty = dynn_mills
+	culture = michigander
+	religion = galvanist
+	trait = lifestyle_mystic
+	2550.1.16 = {
+		birth = yes
+	}
+	2635.3.15 = {
+		death = yes
+	}
+}
+
+cadillac_hof = {
+	name = "Cadillac"
+	dynasty = dynn_laumet
+	culture = motowner
+	religion = galvanist
+	trait = theologian
+	2576.3.15 = {
+		birth = yes
+	}
+	2644.3.10 = {
+		death = yes
+	}
+}
+
+corrado_hof = {
+	name = "Corrado"
+	dynasty = dynn_rowland
+	culture = motowner
+	religion = galvanist
+	trait = architect
+	2591.3.10 = {
+		birth = yes
+	}
+	2663.6.4 = {
+		death = yes
+	}
+}
+
+hoeg_hof = {
+	name = "Aubrey"
+	dynasty = dynn_hoeg
+	culture = maritimer
+	religion = remembrant
+	
+	trait = crusader_king
+	trait = scholar
+	trait = theologian
+	trait = athletic
+	trait = diligent
+	trait = brave
+	trait = zealous
+	trait = compassionate
+	trait = scarred
+	
+	2156.11.11 = {
+		birth = yes
+	}
+	2227.11.11 = {
+		death = yes
+	}
+}
+
+hughes_hof = {
+	name = "Ross"
+	dynasty = dynn_hughes
+	culture = ontarian
+	religion = remembrant
+	2186.11.11 = {
+		birth = yes
+	}
+	2231.11.11 = {
+		death = yes
+	}
+}
+
+barker_ace_hof = {
+	name = "Billy"
+	dynasty = dynn_barker_ace
+	culture = prairielander
+	religion = remembrant
+	2200.11.11 = {
+		birth = yes
+	}
+	2231.11.11 = {
+		give_nickname = nick_ace
+	}
+	2245.11.11 = {
+		death = yes
+	}
+}
+
+okelly_hof = {
+	name = "Patrick"
+	dynasty = dynn_okelly
+	culture = norontarian
+	religion = remembrant
+	2197.11.11 = {
+		birth = yes
+	}
+	2269.11.11 = {
+		death = yes
+	}
+}
+
+brygidyr_hof = {
+	name = "Sylvanus"
+	dynasty = dynn_brygidyr
+	culture = gaidheal
+	religion = remembrant
+	2236.11.11 = {
+		birth = yes
+	}
+	2235.11.11 = {
+		give_nickname = nick_manly
+	}
+	2275.11.11 = {
+		death = yes
+	}
+}
+
+mynarski_hof = {
+	name = "Andrew"
+	dynasty = dynn_mynarski
+	culture = preiryansky
+	religion = remembrant
+	2243.11.11 = {
+		birth = yes
+	}
+	2270.11.11 = {
+		give_nickname = nick_moose
+	}
+	2281.11.11 = {
+		death = yes
+	}
+}
+
+shuster_hof = {
+	name = "Joe"
+	dynasty = dynn_shuster
+	culture = sixer
+	religion = remembrant
+	2239.11.11 = {
+		birth = yes
+	}
+	2281.11.11 = {
+		give_nickname = nick_steel
+	}
+	2284.11.11 = {
+		death = yes
+	}
+}
+
+billes_hof = {
+	name = "Arthur"
+	dynasty = dynn_billes
+	culture = ontarian
+	religion = remembrant
+	2243.11.11 = {
+		birth = yes
+	}
+	2289.11.11 = {
+		death = yes
+	}
+}
+
+shiwak_hof = {
+	name = "John"
+	dynasty = dynn_shiwak
+	culture = inuit
+	religion = remembrant
+	trait = lifestyle_hunter
+	2250.11.11 = {
+		birth = yes
+	}
+	2231.11.11 = {
+		give_nickname = nick_ice
+	}
+	2309.11.11 = {
+		death = yes
+	}
+}
+
+ricketts_hof = {
+	name = "Tommy"
+	dynasty = dynn_ricketts
+	culture = newfoundlander
+	religion = remembrant
+	2290.11.11 = {
+		birth = yes
+	}
+	2308.11.11 = {
+		give_nickname = nick_young
+	}
+	2328.11.11 = {
+		death = yes
+	}
+}
+	
+jones_hof = {
+	name = "Jerry"
+	dynasty = dynn_jones
+	culture = gaidheal
+	religion = remembrant
+	2290.11.11 = {
+		birth = yes
+	}
+	2328.11.11 = {
+		give_nickname = nick_unrecognized
+	}
+	2346.11.11 = {
+		death = yes
+	}
+}
+
+vanderdonk_hof = {
+	name = "Joshira"
+	dynasty = dynn_vanderdonk
+	culture = maritimer
+	religion = remembrant
+	2297.11.11 = {
+		birth = yes
+	}
+	2346.11.11 = {
+		give_nickname = nick_spitfire
+	}
+	2351.11.11 = {
+		death = yes
+	}
+}
+
+roue_hof = {
+	name = "James"
+	dynasty = dynn_roue_act
+	culture = maritimer
+	religion = remembrant
+	2305.11.11 = {
+		birth = yes
+	}
+	2372.11.11 = {
+		death = yes
+	}
+}
+
+romanow_hof = {
+	name = "Joseph"
+	dynasty = dynn_romanow
+	culture = preiryansky
+	religion = remembrant
+	2338.11.11 = {
+		birth = yes
+	}
+	2381.11.11 = {
+		death = yes
+	}
+}
+
+freiman_hof = {
+	name = "Lillian"
+	dynasty = dynn_freiman
+	culture = ontarian
+	religion = remembrant
+	female = yes
+	2334.11.11 = {
+		birth = yes
+	}
+	2346.11.11 = {
+		give_nickname = nick_poppy_lady
+	}
+	2388.11.11 = {
+		death = yes
+	}
+}
+beaton_hof_2388={
+	name="Normandy"
+	dynasty=dynn_canada_beaton
+	culture=gaidheal
+	religion=remembrant
+	female=yes
+	father=wylie_beaton
+	mother=canada_mcpherson_diademia
+	2336.4.30={birth=yes}
+	2392.7.25={death=yes}
+}
+enfield_hof={
+	name="Lee"
+	dynasty=dynn_enfield
+	culture=ontarian
+	religion=remembrant
+	2354.12.5={birth=yes}
+	2412.9.8={death=yes}
+}
+roberts_hof={
+	name="George"
+	dynasty=dynn_roberts
+	culture=calypsonian
+	religion=remembrant
+	2368.10.27={birth=yes}
+	2400.11.11={give_nickname=nick_anzac}
+	2434.12.17={death=yes}
+}
+hall_hof={
+	name="Wilson"
+	dynasty=dynn_hall
+	culture=maritimer
+	religion=remembrant
+	2374.2.19={birth=yes}
+	2400.11.11={give_nickname=nick_valorous}
+	2440.5.3={death=yes}
+}
+weir_hof={
+	name="Frederick"
+	dynasty=dynn_weir
+	culture=ontarian
+	religion=remembrant
+	2386.7.17={birth=yes}
+	2444.9.28={death=yes}
+}
+loft_hof={
+	name="Onondeyoh"
+	dynasty=dynn_loft
+	culture=haudenosaunee
+	religion=remembrant
+	2393.6.10={birth=yes}
+	2400.11.11={give_nickname=nick_mountain}
+	2457.9.19={death=yes}
+}
+triquet_hof={
+	name="Paul"
+	dynasty=dynn_triquet
+	culture=quebecois
+	religion=remembrant
+	2397.1.14={birth=yes}
+	2400.11.11={give_nickname=nick_determined}
+	2468.10.28={death=yes}
+}
+oshanter_hof={
+	name="Tam"
+	dynasty=dynn_oshanter
+	culture=gaidheal
+	religion=remembrant
+	2405.11.4={birth=yes}
+	2469.4.19={death=yes}
+}
+dewolf_hof={
+	name="Balthazar"
+	dynasty=dynn_dewolf
+	culture=maritimer
+	religion=remembrant
+	2410.7.18={birth=yes}
+	2450.11.11={give_nickname=nick_hardy}
+	2477.10.20={death=yes}
+}
+cosens_hof={
+	name="Aubrey"
+	dynasty=dynn_cosens
+	culture=norontarian
+	religion=remembrant
+	2440.5.29={birth=yes}
+	2450.11.11={give_nickname=nick_star}
+	2500.9.1={death=yes}
+}
+macgilleain_hof={
+	name="L_u_grv_cas"
+	dynasty=dynn_macgilleain
+	culture=gaidheal
+	religion=remembrant
+	2443.1.24={birth=yes}
+	2500.11.11={give_nickname=nick_solus}
+	2515.9.20={death=yes}
+}
+macdonald_cartier_hof={
+	name="Joe"
+	dynasty=dynn_macdonald_cartier
+	culture=ontarian
+	religion=remembrant
+	2470.11.17={birth=yes}
+	2500.11.11={give_nickname=nick_hero_way}
+	2523.9.7={death=yes}
+}
+price_hof={
+	name="Lawrence"
+	dynasty=dynn_Price
+	culture=maritimer
+	religion=remembrant
+	2488.7.14={birth=yes}
+	2500.11.11={give_nickname=nick_last}
+	2535.5.11={death=yes}
+}
+
+beatriz_ponce_de_leon = {
+	name = "Beatriz"
+	dynasty = dynn_mexico_Ponce_de_Leon
+	culture = yucateco
+	female = yes
+	religion = alineado
+	trait = education_diplomacy_4
+	trait = diplomat
+	2623.7.14 = { birth = yes }
+	2705.5.11 = { death = yes }
+}
+
+armenian_hof_1 = {
+	name = "Narek"
+	culture = angeleno
+	female = no
+	religion = armenian_apostolic
+	2635.4.4 = { birth = yes }
+	2705.5.11 = { death = yes }
+}
+
+assyrian_hof_1 = {
+	name = "Mikhael"
+	culture = chicagoan
+	female = no
+	religion = assyrian_church
+	2623.3.12 = { birth = yes }
+	2705.5.11 = { death = yes }
+}
+
+mormon_mosiah_hof_1 = {
+	name = "Mosiah"
+
+	female = no
+	
+	culture = utahn
+	religion = mormon
+
+	trait = education_learning_4
+    trait = diligent
+    trait = stubborn
+    trait = compassionate
+	
+	2623.3.12 = { birth = yes }
+}
+
+
+masorti_zacharias_hof_1 = {
+	name = "Zacharias"
+
+	female = no
+	
+	culture = gothamite
+	religion = masorti
+
+	trait = education_learning_3
+	
+	2633.4.2 = { birth = yes }
+}
+
+united_orthodox_hof_1 = {
+	name = "Basil"
+
+	female = no
+	
+	culture = gothamite
+	religion = united_orthodox
+
+	trait = education_learning_3
+	
+	2636.7.13 = { birth = yes }
+}

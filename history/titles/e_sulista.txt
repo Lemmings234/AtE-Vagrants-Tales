@@ -1,0 +1,857 @@
+﻿#Rio Grande do Sul
+#k_piratini = { 
+#}
+#k_campanha = { 
+#}
+#k_planalto = { 
+#}
+k_campanha = {
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+d_coxilhas = {
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_vertentes = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_encruzilhada = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_sao_gabriel = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_rosario_do_sul = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_santiago = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_sao_sepe = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_alegrete_br = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+c_dom_pedrito = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_terra_cambara_erico_1
+    }
+}
+
+
+c_artigas = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_arapei
+        liege = k_campanha    
+    }
+}
+
+d_tapes = {
+    2666.7.4 = {
+        holder = character_d_tapes
+        liege = k_campanha    
+    }
+}
+
+c_cangucu = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_tapes
+        liege = k_campanha    
+    }
+}
+c_pinheiro_machado = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_tapes
+        liege = k_campanha    
+    }
+}
+
+
+c_bage = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_tapes
+        liege = k_campanha    
+    }
+}
+
+c_herval = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_herval
+        liege = d_tapes    
+    }
+}
+
+c_santa_maria_br = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_santa_maria_br
+        liege = k_campanha    
+    }
+}
+
+c_sao_borja = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_sao_borja
+        liege = k_campanha    
+    }
+}
+
+d_planalto_medio = {
+    2666.7.4 = {
+        holder = brazil_rotkugel_rita_1
+    }
+}
+
+c_soledade = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_rotkugel_rita_1
+    }
+}
+
+c_carazinho = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_rotkugel_rita_1
+    }
+}
+
+c_passo_fundo = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_rotkugel_rita_1
+    }
+}
+
+d_campos_de_vacaria = {
+    2666.7.4 = {
+        holder = brazil_scolari_ferdinando_1
+    }
+}
+
+c_caxias_do_sul = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = brazil_scolari_ferdinando_1
+    }
+}
+
+c_bento_goncalves = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_scolari_ferdinando_1
+    }
+}
+
+c_vacaria = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_scolari_ferdinando_1
+    }
+}
+
+c_contrato = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_blaukugel_edgar_1
+        liege = d_campos_de_vacaria    
+    }
+}
+
+d_vale_do_rio_pardo = {
+    2666.7.4 = {
+        holder = character_d_vale_do_rio_pardo
+    }
+}
+
+c_charqueadas = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_vale_do_rio_pardo
+    }
+}
+
+c_cachoeira_do_sul = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_vale_do_rio_pardo
+    }
+}
+
+c_santa_cruz_do_sul = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_santa_cruz_do_sul
+        liege = d_vale_do_rio_pardo    
+    }
+}
+
+d_missoes = {
+    2666.7.4 = {
+        holder = brazil_schroder_angelo_1
+    }
+}
+
+c_santo_angelo = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_schroder_angelo_1
+    }
+}
+
+c_santa_rosa_br = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_nhenguiru_mbya
+        liege = d_missoes
+    }
+}
+
+c_conceicao = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = brazil_schroder_angelo_1
+    }
+}
+
+d_costa_doce = {
+    2666.7.4 = {
+        holder = character_d_costa_doce
+    }
+}
+
+c_pelotas = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_d_costa_doce
+    }
+}
+
+c_camaqua = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_costa_doce
+    }
+}
+
+k_seabride = {
+    2666.7.4 = {
+        holder = brazil_amaral_anita_1
+    }
+}
+
+c_rio_grande_br = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_amaral_anita_1
+    }
+}
+
+c_palmares_do_sul = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_amaral_anita_1
+    }
+}
+
+c_ijui = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_ijui
+        liege = d_alto_uruguai    
+    }
+}
+
+c_br_23_cruz_alta = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_schroder_angelo_1
+    }
+}
+
+c_palmeira_das_missoes = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_ijui
+        liege = d_alto_uruguai    
+    }
+}
+
+d_alto_uruguai = {
+    2666.7.4 = {
+        holder = brazil_barbieri_albino_1
+    }
+}
+
+c_erechim = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_barbieri_albino_1
+    }
+}
+
+c_lagoa_vermelha = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_barbieri_albino_1
+    }
+}
+
+d_porto_alegre = {
+    2666.7.4 = {
+        holder = brazil_de_medeiros_artur_1
+		government = feudal_government
+    }
+}
+
+c_viamao = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_de_medeiros_artur_1
+		government = feudal_government
+    }
+}
+
+c_canoas = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = brazil_de_medeiros_artur_1
+		government = feudal_government
+    }
+}
+
+c_porto_alegre = {
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = brazil_de_medeiros_artur_1
+		government = feudal_government
+    }
+}
+
+c_novo_hamburgo = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_novo_hamburgo
+        liege = d_porto_alegre  
+		government = feudal_government
+    }
+}
+
+c_conceicao = {
+    2666.7.4 = {
+        holder = brazil_schroder_angelo_1
+    }
+}
+
+c_capao_da_canoa = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_amaral_anita_1
+    }
+}
+
+c_guaiba = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_guaiba
+    }
+}
+
+c_torres = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_amaral_anita_1
+    }
+}
+
+c_lajeado = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_lajeado
+        liege = d_planalto_medio    
+    }
+}
+
+#Santa Catarina
+k_santa_catarina = { 
+    2666.7.4 = {
+       holder = brazil_scolari_ferdinando_1
+    }
+}
+ 
+d_contestado = {
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_concordia_br = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_chapeco = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_capinzal = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_bernardo_de_irigoyen = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_cacador = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_caramello_victorino_1
+    }
+}
+
+c_frederico_westphalen = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_frederico_westphalen
+        liege = d_contestado    
+    }
+}
+
+c_gramado_dos_loureiros = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_gramado_dos_loureiros
+        liege = d_contestado    
+    }
+}
+
+d_vale_do_itajai = {
+    2666.7.4 = {
+        holder = brazil_schlieckmann_otto_1
+        liege = k_santa_catarina    
+    }
+}
+
+c_rio_do_sul = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_schlieckmann_otto_1
+        liege = k_santa_catarina    
+    }
+}
+
+c_brusque = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_blumenau
+        liege = d_vale_do_itajai    
+    }
+}
+
+c_blumenau = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_blumenau
+        liege = d_vale_do_itajai    
+    }
+}
+
+d_passo_do_principe = {
+    2666.7.4 = {
+        holder = brazil_schmidt_angela_1
+        liege =  k_santa_catarina   
+    }
+}
+
+c_sao_bento_do_sul = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_schmidt_angela_1
+        liege = k_santa_catarina    
+    }
+}
+
+d_greater_florianopolis = {
+    2666.7.4 = {
+        holder = brazil_kuerten_floriano_1
+        liege = e_brazil    
+        #government = imperial_government
+		government = high_republic_government
+		succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_florianopolis = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = brazil_kuerten_floriano_1
+        liege = e_brazil    
+    }
+}
+
+c_criciuma = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = character_c_criciuma
+        liege = k_seabride    
+    }
+}
+
+c_sao_jose = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_sao_jose
+        liege = k_seabride    
+    }
+}
+
+c_imbituba = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_imbituba
+        liege = k_seabride    
+    }
+}
+
+c_lages = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_furtado_sandro_1
+    }
+}
+
+c_sao_joaquim = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_furtado_sandro_1
+    }
+}
+
+c_palhoca = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_palhoca
+        liege = e_brazil    
+    }
+}
+
+
+#Parana
+#k_parana = { 
+#}
+
+k_capt_paranagua = {
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_paranagua = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_tatupeba = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_curitiba = {
+	2666.7.4 = { change_development_level = 17 }
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_castro = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_sao_jose_dos_pinhais = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = brazil_trevisan_nelson_1
+        liege = e_brazil    
+    }
+}
+
+c_registro = {
+    2666.7.4 = {
+        holder = character_c_registro
+        liege = k_capt_paranagua    
+    }
+}
+
+c_itapeva = {
+    2666.7.4 = {
+        holder = character_c_itapeva
+        liege = k_capt_paranagua    
+    }
+}
+
+c_joinville = {
+	2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = character_c_joinville
+        liege = k_capt_paranagua    
+    }
+}
+
+c_jaragua_do_sul = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_jaragua_do_sul
+        liege = k_capt_paranagua    
+    }
+}
+
+c_itajai = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_itajai
+        liege = k_capt_paranagua    
+    }
+}
+
+c_biguacu = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_biguacu
+        liege = k_capt_paranagua    
+    }
+}
+
+d_nova_rutenia = {
+    2666.7.4 = {
+        holder = brazil_swiat_ewa_ewa_s
+    }
+}
+
+c_ponta_grossa = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = brazil_swiat_ewa_ewa_s
+    }
+}
+
+c_guarapuava = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_swiat_ewa_ewa_s
+    }
+}
+
+c_irati = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_swiat_ewa_ewa_s
+    }
+}
+
+c_pitanga = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_swiat_ewa_ewa_s
+    }
+}
+
+c_uniao_da_vitoria = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_uniao_da_vitoria
+        liege = d_nova_rutenia    
+    }
+}
+
+d_vale_do_iguacu = {
+    2666.7.4 = {
+        holder = brazil_pato_branco_gaspar_1
+    }
+}
+
+c_pato_branco = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_pato_branco_gaspar_1
+    }
+}
+
+c_francisco_beltrao = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_pato_branco_gaspar_1
+    }
+}
+
+c_covo = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = character_c_covo
+        liege = d_vale_do_iguacu    
+    }
+}
+
+d_guayra = {
+    2666.7.4 = {
+        holder = brazil_guazzeli_carmela_1
+    }
+}
+
+c_umuarama = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_guazzeli_carmela_1
+    }
+}
+
+c_moreira_sales = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_guazzeli_carmela_1
+    }
+}
+
+c_campo_mourao = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_guazzeli_carmela_1
+    }
+}
+
+d_paranapanema = {
+    2666.7.4 = {
+        holder = character_d_paranapanema
+    }
+}
+
+c_faxinal = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_paranapanema
+    }
+}
+
+c_ortigueira = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_d_paranapanema
+    }
+}
+
+c_telemaco_borba = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_paranapanema
+    }
+}
+
+c_santo_antonio_da_platina = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_santo_antonio_da_platina
+        liege = e_brazil    
+    }
+}
+
+c_jaguariaiva = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_santo_antonio_da_platina
+        liege = e_brazil    
+    }
+}
+
+c_londrina = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = brazil_cortella_giba_1
+        liege = e_brazil    
+    }
+}
+
+c_maringa = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = brazil_de_carvalho_chico_1
+        liege = e_brazil    
+    }
+}
+
+c_paranavai = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_de_carvalho_chico_1
+    }
+}
+
+c_cascavel_br = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_cascavel_br
+        liege = d_guayra    
+    }
+}

@@ -1,0 +1,2056 @@
+#e_aridoamerica
+	#k_nuevo_leon
+		#d_valle_de_andalucia
+			#c_monterrey
+				#b_mx_19_monterrey
+				7859 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+					1943.9.6 = {
+						special_building = generic_university
+					}
+					#1965.1.1 = {
+					#	duchy_capital_building = ciudad_uni_monterrey
+					#}
+				}
+				#b_mx_19_apodaca
+				5604 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_19_higueras
+				5603 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+			#c_guadelupe
+				#b_mx_19_benito_ju_rez
+				668 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_19_mar_n
+				669 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+			#c_escobedo
+				#b_mx_19_garc_a
+				4328 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_07_joya
+				4329 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+				#b_mx_19_san_francisco_y_anexos
+				4327 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = church_holding
+				}
+		#d_tamaulipas
+			#c_reynosa
+				#b_mx_28_reynosa
+				3743 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_r_o_bravo
+				3744 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_el_control
+				3742 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+			#c_matamoros
+				#b_mx_28_matamoros
+				3636 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_valle_hermoso
+				3635 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+			#c_san_fernando
+				#b_mx_28_san_fernando
+				577 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_alfredo_v_bonfil
+				579 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_burgos
+				578 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+				#b_mx_28_m_ndez
+				576 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = none
+				}
+			#c_padilla
+				#b_mx_28_nuevo_padilla
+				5587 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_28_hidalgo
+				5590 = {
+					culture = bravo
+					religion = cristero
+					holding = none
+				}
+				#b_mx_28_cruillas
+				5588 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_28_villagr_n
+				5589 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+		#d_coahuila
+			#c_saltillo
+				#b_mx_07_saltillo
+				7942 = {
+				culture = bravo
+				religion = cristero
+				holding = castle_holding
+				}
+				#b_mx_07_san_juan_de_la_vaquer_a
+				7941 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_07_huachichil
+				7943 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+			#c_monclova
+				#b_mx_07_monclova
+				5789 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+					1550.1.1 = {
+						special_building = 	monclova_mines_01
+					}
+				}
+				#b_mx_07_casta_os
+				5788 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+				#b_mx_07_candela
+				5787 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = church_holding
+				}
+			#c_parras
+				#b_mx_07_parras_de_la_fuente
+				6229 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_07_general_cepeda
+				6230 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+			#c_ramos_arizpe
+				#b_mx_07_pared_n
+				3921 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_07_reata
+				3920 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+		#d_huasteca_menor
+			#c_tampico
+				#b_mx_28_tampico
+				2080 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+					1900.1.1 = {special_building = natural_harbour}
+				}
+				#b_mx_28_aldama
+				2079 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_cuauht_moc
+				2081 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+			#c_ciudad_victoria
+				#b_mx_28_victoria
+				1596 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_casas
+				1594 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_llera_de_canales
+				1595 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+			#c_el_mante
+				#b_mx_28_mante
+				2139 = {
+					culture = tenek
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_xicot_ncatl
+				2137 = {
+					culture = tenek
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_ursulo_galv_n
+				2140 = {
+					culture = tenek
+					religion = santa_muerte
+					holding = church_holding
+				}
+				#b_mx_28_gonz_lez
+				2138 = {
+					culture = tenek
+					religion = santa_muerte
+					holding = none
+				}
+			#c_el_cielo
+				#b_mx_28_ocampo
+				123 = {
+					culture = tenek
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_28_tula
+				122 = {
+					culture = tenek
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_28_jaumave
+				124 = {
+					culture = tenek
+					religion = cristero
+					holding = church_holding
+				}
+			#c_soto_la_marina
+				#b_mx_28_soto_la_marina
+				3717 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_28_abasolo
+				3716 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_santander_jim_nez
+				3714 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+				#b_mx_28_la_zamorina
+				3715 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = none
+				}
+		#d_rio_bravo
+			#c_nuevo_laredo
+				#b_mx_28_nuevo_laredo
+				5527 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_us_tx_roma
+				5528 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_28_gustavo_d_az_ordaz
+				5529 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_28_mier
+				5526 = {
+					culture = bravo
+					religion = limpio
+					holding = none
+				}
+			#c_salinas_victoria
+				#b_mx_19_sabinas_hidalgo
+				4436 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_19_salinas_victoria
+				4437 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+				#b_mx_19_de_villaldama
+				4434 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = church_holding
+				}
+				#b_mx_19_bustamante
+				4435 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = none
+				}
+			#c_anahuac
+				#b_mx_19_an_huac
+				8800 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_19_lampazos_de_naranjo
+				8799 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+			#c_cerralvo
+				#b_mx_19_cerralvo
+				6207 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_19_agualeguas
+				6208 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_19_vallecillo
+				6209 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+		#d_piedras_negras
+			#c_piedras_negras
+				#b_mx_07_piedras_negras
+				9388 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_zaragoza
+				9389 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+			#c_acuna
+				#b_mx_07_acu_a
+				9538 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_jim_nez
+				9540 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_campo_del_flaco
+				9539 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+			#c_sabinas
+				#b_mx_07_sauceda_del_naranjo
+				1969 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_sabinas
+				1968 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_ju_rez
+				1970 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_07_san_juan_de_sabinas
+				1971 = {
+					culture = bravo
+					religion = limpio
+					holding = none
+				}
+			#c_allende
+				#b_mx_07_allende
+				2295 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_uni_n
+				2294 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_hidalgo
+				2293 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+		#d_pilon
+			#c_cadereyta
+				#b_mx_19_cadereyta_jim_nez
+				3958 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = castle_holding
+				}
+				#b_mx_19_los_ramones
+				3957 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = city_holding
+				}
+				#b_mx_19_los_herreras
+				3956 = {
+					culture = bravo
+					religion = enigmatismo
+					holding = church_holding
+				}
+			#c_montemorelos
+				#b_mx_19_mazatlan
+				2163 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_19_de_allende
+				2162 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_19_las_anacuitas
+				2161 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+			#c_linares
+				#b_mx_19_linares
+				5431 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_19_iturbide
+				5430 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_19_el_diez
+				5432 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+			#c_china
+				#b_mx_19_china
+				8724 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = castle_holding
+				}
+				#b_mx_19_general_tapia
+				8722 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = city_holding
+				}
+				#b_mx_28_arcabuz
+				8723 = {
+					culture = bravo
+					religion = santa_muerte
+					holding = church_holding
+				}
+		#d_el_potosi
+			#c_galeana
+				#b_mx_19_galeana
+				1441 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_07_san_antonio_de_las_alazanas
+				1442 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_19_aramberri
+				1443 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+			#c_doctor_arroyo
+				#b_mx_19_doctor_arroyo
+				908 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_19_la_yerba
+				906 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_19_mier_y_noriega
+				907 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+	#k_arixo
+		#d_arizona
+			#c_phoenix
+				#b_us_az_phoenix
+				1420 = {
+					culture = arixan
+					religion = kanadevan
+					holding = castle_holding
+				}
+				#b_us_az_mesa
+				1421 = {
+					culture = arixan
+					religion = kanadevan
+					holding = church_holding
+				}
+				#b_us_az_hayden
+				1422 = {
+					culture = arixan
+					religion = kanadevan
+					holding = city_holding
+				}
+				#b_us_az_surprise
+				7435 = {
+					culture = arixan
+					religion = kanadevan
+					holding = none
+				}
+			#c_yavapai
+				#b_us_az_prescott_valley
+				7437 = {
+					culture = arixan
+					religion = kanadevan
+					holding = castle_holding
+				}
+				#b_us_az_peoria
+				7434 = {
+					culture = arixan
+					religion = kanadevan
+					holding = none
+				}
+				#b_us_az_wickenburg
+				7436 = {
+					culture = arixan
+					religion = kanadevan
+					holding = city_holding
+				}
+			#c_coconino
+				#b_us_az_flagstaff
+				3319 = {
+					culture = arixan
+					religion = zetanology
+					holding = castle_holding
+				}
+				#b_us_az_big_park
+				3320 = {
+					culture = arixan
+					religion = zetanology
+					holding = church_holding
+				}
+				#b_us_az_payson
+				3321 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_az_grand_canyon_village
+				3318 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_az_williams
+				3317 = {
+					culture = arixan
+					religion = zetanology
+					holding = city_holding
+				}
+			#c_san_carlos
+				#b_us_az_globe
+				4650 = {
+					culture = apache
+					religion = zetanology
+					holding = tribal_holding
+				}
+				#b_us_az_pinetop_lakeside
+				4651 = {
+					culture = apache
+					religion = zetanology
+					holding = none
+				}
+				#b_us_az_heber_overgaard
+				4648 = {
+					culture = apache
+					religion = zetanology
+					holding = none
+				}
+				#b_us_az_clifton
+				4649 = {
+					culture = apache
+					religion = zetanology
+					holding = none
+				}
+			#c_pinal
+				#b_us_az_florence
+				9407 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = castle_holding
+				}
+				#b_us_az_casa_grande
+				1423 = {
+					culture = arixan
+					religion = zetanology
+					holding = city_holding
+				}
+		#d_saguaro
+			#c_tucson
+				#b_us_az_tucson
+				4939 = {
+					culture = arixan
+					religion = novaist
+					holding = castle_holding
+				}
+				#b_us_az_green_valley
+				4940 = {
+					culture = arixan
+					religion = novaist
+					holding = city_holding
+				}
+				#b_us_az_verde
+				4941 = {
+					culture = arixan
+					religion = novaist
+					holding = church_holding
+				}
+			#c_sierra_vista
+				#b_us_az_sierra_vista
+				461 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = castle_holding
+				}
+				#b_us_az_rio_rico
+				460 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = church_holding
+				}
+				#b_us_az_sonoita
+				459 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_graham
+				#b_us_az_safford
+				9409 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_us_az_thatcher
+				9408 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_cochise
+				#b_us_az_bisbee
+				7539 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_us_az_elfrida
+				7540 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_us_az_sunizona
+				7538 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+		#d_the_colorado
+			#c_havasu
+				#b_us_az_lake_havasu_city
+				2615 = {
+					culture = arixan
+					religion = atomicist
+					holding = castle_holding
+				}
+				#b_us_az_new_kingman_butler
+				2616 = {
+					culture = arixan
+					religion = atomicist
+					holding = none
+					1893.04.06 = {
+						special_building = kingman_mine_01
+					}
+				}
+			#c_virgin
+				#b_us_nv_mesquite
+				4413 = {
+					culture = utahn
+					religion = zetanology
+					holding = castle_holding
+				}
+				#b_us_az_scenic
+				4411 = {
+					culture = utahn
+					religion = zetanology
+					holding = city_holding
+				}
+				#b_us_az_tuweep
+				4412 = {
+					culture = utahn
+					religion = zetanology
+					holding = church_holding
+				}
+			#c_kofa
+				#b_us_az_quartzsite
+				2953 = {
+					culture = arixan
+					religion = atomicist
+					holding = castle_holding
+				}
+				#b_us_az_parker
+				2951 = {
+					culture = arixan
+					religion = atomicist
+					holding = none
+				}
+				#b_us_az_cibola
+				2952 = {
+					culture = arixan
+					religion = atomicist
+					holding = none
+				}
+				#c_parashant
+				#b_us_az_meadview
+				1413 = {
+					culture = hualapai
+					religion = atomicist
+					holding = castle_holding
+				}
+				#b_us_az_seligman
+				1414 = {
+					culture = hualapai
+					religion = atomicist
+					holding = city_holding
+				}
+				#b_us_az_wikieup
+				1415 = {
+					culture = hualapai
+					religion = atomicist
+					holding = church_holding
+				}
+		#d_gadsden
+			#c_yuma
+				#b_us_az_yuma
+				2103 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = castle_holding
+					1550.1.1 = {
+						special_building = 	mesquite_mines_01
+					}
+				}
+				#b_us_az_ajo
+				2102 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_us_az_agua_caliente
+				2101 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_pima
+				#b_us_az_sells
+				1271 = {
+					culture = oodham
+					religion = saguarorrinche
+					holding = castle_holding
+				}
+				#b_us_az_santa_rosa
+				1270 = {
+					culture = oodham
+					religion = saguarorrinche
+					holding = city_holding
+				}
+				#b_us_az_ak_chin_village
+				3106 = {
+					culture = oodham
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_us_az_why
+				3107 = {
+					culture = oodham
+					religion = saguarorrinche
+					holding = none
+				}
+		#d_gila
+			#c_luna
+				#b_us_nm_silver_city
+				6911 = {
+					culture = arixan
+					religion = zetanology
+					holding = tribal_holding
+					1800.1.1 = {
+						special_building = 	chino_mines_01
+					}
+				}
+				#b_us_nm_deming
+				6913 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_nm_truth_or_consequences
+				6912 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_nm_winston
+				6910 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+			#c_greenlee
+				#b_mx_06_puerto_palomas
+				3179 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_us_nm_lordsburg
+				3181 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_us_az_duncan
+				3180 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_us_nm_cotton_city
+				3182 = {
+					culture = arixan
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_socorro
+				#b_us_nm_socorro
+				4766 = {
+					culture = arixan
+					religion = zetanology
+					holding = tribal_holding
+				}
+				#b_us_nm_magdalena
+				4767 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+			#c_mogollon
+				#b_us_az_eagar
+				8440 = {
+					culture = arixan
+					religion = zetanology
+					holding = tribal_holding
+				}
+				#b_us_nm_reserve
+				8437 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_nm_gila
+				8438 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+				#b_us_nm_wilcox_peak
+				8439 = {
+					culture = arixan
+					religion = zetanology
+					holding = none
+				}
+	#k_nueva_navarra
+		#d_sinaloa
+			#c_culiacan
+				#b_mx_25_culiac_n
+				8597 = {
+					culture = xepeno
+					religion = limpio
+					holding = castle_holding
+					1900.1.1 = {special_building = natural_harbour}
+				}
+				#b_mx_25_general_ngel_flores
+				8594 = {
+					culture = xepeno
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_25_quila
+				8596 = {
+					culture = xepeno
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_10_tamazula_de_victoria
+				8595 = {
+					culture = xepeno
+					religion = limpio
+					holding = none
+				}
+			#c_los_mochis
+				#b_mx_25_los_mochis
+				7868 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_25_juan_jos_r_os
+				7869 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_25_higuera_de_zaragoza
+				7867 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+			#c_guasave
+				#b_mx_25_guasave
+				1989 = {
+					culture = xepeno
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_25_estacion_bamoa
+				1986 = {
+					culture = xepeno
+					religion = kojtumbrem
+					holding = city_holding
+				}
+				#b_mx_25_sinaloa_de_leyva
+				1988 = {
+					culture = xepeno
+					religion = kojtumbrem
+					holding = church_holding
+				}
+				#b_mx_25_genaro_estrada
+				1987 = {
+					culture = xepeno
+					religion = kojtumbrem
+					holding = none
+				}
+			#c_guamuchil
+				#b_mx_25_angostura
+				7634 = {
+					culture = xepeno
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_25_pericos
+				7631 = {
+					culture = xepeno
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_25_badiraguato
+				7633 = {
+					culture = xepeno
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_25_mocorito
+				7632 = {
+					culture = xepeno
+					religion = limpio
+					holding = none
+				}
+			#c_el_fuerte
+				#b_mx_25_choix
+				192 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_25_el_fuerte
+				193 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_25_san_blas
+				191 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+		#d_sonora
+			#c_hermosillo
+				#b_mx_26_hermosillo
+				1568 = {
+					culture = xepeno
+					religion = limpio
+					holding = tribal_holding
+					#1900.1.1 = {special_building_slot = natural_harbour}
+				}
+				#b_mx_26_miguel_alem_n
+				1570 = {
+					culture = xepeno
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_26_la_victoria
+				1569 = {
+					culture = xepeno
+					religion = limpio
+					holding = church_holding
+				}
+			#c_guaymas
+				#b_mx_26_heroica_guaymas
+				7015 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_26_vicam
+				7016 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_26_jos_mar_a_morelos_y_pav_n
+				7017 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+			#c_horcasitas
+				#b_mx_26_carbo
+				8514 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_mx_26_pesqueira
+				8515 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = city_holding
+				}
+				#b_mx_26_bavi_cora
+				8513 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = church_holding
+				}
+			#c_magdalena_de_kino
+				#b_mx_26_magdalena_de_kino
+				502 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_mx_26_pitiquito
+				503 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = city_holding
+				}
+				#b_mx_26_benjam_n_hill
+				504 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = church_holding
+				}
+			#c_ures
+				#b_mx_26_ures
+				7977 = {
+					culture = cahita
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_26_san_pedro_de_la_cueva
+				7975 = {
+					culture = cahita
+					religion = limpio
+					holding = none
+				}
+				#b_mx_26_suaqui_grande
+				7976 = {
+					culture = cahita
+					religion = limpio
+					holding = none
+				}
+				#b_mx_26_mazat_n
+				7978 = {
+					culture = cahita
+					religion = limpio
+					holding = none
+				}
+		#d_cahita
+			#c_cajeme
+				#b_mx_26_obreg_n
+				347 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_26_ju_rez
+				346 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = city_holding
+				}
+				#b_mx_26_rosario
+				348 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = church_holding
+				}
+				#b_mx_26_av_cola_grande
+				349 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_navojoa
+				#b_mx_26_navojoa
+				6782 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_06_t_moris
+				6783 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_26_san_bernardo
+				6781 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+			#c_huatabampo
+				#b_mx_26_huatabampo
+				5682 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_26_etchojoa
+				5684 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_26_masiaca
+				5683 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+			#c_sahuaripa
+				#b_mx_26_sahuaripa
+				8403 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = tribal_holding
+				}
+				#b_mx_06_y_cora
+				8404 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+				#b_mx_26_nuri
+				8402 = {
+					culture = cahita
+					religion = kojtumbrem
+					holding = none
+				}
+		#d_mazatlan
+			#c_mazatlan
+				#b_mx_25_mazatl_n
+				9073 = {
+					culture = xepeno
+					religion = navegante
+					holding = castle_holding
+				}
+				#b_mx_10_tayoltita
+				9074 = {
+					culture = xepeno
+					religion = navegante
+					holding = city_holding
+				}
+				#b_mx_25_el_quelite
+				9075 = {
+					culture = xepeno
+					religion = navegante
+					holding = church_holding
+				}
+			#c_elota
+				#b_mx_25_la_cruz
+				258 = {
+					culture = xepeno
+					religion = navegante
+					holding = castle_holding
+				}
+				#b_mx_25_guadalupe_victoria
+				261 = {
+					culture = xepeno
+					religion = navegante
+					holding = city_holding
+				}
+				#b_mx_25_cosal_
+				259 = {
+					culture = xepeno
+					religion = navegante
+					holding = church_holding
+				}
+				#b_mx_25_elota
+				260 = {
+					culture = xepeno
+					religion = navegante
+					holding = none
+				}
+			#c_baluarte
+				#b_mx_25_la_petaca
+				1973 = {
+					culture = xepeno
+					religion = navegante
+					holding = castle_holding
+				}
+				#b_mx_25_el_rosario
+				1974 = {
+					culture = xepeno
+					religion = navegante
+					holding = city_holding
+				}
+				#b_mx_25_concordia
+				1972 = {
+					culture = xepeno
+					religion = navegante
+					holding = church_holding
+				}
+			#c_escuinapa
+				#b_mx_25_escuinapa
+				3084 = {
+					culture = xepeno
+					religion = navegante
+					holding = castle_holding
+				}
+				#b_mx_25_isla_del_bosque
+				3085 = {
+					culture = xepeno
+					religion = navegante
+					holding = city_holding
+				}
+		#d_nogales
+			#c_ambos_nogales
+				#b_mx_26_nogales
+				6067 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_mx_26_pueblo_nuevo
+				6066 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = city_holding
+				}
+				#b_mx_26_imuris
+				6068 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = church_holding
+				}
+			#c_agua_prieta
+				#b_mx_26_agua_prieta
+				6856 = {
+					culture = xepeno
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_26_naco
+				6855 = {
+					culture = xepeno
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_26_esqueda
+				6854 = {
+					culture = xepeno
+					religion = limpio
+					holding = church_holding
+				}
+			#c_cananea
+				#b_mx_26_cananea
+				6755 = {
+					culture = xepeno
+					religion = limpio
+					holding = tribal_holding
+					1906.1.1 = {special_building = cananea_mines_01}
+				}
+				#b_mx_26_cumpas
+				6754 = {
+					culture = xepeno
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_26_san_patricio_de_la_mesa
+				6753 = {
+					culture = xepeno
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_26_arizpe
+				6752 = {
+					culture = xepeno
+					religion = limpio
+					holding = none
+				}
+			#c_nacozari
+				#b_mx_26_nacozari_viejo
+				373 = {
+					culture = cahita
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_26_hidalgo
+				374 = {
+					culture = cahita
+					religion = limpio
+					holding = none
+				}
+				#b_mx_26_tepache
+				375 = {
+					culture = cahita
+					religion = limpio
+					holding = none
+				}
+		#d_cortes
+			#c_caborca
+				#b_mx_26_heroica_caborca
+				4690 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_mx_26_plutarco_el_as_calles
+				4692 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = none
+				}
+				#b_mx_26_altar
+				4691 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_gran_altar
+				#b_mx_26_puerto_pe_asco
+				2286 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = tribal_holding
+				}
+				#b_mx_26_sonoita
+				2285 = {
+					culture = xepeno
+					religion = saguarorrinche
+					holding = none
+				}
+			#c_kino
+				#b_mx_26_bah_a_de_kino
+				1139 = {
+					culture = xepeno
+					religion = navegante
+					holding = tribal_holding
+				}
+				#b_mx_26_josefa_ortiz_de_dom_guez
+				1137 = {
+					culture = xepeno
+					religion = navegante
+					holding = city_holding
+				}
+				#b_mx_26_la_casa_grande
+				1138 = {
+					culture = xepeno
+					religion = navegante
+					holding = church_holding
+				}
+	#k_altiplano
+		#d_chihuahua
+			#c_chihuahua
+				#b_mx_06_chihuahua
+				5149 = {
+					culture = altiplanense
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_06_aldama
+				5151 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_06_santa_eulalia
+				5150 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+			#c_casas_grandes
+				#b_mx_06_nuevo_casas_grandes
+				6442 = {
+					culture = altiplanense
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_06_ascensi_n
+				6441 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_06_ignacio_zaragoza
+				6440 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_06_el_bismarck
+				6443 = {
+					culture = altiplanense
+					religion = limpio
+					holding = none
+				}
+			#c_cuauhtemoc
+				#b_mx_06_cuauhtemoc
+				5569 = {
+					culture = menomex
+					religion = mennonite
+					holding = castle_holding
+				}
+				#b_mx_06_santa_isabel
+				5570 = {
+					culture = menomex
+					religion = mennonite
+					holding = city_holding
+				}
+				#b_mx_06_namiquipa
+				5567 = {
+					culture = menomex
+					religion = mennonite
+					holding = church_holding
+				}
+				#b_mx_06_santa_ana
+				5568 = {
+					culture = menomex
+					religion = mennonite
+					holding = none
+				}
+			#c_ahumada
+				#b_mx_06_miguel_ahumada
+				3872 = {
+					culture = altiplanense
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_06_san_buenaventura
+				3871 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_06_campo_ocho
+				3870 = {
+					culture = altiplanense
+					religion = limpio
+					holding = none
+				}
+		#d_comarca_lagunera
+			#c_torreon
+				#b_mx_07_torreon
+				8247 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_07_juan_eugenio
+				8246 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_07_viesca
+				8248 = {
+					culture = altiplanense
+					religion = cristero
+					holding = church_holding
+				}
+			#c_gomez_palacio
+				#b_mx_10_g_mez_palacio
+				6880 = {
+					culture = altiplanense
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_10_le_n_guzm_n
+				6879 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_10_san_luis_del_cordero
+				6878 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+			#c_cuencame
+				#b_mx_10_cuencam_de_ceniceros
+				914 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_10_nazareno
+				912 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_10_cuauhtemoc
+				915 = {
+					culture = altiplanense
+					religion = cristero
+					holding = church_holding
+				}
+				#b_mx_10_general_simon_bolivar
+				913 = {
+					culture = altiplanense
+					religion = cristero
+					holding = none
+				}
+			#c_mayran
+				#b_mx_07_san_esteban_de_abajo
+				3161 = {
+					culture = altiplanense
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_concordia
+				3159 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_el_lequeitio
+				3160 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+			#c_tlahualilo
+				#b_mx_10_tlahualilo_de_zaragoza
+				9167 = {
+					culture = altiplanense
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_10_mapim_
+				9165 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_10_ceballos
+				9166 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+		#d_durango
+			#c_guadiana
+				#b_mx_10_victoria_de_durango
+				5276 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_10_canatl_n
+				5277 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_10_san_miguel_de_cruces
+				5275 = {
+					culture = altiplanense
+					religion = cristero
+					holding = church_holding
+				}
+				#b_mx_10_banderas_del_guila
+				5278 = {
+					culture = altiplanense
+					religion = cristero
+					holding = none
+				}
+			#c_guadalupe_victoria
+				#b_mx_10_guadalupe_victoria
+				5898 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_10_rodeo
+				5900 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_10_pe_n_blanco
+				5899 = {
+					culture = altiplanense
+					religion = cristero
+					holding = church_holding
+				}
+			#c_suchil
+				#b_mx_10_uni_n
+				2659 = {
+					culture = altiplanense
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_10_vicente_guerrero
+				2660 = {
+					culture = altiplanense
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_10_san_francisco_javier
+				2658 = {
+					culture = altiplanense
+					religion = cristero
+					holding = church_holding
+				}
+			#c_pueblo_nuevo
+				#b_mx_10_san_bernardino_de_milpillas_chico
+				8664 = {
+					culture = wixarika
+					religion = tucaari_wixarika
+					holding = castle_holding
+				}
+				#b_mx_18_santa_teresa
+				8666 = {
+					culture = wixarika
+					religion = tucaari_wixarika
+					holding = city_holding
+				}
+				#b_mx_10_nombre_de_dios
+				8665 = {
+					culture = wixarika
+					religion = tucaari_wixarika
+					holding = church_holding
+				}
+			#c_papasquiaro
+				#b_mx_10_santiago_papasquiaro
+				1074 = {
+					culture = raramuri
+					religion = raichari
+					holding = tribal_holding
+				}
+				#b_mx_10_guanacev_
+				1076 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+					#1550.1.1 = {
+					#	special_building = 	mexican_silver_mine_1
+					#}
+				}
+				#b_mx_10_santa_catarina_de_tepehuanes
+				1075 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+			#c_el_oro
+				#b_mx_10_santa_mar_a_del_oro
+				6095 = {
+					culture = raramuri
+					religion = raichari
+					holding = tribal_holding
+					1550.1.1 = {
+						special_building = 	pitarrilla_mines_01
+					}
+				}
+				#b_mx_10_ocampo
+				6097 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_10_la_zarca
+				6096 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+		#d_conchos
+			#c_delicias
+				#b_mx_06_delicias
+				515 = {
+					culture = altiplanense
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_06_la_cruz
+				514 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_06_meoqui
+				513 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_06_julimes
+			#c_parral
+				#b_mx_06_parral
+				752 = {
+					culture = raramuri
+					religion = raichari
+					holding = tribal_holding
+				}
+				#b_mx_06_de_allende
+				749 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_06_de_zaragoza
+				751 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_06_el_tule
+				750 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+			#c_ojinaga
+				#b_mx_06_manuel_ojinaga
+				5741 = {
+					culture = altiplanense
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_06_coyame
+				5740 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+			#c_camargo
+				#b_mx_06_camargo
+				6677 = {
+					culture = altiplanense
+					religion = limpio
+					holding = tribal_holding
+				}
+				#b_mx_06_jos_mariano_jim_nez
+				6675 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_06_villa_lopez
+		#d_sierra_tarahumara
+			#c_guachochi
+				#b_mx_06_guachochi
+				6661 = {
+					culture = raramuri
+					religion = raichari
+					holding = tribal_holding
+				}
+				#b_mx_06_bahuichivo
+				6659 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_06_creel
+				6658 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_06_moris
+				6660 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+			#c_madera
+				#b_mx_06_madera
+				1883 = {
+					culture = menomex
+					religion = mennonite
+					holding = tribal_holding
+				}
+				#b_mx_06_g_mez_far_as
+				1885 = {
+					culture = menomex
+					religion = mennonite
+					holding = city_holding
+				}
+				#b_mx_06_tomochi
+				1884 = {
+					culture = menomex
+					religion = mennonite
+					holding = church_holding
+				}
+			#c_guerrero
+				#b_mx_06_vicente_guerrero
+				1955 = {
+					culture = menomex
+					religion = mennonite
+					holding = castle_holding
+				}
+				#b_mx_06_san_francisco_de_borja
+				1954 = {
+					culture = menomex
+					religion = mennonite
+					holding = city_holding
+				}
+				#b_mx_06_vaqueteros
+				1956 = {
+					culture = menomex
+					religion = mennonite
+					holding = church_holding
+				}
+				#b_mx_06_san_francisco_javier_de_satev_
+				1957 = {
+					culture = menomex
+					religion = mennonite
+					holding = none
+				}
+			#c_guadalupe_y_calvo
+				#b_mx_06_guadalupe_y_calvo
+				8249 = {
+					culture = raramuri
+					religion = raichari
+					holding = tribal_holding
+				}
+				#b_mx_06_baborigame
+				8251 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+				#b_mx_06_mariano_balleza
+				8250 = {
+					culture = raramuri
+					religion = raichari
+					holding = none
+				}
+		#d_nueva_extremadura
+			#c_cuatrociengas
+				#b_mx_07_san_buenaventura
+				4430 = {
+					culture = bravo
+					religion = cristero
+					holding = castle_holding
+				}
+				#b_mx_07_cuatro_ci_negas_de_carranza
+				4428 = {
+					culture = bravo
+					religion = cristero
+					holding = city_holding
+				}
+				#b_mx_07_estanque_de_norias
+				4429 = {
+					culture = bravo
+					religion = cristero
+					holding = church_holding
+				}
+			#c_muzquiz
+				#b_mx_07_palau
+				5779 = {
+					culture = bravo
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_minas_de_barroter_n
+				5778 = {
+					culture = bravo
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_lamadrid
+				5780 = {
+					culture = bravo
+					religion = limpio
+					holding = church_holding
+				}
+			#c_ocampo
+				#b_mx_07_laguna_del_rey
+				7383 = {
+					culture = altiplanense
+					religion = limpio
+					holding = castle_holding
+				}
+				#b_mx_07_h_rcules
+				7384 = {
+					culture = altiplanense
+					religion = limpio
+					holding = city_holding
+				}
+				#b_mx_07_ocampo
+				7381 = {
+					culture = altiplanense
+					religion = limpio
+					holding = church_holding
+				}
+				#b_mx_07_general_gregorio_a_garc_a
+				7382 = {
+					culture = altiplanense
+					religion = limpio
+					holding = none
+				}

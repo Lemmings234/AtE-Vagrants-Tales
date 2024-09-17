@@ -1,0 +1,1934 @@
+#e_zondia
+#k_cordoba
+#d_cordoba
+#c_cordoba
+#b_ar_05_c_rdoba
+6344 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+	1613.1.1 = {
+		special_building_slot = generic_university
+	}
+}
+#b_ar_05_allende
+6342 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_jes_s_mar_a
+6341 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_rio_cuarto
+#b_ar_05_r_o_cuarto
+6662 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_vicu_a_mackenna
+6664 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05_coronel_moldes
+6663 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#c_villa_maria
+#b_ar_05_mar_a
+133 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_nueva
+134 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_james_craik
+135 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_bell_ville
+#b_ar_05_bell_ville
+5574 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_marcos_ju_rez
+5576 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_justiniano_posse
+5575 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_laboulaye
+#b_ar_05_laboulaye
+454 = {
+	culture = cordobes
+	religion = unitario
+	holding = castle_holding
+}
+#b_ar_05_corral_de_bustos
+455 = {
+	culture = cordobes
+	religion = unitario
+	holding = city_holding
+}
+#b_ar_05_ucacha
+453 = {
+	culture = cordobes
+	religion = unitario
+	holding = church_holding
+}
+#b_ar_05_canals
+456 = {
+	culture = cordobes
+	religion = unitario
+	holding = none
+}
+#b_ar_05_la_carlota
+458 = {
+	culture = cordobes
+	religion = unitario
+	holding = none
+}
+#b_ar_05_general_levalle
+457 = {
+	culture = cordobes
+	religion = unitario
+	holding = none
+}
+#c_rio_tercero
+#b_ar_05_r_o_tercero
+5335 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_hernando
+5333 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_general_cabrera
+5334 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_paravachasca
+#b_ar_05_alta_gracia
+206 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_oncativo
+207 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_san_agust_n
+205 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_san_justo
+#b_ar_05_san_francisco
+6768 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_las_varillas
+6766 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_la_francia
+6767 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#c_calamuchita
+#b_ar_05_embalse
+7090 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_santa_rosa_de_calamuchita
+7091 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05_alpa_corral
+7089 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#c_ansenuza
+#b_ar_05_morteros
+1576 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_balnearia
+1577 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_del_totoral
+1574 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_05_la_para
+1575 = {
+	culture = cordobes
+	religion = radicalista
+	holding = none
+}
+#c_rio_segundo
+#b_ar_05_r_o_segundo
+6343 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_05_arroyito
+2662 = {
+	culture = cordobes
+	religion = radicalista
+	holding = none
+}
+#b_ar_05_santa_rosa_de_r_o_primero
+2663 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_05_las_junturas
+2661 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#d_rosario
+#c_rosario
+#b_ar_21_rosario
+5 = {
+	culture = porteno
+	religion = afarista
+	holding = castle_holding
+}
+#b_ar_21_capit_n_berm_dez
+7 = {
+	culture = porteno
+	religion = afarista
+	holding = city_holding
+}
+#b_ar_21_mugueta
+6 = {
+	culture = porteno
+	religion = afarista
+	holding = church_holding
+}
+#c_general_lopez
+#b_ar_21_venado_tuerto
+3589 = {
+	culture = litoraleno
+	religion = unitario
+	holding = castle_holding
+}
+#b_ar_21_casilda
+3588 = {
+	culture = litoraleno
+	religion = unitario
+	holding = city_holding
+}
+#b_ar_21_firmat
+3587 = {
+	culture = litoraleno
+	religion = unitario
+	holding = church_holding
+}
+#c_las_colonias
+#b_ar_21_santo_tom_
+8428 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_21_esperanza
+8427 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_21_belgrano
+8426 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = church_holding
+}
+#c_iriondo
+#b_ar_21_g_lvez
+2114 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_21_las_parejas
+2113 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_21_las_rosas
+2115 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_21_totoras
+2116 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = none
+}
+#c_rufino_santa_fe
+#b_ar_21_rufino
+3139 = {
+	culture = litoraleno
+	religion = unitario
+	holding = tribal_holding
+}
+#b_ar_21_christophersen
+3138 = {
+	culture = litoraleno
+	religion = unitario
+	holding = church_holding
+}
+#b_ar_21_ca_s
+3137 = {
+	culture = litoraleno
+	religion = unitario
+	holding = none
+}
+#d_santa_fe
+#c_santa_fe_de_la_vera_cruz
+#b_ar_21_santa_fe
+7320 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_21_san_justo
+7318 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_08_santa_elena
+7319 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_21_laguna_paiva
+7321 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = none
+}
+#c_general_obligado
+#b_ar_21_reconquista
+7700 = {
+	culture = qom
+	religion = assembleiano
+	holding = tribal_holding
+}
+#b_ar_21_ocampo
+7698 = {
+	culture = qom
+	religion = assembleiano
+	holding = city_holding
+}
+#b_ar_21_los_t_banos
+7699 = {
+	culture = qom
+	religion = assembleiano
+	holding = church_holding
+}
+#c_castellanos
+#b_ar_21_rafaela
+5492 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_21_sunchales
+5490 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_21_mau_
+5491 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = church_holding
+}
+#c_vera
+#b_ar_21_vera
+9635 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_21_san_javier
+9633 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_21_calchaqu_
+9634 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_21_paraje_p_jaro_blanco
+9636 = {
+	culture = litoraleno
+	religion = radicalista
+	holding = none
+}
+#c_san_cristobal
+#b_ar_21_san_crist_bal
+7040 = {
+	culture = turco
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_21_trinidad
+7038 = {
+	culture = turco
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_21_hersilia
+7039 = {
+	culture = turco
+	religion = justicialista
+	holding = church_holding
+}
+#b_ar_21_ceres
+2828 = {
+	culture = turco
+	religion = justicialista
+	holding = none
+}
+#c_tostado
+#b_ar_21_tostado
+8634 = {
+	culture = turco
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_03_chorotis
+8635 = {
+	culture = turco
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_21_de_vera
+8636 = {
+	culture = turco
+	religion = justicialista
+	holding = church_holding
+}
+#d_santiago_del_estero
+#c_santiago_del_estero
+#b_ar_22_santiago_del_estero
+5416 = {
+	culture = chaqueno
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_22_atamisqui
+5419 = {
+	culture = chaqueno
+	religion = animism
+	holding = city_holding
+}
+#b_ar_22_los_telares
+5414 = {
+	culture = chaqueno
+	religion = animism
+	holding = church_holding
+}
+#b_ar_22_de_loreto
+5415 = {
+	culture = chaqueno
+	religion = animism
+	holding = none
+}
+#b_ar_22_amicha
+5417 = {
+	culture = chaqueno
+	religion = animism
+	holding = none
+}
+#b_ar_22_abra_del_medio
+5418 = {
+	culture = chaqueno
+	religion = animism
+	holding = none
+}
+#c_rio_hondo
+#b_ar_22_de_r_o_hondo
+2522 = {
+	culture = chaqueno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_22_agua_azul
+2524 = {
+	culture = chaqueno
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_ar_22_bella_vista
+2526 = {
+	culture = chaqueno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_22_abra_grande
+2523 = {
+	culture = chaqueno
+	religion = santa_diablada
+	holding = none
+}
+#b_ar_22_ah_veremos
+2525 = {
+	culture = chaqueno
+	religion = santa_diablada
+	holding = none
+}
+#c_ojo_de_agua
+#b_ar_22_ojo_de_agua
+2832 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_22_sumampa
+2830 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#b_ar_22_general_mitre
+2831 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_22_el_aybal
+2829 = {
+	culture = cordobes
+	religion = animism
+	holding = none
+}
+#c_copo
+#b_ar_03_monte_quemado
+308 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_03_los_frentones
+304 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_22_campo_gallo
+305 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#b_ar_22_bajo_grande
+306 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = none
+}
+#b_ar_22_candelaria
+307 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = none
+}
+#c_general_taboada
+#b_ar_22_a_atuya
+2290 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_22_los_jur_es
+2291 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_22_bandera
+2292 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#c_banda
+#b_ar_22_la_banda
+8712 = {
+	culture = chaqueno
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_22_suncho_corral
+8715 = {
+	culture = chaqueno
+	religion = animism
+	holding = city_holding
+}
+#b_ar_22_dora
+8714 = {
+	culture = chaqueno
+	religion = animism
+	holding = church_holding
+}
+#b_ar_22_brea
+8711 = {
+	culture = chaqueno
+	religion = animism
+	holding = none
+}
+#b_ar_22_el_simbolar
+8713 = {
+	culture = chaqueno
+	religion = animism
+	holding = none
+}
+#c_moreno
+#b_ar_22_quimil_
+2450 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = castle_holding
+}
+#b_ar_22_tintina
+2451 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = city_holding
+}
+#b_ar_22_dolores
+2452 = {
+	culture = chaqueno
+	religion = justicialista
+	holding = church_holding
+}
+#d_anejo
+#c_san_roque
+#b_ar_05_carlos_paz
+9052 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_la_falda
+9054 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05_candelaria
+9053 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#c_cruz_del_eje
+#b_ar_05_cruz_del_eje
+462 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_mina_clavero
+465 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05_de_soto
+464 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#b_ar_05_san_carlos
+463 = {
+	culture = cordobes
+	religion = animism
+	holding = none
+}
+#c_ischilin
+#b_ar_05_de_n_funes
+704 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_san_jos_de_la_dormida
+706 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05_sebasti_n_elcano
+705 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#b_ar_05_agua_del_cha_ar
+702 = {
+	culture = cordobes
+	religion = animism
+	holding = none
+}
+#b_ar_22_el_para_so
+703 = {
+	culture = cordobes
+	religion = animism
+	holding = none
+}
+#c_quilino
+#b_ar_05_quilino
+1236 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_serrezuela
+1234 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_05__rbol_blanco
+1235 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#k_norte_viejo
+#d_tucuman
+#c_san_miguel_de_tucuman
+#b_ar_24_san_miguel_de_tucum_n
+1212 = {
+	culture = norteno
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_24_taf_del
+1213 = {
+	culture = norteno
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_24_acequiones
+1211 = {
+	culture = norteno
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_24_ampimpa
+1214 = {
+	culture = norteno
+	religion = vendimia_sol
+	holding = none
+}
+#c_chicligasta
+#b_ar_24_aguilares
+7307 = {
+	culture = norteno
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_24_la_cocha
+7306 = {
+	culture = norteno
+	religion = animism
+	holding = city_holding
+}
+#b_ar_24_alto_de_las_lechuzas
+7305 = {
+	culture = norteno
+	religion = animism
+	holding = church_holding
+}
+#c_cruz_alta
+#b_ar_24_banda_del_rio_sali
+8141 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_24_burruyac_
+8143 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_24_abra_rica
+8142 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_metan
+#b_ar_17_el_galp_n
+5301 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_24_trancas
+5300 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_24_urue_a
+5302 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#d_salta
+#c_salta
+#b_ar_17_salta
+7042 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_17_el_carril
+7043 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_17_cabra_corral
+7041 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_cafayate
+#b_ar_17_cafayate
+167 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_17_cach_
+168 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_17_angostura
+169 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_san_salvador_de_jujuy
+#b_ar_10_san_salvador_de_jujuy
+1700 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_10_libertador_general_san_mart_n
+1698 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_10_san_pedro_de_jujuy
+1697 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_ar_10_humahuaca
+1699 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = none
+}
+#c_oran
+#b_ar_17_san_ram_n_de_la_nueva_or_n
+3491 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_17_embarcaci_n
+3490 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_bo_09_agua_blanca
+3492 = {
+	culture = kolla
+	religion = santa_diablada
+	holding = church_holding
+}
+#c_tartagal
+#b_ar_17_tartagal
+4458 = {
+	culture = wichi
+	religion = assembleiano
+	holding = tribal_holding
+}
+#b_py_24_ballivi_n
+4456 = {
+	culture = wichi
+	religion = assembleiano
+	holding = none
+}
+#b_ar_17_l_cabral
+4457 = {
+	culture = wichi
+	religion = assembleiano
+	holding = none
+}
+#c_anta
+#b_ar_17_joaqu_n_v_gonz_lez
+2971 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_17_apolinario_saravia
+2968 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = city_holding
+}
+#b_ar_17_macapillo
+2970 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_ar_10_agua_caliente
+2969 = {
+	culture = norteno
+	religion = santa_diablada
+	holding = none
+}
+#c_san_antonio_de_los_cobres
+#b_ar_17_san_antonio_de_los_cobres
+4582 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = castle_holding
+}
+#b_ar_17_agua_blanca
+4581 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = church_holding
+}
+#b_ar_10_susques
+4583 = {
+	culture = quechua
+	religion = santa_diablada
+	holding = city_holding
+}
+#c_rivadavia
+#b_ar_17_rivadavia
+533 = {
+	culture = nhandeva
+	religion = santa_diablada
+	holding = tribal_holding
+}
+#b_ar_17_el_quimilar
+534 = {
+	culture = nhandeva
+	religion = santa_diablada
+	holding = none
+}
+#b_ar_17_chaguaral
+535 = {
+	culture = nhandeva
+	religion = santa_diablada
+	holding = none
+}
+#d_catamarca
+#c_valle_de_catamarca
+#b_ar_02_san_fernando_del_de_catamarca
+2766 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_02_huillapima
+2763 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_02_los_varela
+2765 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_02_el_alamito
+2762 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#b_ar_02_alto_de_la
+2764 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_recreo
+#b_ar_02_recreo
+333 = {
+	culture = cordobes
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_02_ica_o
+331 = {
+	culture = cordobes
+	religion = animism
+	holding = city_holding
+}
+#b_ar_02_los_altos
+332 = {
+	culture = cordobes
+	religion = animism
+	holding = church_holding
+}
+#b_ar_02_albigasta
+330 = {
+	culture = cordobes
+	religion = animism
+	holding = none
+}
+#c_andalgala
+#b_ar_02_andalgal_
+8864 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_02_pom_n
+8863 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_02_barrealito
+8862 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#k_cuyo
+#d_mendoza
+#c_mendoza
+#b_ar_13_mendoza
+5723 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+	1980.07.10 = {
+		special_building = teatro_griego 
+	}
+}
+#b_ar_13_de_hierro
+5721 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_13_altos_del_olvido
+5722 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#c_san_rafael
+#b_ar_13_san_rafael
+714 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_goic_
+715 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_de_san_rafael
+716 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_agua_nueva
+717 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_san_martin
+#b_ar_13_san_mart_n
+623 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_el_mirador
+622 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_alto_del_salvador
+624 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#c_uspallata
+#b_ar_13_primero_de_mayo
+988 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_13_san_jos_
+987 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_rambl_n
+989 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#c_tunuyan
+#b_ar_13_tunuy_n
+8048 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_agrelo
+8046 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_anc_n
+8049 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_campo_los_andes
+8047 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_villa_san_carlos
+#b_ar_13_comandante_salas
+3735 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_chilecito
+3733 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_us_ak_las_catitas
+3734 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#c_nacunan
+#b_ar_13_sur
+6088 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_cadetes_de_chile
+6089 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_el_algarrobo
+6090 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#c_lavalle
+#b_ar_13_arroyito
+7706 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_el_retamo
+7705 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_el_central
+7707 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#d_san_juan
+#c_gran_san_juan
+#b_ar_18_san_juan
+6032 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_18_cochagual
+6030 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_carpinter_a
+6031 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#c_caucete
+#b_ar_18_caucete
+4737 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_18_bermejo
+4738 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_las_chacras
+4740 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_18_enc_n
+4739 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#c_albardon
+#b_ar_18_general_san_martin
+3753 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_18_el_bosque
+3754 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_el_salado
+3755 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#c_jachal
+#b_ar_18_san_jos_de_j_chal
+3303 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_18_ampacama
+3305 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_huaco
+3306 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_18_ad_n_quiroga
+3304 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#c_calingasta
+#b_ar_18_calingasta
+4038 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ca_qc_puchuzun
+4037 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_18_barreal
+4039 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#c_valle_fertil
+#b_ar_18_san_agust_n_de_f_rtil
+4423 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_us_co_marayes
+4426 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_18_ichigualasto
+4427 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_18_chucuma
+4424 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#b_ar_18_balde_del_rosario
+4425 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#c_iglesia
+#b_ar_18_rodeo
+6051 = {
+	culture = cuyano
+	religion = camino_estelar
+	holding = castle_holding
+	2660.3.1 = {
+			special_building = veladero_mines_01
+	}
+}
+#b_ar_18_angualasto
+6050 = {
+	culture = cuyano
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_ar_18_tocota
+6053 = {
+	culture = cuyano
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_ar_18_ba_o_centenario
+6052 = {
+	culture = cuyano
+	religion = camino_estelar
+	holding = none
+}
+#c_aconcagua
+#b_ar_13_estaci_n_uspallata
+4416 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_18_los_chacayes
+4417 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_13_polvaredas
+4419 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_13_blanco_encalada
+4418 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#d_san_luis
+#c_san_luis
+#b_ar_19_san_luis
+3700 = {
+	culture = cuyano
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_19_mercedes
+3699 = {
+	culture = cuyano
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_19_caldenadas
+3701 = {
+	culture = cuyano
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_19_alto_pelado
+3698 = {
+	culture = cuyano
+	religion = radicalista
+	holding = none
+}
+#c_conlara
+#b_ar_19_merlo
+5615 = {
+	culture = cordobes
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_19_tilisarao
+5614 = {
+	culture = cordobes
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_19_la_toma
+5617 = {
+	culture = cordobes
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_19_arroyito
+5616 = {
+	culture = cordobes
+	religion = radicalista
+	holding = none
+}
+#c_ar_05_dolores
+#b_ar_05_dolores
+166 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_05_chancan_
+164 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_12_aguayo
+165 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#c_quines
+#b_ar_19_candelaria
+8522 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_19_san_francisco_del_monte_de_oro
+8525 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_19_algarrobo_grande
+8524 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_19_balde_de_azcurra
+8523 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_dupuy
+#b_ar_19_buena_esperanza
+9324 = {
+	culture = pampeano
+	religion = radicalista
+	holding = castle_holding
+}
+#b_ar_19_uni_n
+9322 = {
+	culture = pampeano
+	religion = radicalista
+	holding = city_holding
+}
+#b_ar_19_anchorena
+9326 = {
+	culture = pampeano
+	religion = radicalista
+	holding = church_holding
+}
+#b_ar_19_chischaquita
+9323 = {
+	culture = pampeano
+	religion = radicalista
+	holding = none
+}
+#b_ar_19_frisia
+9325 = {
+	culture = pampeano
+	religion = radicalista
+	holding = none
+}
+#b_ar_19_toscal
+9327 = {
+	culture = pampeano
+	religion = radicalista
+	holding = none
+}
+#d_la_rioja
+#c_la_rioja
+#b_ar_12_la_rioja
+8011 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_12_arauco
+8012 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_12_bustos
+8013 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_12_cebollar
+8010 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = none
+}
+#c_chilecito
+#b_ar_12_chilecito
+708 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_12__ngulos
+707 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_12_andalucas
+709 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_12_catinzaco
+710 = {
+	culture = turco
+	religion = animism
+	holding = none
+}
+#c_chamical
+#b_ar_12_chamical
+8892 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_12_castro_barros
+8894 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_12_los_mogotes_colorados
+8893 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_12_aman_
+8896 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#b_ar_12_alc_zar
+8895 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_la_troya
+#b_ar_12_vinchina
+8816 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_12_banda_florida
+8812 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_12_mina_la_mejicana
+8813 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_12_aicu_a
+8814 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = none
+}
+#b_ar_12_jumeal
+8815 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = none
+}
+#c_chepes
+#b_ar_12_agua_colorada
+275 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_12_ambil
+274 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_12_el_rodeo
+276 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_12_chelcos
+277 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_guandacol
+#b_ar_12_jag_
+8184 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_12_las_juntas
+8182 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_12_yegua_quemada
+8183 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = church_holding
+}
+#d_antofalla
+#c_tinogasta
+#b_ar_02_tinogasta
+7998 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_02_fiambal_
+7996 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_12_alpasinche
+7997 = {
+	culture = turco
+	religion = vendimia_sol
+	holding = church_holding
+}
+#c_calchaqui
+#b_ar_02_hualf_n
+4763 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_02_londres
+4762 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_ar_02_ampajango
+4764 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_02_el_caj_n
+4765 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#c_antofalla
+#b_ar_02_antofagasta_de_la_sierra
+3058 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = castle_holding
+}
+#b_ar_02_de_corral_quemado
+3059 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = city_holding
+}
+#b_us_ca_el_penon
+3060 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = church_holding
+}
+#b_ar_02_antofalla
+3057 = {
+	culture = cuyano
+	religion = vendimia_sol
+	holding = none
+}
+#d_san_rafael
+#c_chalileo
+#b_ar_11_algarrobo_del_aguila
+5140 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_11_la_humada
+5139 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_aguada_del_toro
+5138 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#c_las_loicas
+#b_ar_13_las_loicas
+2455 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_calmuc_
+2453 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_minacar
+2454 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#c_malargue
+#b_ar_13_las_le_as
+3402 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_coehue_c_
+3404 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_el_nihuil
+3405 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_las_malvinas
+3403 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#b_ar_13_bardas_blancas
+3406 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_general_alvear
+#b_mx_25_noname19393101
+471 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_19_santa_isabel
+472 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}
+#b_ar_13_carmensa
+474 = {
+	culture = cuyano
+	religion = animism
+	holding = city_holding
+}
+#b_ar_13_general_alvear
+470 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#b_ar_19_bajada_nueva
+473 = {
+	culture = cuyano
+	religion = animism
+	holding = none
+}
+#c_jaime_prats
+#b_ar_13_jaime_prats
+5108 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_los_pejes
+5106 = {
+	culture = cuyano
+	religion = animism
+	holding = castle_holding
+}
+#b_ar_13_la_escondida
+5107 = {
+	culture = cuyano
+	religion = animism
+	holding = church_holding
+}

@@ -1,0 +1,1383 @@
+#e_beringia
+#k_alaska
+#d_kenai
+#c_anchorage
+#b_us_ak_anchorage
+593 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+	1950.1.1 = {special_building = natural_harbour}
+}
+#b_us_ak_knik_fairview
+592 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_lakes
+589 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_willow
+590 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_tyonek
+591 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_skwentna
+588 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#c_kenai
+#b_us_ak_kenai
+2990 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_kalifornsky
+2989 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_homer
+2987 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_cooper_landing
+2988 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#c_chugach
+#b_us_ak_valdez
+1798 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_cordova
+1796 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_chenega
+1797 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#c_seward
+#b_us_ak_seward
+8276 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_seldovia
+8275 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#c_ahtna
+#b_us_ak_kenny_lake
+8102 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_glennallen
+8105 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_slana
+8104 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_paxson
+8106 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_mccarthy
+8103 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#c_denali
+#b_us_ak_healy
+6335 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_trapper_creek
+6333 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_cantwell
+6334 = {
+	culture = alaskan
+	religion = midnight_sun
+	holding = none
+}
+#d_aleutians
+#c_unalaska
+#b_us_ak_unalaska
+2467 = {
+	culture = unangan
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_akutan
+2468 = {
+	culture = unangan
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_nikolski
+2469 = {
+	culture = unangan
+	religion = cross_faith
+	holding = none
+}
+#c_kodiak
+#b_us_ak_kodiak
+3040 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = tribal_holding
+	1950.1.1 = {special_building = natural_harbour}
+}
+#b_us_ak_port_lions
+3041 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_old_harbor
+3043 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_larsen_bay
+3042 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#c_naknek
+#b_us_ak_naknek
+1266 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_newhalen
+1263 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_egegik
+1265 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_kokhanok
+1264 = {
+	culture = alutiiq
+	religion = cross_faith
+	holding = none
+}
+#c_sand_point
+#b_us_ak_sand_point
+6644 = {
+	culture = unangan
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_chignik
+6645 = {
+	culture = unangan
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_perryville
+6646 = {
+	culture = unangan
+	religion = cross_faith
+	holding = none
+}
+#c_unimak
+#b_us_ak_king_cove
+7505 = {
+	culture = unangan
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_cold_bay
+7506 = {
+	culture = unangan
+	religion = cross_faith
+	holding = none
+}
+#c_atka
+#b_us_ak_atka
+664 = {
+	culture = unangan
+	religion = cross_faith
+	holding = tribal_holding
+}
+#d_kuskokwim
+#c_bethel
+#b_us_ak_bethel
+4821 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_kwethluk
+4822 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_aniak
+4823 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_upper_kalskag
+4820 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#c_dillingham
+#b_us_ak_dillingham
+9562 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_new_stuyahok
+9561 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_aleknagik
+9560 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#c_togiak
+#b_us_ak_togiak
+1343 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_manokotak
+1342 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#c_kuskokwim
+#b_us_ak_mcgrath
+351 = {
+	culture = yupik
+	religion = quaker
+	holding = tribal_holding
+}
+#b_us_ak_crooked_creek
+350 = {
+	culture = yupik
+	religion = quaker
+	holding = none
+}
+#b_us_ak_vinasale
+352 = {
+	culture = yupik
+	religion = quaker
+	holding = none
+}
+#b_ar_22_georgetown
+353 = {
+	culture = yupik
+	religion = quaker
+	holding = none
+}
+#c_dichinanek
+#b_us_ak_denali_national_park
+2015 = {
+	culture = koyukon
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_nikolai
+2014 = {
+	culture = koyukon
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_lake_minchumina
+2016 = {
+	culture = koyukon
+	religion = midnight_sun
+	holding = none
+}
+#d_yukon_delta
+#c_hooper_bay
+#b_us_ak_hooper_bay
+4595 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_kipnuk
+4596 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_chevak
+4594 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#c_emmonak
+#b_us_ak_st_mary_s
+2607 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_emmonak
+2605 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_alakanuk
+2606 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#c_unalakleet
+#b_us_ak_stebbins
+7204 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_unalakleet
+7203 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_kaltag
+7201 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_nulato
+7202 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = none
+}
+#c_holy_cross
+#b_us_ak_grayling
+3923 = {
+	culture = yupik
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_us_ak_shageluk
+3922 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_bear_creek
+3924 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_khadilotden
+3925 = {
+	culture = yupik
+	religion = cross_faith
+	holding = none
+}
+#d_koyukuk
+#c_huslia
+#b_us_ak_huslia
+6846 = {
+	culture = koyukon
+	religion = quaker
+	holding = tribal_holding
+}
+#b_us_ak_allakaket
+6844 = {
+	culture = koyukon
+	religion = quaker
+	holding = none
+}
+#b_us_ak_hughes
+6845 = {
+	culture = koyukon
+	religion = quaker
+	holding = none
+}
+#c_galena
+#b_us_ak_tanana
+8852 = {
+	culture = koyukon
+	religion = quaker
+	holding = tribal_holding
+}
+#b_us_ak_ruby
+8854 = {
+	culture = koyukon
+	religion = quaker
+	holding = none
+}
+#b_us_ak_koyukuk
+8853 = {
+	culture = koyukon
+	religion = quaker
+	holding = none
+}
+#c_arctic_gates
+#b_us_ak_anaktuvuk_pass
+4351 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_evansville
+4352 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_wiseman
+4350 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#k_yukon
+#d_goldfields
+#c_fairbanks
+#b_us_ak_fairbanks
+8161 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_eielson_air_force_base
+8162 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = city_holding
+}
+#b_us_ak_nenana
+8164 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = church_holding
+}
+#b_us_ak_minto
+8163 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = none
+}
+#c_junction
+#b_us_ak_deltana
+5973 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_us_ak_tok
+5971 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = city_holding
+}
+#b_us_ak_chicken
+5972 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = church_holding
+}
+#c_klondike
+#b_ca_yt_dawson_city
+8879 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_little_gold
+8881 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = none
+}
+#b_us_ak_eagle
+8880 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = city_holding
+}
+#b_ca_yt_stewart_river
+8882 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = none
+}
+#c_silvertrail
+#b_ca_yt_stewart_crossing
+4548 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_mayo
+4546 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = church_holding
+}
+#b_ca_yt_thistle_creek
+4547 = {
+	culture = klondiker
+	religion = midnight_sun
+	holding = city_holding
+}
+#d_yukon
+#c_whitehorse
+#b_ca_yt_whitehorse
+2896 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_carcross
+2899 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#b_ca_yt_marsh_lake
+2897 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#b_ca_yt_mayo_road
+2898 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#c_pelly
+#b_ca_yt_yukon_crossing
+6764 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_pelly_crossing
+6765 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#c_atlin
+#b_ca_bc_surprise
+450 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_yt_ten_mile
+451 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_tulsequah
+452 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = church_holding
+}
+#c_campbell
+#b_ca_yt_canoi
+3634 = {
+	culture = kaska
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_ross_river
+3633 = {
+	culture = kaska
+	religion = midnight_sun
+	holding = none
+}
+#c_teslin
+#b_ca_yt_teslin_river
+41 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_yt_morley_river
+40 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = city_holding
+}
+#d_shakwak
+#c_chilkoot
+#b_us_ak_haines
+1687 = {
+	culture = tlingit
+	religion = midnight_sun
+	holding = castle_holding
+}
+#b_us_ak_skagway
+1686 = {
+	culture = tlingit
+	religion = midnight_sun
+	holding = none
+}
+#c_shakwak
+#b_ca_yt_haines_junction
+4041 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_nesketahin
+4040 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#b_ca_yt_canyon
+4042 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#c_kluane
+#b_us_ak_alcan_border
+8528 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_yt_silver_city
+8526 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#b_ca_yt_snag
+8527 = {
+	culture = yukoner
+	religion = midnight_sun
+	holding = none
+}
+#d_gwichin
+#c_fort_mcpherson
+#b_ca_nt_fort_mcpherson
+7331 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_ca_nt_tsiigehtchic
+7330 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_ca_nt_bernard_house
+7332 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_ca_nt_seven_islands_crossing
+7333 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_circle
+#b_us_ak_circle
+3902 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_us_ak_birch_creek
+3903 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_us_ak_rampart
+3901 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_us_ak_central
+3900 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_fort_yukon
+#b_us_ak_fort_yukon
+5176 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_us_ak_beaver
+5175 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_us_ak_venetie
+5173 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_br_13_stevens_village
+5174 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_chandalar
+#b_us_ak_arctic_village
+6909 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_us_ak_christian
+6907 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_us_ak_chandalar
+6908 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_eagle_plains
+#b_ca_yt_eagle_plains
+5986 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_ca_yt_whitestone_village
+5984 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_ca_on_dempster
+5985 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_porcupine
+#b_us_ak_burnt_paw
+7819 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_us_ak_canyon_village
+7820 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_us_ak_old_rampart
+7821 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#c_old_crow
+#b_ca_yt_lapierre_house
+2374 = {
+	culture = gwichin
+	religion = ayahan
+	holding = tribal_holding
+}
+#b_ca_yt_old_crow
+2373 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#b_ca_yt_johnson_creek
+2375 = {
+	culture = gwichin
+	religion = ayahan
+	holding = none
+}
+#k_great_coast
+#d_juneau
+#c_juneau
+#b_us_ak_juneau
+42 = {
+	culture = alaskan
+	religion = cross_faith
+	holding = tribal_holding
+	1950.1.1 = {special_building = natural_harbour}
+}
+#b_us_ak_angoon
+43 = {
+	culture = alaskan
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_cube_cove
+44 = {
+	culture = alaskan
+	religion = cross_faith
+	holding = none
+}
+#c_baranof
+#b_us_ak_sitka
+7328 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = castle_holding
+}
+#b_us_ak_port_alexander
+7329 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = none
+}
+#c_chichagof
+#b_us_ak_hoonah
+2992 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = castle_holding
+}
+#b_us_ak_gustavus
+2993 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = none
+}
+#b_us_ak_tenakee_springs
+2991 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = none
+}
+#c_yakutat
+#b_us_ak_yakutat
+6469 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = castle_holding
+}
+#b_us_ca_glacier_bay
+6468 = {
+	culture = tlingit
+	religion = cross_faith
+	holding = none
+}
+#d_upper_coast
+#c_skeena
+#b_ca_bc_terrace
+605 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_kitimat
+603 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_weewanie
+604 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = church_holding
+}
+#c_prince_rupert
+#b_ca_bc_prince_rupert
+5763 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_porcher_island
+5762 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_lax_kw_alaams
+5764 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = church_holding
+}
+#c_bella_coola
+#b_ca_bc_bella_coola
+4467 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_namu
+4466 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = church_holding
+}
+#b_ca_bc_kimsquit
+4465 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = none
+}
+#c_fiordland
+#b_ca_bc_klemtu
+2917 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_waglisla
+2918 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_martin_valley
+2916 = {
+	culture = wakashan
+	religion = raven_tales
+	holding = none
+}
+#d_alexander
+#c_ketchikan
+#b_us_ak_ketchikan
+22 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_us_ak_metlakatla
+21 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = church_holding
+}
+#c_kupreanof
+#b_us_ak_petersburg
+4320 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_us_ak_kake
+4321 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = city_holding
+}
+#c_klawock
+#b_us_ak_craig
+1980 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_us_ak_coffman_cove
+1979 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = church_holding
+}
+#c_wrangell
+#b_us_ak_wrangell
+2189 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_us_ak_meyers_chuck
+2190 = {
+	culture = tlingit
+	religion = raven_tales
+	holding = city_holding
+}
+#c_hydaburg
+#b_us_ak_thorne_bay
+3222 = {
+	culture = haida
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_us_ak_hydaburg
+3221 = {
+	culture = haida
+	religion = raven_tales
+	holding = city_holding
+}
+#d_stikine
+#c_nass
+#b_ca_bc_mill_bay
+8887 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_new_aiyansh
+8885 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_stewart
+8884 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = church_holding
+}
+#b_us_ak_port_tongass_village
+8886 = {
+	culture = tsimshianic
+	religion = raven_tales
+	holding = none
+}
+#c_cassiar
+#b_ca_bc_dease_lake
+1602 = {
+	culture = kaska
+	religion = midnight_sun
+	holding = tribal_holding
+}
+#b_ca_bc_jade_city
+1603 = {
+	culture = kaska
+	religion = midnight_sun
+	holding = none
+}
+#b_ca_bc_mcdame
+1604 = {
+	culture = kaska
+	religion = midnight_sun
+	holding = none
+}
+#c_stikine
+#b_ca_bc_stikine
+24 = {
+	culture = kaska
+	religion = raven_tales
+	holding = tribal_holding
+	1960.1.1 = {
+		special_building = brucejack_mines_01
+	}
+}
+#b_ca_bc_tatogga
+23 = {
+	culture = kaska
+	religion = raven_tales
+	holding = none
+}
+#b_ca_bc_telegraph_creek
+25 = {
+	culture = kaska
+	religion = raven_tales
+	holding = none
+}
+#b_ca_bc_bob_quinn_lake
+26 = {
+	culture = kaska
+	religion = raven_tales
+	holding = none
+}
+#d_haida_gwaii
+#c_gwaii_haanas
+#b_ca_bc_kil_kun
+1680 = {
+	culture = haida
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_ninstints
+1681 = {
+	culture = haida
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_thurston_harbour
+1682 = {
+	culture = haida
+	religion = raven_tales
+	holding = church_holding
+}
+#c_kiis_gwaii
+#b_ca_bc_tlell
+1174 = {
+	culture = haida
+	religion = raven_tales
+	holding = castle_holding
+}
+#b_ca_bc_gaw
+1172 = {
+	culture = haida
+	religion = raven_tales
+	holding = church_holding
+}
+#b_ca_bc_hlgaagilda
+1175 = {
+	culture = haida
+	religion = raven_tales
+	holding = city_holding
+}
+#b_ca_bc_yaku
+1173 = {
+	culture = haida
+	religion = raven_tales
+	holding = none
+}
+#k_inupiaq
+#d_nome
+#c_nome
+#b_us_ak_sitngasuaq
+3195 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_kuuyuk
+3196 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#c_qikiqtagruk
+#b_us_ak_qikiqtagruk
+507 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_qigiqtaq
+505 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_kangiq
+506 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#c_siilivik
+#b_us_ak_siilivik
+7404 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_nuurvik
+7405 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_kivalliniq
+7406 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_noatak
+7403 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#d_north_slope
+#c_utqiagvik
+#b_us_ak_utqiagvik
+5892 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_ulguniq
+5893 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#c_sagavanirktok
+#b_us_ak_sagavanirktok
+858 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_nuiqsat
+855 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_qaaktugvik
+857 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_umiat
+856 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#c_tikigaq
+#b_us_ak_tikigaq
+3086 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_kali
+3087 = {
+	culture = inupiat
+	religion = unipkaaq
+	holding = none
+}
+#k_chukotka
+#d_chukotka
+#c_st_lawrence_island
+#b_us_ak_gambell
+2387 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = tribal_holding
+}
+#b_us_ak_savoonga
+2385 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = none
+}
+#b_us_ak_chitnak
+2386 = {
+	culture = yupik
+	religion = unipkaaq
+	holding = none
+}
+#c_lorino
+#b_ru_lorino
+2560 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_ru_uelen
+2558 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = none
+}
+#b_ru_lavrentiya
+2559 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = none
+}
+#c_provideniya
+#b_ru_provideniya
+7479 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = tribal_holding
+}
+#b_ru_sireniki
+7478 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = none
+}
+#b_ru_yanrakynnot
+7480 = {
+	culture = chukchi
+	religion = cross_faith
+	holding = none
+}

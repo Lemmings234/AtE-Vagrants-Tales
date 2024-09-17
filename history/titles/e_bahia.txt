@@ -1,0 +1,519 @@
+﻿#Salvador
+k_salvador = {
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+c_tucano = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+c_conceicao_do_coite = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+c_ipira = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+c_feira_de_santana = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+c_salvador = {
+	2666.7.4 = { change_development_level = 19 }
+    2666.7.4 = {
+        holder = brazil_van_derley_mauricio_jose_cotegipe_7b
+        liege = e_brazil    
+    }
+}
+
+d_feira_de_santana = {
+    2666.7.4 = {
+        holder = brazil_paraguacu_odorico_1
+        liege = k_salvador    
+    }
+}
+
+c_santo_antonio_de_jesus = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_paraguacu_odorico_1
+        liege = k_salvador    
+    }
+}
+
+c_cruz_das_almas = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_paraguacu_odorico_1
+        liege = k_salvador    
+    }
+}
+
+c_ipiau = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_paraguacu_odorico_1
+        liege = k_salvador    
+    }
+}
+
+c_valenca = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_paraguacu_odorico_1
+        liege = k_salvador    
+    }
+}
+
+c_senhor_do_bonfim = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = character_c_euclides_da_cunha
+        liege = k_salvador    
+    }
+}
+
+c_conde = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_flor_1
+        liege = k_salvador    
+    }
+}
+
+c_catu = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_flor_1
+        liege = k_salvador    
+    }
+}
+
+c_camacari = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_flor_1
+        liege = k_salvador    
+    }
+}
+
+c_serrinha = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_flor_1
+        liege = k_salvador    
+    }
+}
+
+c_euclides_da_cunha = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_euclides_da_cunha
+        liege = k_salvador    
+    }
+}
+
+c_cicero_dantas = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_cicero_dantas
+        liege = k_salvador    
+    }
+}
+
+c_jacobina = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_jacobina
+        liege = e_brazil    
+    }
+}
+
+c_irece = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_jacobina
+        liege = e_brazil    
+    }
+}
+
+c_itaberaba = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_itaberaba
+        liege = e_brazil    
+    }
+}
+
+c_caetite = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_barra_da_estiva
+        liege = e_brazil    
+    }
+}
+
+c_barra_da_estiva = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_barra_da_estiva
+        liege = e_brazil    
+    }
+}
+
+c_seabra = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_seabra
+        liege = e_brazil    
+    }
+}
+
+c_juazeiro = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_joao_quaderna
+        liege = e_brazil    
+    }
+}
+
+c_raso_da_catarina = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_joao_quaderna
+        liege = e_brazil    
+    }
+}
+
+#Sao Francisco
+k_sao_francisco = {
+    2666.7.4 = {
+        holder = brazil_van_derley_jose_mauricio_cotegipe_6b
+        liege = e_brazil    
+    }
+}
+
+c_barra = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_van_derley_jose_mauricio_cotegipe_6b
+        liege = e_brazil    
+    }
+}
+
+c_remanso = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_van_derley_jose_mauricio_cotegipe_6b
+        liege = e_brazil    
+    }
+}
+
+d_xique_xique = {
+    2666.7.4 = {
+        holder = brazil_severina_xique_xique
+        liege = k_sao_francisco    
+    }
+}
+
+c_xique_xique = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_severina_xique_xique
+        liege = k_sao_francisco    
+    }
+}
+
+c_barriguda = {
+	2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = brazil_severina_xique_xique
+        liege = k_sao_francisco    
+    }
+}
+
+c_ibotirama = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_severina_xique_xique
+        liege = k_sao_francisco    
+    }
+}
+
+c_carinhanha = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_xakriaba_francisco_1
+        liege = k_sao_francisco    
+    }
+}
+
+c_serra_dourada = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_serra_dourada
+        liege = k_sao_francisco    
+    }
+}
+
+c_bom_jesus_da_lapa = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_corisco_sebastiao_sebastiao_corisco
+        liege = k_sao_francisco    
+    }
+}
+
+c_guanambi = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_corisco_sebastiao_sebastiao_corisco
+        liege = k_sao_francisco    
+    }
+}
+
+c_petrolina = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_petrolina
+        liege = k_sao_francisco    
+    }
+}
+
+c_januaria = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_xakriaba_francisco_1
+        liege = k_sao_francisco    
+    }
+}
+
+
+#Ilheus
+k_ilheus = {
+    2666.7.4 = {
+        holder = brazil_laurentino_fernando_ilheus_laurentino
+        liege = e_brazil    
+    }
+}
+
+c_ilheus = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_laurentino_fernando_ilheus_laurentino
+        liege = e_brazil    
+    }
+}
+
+c_itabuna = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = brazil_laurentino_fernando_ilheus_laurentino
+        liege = e_brazil    
+    }
+}
+
+d_soorotema = {
+    2666.7.4 = {
+        holder = brazil_da_paixao_gabriela_gabi_da_paixao_ba
+        liege = k_ilheus    
+    }
+}
+
+c_mucuri = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_gabriela_gabi_da_paixao_ba
+        liege = k_ilheus    
+    }
+}
+
+c_sao_mateus = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_gabriela_gabi_da_paixao_ba
+        liege = k_ilheus    
+    }
+}
+
+c_nova_venecia = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_da_paixao_gabriela_gabi_da_paixao_ba
+        liege = k_ilheus    
+    }
+}
+
+d_itapetinga = {
+    2666.7.4 = {
+        holder = brazil_olympio_luis_luis_olympio
+        liege = k_ilheus    
+    }
+}
+
+c_canavieiras = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_olympio_luis_luis_olympio
+        liege = k_ilheus    
+    }
+}
+
+c_porto_seguro = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_olympio_luis_luis_olympio
+        liege = k_ilheus    
+    }
+}
+
+c_una = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_una
+        liege = d_itapetinga    
+    }
+}
+
+c_itapetinga = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_c_itapetinga
+        liege = k_ilheus    
+    }
+}
+
+c_medeiros_neto = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = brazil_ywara_pataxo
+        liege = k_ilheus    
+    }
+}
+
+c_eunapolis = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = brazil_ywara_pataxo
+        liege = k_ilheus    
+    }
+}
+
+c_itamaraju = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_ywara_pataxo
+        liege = k_ilheus    
+    }
+}
+
+c_ubaitaba = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_olga_querere
+        liege = k_ilheus    
+    }
+}
+
+d_barreiras = {
+    2666.7.4 = {
+        holder = brazil_das_mortes_eduardo_1
+		government = tribal_government
+    }
+}
+
+c_barreiras = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_das_mortes_eduardo_1
+    }
+}
+
+c_santa_maria_da_vitoria = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = brazil_das_mortes_eduardo_1
+    }
+}
+
+c_posse = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = brazil_das_mortes_eduardo_1
+    }
+}
+
+c_campos_belos = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_campos_belos
+        liege = d_barreiras    
+    }
+}
+
+c_taguatinga = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_campos_belos
+        liege = d_barreiras    
+    }
+}
+
+d_sertao_da_ressaca = {
+    2666.7.4 = {
+        holder = brazil_esteves_marieta_fabiola_esteves
+        liege = e_brazil    
+    }
+}
+
+c_vitoria_da_conquista = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = brazil_esteves_marieta_fabiola_esteves
+        liege = e_brazil    
+    }
+}
+
+c_jequie = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = brazil_esteves_marieta_fabiola_esteves
+        liege = e_brazil    
+    }
+}
+
+c_brumado = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_brumado
+        liege = e_brazil    
+    }
+}
+
+c_espinosa = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_c_brumado
+        liege = e_brazil    
+    }
+}

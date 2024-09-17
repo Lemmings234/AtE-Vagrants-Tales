@@ -1,0 +1,1179 @@
+#e_middle_atlantic
+#k_the_chesapeake
+#d_maryland
+#c_baltimore
+#b_us_md_baltimore
+3184 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_md_columbia
+3185 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_md_towson
+3186 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = church_holding
+}
+#b_us_md_aberdeen
+3183 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = none
+}
+#c_annapolis
+#b_us_md_annapolis
+5766 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_md_waldorf
+5765 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_md_chesapeake_beach
+5767 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = church_holding
+}
+#c_frederick
+#b_us_md_gaithersburg
+8448 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_md_frederick
+8450 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_md_eldersburg
+8449 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = church_holding
+}
+#c_moco
+#b_us_va_leesburg
+5281 = {
+	culture = oldbayer
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_md_germantown
+5279 = {
+	culture = oldbayer
+	religion = principlist
+	holding = city_holding
+}
+#b_us_md_brunswick
+5280 = {
+	culture = oldbayer
+	religion = principlist
+	holding = church_holding
+}
+#c_potomac_highlands
+#b_us_md_hagerstown
+1062 = {
+	culture = yinzer
+	religion = principlist
+	holding = tribal_holding
+}
+#b_us_va_winchester
+1061 = {
+	culture = oldbayer
+	religion = principlist
+	holding = none
+}
+#b_us_wv_martinsburg
+1060 = {
+	culture = oldbayer
+	religion = principlist
+	holding = none
+}
+#b_us_wv_augusta
+1063 = {
+	culture = oldbayer
+	religion = principlist
+	holding = none
+}
+#d_delaware_valley
+#c_delco
+#b_us_pa_chester
+1708 = {
+	culture = youser
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_pa_norristown
+1706 = {
+	culture = youser
+	religion = constitutionalist
+	holding = city_holding
+}
+#c_wilmington
+#b_us_de_wilmington
+1704 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_de_hockessin
+1707 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#b_us_de_christiania
+1705 = {
+	culture = youser
+	religion = principlist
+	holding = church_holding
+}
+#c_philadelphia
+#b_us_pa_philadelphia
+4077 = {
+	culture = youser
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_pa_levittown
+3710 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_pa_bryn_mawr
+#b_us_pa_perkasie
+3709 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#d_south_jersey
+#c_camden
+#b_us_nj_camden
+4490 = {
+	culture = youser
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_nj_swedesboro
+4491 = {
+	culture = youser
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_nj_hammonton
+4492 = {
+	culture = youser
+	religion = constitutionalist
+	holding = church_holding
+}
+#c_rancocas
+#b_us_nj_mount_laurel
+2361 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_nj_new_hanover
+2362 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#c_atlantic
+#b_us_nj_atlantic_city
+746 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_nj_villas
+744 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#b_us_nj_egg_harbor
+745 = {
+	culture = youser
+	religion = principlist
+	holding = church_holding
+}
+#c_cumberland_nj
+#b_us_nj_vineland
+9523 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_nj_salem
+9524 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#b_us_nj_bridgeton
+9525 = {
+	culture = youser
+	religion = principlist
+	holding = church_holding
+}
+#c_washington
+#b_us_dc_washington
+5485 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = castle_holding
+	2349.9.9 = {
+		special_building = 	dc_capitol_mall
+	}
+}
+#b_us_va_arlington
+5486 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = church_holding
+}
+#b_us_md_bethesda
+5483 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_dc_anacostia
+5484 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = none
+}
+#d_delmarva
+#c_salisbury
+#b_us_md_salisbury
+536 = {
+	culture = southron
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_de_seaford
+538 = {
+	culture = southron
+	religion = principlist
+	holding = church_holding
+}
+#b_us_md_ocean_city
+537 = {
+	culture = southron
+	religion = principlist
+	holding = city_holding
+}
+#c_dover
+#b_us_de_dover
+2812 = {
+	culture = youser
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_de_middletown
+2811 = {
+	culture = youser
+	religion = principlist
+	holding = city_holding
+}
+#b_us_de_milford
+2813 = {
+	culture = youser
+	religion = principlist
+	holding = church_holding
+}
+#c_talbot
+#b_us_md_easton
+5854 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_md_chestertown
+5855 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_md_cambridge
+5853 = {
+	culture = oldbayer
+	religion = constitutionalist
+	holding = church_holding
+}
+#c_pocomoke
+#b_us_md_pocomoke_city
+2089 = {
+	culture = southron
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_va_exmore
+2090 = {
+	culture = hoi_toider
+	religion = constitutionalist
+	holding = city_holding
+}
+#k_dutchland
+#d_upper_susquehanna
+#c_berks
+#b_us_pa_reading
+8638 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_allentown
+8639 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#b_us_pa_kutztown
+8637 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#c_lancaster
+#b_us_pa_lancaster
+3241 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+	#Leave the code for this and just comment it out when needed - useful for testing - Haghog
+	#1886.10.28 = {
+	#	special_building = holy_site_other_grand_temple_01
+	#}
+}
+#b_us_pa_hershey
+3240 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_lebanon
+3239 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#c_schuylkill
+#b_us_pa_pottsville
+3286 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_bloomsburg
+3287 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_shamokin
+3285 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#c_lycoming
+#b_us_pa_williamsport
+9332 = {
+	culture = yinzer
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_lock_haven
+9333 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_sunbury
+9331 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#c_chester
+#b_us_pa_coatesville
+7136 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_oxford
+7135 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#d_coalland
+#c_lackawanna
+#b_us_pa_scranton
+6214 = {
+	culture = pocono
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_back_mountain
+6215 = {
+	culture = pocono
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_wilkes_barre
+6213 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = church_holding
+}
+#c_poconos
+#b_us_pa_milford
+3796 = {
+	culture = pocono
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_honesdale
+3795 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = city_holding
+}
+#c_lehigh
+#b_us_pa_slatington
+9587 = {
+	culture = pocono
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_bethlehem
+9588 = {
+	culture = pocono
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_east_stroudsburg
+9589 = {
+	culture = pocono
+	religion = anabaptist
+	holding = none
+}
+#c_susquehanna
+#b_us_pa_sayre
+5494 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = castle_holding
+}
+#b_us_pa_tunkhannock
+5495 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = city_holding
+}
+#b_us_pa_susquehanna
+5496 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = church_holding
+}
+#b_us_pa_noxen
+5493 = {
+	culture = pocono
+	religion = clairvoyant
+	holding = none
+}
+#d_lower_susquehanna
+#c_harrisburg
+#b_us_pa_harrisburg
+7723 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_hanover
+7722 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_chambersburg
+7721 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#c_altoona
+#b_us_pa_altoona
+2095 = {
+	culture = yinzer
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_state_college
+2097 = {
+	culture = yinzer
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_bedford
+2094 = {
+	culture = yinzer
+	religion = anabaptist
+	holding = church_holding
+}
+#b_us_pa_mifflintown
+2096 = {
+	culture = yinzer
+	religion = anabaptist
+	holding = none
+}
+#c_codorus
+#b_us_pa_york
+3668 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_pa_new_freedom
+3669 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_pa_airville
+3670 = {
+	culture = deitsch
+	religion = anabaptist
+	holding = church_holding
+}
+#k_old_dominion
+#d_tidewater
+#c_hampton_roads
+#b_us_va_virginia_beach
+2004 = {
+	culture = southron
+	religion = principlist
+	holding = castle_holding
+	1900.1.1 = {special_building = natural_harbour}
+}
+#b_us_va_norfolk
+2003 = {
+	culture = southron
+	religion = principlist
+	holding = city_holding
+}
+#b_us_va_suffolk
+2002 = {
+	culture = southron
+	religion = principlist
+	holding = church_holding
+}
+#b_us_va_carrsville
+2001 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#c_chesapeake
+#b_us_va_newport_news
+5800 = {
+	culture = southron
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_va_williamsburg
+5803 = {
+	culture = southron
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_va_charles_city
+5063 = {
+	culture = southron
+	religion = constitutionalist
+	holding = none
+}
+#c_wight
+#b_us_va_smithfield
+6140 = {
+	culture = southron
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_va_franklin
+6139 = {
+	culture = southron
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_va_waverly
+6138 = {
+	culture = southron
+	religion = constitutionalist
+	holding = church_holding
+}
+#c_rappahannock
+#b_us_va_gloucester_point
+5801 = {
+	culture = hoi_toider
+	religion = constitutionalist
+	holding = church_holding
+}
+#b_us_va_colonial_beach
+5802 = {
+	culture = hoi_toider
+	religion = constitutionalist
+	holding = none
+}
+#d_nova
+#c_fairfax
+#b_us_va_centreville
+1943 = {
+	culture = oldbayer
+	religion = amriki
+	holding = castle_holding
+}
+#b_us_va_woodbridge
+1944 = {
+	culture = oldbayer
+	religion = amriki
+	holding = city_holding
+}
+#b_us_va_linton_hall
+1941 = {
+	culture = oldbayer
+	religion = amriki
+	holding = church_holding
+}
+#b_us_va_warrenton
+1942 = {
+	culture = oldbayer
+	religion = amriki
+	holding = none
+}
+#c_spotsylvania
+#b_us_va_culpeper
+3150 = {
+	culture = southron
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_va_orange
+3152 = {
+	culture = southron
+	religion = principlist
+	holding = city_holding
+}
+#b_us_va_spotsylvania_courthouse
+3151 = {
+	culture = southron
+	religion = principlist
+	holding = church_holding
+}
+#d_piedmont
+#c_richmond
+#b_us_va_richmond
+5068 = {
+	culture = southron
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_va_petersburg
+5064 = {
+	culture = southron
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_va_meadowbrook
+5067 = {
+	culture = southron
+	religion = constitutionalist
+	holding = church_holding
+}
+#b_us_va_mechanicsville
+5066 = {
+	culture = southron
+	religion = constitutionalist
+	holding = none
+}
+#b_us_va_crewe
+5065 = {
+	culture = southron
+	religion = constitutionalist
+	holding = none
+}
+#c_charlottesville
+#b_us_va_charlottesville
+1607 = {
+	culture = southron
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_va_lake_monticello
+1605 = {
+	culture = southron
+	religion = principlist
+	holding = city_holding
+}
+#b_us_va_louisa
+1606 = {
+	culture = southron
+	religion = principlist
+	holding = church_holding
+}
+#b_us_va_dillwyn
+1608 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#c_fredericksburg
+#b_us_va_fredericksburg
+6952 = {
+	culture = southron
+	religion = constitutionalist
+	holding = castle_holding
+}
+#b_us_va_king_george
+6954 = {
+	culture = southron
+	religion = constitutionalist
+	holding = city_holding
+}
+#b_us_va_ashland
+6955 = {
+	culture = southron
+	religion = constitutionalist
+	holding = church_holding
+}
+#b_us_va_bowling_green
+6953 = {
+	culture = southron
+	religion = constitutionalist
+	holding = none
+}
+#d_roanoke
+#c_roanoke
+#b_us_va_roanoke
+8832 = {
+	culture = southron
+	religion = evangelical
+	holding = tribal_holding
+}
+#b_us_va_blacksburg
+8833 = {
+	culture = southron
+	religion = evangelical
+	holding = none
+}
+#b_us_va_covington
+8834 = {
+	culture = southron
+	religion = evangelical
+	holding = none
+}
+#c_rockingham
+#b_us_va_harrisonburg
+6435 = {
+	culture = southron
+	religion = principlist
+	holding = tribal_holding
+}
+#b_us_va_woodstock
+6436 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#b_us_va_luray
+6434 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#c_staunton
+#b_us_va_staunton
+6524 = {
+	culture = southron
+	religion = principlist
+	holding = tribal_holding
+}
+#b_us_va_lexington
+6523 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#d_southside
+#c_lynchburg
+#b_us_va_lynchburg
+1766 = {
+	culture = southron
+	religion = principlist
+	holding = castle_holding
+}
+#b_us_va_farmville
+1765 = {
+	culture = southron
+	religion = principlist
+	holding = city_holding
+}
+#b_us_va_bedford
+1767 = {
+	culture = southron
+	religion = principlist
+	holding = church_holding
+}
+#b_us_va_amherst
+1763 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#b_us_va_appomattox
+1764 = {
+	culture = southron
+	religion = principlist
+	holding = none
+}
+#c_pittsylvania
+#b_us_va_danville
+8684 = {
+	culture = piedmontese
+	religion = evangelical
+	holding = castle_holding
+}
+#b_us_va_martinsville
+8683 = {
+	culture = piedmontese
+	religion = evangelical
+	holding = city_holding
+}
+#b_us_va_altavista
+8685 = {
+	culture = piedmontese
+	religion = evangelical
+	holding = church_holding
+}
+#b_us_va_patrick_springs
+8682 = {
+	culture = piedmontese
+	religion = evangelical
+	holding = none
+}
+#c_emporia
+#b_us_va_south_hill
+9583 = {
+	culture = southron
+	religion = amriki
+	holding = castle_holding
+}
+#b_us_va_blackstone
+9581 = {
+	culture = southron
+	religion = amriki
+	holding = city_holding
+}
+#b_us_va_emporia
+9582 = {
+	culture = southron
+	religion = amriki
+	holding = church_holding
+}
+#b_us_va_keysville
+9584 = {
+	culture = southron
+	religion = amriki
+	holding = none
+}
+#k_allegheny
+#d_westsylvania
+#c_pittsburgh
+#b_us_pa_pittsburgh
+9038 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_aliquippa
+11664 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_penn_hills
+9035 = {
+	culture = yinzer
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_pa_cranberry_township
+9037 = {
+	culture = yinzer
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_pa_washington
+9036 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#c_greensburg
+#b_us_pa_greensburg
+8770 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_pa_uniontown
+11663 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_indiana
+8769 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_vandergrift
+8771 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#c_new_castle
+#b_us_pa_butler
+11648 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_homeacre_lyndora
+4012 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_beaver_falls
+4011 = {
+	culture = yinzer
+	religion = galvanist
+	holding = city_holding
+}
+#c_shenango
+#b_us_pa_hermitage
+4013 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_meadville
+3775 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#d_erie
+#c_buffalo
+#b_us_ny_buffalo
+8592 = {
+	culture = upstater
+	religion = clairvoyant
+	holding = castle_holding
+}
+#b_us_ny_niagara_falls
+8593 = {
+	culture = upstater
+	religion = clairvoyant
+	holding = city_holding
+}
+#b_us_ny_lockport
+8591 = {
+	culture = upstater
+	religion = clairvoyant
+	holding = church_holding
+}
+#b_us_ny_clarence
+8590 = {
+	culture = upstater
+	religion = clairvoyant
+	holding = none
+}
+#c_erie
+#b_us_pa_erie
+3773 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_corry
+3774 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#c_chautauqua
+#b_us_ny_jamestown
+3776 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_ny_hamburg
+6595 = {
+	culture = buckeye
+	religion = clairvoyant
+	holding = church_holding
+}
+#b_us_ny_pomfret
+6593 = {
+	culture = buckeye
+	religion = clairvoyant
+	holding = city_holding
+}
+#b_us_ny_gowanda
+6594 = {
+	culture = buckeye
+	religion = clairvoyant
+	holding = none
+}
+#d_allegheny
+#c_cambria
+#b_us_pa_johnstown
+11656 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_pa_northern_cambria
+5912 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_somerset
+5913 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#c_moshannon
+#b_us_pa_shiloh
+5461 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_pa_dubois
+4984 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_plymptonville
+5460 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#c_tioga
+#b_us_pa_mansfield
+5459 = {
+	culture = yinzer
+	religion = sustainablist
+	holding = castle_holding
+}
+#b_us_pa_coudersport
+5462 = {
+	culture = yinzer
+	religion = sustainablist
+	holding = church_holding
+}
+#b_us_pa_emporium
+5463 = {
+	culture = yinzer
+	religion = sustainablist
+	holding = city_holding
+}
+#d_the_wilds
+#c_mckean
+#b_us_pa_smethport
+3745 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_bradford
+11644 = {
+	culture = yinzer
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_pa_saint_marys
+3746 = {
+	culture = yinzer
+	religion = galvanist
+	holding = city_holding
+}
+#c_venango
+#b_us_pa_punxsutawney
+11652 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_pa_clarion
+4983 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_oil_city
+11646 = {
+	culture = yinzer
+	religion = galvanist
+	holding = none
+}
+#c_allegany
+#b_us_ny_attica
+2790 = {
+	culture = upstater
+	religion = clairvoyant
+	holding = castle_holding
+}
+#b_us_ny_wellsville
+2791 = {
+	culture = yinzer
+	religion = clairvoyant
+	holding = city_holding
+}
+#b_us_ny_alfred
+2789 = {
+	culture = yinzer
+	religion = clairvoyant
+	holding = church_holding
+}

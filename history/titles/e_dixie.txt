@@ -1,0 +1,753 @@
+﻿e_hcc = {
+	2665.1.1={
+		#title_succession_laws = { princely_elective_succession_law }
+		#add_title_law = feudal_elective_succession_law
+		# succession_laws = { feudal_elective_succession_law }
+		succession_laws = { princely_elective_succession_law }
+	}
+
+}
+
+#k_alabama = {
+#	}
+
+#k_tarheel = {
+#	}
+
+#k_palmetto = {
+#	}
+
+#k_georgia = {
+#	}
+
+c_atlanta = {
+	2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = hcc_gee_julius_1
+    }
+}
+
+c_rockdale = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = hcc_gee_julius_1
+    }
+}
+
+
+c_fulton = {
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = hcc_gee_julius_1
+    }
+}
+
+d_peachtree = {
+    2666.7.4 = {
+        holder = hcc_gee_julius_1
+    }
+}
+
+d_ocmulgee = {
+    2666.7.4 = {
+        holder = hcc_gee_julius_1
+    }
+}
+
+d_evangelical = {
+    2666.7.4 = {
+        holder = hcc_augustus_jackson
+        liege = e_hcc
+    }
+}
+
+d_cape_fear = {
+    2666.7.4 = {
+        holder = hcc_oxendine_gabriel_1
+        liege = e_hcc
+    }
+}
+
+c_new_hanover = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_oxendine_gabriel_1
+        liege = e_hcc
+    }
+}
+
+c_fayetteville = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = hcc_oxendine_gabriel_1
+        liege = e_hcc
+    }
+}
+
+c_uwharrie = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_sturdivant_augustus_1
+        liege = d_cape_fear
+    }
+}
+
+c_wake = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_knox_orville_knoxm
+        liege = d_cape_fear
+    }
+}
+
+d_upcountry = {
+    2666.7.4 = {
+        holder = hcc_spratt_thomas_1
+        liege = e_hcc
+    }
+}
+
+c_greenville = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_spratt_thomas_1
+        liege = e_hcc
+    }
+}
+
+c_santee = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_moye_jamarion_1
+        liege = e_hcc
+    }
+}
+
+c_saluda = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_littlepage_clarence_1
+        liege = d_upcountry
+    }
+}
+
+c_rock_hill = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_littlepage_wade_1
+        liege = d_upcountry
+    }
+}
+
+c_pee_dee = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_moye_jamarion_1
+        liege = e_hcc
+    }
+}
+
+d_florabama = {
+	2619.8.6 = {
+		holder = hcc_ackerman_julius_1
+	}
+	2660.3.2 = {
+        holder = hcc_ackerman_terri_1
+        liege = e_hcc
+    }
+}
+
+c_tallahassee = {
+	2666.7.4 = { change_development_level = 7 }
+	2666.7.4 = {
+        holder = hcc_murat_pyrrhus
+        liege = d_florabama
+    }
+	2610.3.2 = {
+		holder = hcc_murat_matthew
+	}
+}
+
+c_escambia = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_ackerman_terri_1
+        liege = e_hcc
+    }
+}
+
+c_choctawhatchee = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = hcc_pelecand_jubilard_1
+        liege = d_florabama
+    }
+}
+
+c_steinhatchee = {
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = hcc_hardee_kerfoot_1
+        liege = d_florabama
+    }
+}
+
+c_appalachicola = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_ellis_buford_1
+        liege = d_florabama
+    }
+}
+
+d_inner_banks = {
+    2666.7.4 = {
+        holder = hcc_josias_anastasia_anastasiajosias
+        liege = e_hcc
+    }
+}
+
+c_new_bern = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_josias_anastasia_anastasiajosias
+        liege = e_hcc
+    }
+}
+
+c_beaufort = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_josias_anastasia_anastasiajosias
+        liege = e_hcc
+    }
+}
+
+c_croatan = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_archer_john_1
+        liege = d_inner_banks
+    }
+}
+
+c_hatteras = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_archer_john_1
+        liege = d_inner_banks
+    }
+}
+
+c_lenoir = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_blackwine_wayne_1
+        liege = d_inner_banks
+    }
+}
+
+c_hertford = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_rowan_robert_1
+        liege = d_inner_banks
+    }
+}
+
+c_albemarle = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_quarles_porter_1
+        liege = d_inner_banks
+    }
+}
+
+d_triangle = {
+    2666.7.4 = {
+        holder = hcc_durham_ganelon_1
+        liege = e_hcc
+    }
+}
+
+c_raleigh = {
+	2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = hcc_durham_ganelon_1
+        liege = e_hcc
+    }
+}
+
+c_rocky_mount = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_durham_ganelon_1
+        liege = e_hcc
+    }
+}
+
+c_durham = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = hcc_durham_ganelon_1
+        liege = e_hcc
+    }
+}
+
+d_piedmont_crescent = {
+	2616.5.1 = {
+		holder = hcc_litchfield_victor_1
+		liege = e_hcc
+	}
+	2661.12.25 = {
+        holder = hcc_litchfield_paxton_1
+        liege = e_hcc
+    }
+}
+
+c_charlotte = {
+	2666.7.4 = { change_development_level = 13 }
+	2616.5.1 = {
+		holder = hcc_litchfield_victor_1
+		liege = e_hcc
+	}
+	2666.7.4 = {
+        holder = hcc_litchfield_paxton_1
+        liege = e_hcc
+    }
+}
+
+c_piedmont_triad = {
+	2666.7.4 = { change_development_level = 11 }
+	2616.5.1 = {
+		holder = hcc_litchfield_victor_1
+		liege = e_hcc
+	}
+	2666.7.4 = {
+        holder = hcc_oakheart_walter_1
+        liege = d_piedmont_crescent
+    }
+}
+
+c_yadkin = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_sutton_pulley_webster_lee_1
+        liege = d_piedmont_crescent
+    }
+}
+
+c_unifour = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_sutton_pulley_webster_lee_1
+        liege = d_piedmont_crescent
+    }
+}
+
+c_rowan = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_gaunt_lawrence_1
+        liege = d_piedmont_crescent
+    }
+}
+
+d_augusta = {
+    2666.7.4 = {
+        holder = hcc_robinson_stephanus_1
+        liege = e_hcc
+    }
+}
+
+c_augusta = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = hcc_robinson_stephanus_1
+        liege = e_hcc
+    }
+}
+
+c_milledgeville = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_robinson_stephanus_1
+        liege = e_hcc
+    }
+}
+
+c_oconee = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_hollywell_seth_1
+        liege = d_augusta
+    }
+}
+
+c_hartwell = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_hollywell_seth_1
+        liege = d_augusta
+    }
+}
+
+c_aiken = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_paris_leah_1
+        liege = d_augusta
+    }
+}
+
+d_birmingham = {
+    2666.7.4 = {
+        holder = hcc_latimer_huey_1
+        liege = e_hcc
+    }
+}
+
+c_birmingham = {
+	2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = hcc_latimer_huey_1
+        liege = e_hcc
+    }
+}
+
+c_auburn = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_latimer_huey_1
+        liege = e_hcc
+    }
+}
+
+c_rome = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_berry_rowan_1
+        liege = d_birmingham
+    }
+}
+
+c_talladega = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_none_ricky_1
+        liege = d_birmingham
+    }
+}
+
+c_butler = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_pritchett_antipas_1
+        liege = d_birmingham
+    }
+}
+
+d_sowega = {
+    2666.7.4 = {
+        holder = hcc_dunwoody_fred_1
+        liege = e_hcc
+    }
+}
+
+c_barbour = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_dunwoody_fred_1
+        liege = e_hcc
+    }
+}
+
+c_chattahoochee = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_dunwoody_fred_1
+        liege = e_hcc
+    }
+}
+
+c_early = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_mcgriff_isaiah_1
+        liege = d_sowega
+    }
+}
+
+c_thomasville = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_pritchett_wilbur_1
+        liege = d_sowega
+    }
+}
+
+c_dougherty = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_mcbroom_deforest_1
+        liege = d_sowega
+    }
+}
+
+d_altamaha = {
+    2666.7.4 = {
+        holder = hcc_mcgillin_heron_1
+        liege = e_hcc
+    }
+}
+
+c_coffee = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_mcgillin_heron_1
+        liege = e_hcc
+    }
+}
+
+c_laurens = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_mcgillin_heron_1
+        liege = e_hcc
+    }
+}
+
+c_suwanee = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_cockrell_colquitt_1
+        liege = d_altamaha
+    }
+}
+
+c_valdosta = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_cockrell_colquitt_1
+        liege = d_altamaha
+    }
+}
+
+c_st_marys = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_habersham_oxford_1
+        liege = d_altamaha
+    }
+}
+
+d_lowcountry = {
+    2666.7.4 = {
+        holder = hcc_littlepage_algernon_1
+        liege = e_hcc
+    }
+}
+
+c_charleston = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = hcc_littlepage_algernon_1
+        liege = e_hcc
+    }
+}
+
+c_grand_strand = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_littlepage_algernon_1
+        liege = e_hcc
+    }
+}
+
+c_sea_islands = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_bohicket_omar_1
+        liege = d_lowcountry
+    }
+}
+
+c_edisto = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_mcgruder_dexter_1
+        liege = d_lowcountry
+    }
+}
+
+c_salkehatchie = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = hcc_wildboar_quentin_1
+        liege = d_lowcountry
+    }
+}
+
+d_savannah = {
+    2666.7.4 = {
+        holder = hcc_bailey_althea_1
+        liege = e_hcc
+    }
+}
+
+c_savannah = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_bailey_althea_1
+        liege = e_hcc
+    }
+}
+
+c_liberty = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_bailey_althea_1
+        liege = e_hcc
+    }
+}
+
+c_bulloch = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_pettaway_evangeline
+        liege = d_savannah
+    }
+}
+
+c_ohoopee = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_pettaway_evangeline
+        liege = d_savannah
+    }
+}
+
+c_congaree = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_littlepage_wade_1
+        liege = d_upcountry
+    }
+}
+
+c_troup = {
+	2666.7.4 = { change_development_level = 9 }
+	2666.7.4 = {
+        holder = hcc_carroll_laura_1
+        liege = e_hcc
+    }
+}
+
+c_carroll = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_carroll_laura_1
+        liege = e_hcc
+    }
+}
+
+c_etowah = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_cherryholmes_fox_1
+        liege = e_hcc
+    }
+}
+
+c_winston = {
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = hcc_cherryholmes_fox_1
+        liege = e_hcc
+    }
+}
+
+c_macon = {
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = hcc_nettles_everett_1
+        liege = e_hcc
+    }
+}
+
+c_cartersville = {
+	2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = hcc_musser_michael_1
+        liege = e_hcc
+    }
+}
+
+c_chickamauga = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = hcc_musser_michael_1
+        liege = e_hcc
+    }
+}
+
+c_athens = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_arguelles_suro_noah_1
+        liege = e_hcc
+    }
+}
+
+c_dothan = {
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = hcc_somers_henry_1
+        liege = e_hcc
+    }
+}
+
+c_montgomery = {
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = hcc_pike_haywood_1
+        liege = e_hcc
+    }
+}
+
+c_barnwell = {
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+		holder = hcc_royall_orpheus_1
+        liege = d_upcountry
+    }
+}
+
+c_waxhaws = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_kincaid_silas_1
+        liege = e_hcc
+    }
+}
+
+c_clemson = {
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = gv_biltmore_golden_ashevillem
+        liege = e_hcc
+    }
+}
+
+c_conecuh = {
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = hcc_treadwell_winston_1
+        liege = e_hcc
+    }
+}
+
+#d_conecuh = {
+#
+#}

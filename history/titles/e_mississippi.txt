@@ -1,0 +1,729 @@
+﻿#Louisiana
+
+d_acadiana = { 
+	2666.7.4 = { change_development_level = 6 }
+    2652.9.19= {
+		holder = miss_creaux_louis_laking4
+	}
+}
+
+c_lafayette = { 
+	2666.7.4 = { change_development_level = 6 }
+}
+
+c_st_landry = { 
+	2666.7.4 = { change_development_level = 3 }
+}
+
+c_vermilion = { 
+	2666.7.4 = { change_development_level = 3 }
+}
+
+d_neches = {
+    2666.7.4 = {
+        holder = miss_creaux_ada_1
+        liege = k_louisiana    
+    }
+}
+
+c_nacogdoches = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_creaux_ada_1
+        liege = k_louisiana    
+    }
+}
+
+c_sabine = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_creaux_ada_1
+        liege = k_louisiana    
+    }
+}
+
+c_longview = { 
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = miss_sharp_polly_pollysharp
+        liege = d_neches    
+    }
+}
+
+c_rusk = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_sharp_polly_pollysharp
+        liege = d_neches    
+    }
+}
+
+d_kisatchie = {
+    2666.7.4 = {
+        liege = k_louisiana    
+    }
+}
+
+c_natchitoches = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        liege = k_louisiana    
+    }
+}
+
+c_bossier = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_fuselier_pierre_1
+        liege = k_louisiana    
+    }
+}
+
+c_winn = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_lindsey_beth_1
+        liege = d_kisatchie    
+    }
+}
+
+c_rapides = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_mouton_rufus_1
+        liege = d_kisatchie    
+    }
+}
+
+c_deridder = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_mouton_rufus_1
+        liege = d_kisatchie    
+    }
+}
+
+c_atchafalaya = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_schexnayder_charles_1
+        liege = k_louisiana
+    }
+}
+
+c_golden_triangle = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = miss_thibodeaux_amos_1
+        liege = k_louisiana
+    }
+}
+
+c_calcasieu = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_thibodeaux_amos_1
+        liege = k_louisiana
+    }
+}
+
+c_ouachita = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_ledbetter_ida_1
+        liege = k_louisiana
+    }
+}
+
+c_chicot = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_ledbetter_ida_1
+        liege = k_louisiana
+    }
+}
+
+c_d_arbonne = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_dupre_lafayette_1
+        liege = k_louisiana
+    }
+}
+
+c_tensas = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_whitley_colleen_1
+        liege = k_louisiana
+    }
+}
+
+c_la_salle = { 
+	2666.7.4 = { change_development_level = 3 }
+    2664.12.23 = {
+        liege = k_louisiana
+    }
+}
+
+d_new_orleans = {
+    2666.7.4 = {
+		government = high_republic_government
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_new_orleans = { 
+	2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_bellocq_samuel_1
+        succession_laws = { plutocracy_elective_succession_law }
+		
+    }
+}
+
+c_terrebonne = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_verdin_joseph_1
+        liege = d_new_orleans
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_plaquemines = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_flambeau_proteus_1
+		liege = d_new_orleans
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_st_tammany = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_nguyen_treme_1
+		liege = d_new_orleans
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_gulfport_biloxi = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_bellocq_samuel_1
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_baton_rouge = { 
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = miss_penalver_leon_1
+        liege = k_louisiana
+    }
+}
+
+#Magnolia
+
+d_homochitto = { 
+    2666.7.4 = {
+        holder = miss_creaux_narcisse_missdad
+        liege = k_louisiana
+		
+    }
+}
+
+c_amite = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_creaux_narcisse_missdad
+        liege = k_louisiana
+		
+    }
+}
+
+c_natchez = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_creaux_narcisse_missdad
+        liege = k_louisiana
+		
+    }
+}
+
+c_claiborne = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = miss_creaux_narcisse_missdad
+    }
+}
+
+d_jackson = { 
+    2666.7.4 = {
+        holder = miss_ingram_harry_magnolia
+    }
+}
+
+c_jackson = { 
+	2666.7.4 = { chanaaage_development_level = 7 }
+    2666.7.4 = {
+        holder = miss_ingram_harry_magnolia
+    }
+}
+
+d_pine_belt = {
+    2666.7.4 = {
+        liege = k_magnolia    
+    }
+}
+
+c_hattiesburg = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        liege = k_magnolia    
+    }
+}
+
+c_jones = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_mcdaniel_menelaus_1
+        liege = k_magnolia    
+    }
+}
+
+c_chickasawhay = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_comby_hachotukni_1
+        liege = d_pine_belt    
+    }
+}
+
+c_de_soto = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_gaines_booker_1
+        liege = d_pine_belt    
+    }
+}
+
+c_demopolis = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_gaines_booker_1
+        liege = d_pine_belt    
+    }
+}
+
+d_yazoo = {
+    2666.7.4 = {
+        holder = miss_hooks_mckinley_1
+        liege = k_magnolia    
+    }
+}
+
+c_sunflower = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_hooks_mckinley_1
+        liege = k_magnolia    
+    }
+}
+
+c_coahoma = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_hooks_mckinley_1
+        liege = k_magnolia    
+    }
+}
+
+c_vicksburg = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_johnson_lamar_1
+        liege = d_yazoo    
+    }
+}
+
+c_arkabutla = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_arkabutla
+        liege = d_yazoo    
+    }
+}
+
+c_yalobusha = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_isom_john_lee_1
+        liege = d_yazoo    
+    }
+}
+
+d_north_mississippi = {
+    2666.7.4 = {
+        liege = k_magnolia    
+    }
+}
+
+c_tupelo = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        liege = k_magnolia    
+    }
+}
+
+c_tenn_tom = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_rockford_rooney
+        liege = k_magnolia    
+    }
+}
+
+c_oktibbeha = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_stark_ned_1
+        liege = d_north_mississippi    
+    }
+}
+
+c_oxford = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_sartoris_tucker_1
+        liege = d_north_mississippi    
+    }
+}
+
+d_canebreak = { 
+    2666.7.4 = {
+        holder = miss_latimer_syagrius
+		liege = k_magnolia
+    }
+}
+
+c_tuscaloosa = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = miss_latimer_syagrius
+		liege = k_magnolia
+    }
+}
+
+c_walker = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_latimer_syagrius
+		liege = k_magnolia
+    }
+}
+
+c_meridian = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_latimer_syagrius
+		liege = k_magnolia
+    }
+}
+
+c_baldwin = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_latimer_syagrius
+		liege = k_magnolia
+    }
+}
+
+c_mobile = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+		government = high_republic_government
+        holder = miss_sledge_edwin_1
+        liege = d_new_orleans
+        succession_laws = { plutocracy_elective_succession_law }
+    }
+}
+
+c_neshoba = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_comby_hachotukni_1
+        liege = k_magnolia    
+    }
+}
+
+c_attala = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_johnson_lamar_1
+        liege = k_magnolia    
+    }
+}
+
+c_pearl = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_johnson_lamar_1
+        liege = k_magnolia    
+    }
+}
+
+#The Ozarks
+#k_ozarks = { 
+#}
+
+d_sequoyah = {
+    2666.7.4 = {
+        holder = miss_udoda_nunnahitsunega_nunnahitsunega_udoda
+    }
+}
+
+c_tulsa = { 
+	2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = miss_udoda_nunnahitsunega_nunnahitsunega_udoda
+    }
+}
+
+c_green_country = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_udoda_nunnahitsunega_nunnahitsunega_udoda
+    }
+}
+
+c_the_arbuckles = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_goodnight_kowishto_.kowishto_goodnight
+        liege = d_sequoyah    
+    }
+}
+
+c_kiamichi = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_oklahombi_wesley_wesley_oklahombi
+        liege = d_sequoyah    
+    }
+}
+
+c_muskogee = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_harjo_isparhecher_isparhecher_harjo
+        liege = d_sequoyah    
+    }
+}
+
+c_eufaula = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_pissachubi_kent_kent_pissachubi
+        liege = d_sequoyah    
+    }
+}
+
+d_turner_ward_knob = {
+    2666.7.4 = {
+        holder = miss_chronister_zarephath_zarephath_chronister
+    }
+}
+
+c_batesville = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_chronister_zarephath_zarephath_chronister
+    }
+}
+
+c_crooked_creek = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_chronister_zarephath_zarephath_chronister
+    }
+}
+
+c_searcy = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_chronister_zarephath_zarephath_chronister
+    }
+}
+
+c_baxter = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_gilliland_antrim_antrim_gilliland
+        liege = d_turner_ward_knob    
+    }
+}
+
+c_texas = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_plumbum_porter_porter_plumbum
+        liege = d_turner_ward_knob    
+    }
+}
+
+d_arkansas = {
+    2666.7.4 = {
+        holder = miss_blythe_jubal_jubal_blythe
+    }
+}
+
+c_little_rock = { 
+	2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = miss_blythe_jubal_jubal_blythe
+    }
+}
+
+c_argenta = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = miss_blythe_jubal_jubal_blythe
+    }
+}
+
+c_fort_smith = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_blythe_jubal_jubal_blythe
+    }
+}
+
+c_russellville = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_digger_johnny_johnny_digger
+        liege = d_arkansas    
+    }
+}
+
+c_st_francis = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_slayinghand_yvonne_yvonne_slayinghand
+        liege = d_arkansas    
+    }
+}
+
+c_west_memphis = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_marion_raleigh_raleigh_marion
+        liege = d_arkansas    
+    }
+}
+
+c_crowleys_ridge = { 
+	2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+		government = theocracy_government
+        holder = miss_burntower_philius_philius_burntower
+        liege = d_arkansas    
+    }
+}
+
+c_woodruff = { 
+	2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = miss_burntower_philius_philius_burntower
+        liege = d_arkansas    
+    }
+}
+
+c_stuttgart = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_yoder_alf_alf_yoder
+        liege = d_arkansas    
+    }
+}
+
+c_pine_bluff = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_dollarway_corbin_corbin_dollarway
+        liege = d_arkansas    
+    }
+}
+
+c_el_dorado = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_portis_coburn_1
+    }
+}
+
+c_little_river = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_portis_coburn_1
+    }
+}
+
+d_north_ozarks = {
+    2666.7.4 = {
+        holder = miss_danvorn_earl_earl_danvorn
+    }
+}
+
+c_razorback = { 
+	2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miss_danvorn_earl_earl_danvorn
+    }
+}
+
+c_greene = { 
+	2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = miss_danvorn_earl_earl_danvorn
+    }
+}
+
+c_joplin = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_danvorn_earl_earl_danvorn
+    }
+}
+
+c_gasconade = { 
+	2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = miss_bertelsmeyer_fulton_fulton_bertelsmeyer
+        liege = d_north_ozarks    
+    }
+}
+
+c_poplar_bluff = { 
+	2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = miss_plumbum_priscilla_priscilla_plumbum
+        liege = d_north_ozarks    
+    }
+}
+
+c_shannon = { 
+	2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = character_c_shannon
+        liege = d_north_ozarks    
+    }
+}

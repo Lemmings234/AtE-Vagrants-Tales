@@ -1,0 +1,2275 @@
+#e_thunderland
+#k_saskatchewan
+#d_regina
+#c_wascana
+#b_ca_sk_regina
+2152 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_fort_qu_appelle
+2151 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_regina_beach
+2150 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_kronau
+2154 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_arlington_beach
+2153 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_moose_jaw
+#b_ca_sk_moose_jaw
+4335 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_claybank
+4334 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_valjean
+4336 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_trewdale
+4337 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_estevan
+#b_ca_sk_estevan
+4009 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_oxbow
+4010 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_north_weyburn
+4008 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_weyburn
+#b_ca_sk_weyburn
+341 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_crosby
+342 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_gladmar
+343 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_kandahar
+#b_ca_sk_wynyard
+5975 = {
+	culture = oji_cree
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_pasqua_lake
+5976 = {
+	culture = oji_cree
+	religion = real_road
+	holding = city_holding
+}
+#b_ca_sk_zala
+5974 = {
+	culture = oji_cree
+	religion = real_road
+	holding = church_holding
+}
+#d_saskatoon
+#c_saskatoon
+#b_ca_sk_saskatoon
+6157 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_delisle
+6159 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_davidson
+1638 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_beaver_creek
+6158 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_whitecap
+6155 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_kindersley
+#b_ca_sk_kindersley
+1006 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_hitchcock_bay
+1004 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_eston
+1005 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_st_andrews
+#b_ca_sk_rosetown
+6293 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_biggar
+6295 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_kerrobert
+6294 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_battle_river
+#b_ca_sk_unity
+171 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_macklin
+170 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_cando
+173 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#d_north_saskatchewan
+#c_cold_lake
+#b_ca_ab_grand_centre
+2772 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_ab_bonnyville
+2773 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_lloydminster
+#b_ca_ab_lloydminster
+5847 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_delmas
+5848 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_tangleflags
+5849 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#c_north_battleford
+#b_ca_sk_north_battleford
+4307 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = castle_holding
+}
+#b_ca_sk_mayfair
+4305 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = city_holding
+}
+#b_ca_sk_spruce_bay
+4306 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = church_holding
+}
+#c_rosthern
+#b_ca_sk_rosthern
+4096 = {
+	culture = plains_cree
+	religion = mennonite
+	holding = tribal_holding
+}
+#b_ca_sk_shellbrook
+4097 = {
+	culture = plains_cree
+	religion = mennonite
+	holding = none
+}
+#b_ca_sk_pelican_cove
+4095 = {
+	culture = plains_cree
+	religion = mennonite
+	holding = none
+}
+#c_st_walburg
+#b_ca_sk_sunset_view_beach
+8746 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_spruce_lake
+8747 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_whelan
+8745 = {
+	culture = plains_cree
+	religion = sun_dance
+	holding = none
+}
+#d_cannington
+#c_orkney
+#b_ca_sk_yorkton
+3011 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_melville
+3012 = {
+	culture = preiryansky
+	religion = real_road
+	holding = city_holding
+}
+#b_ca_sk_esterhazy
+3013 = {
+	culture = preiryansky
+	religion = real_road
+	holding = church_holding
+}
+#b_ca_sk_theodore
+3010 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#c_virden
+#b_ca_mb_virden
+7525 = {
+	culture = dakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_moosomin
+7526 = {
+	culture = dakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_mb_melita
+7524 = {
+	culture = dakota
+	religion = sun_dance
+	holding = none
+}
+#c_carlyle
+#b_ca_sk_grenfell
+5982 = {
+	culture = dakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_carlyle
+5981 = {
+	culture = dakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_carnduff
+5983 = {
+	culture = dakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_langbank
+5980 = {
+	culture = dakota
+	religion = sun_dance
+	holding = none
+}
+#d_black_earth
+#c_humboldt
+#b_ca_sk_humboldt
+441 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_watrous
+442 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_lanigan
+440 = {
+	culture = preiryansky
+	religion = real_road
+	holding = church_holding
+}
+#c_melfort
+#b_ca_sk_melfort
+690 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_sk_birch_hills
+689 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = none
+}
+#b_ca_sk_st_isidore_de_bellevue
+688 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = none
+}
+#c_doghide
+#b_ca_sk_tisdale
+9402 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_wadena
+9403 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_kelvington
+9401 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#c_canora
+#b_ca_sk_canora
+8454 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_sk_kamsack
+8457 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_thunder_hill
+8456 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#d_assiniboia
+#c_swift_current
+#b_ca_sk_swift_current
+6635 = {
+	culture = prairielander
+	religion = saurian
+	holding = tribal_holding
+}
+#b_ca_sk_gull_lake
+6633 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_sk_surprise
+6634 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_gravelbourg
+#b_ca_sk_assiniboia
+921 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_sk_woodrow
+920 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_viceroy
+919 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_shaunavon
+#b_ca_sk_shaunavon
+528 = {
+	culture = prairielander
+	religion = saurian
+	holding = tribal_holding
+}
+#b_ca_sk_aneroid
+529 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_robsart
+527 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_caldwell
+526 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#k_alberta
+#d_ca_ab_calgary
+#c_calgary
+#b_ca_ab_calgary
+1921 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = tribal_holding
+}
+#b_ca_ab_airdrie
+1925 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = none
+}
+#b_ca_ab_okotoks
+1926 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = none
+}
+#b_ca_ab_chestermere
+1922 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = none
+}
+#b_ca_ab_didsbury
+1924 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = none
+}
+#b_ca_ab_westcott
+1923 = {
+	culture = prairielander
+	religion = ahmadiyya
+	holding = none
+}
+#c_red_deer
+#b_ca_ab_red_deer
+1915 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_lacombe
+1914 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_olds
+1917 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_sylvan_lake
+1916 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_newell
+#b_ca_ab_brooks
+5356 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_strathmore
+5354 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_bassano
+5355 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+# c_foothills
+6699 = {	#Lyndon
+	culture = prairielander
+	religion = woolleyite
+	holding = none
+}
+6700 = {	#High River
+	culture = prairielander
+	religion = woolleyite
+	holding = tribal_holding
+}
+6701 = {	#Claresholm
+	culture = prairielander
+	religion = woolleyite
+	holding = none
+}
+#c_hoodoo
+#b_ca_ab_drumheller
+7629 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_three_hills
+7630 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_watts
+7628 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_taber
+#b_ca_ab_vauxhall
+7068 = {
+	culture = prairielander
+	religion = mormon
+	holding = tribal_holding
+}
+#b_ca_ab_vulcan
+7069 = {
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+#b_ca_ab_siksika
+7070 = {
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+#d_edmonton
+#c_edmonton
+#b_ca_ab_edmonton
+8918 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = tribal_holding
+	1908.3.17 = {
+		special_building_slot = generic_university
+	}
+}
+#b_ca_ab_sherwood_park
+8917 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#b_ca_ab_beaumont
+8919 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#b_ca_ab_morinville
+8920 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#b_ca_ab_duffield
+8921 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#c_leduc
+#b_ca_ab_drayton_valley
+2449 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_leduc
+2446 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_rimbey
+2448 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_winfield
+2447 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_camrose
+#b_ca_ab_camrose
+1486 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_tofield
+1483 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_killam
+1485 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_viking
+1484 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_minburn
+#b_ca_ab_vegreville
+3437 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_vermilion
+3436 = {
+	culture = preiryansky
+	religion = real_road
+	holding = city_holding
+}
+#b_ca_ab_lamont
+3438 = {
+	culture = preiryansky
+	religion = real_road
+	holding = church_holding
+}
+#c_athabasca
+#b_ca_ab_westlock
+3026 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = tribal_holding
+}
+#b_ca_ab_athabasca
+3024 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#b_ca_ab_jarvie
+3025 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#c_st_paul
+#b_ca_ab_st_paul
+753 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_ab_smoky_lake
+754 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#d_palliser
+#c_lethbridge
+#b_ca_ab_lethbridge
+384 = {
+	culture = prairielander
+	religion = mormon
+	holding = tribal_holding
+}
+#b_ca_ab_coalhurst
+382 = {
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+#b_ca_ab_raymond
+383 = {
+	culture = prairielander
+	religion = mormon
+	holding = none
+}
+#c_medicine_hat
+#b_ca_ab_medicine_hat
+8544 = {
+	culture = prairielander
+	religion = saurian
+	holding = tribal_holding
+}
+#b_ca_ab_bow_island
+8543 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_schuler
+8546 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_pakowki
+8542 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+## c_cardston
+4030 = {	#Pincher Creek
+	culture = blackfoot
+	religion = woolleyite
+	holding = none
+}
+4031 = {	#Fort Macleod
+	culture = blackfoot
+	religion = woolleyite
+	holding = none
+}
+4032 = {	#Cardston
+	culture = blackfoot
+	religion = woolleyite
+	holding = tribal_holding
+}
+#c_cypress_hills
+#b_ca_sk_maple_creek
+7595 = {
+	culture = prairielander
+	religion = saurian
+	holding = tribal_holding
+}
+#b_ca_ab_elkwater
+7596 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#b_ca_sk_stone
+7597 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#b_ca_ab_wild_horse
+7598 = {
+	culture = prairielander
+	religion = sun_dance
+	holding = none
+}
+#d_upper_athabasca
+#c_yellowhead
+#b_ca_ab_hinton
+7483 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_edson
+7481 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_weald
+7482 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_ste_anne
+#b_ca_ab_whitecourt
+8474 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = tribal_holding
+}
+#b_ca_ab_barrhead
+8472 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#b_ca_ab_mayerthorpe
+8473 = {
+	culture = prairielander
+	religion = soiltapper
+	holding = none
+}
+#c_clearwater
+#b_ca_ab_rocky_mountain_house
+5342 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_limestone_mountain
+5340 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_ullin
+5341 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#d_chinook
+#c_wainwright
+#b_ca_ab_wainwright
+5642 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_throne
+5640 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_tinchebray
+5641 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_stettler
+#b_ca_ab_stettler
+9216 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_scollard
+9217 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_hanna
+#b_ca_ab_hanna
+9576 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_wardlow
+9575 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_sharrow
+9577 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#c_oyen
+#b_ca_ab_acadia_valley
+1186 = {
+	culture = prairielander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_ab_bodo
+1187 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#b_ca_ab_youngstown
+1185 = {
+	culture = prairielander
+	religion = real_road
+	holding = none
+}
+#k_the_dakotas
+#d_coteau_des_prairies
+#c_minnehaha
+#b_us_sd_sioux_falls
+2939 = {
+	culture = heartlander
+	religion = lutheran
+	holding = castle_holding
+}
+#b_us_sd_vermillion
+2940 = {
+	culture = heartlander
+	religion = lutheran
+	holding = city_holding
+}
+#b_us_sd_salem
+2941 = {
+	culture = heartlander
+	religion = lutheran
+	holding = church_holding
+}
+#c_aberdeen
+#b_us_sd_aberdeen
+5783 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_huron
+5782 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_groton
+5781 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = none
+}
+#c_brookings
+#b_us_sd_brookings
+5364 = {
+	culture = heartlander
+	religion = lutheran
+	holding = tribal_holding
+}
+#b_us_sd_madison
+5365 = {
+	culture = heartlander
+	religion = lutheran
+	holding = city_holding
+}
+#b_us_sd_milbank
+5363 = {
+	culture = heartlander
+	religion = lutheran
+	holding = church_holding
+}
+#c_kampeska
+#b_us_sd_watertown
+3021 = {
+	culture = heartlander
+	religion = lutheran
+	holding = tribal_holding
+}
+#b_us_sd_de_smet
+3022 = {
+	culture = heartlander
+	religion = lutheran
+	holding = city_holding
+}
+#b_us_sd_iroquois
+3023 = {
+	culture = heartlander
+	religion = lutheran
+	holding = church_holding
+}
+#c_lake_traverse
+#b_us_nd_wahpeton
+389 = {
+	culture = dakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_nd_lisbon
+387 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_webster
+388 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#d_black_hills
+#c_rapid_city
+#b_us_sd_rapid_city
+4631 = {
+	culture = lakota
+	religion = fire_cross
+	holding = tribal_holding
+	1941.1.1 = {
+		special_building = mount_rushmore
+	}
+}
+#b_us_sd_lead
+4629 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_hot_springs
+4630 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#c_badlands
+#b_us_sd_martin
+8240 = {
+	culture = lakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_pine_ridge
+8238 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_wall
+8239 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#c_weston
+#b_us_wy_newcastle
+2158 = {
+	culture = coloradan
+	religion = real_road
+	holding = tribal_holding
+}
+#b_us_wy_wright
+2159 = {
+	culture = mountainer
+	religion = real_road
+	holding = none
+}
+#b_us_wy_sundance
+2160 = {
+	culture = mountainer
+	religion = real_road
+	holding = church_holding
+	1893.04.06 = {
+		special_building = wonder_devils_tower
+	}
+}
+#c_belle_fourche
+#b_us_sd_newell
+5573 = {
+	culture = lakota
+	religion = real_road
+	holding = tribal_holding
+}
+#b_us_sd_buffalo
+5572 = {
+	culture = lakota
+	religion = real_road
+	holding = none
+}
+#b_us_sd_white_owl
+5571 = {
+	culture = lakota
+	religion = real_road
+	holding = none
+}
+#d_north_dakota
+#c_bismarck
+#b_us_nd_bismarck
+5297 = {
+	culture = northlander
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_nd_underwood
+5298 = {
+	culture = northlander
+	religion = fire_cross
+	holding = none
+}
+#b_us_nd_wilton
+5299 = {
+	culture = northlander
+	religion = fire_cross
+	holding = none
+}
+#c_stark
+#b_us_nd_dickinson
+9117 = {
+	culture = badlander
+	religion = real_road
+	holding = tribal_holding
+}
+#b_us_nd_beulah
+9119 = {
+	culture = badlander
+	religion = real_road
+	holding = none
+}
+#b_us_nd_hebron
+9118 = {
+	culture = badlander
+	religion = real_road
+	holding = none
+}
+#c_standing_rock
+#b_us_nd_mandan
+4159 = {
+	culture = lakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_cannon_ball
+4158 = {
+	culture = lakota
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_mott
+4157 = {
+	culture = lakota
+	religion = sun_dance
+	holding = none
+}
+#c_walworth
+#b_us_sd_eureka
+7680 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_nd_wishek
+7679 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = city_holding
+}
+#b_us_nd_linton
+7681 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = church_holding
+}
+#c_bowman
+#b_us_nd_hettinger
+6751 = {
+	culture = cowbohemian
+	religion = real_road
+	holding = tribal_holding
+}
+#b_us_nd_bowman
+6750 = {
+	culture = cowbohemian
+	religion = real_road
+	holding = none
+}
+#b_us_sd_lemmon
+6749 = {
+	culture = cowbohemian
+	religion = real_road
+	holding = none
+}
+#d_fort_berthold
+#c_renville
+#b_us_nd_mohall
+973 = {
+	culture = northlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_glenburn
+974 = {
+	culture = northlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_westhope
+972 = {
+	culture = northlander
+	religion = sun_dance
+	holding = none
+}
+#c_williston
+#b_us_nd_williston
+1331 = {
+	culture = badlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_sidney
+1330 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_beach
+1329 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#c_mountrail
+#b_us_nd_stanley
+9316 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_garrison
+9315 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_powers_lake
+9314 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = none
+}
+#c_minot
+#b_us_nd_minot
+3934 = {
+	culture = northlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_kenmare
+3932 = {
+	culture = northlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_bowbells
+3933 = {
+	culture = northlander
+	religion = sun_dance
+	holding = none
+}
+#c_little_missouri
+#b_us_nd_tioga
+990 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_nd_mandaree
+992 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_grenora
+991 = {
+	culture = mandaree
+	religion = sun_dance
+	holding = none
+}
+#d_south_dakota
+#c_yankton
+#b_us_sd_yankton
+6364 = {
+	culture = dakota
+	religion = lutheran
+	holding = castle_holding
+}
+#b_us_sd_mitchell
+6366 = {
+	culture = dakota
+	religion = lutheran
+	holding = none
+}
+#b_us_sd_chamberlain
+6365 = {
+	culture = dakota
+	religion = lutheran
+	holding = none
+}
+#c_haakon
+#b_us_sd_lower_brule
+9594 = {
+	culture = lakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_hayes
+9595 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_philip
+9593 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#c_rosebud
+#b_us_ne_valentine
+7582 = {
+	culture = lakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_gregory
+7584 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_winner
+7583 = {
+	culture = lakota
+	religion = fire_cross
+	holding = none
+}
+#c_ziebach
+#b_us_sd_mobridge
+7365 = {
+	culture = lakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_sd_north_eagle_butte
+7366 = {
+	culture = lakota
+	religion = sun_dance
+	holding = none
+}
+#b_us_sd_dupree
+7364 = {
+	culture = lakota
+	religion = sun_dance
+	holding = none
+}
+#c_pierre
+#b_us_sd_pierre
+1425 = {
+	culture = dakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_miller
+1424 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_onida
+1426 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#c_potter
+#b_us_sd_gettysburg
+2369 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_sd_ipswich
+2368 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = none
+}
+#b_us_sd_roscoe
+2367 = {
+	culture = heartlander
+	religion = fire_cross
+	holding = none
+}
+#d_sheyenne
+#c_stutsman
+#b_us_nd_jamestown
+1473 = {
+	culture = northlander
+	religion = viking
+	holding = tribal_holding
+}
+#b_us_nd_napoleon
+1475 = {
+	culture = northlander
+	religion = viking
+	holding = none
+}
+#b_us_nd_medina
+1474 = {
+	culture = northlander
+	religion = viking
+	holding = none
+}
+#c_devils_lake
+#b_us_nd_devils_lake
+1859 = {
+	culture = dakota
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_nd_carrington
+1860 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#b_us_nd_sheyenne
+1858 = {
+	culture = dakota
+	religion = fire_cross
+	holding = none
+}
+#c_rolette
+#b_us_nd_rugby
+7147 = {
+	culture = metis
+	religion = fire_cross
+	holding = tribal_holding
+}
+#b_us_nd_cando
+7149 = {
+	culture = metis
+	religion = fire_cross
+	holding = none
+}
+#b_us_nd_harvey
+7148 = {
+	culture = metis
+	religion = fire_cross
+	holding = none
+}
+#c_barnes
+#b_us_nd_valley_city
+3516 = {
+	culture = northlander
+	religion = viking
+	holding = tribal_holding
+}
+#b_us_nd_oakes
+3514 = {
+	culture = northlander
+	religion = viking
+	holding = none
+}
+#b_us_nd_edgeley
+3515 = {
+	culture = northlander
+	religion = viking
+	holding = none
+}
+#k_manitoba
+#d_winnipeg
+#c_winnipeg
+#b_ca_mb_winnipeg
+1497 = {
+	culture = metis
+	religion = exovedate
+	holding = castle_holding
+}
+#b_ca_mb_selkirk
+1496 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_la_salle
+1494 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_stonewall
+1493 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_elie
+1495 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_pembina
+#b_ca_mb_winkler
+9282 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = tribal_holding
+}
+#b_ca_mb_manitou
+9283 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = none
+}
+#b_ca_mb_carman
+9281 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = none
+}
+#c_steinbach
+#b_ca_mb_steinbach
+2121 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = tribal_holding
+}
+#b_ca_mb_grunthal
+2122 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = none
+}
+#b_ca_mb_vita
+2120 = {
+	culture = plautsdeutsch
+	religion = hutterite
+	holding = none
+}
+#c_beausejour
+#b_ca_mb_beausejour
+3331 = {
+	culture = metis
+	religion = exovedate
+	holding = castle_holding
+}
+#b_ca_mb_lac_du_bonnet
+3333 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_seven_sisters_falls
+3332 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_whitemouth
+#b_us_mn_warroad
+6406 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_falcon_lake
+6405 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#d_parkland
+#c_brandon
+#b_ca_mb_brandon
+6716 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_mb_neepawa
+6717 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#b_ca_mb_rivers
+6714 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#b_ca_mb_shoal_lake
+6715 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#c_portage_la_prairie
+#b_ca_mb_portage_la_prairie
+3792 = {
+	culture = metis
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_mb_macgregor
+3793 = {
+	culture = metis
+	religion = real_road
+	holding = none
+}
+#b_ca_mb_mccreary
+3794 = {
+	culture = metis
+	religion = real_road
+	holding = none
+}
+#c_dauphin
+#b_ca_mb_dauphin
+2349 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_mb_camperville
+2348 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#b_ca_mb_weiden
+2350 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#c_turtle_mountain
+#b_ca_mb_killarney
+9085 = {
+	culture = metis
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_ca_mb_boissevain
+9086 = {
+	culture = metis
+	religion = sun_dance
+	holding = none
+}
+#b_us_nd_bottineau
+9087 = {
+	culture = metis
+	religion = sun_dance
+	holding = none
+}
+#c_swan_valley
+#b_ca_mb_swan_river
+186 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_sk_hudson_bay
+6816 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_whitmore
+187 = {
+	culture = preiryansky
+	religion = exovedate
+	holding = none
+}
+#c_roblin
+#b_ca_mb_russell
+8897 = {
+	culture = preiryansky
+	religion = real_road
+	holding = tribal_holding
+}
+#b_ca_mb_roblin
+8898 = {
+	culture = preiryansky
+	religion = real_road
+	holding = none
+}
+#c_red_lake
+#b_ca_on_red_lake
+1390 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_mb_pinawa
+1392 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_mb_bloodvein
+1391 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_mb_bissett
+1389 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#d_interlake
+#c_new_iceland
+#b_ca_mb_gimli
+5550 = {
+	culture = metis
+	religion = viking
+	holding = tribal_holding
+}
+#b_ca_mb_ashern
+5549 = {
+	culture = metis
+	religion = viking
+	holding = none
+}
+#b_ca_mb_lundar
+5548 = {
+	culture = metis
+	religion = viking
+	holding = none
+}
+#b_ca_mb_peguis
+5551 = {
+	culture = metis
+	religion = viking
+	holding = none
+}
+#c_skownan
+#b_ca_mb_waterhen
+2748 = {
+	culture = metis
+	religion = exovedate
+	holding = tribal_holding
+}
+#b_ca_mb_easterville
+2746 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#b_ca_mb_gypsumville
+2747 = {
+	culture = metis
+	religion = exovedate
+	holding = none
+}
+#c_poplar_river
+#b_ca_mb_berens_river
+2439 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_mb_poplar_river
+2437 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_mb_little_grand_rapids
+2438 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_on_pikangikum
+546 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#c_island_lake
+#b_ca_mb_garden_hill
+8175 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = tribal_holding
+}
+#b_ca_mb_red_sucker_lake
+8174 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_mb_st_theresa_point
+1799 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#b_ca_mb_wasagamack
+1027 = {
+	culture = oji_cree
+	religion = midewiwin
+	holding = none
+}
+#k_big_sky
+#d_eastern_montana
+#c_billings
+#b_us_mt_billings
+9076 = {
+	culture = badlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_lockwood
+9077 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_roundup
+9078 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#c_us_wy_sheridan
+#b_us_wy_sheridan
+7079 = {
+	culture = crow
+	religion = sun_dance
+	holding = castle_holding
+}
+#b_us_mt_crow_agency
+7081 = {
+	culture = crow
+	religion = sun_dance
+	holding = city_holding
+}
+#b_us_mt_busby
+7080 = {
+	culture = crow
+	religion = sun_dance
+	holding = church_holding
+}
+#c_makoshika
+#b_us_mt_glendive
+5773 = {
+	culture = badlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_circle
+5775 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_vida
+5774 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#c_armells
+#b_us_mt_colstrip
+4402 = {
+	culture = cheyenne
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_vananda
+4403 = {
+	culture = cheyenne
+	religion = sun_dance
+	holding = none
+}
+#c_garfield
+#b_us_mt_jordan
+1525 = {
+	culture = badlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_watson_flats
+1524 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_sheffield
+1526 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#d_western_montana
+#c_helena
+#b_us_mt_helena
+9337 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_townsend
+9341 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_three_forks
+9339 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_york
+9340 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_gallatin
+#b_us_mt_bozeman
+9338 = {
+	culture = mountainer
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_livingston
+6985 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_columbus
+6987 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#b_us_mt_big_timber
+6986 = {
+	culture = mountainer
+	religion = interranger
+	holding = none
+}
+#c_fergus
+#b_us_mt_lewistown
+660 = {
+	culture = badlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_stanford
+663 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#b_us_mt_denton
+662 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#b_us_mt_winnett
+661 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#c_lewis_and_clark
+#b_us_mt_harlowton
+4574 = {
+	culture = badlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_white_sulphur_springs
+4576 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#b_us_mt_neihart
+4575 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#d_hi_line
+#c_cascade
+#b_us_mt_great_falls
+1788 = {
+	culture = badlander
+	religion = interranger
+	holding = tribal_holding
+}
+#b_us_mt_malmstrom_air_force_base
+1789 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#b_us_mt_choteau
+1787 = {
+	culture = badlander
+	religion = interranger
+	holding = none
+}
+#c_chouteau
+#b_us_mt_cut_bank
+3598 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_shelby
+3597 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_fort_benton
+3596 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}
+#c_havre
+#b_us_mt_havre
+1290 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_big_sandy
+1291 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_chester
+1289 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}
+#d_powder_river
+#c_gillette
+#b_us_wy_gillette
+4533 = {
+	culture = crow
+	religion = real_road
+	holding = tribal_holding
+}
+#b_us_wy_buffalo
+4531 = {
+	culture = crow
+	religion = real_road
+	holding = none
+}
+#b_us_wy_moorcroft
+4532 = {
+	culture = crow
+	religion = real_road
+	holding = none
+}
+#c_custer
+#b_us_mt_miles_city
+2648 = {
+	culture = cheyenne
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_ashland
+2650 = {
+	culture = cheyenne
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_alzada
+2649 = {
+	culture = cheyenne
+	religion = sun_dance
+	holding = none
+}
+#c_fallon
+#b_us_mt_baker
+3838 = {
+	culture = badlander
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_wibaux
+3839 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_terry
+3840 = {
+	culture = badlander
+	religion = sun_dance
+	holding = none
+}
+#d_peck_lake
+#c_fort_belknap
+#b_us_mt_glasgow
+8964 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_fort_belknap_agency
+8965 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_saco
+8963 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_sheridan
+#b_us_mt_plentywood
+3567 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_culbertson
+3566 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_scobey
+3565 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_roosevelt
+#b_us_mt_wolf_point
+8973 = {
+	culture = nakota
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_frazer
+8972 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_opheim
+8974 = {
+	culture = nakota
+	religion = sun_dance
+	holding = none
+}
+#c_bowdoin
+#b_us_mt_malta
+4919 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = tribal_holding
+}
+#b_us_mt_harlem
+4920 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}
+#b_us_mt_zurich
+4918 = {
+	culture = blackfoot
+	religion = sun_dance
+	holding = none
+}

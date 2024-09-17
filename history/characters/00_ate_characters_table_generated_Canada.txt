@@ -1,0 +1,6498 @@
+﻿canada_castel_veronique_veronique = { # k_quebec
+	name = "V_e_act_ronique"
+	dynasty = dynn_canada_castel
+	dna = dna_canada_castel_veronique_veronique
+	female = yes
+	disallow_random_traits = yes
+	father = canada_castel_martin
+ 
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = sadistic
+	trait = lustful
+	trait = physique_good_1
+	
+	2568.3.11 = {
+		birth = yes
+	}
+	2580.5.15 = {	
+		add_spouse = canada_turcot_claude
+	}
+	2629.3.15 = {
+		death = "2629.3.15"
+	}
+}
+canada_ladouceur_denise_1 = { # Ursuline Abbesse General, k_ursuline_see
+	name = "Denise"
+	dynasty = dynn_canada_ladouceur
+	dna = dna_canada_ladouceur_denise_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = ursuline
+
+	trait = education_learning_4
+	trait = gregarious
+	trait = zealous
+	trait = stubborn
+	trait = holy_warrior
+	trait = poet
+	
+	2621.3.12 = {
+		birth = yes
+	}
+}
+canada_beaton_caitlin_beaton1 = { # k_maritimes
+	name = "Caitlin"
+	dynasty = dynn_canada_beaton
+	dna = dna_canada_beaton_caitlin_beaton1
+	female = yes
+	disallow_random_traits = yes
+	
+	culture = gaidheal
+	religion = remembrant
+	father=basil_beaton
+	mother=peggy_brothers
+
+	trait = education_diplomacy_4
+	trait = ambitious
+	trait = just
+	trait = generous
+	
+	2605.1.16 = {
+		birth = yes
+		learn_language = language_maritime
+		learn_language = language_acadien
+		learn_language = language_canadien
+		learn_language = language_abenaki
+		
+	}
+	2666.1.1 = {
+		give_nickname = nick_an_t_siorraidh
+	}
+}
+canada_beaton_daibhidh_beaton = { # caitlin's disinherited son
+	name="Daibhidh"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=canada_oulton_calum_beaton2
+	mother=canada_beaton_caitlin_beaton1
+
+	trait=education_stewardship_3
+	trait=stubborn
+	trait=temperate
+	trait=just
+	trait=hashishiyah
+	trait=disinherited
+
+	2646.3.16={birth=yes}
+}
+canada_beaton_huisdean_beaton = { # caitlin's triplet brother
+	name="H_u_grv_isdean"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=basil_beaton
+	mother=peggy_brothers
+
+	trait=education_martial_2
+	trait=brave
+	trait=stubborn
+	trait=generous
+	trait=twin
+	trait=disinherited
+
+	2612.4.24={birth=yes}
+	
+	2630.7.16 = {
+		add_spouse = canada_casey_cavendish
+	}
+	
+	2660.1.1={give_nickname=nick_the_red}
+}
+canada_beaton_dewi_beaton = { # caitlin's triplet brother
+	name="Dewi"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=basil_beaton
+	mother=peggy_brothers
+
+	trait=education_learning_2
+	trait=fickle
+	trait=diligent
+	trait=patient
+	trait=twin
+	trait=disinherited
+
+	2612.4.24={birth=yes}
+	2660.1.1={give_nickname=nick_the_blue}
+}
+
+canada_beaton_luthais_beaton = { # caitlin's triplet brother
+	name="Luthais"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture = gaidheal
+	religion = remembrant
+	father = basil_beaton
+	mother = peggy_brothers
+
+	trait = education_stewardship_2
+	trait = compassionate
+	trait = forgiving
+	trait = content
+	trait = twin
+	trait=disinherited
+
+	2612.4.24 = { 
+		birth = yes 
+	}
+	
+	2660.1.1 = { 
+		give_nickname = nick_the_green 
+	}
+}
+canada_beaton_dickie_beaton = { # caitlin's relative
+	name="Dickie"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=domhnall_beaton
+
+	trait=education_intrigue_4
+	trait=arbitrary
+	trait=deceitful
+	trait=callous
+	trait=schemer
+	trait=disloyal
+
+	2630.6.25={birth=yes}
+}
+canada_power_gordon_faydad = { # d_avalon
+	name = "Gorlois"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_martial_2
+	trait = content
+	trait = lustful
+	trait = arrogant
+	
+	2593.11.9 = {
+		birth = yes
+		
+	}
+	2649.1.1 = {
+		add_spouse = canada_pyke_isolda_faymom
+	}
+	2649.10.22 = {
+		death = "2649.10.22"
+	}
+}
+canada_van_koughnett_oliver_1 = { # d_trent
+	name = "Oliver"
+	dynasty = dynn_canada_van_koughnett
+	dna = dna_canada_van_koughnett_oliver_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_stewardship_3
+	trait = ambitious
+	trait = trusting
+	trait = generous
+	
+	2632.6.20 = {
+		birth = yes
+		add_pressed_claim = title:k_ontario
+	}
+}
+canada_dafoe_renee_1 = { # d_algonquin
+	name = "Renee"
+	dynasty = dynn_canada_dafoe
+	dna = dna_canada_dafoe_renee_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = tetramorphic
+
+	trait = education_diplomacy_1
+	trait = content
+	trait = compassionate
+	trait = patient
+	
+	2625.4.21 = {
+		birth = yes
+		add_pressed_claim = title:k_ontario
+	}
+}
+canada_esposito_robert_1 = { # d_algoma
+	name = "Robert"
+	dynasty = dynn_canada_esposito
+	dna = dna_canada_esposito_robert_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = lakeshore
+
+	trait = education_martial_3
+	trait = craven
+	trait = callous
+	trait = deceitful
+	
+	2624.1.25 = {
+		birth = yes
+		
+	}
+}
+canada_maki_lorne_1 = { # d_thunder
+	name = "Lorne"
+	dynasty = dynn_canada_maki
+	dna = dna_canada_maki_lorne_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = paracletian
+
+	trait = education_intrigue_4
+	trait = lustful
+	trait = content
+	trait = compassionate
+	
+	2640.12.23 = {
+		birth = yes
+		
+	}
+}
+canada_power_morgan_fay1 = { # d_avalon
+	name = "Morgan"
+	dynasty = dynn_canada_power
+	dna = dna_canada_power_morgan_fay1
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	trait = education_learning_4
+	trait = compassionate
+	trait = ambitious
+	trait = wrathful
+	trait = physique_good_3
+	trait = lifestyle_mystic
+	trait = witch
+	
+	2643.1.2 = {
+		birth = yes
+		
+	}
+	
+	2660.1.1 = {
+		add_spouse = canada_benoit_claude_fay2
+		give_nickname = nick_le_fay
+	}
+}
+canada_cavendish_grannd_1 = { # d_prince_edward_island
+	name = "George"
+	dynasty = dynn_canada_cavendish
+	dna = dna_canada_cavendish_grannd_1
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = gaidheal
+	religion = remembrant
+	father = canada_cavendish_franklin
+
+	trait = education_stewardship_3
+	trait = stubborn
+	trait = diligent
+	trait = wrathful
+	trait = lifestyle_blademaster
+	trait = depressed_1
+	trait = reclusive
+	trait = drunkard
+	
+	2613.10.25 = {
+		birth = yes
+		
+	}
+	
+	2659.10.25 = {
+		give_nickname = nick_the_whiskey_dragon
+		add_spouse = lexy_yakimchuk
+		effect = {
+			create_alliance = { # By marriage of sister
+				target = character:canada_beaton_caitlin_beaton1
+				allied_through_owner = ROOT 
+				allied_through_target = character:canada_beaton_caitlin_beaton1
+			}
+		
+			character:canada_beaton_caitlin_beaton1 = {
+				add_opinion = {
+					target = ROOT
+					modifier = perk_negotiated_alliance_opinion
+				}
+			}
+		}
+	}
+}
+
+lexy_yakimchuk = {
+	name = "Lexy"
+	female = yes
+	culture = maritimer
+	religion = remembrant
+	
+	2613.11.2 = {
+		birth = yes
+	}
+	2659.10.25 = {
+		add_spouse = canada_cavendish_grannd_1
+	}
+}
+
+canada_cavendish_franklin = {
+	name = "Franklin"
+	female = no
+	dynasty = dynn_canada_cavendish
+	culture = maritimer
+	religion = remembrant
+	
+	2580.1.21 = {
+		birth = yes
+	}
+	
+	2625.9.16 = {
+		death = yes
+	}
+
+}
+
+edward_cavendish = {
+	name = "Edward"
+	dynasty = dynn_canada_cavendish
+	dna = dna_canada_cavendish_grannd_1
+	female = no
+	disallow_random_traits = yes
+	culture = gaidheal
+	religion = remembrant
+	father = canada_cavendish_grannd_1
+	mother = lexy_yakimchuk
+
+	trait = education_martial_4
+	trait = temperate
+	trait = compassionate
+	trait = brave
+	trait = intellect_good_1
+	trait = lifestyle_blademaster
+	trait = wounded_3
+	
+	2633.10.25 = {
+		birth = yes
+	}
+	
+	2657.10.25 = {
+		give_nickname = nick_the_sword
+	}
+	2658.4.8 = {
+		death = { death_reason = death_wounded_3 }
+	}
+}
+
+canada_casey_cavendish = {
+	name = "Casey"
+	dynasty = dynn_canada_cavendish
+	female = yes
+	disallow_random_traits = no
+	culture = gaidheal
+	religion = remembrant
+	father = canada_cavendish_franklin
+
+	trait = education_stewardship_2
+	trait = stubborn
+	trait = trusting
+	trait = content
+	trait = drunkard
+	
+	2617.8.7 = {
+		birth = yes
+	}
+	
+	2630.7.16 = {
+		add_spouse = canada_beaton_huisdean_beaton
+	}
+}
+
+iomhair_cavendish = {
+	name = "Iomhair"
+	dynasty = dynn_canada_cavendish
+	dna = dna_canada_cavendish_grannd_1
+	female = no
+	disallow_random_traits = yes
+	culture = gaidheal
+	religion = remembrant
+	father = canada_cavendish_grannd_1
+	mother = lexy_yakimchuk
+
+	trait = education_learning_1
+	trait = lazy
+	trait = ambitious
+	trait = craven
+	trait = intellect_bad_2
+	
+	2642.10.25 = {
+		birth = yes
+	}
+	
+	2657.10.25 = {
+		give_nickname = nick_the_mace
+	}
+	
+	2660.2.1 = {
+		character:iomhair_cavendish = { create_betrothal = character:canada_irving_wren_1 }
+	}
+	
+}
+
+
+
+canada_de_l_anse_denis_1 = { # d_saguenay
+	name = "Denis"
+	dynasty = dynn_canada_de_l_anse
+	dna = dna_canada_de_l_anse_denis_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_learning_3
+	trait = ambitious
+	trait = zealous
+	trait = generous
+	trait = poet
+	
+	2622.3.3 = {
+		birth = yes
+		
+	}
+}
+canada_mclaughlin_john_1 = { # d_new_brunswick
+	name = "John"
+	dynasty = dynn_canada_mclaughlin
+	dna = dna_canada_mclaughlin_john_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_martial_2
+	trait = zealous
+	trait = sadistic
+	trait = ambitious
+	trait = torturer
+	trait = strong
+	
+	2642.7.18 = {
+		birth = yes
+		
+	}
+}
+canada_corbeau_jacques_1 = { # d_miramichi
+	name = "Judica_e_uml_l"
+	dynasty = dynn_canada_corbeau
+	dna = dna_canada_corbeau_jacques_1
+	female = no
+	disallow_random_traits = yes
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_corbeau_matthias
+
+	trait = education_martial_4
+	trait = zealous
+	trait = just
+	trait = vengeful
+	trait = physique_good_2
+	
+	2644.1.17 = {
+		birth = yes
+		
+	}
+	
+	2659.2.4 = {
+		effect = {
+			set_relation_lover = character:canada_maclellan_ena_1
+		}
+	}
+	
+	2664.1.17 = {
+		give_nickname = nick_marteau
+		effect = {
+			set_relation_nemesis = character:canada_maclellan_ena_1
+			set_relation_rival = character:canada_leblanc_garibald_1
+			set_relation_friend = character:canada_barrett_sidney_1
+			
+			create_alliance = { # By marriage to brother
+				target = character:canada_lescarbot_hermenegilde_1
+				allied_through_owner = ROOT 
+				allied_through_target = character:canada_lescarbot_hermenegilde_1 
+			}
+			
+			create_alliance = { # By sibling
+				target = character:canada_corbeau_simeon_1
+				allied_through_owner = ROOT 
+				allied_through_target = character:canada_corbeau_simeon_1 
+			}
+			
+			character:canada_lescarbot_hermenegilde_1 = {
+				add_opinion = {
+					target = ROOT
+					modifier = perk_negotiated_alliance_opinion
+				}
+			}
+			
+			character:canada_corbeau_simeon_1 = {
+				add_opinion = {
+					target = ROOT
+					modifier = perk_negotiated_alliance_opinion
+				}
+			}
+		}
+	}
+}
+
+canada_corbeau_lazare = {
+	name = "Lazare"
+	dynasty = dynn_canada_corbeau
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_corbeau_matthias
+	
+	trait = education_martial_2
+	trait = wrathful
+	trait = diligent
+	trait = impatient
+	trait = physique_good_1
+	trait = forest_fighter
+	
+	2645.5.25 = {
+		birth = yes
+		
+	}
+	
+	2661.5.13 = {
+		add_spouse = canada_belliveau_gabriel_1
+	}
+}
+
+canada_corbeau_nathanael = {
+	name = "Nathanael"
+	dynasty = dynn_canada_corbeau
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_corbeau_matthias
+	
+	trait = education_diplomacy_3
+	trait = craven
+	trait = generous
+	trait = just
+	trait = physique_good_2
+	
+	2647.10.30 = {
+		birth = yes
+	}
+	
+	2664.2.1 = {
+		character:canada_corbeau_nathanael = { create_betrothal = character:canada_lescarbot_clemence_1 }
+	}
+}
+
+canada_corbeau_jean = {
+	name = "Jean"
+	dynasty = dynn_canada_corbeau
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_corbeau_matthias
+	
+	trait = education_intrigue_2
+	trait = forgiving
+	trait = deceitful
+	trait = paranoid
+	
+	2643.2.14 = {
+		birth = yes
+		
+	}
+}
+
+canada_corbeau_matthias = {
+	name = "Matthias"
+	dynasty = dynn_canada_corbeau
+	female = no
+	
+	culture = acadien
+	religion = mervivant
+	
+	
+	2604.1.5 = {
+		birth = yes
+		
+	}
+	2664.3.17 = {
+		death = yes
+	}
+}
+
+canada_grandjambe_gordon_1 = { # d_nelson
+	name = "Gordon"
+	dynasty = dynn_canada_grandjambe
+	female = no
+	disallow_random_traits = yes
+	
+	culture = woodland_cree
+	religion = exovedate
+
+	trait = education_stewardship_2
+	trait = sadistic
+	trait = patient
+	trait = gluttonous
+	
+	2643.4.12 = {
+		birth = yes
+		
+	}
+}
+
+canada_bouchier_pierre = { # c_cochrane_river
+	name = "Pierre"
+	dynasty = dynn_Bouchier
+	female = no
+	disallow_random_traits = yes
+
+	culture = denesuline
+	religion = exovedate
+
+	trait = education_learning_2
+	trait = compassionate
+	trait = impatient
+	trait = lifestyle_physician
+
+	2629.8.15 = {
+		birth = yes
+	}
+}
+
+canada_quequeish_nagamo_1 = { # d_keewatin
+	name = "Nagamo"
+	dynasty = dynn_canada_quequeish
+	female = no
+	disallow_random_traits = no
+	
+	culture = oji_cree
+	religion = midewiwin
+
+	trait = education_intrigue_4
+	trait = callous
+	trait = wrathful
+	trait = ambitious
+	
+	2634.4.3 = {
+		birth = yes
+		
+	}
+}
+canada_longboat_onondeyoh_1 = { # d_grand_river
+	name = "Onondeyoh"
+	dynasty = dynn_canada_longboat
+	female = no
+	disallow_random_traits = no
+	
+	culture = haudenosaunee
+	religion = gaiwiio
+
+	trait = education_martial_2
+	trait = brave
+	trait = honest
+	trait = ambitious
+	trait = giant
+	
+	2638.10.25 = {
+		birth = yes
+		
+	}
+}
+canada_turcot_roland_montreal_duke_dad = { # Duke of Montreal, d_montreal
+	name = "Roland"
+	dynasty = dynn_canada_turcot
+	dna = dna_canada_turcot_roland_montreal_duke_dad
+	female = no
+	disallow_random_traits = no
+	mother = canada_turcot_genevieve_ottawagrandma
+	
+	culture = montrealais
+	religion = tranquillism
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = patient
+	trait = calm
+	trait = lifestyle_blademaster
+	
+	
+	2611.3.9 = {
+		birth = yes
+		add_pressed_claim = title:k_lower_quebec
+	}
+	
+	2645.1.1 = {
+		effect = { 
+			add_opinion = {
+				target = character:canada_chapdelaine_stephanie_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			set_relation_rival = { target = character:canada_chapdelaine_stephanie_1 reason = rival_historical}
+		}
+		effect = { 
+			add_opinion = {
+				target = character:canada_castel_paul_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			# set_relation_rival = { target = character:canada_castel_paul_1 reason = rival_historical}
+		}
+	
+	}
+	
+	2666.1.1 = {
+		
+	}
+}
+canada_maclellan_ena_1 = { # d_north_shore
+	name = "Buaidheach"
+	dynasty = dynn_macgilleain
+	dna = dna_canada_maclellan_ena_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	mother = canada_macgilleain_margaret_1
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = just
+	trait = zealous
+	trait = lifestyle_hunter
+	trait = possessed_genetic
+	
+	2666.1.1 = {
+		give_nickname = nick_de_na_brosnachadh-catha
+	}
+
+	2643.12.24 = {
+		birth = yes
+		
+	}
+	
+	2645.6.21 = {
+		add_spouse = canada_leblanc_romeo_1
+	}
+	
+	2659.7.8 = {
+		effect = {
+			set_relation_friend = character:canada_leblanc_romeo_1
+		}
+	}
+	
+	2665.7.12 = {
+		create_alliance = { # By marriage of mother
+			target = character:canada_macneil_daibhidh_1
+			allied_through_owner = ROOT 
+			allied_through_target = character:canada_macneil_daibhidh_1
+		}
+		
+		character:canada_macneil_daibhidh_1 = {
+			add_opinion = {
+				target = ROOT
+				modifier = perk_negotiated_alliance_opinion
+			}
+		}
+		
+		create_alliance = { # By marriage of sister
+			target = character:canada_beaton_caitlin_beaton1
+			allied_through_owner = ROOT 
+			allied_through_target = character:canada_beaton_caitlin_beaton1
+		}
+		
+		character:canada_beaton_caitlin_beaton1 = {
+			add_opinion = {
+				target = ROOT
+				modifier = perk_negotiated_alliance_opinion
+			}
+		}
+	}
+}
+
+canada_macgilleain_rhiannon_1 = { # daughter of Buaidheach and canada_corbeau_jacques_1
+	name = "Rhiannon"
+	dynasty = dynn_macgilleain
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	father = canada_leblanc_romeo_1
+	mother = canada_maclellan_ena_1
+
+	trait = charming
+	trait = physique_good_2
+
+
+	2662.3.3 = {
+		birth = yes
+		
+		#effect = { ## Figure out how to make this guy the real father
+		#		set_real_father = canada_corbeau_jacques_1
+		#}
+	}
+}
+
+canada_macgilleain_margaret_1 = { 
+	name = "Margaret"
+	dynasty = dynn_macgilleain
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+
+	trait = education_stewardship_2
+	trait = sadistic
+	trait = stubborn
+	trait = temperate
+	trait = possessed_genetic
+
+	2627.1.18 = {
+		birth = yes
+	}
+	
+	2655.10.12 = {
+		add_spouse = canada_macneil_daibhidh_1
+	}
+}
+
+canada_macgilleain_sam_1 = { 
+	name = "Sam"
+	dynasty = dynn_macgilleain
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	mother = canada_macgilleain_margaret_1
+
+	trait = education_diplomacy_3
+	trait = shy
+	trait = generous
+	trait = honest
+	trait = lifestyle_traveler
+
+	2645.4.23 = {
+		birth = yes
+	}
+	
+	2660.11.24 = {
+		add_spouse = canada_beaton_aonghas_beaton_child5
+	}
+}
+
+
+canada_blanchet_jacques_jacques_duke = { # d_gaspesia
+	name = "Jacques"
+	dynasty_house = house_canada_castel_blanchet
+	mother = canada_castel_veronique_veronique
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_stewardship_3
+	trait = content
+	trait = calm
+	trait = diligent
+	trait = bastard_founder
+	
+	2589.10.7 = {
+		birth = yes
+		
+	}
+	2664.12.29 = {
+		death = "2664.12.29"
+	}
+}
+canada_yonge_morley_1 = { # d_greater_toronto
+	name = "Morley"
+	dynasty = dynn_canada_on_Yongest
+	dna = dna_canada_yonge_morley_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = united_church
+
+	trait = education_stewardship_3
+	trait = brave
+	trait = just
+	trait = zealous
+	
+	2640.11.3 = {
+		birth = yes
+		add_pressed_claim = title:k_ontario
+		
+		
+	}
+	2645.1.1 = {
+		effect = { 
+			add_opinion = {
+				target = character:canada_singh_robertson_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			# set_relation_rival = { target = character:canada_singh_robertson_1 reason = rival_historical}
+		}
+	}
+	2666.7.4 = {
+		add_gold = 200
+		add_prestige = 2000 # Rich and prestigious
+	}
+}
+canada_bourassa_louise_1 = { # d_outaouais
+	name = "Louise"
+	dynasty = dynn_canada_bourassa
+	dna = dna_canada_bourassa_louise_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = tranquillism
+
+	trait = education_martial_2
+	trait = cynical
+	trait = stubborn
+	trait = gregarious
+	
+	2631.11.1 = {
+		birth = yes
+
+		
+		
+	}
+}
+canada_neeposh_rwapirt_1 = { # d_james_bay
+	name = "Rwapirt"
+	dynasty = dynn_canada_neeposh
+	dna = dna_canada_neeposh_rwapirt_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = east_cree
+	religion = midewiwin
+
+	trait = education_diplomacy_1
+	trait = callous
+	trait = forgiving
+	trait = stubborn
+	
+	2624.5.8 = {
+		birth = yes
+		
+	}
+}
+canada_vanier_abigail_1 = { # d_rideau
+	name = "Byette"
+	dynasty = dynn_canada_oranje_gatineau
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = tranquillism
+	father = canada_vanier_lester_ottawadad
+	mother = canada_macdonell_erin_ottawamom
+
+	trait = education_diplomacy_4
+	trait = content
+	trait = arrogant
+	trait = zealous
+	
+	2644.9.8 = {
+		birth = yes
+		
+	}
+}
+canada_vanier_eric_ottawagrandad = { # d_rideau
+	name = "Eric"
+	dynasty = dynn_canada_oranje_gatineau
+	dna = dna_canada_vanier_eric_ottawagrandad
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = ursuline
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = brave
+	trait = callous
+	
+	2603.10.13 = {
+		birth = yes
+		
+	}
+	2641.1.1 = {
+		
+	}
+	2641.2.12 = {
+		death = "2641.2.12"
+	}
+}
+canada_singh_robertson_1 = { # d_huronia
+	name = "Robertson"
+	dynasty = dynn_canada_singh
+	dna = dna_canada_singh_robertson_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = united_church
+
+	trait = education_stewardship_1
+	trait = gluttonous
+	trait = craven
+	trait = lazy
+	
+	2621.9.20 = {
+		birth = yes
+		add_pressed_claim = title:k_ontario
+	}
+	2640.1.1 = {
+		effect = { 
+			add_opinion = {
+				target = character:canada_yonge_morley_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			set_relation_rival = { target = character:canada_yonge_morley_1 reason = rival_historical }
+		}
+	}
+}
+canada_vanier_lester_ottawadad = { # d_rideau
+	name = "Lester"
+	dynasty = dynn_canada_oranje_gatineau
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = ursuline
+	father = canada_vanier_eric_ottawagrandad
+
+	trait = education_stewardship_2
+	trait = content
+	trait = chaste
+	trait = generous
+	
+	2605.1.12 = {
+		birth = yes
+		
+	}
+	2659.1.1 = {
+		add_spouse = canada_macdonell_erin_ottawamom
+	}
+	2659.7.19 = {
+		death = "2659.7.19"
+	}
+}
+canada_lagace_alexandra_1 = { # d_nickel_belt
+	name = "Alexandra"
+	dynasty = dynn_canada_lagace
+	dna = dna_canada_lagace_alexandra_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = ursuline
+
+	trait = education_diplomacy_1
+	trait = content
+	trait = humble
+	trait = shy
+	
+	2619.8.17 = {
+		birth = yes
+		
+	}
+}
+canada_des_pins_philomene_1 = { # d_clay_belt
+	name = "Philom_e_act_ne"
+	dynasty = dynn_canada_des_pins
+	dna = dna_canada_des_pins_philomene_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = promethean
+
+	
+	
+	2640.6.13 = {
+		birth = yes
+		
+	}
+}
+canada_bosum_roger_1 = { # d_eeyou_istchee
+	name = "Roger"
+	dynasty = dynn_canada_bosum
+	dna = dna_canada_bosum_roger_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = east_cree
+	religion = midewiwin
+
+	trait = education_martial_4
+	trait = craven
+	trait = ambitious
+	trait = wrathful
+	
+	2631.5.24 = {
+		birth = yes
+		
+	}
+}
+canada_loup_damien_1 = { # d_abitibi
+	name = "Damien"
+	dynasty = dynn_canada_loup
+	dna = dna_canada_loup_damien_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = ursuline
+
+	trait = education_learning_3
+	trait = cynical
+	trait = content
+	trait = patient
+	
+	2639.7.23 = {
+		birth = yes
+		
+	}
+}
+canada_bacon_florent_1 = { # d_sept_rivieres, c_sept_iles, c_outardes, c_haute_cote_nord, d_sept_rivieres
+	name = "Florent"
+	dynasty = dynn_canada_bacon
+	female = no
+	disallow_random_traits = no
+	father = canada_bacon_nicolas
+	culture = innu
+	religion = ursuline
+
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = ambitious
+	trait = compassionate
+	trait = poet
+	
+	2624.1.21 = {
+		birth = yes
+		
+	}
+}
+canada_chapdelaine_stephanie_1 = { # d_estrie
+	name = "St_e_act_phanie"
+	dynasty = dynn_canada_chapdelaine
+	dna = dna_canada_chapdelaine_stephanie_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_chapdelaine_roland_chapdelaine_dad
+
+	trait = education_diplomacy_3
+	trait = lustful
+	trait = zealous
+	trait = shy
+	trait = beauty_good_2
+	
+	2644.2.9 = {
+		birth = yes
+		
+	}
+	2645.1.1 = {
+		effect = { 
+			add_opinion = {
+				target = character:canada_castel_paul_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			# set_relation_rival = { target = character:canada_castel_paul_1 reason = rival_historical}
+		}
+		effect = { 
+			add_opinion = {
+				target = character:canada_turcot_roland_montreal_duke_dad
+				modifier = hate_opinion
+				opinion = -200
+			}
+			# set_relation_rival = { target = character:canada_turcot_roland_montreal_duke_dad reason = rival_historical}
+		}
+
+	}
+	2666.1.1 = {
+		add_matrilineal_spouse = canada_castel_henri_1
+	}
+}
+canada_casabien_jessica_1 = { # c_nipigon
+	name = "Jessica"
+	dynasty = dynn_canada_casabien
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = ojibwe
+	religion = midewiwin
+
+	trait = education_learning_4
+	trait = stubborn
+	trait = diligent
+	trait = callous
+	trait = witch
+	trait = lifestyle_hunter
+	
+	2648.9.6 = {
+		birth = yes
+		
+	}
+}
+
+canada_youngfox_stanley_1 = { # c_wawa
+	name = "Stanley"
+	dynasty = dynn_canada_youngfox
+	female = no
+	disallow_random_traits = no
+	
+	culture = ojibwe
+	religion = paracletian
+
+	trait = education_martial_2
+	trait = content
+	trait = just
+	trait = stubborn
+	trait = flagellant
+	
+	2610.8.22 = {
+		birth = yes
+		
+	}
+}
+canada_mccain_connor_1 = { # c_fredericton
+	name = "Connor"
+	dynasty = dynn_canada_mccain
+	dna = dna_canada_mccain_connor_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_diplomacy_3
+	trait = chaste
+	trait = patient
+	trait = arrogant
+	trait = beauty_bad_2
+	
+	2646.12.25 = {
+		birth = yes
+		
+	}
+}
+canada_whiskeychan_apetniku_1 = { # c_chisasibi
+	name = "Apetniku"
+	dynasty = dynn_canada_whiskeychan
+	female = no
+	disallow_random_traits = no
+	
+	culture = east_cree
+	religion = midewiwin
+
+	trait = education_martial_4
+	trait = chaste
+	trait = just
+	trait = cynical
+	
+	2622.9.22 = {
+		birth = yes
+		
+	}
+}
+canada_pegahmagabow_edaw_1 = { # c_manitoulin
+	name = "Edaw"
+	dynasty = dynn_canada_pegahmagabow
+	female = no
+	disallow_random_traits = no
+	
+	culture = ojibwe
+	religion = midewiwin
+
+	trait = education_stewardship_1
+	trait = ambitious
+	trait = gregarious
+	trait = fickle
+	
+	2644.8.25 = {
+		birth = yes
+		
+	}
+}
+canada_vautour_ours_fou_1 = { # c_thompson
+	name = "Ours-Fou"
+	dynasty = dynn_canada_vautour
+	female = no
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = just
+	trait = brave
+	trait = reaver
+	
+	2647.2.14 = {
+		birth = yes
+		
+	}
+}
+canada_fiddler_kinistin_1 = { # c_gods_lake
+	name = "Kinistin"
+	dynasty = dynn_canada_fiddler
+	female = no
+	disallow_random_traits = no
+	
+	culture = oji_cree
+	religion = midewiwin
+
+	trait = education_intrigue_4
+	trait = compassionate
+	trait = lustful
+	trait = zealous
+	trait = drunkard
+	
+	2635.3.21 = {
+		birth = yes
+		
+	}
+}
+canada_mercredi_chloe_1 = { # c_norway_house
+	name = "Chloe"
+	dynasty = dynn_canada_mercredi
+	female = yes
+	disallow_random_traits = no
+	
+	culture = metis
+	religion = exovedate
+
+	trait = education_diplomacy_2
+	trait = sadistic
+	trait = trusting
+	trait = just
+	
+	2642.1.26 = {
+		birth = yes
+		
+	}
+}
+canada_mckenna_steve_1 = { # c_mississagi
+	name = "Steve"
+	dynasty = dynn_canada_mckenna
+	dna = dna_canada_mckenna_steve_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = galvanist
+
+	trait = education_learning_3
+	trait = content
+	trait = diligent
+	trait = impatient
+	trait = shrewd
+	
+	2622.8.27 = {
+		birth = yes
+		
+	}
+}
+canada_corbeau_simeon_1 = { # c_northumberland
+	name = "Simeon"
+	dynasty = dynn_canada_corbeau
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_corbeau_matthias
+
+	trait = education_learning_3
+	trait = craven
+	trait = generous
+	trait = just
+	
+	2641.8.13 = {
+		birth = yes
+		
+	}
+}
+canada_barrett_sidney_1 = { # c_fundy
+	name = "Elcid"
+	dynasty = dynn_canada_barrett
+	dna = dna_canada_barrett_sidney_1
+	female = no
+	disallow_random_traits = yes
+	
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_diplomacy_2
+	trait = arrogant
+	trait = deceitful
+	trait = greedy
+	trait = drunkard
+	trait = reaver
+	trait = viking
+	trait = one_eyed
+	sexuality = heterosexual
+	
+	2628.3.11 = {
+		birth = yes
+	}
+	
+	2655.3.11 = {
+		give_nickname = nick_the_privateer
+	}
+}
+canada_detcheverry_laurent_1 = { # c_saint_pierre_and_miquelon
+	name = "Laurent"
+	dynasty = dynn_canada_detcheverry
+	dna = dna_canada_detcheverry_laurent_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = pierrais
+	religion = pelagic
+
+	trait = education_learning_2
+	trait = fickle
+	trait = arbitrary
+	trait = brave
+	
+	2622.7.18 = {
+		birth = yes
+		
+	}
+}
+canada_ledrew_jack_1 = { # c_corner_brook
+	name = "Jack"
+	dynasty = dynn_canada_ledrew
+	dna = dna_canada_ledrew_jack_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_martial_3
+	trait = ambitious
+	trait = craven
+	trait = just
+	
+	2631.9.6 = {
+		birth = yes
+		
+	}
+}
+canada_farwell_matthew_1 = { # c_grand_falls
+	name = "Matthew"
+	dynasty = dynn_canada_farwell
+	dna = dna_canada_farwell_matthew_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_learning_3
+	trait = stubborn
+	trait = diligent
+	trait = generous
+	
+	2611.3.25 = {
+		birth = yes
+		
+	}
+}
+canada_mercer_seamus_1 = { # c_burin
+	name = "Seamus"
+	dynasty = dynn_canada_mercer
+	dna = dna_canada_mercer_seamus_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_intrigue_2
+	trait = zealous
+	trait = humble
+	trait = deceitful
+	
+	2637.7.28 = {
+		birth = yes
+		
+	}
+}
+canada_murphy_myles_1 = { # c_bonavista
+	name = "Myles"
+	dynasty = dynn_canada_murphy
+	dna = dna_canada_murphy_myles_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_martial_1
+	trait = craven
+	trait = diligent
+	trait = fickle
+	
+	2634.12.11 = {
+		birth = yes
+		
+	}
+}
+canada_sanipass_taniel_1 = { # c_inverness + nnu_asutmamg HoF
+	name = "Daniel"
+	dynasty = dynn_canada_sanipass
+	dna = sanipass_daniel
+	female = no
+	disallow_random_traits = no
+	
+	culture = mikmaw
+	religion = nnu_asutmamg
+
+	trait = education_intrigue_4
+	trait = zealous
+	trait = ambitious
+	trait = vengeful
+	trait = lifestyle_herbalist
+	trait = medicine_man
+	trait=schemer
+	
+	2621.10.9 = {
+		birth = yes
+		
+	}
+	2666.1.1={give_nickname=nick_ice_heart}
+}
+canada_christmas_awokwejit_1={
+	name="Awo_pst_kwejit"
+	dynasty=dynn_canada_christmas
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+	mother=marie_antoinette_christmas
+
+	2600.4.1={birth=yes}
+}
+canada_macneil_daibhidh_1 = { # c_cumberland
+	name="Rocky"
+	dynasty=dynn_canada_ruddick
+	dna=dna_canada_beaton_bharraigh_beaton_child2
+
+	culture=maritimer
+	religion=remembrant
+
+	trait=education_diplomacy_3
+	trait=lustful
+	trait=brave
+	trait=gluttonous
+	trait=athletic
+	trait=scarred
+
+	2618.7.20={birth=yes}
+	2660.1.1={give_nickname=nick_the_diamond}
+	
+	2655.10.12 = {
+		add_spouse = canada_macgilleain_margaret_1
+	}
+	
+}
+canada_ruddick_callen = { 
+	name="Callen"
+	dynasty=dynn_canada_ruddick
+
+	culture=gaidheal
+	religion=remembrant
+	father=canada_macneil_daibhidh_1
+
+	trait=education_diplomacy_4
+	trait=gregarious
+	trait=brave
+	trait=humble
+	trait=strong
+
+	2646.11.20={birth=yes}
+}
+canada_beaton_irving_dougie_1={ #c_saint_john
+	name="Dougie"
+	dynasty_house=house_canada_beaton_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=douglas_b_i
+	mother=willow_b_i
+	
+	2628.8.13={birth=yes}
+}
+
+canada_sobey_eideard_1 = { # c_pictou
+	name = "Eideard"
+	dynasty = dynn_canada_sobey
+	dna = dna_canada_sobey_eideard_1
+	female = no
+	disallow_random_traits = yes
+	
+	culture = gaidheal
+	religion = pelagic
+
+	trait = bossy
+	trait = rowdy
+	trait = intellect_good_1
+	
+	2653.8.26 = {
+		birth = yes
+		
+	}
+	
+	2660.8.9 = {
+		effect = {
+			set_relation_bully = { target = character:canada_irving_wren_1 }
+			set_relation_crush = { target = character:canada_irving_victoria_1 }
+		}
+	}
+}
+
+canada_pagan_hector_1 = { # sobey regent
+	name = "Hector"
+	female = no
+	disallow_random_traits = yes
+	
+	culture = gaidheal
+	religion = pelagic
+
+	trait = education_stewardship_3
+	trait = zealous
+	trait = humble
+	trait = compassionate
+	
+	2628.5.2 = {
+		birth = yes
+		
+	}
+	
+	2653.8.28 = {
+		employer = canada_sobey_eideard_1
+		effect = {
+			set_relation_friend = { target = character:canada_macneil_daibhidh_1 }
+		}
+	}
+}
+
+canada_maillet_viola_1 = { # c_kent
+	name = "Viola"
+	dynasty = dynn_canada_maillet
+	dna = dna_canada_maillet_viola_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+
+	trait = education_learning_2
+	trait = just
+	trait = cynical
+	trait = chaste
+	trait = fecund
+	
+	2640.5.18 = {
+		birth = yes
+		
+	}
+}
+canada_sasakamoose_annie_1 = { # c_fort_severn
+	name = "Annie"
+	dynasty = dynn_canada_sasakamoose
+	female = yes
+	disallow_random_traits = yes
+	
+	culture = woodland_cree
+	religion = midewiwin
+
+	trait = education_learning_1
+	trait = fickle
+	trait = callous
+	trait = lustful
+	trait = beauty_good_2
+	
+	2629.9.22 = {
+		birth = yes
+		
+	}
+}
+canada_maltais_stephanie_1 = { # c_haute_cote_nord
+	name = "St_e_act_phanie"
+	dynasty = dynn_canada_maltais
+	dna = dna_canada_maltais_stephanie_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_stewardship_2
+	trait = lustful
+	trait = sadistic
+	trait = shy
+	trait = intellect_good_1
+	
+	2647.12.10 = {
+		birth = yes
+		
+	}
+}
+canada_belliveau_claude_1 = { # c_carleton
+	name = "Claude"
+	dynasty = dynn_canada_belliveau
+	dna = dna_canada_belliveau_claude_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+
+	trait = education_martial_1
+	trait = content
+	trait = just
+	trait = generous
+	
+	2624.12.1 = {
+		birth = yes
+		
+	}
+}
+
+canada_belliveau_gabriel_1 = { 
+	name = "Gabriel"
+	dynasty = dynn_canada_belliveau
+	dna = dna_canada_belliveau_claude_1
+	female = yes
+	disallow_random_traits = no
+	
+	father = canada_belliveau_claude_1
+	culture = acadien
+	religion = mervivant
+
+	trait = education_diplomacy_1
+	trait = cynical
+	trait = lazy
+	trait = lustful
+	
+	2643.1.14 = {
+		birth = yes
+		
+	}
+	
+	2661.5.13 = {
+		add_spouse = canada_corbeau_simeon_1
+	}
+}
+
+canada_ackaoui_jerome_1 = { # c_lanaudiere
+	name = "J_e_act_r_o_hat_me"
+	dynasty = dynn_canada_ackaoui
+	dna = dna_canada_ackaoui_jerome_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = montrealais
+	religion = tranquillism
+
+	trait = education_intrigue_3
+	trait = ambitious
+	trait = trusting
+	trait = patient
+	
+	2647.11.4 = {
+		birth = yes
+		
+	}
+}
+canada_castel_paul_1 = { # region should be Atlantica with sub_region ma, but is from Quebecois dynasty so must be put in Canada region_ Brother Henri is in sub_region nb, c_st_john_valley
+	name = "Paul"
+	dynasty = dynn_canada_castel
+	dna = dna_canada_castel_paul_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	mother = canada_castel_veronique_veronique
+	father = canada_turcot_claude
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = zealous
+	trait = stubborn
+	trait = disputed_heritage
+	
+	2599.8.21 = {
+		birth = yes
+		add_pressed_claim = title:k_upper_quebec
+		}
+	2645.1.1 = {
+		effect = { 
+			add_opinion = {
+				target = character:canada_chapdelaine_stephanie_1
+				modifier = hate_opinion
+				opinion = -200
+			}
+			set_relation_rival = { target = character:canada_chapdelaine_stephanie_1 reason = rival_historical}
+		}
+		effect = { 
+			add_opinion = {
+				target = character:canada_turcot_roland_montreal_duke_dad
+				modifier = hate_opinion
+				opinion = -200
+			}
+			set_relation_rival = { target = character:canada_turcot_roland_montreal_duke_dad reason = rival_historical}
+		}
+		add_spouse = canada_bacon_isabelle
+	}
+}
+canada_castel_veronique_2 = { 
+	name = "V_e_act_ronique"
+	dynasty = dynn_canada_castel
+	father = canada_castel_paul_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_intrigue_4
+	trait = cynical
+	trait = patient
+	trait = deceitful
+	trait = physique_good_1
+	
+	2644.2.21 = {
+		birth = yes
+		
+	}
+	
+}
+
+canada_blanchet_jerome_1 = { # c_rimouski
+	name = "J_e_act_r_o_hat_me"
+	dynasty_house = house_canada_castel_blanchet
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_blanchet_jacques_jacques_duke
+
+	trait = education_stewardship_2
+	trait = cynical
+	trait = calm
+	trait = just
+	
+	2636.10.14 = {
+		birth = yes
+		
+	}
+}
+canada_horn_ojistah_1 = { # c_chateauguay, c_huntingdon
+	name = "Ojistah"
+	dynasty = dynn_canada_horn
+	female = yes
+	disallow_random_traits = no
+	
+	culture = haudenosaunee
+	religion = gaiwiio
+
+	trait = education_stewardship_2
+	trait = content
+	trait = humble
+	trait = vengeful
+	trait = lifestyle_mystic
+	
+	2649.11.21 = {
+		birth = yes
+		
+	}
+}
+canada_odjick_louis_1 = { # c_haute_laurentides, c_haute_gatineau, should be algonquin, c_haute_laurentides
+	name = "Louis"
+	dynasty = dynn_canada_odjick
+	dna = dna_canada_odjick_louis_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = algonquin
+	religion = ursuline
+
+	trait = education_diplomacy_4
+	trait = gluttonous
+	trait = brave
+	trait = gregarious
+	
+	2633.4.20 = {
+		birth = yes
+		
+	}
+}
+canada_cohen_neil_1 = { # c_blainville
+	name = "Neil"
+	dynasty = dynn_canada_cohen
+	dna = dna_canada_cohen_neil_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = yiddish
+	religion = haredi
+
+	trait = education_martial_2
+	trait = zealous
+	trait = stubborn
+	trait = just
+	
+	2631.1.20 = {
+		birth = yes
+		
+	}
+}
+canada_dewolfe_travis_1 = { # c_yarmouth
+	name = "Travis"
+	dynasty = dynn_canada_dewolfe
+	dna = dna_canada_dewolfe_travis_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_martial_4
+	trait = brave
+	trait = stubborn
+	trait = cynical
+	
+	2629.10.11 = {
+		birth = yes
+		
+	}
+	
+	2654.6.15 = {
+		add_spouse = canada_beaton_mayann_beaton_child1
+		
+		effect = {
+			set_relation_friend = character:canada_macleod_rory_1
+			
+			create_alliance = { # By marriage
+				target = character:canada_beaton_caitlin_beaton1
+				allied_through_owner = ROOT 
+				allied_through_target = character:canada_beaton_caitlin_beaton1
+			}
+		
+			character:canada_beaton_caitlin_beaton1 = {
+				add_opinion = {
+					target = ROOT
+					modifier = perk_negotiated_alliance_opinion
+				}
+			}
+		}
+	}
+	
+	
+}
+canada_castel_regis_1 = { # c_compton
+	name = "R_e_act_gis"
+	dynasty_house = house_canada_castel_boreales
+	female = no
+	disallow_random_traits = yes
+	
+	culture = acadien
+	religion = gothic
+	mother = canada_castel_veronique_veronique
+	
+
+	trait = education_martial_4
+	trait = content
+	trait = compassionate
+	trait = humble
+	trait = disinherited
+	trait = one_eyed
+	
+	2606.10.19 = {
+		birth = yes
+		give_nickname = nick_the_good
+	}
+}
+canada_castel_boreales_aurore = {
+	name = "Aurore"
+	dynasty_house = house_canada_castel_boreales
+	father = canada_castel_regis_1
+	disallow_random_traits = yes
+	female = yes
+
+	culture = acadien
+	religion = gothic
+
+	trait = curious
+	trait = adopted
+
+	2660.12.21 = {
+		birth = yes
+	}
+}
+canada_frechette_louis_bernard_1 = { # c_trois_rivieres
+	name = "Louis_Bernard"
+	dynasty = dynn_canada_frechette
+	dna = dna_canada_frechette_louis_bernard_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_stewardship_3
+	trait = gregarious
+	trait = generous
+	trait = stubborn
+	
+	2611.10.20 = {
+		birth = yes
+		
+	}
+}
+canada_chapdelaine_antoine_1 = { # c_memphremagog
+	name = "Antoine"
+	dynasty = dynn_canada_chapdelaine
+	dna = dna_canada_chapdelaine_antoine_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_chapdelaine_roland_chapdelaine_dad
+
+	trait = education_martial_3
+	trait = shy
+	trait = stubborn
+	trait = calm
+	trait = beauty_good_3
+	
+	2648.8.27 = {
+		birth = yes
+		
+	}
+}
+canada_blanchet_adrien_1 = { # c_kamouraska
+	name = "Adrien"
+	dynasty_house = house_canada_castel_blanchet
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_blanchet_jacques_jacques_duke
+
+	trait = education_intrigue_1
+	trait = content
+	trait = just
+	trait = patient
+	
+	2643.10.7 = {
+		birth = yes
+		
+	}
+}
+
+canada_leblanc_garibald_1 = { # c_annapolis_valley
+	name = "Garibald"
+	dynasty = dynn_canada_leblanc
+	dna = dna_canada_leblanc_garibald_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_leblanc_adam_1
+
+	trait = education_diplomacy_4
+	trait = chaste
+	trait = gregarious
+	trait = compassionate
+	
+	2635.12.27 = {
+		birth = yes
+	}
+	
+	2645.6.21 = {
+		give_nickname = nick_the_gracious
+		
+		create_alliance = { # By marriage to brother
+			target = character:canada_maclellan_ena_1
+			allied_through_owner = ROOT 
+			allied_through_target = character:canada_maclellan_ena_1
+		}
+		
+		character:canada_maclellan_ena_1 = {
+			add_opinion = {
+				target = ROOT
+				modifier = perk_negotiated_alliance_opinion
+			}
+		}
+	}
+}
+
+canada_leblanc_romeo_1 = {
+	name = "Rom_e_act_o"
+	dynasty = dynn_canada_leblanc
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_leblanc_adam_1
+
+	trait = education_diplomacy_4
+	trait = chaste
+	trait = gregarious
+	trait = compassionate
+	
+	2639.7.13 = {
+		birth = yes
+	}
+	
+	2645.6.21 = {
+		add_spouse = canada_maclellan_ena_1
+	}
+	
+	# 2659.7.8 = {
+	# 	effect = {
+	# 		set_relation_friend = character:canada_maclellan_ena_1
+	# 	}
+	# }
+}
+
+canada_leblanc_adam_1 = {
+	name = "Adam"
+	dynasty = dynn_canada_leblanc
+	dna = dna_canada_leblanc_garibald_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+
+	trait = education_intrigue_2
+	trait = callous
+	trait = arrogant
+	trait = forgiving
+	
+	2591.8.25 = {
+		birth = yes
+	}
+	
+	2661.1.18 = {
+		death = yes
+	}
+	
+	
+}
+
+canada_blanchet_sarah_1 = { # c_forillon, c_chic_chocs, c_matapedia
+	name = "Sarah"
+	dynasty_house = house_canada_castel_blanchet
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_blanchet_jacques_jacques_duke
+
+	trait = education_stewardship_2
+	trait = lustful
+	trait = calm
+	trait = zealous
+	
+	2641.2.7 = {
+		birth = yes
+		
+	}
+}
+canada_dugas_montcalm_1 = { # c_matawinie
+	name = "Montcalm"
+	dynasty = dynn_canada_dugas
+	dna = dna_canada_dugas_montcalm_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_learning_1
+	trait = stubborn
+	trait = cynical
+	trait = vengeful
+	trait = beauty_bad_1
+	
+	2619.4.27 = {
+		birth = yes
+		
+	}
+}
+canada_saputo_anselm_1 = { # count of longeuil, c_longueuil
+	name = "Anselm"
+	dynasty = dynn_canada_saputo
+	dna = dna_canada_saputo_anselm_1
+	female = no
+	disallow_random_traits = no
+	father = canada_saputo_daniel
+	culture = montrealais
+	religion = ursuline
+
+	trait = education_martial_3
+	trait = cynical
+	trait = arbitrary
+	trait = calm
+	
+	2644.6.20 = {
+		birth = yes
+		
+	}
+}
+canada_dupont_thomas_1 = { # c_drummond, c_les_maskoutains, c_drummond
+	name = "Thomas"
+	dynasty = dynn_canada_dupont
+	dna = dna_canada_dupont_thomas_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_stewardship_3
+	trait = callous
+	trait = cynical
+	trait = paranoid
+	trait = shrewd
+	trait = one_eyed
+	
+	2601.3.24 = {
+		birth = yes
+		
+	}
+}
+canada_trogi_samuel_1 = { # c_haute_yamaska, c_yamaska
+	name = "Samuel"
+	dynasty = dynn_canada_trogi
+	dna = dna_canada_trogi_samuel_1
+	female = no
+	disallow_random_traits = yes
+	
+	culture = montrealais
+	religion = tranquillism
+
+	trait = bossy
+	trait = rowdy
+	
+	2660.5.25 = {
+		birth = yes
+		
+	}
+}
+canada_irving_dergavel_1 = { # c_saint_john
+	name = "Dergavel"
+	dynasty = dynn_canada_irving
+	dna=dna_canada_irving_dergavel_1
+
+	culture = maritimer
+	religion = remembrant
+	father = quivox_irving
+
+	trait = education_intrigue_4
+	trait = greedy
+	trait = vengeful
+	trait = patient
+	trait = disloyal
+	trait = intellect_good_2
+
+	2632.9.5 = { 
+		birth = yes 
+	}
+	
+	
+	2660.2.1 = {
+		create_alliance = { # By daughter betrothal
+			target = character:canada_cavendish_grannd_1
+			allied_through_owner = ROOT 
+			allied_through_target = character:canada_cavendish_grannd_1 
+		}
+			
+		character:canada_cavendish_grannd_1 = {
+			add_opinion = {
+				target = ROOT
+				modifier = perk_negotiated_alliance_opinion
+			}
+		}
+	}
+	
+	2664.4.4 = {
+		effect = {
+			set_relation_nemesis = character:canada_beaton_caitlin_beaton1
+			set_relation_rival = character:canada_beaton_bharraigh_beaton_child2
+			set_relation_rival = character:canada_beaton_daibhidh_beaton
+			set_relation_rival = character:canada_beaton_huisdean_beaton
+			set_relation_rival = character:canada_beaton_dewi_beaton
+			set_relation_rival = character:canada_beaton_luthais_beaton
+			set_relation_friend = character:canada_beaton_dickie_beaton
+		}
+	}
+			
+}
+canada_irving_wren_1={
+	name="Wren"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=canada_irving_dergavel_1
+
+	trait=rowdy
+	trait=intellect_good_1
+
+	2651.8.30={birth=yes}
+	
+	# 2660.2.1 = {
+	# 	character:canada_irving_wren_1 = { create_betrothal = character:iomhair_cavendish }
+	# }
+}
+canada_irving_victoria_1 = {
+	name = "Victoria"
+	dynasty = dynn_canada_irving
+	female = yes
+
+	culture = maritimer
+	religion = remembrant
+	father = canada_irving_dergavel_1
+
+	trait = curious
+	trait = blind
+	trait = intellect_good_2
+
+	2659.1.1 = { 
+		birth=yes 
+	}
+	
+	2660.8.9 = {
+		effect = {
+			set_relation_crush = { target = character:canada_sobey_eideard_1 }
+		}
+	}
+}
+canada_irving_winston_1={
+	name="Winston"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=canada_irving_dergavel_1
+
+	trait=bossy
+
+	2661.12.9={birth=yes}
+	
+	2661.6.11 = {
+		effect = {
+			set_relation_bully = { target = character:canada_sobey_eideard_1 }
+		}
+	}
+}
+canada_irving_monty_1={
+	name="Monty"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=soiltapper
+	father=quivox_irving
+
+	trait=education_learning_3
+	trait=chaste
+	trait=zealous
+	trait=fickle
+	trait=lunatic_1
+	trait=drunkard
+
+	2635.11.12={birth=yes}
+}
+canada_anseuil_eric_1 = { # c_chaleur
+	name = "E_act_ric"
+	dynasty = dynn_canada_anseuil
+	dna = dna_canada_anseuil_eric_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+
+	trait = education_martial_2
+	trait = content
+	trait = trusting
+	trait = lazy
+	
+	2631.3.4 = {
+		birth = yes
+		
+	}
+}
+canada_castel_henri_1 = { # c_madawaska
+	name = "Henri"
+	dynasty = dynn_canada_castel
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	mother = canada_castel_veronique_veronique
+	father = canada_turcot_claude
+	trait = education_martial_3
+	trait = ambitious
+	trait = chaste
+	trait = brave
+	trait = disputed_heritage
+	
+	2616.9.8 = {
+		birth = yes
+		add_pressed_claim = title:k_lower_quebec
+		add_pressed_claim = title:k_upper_quebec
+	}
+	2663.1.1 = {
+		add_matrilineal_spouse = canada_castel_henri_1
+	}
+	2632.6.20 = {
+		birth = yes
+		
+	}
+}
+canada_beaton_bharraigh_beaton_child2 = { # c_sydney
+	name="Donalbain"
+	dynasty=dynn_canada_beaton
+	dna=dna_canada_macneil_daibhidh_1
+	female=no
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=canada_oulton_calum_beaton2
+	mother=canada_beaton_caitlin_beaton1
+
+	trait=education_diplomacy_4
+	trait=trusting
+	trait=patient
+	trait=arrogant
+	trait=wounded_1
+
+	2640.11.11={birth=yes}
+}
+canada_dixon_addie = { #Donalbain's wife
+	name="Addie"
+	dynasty=dynn_canada_dixon
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+
+	2642.2.15={birth=yes}
+	2660.1.1={add_spouse=canada_beaton_bharraigh_beaton_child2}
+}
+canada_beaton_alasdair_beaton = { # Donalbain's son
+	name="Alasdair"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+	father=canada_beaton_bharraigh_beaton_child2
+	mother=canada_dixon_addie
+
+	trait=pensive
+
+	2659.8.23 = { birth = yes }
+	2666.1.1 = { set_relation_guardian = character:canada_beaton_dickie_beaton }
+}
+canada_macleod_rory_1 = { # c_hants
+	name = "Rory"
+	dynasty = dynn_canada_macleod
+	dna = dna_canada_macleod_rory_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_martial_3
+	trait = ambitious
+	trait = impatient
+	trait = arrogant
+	
+	2636.1.22 = {
+		birth = yes
+		
+	}
+}
+canada_macdonell_grace_1 = { # c_stormont_glengarry
+	name = "Grace"
+	dynasty = dynn_canada_macdonell
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = united_church
+	father = canada_macdonell_john_macdonelldad
+	mother = canada_brighton_laura_macdonellmom
+
+	trait = education_diplomacy_2
+	trait = content
+	trait = zealous
+	trait = forgiving
+	
+	2646.10.9 = {
+		birth = yes
+		
+	}
+}
+canada_lam_jason_1 = { # c_york
+	name = "Jason"
+	dynasty = dynn_canada_lam
+	dna = dna_canada_lam_jason_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = united_church
+
+	
+	
+	2623.4.27 = {
+		birth = yes
+		
+	}
+}
+canada_thorburn_blake_blakethorburn = { # c_hastings
+	name = "Blake"
+	dynasty = dynn_canada_thorburn
+	dna = dna_canada_thorburn_blake_blakethorburn
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = ontarian
+	religion = united_church
+	father = canada_thorburn_bradley_dadrose
+	mother = canada_vanier_christina_momrose
+
+	trait = education_learning_3
+	trait = brave
+	trait = cynical
+	trait = vengeful
+	trait = possessed_genetic
+	trait = shrewd
+	trait = witch
+	trait = twin
+	
+	2644.9.7 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_greeneye_hazel_hazelgreeneye
+	}
+}
+canada_thorburn_rose_grandmarose = { # c_hastings
+	name = "Rose"
+	dynasty = dynn_canada_thorburn
+	female = yes
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = tetramorphic
+
+	trait = education_learning_4
+	trait = ambitious
+	trait = vengeful
+	trait = sadistic
+	trait = witch
+	trait = intellect_good_3
+	trait = journaller
+	
+	2571.12.10 = {
+		birth = yes
+		
+	}
+	2665.1.29 = {
+		death = "2665.1.29"
+	}
+}
+canada_donnelly_jarvis_1 = { # c_essex
+	name = "Jarvis"
+	dynasty = dynn_canada_donnelly
+	dna = dna_canada_donnelly_jarvis_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = galvanist
+
+	trait = education_intrigue_1
+	trait = wrathful
+	trait = callous
+	trait = greedy
+	
+	2644.11.16 = {
+		birth = yes
+		
+	}
+}
+canada_villeneuve_lionel_1 = { # c_prescott_russell
+	name = "Lionel"
+	dynasty = dynn_canada_villeneuve
+	dna = dna_canada_villeneuve_lionel_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = ursuline
+
+	trait = education_martial_2
+	trait = deceitful
+	trait = humble
+	trait = shy
+	
+	2625.8.5 = {
+		birth = yes
+		
+	}
+}
+canada_abrantes_john_1 = { # c_peterborough
+	name = "John"
+	dynasty = dynn_canada_abrantes
+	dna = dna_canada_abrantes_john_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_intrigue_3
+	trait = cynical
+	trait = humble
+	trait = wrathful
+	
+	2647.2.22 = {
+		birth = yes
+		
+	}
+}
+canada_macnaughton_bruce_1 = { # c_huron
+	name = "Bruce"
+	dynasty = dynn_canada_macnaughton
+	dna = dna_canada_macnaughton_bruce_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_martial_4
+	trait = zealous
+	trait = shy
+	trait = vengeful
+	
+	father = canada_macnaughton_richard_1
+
+	2635.7.23 = {
+		birth = yes   
+	}
+	2662.12.25 = { 
+	set_relation_rival = { target = character:canada_soady_constantine_invadersoady reason = rival_historical }
+	add_pressed_claim = title:c_bruce
+	}
+}
+canada_macnaughton_richard_1 = { #father of bruce
+	name = "Richard"
+	dynasty = dynn_canada_macnaughton
+	
+	culture = ontarian
+	religion = tetramorphic
+	trait = education_diplomacy_3
+	trait = zealous
+	
+	2600.2.2 = {
+		birth = yes
+	}
+	2639.12.25 = {
+		death = { death_reason = death_battle killer = great_lakes_soady_albert_bigbadsoady }
+	}
+}
+canada_zehr_peter_1 = { # c_perth
+	name = "Peter"
+	dynasty = dynn_canada_zehr
+	dna = dna_canada_zehr_peter_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = deitsch
+	religion = anabaptist
+
+	trait = education_learning_4
+	trait = diligent
+	trait = stubborn
+	trait = callous
+	
+	2639.5.28 = {
+		birth = yes
+		
+	}
+}
+canada_macdonell_fletcher_macdonellgramp = { # c_stormont_glengarry
+	name = "Fletcher"
+	dynasty = dynn_canada_macdonell
+	dna = dna_canada_macdonell_fletcher_macdonellgramp
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_martial_2
+	trait = arrogant
+	trait = content
+	trait = compassionate
+	
+	2576.6.21 = {
+		birth = yes
+		
+	}
+	2632.1.1 = {
+		add_spouse = canada_li_stephanie_macdonellgram
+	}
+	2632.3.10 = {
+		death = "2632.3.10"
+	}
+}
+canada_mowat_harold_1 = { # c_ganaraska
+	name = "Harold"
+	dynasty = dynn_canada_mowat
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_mowat_andrew_mowatdad
+	mother = canada_macdonell_josette_mowatmom
+
+	trait = education_martial_3
+	trait = ambitious
+	trait = brave
+	trait = generous
+	
+	2650.1.22 = {
+		birth = yes
+		
+	}
+}
+canada_mowat_angus_1 = { # c_thurlow
+	name = "Angus"
+	dynasty = dynn_canada_mowat
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_mowat_andrew_mowatdad
+	mother = canada_macdonell_josette_mowatmom
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = brave
+	trait = trusting
+	
+	2648.11.20 = {
+		birth = yes
+		
+	}
+}
+canada_armstrong_grafton_1 = { # c_oshawa
+	name = "Grafton"
+	dynasty = dynn_canada_armstrong
+	dna = dna_canada_armstrong_grafton_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = galvanist
+
+	trait = education_diplomacy_3
+	trait = zealous
+	trait = stubborn
+	trait = gregarious
+	trait = calm
+	
+	2628.6.18 = {
+		birth = yes
+		
+	}
+}
+canada_matusheskie_adam_1 = { # c_renfrew
+	name = "Adam"
+	dynasty = dynn_canada_matusheskie
+	dna = dna_canada_matusheskie_adam_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = tetramorphic
+
+	trait = education_martial_2
+	trait = brave
+	trait = cynical
+	trait = vengeful
+	trait = arrogant
+	
+	2620.8.7 = {
+		birth = yes
+		
+	}
+}
+canada_qadri_yusef_1 = { # c_lambton
+	name = "Yusef"
+	dynasty = dynn_canada_qadri
+	dna = dna_canada_qadri_yusef_1    female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = traditionalist
+
+	
+	
+	2633.3.8 = {
+		birth = yes
+		
+	}
+	2666.6.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+	
+}
+canada_paulic_zvonimir_1 = { # c_hamilton
+	name = "Zvonimir"
+	dynasty = dynn_canada_paulic
+	dna = dna_canada_paulic_zvonimir_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = galvanist
+
+	
+	
+	2624.12.28 = {
+		birth = yes
+		
+	}
+}
+canada_thomson_norm_1 = { # c_muskoka
+	name = "Norm"
+	dynasty = dynn_canada_thomson
+	dna = dna_canada_thomson_norm_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = paracletian
+
+	trait = education_learning_2
+	trait = diligent
+	trait = compassionate
+	trait = shy
+	
+	2606.1.6 = {
+		birth = yes
+		
+	}
+}
+canada_macdonell_john_macdonelldad = { # c_stormont_glengarry
+	name = "John"
+	dynasty = dynn_canada_macdonell
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	mother = canada_li_stephanie_macdonellgram
+
+	trait = education_martial_2
+	trait = zealous
+	trait = lustful
+	trait = greedy
+	
+	2615.11.8 = {
+		birth = yes
+		
+	}
+	2663.1.1 = {
+		add_spouse = canada_brighton_laura_macdonellmom
+	}
+	2663.9.17 = {
+		death = "2663.9.17"
+	}
+}
+canada_macnaughton_zena_1 = { # c_grey
+	name = "Zena"
+	dynasty = dynn_canada_macnaughton
+	dna = dna_canada_macnaughton_zena_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = tetramorphic
+
+	trait = education_learning_2
+	trait = trusting
+	trait = forgiving
+	trait = chaste
+	trait = poet
+	trait = physique_good_2
+
+	father = canada_macnaughton_richard_1
+	
+	2638.8.5 = {
+		birth = yes
+	}
+}
+canada_mathieu_gallant_giguere_cecil_1 = { # c_arthabaska, c_argenteuil
+	name = "C_e_act_cil"
+	dynasty = dynn_canada_mathieu_gallant_giguere
+	dna = dna_canada_mathieu_gallant_giguere_cecil_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = montrealais
+	religion = tranquillism
+
+	trait = education_martial_1
+	trait = craven
+	trait = calm
+	trait = generous
+	trait = depressed_genetic
+	
+	2626.8.27 = {
+		birth = yes
+		
+	}
+}
+canada_gamache_katani_1 = { # c_antacosti, c_anticosti
+	name="Oochigeas"
+	dynasty=dynn_canada_gamache
+	dna=dna_canada_gamache_katani_1
+	female=yes
+	sexuality=bisexual
+	disallow_random_traits=yes
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+
+	trait=education_learning_3
+	trait=lustful
+	trait=callous
+	trait=arrogant
+	trait=scholar
+
+	2647.5.8={birth=yes}
+}
+canada_o_leary_leclerc_zenon_1 = { # c_amiante, c_levis, c_amiante
+	name = "Z_e_act_non"
+	dynasty = dynn_canada_o_leary_leclerc
+	dna = dna_canada_o_leary_leclerc_zenon_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_intrigue_2
+	trait = temperate
+	trait = impatient
+	trait = honest
+	
+	2630.2.26 = {
+		birth = yes
+		
+	}
+}
+canada_simeon_pilip_1 = { # c_netagamiou, c_netagamiou
+	name = "Pilip"
+	dynasty = dynn_canada_simeon
+	female = no
+	disallow_random_traits = no
+	
+	culture = innu
+	religion = ursuline
+
+	trait = education_learning_2
+	trait = brave
+	trait = diligent
+	trait = greedy
+	
+	2640.2.21 = {
+		birth = yes
+		
+	}
+}
+canada_bedard_robert_1 = { # c_nipissing
+	name = "Robert"
+	dynasty = dynn_canada_bedard
+	dna = dna_canada_bedard_robert_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = ursuline
+
+	trait = education_martial_2
+	trait = just
+	trait = vengeful
+	trait = generous
+	
+	2631.11.8 = {
+		birth = yes
+		
+	}
+}
+canada_montferrand_gilles_1 = { # c_hull
+	name = "Gilles"
+	dynasty = dynn_canada_montferrand
+	dna = dna_canada_montferrand_gilles_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = tranquillism
+
+	trait = education_learning_1
+	trait = patient
+	trait = deceitful
+	trait = shy
+	
+	2602.8.13 = {
+		birth = yes
+		
+	}
+}
+canada_o_bomsawin_daniel_1 = { # c_bois_francs
+	name = "Daniel"
+	dynasty = dynn_canada_o_bomsawin
+	dna = dna_canada_o_bomsawin_daniel_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = abenaki
+	religion = ursuline
+
+	trait = education_intrigue_2
+	trait = brave
+	trait = vengeful
+	trait = paranoid
+	
+	2622.6.12 = {
+		birth = yes
+		
+	}
+}
+canada_bombardier_julie_1 = { # c_portneuf, c_portneuf
+	name = "Julie"
+	dynasty = dynn_canada_bombardier
+	dna = dna_canada_bombardier_julie_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_diplomacy_4
+	trait = trusting
+	trait = forgiving
+	trait = stubborn
+	trait = fecund
+	
+	2644.11.11 = {
+		birth = yes
+		
+	}
+}
+canada_gallant_jacquotte_1 = { # c_magdalen_isles, c_magdalen_islands
+	name = "Jacquotte"
+	dynasty = dynn_canada_gallant
+	dna = dna_canada_gallant_jacquotte_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = ursuline
+
+	trait = education_martial_4
+	trait = brave
+	trait = ambitious
+	trait = wrathful
+	trait = beauty_good_3
+	
+	2644.2.5 = {
+		birth = yes
+		
+	}
+}
+canada_aquilini_jean_ricardo_1 = { # c_vaudreuil_soulanges
+	name = "Jean_Ricardo"
+	dynasty = dynn_canada_aquilini
+	dna = dna_canada_aquilini_jean_ricardo_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = montrealais
+	religion = tranquillism
+
+	trait = education_stewardship_2
+	trait = content
+	trait = lustful
+	trait = calm
+	
+	2630.8.12 = {
+		birth = yes
+		
+	}
+}
+canada_bhatia_jasvir_1 = { # c_peel
+	name = "Jasvir"
+	dynasty = dynn_canada_bhatia
+	dna = dna_canada_bhatia_jasvir_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = sixer
+	religion = sikhism
+
+	
+	
+	2604.1.10 = {
+		birth = yes
+		
+	}
+}
+canada_lescarbot_hermenegilde_1 = { # c_matapedia, c_forillon
+	name = "Herm_e_act_n_e_act_gilde"
+	dynasty = dynn_canada_lescarbot
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+
+	trait = education_martial_2
+	trait = brave
+	trait = lustful
+	trait = just
+	
+	2629.1.15 = {
+		birth = yes
+		
+	}
+}
+
+canada_lescarbot_clemence_1 = {
+	name = "Clemence"
+	dynasty = dynn_canada_lescarbot
+	female = yes
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = mervivant
+	father = canada_lescarbot_hermenegilde_1
+
+	trait = curious
+	trait = compassionate
+	
+	2652.4.27 = {
+		birth = yes
+	}
+	
+	# 2664.2.1 = {
+	# 	character:canada_lescarbot_clemence_1 = { create_betrothal = character:canada_corbeau_nathanael }
+	# }
+}
+
+canada_metallic_sapatis_1 = { # c_perce, c_cascapedia
+	name="Tesibow"
+	dynasty=dynn_canada_metallic
+	disallow_random_traits=no
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+
+	trait=education_diplomacy_3
+	trait=ambitious
+	trait=greedy
+	trait=honest
+
+	2634.3.17={birth=yes}
+}
+canada_d_ushabatshuan_eustache_1 = { # c_domaine_du_roy, c_domaine_du_roy
+	name = "Eustache"
+	dynasty = dynn_canada_d_ushabatshuan
+	dna = dna_canada_d_ushabatshuan_eustache_1
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_learning_3
+	trait = cynical
+	trait = diligent
+	trait = just
+	trait = hunchbacked
+	
+	2640.1.7 = {
+		birth = yes
+		
+	}
+}
+canada_fortier_jean_philippe_1 = { # c_lac_saint_jean, c_lac_saint_jean
+	name = "Jean-Philippe"
+	dynasty = dynn_canada_fortier
+	dna = dna_canada_fortier_jean_philippe_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_intrigue_3
+	trait = just
+	trait = vengeful
+	trait = generous
+	trait = bastard
+	
+	2644.2.20 = {
+		birth = yes
+		
+	}
+}
+canada_mestokosho_jonathan_1 = { # c_natashquan, c_mingan, c_natashquan
+	name = "Jonathan"
+	dynasty = dynn_canada_mestokosho
+	female = no
+	disallow_random_traits = no
+	
+	culture = innu
+	religion = ursuline
+
+	trait = education_martial_1
+	trait = callous
+	trait = humble
+	trait = vengeful
+	
+	2623.10.4 = {
+		birth = yes
+		
+	}
+}
+canada_desjardins_perrine_1 = { # c_charlevoix, c_malbaie, c_charlevoix
+	name = "Perrine"
+	dynasty = dynn_canada_desjardins
+	dna = dna_canada_desjardins_pierre_1
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_martial_2
+	trait = honest
+	trait = greedy
+	trait = forgiving
+	
+	2647.12.14 = {
+		birth = yes
+		
+	}
+}
+canada_chapdelaine_roland_chapdelaine_dad = {
+	name = "Roland"
+	dynasty = dynn_canada_chapdelaine
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_martial_1
+	trait = content
+	trait = lustful
+	trait = shy
+	trait = beauty_good_3
+	
+	2615.1.16 = {
+		birth = yes
+		
+	}
+	2662.2.3 = {
+		death = "2662.2.3"
+	}
+}
+canada_oulton_calum_beaton2={
+	name="Donnchad"
+	dynasty=dynn_canada_cullihall
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=remembrant
+
+	trait=education_martial_4
+	trait=just
+	trait=fickle
+	trait=trusting
+	trait=drunkard
+
+	2604.1.24={birth=yes}
+	2525.1.1={add_spouse=canada_beaton_caitlin_beaton1}
+	2652.8.12={death=yes}
+}
+canada_beaton_iomhair_beaton_child4 = {
+	name = "Iomhair"
+	dynasty = dynn_canada_beaton
+	female = no
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	father=canada_beaton_huisdean_beaton
+	mother = canada_casey_cavendish
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = patient
+	trait = brave
+	
+	2644.9.25 = {
+		birth = yes
+		
+	}
+}
+canada_beaton_annag_beaton_child3 = {
+	name = "Annag"
+	dynasty = dynn_canada_beaton
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	father=canada_beaton_dewi_beaton
+
+	trait = education_stewardship_3
+	trait = diligent
+	trait = patient
+	trait = honest
+	
+	2642.11.14 = {
+		birth = yes
+		
+	}
+}
+canada_beaton_mayann_beaton_child1 = {
+	name = "Mayann"
+	dynasty = dynn_canada_beaton
+	female = yes
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	father=canada_beaton_huisdean_beaton
+	mother = canada_casey_cavendish
+
+	trait = education_learning_2
+	trait = content
+	trait = lustful
+	trait = honest
+	
+	2636.8.4 = {
+		birth = yes
+		
+	}
+}
+canada_elharar_christophe_1 = { # c_argenteuil, 
+	name = "Christophe"
+	dynasty = dynn_canada_elharar
+	dna = dna_canada_elharar_christophe_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_diplomacy_3
+	trait = brave
+	trait = chaste
+	trait = honest
+	
+	2642.6.22 = {
+		birth = yes
+		
+	}
+}
+canada_castel_genevieve_genevieve = {
+	name = "Genevi_e_grv_ve"
+	dynasty = dynn_canada_castel
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	mother = canada_castel_veronique_veronique
+	father = canada_turcot_claude
+
+	trait = education_diplomacy_3
+	trait = zealous
+	trait = lustful
+	trait = deceitful
+	trait = disputed_heritage
+	
+	2607.3.8 = {
+		birth = yes
+		add_pressed_claim = title:k_lower_quebec
+		add_pressed_claim = title:k_upper_quebec
+	}
+	2666.1.1 = {
+		add_spouse = canada_papillon_antoine_antoine
+	}
+	2632.6.20 = {
+		birth = yes
+		
+	}
+}
+canada_papillon_antoine_antoine = {
+	name = "Antoine"
+	dynasty = dynn_canada_papillon
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	trait = education_diplomacy_2
+	trait = ambitious
+	trait = forgiving
+	trait = honest
+	
+	2565.6.6 = {
+		birth = yes
+		
+	}
+	2610.1.1 = {
+		add_spouse = canada_castel_genevieve_genevieve
+	}
+	2610.7.8 = {
+		death = "2610.7.8"
+	}
+}
+canada_schofield_kenneth_1 = {
+	name = "Kenneth"
+	dynasty = dynn_canada_schofield
+	dna = dna_canada_schofield_kenneth_1
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = maritimer
+	religion = remembrant
+
+	trait = education_diplomacy_2
+	trait = gregarious
+	trait = forgiving
+	trait = arrogant
+	
+	2633.9.22 = {
+		birth = yes
+		
+	}
+}
+canada_beaton_aonghas_beaton_child5 = {
+	name = "Aonghas"
+	dynasty = dynn_canada_beaton
+	female = no
+	disallow_random_traits = no
+	
+	culture = gaidheal
+	religion = remembrant
+	father = canada_beaton_luthais_beaton
+
+	trait = education_intrigue_4
+	trait = ambitious
+	trait = trusting
+	trait = cynical
+	
+	2647.9.23 = {
+		birth = yes
+		
+	}
+	
+	2660.11.24 = {
+		add_spouse = canada_macgilleain_sam_1
+	}
+}
+canada_power_lance_1 = {
+	name = "Lance"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = yes
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_benoit_claude_fay2
+	mother = canada_power_morgan_fay1
+	
+	
+	2662.12.23 = {
+		birth = yes
+		
+	}
+}
+
+canada_pyke_isolda_faymom = {
+	name = "Isolda"
+	dynasty = dynn_canada_pyke
+	female = yes
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_learning_3
+	trait = lustful
+	trait = ambitious
+	trait = deceitful
+	trait = scarred
+	
+	2618.6.22 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_power_gordon_faydad
+	}
+}
+canada_power_sidney_1 = {
+	name = "Sidney"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	trait = education_martial_1
+	trait = content
+	trait = gluttonous
+	trait = gregarious
+	
+	2630.10.27 = {
+		birth = yes
+		
+	}
+	2649.8.8 = {
+		death = "2649.8.8"
+	}
+}
+canada_power_ida_1 = {
+	name = "Ida"
+	dynasty = dynn_canada_power
+	female = yes
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	
+	
+	2632.8.3 = {
+		birth = yes
+		
+	}
+	2649.8.17 = {
+		death = "2649.8.17"
+	}
+}
+canada_power_hetty_1 = {
+	name = "Hetty"
+	dynasty = dynn_canada_power
+	female = yes
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	
+	
+	2633.7.9 = {
+		birth = yes
+		
+	}
+	2649.1.25 = {
+		death = "2649.1.25"
+	}
+}
+canada_power_sean_1 = {
+	name = "Sean"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	
+	
+	2634.4.12 = {
+		birth = yes
+		
+	}
+	2649.1.28 = {
+		death = "2649.1.28"
+	}
+}
+canada_power_quinn_1 = {
+	name = "Quinn"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	trait = twin
+	
+	2636.10.27 = {
+		birth = yes
+		
+	}
+	2649.9.19 = {
+		death = "2649.9.19"
+	}
+}
+canada_power_murray_1 = {
+	name = "Murray"
+	dynasty = dynn_canada_power
+	female = no
+	disallow_random_traits = no
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_power_gordon_faydad
+	mother = canada_pyke_isolda_faymom
+
+	trait = twin
+	
+	2636.11.20 = {
+		birth = yes
+		
+	}
+	2649.6.18 = {
+		death = "2649.6.18"
+	}
+}
+canada_benoit_claude_fay2 = {
+	name = "Claude"
+	dynasty = dynn_canada_benoit
+	dna = dna_canada_benoit_claude_fay2
+	female = no
+	disallow_random_traits = no
+	
+	culture = acadien
+	religion = pelagic
+
+	trait = education_diplomacy_2
+	trait = lustful
+	trait = trusting
+	trait = craven
+	
+	2642.11.7 = {
+		birth = yes
+		
+	}
+	2660.1.1 = {
+		add_spouse = canada_power_morgan_fay1
+	}
+}
+canada_turcot_lydia_1 = { # daughter montreal, 
+	name = "Lydia"
+	dynasty = dynn_canada_turcot
+	female = yes
+	disallow_random_traits = yes
+	
+	culture = quebecois
+	religion = tranquillism
+	father = canada_turcot_roland_montreal_duke_dad
+
+	trait = bossy
+	
+	2661.9.15 = {
+		birth = yes
+		
+	}
+}
+canada_mowat_andrew_mowatdad = {
+	name = "Andrew"
+	dynasty = dynn_canada_mowat
+	dna = dna_canada_mowat_andrew_mowatdad
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_martial_1
+	trait = generous
+	trait = compassionate
+	trait = brave
+	
+	2618.10.15 = {
+		birth = yes
+		
+	}
+	2651.9.4 = {
+		death = "2651.9.4"
+	}
+}
+canada_turcot_josephine_1 = { # {heir of montreal}, 
+	name = "Jos_e_act_phine"
+	dynasty = dynn_canada_turcot
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = tranquillism
+	father = canada_turcot_roland_montreal_duke_dad
+
+	trait = education_martial_2
+	trait = content
+	trait = humble
+	trait = just
+	
+	2650.6.5 = {
+		birth = yes
+		
+	}
+}
+canada_thorburn_rose_1 = {
+	name = "Rose"
+	dynasty = dynn_canada_thorburn
+	dna = dna_canada_thorburn_rose_1
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = ontarian
+	religion = united_church
+	father = canada_thorburn_bradley_dadrose
+	mother = canada_vanier_christina_momrose
+
+	trait = education_learning_4
+	trait = vengeful
+	trait = patient
+	trait = callous
+	trait = possessed_genetic
+	trait = shrewd
+	trait = witch
+	trait = twin
+	
+	2644.9.5 = {
+		birth = yes
+		
+	}
+}
+canada_castel_sophie_sophiec = { # As with Paul Castel, Sophie is technically from Atlantica/ny, but her dynasty is from Quebec_ Hence, Canada/qc, 
+	name = "Sophie"
+	dynasty = dynn_canada_castel
+	female = yes
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+	father = canada_papillon_antoine_antoine
+	mother = canada_castel_genevieve_genevieve
+
+	trait = education_learning_3
+	trait = ambitious
+	trait = callous
+	trait = diligent
+	
+	2629.1.3 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = noreast_vanderbronx_baltus_baltus
+	}
+	2632.6.20 = {
+		birth = yes
+		
+	}
+}
+canada_dunlop_gordon_1 = {
+	name = "Gordon"
+	dynasty = dynn_canada_dunlop
+	dna = dna_canada_dunlop_gordon_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_martial_3
+	trait = zealous
+	trait = stubborn
+	trait = wrathful
+	
+	2609.12.22 = {
+		birth = yes
+		
+	}
+}
+canada_macdonell_erin_ottawamom = {
+	name = "Erin"
+	dynasty = dynn_canada_macdonell
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_macdonell_fletcher_macdonellgramp
+	mother = canada_li_stephanie_macdonellgram
+
+	trait = education_intrigue_3
+	trait = arrogant
+	trait = ambitious
+	trait = compassionate
+	
+	2617.11.11 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_vanier_lester_ottawadad
+	}
+}
+canada_macdonell_josette_mowatmom = {
+	name = "Josette"
+	dynasty = dynn_canada_macdonell
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_macdonell_fletcher_macdonellgramp
+	mother = canada_li_stephanie_macdonellgram
+
+	trait = education_learning_3
+	trait = stubborn
+	trait = ambitious
+	trait = diligent
+	
+	2621.1.1 = {
+		birth = yes
+		
+	}
+}
+canada_li_stephanie_macdonellgram = {
+	name = "Stephanie"
+	dynasty = dynn_canada_li
+	dna = dna_canada_li_stephanie_macdonellgram
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_learning_1
+	trait = just
+	trait = patient
+	trait = deceitful
+	
+	2580.10.6 = {
+		birth = yes
+		
+	}
+	2632.1.1 = {
+		add_spouse = canada_macdonell_fletcher_macdonellgramp
+	}
+	2632.5.10 = {
+		death = "2632.5.10"
+	}
+}
+canada_brighton_laura_macdonellmom = {
+	name = "Laura"
+	dynasty = dynn_canada_brighton
+	dna = dna_canada_brighton_laura_macdonellmom
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+
+	trait = education_diplomacy_2
+	trait = lustful
+	trait = compassionate
+	trait = zealous
+	trait = infertile
+	
+	2622.8.18 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_macdonell_john_macdonelldad
+	}
+}
+canada_thorburn_bradley_dadrose = {
+	name = "Bradley"
+	dynasty = dynn_canada_thorburn
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = united_church
+	mother = canada_thorburn_rose_grandmarose
+
+	trait = education_stewardship_1
+	trait = content
+	trait = vengeful
+	trait = deceitful
+	trait = bastard
+	trait = intellect_bad_2
+	
+	2610.12.19 = {
+		birth = yes
+		
+	}
+	2664.1.1 = {
+		add_spouse = canada_vanier_christina_momrose
+	}
+	2664.3.27 = {
+		death = "2664.3.27"
+	}
+}
+canada_vanier_christina_momrose = {
+	name = "Christina"
+	dynasty = dynn_canada_oranje_gatineau
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_vanier_eric_ottawagrandad
+
+	trait = education_stewardship_1
+	trait = content
+	trait = shy
+	trait = vengeful
+	
+	2618.6.21 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_thorburn_bradley_dadrose
+	}
+}
+canada_greeneye_hazel_hazelgreeneye = {
+	name = "Hazel"
+	dynasty = dynn_canada_greeneye
+	dna = dna_canada_greeneye_hazel_hazelgreeneye
+	female = yes
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = united_church
+
+	trait = education_stewardship_2
+	trait = content
+	trait = patient
+	trait = shy
+	trait = physique_good_2
+	
+	2643.5.1 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_thorburn_blake_blakethorburn
+	}
+}
+canada_saputo_marie_claude_montreal_duke_mom = { # Duchess of Montreal, 
+	name = "Marie-Claude"
+	dynasty = dynn_canada_saputo
+	dna = dna_canada_saputo_marie_claude_montreal_duke_mom
+	female = yes
+	disallow_random_traits = no
+	mother = canada_saputo_lorraine
+	culture = quebecois
+	religion = tranquillism
+
+	trait = education_intrigue_3
+	trait = cynical
+	trait = just
+	trait = lustful
+	trait = pilgrim
+	
+	2620.11.24 = {
+		birth = yes
+		
+	}
+	2666.1.1 = {
+		add_spouse = canada_turcot_roland_montreal_duke_dad
+	}
+}
+canada_thorburn_evan_1 = {
+	name = "Evan"
+	dynasty = dynn_canada_thorburn
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarian
+	religion = united_church
+	father = canada_thorburn_blake_blakethorburn
+	mother = canada_greeneye_hazel_hazelgreeneye
+
+	trait = charming
+	
+	2661.5.18 = {
+		birth = yes
+		
+	}
+}
+canada_napolitani_angelo_1 = {
+	name = "Angelo"
+	dynasty = dynn_canada_napolitani
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = viking
+
+	trait = education_martial_2
+	trait = ambitious
+	trait = vengeful
+	trait = cynical
+	
+	2633.2.2 = {
+		birth = yes
+		
+	}
+}
+canada_mcnamara_connor_1 = {
+	name = "Connor"
+	dynasty = dynn_canada_mcnamara
+	female = no
+	disallow_random_traits = no
+	
+	culture = norontarian
+	religion = ursuline
+
+	trait = education_martial_4
+	trait = wrathful
+	trait = cynical
+	trait = lazy
+	trait = comfort_eater
+	
+	2612.11.20 = {
+		birth = yes
+		
+	}
+}
+canada_cleroux_hector_1 = {
+	name = "Hector"
+	dynasty = dynn_canada_cleroux
+	female = no
+	disallow_random_traits = no
+	
+	culture = ontarien
+	religion = ursuline
+
+	trait = education_intrigue_4
+	trait = gluttonous
+	trait = gregarious
+	trait = honest
+	
+	2648.6.20 = {
+		birth = yes
+		
+	}
+}
+canada_nolan_zhingwaak_1 = {
+	name = "Zhingwaak"
+	dynasty = dynn_canada_nolan
+	female = yes
+	disallow_random_traits = no
+	
+	culture = ojibwe
+	religion = viking
+
+	trait = education_learning_1
+	trait = vengeful
+	trait = ambitious
+	trait = shy
+	
+	2604.1.16 = {
+		birth = yes
+		
+	}
+}
+canada_martyn_reed_1 = {
+	name = "Reed"
+	dynasty = dynn_canada_martyn
+	female = no
+	disallow_random_traits = no
+	
+	culture = yooper
+	religion = viking
+
+	trait = education_intrigue_2
+	trait = just
+	trait = cynical
+	trait = vengeful
+	
+	2650.8.25 = {
+		birth = yes
+		
+	}
+}
+canada_abel_clarence_1 = {
+	name = "Clarence"
+	dynasty = dynn_canada_abel
+	female = no
+	disallow_random_traits = no
+	
+	culture = yooper
+	religion = viking
+
+	trait = education_martial_2
+	trait = brave
+	trait = deceitful
+	trait = just
+	trait = berserker
+	
+	2635.3.7 = {
+		birth = yes
+		
+	}
+}
+canada_turcot_genevieve_ottawagrandma = {
+	name = "Genevi_e_grv_ve"
+	dynasty = dynn_canada_turcot
+	dna = dna_canada_turcot_genevieve_ottawagrandma
+	female = yes
+	disallow_random_traits = no
+	father = canada_turcot_serge
+
+	culture = quebecois
+	religion = tranquillism
+
+	trait = education_intrigue_2
+	trait = deceitful
+	trait = lustful
+	trait = greedy
+	
+	2584.11.16 = {
+		birth = yes
+		
+	}
+	2602.1.1 = {
+		add_spouse = canada_vanier_eric_ottawagrandad
+	}
+	2648.2.10 = {
+		death = "2648.2.10"
+	}
+}
+canada_power_lilian_1 = {
+	name = "Lilian"
+	dynasty = dynn_canada_power
+	female = yes
+	disallow_random_traits = yes
+	
+	culture = newfoundlander
+	religion = pelagic
+	father = canada_benoit_claude_fay2
+	mother = canada_power_morgan_fay1
+	
+	trait = physique_good_2
+	
+	2665.12.9 = {
+		birth = yes
+		
+	}
+}
+canada_porter_sakokweniokwas.1= {
+	name = "Sakokweniokwas"
+	dynasty = dynn_canada_porter
+	female = no
+	disallow_random_traits = yes
+	
+	culture = haudenosaunee
+	religion = gaiwiio
+
+	trait = education_learning_3
+	trait = patient
+	trait = humble
+	trait = compassionate
+	trait = intellect_good_1
+	
+	2615.10.2 = {
+		birth = yes
+		learn_language = language_irontongue
+		add_pressed_claim = title:k_ontario
+	}
+}
+
+###Maritimes character history
+canada_beaton_peadair={
+	name="Peadair"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	
+	2255.2.13={birth=yes}
+	2314.1.21={death=yes}
+}
+canada_vanexheim_heather={
+	name="Heather"
+	dynasty=dynn_canada_vanexheim
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	
+	2258.7.18={birth=yes}
+	2280.1.1={add_spouse=canada_beaton_peadair}
+	2329.2.6={death=yes}
+}
+canada_beaton_john={
+	name="John"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=canada_beaton_peadair
+	mother=canada_vanexheim_heather
+	
+	trait=gregarious
+	trait=brave
+	
+	2289.4.15={birth=yes}
+	2300.1.1={give_nickname=nick_am_fear_leis_a_ghaire_mhor}
+	2314.4.21={death=yes}
+}
+canada_shannahan_lili={
+	name="Lili"
+	dynasty=dynn_canada_shannahan
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	
+	2290.8.26={birth=yes}
+	2310.1.1={add_spouse=canada_beaton_john}
+	2319.7.18={death=yes}
+}
+canada_beaton_malcolm={
+	name="Malcolm"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=canada_beaton_peadair
+	mother=canada_vanexheim_heather
+	
+	trait=brave
+	
+	2291.1.12={birth=yes}
+	2300.1.1={give_nickname=nick_the_brave}
+	2313.4.22={death=yes}
+}
+wylie_beaton={
+	name="Wylie"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=canada_beaton_peadair
+	mother=canada_vanexheim_heather
+	
+	trait=education_diplomacy_4
+	trait=compassionate
+	trait=just
+	trait=brave
+	trait=humble
+	trait=diligent
+	trait=shrewd
+	trait=scarred
+	trait=one_eyed
+	trait=august
+	
+	2294.9.20={birth=yes}
+	2300.1.1={give_nickname=nick_son_of_the_people}
+	2377.3.17={death={death_reason=death_old_age}}
+}
+canada_mcpherson_diademia={
+	name="Diademia"
+	dynasty=dynn_canada_mcpherson
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	
+	2315.9.13={birth=yes}
+	2338.1.1={add_spouse=wylie_beaton}
+	2384.10.1={death=yes}
+}
+findlaech_beaton={
+	name="Findl_a_act_ech"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=wylie_beaton
+	mother=canada_mcpherson_diademia
+	
+	trait=education_learning_4
+	trait=forgiving
+	trait=just
+	trait=calm
+	trait=lifestyle_mystic
+	trait=possessed_1
+	
+	2340.5.18={birth=yes}
+	2360.1.1={give_nickname=nick_esan_a_chluinneas_sithichean}
+	2391.6.6={death={death_reason=death_natural_causes}}
+}
+gordan_beaton_2={
+	name="G_o_grv_rdan"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=findlaech_beaton
+	
+	2369.2.11={birth=yes}
+	2429.11.22={death=yes}
+}
+vimy_beaton={
+	name="Vimy"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=wylie_beaton
+	mother=canada_mcpherson_diademia
+	
+	trait=education_stewardship_3
+	trait=diligent
+	trait=zealous
+	trait=greedy
+	trait=stubborn
+	trait=pilgrim
+	trait=overseer
+	
+	2338.2.12={birth=yes}
+	2360.1.1={give_nickname=nick_the_biased}
+	2404.12.12={death={death_reason=death_dungeon}}
+}
+horas_beaton={
+	name="Horas"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	mother=vimy_beaton
+	
+	2368.6.29={birth=yes}
+	2398.8.10={death=yes}
+}
+scott_b_i={
+	name="Scott"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=horas_beaton
+	mother=jacqueline_irving
+
+	2397.8.29={birth=yes}
+	2453.7.8={death=yes}
+}
+jonathan_b_i={
+	name="Jonathan"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=scott_b_i
+
+	2434.8.5={birth=yes}
+	2492.4.18={death=yes}
+}
+joshua_b_i={
+	name="Joshua"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=jonathan_b_i
+
+	2472.9.25={birth=yes}
+	2528.3.15={death=yes}
+}
+betty_anne_b_i={
+	name="Betty-Anne"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=joshua_b_i
+
+	2507.10.13={birth=yes}
+	2536.1.24={death=yes}
+}
+denver_b_i={
+	name="Denver"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	mother=betty_anne_b_i
+
+	2535.9.17={birth=yes}
+	2576.8.15={death=yes}
+}
+jake_b_i={
+	name="Jake"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=denver_b_i
+
+	2569.4.1={birth=yes}
+	2630.11.13={death=yes}
+}
+willow_b_i={
+	name="Willow"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=jake_b_i
+
+	2603.11.21={birth=yes}
+	2653.10.28={death=yes}
+}
+bradley_b_i={
+	name="Bradley"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=scott_b_i
+
+	2437.3.14={birth=yes}
+	2501.6.22={death=yes}
+}
+talon_b_i={
+	name="Talon"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=bradley_b_i
+
+	2459.12.3={birth=yes}
+	2532.1.17={death=yes}
+}
+eddie_b_i={
+	name="Eddie"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=talon_b_i
+
+	2487.11.15={birth=yes}
+	2527.5.22={death=yes}
+}
+robert_b_i={
+	name="Robert"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=eddie_b_i
+
+	2522.1.26={birth=yes}
+	2578.11.30={death=yes}
+}
+justin_b_i={
+	name="Justin"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=robert_b_i
+
+	2563.5.21={birth=yes}
+	2622.3.31={death=yes}
+}
+douglas_b_i={
+	name="Douglas"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=justin_b_i
+
+	2600.8.2={birth=yes}
+	2625.1.1={add_spouse=willow_b_i}
+	2655.1.6={death=yes}
+}
+orin_b_i={
+	name="Orin"
+	dynasty_house=house_canada_beaton_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=eddie_b_i
+
+	trait=education_martial_1
+	trait=arrogant
+	trait=brave
+	trait=lazy
+	trait=drunkard
+	trait=lunatic_1
+	trait=intellect_bad_1
+
+	2515.6.23={birth=yes}
+	2520.1.1={give_nickname=nick_the_delusional_drunk_bastard}
+	2535.10.31={death={death_reason=death_duel killer=wylie_ii_beaton}}
+}
+peadair_beaton_2={
+	name="Peadair"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=wylie_beaton
+	mother=canada_mcpherson_diademia
+	
+	2339.4.2={birth=yes}
+	2385.10.14={death=yes}
+}
+lomond_beaton={
+	name="Lomond"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=peadair_beaton_2
+	
+	2372.5.18={birth=yes}
+	2419.5.13={death=yes}
+}
+oilvreis_beaton={
+	name="Oilvreis"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=lomond_beaton
+	
+	2398.7.12={birth=yes}
+	2444.6.3={death=yes}
+}
+gordan_beaton={
+	name="G_o_grv_rdan"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=oilvreis_beaton
+	
+	2435.7.5={birth=yes}
+	2455.1.1={add_spouse=juno_mcneil}
+	2477.11.17={death=yes}
+}
+juno_mcneil={
+	name="Juno"
+	dynasty=dynn_canada_mcneil
+	female=yes
+	
+	culture=maritimer
+	religion=remembrant
+	
+	2434.4.14={birth=yes}
+	2455.1.1={add_spouse=gordan_beaton}
+	2483.1.22={death=yes}
+}
+duncan_beaton={
+	name="Duncan"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=gordan_beaton
+	mother=juno_mcneil
+	
+	2454.9.15={birth=yes}
+	2504.7.13={death=yes}
+}
+seumas_beaton={
+	name="Seumas"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=duncan_beaton
+	
+	2499.5.20={birth=yes}
+	2560.7.18={death=yes}
+}
+duich_beaton={
+	name="Duich"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=seumas_beaton
+	
+	2533.3.17={birth=yes}
+	2567.1.1={add_spouse=marigold_wood}
+	2584.2.26={death=yes}
+}
+marigold_wood={
+	name="Marigold"
+	dynasty=dynn_canada_wood
+	female=yes
+	
+	culture=maritimer
+	religion=remembrant
+	
+	2546.6.13={birth=yes}
+	2567.1.1={add_spouse=duich_beaton}
+	2597.1.21={death=yes}
+}
+seonaidh_beaton={
+	name="Seonaidh"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=duich_beaton
+	mother=marigold_wood
+	
+	trait=education_martial_4
+	trait=lustful
+	trait=brave
+	trait=just
+	trait=lifestyle_blademaster
+	
+	2569.5.27={birth=yes}
+	2590.1.1={give_nickname=nick_den_chlaideamh_mear}
+	2598.1.28={death={death_reason=death_shot killer=darrell_irving}}
+}
+basil_beaton={
+	name="Basil"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=duich_beaton
+	mother=marigold_wood
+	
+	trait=education_martial_3
+	trait=vengeful
+	trait=brave
+	trait=diligent
+	trait=scarred
+	trait=torturer
+	trait=murderer
+	trait=twin
+	
+	2570.11.18={birth=yes}
+	2590.1.1={give_nickname=nick_the_irving_slayer}
+	2595.1.1={add_spouse=basil_beaton}
+	2611.4.9={death={death_reason=death_decapitated killer=donny_irving}}
+}
+peggy_brothers={
+	name="Peggy"
+	dynasty=dynn_canada_brothers
+	female=yes
+	
+	culture=maritimer
+	religion=remembrant
+	
+	2574.3.27={birth=yes}
+	2595.1.1={add_spouse=basil_beaton}
+	2634.3.28={death=yes}
+}
+domhnall_beaton={
+	name="D_o_grv_mhnull"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=duich_beaton
+	mother=marigold_wood
+	
+	trait=education_stewardship_2
+	trait=compassionate
+	trait=trusting
+	trait=content
+	trait=twin
+	
+	2570.11.18={birth=yes}
+	2639.1.2={death=yes}
+}
+winchester_beaton={
+	name="Winchester"
+	dynasty=dynn_canada_beaton
+	disallow_random_traits=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=gordan_beaton
+	mother=juno_mcneil
+	
+	trait=education_diplomacy_3
+	trait=arbitrary
+	trait=impatient
+	trait=brave
+	
+	2456.12.24={birth=yes}
+	2360.1.1={give_nickname=nick_an_cosach}
+	2493.04.01={death={death_reason=death_neck_broken killer=eoghan_macaskill}}
+}
+samantha_spitfire_beaton={
+	name="Samantha"
+	dynasty=dynn_canada_beaton
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=winchester_beaton
+	
+	2488.2.16={birth=yes}
+	2500.1.1={give_nickname=nick_spitfire}
+	2523.4.30={death=yes}
+}
+wylie_ii_beaton={
+	name="Wylie"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	mother=samantha_spitfire_beaton
+	
+	trait=education_martial_1
+	trait=arrogant
+	trait=brave
+	trait=zealous
+	trait=drunkard
+	trait=lunatic_1
+	trait=intellect_bad_2
+	
+	2516.7.18={birth=yes}
+	2530.1.1={give_nickname=nick_the_delusionaler_drunker_bastard}
+	2535.10.31={death={death_reason=death_duel killer=cecil_ii_irving}}
+}
+aether_beaton={
+	name="Aether"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=lomond_beaton
+	
+	2401.8.20={birth=yes}
+	2454.9.27={death=yes}
+}
+solamh_beaton={
+	name="Solamh"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=aether_beaton
+	
+	2432.9.12={birth=yes}
+	2483.10.10={death=yes}
+}
+morag_beaton={
+	name="M_o_act_rag"
+	dynasty=dynn_canada_beaton
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=solamh_beaton
+	
+	2458.4.10={birth=yes}
+	2509.9.13={death=yes}
+}
+lee_beaton={
+	name="Lee"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	mother=morag_beaton
+	
+	2488.3.23={birth=yes}
+	2534.7.7={death=yes}
+}
+niallghus_beaton={
+	name="Niallghus"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=lee_beaton
+	
+	2527.11.12={birth=yes}
+	2590.8.25={death=yes}
+}
+wylie_iii_beaton={
+	name="Wylie"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=niallghus_beaton
+	
+	2556.1.27={birth=yes}
+	2619.12.19={death=yes}
+}
+raghnall_beaton={
+	name="Raghnall"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=wylie_iii_beaton
+	
+	2600.1.19={birth=yes}
+	2638.7.1={death=yes}
+}
+heather_beaton={
+	name="Heather"
+	dynasty=dynn_canada_beaton
+	female=yes
+	
+	culture=gaidheal
+	religion=remembrant
+	father=raghnall_beaton
+	
+	2620.3.20={birth=yes}
+}
+canada_beaton_artair={
+	name="Artair"
+	dynasty=dynn_canada_beaton
+	
+	culture=gaidheal
+	religion=remembrant
+	father=canada_beaton_peadair
+	mother=canada_vanexheim_heather
+	
+	trait=forgiving
+	trait=generous
+	trait=compassionate
+	
+	2295.1.17={birth=yes}
+	2300.1.1={give_nickname=nick_an_trocaireach}
+	2314.6.29={death=yes}
+}
+ronnie_rafuse={
+	name="Ronnie"
+	dynasty=dynn_canada_rafuse
+	disallow_random_traits=yes
+	
+	culture=maritimer
+	religion=remembrant
+	
+	trait=education_diplomacy_2
+	trait=arrogant
+	trait=deceitful
+	trait=lazy
+	
+	2382.2.26={birth=yes}
+	2400.1.1={give_nickname=nick_the_cocky}
+	2408.10.10={death={death_reason=death_murder_known killer=ladislas_froiquingont}}
+}
+jean_baptiste_froiquingont={
+	name="Jean-Baptiste"
+	dynasty=dynn_canada_froiquingont
+	
+	culture=acadien
+	religion=mervivant
+	
+	2324.1.26={birth=yes}
+	2386.11.10={death=yes}
+}
+ladislas_froiquingont={
+	name="Ladislas"
+	dynasty=dynn_canada_froiquingont
+	disallow_random_traits=yes
+	
+	culture=acadien
+	religion=mervivant
+	father=jean_baptiste_froiquingont
+	
+	trait=education_learning_3
+	trait=forgiving
+	trait=diligent
+	trait=temperate
+	trait=cancer
+	trait=pneumonic
+	trait=typhus
+	trait=gout_ridden
+	
+	2356.8.14={birth=yes}
+	2400.1.1={give_nickname=nick_the_king_of_disease}
+	2425.2.3={death={death_reason=death_typhus}}
+}
+matthieu_froiquingont={
+	name="Mathieu"
+	dynasty=dynn_canada_froiquingont
+	disallow_random_traits=yes
+	
+	culture=acadien
+	religion=mervivant
+	father=ladislas_froiquingont
+	
+	trait=education_learning_4
+	trait=honest
+	trait=gregarious
+	trait=diligent
+	trait=saint
+	trait=blind
+	
+	2407.3.21={birth=yes}
+	2450.1.1={give_nickname=nick_le_ploquer_saint}
+	2485.9.9={death={death_reason=death_old_age}}
+}
+benwah_sylliboy={
+	name="Benwah"
+	dynasty=dynn_canada_sylliboy
+	disallow_random_traits=yes
+	
+	culture=mikmaw
+	religion=nnu_asutmamg
+	
+	trait=education_stewardship_4
+	trait=diligent
+	trait=just
+	trait=generous
+	trait=architect
+	trait=journaller
+	
+	2422.4.25={birth=yes}
+	2450.1.1={give_nickname=nick_ngutei_kopit}
+	2465.1.17={death={death_reason=death_execution killer=primrose_irving}}
+}
+dergavel_i_irving={ 
+	name="Dergavel"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=anglican
+	
+	trait=education_martial_4
+	trait=just
+	trait=stubborn
+	trait=ambitious
+	trait=family_first
+
+	1865.9.27={birth=yes}
+	1900.1.1={give_nickname=nick_the_patriarch}
+	2186.6.6={death={death_reason=death_old_age}}
+}
+casey_irving={ 
+	name="Casey"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=soiltapper
+	father=dergavel_i_irving
+	
+	trait=education_stewardship_4
+	trait=diligent
+	trait=compassionate
+	trait=humble
+	trait=intellect_good_2
+
+	1966.10.8={birth=yes}
+	2200.1.1={give_nickname=nick_the_entrepreneur}
+	2256.12.15={death={death_reason=death_old_age}}
+}
+phoenix_irving={ 
+	name="Phoenix"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=soiltapper
+	father=casey_irving
+	
+	trait=education_intrigue_1
+	trait=lazy
+	trait=arrogant
+	trait=lustful
+	trait=intellect_bad_1
+
+	2227.9.24={birth=yes}
+	2250.1.1={give_nickname=nick_the_boomaler}
+	2277.12.15={death=yes}
+}
+cecil_irving={ 
+	name="Cecil"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=soiltapper
+	father=phoenix_irving
+	
+	trait=education_martial_1
+	trait=sadistic
+	trait=arrogant
+	trait=paranoid
+	trait=lunatic_1
+
+	2260.7.28={birth=yes}
+	2250.1.1={give_nickname=nick_the_mad}
+	2318.11.11={death={death_reason=death_duel killer=wylie_beaton}}
+}
+james_irving={ 
+	name="James"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=anglican
+	father=phoenix_irving
+
+	2265.4.23={birth=yes}
+	2324.3.15={death=yes}
+}
+piper_irving={ 
+	name="Piper"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=anglican
+	father=james_irving
+
+	2300.6.14={birth=yes}
+	2347.2.26={death=yes}
+}
+john_irving={ 
+	name="John"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	mother=piper_irving
+
+	2330.4.17={birth=yes}
+	2385.11.29={death=yes}
+}
+john_irving_2={ 
+	name="John"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=john_irving
+
+	2350.8.10={birth=yes}
+	2414.4.9={death=yes}
+}
+ezekiel_irving={ 
+	name="Ezekiel"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=john_irving_2
+
+	2372.8.5={birth=yes}
+	2433.6.12={death=yes}
+}
+kermit_irving={ 
+	name="Kermit"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=ezekiel_irving
+
+	2411.8.17={birth=yes}
+	2450.12.3={death=yes}
+}
+primrose_irving={ 
+	name="Primrose"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=kermit_irving
+
+	trait=education_diplomacy_2
+	trait=paranoid
+	trait=gregarious
+	trait=deceitful
+	trait=twin
+
+	2438.9.7={birth=yes}
+	2450.1.1={give_nickname=nick_the_conspiracy_theorist}
+	2472.3.19={death={death_reason=death_murder_known killer=jim_irving}}
+}
+jim_irving={ 
+	name="Jim"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=kermit_irving
+
+	trait=education_intrigue_2
+	trait=sadistic
+	trait=wrathful
+	trait=deceitful
+	trait=twin
+	trait=kinslayer_3
+
+	2438.9.7={birth=yes}
+	2450.1.1={give_nickname=nick_the_twinslayer}
+	2481.9.10={death={death_reason=death_disemboweled killer=winchester_beaton}}
+}
+percival_irving={ 
+	name="Percival"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=kermit_irving
+
+	2443.6.1={birth=yes}
+	2507.5.12={death=yes}
+}
+jade_irving={ 
+	name="Jade"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=percival_irving
+
+	2488.1.28={birth=yes}
+	2529.7.31={death=yes}
+}
+cecil_ii_irving={ 
+	name="Cecil"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=soiltapper
+	mother=jade_irving
+
+	trait=education_martial_1
+	trait=arrogant
+	trait=brave
+	trait=paranoid
+	trait=drunkard
+	trait=lunatic_1
+	trait=intellect_bad_3
+
+	2514.4.13={birth=yes}
+	2530.1.1={give_nickname=nick_the_delusionalest_drunkest_bastard}
+	2535.10.31={death={death_reason=death_duel killer=orin_b_i}}
+}
+forrest_irving={ 
+	name="Forrest"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	mother=jade_irving
+
+	2521.7.9={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+winter_irving={ 
+	name="Winter"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=forrest_irving
+
+	2546.1.17={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+ash_irving={ 
+	name="Ash"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=forrest_irving
+
+	2551.10.22={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+bartholomew_irving={ 
+	name="Bartholomew"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=ash_irving
+
+	2581.1.15={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+matthew_irving={ 
+	name="Matthew"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=percival_irving
+
+	2491.6.23={birth=yes}
+	2538.9.11={death=yes}
+}
+reece_irving={ 
+	name="Reece"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=matthew_irving
+
+	2528.5.14={birth=yes}
+	2544.8.4={death=yes}
+}
+donny_irving={ 
+	name="Donny"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=reece_irving
+
+	trait=education_stewardship_3
+	trait=just
+	trait=compassionate
+	trait=paranoid
+	trait=scarred
+	trait=disfigured
+	trait=intellect_bad_3
+
+	2548.11.30={birth=yes}
+	2550.1.1={give_nickname=nick_the_ablaze}
+	2620.09.03={death=yes}
+}
+bob_irving={ 
+	name="Bob"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=reece_irving
+
+	2552.6.9={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+lawrence_irving={ 
+	name="Lawrence"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=bob_irving
+
+	2580.4.3={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+chuck_irving={ 
+	name="Chuck"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=bob_irving
+
+	2581.12.8={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+quivox_irving={ 
+	name="Quivox"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=bob_irving
+
+	2583.4.30={birth=yes}
+	2640.12.10={death=yes}
+}
+samson_irving={ 
+	name="Samson"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=bob_irving
+
+	2585.3.2={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+clint_irving={ 
+	name="Clint"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	father=matthew_irving
+
+	2541.11.8={birth=yes}
+	2597.6.26={death=yes}
+}
+darrell_irving={ 
+	name="Darrell"
+	dynasty=dynn_canada_irving
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=clint_irving
+
+	trait=education_diplomacy_3
+	trait=compassionate
+	trait=diligent
+	trait=wrathful
+	trait=murderer
+
+	2576.10.15={birth=yes}
+	2590.1.1={give_nickname=nick_the_kind_hearted_killer}
+	2600.11.11={death={death_reason=death_throat_slit killer=basil_beaton}}
+}
+lavender_irving={ 
+	name="Lavender"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=clint_irving
+
+	2578.4.9={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+kimos_irving={ 
+	name="Kimos"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	mother=lavender_irving
+
+	2597.9.3={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+kenneth_irving={ 
+	name="Kenneth"
+	dynasty=dynn_canada_irving
+
+	culture=maritimer
+	religion=remembrant
+	mother=lavender_irving
+
+	2599.6.8={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+theodora_irving={ 
+	name="Theodora"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=clint_irving
+
+	2580.1.25={birth=yes}
+	2600.11.11={death={death_reason=death_execution killer=basil_beaton}}
+}
+delphine_irving={ 
+	name="Delphine"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	father=john_irving
+
+	2352.4.6={birth=yes}
+	2379.9.15={death=yes}
+}
+jacqueline_irving={ 
+	name="Jacqueline"
+	dynasty=dynn_canada_irving
+	female=yes
+
+	culture=maritimer
+	religion=remembrant
+	mother=delphine_irving
+
+	2375.2.7={birth=yes}
+	2395.1.1={add_spouse=horas_beaton}
+	2424.7.15={death=yes}
+}
+eoghan_macaskill={
+	name="E_o_grv_ghann"
+	dynasty=dynn_canada_macaskill
+	disallow_random_traits=yes
+	
+	culture=gaidheal
+	religion=pelagic
+	
+	trait=education_martial_2
+	trait=lifestyle_blademaster
+	trait=calm
+	trait=brave
+	trait=stubborn
+	trait=lunatic_1
+	trait=giant
+	trait=physique_good_3
+	trait=athletic
+	
+	2468.7.8={birth=yes}
+	2475.1.1={give_nickname=nick_the_king_for_a_day}
+	2503.12.31={death={death_reason=death_whale}}
+}
+killian_nageira={
+	name="Killian"
+	dynasty=dynn_canada_power
+
+	culture=newfoundlander
+	religion=pelagic
+
+	2400.3.2={birth=yes}
+	2475.4.29={death=yes}
+}
+max_nageira={
+	name="Max"
+	dynasty=dynn_canada_power
+	disallow_random_traits=yes
+
+	culture=newfoundlander
+	religion=pelagic
+	father=killian_nageira
+
+	trait=education_martial_3
+	trait=gregarious
+	trait=stubborn
+	trait=generous
+
+	2435.3.6={birth=yes}
+	2475.1.1={give_nickname=nick_king_by_chance}
+	2498.12.12={death={death_reason=death_knife_juggling}}
+}
+craig_nageira={
+	name="Craig"
+	dynasty=dynn_canada_power
+	disallow_random_traits=yes
+
+	culture=newfoundlander
+	religion=pelagic
+	father=max_nageira
+
+	trait=education_stewardship_4
+	trait=just
+	trait=honest
+	trait=temperate
+	trait=shrewd
+	trait=administrator
+
+	2457.9.13={birth=yes}
+	2475.1.1={give_nickname=nick_the_lawgiver}
+	2520.04.01={death={death_reason=death_old_age}}
+}
+frankie_nageira={
+	name="Frankie"
+	dynasty=dynn_canada_power
+	disallow_random_traits=yes
+
+	culture=newfoundlander
+	religion=pelagic
+	father=craig_nageira
+
+	trait=education_intrigue_1
+	trait=honest
+	trait=fickle
+	trait=forgiving
+	trait=intellect_bad_3
+
+	2499.12.15={birth=yes}
+	2520.1.1={give_nickname=nick_fishbrains}
+	2627.04.01={death={death_reason=death_old_age}}
+}
+tetaqulguni_basque={
+	name="Tetaqulguni"
+	dynasty=dynn_canada_basque
+	disallow_random_traits=yes
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+
+	trait=education_martial_4
+	trait=calm
+	trait=just
+	trait=physique_good_3
+	trait=dwarf
+	trait=athletic
+
+	2501.10.23={birth=yes}
+	2520.1.1={give_nickname=nick_ngutei_mikumwess}
+	2535.02.13={death={death_reason=death_disappearance}}
+}
+joseph_godin={
+	name="Joseph"
+	dynasty=dynn_canada_godin
+	disallow_random_traits=yes
+
+	culture=acadien
+	religion=mervivant
+	father=tetaqulguni_basque
+	mother=brigitte_godin
+
+	trait=education_diplomacy_2
+	trait=calm
+	trait=lazy
+	trait=trusting
+	trait=bastard
+
+	2498.2.19={birth=yes}
+	2520.1.1={give_nickname=nick_le_batard}
+	2549.6.19={death={death_reason=death_drowned}}
+}
+brigitte_godin={
+	name="Brigitte"
+	dynasty=dynn_canada_godin
+	female=yes
+
+	culture=acadien
+	religion=mervivant
+
+	2474.8.19={birth=yes}
+	2529.1.21={death=yes}
+}
+vaughn_covenhoven={
+	name="Vaughn"
+	dynasty=dynn_canada_covenhoven
+	disallow_random_traits=yes
+
+	culture=maritimer
+	religion=pelagic
+
+	trait=education_diplomacy_4
+	trait=gregarious
+	trait=honest
+	trait=impatient
+	trait=hashishiyah
+	trait=drunkard
+	trait=lifestyle_reveler
+
+	2530.2.26={birth=yes}
+	2550.1.1={give_nickname=nick_the_party_animal}
+	2565.03.9={death={death_reason=death_venomous_snake_accident}}
+}
+awokwejit_macgilleathain={
+	name="Awo_kwejit"
+	dynasty=dynn_canada_macmigomatachd
+
+	culture=mikmaw
+	religion=pelagic
+
+	2524.7.25={birth=yes}
+	2556.8.26={death=yes}
+}
+thomais_macgilleathain={
+	name="Th_o_grv_mais"
+	dynasty=dynn_canada_macmigomatachd
+	disallow_random_traits=yes
+
+	culture=gaidheal
+	religion=pelagic
+	father=awokwejit_macgilleathain
+
+	trait=education_learning_3
+	trait=brave
+	trait=diligent
+	trait=trusting
+	trait=theologian
+
+	2550.10.10={birth=yes}
+	2575.1.1={give_nickname=nick_macmicmac}
+	2585.6.12={death=yes}
+}
+kijsakamow_christmas={
+	name="Kjisakamow"
+	dynasty=dynn_canada_christmas
+	disallow_random_traits=yes
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+
+	trait=education_learning_3
+	trait=zealous
+	trait=ambitious
+	trait=stubborn
+	trait=one_eyed
+
+	2521.4.21={birth=yes}
+	2575.1.1={give_nickname=nick_newtalqigwat}
+	2591.1.25={death={death_reason=death_cancer}}
+}
+marie_antoinette_christmas={
+	name="Marie-Antoinette"
+	dynasty=dynn_canada_christmas
+	disallow_random_traits=yes
+	female=yes
+
+	culture=mikmaw
+	religion=nnu_asutmamg
+	father=kijsakamow_christmas
+
+	trait=education_stewardship_2
+	trait=compassionate
+	trait=shy
+	trait=craven
+
+	2571.3.26={birth=yes}
+	2575.1.1={give_nickname=nick_ngutei_mimikej}
+}
+
+
+fachny_littlejohn = {
+	name = "Fachny"
+	dynasty = dynn_Littlejohn_ca
+	disallow_random_traits = yes
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+
+	trait = education_diplomacy_3
+	trait = stubborn
+	trait = diligent
+	trait = content
+	trait = poet
+	trait = scarred
+	trait = one_eyed
+	trait = one_legged
+	trait = family_first
+	sexuality = heterosexual
+	
+
+	2599.5.6 = { birth = yes }
+	2634.2.28 = { add_spouse = lynn_power }
+	2655.1.1 = { give_nickname = nick_the_storyteller }
+}
+
+lynn_power = {
+	name = "Lynn"
+	dynasty = dynn_Power
+	female = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	2607.4.3 = { birth = yes }
+	2634.2.28 = { add_spouse = fachny_littlejohn }
+}
+
+enoch_littlejohn = {
+	name = "Enoch"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2623.6.1 = { birth = yes }
+}
+
+
+mahitable_littlejohn = {
+	name = "Mahitable"
+	dynasty = dynn_Littlejohn_ca
+	female = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2626.8.9 = { birth = yes }
+}
+
+ralph_littlejohn = {
+	name = "Ralph"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2629.10.22 = { birth = yes }
+}
+
+mac_littlejohn = {
+	name = "Mac"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2636.2.14 = { birth = yes }
+}
+
+dawn_littlejohn = {
+	name = "Dawn"
+	dynasty = dynn_Littlejohn_ca
+	female = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2647.11.11 = { birth = yes }
+}
+
+james_littlejohn = {
+	name = "James"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2649.4.21 = { birth = yes }
+}
+
+fachny_jr_littlejohn = {
+	name = "Fachny"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2651.1.26 = { birth = yes }
+}
+
+
+jake_littlejohn = {
+	name = "Jake"
+	dynasty = dynn_Littlejohn_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	father = fachny_littlejohn
+	mother = lynn_power
+	
+	2658.5.7 = { birth = yes }
+}
+
+koldobika_lizaga = { 
+	name = "Gwenchlan"
+	dynasty = dynn_de_Lizarraga
+	female = no
+	disallow_random_traits = yes
+
+	culture = pierrais
+	religion = pelagic
+	
+	trait = education_learning_4
+	trait = compassionate
+	trait = calm
+	trait = generous
+	trait = lifestyle_physician
+	sexuality = asexual
+	
+	2627.7.5 = { birth = yes }
+	2665.1.1 = {
+		effect = {
+			add_secret = { type = secret_cannibal }
+		}
+	}
+}
+
+leary_murphy = { 
+	name = "Leary"
+	dynasty = dynn_Murphy_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	2603.5.27 = { birth = yes }
+	2660.2.11 = { death = yes }
+}
+
+kelly_murphy = { 
+	name = "Kelly"
+	dynasty = dynn_Murphy_ca
+	female = no
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = leary_murphy
+	
+	trait = education_diplomacy_3
+	trait = stubborn
+	trait = gregarious
+	trait = generous
+	trait = lifestyle_reveler
+	trait = drunkard
+	sexuality = bisexual
+	
+	2643.5.27 = { birth = yes }
+	2665.1.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:joseph_murphy }
+			set_relation_friend = { reason = friend_generic_history target = character:chase_murphy }
+		}
+	}
+}
+
+joseph_murphy = { 
+	name = "Joseph"
+	dynasty = dynn_Murphy_ca
+	female = no
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = leary_murphy
+	
+	trait = education_learning_4
+	trait = compassionate
+	trait = calm
+	trait = generous
+	trait = twin
+	sexuality = homosexual
+	
+	2644.4.3 = { birth = yes }
+	2665.1.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:chase_murphy }
+			# set_relation_friend = { reason = friend_generic_history target = character:kelly_murphy }
+		}
+		employer = kelly_murphy
+	}
+}
+
+chase_murphy = { 
+	name = "Denver"
+	dynasty = dynn_Murphy_ca
+	female = no
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = leary_murphy
+	
+	trait = education_martial_1
+	trait = gregarious
+	trait = deceitful
+	trait = impatient
+	trait = lunatic_1
+	trait = twin
+	sexuality = asexual
+	
+	2644.4.3 = { birth = yes }
+	2665.1.1 = {
+		# effect = {
+		# 	set_relation_friend = { reason = friend_generic_history target = character:joseph_murphy }
+		# 	set_relation_friend = { reason = friend_generic_history target = character:kelly_murphy }
+		# }
+		employer = kelly_murphy
+	}
+}
+
+
+rory_lory = { 
+	name = "Rory"
+	dynasty = dynn_Lory_ca
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	2601.3.3 = { birth = yes }
+	2661.4.13 = { death = yes }
+}
+
+kori_mori = { 
+	name = "Kori"
+	dynasty = dynn_Mori
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	2600.7.18 = { birth = yes }
+	2662.3.15 = { death = yes }
+}
+
+
+
+jory_lory = { 
+	name = "Jory"
+	dynasty = dynn_Lory_ca
+	female = no
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = rory_lory
+	mother = kori_mori
+	
+	trait = education_stewardship_3
+	trait = honest
+	trait = forgiving
+	trait = diligent
+	trait = physique_bad_2
+	trait = intellect_good_2
+	trait = denounced
+	sexuality = heterosexual
+	
+	2641.6.13 = { birth = yes }
+}
+
+tory_lory = { 
+	name = "Tory"
+	dynasty = dynn_Lory_ca
+	female = no
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	father = rory_lory
+	mother = kori_mori
+	
+	trait = education_intrigue_2
+	trait = deceitful
+	trait = sadistic
+	trait = lazy
+	trait = physique_good_1
+	trait = intellect_bad_1
+	sexuality = homosexual
+	
+	2642.11.15 = { birth = yes }
+}
+
+grace_laverty = { 
+	name = "Grace"
+	dynasty = dynn_Laverty_ca
+	female = yes
+	disallow_random_traits = yes
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	trait = education_martial_3
+	trait = just
+	trait = brave
+	trait = diligent
+	trait = lifestyle_blademaster
+	trait = reaver
+	trait = organizer
+	sexuality = heterosexual
+	
+	2631.10.25 = { birth = yes }
+	
+	2650.1.1 = { add_spouse = theophilus_picot }
+}
+
+theophilus_picot = { 
+	name = "Theophilus"
+	dynasty = dynn_canada_picot
+	female = no
+
+	culture = newfoundlander
+	religion = pelagic
+	
+	2620.8.5 = { birth = yes }
+	
+	2650.1.1 = { add_spouse = grace_laverty }
+}
+
+
+nipnikus_wikanak = {
+	name = "Nipnikus"
+	dynasty = dynn_Wikanak
+	female = no
+	disallow_random_traits = yes
+
+	culture = mikmaw
+	religion = pelagic
+	father = patligste_wikanak
+	
+	trait = education_stewardship_3
+	trait = temperate
+	trait = trusting
+	trait = brave
+	trait = giant
+	trait = twin
+	trait = inappetetic
+	trait = depressed_1
+	sexuality = heterosexual
+	
+	2635.4.2 = { birth = yes }
+}
+
+jimej_wikanak = {
+	name = "Ji_pst_me_pst_j"
+	dynasty = dynn_Wikanak
+	female = yes
+
+	culture = mikmaw
+	religion = pelagic
+	father = patligste_wikanak
+	disallow_random_traits = yes
+	
+	trait = education_intrigue_1
+	trait = temperate
+	trait = trusting
+	trait = shy
+	trait = giant
+	trait = twin
+	sexuality = bisexual
+	
+	2635.4.2 = { birth = yes }
+	2666.6.7 = { death = yes }
+}
+
+patligste_wikanak = {
+	name = "Patligste"
+	dynasty = dynn_Wikanak
+	female = no
+
+	culture = mikmaw
+	religion = pelagic
+	
+	2605.7.20 = { birth = yes }
+	2663.8.17 = { death = yes }
+}
+
+canada_kisa_sonja ={ # c_westmorland
+	name="Sonja"
+	dynasty=dynn_canada_lang
+	female = yes
+
+	culture=chiac
+	religion=remembrant
+
+	trait=education_learning_3
+	trait=honest
+	trait=diligent
+	trait=temperate
+	trait=scholar
+	trait=poet
+
+	2625.4.2 = {
+		birth=yes
+		learn_language = language_maritime
+		learn_language = language_acadien
+		learn_language = language_gaelic
+		learn_language = language_mikmaq
+		learn_language = language_yankee
+		learn_language = language_canadien
+		learn_language = language_irontongue
+		learn_language = language_newfinese
+		learn_language = language_gothamite
+		learn_language = language_innu
+	}
+}
+
+canada_rayhannon_alaizaridis = { #c_waterloo
+	name = "Rayhannon"
+	dynasty = dynn_canada_alaizaridis
+	culture = sixer
+	religion = islahiyyun
+	female = yes
+	disallow_random_traits = yes
+	trait = education_martial_3
+	trait = generous
+	trait = forgiving
+	trait = brave
+	trait = beauty_good_1
+	trait = intellect_good_2
+	trait = adulterer
+	trait = tourney_participant
+
+	2636.1.1 = {
+		birth = yes
+	}
+	2666.6.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+	2666.7.4 = {
+		set_relation_lover = character:canada_qadri_yusef_1
+		add_matrilineal_spouse = canada_maytham_fregin
+		add_trait_xp = {
+			trait = tourney_participant
+			track = horse
+			value = 50
+		}
+	}
+}
+
+canada_maytham_fregin = {
+	name = "Maytham"
+	dynasty = dynn_canada_fregin
+	female = no
+	religion = islahiyyun
+	culture = sixer
+
+	2634.1.1 = {
+		birth = yes
+	}
+}
+canada_tahmont_jean_1 = { # c_drummond
+	name = "Jean"
+	dynasty = dynn_canada_tahomnt
+	dna = dna_canada_tahmont_jean_1
+	female = no
+	disallow_random_traits = no
+	
+	culture = abenaki
+	religion = ursuline
+
+	trait = education_learning_3
+	trait = content
+	trait = cynical
+	trait = craven
+	trait = one_legged
+	
+	2646.9.6 = {
+		birth = yes
+		
+	}
+}
+canada_castel_martin = { # k_quebec
+	name = "Martin"
+	dynasty = dynn_canada_castel
+	female = no
+	disallow_random_traits = no
+	
+	culture = quebecois
+	religion = ursuline
+
+	
+	
+	2531.2.9 = {
+		birth = yes
+		
+	}
+	2590.6.24 = {
+		death = "2590.6.24"
+	}
+}
+
+canada_turcot_claude = { 
+	name = "Claude"
+	dynasty = dynn_canada_turcot
+	female = no
+	disallow_random_traits = no
+	father = canada_turcot_serge
+	
+	culture = montrealais
+	religion = tranquillism
+
+
+	
+	2569.1.17 = {
+		birth = yes
+	}
+	2580.5.15 = {	
+		add_spouse = canada_castel_veronique_veronique
+	}
+	
+	2610.3.8 = {
+		death = "2610.3.8"
+	}
+}
+
+
+canada_turcot_serge = { 
+	name = "Serge"
+	dynasty = dynn_canada_turcot
+	female = no
+	disallow_random_traits = no
+	
+	
+	culture = montrealais
+	religion = tranquillism
+
+
+	
+	2542.10.2 = {
+		birth = yes
+	}
+	
+	2590.6.10 = {
+		death = "2590.6.10"
+	}
+}
+
+canada_bacon_isabelle = {
+	name = "Isabelle"
+	dynasty = dynn_canada_bacon
+	female = yes
+	disallow_random_traits = no
+	father = canada_bacon_nicolas
+	culture = innu
+	religion = ursuline
+
+	
+	2631.6.18 = {
+		birth = yes
+		
+	}
+	2645.1.1 = {
+		add_spouse = canada_castel_paul_1
+	}
+}
+
+canada_bacon_nicolas = {
+	name = "Nicolas"
+	dynasty = dynn_canada_bacon
+	female = no
+	disallow_random_traits = no
+	
+	culture = innu
+	religion = ursuline
+
+	
+	2603.6.18 = {
+		birth = yes
+		
+	}
+	2647.1.1 = {
+		death = "2647.1.1"
+	}
+}
+
+canada_saputo_daniel = { 
+	name = "Daniel"
+	dynasty = dynn_canada_saputo
+	female = no
+	disallow_random_traits = no
+	mother = canada_saputo_lorraine
+	culture = montrealais
+	religion = ursuline
+
+
+	
+	2619.6.20 = {
+		birth = yes
+		
+	}
+	2661.8.15 = {
+		death = "2661.8.15"
+	}
+}
+
+canada_saputo_lorraine = { 
+	name = "Lorraine"
+	dynasty = dynn_canada_saputo
+	female = yes
+	disallow_random_traits = no
+	
+	culture = montrealais
+	religion = ursuline
+
+
+	
+	2598.2.10 = {
+		birth = yes
+		
+	}
+	2631.4.2 = {
+		death = "2631.4.2"
+	}
+}

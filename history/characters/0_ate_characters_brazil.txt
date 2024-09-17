@@ -1,0 +1,164 @@
+﻿
+
+# TEMPLATE
+# 999001 = { #IDs 90000 and up should be safe
+	# name = "Henri"			#First Name
+	# dna = lyon_twin_dna_entry	#DNA from common/dna_data
+	# dynasty = 2100001 		#Add character to existing or new dynn_ Use dynasty = DYNASTY_ID for dynasties without houses, or dynasty_house = HOUSE_ID otherwise_ The dynasty ID and house ID can be found in common/dynasties and common\dynasty_houses,
+	# female = yes				#Characters are male by default (yikes), add this line to make yours female
+
+	#Attributes - capped at 100, will be random if not defined
+	# martial = 14
+	# diplomacy = 23
+	# intrigue = 10
+	# stewardship = 21
+	# learning = 1
+	# prowess = 1
+
+	# Religion and Culture
+	# religion = catholic
+	# culture = french
+
+	#Traits - can be added through trait = TRAIT_ID (see common/traits). No limit to how many cany be added_
+	# disallow_random_traits = yes	#Unless set to yes, game will add random traits
+	# trait = diligent
+	# trait = education_learning_4
+	# trait = just
+	# trait = twin
+	# trait = physique_good_3
+	# trait = intellect_good_3
+	# trait = beauty_good_3
+	# trait = shrewd
+
+	#Sexuality
+	# sexuality = asexual #Options (so far) are asexual, heterosexual, homosexual, bisexual
+
+	#Health & Fertility
+	# health = 1
+	# fertility = 1 #Looks like these are multipliers, so less than 1 would reduce fertility, >1 would increase it
+
+
+	#Define parents by referencing other character IDs
+	# father = 999003
+	# mother = 999004
+
+	#Birth and death must be defined
+	# 846.7.29 = {
+		# birth = yes
+	# }
+	# 920.5.25 = {
+		# death = yes
+	# }
+# }
+
+###BRAZIL###
+
+#Titular titles
+
+#brazil_de_braganca_pedro_9={
+#	name="Pedro"
+#	dynasty_house=house_brazil_cantarini_de_braganca #de Bragan?
+#	culture = carioca
+#	religion=apostolicism
+#	mother=2100014
+#	trait=gluttonous
+#	trait=content
+#	trait=wrathful
+#	2614.1.8={birth=yes}
+#	2648.8.20={death=yes}
+#}
+#brazil_de_braganca_pedro_10={
+#	name="Pedro"
+#	dynasty_house=house_brazil_cantarini_de_braganca #2004043 #de Bragan?
+#	culture=carioca
+#	religion=apostolicism
+#	father=brazil_de_braganca_pedro_9
+#	trait=trusting
+#	trait=gregarious
+#	trait=humble
+#	2615.3.10={birth=yes}
+#}
+
+brazil_mello_ana_jacinta_1 = { #Ana Jacinta aka Dona Beja
+	name = "Ana_Jacinta"
+	dynasty = dynn_brazil_mello
+	female = yes
+	culture = capiau
+	religion = apostolicism
+	2603.10.31 = {
+		birth = yes
+	}
+}
+
+brazil_trevisan_nelson_1 = {
+	name = "Nelson"
+	dynasty = dynn_brazil_trevisan
+	culture = paranaense
+	religion = celestism
+	2623.3.12 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract_brazilian_imperial
+                level = 2
+            }
+        }
+    }
+}
+
+#brazil_amarante_teresa_cristina_1 = {
+#	name = "Teresa_Cristina"
+#	dynasty = dynn_brazil_amarante
+#	female = yes
+#	culture = imperatrizense
+#	religion = assembleiano
+#	2638.9.21 = {
+#		birth = yes
+#	}
+#}
+
+brazil_cavalcanti_jorge_1 = {
+	name = "Jorge"
+	dynasty = dynn_brazil_cavalcanti
+	culture = recifolindense
+	religion = tambor_de_mina
+	father = brazil_cavalcanti_epitacio_epitacio_cavalcanti
+	2625.2.6 = {
+		birth = yes
+	}
+}
+
+#brazil_terra_cambara_erico_1 = {
+#	name = "E_act_rico"
+#	dynasty = dynn_brazil_terra_cambara
+#	culture = gaucho
+#	religion = farrapo
+#	2607.9.16 = {
+#		birth = yes
+#	}
+#}
+
+##governors
+
+#brazil_matarazzo_mauricio_1 = {
+#	name = "Mauricio"
+#	dynasty = dynn_brazil_matarazzo
+#	culture = paulistano
+#	religion = apostolicism
+#	2619.8.27 = {
+#		birth = yes
+#	}
+#}
+#
+#brazil_maciel_jose_claudio_1 = {
+#	name = "Jos_e_act__Claudio"
+#	dynasty = dynn_brazil_maciel
+#	culture = mineiro
+#	religion = apostolicism
+#	2619.8.27 = {
+#		birth = yes
+#	}
+#}

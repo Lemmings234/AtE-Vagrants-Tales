@@ -1,0 +1,6376 @@
+﻿character_brookings = {
+	name = "Zwingle"
+	religion = "lutheran"
+	culture = "heartlander"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_sioux_center = {
+	name = "Kimimela"
+	religion = "lutheran"
+	culture = "dakota"
+	female = yes
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_kabenagwewes = {
+	name = "Kabenagwewes"
+	religion = "midewiwin"
+	culture = "chippewa"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_massena = {
+	name = "Massena"
+	religion = "catholic"
+	culture = "hoosier"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_coles = {
+	name = "Charles"
+	religion = "catholic"
+	culture = "hoosier"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_tazewell = {
+	name = "Eureka"
+	religion = "catholic"
+	culture = "chicagoan"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_c_dupage = {
+	name = "Willis"
+	religion = "catholic"
+	culture = "chicagoan"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_acari = {
+	name = "Amador"
+	religion = "jolljepunco"
+	culture = "iqueno"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_acuna = {
+	name = "Humberto"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_c_akron = {
+	name = "Conrad"
+	religion = "mennonite"
+	culture = "buckeye"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_alachua = {
+	name = "Gene"
+	religion = "imaginerian"
+	culture = "sunshiner"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_alamosa = {
+	name = "Clymer"
+	religion = "shangrilaism"
+	culture = "neomexicano"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_alderetes = {
+	name = "Juan_Jos_e_act_"
+	religion = "santa_diablada"
+	culture = "chaqueno"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_allende = {
+	name = "Juana"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_c_santarem = {
+	name = "Simon"
+	religion = "edah_amazonah"
+	culture = "tapajoense"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_alvorada = {
+	name = "Ibura"
+	religion = "porantimao"
+	culture = "mawe"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_ambos_nogales = {
+	name = "Domingo"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_anapolis = {
+	name = "Hudson"
+	religion = "valley_of_dawn"
+	culture = "goiano"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_c_antioch = {
+	name = "Richard"
+	religion = "dreamweaver"
+	culture = "eightian"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_apartado = {
+	name = "Am_i_act_lcar"
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_apolo = {
+	name = "Germ_a_act_n"
+	religion = "pachamama_religion"
+	culture = "kolla"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_c_araguaina = {
+	name = "Vilmar"
+	religion = "wasahure_sena"
+	culture = "xambioa"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_ariquemes = {
+	name = "Edegar"
+	religion = "global_throne"
+	culture = "rondoniense"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+}
+character_c_arkabutla = {
+	name = "Jennie_Mae"
+	religion = "revelationist"
+	culture = "deltaic"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_ascencion_de_guarayos = {
+	name = "Casto"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_aurora = {
+	name = "Pedro"
+	religion = "ypykuera"
+	culture = "kaiowa"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_azul = {
+	name = "Germ_a_act_n"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_bagua = {
+	name = "Cresencio"
+	religion = "inkarri_religion"
+	culture = "charapa"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_bakersfield = {
+	name = "Clark"
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_bananal = {
+	name = "Patricia"
+	religion = "wasahure_sena"
+	culture = "tapirape"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_barcelos = {
+	name = "F_a_act_bio"
+	religion = "bahai"
+	culture = "manauara"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_barinas = {
+	name = "Luisa"
+	religion = "aria_de_machete"
+	culture = "llanero"
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_barra_da_estiva = {
+	name = "Jos_e_act__Nic_e_foro"
+	religion = "alternative_society"
+	culture = "chapadeiro"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+}
+character_c_bataipora = {
+	name = "Jac_o_act_"
+	religion = "pantaneiro"
+	culture = "maracaju"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_beauce = {
+	name = "Francois_Marie"
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_bell_ville = {
+	name = "Gustavo"
+	religion = "radicalista"
+	culture = "cordobes"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_benjamin_constant = {
+	name = "Felipe"
+	religion = "santo_daime"
+	culture = "trifinio"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_bermuda = {
+	name = "Robert"
+	religion = "brethren"
+	culture = "bermudian"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_bernalillo = {
+	name = "Lavell"
+	religion = "zetanology"
+	culture = "neomexicano"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_biguacu = {
+	name = "Pedro"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_craters_of_the_moon = {
+	name = "Anton"
+	religion = "mormon"
+	culture = "snakelander"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_bisbee = {
+	name = "Alfonso"
+	religion = "saguarorrinche"
+	culture = "arixan"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_blumenau = {
+	name = "Valdir"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+character_c_bois_franks = {
+	name = "Anne-Marie"
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_bolivar = {
+	name = "Boston"
+	religion = "community_of_christ"
+	culture = "ozark"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_borba = {
+	name = "Araponga"
+	religion = "santo_daime"
+	culture = "mawe"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_boulder = {
+	name = "Naropa"
+	religion = "shangrilaism"
+	culture = "coloradan"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_boundary = {
+	name = "William"
+	religion = "freedomite"
+	culture = "doukhobor"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_c_br_15_salinas = {
+	name = "Sebasti_a_tld_o"
+	religion = "reisado"
+	culture = "geralista"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+	effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract_brazilian_imperial
+                level = 1
+            }
+        }
+    }
+
+}
+character_c_brandao = {
+	name = "Em_i_act_lio"
+	religion = "sagarana"
+	culture = "veredista"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_breckenridge = {
+	name = "Dani"
+	religion = "shangrilaism"
+	culture = "coloradan"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_c_breves = {
+	name = "Vera-Lis"
+	religion = "pajelanca"
+	culture = "paraense"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_brigham_city = {
+	name = "Miranda"
+	dynasty = dynn_gibson_l
+	religion = "mormon"
+	culture = "utahn"
+	female = yes
+	trait = arrogant
+	trait = generous
+	trait = arbitrary
+	trait = education_intrigue_4
+	diplomacy = 3
+	martial = 3
+	stewardship = 4
+	intrigue = 4
+	learning = 2
+
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_brumado = {
+	name = "Ademir"
+	religion = "reisado"
+	culture = "geralista"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_butte = {
+	name = "Nadia"
+	religion = "interranger"
+	culture = "mountainer"
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_wapusk = {
+	name = "Cw_a_hat_n"
+	religion = "midewiwin"
+	culture = "woodland_cree"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+character_c_cabayu_cuatia = {
+	name = "Leopoldo"
+	religion = "santa_gilada"
+	culture = "litoraleno"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = range_government
+		}
+    }
+}
+character_c_calama = {
+	name = "Natalia"
+	religion = "syncado"
+	culture = "atacameno"
+	female = yes
+	2633.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+character_c_calbuco = {
+	name = "Leandro"
+	religion = "archipelagic"
+	culture = "chilote"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_c_caldas_novas = {
+	name = "Benedito"
+	religion = "kardecist"
+	culture = "goiano"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_calhoun = {
+	name = "Abel"
+	religion = "galvanist"
+	culture = "michigander"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_campeche = {
+	name = "Bydo"
+	religion = "neomayan"
+	culture = "yucateco"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+
+	2666.1.1 = {
+		effect = {
+			change_government = high_republic_government
+		}
+	}
+}
+character_c_campos_belos = {
+	name = "Sebasti_a_tld_o"
+	religion = "ciceritism"
+	culture = "veredista"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_cananea = {
+	name = "Reveriano"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+}
+character_c_canar = {
+	name = "Juan_Pablo"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_capulin = {
+	name = "Chuck"
+	religion = "real_road"
+	culture = "neomexicano"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+#character_c_caraguatatuba = {
+#	name = "Dimas"
+#	religion = "apostolicism"
+#	culture = "caicara"
+#	female = no
+#	2634.1.1 = {
+#		birth = yes
+#	}
+#	2749.1.1 = {
+#		death = yes
+#	}
+#}
+character_c_carangas = {
+	name = "Julio"
+	religion = "pachamama_religion"
+	culture = "aymara"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_caraveli = {
+	name = "Jos_e_act__Mar_i_act_a"
+	religion = "jolljepunco"
+	culture = "arequipeno"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+}
+character_c_cardenas = {
+	name = "Abel"
+	religion = "neomayan"
+	culture = "yoko_yinikob"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_carlsbad = {
+	name = "In_e_act_z"
+	religion = "soiltapper"
+	culture = "arixan"
+	female = yes
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_c_carmen = {
+	name = "Faustino"
+	religion = "neomayan"
+	culture = "yoko_yinikob"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_c_carmen_de_patagones = {
+	name = "Teodoro"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_carora = {
+	name = "Juliana"
+	religion = "tres_potencias"
+	culture = "guaro"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_cascade = {
+	name = "Hercule"
+	religion = "real_road"
+	culture = "badlander"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_cascavel_br = {
+	name = "Norberto"
+	religion = "celestism"
+	culture = "gaucho"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_casper = {
+	name = "Loren"
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_castanheira = {
+	name = "Percival"
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_castilla = {
+	name = "Marco_Antonio"
+	religion = "jolljepunco"
+	culture = "arequipeno"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_caxias = {
+	name = "Ant_o_hat_nio_Francisco"
+	religion = "ciceritism"
+	culture = "sertanejo"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_c_cedar_city = {
+	name = "Millard"
+	religion = "woolleyite"
+	culture = "utahn"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+character_c_cerro_gordo = { # I'm in auto_characters_filler!
+	# I've now got a family! My father is heartland_morereligions_robert, my mother is heartland_morereligions_tanna, and my sister, who is married to the king of Iowa, is heartland_morereligions_marla
+	name = "Bradley"
+	religion = "lutheran"
+	culture = "heartlander"
+	dynasty = dynn_morereligions_winona #Now I've got a dynasty too!
+	female = no
+	father = heartland_morereligions_robert
+	mother = heartland_morereligions_tanna
+
+	2614.1.1 = {
+		birth = yes
+	}
+
+}
+
+heartland_morereligions_robert = {
+	name = "Robert"
+	religion = "lutheran"
+	culture = "heartlander"
+	dynasty = dynn_morereligions_winona
+	female = no
+
+	2583.1.1 = {
+		birth = yes
+	}
+
+	2607.1.1 = {
+		add_spouse = heartland_morereligions_tanna
+	}
+
+	2651.1.1 = {
+		death = yes
+	}
+}
+
+heartland_morereligions_tanna = {
+	name = "Tanna"
+	religion = "lutheran"
+	culture = "heartlander"
+	dynasty = dynn_morereligions_winona
+	female = yes
+
+	2582.1.1 = {
+		birth = yes
+	}
+
+	2607.1.1 = {
+		add_spouse = heartland_morereligions_robert
+	}
+
+	2634.1.1 = {
+		death = yes
+	}
+}
+
+heartland_morereligions_marla = {
+	name = "Marla"
+	religion = "lutheran"
+	culture = "heartlander"
+	dynasty = dynn_morereligions_winona
+	female = yes
+	father = heartland_morereligions_robert
+	mother = heartland_morereligions_tanna
+
+	2627.1.1 = {
+		birth = yes
+	}
+
+	2652.1.1 = {
+		add_spouse = heartland_greysnow_franklin_1
+	}
+
+}
+
+character_c_chachapoyas = {
+	name = "Ar_i_act_stides"
+	religion = "divina_chicha"
+	culture = "huascareno"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_chamical = {
+	name = "Amado"
+	religion = "vendimia_sol"
+	culture = "turco"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_champaign = {
+	name = "Ira"
+	religion = "galvanist"
+	culture = "hoosier"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_channel_islands = {
+	name = "Gilberto"
+	religion = "gnarlist"
+	culture = "angeleno"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_chautauqua = {
+	name = "Randy"
+	religion = "galvanist"
+	culture = "steelfolk"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_chaves = {
+	name = "Ra_u_act_l"
+	religion = "zetanology"
+	culture = "arixan"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_chequamegon = {
+	name = "Zhaawanigiizhig"
+	religion = "midewiwin"
+	culture = "chippewa"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_chesapeake = {
+	name = "Pericles"
+	religion = "constitutionalist"
+	culture = "southron"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_chester = {
+	name = "Samuel"
+	religion = "anabaptist"
+	culture = "youser"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_cheyenne = {
+	name = "Adularia"
+	religion = "real_road"
+	culture = "mountainer"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_chilecito = {
+	name = "Alejo"
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_chilecito_ar = {
+	name = "Yamil"
+	religion = "vendimia_sol"
+	culture = "turco"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_chivilcoy = {
+	name = "Julio_C_e_act_sar"
+	religion = "federalista"
+	culture = "pampeano"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_choele_choel = {
+	name = "Antonio"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_cicero_dantas = {
+	name = "Quatro-de-Janeiro"
+	religion = "compadecidos"
+	culture = "franciscano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_clarke = {
+	name = "Casey"
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_c_cleveland = {
+	name = "Roger"
+	religion = "galvanist"
+	culture = "buckeye"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_c_clodomira = {
+	name = "Rolando"
+	religion = "animism"
+	culture = "chaqueno"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_co_25_san_andr_s = {
+	name = "Charles_George"
+	religion = "moravian"
+	culture = "raizal"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_pailon = {
+	name = "Arandu"
+	dynasty = "dynn_para_Aranda"
+	religion = "particularist"
+	culture = "nhandeva"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_velasco = {
+	name = "Juan"
+	dynasty = "dynn_para_Tapiis"
+	religion = particularist
+	culture = chiquitano
+	2647.6.5 = {
+		birth = yes
+	}
+}
+
+character_c_cobija = {
+	name = "Caciano"
+	religion = "porantimao"
+	culture = "huni_kuin"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_cody = {
+	name = "Copal"
+	religion = "interranger"
+	culture = "mountainer"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_colca = {
+	name = "Nemesio"
+	religion = "inti_religion"
+	culture = "arequipeno"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_colonia = {
+	name = "Alicia"
+	religion = "waldensian"
+	culture = "urbuguayo"
+	female = yes
+	2651.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_colorado_springs = {
+	name = "Griner"
+	religion = "interranger"
+	culture = "coloradan"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_com_indig_10_de_febrero = {
+	name = "Aryon"
+	religion = "particularist"
+	culture = "nhandeva"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_comarapa = {
+	name = "Juana"
+	religion = "mesias_che"
+	culture = "kolla"
+	female = yes
+	2630.1.1 = {
+		birth = yes
+	}
+	2709.1.1 = {
+		death = yes
+	}
+}
+character_c_concepcion_py = {
+	name = "Mart_i_act_n"
+	religion = "particularist"
+	culture = "yopara"
+	female = no
+	trait = education_martial_3
+    trait = arbitrary
+    trait = ambitious
+    trait = stubborn
+    trait = scholar
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_cool = {
+	name = "Richard"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_coronel_suarez = {
+	name = "Sim_o_act_n"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_c_corpen_aike = {
+	name = "Ricardo"
+	religion = "xoon"
+	culture = "santacruceno"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_cotagaita = {
+	name = "Rodrigo"
+	religion = "santa_diablada"
+	culture = "kolla"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+}
+character_c_cotopaxi = {
+	name = "Edwin"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_c_couve = {
+	name = "Sylvia"
+	religion = "gaian"
+	culture = "cascadian"
+	female = yes
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_covo = {
+	name = "Tito"
+	religion = "celestism"
+	culture = "yguazuano"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_crescent_valley = {
+	name = "Alvaro"
+	religion = "sagestepper"
+	culture = "battleborn"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_creston = {
+	name = "Akatli_pst_it"
+	religion = "waashat"
+	culture = "ktunaxa"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_c_criciuma = {
+	name = "Gentil"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_cruz_alta = {
+	name = "Perp_e_act_tua"
+	religion = "celestism"
+	culture = "gaucho"
+	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_cruz_del_eje = {
+	name = "Facundo"
+	religion = "animism"
+	culture = "cordobes"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_c_cuauhtemoc = {
+	name = "Fred"
+	religion = "mennonite"
+	culture = "plautsdeutsch"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_c_curiapo = {
+	name = "Natalio"
+	religion = "tres_potencias"
+	culture = "warao"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_currais_novos = {
+	name = "Adriano"
+	dynasty = "dynn_brazil_oliveira_galvao"
+	religion = "anussim"
+	culture = "seridoense"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_c_davis = {
+	name = "Elton"
+	religion = "humanistic_buddhism"
+	culture = "eightian"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+}
+character_c_de_corral_quemado = {
+	name = "Ainelen"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_de_san_pedro = {
+	name = "Marcelo"
+	religion = "particularist"
+	culture = "yopara"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_de_soto = {
+	name = "Avery"
+	religion = "voodoo"
+	culture = "dixie"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_dean_funes = {
+	name = "Sandra"
+	religion = "radicalista"
+	culture = "cordobes"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_deer_lodge = {
+	name = "Hesperus"
+	religion = "interranger"
+	culture = "mountainer"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_delaware = {
+	name = "Emrick"
+	religion = "galvanist"
+	culture = "hoosier"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_denver = {
+	name = "John"
+	religion = interranger
+	culture = "coloradan"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_dolores = {
+	name = "Basilio"
+	religion = "federalista"
+	culture = "porteno"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_durango = {
+	name = "Anton"
+	religion = "atomicist"
+	culture = "ute"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_eau_claire = {
+	name = "Leo"
+	religion = "viking"
+	culture = "minnesotan"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_edwards = {
+	name = "Ella"
+	religion = "interranger"
+	culture = "coloradan"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_eirunepe = {
+	name = "Marcos"
+	religion = "shedipawo"
+	culture = "karipuna"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_c_el_fuerte = {
+	name = "Calixto"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_el_galpon = {
+	name = "Mart_i_act_n"
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_el_oro_ec = {
+	name = "Jos_e_act__Gabriel"
+	religion = chimborazismo
+	culture = "guayasense"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+}
+character_c_el_pao = {
+	name = "Marino"
+	religion = "aria_de_machete"
+	culture = "llanero"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_el_rodeo = {
+	name = "Franco"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_ely = {
+	name = "Wesley"
+	religion = "burner"
+	culture = "battleborn"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_enchanted_hills = {
+	name = "Ctiyai_pst_tiwa"
+	religion = "atomicist"
+	culture = "keres"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_esmeraldas = {
+	name = "Tarquino"
+	religion = chimborazismo
+	culture = "guayasense"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_euclides_da_cunha = {
+	name = "Maria_da_Natividade"
+	religion = "sebastianism"
+	culture = "agrestino"
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_filadelfia = {
+	name = "Zacar_i_act_as"
+	religion = "particularist"
+	culture = "nivacle"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_flagstaff = {
+	name = "Vicente"
+	religion = "novaist"
+	culture = "arixan"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+}
+character_c_ford = {
+	name = "Susan"
+	religion = "galvanist"
+	culture = "hoosier"
+	female = yes
+	2619.1.1 = {
+		birth = yes
+	}
+}
+character_c_fort_collins = {
+	name = "Abigail"
+	religion = "real_road"
+	culture = "coloradan"
+	female = yes
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_fort_st_john = {
+	name = "Alice"
+	religion = "mennonite"
+	culture = "dane_zaa"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_francisco_sa = {
+	name = "Beto"
+	religion = "terra_benta"
+	culture = "geralista"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_frederico_westphalen = {
+	name = "Alberto"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_c_galvez = {
+	name = "Alfredo"
+	religion = "radicalista"
+	culture = "litoraleno"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_gary = {
+	name = "Salvador"
+	religion = "galvanist"
+	culture = "chicagoan"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_gasparilla = {
+	name = "Teresa"
+	religion = "imaginerian"
+	culture = "sunshiner"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_gaylord = {
+	name = "Origen"
+	religion = "lakeshore"
+	culture = "upnorther"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_general_villegas = {
+	name = "Ricardo"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_globe = {
+	name = "Earnest"
+	religion = "zetanology"
+	culture = "apache"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_goianesia = {
+	name = "Durval"
+	religion = "alternative_society"
+	culture = "goiano"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_goya = {
+	name = "A_act_ngel"
+	religion = "radicalista"
+	culture = "litoraleno"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_grajau = {
+	name = "Beatriz"
+	religion = "assembleiano"
+	culture = "imperatrizense"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_gramado_dos_loureiros = {
+	name = "Ana"
+	religion = "morangatu"
+	culture = "kaingang"
+	female = yes
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_gran_altar = {
+	name = "Francisco"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_c_gran_corrientes = {
+	name = "Livio"
+	religion = "unitario"
+	culture = "litoraleno"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_grand_junction = {
+	name = "Ryker"
+	religion = "atomicist"
+	culture = "coloradan"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_guacui = {
+	name = "Rodrigo"
+	religion = "apostolicism"
+	culture = "capixaba"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_guadalupe_victoria = {
+	name = "H_e_act_ctor"
+	religion = "raichari"
+	culture = "altiplanense"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_guaiba = {
+	name = "Gilmar"
+	religion = "farrapo"
+	culture = "piatolino"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_guanhaes = {
+	name = "Ibrahim"
+	religion = "terra_benta"
+	culture = "mineiro"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_guasave = {
+	name = "Mario"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_guayabal = {
+	name = "Gregorio"
+	religion = "aria_de_machete"
+	culture = "llanero"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_guayaramerin = {
+	name = "Pipira"
+	religion = "liberationism"
+	culture = "wari"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_guaype = {
+	name = "Anuar"
+	religion = "darian"
+	culture = "catracho"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_guernsey = {
+	name = "Evan"
+	religion = "galvanist"
+	culture = "buckeye"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_gurupi = {
+	name = "Elenil"
+	religion = "apostolicism"
+	culture = "tocantinense"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_gustavo = {
+	name = "Wuaraci"
+	religion = "porantimao"
+	culture = "kawaiwete"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_hampden = {
+	name = "Oneco"
+	dynasty = dynn_atlantica_springfield
+	religion = "gothic"
+	culture = "letterman"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_hanford = {
+	name = "Hetch"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_herval = {
+	name = "Elvira"
+	religion = "dualema"
+	culture = "guacho"
+	female = yes
+	2604.1.1 = {
+		birth = yes
+	}
+}
+character_c_hollister = {
+	name = "Jacob"
+	religion = "anahata"
+	culture = "bayfolk"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_c_hopelchen = {
+	name = "Heraclio"
+	religion = "neomayan"
+	culture = "yucateco"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+
+	2666.1.1 = {
+		effect = {
+			change_government = high_republic_government
+		}
+	}
+}
+character_c_huacho = {
+	name = "Abilio"
+	religion = "liberationism"
+	culture = "nortechicano"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_huamachuco = {
+	name = "Julia"
+	religion = "inti_religion"
+	culture = "huascareno"
+	female = yes
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_huancane = {
+	name = "Seferino"
+	religion = "inti_religion"
+	culture = "aymara"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_huanuco = {
+	name = "Flor_Luz"
+	religion = "inti_religion"
+	culture = "wanka"
+	female = yes
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_huaral = {
+	name = "Alfredo"
+	religion = "liberationism"
+	culture = "rimense"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_huatabampo = {
+	name = "Yaut"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_huehuetenango = {
+	name = "Carlos"
+	religion = "qabantajik"
+	culture = "wnaqqo"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_huntington = {
+	name = "Meshach"
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_c_huntsville = {
+	name = "Sue"
+	religion = "revelationist"
+	culture = "appalachian"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_iguatu = {
+	name = "Chico"
+	religion = "ciceritism"
+	culture = "sertanejo"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_ijui = {
+	name = "Selvino"
+	religion = "celestism"
+	culture = "gaucho"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_ikpiarjuk = {
+	name = "Sakiasie"
+	religion = "unipkaaq"
+	culture = "inuit"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_c_ilo = {
+	name = "Carina"
+	religion = "jolljepunco"
+	culture = "ileno"
+	female = yes
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_imbituba = {
+	name = "Ira_i_act_"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_imperial = {
+	name = "Hector"
+	religion = "quetzaltec"
+	culture = "mojavean"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_ingeniero_guillermo_n_juarez = {
+	name = "Isidoro"
+	religion = "justicialista"
+	culture = "wichi"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_c_inukjuak = {
+	name = "Allakariallak"
+	religion = "unipkaaq"
+	culture = "inuit"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_iosco = {
+	name = "Cleo"
+	religion = "viking"
+	culture = "michigander"
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_iqaluktuuttiaq = {
+	name = "Amaqjuaq"
+	religion = "unipkaaq"
+	culture = "inuit"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+character_c_isabella = {
+	name = "Harriet"
+	dynasty = "dynn_gl_Eagle"
+	religion = "galvanist"
+	culture = "michigander"
+	female = yes
+	2650.12.5 = {
+		birth = yes
+	}
+}
+character_c_itaberaba = {
+	name = "Jos_e_act__Romeu"
+	religion = "candomble"
+	culture = "agrestino"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_c_itacoatiara = {
+	name = "Inoc_e_hat_ncio"
+	religion = "toadas_bumba"
+	culture = "manauara"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_itaituba = {
+	name = "Ubirajara"
+	religion = "toadas_bumba"
+	culture = "tapajoense"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_itajai = {
+	name = "Salom_a_tld_o"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_itapetinga = {
+	name = "Jos_e_act__Hil_a_act_rio"
+	religion = "reisado"
+	culture = "agrestino"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_itapeva = {
+	name = "Chaves"
+	religion = "global_throne"
+	culture = "paulista"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_itupiranga = {
+	name = "Sert_o_act_rio"
+	religion = "tambor_de_mina"
+	culture = "paraense"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_c_jackpot = {
+	name = "DeWitt"
+	religion = "mormon"
+	culture = "snakelander"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_jacobina = {
+	name = "Maria_do_Trabalho"
+	religion = "candomble"
+	culture = "chapadeiro"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_c_janauba = {
+	name = "M_i_act_lton"
+	religion = "apostolicism"
+	culture = "calon"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+}
+character_c_jaragua_do_sul = {
+	name = "Odilo"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_jardim = {
+	name = "Beatrice"
+	religion = "pantaneiro"
+	culture = "kaiowa"
+	female = yes
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_ji_parana = {
+	name = "Regina"
+	religion = "global_throne"
+	culture = "rondoniense"
+	female = yes
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_jinotega = {
+	name = "Reynaldo"
+	religion = "darian"
+	culture = "nica"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_joao_camara = {
+	name = "Hor_a_act_cio"
+	religion = "assembleiano"
+	culture = "seridoense"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_joinville = {
+	name = "Gerd"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+}
+character_c_joshua_tree = {
+	name = "Cliff"
+	religion = "ashtari"
+	culture = "mojavean"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_c_juticalpa = {
+	name = "Elena"
+	religion = "darian"
+	culture = "catracho"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_kanab = {
+	name = "Lyman"
+	dynasty = dynn_goodrich_l
+	religion = "woolleyite"
+	culture = "utahn"
+	trait = brave
+	trait = greedy
+	trait = cynical
+	trait = education_martial_3
+	diplomacy = 1
+	martial = 10
+	stewardship = 3
+	intrigue = 3
+	learning = 9
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+character_c_kandahar = {
+	name = "Brent"
+	religion = "real_road"
+	culture = "oji_cree"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_kayenta = {
+	name = "Hashk_e_act__Yah_N_i_act_y_a_act_"
+	religion = "mormon"
+	culture = "navajo"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_kenora = {
+	name = "Anangwaabikikwe"
+	religion = "midewiwin"
+	culture = "ojibwe"
+	female = yes
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_c_kit_carson = {
+	name = "Zach"
+	religion = "soiltapper"
+	culture = "grangelander"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_kosciusko = {
+	name = "Sherman"
+	religion = "galvanist"
+	culture = "hoosier"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_c_la_guardia = {
+	name = "Toribio"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_marban = {
+	name = "Sulma"
+	dynasty = "dynn_bol_ribera"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+}
+character_c_carrasco = {
+	name = "Fabio"
+	dynasty = "dynn_bol_Bloom"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2636.11.3 = {
+		birth = yes
+	}
+}
+character_c_mamore ={
+	name = "A_act_ngel"
+	dynasty = "dynn_bol_Fazenda"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2636.11.3 = {
+		birth = yes
+	}
+}
+character_c_moxos = {
+	name = "Jos_e_act_"
+	dynasty = "dynn_bol_Baure"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2636.11.3 = {
+		birth = yes
+	}
+}
+character_d_madre_de_dios = {
+	name = "Alberto"
+	dynasty = "dynn_bol_Aime"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2643.1.3 = {
+		birth = yes
+	}
+}
+character_d_pando = {
+	name = "In_e_act_s"
+	dynasty = "dynn_bol_Sajama"
+	religion = "santa_diablada"
+	culture = "kolla"
+	female = yes
+	2650.1.3 = {
+		birth = yes
+	}
+}
+character_c_abuna = {
+	name = "Gregorio"
+	dynasty = "dynn_bol_Molina"
+	religion = liberationism
+	culture = camba
+	2625.3.14 = {
+		birth = yes
+	}
+}
+character_c_la_ronge = {
+	name = "Payipw_a_hat_t"
+	religion = "exovedate"
+	culture = "woodland_cree"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_laguna_del_tigre = {
+	name = "Tec_u_act_"
+	religion = "hach_kanik"
+	culture = "hach_winik"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_lajeado = {
+	name = "Elisa"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = yes
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_laramie = {
+	name = "Ledon"
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_larecaja = {
+	name = "Emilio"
+	religion = "santa_diablada"
+	culture = "aymara"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_las_juntas = {
+	name = "Yamil"
+	religion = "vendimia_sol"
+	culture = "turco"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_las_vegas_us = {
+	name = "Halbert"
+	religion = "thermonullist"
+	culture = "mojavean"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_leelanau = {
+	name = "Elmhart"
+	dynasty = dynn_gl_Chantal
+	religion = "lakeshore"
+	culture = "upnorther"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_lemhi = {
+	name = "Harmon"
+	religion = "interranger"
+	culture = "snakelander"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_leticia = {
+	name = "Gl_a_act_ucio"
+	religion = "santo_daime"
+	culture = "trifinio"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_linden = {
+	name = "Gopaul"
+	religion = "kebatinan"
+	culture = "guyanese"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_lipez = {
+	name = "Luis"
+	religion = "pachamama_religion"
+	culture = "aymara"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_litchfield = {
+	name = "Gillian"
+	religion = "principlist"
+	culture = "letterman"
+	female = yes
+	2656.1.1 = {
+		birth = yes
+	}
+}
+character_c_llallagua = {
+	name = "Zoilo"
+	religion = "mesias_che"
+	culture = "kolla"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_loa = {
+	name = "Lehi"
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_lobos = {
+	name = "Edmundo"
+	religion = "federalista"
+	culture = "pampeano"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_c_logan = {
+	name = "William"
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_londres = {
+	name = "Ulises"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_longview = {
+	name = "Webb"
+	religion = "catholic"
+	culture = "arklatexan"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_lorino = {
+	name = "Kagot"
+	dynasty = dynn_r_Rytkheu
+	religion = "cross_faith"
+	culture = "chukchi"
+	trait = gregarious
+	trait = lifestyle_mystic
+	trait = education_learning_4
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_los_alamos = {
+	name = "Ken"
+	religion = "atomicist"
+	culture = "neomexicano"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_los_cabos = {
+	name = "H_e_act_ctor"
+	religion = "navegante"
+	culture = "californiano"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_los_mochis = {
+	name = "Teejam"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_luziania = {
+	name = "Mariano"
+	religion = "valley_of_dawn"
+	culture = "veredista"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_mackenzie = {
+	name = "Rebecca"
+	religion = "ayahan"
+	culture = "dane_zaa"
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_madera = {
+	name = "Adolf"
+	religion = "mennonite"
+	culture = "menomex"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_c_mahoning = {
+	name = "Oliver"
+	religion = "galvanist"
+	culture = "buckeye"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_maldonado = {
+	name = "Isabelino"
+	religion = "dualema"
+	culture = "urbuguayo"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_malheur = {
+	name = "Domingo"
+	religion = "sagestepper"
+	culture = "snakelander"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_manoel_urbano = {
+	name = "Ruy"
+	religion = "liberationism"
+	culture = "acreano"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_c_mansfield = {
+	name = "Wilbur"
+	religion = "galvanist"
+	culture = "buckeye"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_manta = {
+	name = "Pamela"
+	religion = chimborazismo
+	culture = "guayasense"
+	female = yes
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_mantenopolis = {
+	name = "Diomedes"
+	religion = "candomble"
+	culture = "ilheense"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_manu = {
+	name = "Juan_Manuel"
+	religion = "inti_religion"
+	culture = "charapa"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_maraa = {
+	name = "Sebastiao"
+	religion = "iraacungeguma"
+	culture = "ticuna"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_maraba = {
+	name = "Am_e_act_lio"
+	religion = "kardecist"
+	culture = "xambioa"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_maranon = {
+	name = "Nolberto"
+	religion = "inkarri_religion"
+	culture = "charapa"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_mariposa = {
+	name = "Dale"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_c_matawinie = {
+	name = "Kichiaanakwad"
+	religion = "tranquillism"
+	culture = "algonquin"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_mazatlan = {
+	name = "Jos_e_act__Carlos"
+	religion = "cristero"
+	culture = "xepeno"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_merlo = {
+	name = "Luis"
+	religion = "afarista"
+	culture = "porteno"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_mesilla = {
+	name = "Olivia"
+	religion = "zetanology"
+	culture = "arixan"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_milwaukee = {
+	name = "Gertrude"
+	dynasty = "dynn_gl_Stoklasa"
+	religion = "catholic"
+	culture = "dairylander"
+	female = yes
+	trait = beauty_good_2
+	trait = physique_good_3
+	trait = giant
+	trait = education_martial_3
+	trait = diligent
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_mirinay = {
+	name = "Mario"
+	religion = "santa_gilada"
+	culture = "litoraleno"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = range_government
+		}
+    }
+}
+character_c_mohave = {
+	name = "Zacar_i_act_as"
+	religion = "atomicist"
+	culture = "arixan"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_c_monmouth = {
+	name = "Richard"
+	religion = "principlist"
+	culture = "gothamite"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_c_monte_santo_do_tocantins = {
+	name = "Joaquim"
+	religion = "wasahure_sena"
+	culture = "xerente"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_c_montero = {
+	name = "Yesenia"
+	religion = "particularist"
+	culture = "camba"
+	female = yes
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_c_morona_santiago = {
+	name = "Jos_e_act__Mar_i_act_a"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_mossoro = {
+	name = "Romero"
+	religion = "anussim"
+	culture = "seridoense"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_muriae = {
+	name = "Paulo"
+	religion = "terra_benta"
+	culture = "fluminense"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_murtinho = {
+	name = "Enrique"
+	religion = "particularist"
+	culture = "mascoy"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+}
+character_c_muskegon = {
+	name = "Frederic"
+	religion = "lakeshore"
+	culture = "michigander"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_c_muskwa = {
+	name = "Stephen"
+	religion = "ayahan"
+	culture = "deh_cho"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_mutum = {
+	name = "Ant_a_tld_"
+	religion = "porantimao"
+	culture = "kawaiwete"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_nanuque = {
+	name = "Frederico"
+	religion = "alternative_society"
+	culture = "geralista"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_narrow_hills = {
+	name = "_e_hat__pw_a_hat_cis"
+	religion = "exovedate"
+	culture = "plains_cree"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_nass = {
+	name = "Wayne"
+	religion = "raven_tales"
+	culture = "tsimshianic"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_nazare = {
+	name = "O_act_scar"
+	religion = "tambor_de_mina"
+	culture = "paraense"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_nazca = {
+	name = "Walter"
+	religion = "camino_estelar"
+	culture = "iqueno"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_new_iceland = {
+	name = "Gary"
+	religion = "viking"
+	culture = "prairielander"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_c_clearwater = {
+	name = "Thompson"
+	religion = "real_road"
+	culture = "prairielander"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_hanna = {
+	name = "Galen"
+	religion = "real_road"
+	culture = "prairielander"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_ngabe_bugle = {
+	name = "Ugu_i_act_"
+	religion = "mama_tatda"
+	culture = "ngabe"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+}
+character_c_nicola = {
+	name = "Anna"
+	religion = "holocenian"
+	culture = "okanaganer"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_c_nodaway = {
+	name = "Alice"
+	religion = "catholic"
+	culture = "heartlander"
+	female = yes
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_northern_lights = {
+	name = "Andre"
+	religion = "mennonite"
+	culture = "dane_zaa"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_novo_hamburgo = {
+	name = "Eduardo"
+	religion = "muckerism"
+	culture = "hunsrickisch"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+}
+character_c_nueva_loja = {
+	name = "Antonio"
+	religion = chimborazismo
+	culture = "pastuso"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_c_ohoopee = {
+	name = "Naomi"
+	religion = "evangelical"
+	culture = "dixie"
+	female = yes
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_orange_cove = {
+	name = "Howard"
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_c_oriximina = {
+	name = "Benjamin"
+	religion = "edah_amazonah"
+	culture = "tapajoense"
+	father = character_c_santarem
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_orland = {
+	name = "Hector"
+	religion = "jesusfreak"
+	culture = "valleyan"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_ourinhos = {
+	name = "Lu_i_act_sa"
+	religion = "apostolicism"
+	culture = "caipira"
+	female = yes
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_oxapampa = {
+	name = "Quintiliano"
+	religion = "israelite"
+	culture = "selvalteno"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_padre_bernardo = {
+	name = "Ademar"
+	religion = "valley_of_dawn"
+	culture = "goiano"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_palhoca = {
+	name = "Kennedy"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_palmas = {
+	name = "Wanderlei"
+	religion = "architecturalist"
+	culture = "tocantinense"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_palo_verde = {
+	name = "Amy"
+	religion = "ashtari"
+	culture = "mojavean"
+	female = yes
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_c_palpa = {
+	name = "Pedro"
+	religion = "camino_estelar"
+	culture = "iqueno"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_pantanal_do_rio_negro = {
+	name = "Aline"
+	religion = "pantaneiro"
+	culture = "terena"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_para_de_minas = {
+	name = "Carla"
+	religion = "congada"
+	culture = "mineiro"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_parana = {
+	name = "Fernando"
+	religion = "federalista"
+	culture = "litoraleno"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+
+character_c_pasco = {
+	name = "Marcelino"
+	religion = "liberationism"
+	culture = "wanka"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_paso_del_norte = {
+	name = "Ezequ_i_act_as"
+	religion = "zetanology"
+	culture = "altiplanense"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_pastaza = {
+	name = "Ricardo"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_c_patterson = {
+	name = "Khais"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+#character_c_raso_da_catarina = {
+#	name = "Francisco_Barnabe"
+#	religion = sebastianism
+#	culture = "franciscano"
+#	female = no
+#	2601.1.1 = {
+#		birth = yes
+#	}
+#	2749.1.1 = {
+#		death = yes
+#	}
+#}
+character_c_pe_15_imperial = {
+	name = "Percy"
+	religion = "camino_estelar"
+	culture = "rimense"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_c_pecatonica = {
+	name = "Harry"
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_c_pedro_juan_caballero = {
+	name = "Antonio"
+	religion = "pantaneiro"
+	culture = "yopara"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_penonome = {
+	name = "Jaime"
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_petrolina = {
+	name = "Francisco_Clementino"
+	dynasty = dynn_brazil_quaderna
+	religion = "sebastianism"
+	culture = "franciscano"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_piedras_negras = {
+	name = "Eduardo"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+}
+character_c_pillahuinco = {
+	name = "Vermudo"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_pine_pass = {
+	name = "Yus"
+	religion = "holocenian"
+	culture = "dakelh"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_c_pinedale = {
+	name = "Trey"
+	religion = "interranger"
+	culture = "mountainer"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_pioneer_valley = {
+	name = "Harlan"
+	religion = "gothic"
+	culture = "letterman"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_c_pocatello = {
+	name = "Dierkes"
+	religion = "mormon"
+	culture = "snakelander"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_pocomoke = {
+	name = "Jason"
+	religion = "constitutionalist"
+	culture = "southron"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_pocone = {
+	name = "Walter"
+	religion = "boiadist"
+	culture = "terena"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_polvaredas = {
+	name = "Flor"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_poptun = {
+	name = "Kabil"
+	religion = "qabantajik"
+	culture = "kekchi"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_porto_velho = {
+	name = "Amana"
+	religion = "porantimao"
+	culture = "kagwahivanga"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_provideniya = {
+	name = "Kunleliu"
+	dynasty = dynn_r_Kyrnnen
+	trait = brave
+	trait = vengeful
+	trait = education_martial_prowess_3
+	trait = winter_soldier
+	religion = "cross_faith"
+	culture = "chukchi"
+	female = no
+	2644.6.1 = {
+		birth = yes
+	}
+}
+character_c_pueblo = {
+	name = "Wiley"
+	religion = "interranger"
+	culture = "neomexicano"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+character_c_puerto_columbia = {
+	name = "Salom_o_act_n"
+	religion = "aria_de_machete"
+	culture = "llanero"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_puerto_palomas = {
+	name = "Octaviano"
+	religion = "saguarorrinche"
+	culture = "arixan"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_puerto_suarez = {
+	name = "Oji"
+	religion = "particularist"
+	culture = "ayoreo"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+}
+character_c_puno = {
+	name = "Mariano"
+	religion = "inti_religion"
+	culture = "aymara"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_quay = {
+	name = "Peggy"
+	religion = "real_road"
+	culture = "neomexicano"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_quemu_quemu = {
+	name = "Hilario"
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_quevedo = {
+	name = "Matilde"
+	religion = chimborazismo
+	culture = "serrano"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+
+	2666.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+
+}
+character_c_quibdo = {
+	name = "Josimar"
+	religion = "patria_grande"
+	culture = "chocoano"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+character_c_quillabamba = {
+	name = "Gamaniel"
+	religion = "israelite"
+	culture = "selvalteno"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_quimili = {
+	name = "Josefina"
+	religion = "justicialista"
+	culture = "chaqueno"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+}
+character_c_randolph = {
+	name = "Isaac"
+	religion = "evangelical"
+	culture = "appalachian"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_rawlins = {
+	name = "Georgy"
+	religion = "interranger"
+	culture = "coloradan"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_recreo = {
+	name = "Manuel"
+	religion = "animism"
+	culture = "cordobes"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_red_lake = {
+	name = "Curtis"
+	religion = "midewiwin"
+	culture = "oji_cree"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_registro = {
+	name = "Darc_i_act_lia"
+	religion = "global_throne"
+	culture = "caicara"
+	female = yes
+	2639.1.1 = {
+		birth = yes
+	}
+}
+character_c_requena = {
+	name = "Jadi"
+	religion = "santo_daime"
+	culture = "matses"
+	female = yes
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_reyes_bo = {
+	name = "Rub_e_act_n"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_richfield = {
+	name = "Breagan"
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_rio_cuarto = {
+	name = "Laura"
+	religion = "unitario"
+	culture = "cordobes"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_rio_senguer = {
+	name = "Antumanque"
+	religion = "calafatist"
+	culture = "aonikenk"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_riosucio = {
+	name = "Doris"
+	religion = "gracia_patriota"
+	culture = "embera"
+	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+character_c_rivas = {
+	name = "Juan_Jos_e_act_"
+	religion = "darian"
+	culture = "nica"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_riverside = {
+	name = "Miguel_Angel"
+	religion = "ashtari"
+	culture = "angeleno"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_riverton = {
+	name = "Woxbeeih"
+	religion = "interranger"
+	culture = "arapaho"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_c_rock_springs = {
+	name = "Garcia"
+	religion = "mormon"
+	culture = "mountainer"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_c_rocky_gap = {
+	name = "Owen"
+	religion = "galvanist"
+	culture = "appalachian"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_rogue_valley = {
+	name = "Tyler"
+	religion = "phylosian"
+	culture = "jeffersonian"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+
+
+character_c_sabaya = {
+	name = "Kantuta"
+	religion = "pachamama_religion"
+	culture = "aymara"
+	female = yes
+	2641.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_sabinas = {
+	name = "Viviano"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_sahuaripa = {
+	name = "Temastian"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_saint_george = {
+	name = "Fanny"
+	religion = "woolleyite"
+	culture = "utahn"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_saint_georges = {
+	name = "Pascal"
+	dynasty = "dynn_saint_george_de_l_oyapock"
+	religion = potay
+	culture = "cayennais"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_c_saint_maurice = {
+	name = "Binesiinh"
+	religion = "ursuline"
+	culture = "algonquin"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_sajama = {
+	name = "Santos"
+	religion = "pachamama_religion"
+	culture = "aymara"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+character_c_salgueiro = {
+	name = "Dami_a_tld_o"
+	religion = "ciceritism"
+	culture = "sertanejo"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_salta = {
+	name = "Miguel"
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_salto = {
+	name = "Dionisio"
+	religion = "particularist"
+	culture = "urbuguayo"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_san_alberto = {
+	name = "Osvaldo"
+	religion = "particularist"
+	culture = "yopara"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_antonio = {
+	name = "Eduardo"
+	religion = "animism"
+	culture = "centrino"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_antonio_de_los_cobres = {
+	name = "Garcilaso"
+	religion = "santa_diablada"
+	culture = "quechua"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_cristobal_ec = {
+	name = "Tommy"
+	religion = chimborazismo
+	culture = "guayasense"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_felipe_cl = {
+	name = "Mauricio"
+	religion = "animism"
+	culture = "huaso"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_ignacio = {
+	name = "Roger"
+	religion = "boiadist"
+	culture = "chiquitano"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_ignacio_de_moxos = {
+	name = "Fabio"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_ignacio_de_velasco = {
+	name = "Segundo"
+	religion = "particularist"
+	culture = "chiquitano"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_miguel_de_tucuman = {
+	name = "Javier"
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_quintin = {
+	name = "O_act_liver"
+	religion = "quetzaltec"
+	culture = "californiano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_san_salvador_de_jujuy = {
+	name = "Arturo"
+	religion = "animism"
+	culture = "norteno"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_sand_point = {
+	name = "Agafon"
+	religion = "cross_faith"
+	culture = "unangan"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_santa_barbara_1 = {
+	name = "Samir"
+	religion = "penitents"
+	culture = "catracho"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_clara = {
+	name = "Joao"
+	religion = "iraacungeguma"
+	culture = "ticuna"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_cruz_de_la_sierra = {
+	name = "Marcos_Antonio"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_cruz_do_sul = {
+	name = "Jos_e_act_"
+	religion = "celestism"
+	culture = "hunsrickisch"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_fe = {
+	name = "Joshua"
+	religion = "atomicist"
+	culture = "neomexicano"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_ines = {
+	name = "Valderez"
+	religion = "ciceritism"
+	culture = "guajajara"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_isabel_do_rio_negro = {
+	name = "Tamandar_e_act_"
+	religion = "hekwapienai"
+	culture = "baniwabare"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_maria_br = {
+	name = "Valmir"
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_rosa_bo = {
+	name = "Erwin"
+	religion = "liberationism"
+	culture = "camba"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_c_santa_rosa_us = {
+	name = "Glenark"
+	religion = "humanistic_buddhism"
+	culture = "bayfolk"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+}
+character_c_santiago_cl = {
+	name = "Byron"
+	religion = "animism"
+	culture = "centrino"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_santo_antonio_da_platina = {
+	name = "Ruy"
+	religion = "johrei"
+	culture = "burajirujin"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_santo_domingo_de_los_tsachilas = {
+	name = "Eugenio"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_bento = {
+	name = "Ubirajara"
+	religion = "anussim"
+	culture = "seridoense"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_borja = {
+	name = "Bibiana"
+	religion = "farrapo"
+	culture = "gaucho"
+	female = yes
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_domingos = {
+	name = "Juv_e_hat_ncio"
+	religion = "apostolicism"
+	culture = "xavante"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_fidelis = {
+	name = "Florencio"
+	religion = "global_throne"
+	culture = "fluminense"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_jose = {
+	name = "Jean"
+	religion = "celestism"
+	culture = "barriga_verde"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_louis = {
+	name = "Marcelo"
+	religion = "watunna"
+	culture = "waimiri"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_luis_de_montes_belos = {
+	name = "Marlon"
+	religion = "boiadist"
+	culture = "goiano"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_sao_sebastiao_nonato = {
+	name = "Claudia"
+	religion = "wasahure_sena"
+	culture = "xerente"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_c_sayaxche = {
+	name = "Namox"
+	religion = "qabantajik"
+	culture = "kekchi"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_c_schoolcraft = {
+	name = "Helge"
+	religion = "viking"
+	culture = "yooper"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_seabra = {
+	name = "Maria_do_Carmo"
+	religion = "alternative_society"
+	culture = "chapadeiro"
+	female = yes
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_sebago = {
+	name = "Brandon"
+	religion = "fathomless"
+	culture = "lobsterman"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_sena = {
+	name = "Abrah_a_act_n"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_sequatchie = {
+	name = "Grover"
+	religion = "omenteller"
+	culture = "appalachian"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_c_serra_dourada = {
+	name = "Marlene"
+	religion = "sagarana"
+	culture = "barreirano"
+	female = yes
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_c_serra_verde = {
+	name = "Brendo"
+	religion = "porantimao"
+	culture = "apurinan"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_shannon = {
+	name = "Zechariah"
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_shawinigan = {
+	name = "Agn_e_grv_s"
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_sidrolandia = {
+	name = "Gustavo"
+	religion = "pantaneiro"
+	culture = "maracaju"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_sierra_blanca = {
+	name = "Dolores"
+	religion = "zetanology"
+	culture = "tejano"
+	female = yes
+	2604.1.1 = {
+		birth = yes
+	}
+}
+character_c_simplicio_mendes = {
+	name = "Maria_Margarida"
+	religion = "compadecidos"
+	culture = "sertanejo"
+	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_siskiyou = {
+	name = "Josie"
+	religion = "yeomanist"
+	culture = "jeffersonian"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_c_socorro = {
+	name = "Nicol_a_act_s"
+	religion = "zetanology"
+	culture = "arixan"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+}
+character_c_south_platte = {
+	name = "Everett"
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_spitsbergen = {
+	name = "Line"
+	religion = "earthvault"
+	culture = "svalbarder"
+	female = yes
+	2603.1.1 = {
+		birth = yes
+	}
+}
+character_c_spring_creek = {
+	name = "Barnard"
+	religion = "mormon"
+	culture = "battleborn"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_st_lawrence_island = {
+	name = "Yaari"
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = yes
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_c_sterling = {
+	name = "Dylan"
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_c_sun_valley = {
+	name = "Kene"
+	religion = "burner"
+	culture = "paiute"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+}
+character_c_susanville = {
+	name = "Rusty"
+	religion = "cetic"
+	culture = "jeffersonian"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_tacna = {
+	name = "Felim_o_act_n"
+	religion = "jolljepunco"
+	culture = "ileno"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+}
+character_c_tahuamanu = {
+	name = "Poyowari"
+	religion = "shedipawo"
+	culture = "ashaninka"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_takutu = {
+	name = "Anakwa"
+	religion = "watunna"
+	culture = "makushi"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_c_taltal = {
+	name = "Javier"
+	religion = "syncado"
+	culture = "atacameno"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_taraira = {
+	name = "Eduardo"
+	religion = "hekwapienai"
+	culture = "ticuna"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_tarrant = {
+	name = "Zach"
+	religion = "dustrider"
+	culture = "texan"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_tartagal = {
+	name = "Antonio"
+	religion = "assembleiano"
+	culture = "wichi"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_c_tasiujaq = {
+	name = "Markoosie"
+	religion = "unipkaaq"
+	culture = "inuit"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_c_teapa = {
+	name = "Kamilo"
+	religion = "votanzapatista"
+	culture = "ode_put"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_teec_nos_pos = {
+	name = "Angela"
+	religion = "hozhooji"
+	culture = "navajo"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_c_tensas = {
+	name = "Buford"
+	religion = "voodoo"
+	culture = "arklatexan"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_c_tettegouche = {
+	name = "Torkel"
+	religion = "viking"
+	culture = "northlander"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_c_the_needles = {
+	name = "Alma"
+	religion = "ashtari"
+	culture = "mojavean"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_c_thompson_valley = {
+	name = "Tim"
+	religion = "holocenian"
+	culture = "interior_salish"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_ticul = {
+	name = "Ahmakiq"
+	religion = "cruzob"
+	culture = "yucateco"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+			change_government = high_republic_government
+		}
+	}
+}
+character_c_tizimin = {
+	name = "Mauricio"
+	religion = "neomayan"
+	culture = "yucateco"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+
+	2666.1.1 = {
+		effect = {
+			change_government = high_republic_government
+		}
+	}
+}
+character_c_tocopilla = {
+	name = "Miguel"
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_tocota = {
+	name = "Benjam_i_act_n"
+	religion = "camino_estelar"
+	culture = "cuyano"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_todos_os_santos = {
+	name = "Felipe"
+	religion = "pantaneiro"
+	culture = "kadiweu"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+}
+character_c_sandusky = {
+	name = "Dwight"
+	religion = "traditionalist"
+	culture = "buckeye"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2666.6.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+		}
+	}
+}
+
+character_c_uglaize = {
+	name = "Carl"
+	religion = islahiyyun
+	culture = "buckeye"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+}
+
+
+character_c_findlay = {
+	name = "Carl"
+	religion = islahiyyun
+	culture = "buckeye"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+
+
+character_c_torrance = {
+	name = "Custer"
+	religion = "zetanology"
+	culture = "neomexicano"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_tortel = {
+	name = "Juan_Carlos"
+	religion = "xoon"
+	culture = "kawesqar"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_toscal = {
+	name = "Lautaro"
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_tostado = {
+	name = "Molina"
+	dynasty = dynn_b_torres
+	religion = "assembleiano"
+	culture = "qom"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_c_trinidad_bo = {
+	name = "Paola"
+	religion = "particularist"
+	culture = "camba"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_c_trois_rivieres = {
+	name = "Raoul"
+	religion = "tranquillism"
+	culture = "quebecois"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_tucuma = {
+	name = "Raoni"
+	religion = "tambor_de_mina"
+	culture = "paraense"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_c_tularosa = {
+	name = "Walter"
+	religion = "atomicist"
+	culture = "arixan"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_c_tumbes = {
+	name = "Cancio"
+	religion = chimborazismo
+	culture = "costanorteno"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+}
+character_c_ukiah = {
+	name = "Dudi-Labith"
+	religion = "phylosian"
+	culture = "pomo"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_umpqua = {
+	name = "Paige"
+	religion = "gaian"
+	culture = "cascadian"
+	female = yes
+	diplomacy = 10
+	martial = 10
+	stewardship = 2
+	intrigue = 6
+	learning = 8
+	sexuality = bisexual
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = zealous
+	trait = ambitious
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_una = {
+	name = "Ononias"
+	religion = "candomble"
+	culture = "ilheense"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+}
+character_c_uniao_da_vitoria = {
+	name = "Renata"
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_c_union = { # I'm in auto_characters_filler!
+	name = "Lorton"
+	religion = "restorationist"
+	culture = "heartlander"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_ures = {
+	name = "Yaut"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_c_us_ca_san_jose = {
+	name = "Herron"
+	religion = "cetic"
+	culture = "bayfolk"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_us_nv_fallon = {
+	name = "Hester"
+	religion = "mormon"
+	culture = "battleborn"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_c_us_ut_roosevelt = {
+	name = "Nephi"
+	dynasty = dynn_woodward_l
+	trait = education_learning_3
+	trait = gregarious
+	trait = chaste
+	trait = sadistic
+	diplomacy = 10
+	martial = 6
+	stewardship = 4
+	intrigue = 10
+	learning = 6
+
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_c_us_wy_douglas = {
+	name = "Loren"
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_usulutan = {
+	name = "Jos_e_act__Salvador"
+	religion = "darian"
+	culture = "guanaco"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_c_usumacinta = {
+	name = "V_i_act_ctor"
+	religion = "hach_kanik"
+	culture = "hach_winik"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_c_utikuma = {
+	name = "Paskos"
+	religion = "fire_cross"
+	culture = "plains_cree"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_uyuni = {
+	name = "Diego"
+	religion = "pachamama_religion"
+	culture = "quechua"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_vale_caribe = {
+	name = "Nonato"
+	religion = "tambor_de_mina"
+	culture = "paraense"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_c_vallegrande = {
+	name = "Castulo"
+	religion = "particularist"
+	culture = "camba"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_c_ve_14_m_rida = {
+	name = "Carlos"
+	religion = "patria_grande"
+	culture = "gocho"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_c_venado_tuerto = {
+	name = "Jos_e_act_"
+	religion = "unitario"
+	culture = "litoraleno"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_ixcan = {
+	name = "Nelli"
+	religion = "lamanite"
+	culture = "kekchi"
+	female = yes
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_c_vernal = { #tbd, no dynasty list
+	name = "Walker"
+	religion = "mormon"
+	culture = "ute"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_c_vinchina = {
+	name = "Ahmed"
+	religion = "vendimia_sol"
+	culture = "turco"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+}
+character_c_virgin = {
+	name = "Philo"
+	religion = "zetanology"
+	culture = "utahn"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_c_wamsutter = {
+	name = "Lurch"
+	religion = "interranger"
+	culture = "coloradan"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+}
+character_c_weaverville = {
+	name = "Clough"
+	religion = "phylosian"
+	culture = "jeffersonian"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_c_west_yellowstone = {
+	name = "Grace"
+	religion = "gaian"
+	culture = "mountainer"
+	female = yes
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_c_woodland_park = {
+	name = "Yount"
+	religion = "interranger"
+	culture = "neomexicano"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+}
+character_c_worland = {
+	name = "Woteeniieihii"
+	religion = "interranger"
+	culture = "arapaho"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_c_wyalusing = {
+	name = "Norman"
+	religion = "catholic"
+	culture = "minnesotan"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_xolotlan = {
+	name = "Bryan"
+	religion = "darian"
+	culture = "nica"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_c_yacuiba = {
+	name = "Felim_o_act_n"
+	religion = "assembleiano"
+	culture = "wichi"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_c_yakutat = {
+	name = "K_pst_uxsh_o_act_o"
+	religion = "cross_faith"
+	culture = "tlingit"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_yuba_city = {
+	name = "Philip"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_c_zarate = {
+	name = "Lucilo"
+	religion = "afarista"
+	culture = "litoraleno"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_c_zuni = {
+	name = "Palowahtiwa"
+	religion = "half_moon"
+	culture = "zuni"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+}
+character_d_aguascalientes = {
+	name = "No_e_act_"
+	religion = "cristero"
+	culture = "abajeno"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_allegheny = {
+	name = "Leonard"
+	religion = "sustainablist"
+	culture = "yinzer"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_amapa = {
+	name = "Mateus"
+	religion = "assembleiano"
+	culture = "amapaense"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2666.1.3 = {
+        effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract_brazilian_imperial
+                level = 2
+            }
+        }
+    }
+}
+
+character_d_arapei = {
+	name = "Mart_i_act_n"
+	religion = "dualema"
+	culture = "urbuguayo"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_d_arizona = {
+	name = "Isaac"
+	religion = "novaist"
+	culture = "arixan"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_d_azuay = {
+	name = "Jairo"
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_d_badgerland = {
+	name = "Tasha"
+	religion = "unitarian_universalism"
+	culture = "dairylander"
+	female = yes
+	2656.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_ruidoso = {
+	name = "Bob"
+	religion = "zetanology"
+	culture = "estacadan"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+}
+character_d_big_country = {
+	name = "Launcelot"
+	religion = "soiltapper"
+	culture = "texan"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_d_black_earth = {
+	name = "Demyan"
+	religion = "real_road"
+	culture = "preiryansky"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_d_brilhante = {
+	name = "Nonato"
+	religion = "pantaneiro"
+	culture = "kaiowa"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_d_ca_ab_calgary = {
+	name = "Kelso"
+	religion = "ahmadiyya"
+	culture = "prairielander"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_caborca = {
+	name = "Nemesio"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_d_el_mirador = {
+	name = "Teresa"
+	religion = "cruzob"
+	culture = "maaya"
+	female = yes
+	2601.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+			change_government = high_republic_government
+		}
+	}
+}
+character_d_caparao = {
+	name = "Elismar"
+	religion = "terra_benta"
+	culture = "mineiro"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_d_catalao = {
+	name = "Paulino"
+	religion = "architecturalist"
+	culture = "goiano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_d_catamarca = {
+	name = "Sofia"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_d_cayman_islands = {
+	name = "Merle"
+	religion = "nyabinghi"
+	culture = "west_indian"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+}
+character_d_fresno = {
+	name = "George"
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_d_chaco_austral = {
+	name = "David"
+	dynasty = dynn_Caeseres_b
+	religion = "assembleiano"
+	culture = "qom"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_d_chaco_oriental = {
+	name = "Felix"
+	religion = "pantaneiro"
+	culture = "ayoreo"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+}
+
+character_c_busch = {
+	name = "Oid_a_act_biad_e_act_"
+	religion = "boiadist"
+	culture = "ayoreo"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+}
+
+
+character_d_chan_santa_cruz = {
+	name = "Antonio_Saccimi"
+	religion = "cruzob"
+	culture = "maaya"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+			change_government = high_republic_government
+		}
+	}
+}
+character_d_chiapa_alta = {
+	name = "Mbaz"
+	religion = "votanzapatista"
+	culture = "winik_atel"
+	female = yes
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_d_chicagoland = {
+	name = "Dinah"
+	religion = "catholic"
+	culture = "chicagoan"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_d_co_20_pasto = {
+	name = "Juan_Mart_i_act_n"
+	religion = "patria_grande"
+	culture = "valluno"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+}
+character_d_co_28_ibagu_ = {
+	name = "Guillermo"
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_d_coahuila = {
+	name = "S_o_act_crates"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_d_colima = {
+	name = "S_o_act_crates"
+	religion = "cristero"
+	culture = "tapatio"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_guadalajara = {
+	name = "Maria"
+	religion = "cristero"
+	culture = "tapatio"
+	female = yes
+	2598.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_copea = {
+	name = "Chavez"
+	religion = "iraacungeguma"
+	culture = "ticuna"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_d_copperland = {
+	name = "Dave"
+	religion = "viking"
+	culture = "yooper"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_d_costa_doce = {
+	name = "Amauri"
+	religion = "farrapo"
+	culture = "piatolino"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_d_costa_grande = {
+	name = "Miguel"
+	religion = "auditorista"
+	culture = "mexicano"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_d_costa_verde = {
+	name = "Cesar"
+	religion = "apostolicism"
+	culture = "carioca"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2666.1.3 = {
+	effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract_brazilian_imperial
+                level = 2
+            }
+        }
+    }
+}
+character_d_delta_amacuro = {
+	name = "Vicenta"
+	religion = "tres_potencias"
+	culture = "warao"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+}
+character_d_detroit = {
+	name = "Viola"
+	religion = "galvanist"
+	culture = "motowner"
+	female = yes
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_d_durango = {
+	name = "Mar_i_act_a"
+	religion = "jakakukuecha"
+	culture = "altiplanense"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_east_snake = {
+	name = "Benturo"
+	religion = "interranger"
+	culture = "snakelander"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+}
+character_d_luuma_ximbal = {
+	name = "Carlos_Ahua"
+	religion = "neomayan"
+	culture = "yucateco"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+
+	2666.1.1 = {
+		effect = {
+			change_government = high_republic_government
+		}
+	}
+}
+character_d_erie = {
+	name = "Lucius"
+	religion = "galvanist"
+	culture = "steelfolk"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_d_forgottonia = {
+	name = "Eugene"
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_d_formosa = {
+	name = "Mario"
+	religion = "justicialista"
+	culture = "chaqueno"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_d_gadsden = {
+	name = "Seferino"
+	religion = "saguarorrinche"
+	culture = "oodham"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_d_green_bay = {
+	name = "Abraham"
+	religion = "viking"
+	culture = "dairylander"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_d_green_river = {
+	name = "Joy"
+	religion = "mormon"
+	culture = "utahn"
+	dynasty = dynn_young_l
+	female = yes
+	trait = education_intrigue_2
+	trait = patient
+	trait = calm
+	trait = ambitious
+	diplomacy = 9
+	martial = 5
+	stewardship = 1
+	intrigue = 10
+	learning = 4
+
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_d_guanajuato = {
+	name = "Joaqu_i_act_n"
+	religion = "cristero"
+	culture = "abajeno"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+}
+character_d_havana = {
+	name = "Servilio"
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+}
+character_d_hopi = {
+	name = "Humiyestiwa"
+	religion = "mormon"
+	culture = "hopi"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_d_huasteca = {
+	name = "Alab_e_act_l"
+	religion = "cristero"
+	culture = "tenek"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_d_indianapolis = {
+	name = "Owen"
+	religion = "galvanist"
+	culture = "hoosier"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_d_interior = {
+	name = "Ernesto"
+	religion = "dualema"
+	culture = "guacho"
+	female = no
+	trait = trait_hand_of_god_blanco
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_d_yi = {
+	name = "Mario"
+	religion = "dualema"
+	culture = "guacho"
+	female = no
+	2642.4.1 = {
+		birth = yes
+	}
+}
+
+character_d_jalisco = {
+	name = "Emiliano"
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_d_ji_parana = {
+	name = "Clementino"
+	religion = "global_throne"
+	culture = "rondoniense"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+}
+character_d_junin = {
+	name = "Teresa"
+	religion = "justicialista"
+	culture = "pampeano"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_d_kisatchie = {
+	name = "Meredith"
+	religion = "voodoo"
+	culture = "louisianais"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+}
+character_d_comarca_lagunera = {
+	name = "Esdras"
+	religion = "santa_muerte"
+	culture = "altiplanense"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_d_leeward_islands = {
+	name = "Tyrone"
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+character_d_lesser_acre = {
+	name = "Paulo"
+	religion = "santo_daime"
+	culture = "acreano"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_d_litoral = {
+	name = "Alfredo"
+	religion = "animism"
+	culture = "urbuguayo"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+
+
+	2666.1.3 = {
+        effect = {
+			change_government = high_republic_government
+		}
+    }
+}
+character_d_los_angeles = {
+	name = "Manuel"
+	religion = "cetic"
+	culture = "angeleno"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_d_los_padres = {
+	name = "Vartan"
+	religion = "kadmonic"
+	culture = "angeleno"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+}
+character_d_lower_parana = {
+	name = "Aldo"
+	religion = "particularist"
+	culture = "yopara"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_maracaju = {
+	name = "Pedro_Paulo"
+	religion = "pantaneiro"
+	culture = "maracaju"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+#character_d_maumee = {
+#	name = "Mehmet"
+#	dynasty = dynn_suleiman_l
+#	religion = "islahiyyun"
+#	culture = "motowner"
+#	female = no
+#	2604.1.1 = {
+#		#birth = yes
+#	}
+#	#2749.1.1 = {
+#		death = yes
+#	}
+#}
+character_d_mendoza = {
+	name = "Thiago"
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+}
+character_d_mixteca = {
+	name = "Nesto"
+	religion = "cristero"
+	culture = "nuu_savi"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_d_mogollon = {
+	name = "Roberto"
+	religion = "zetanology"
+	culture = "arixan"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_d_montevideo = {
+	name = "Washington"
+	religion = "dualema"
+	culture = "urbuguayo"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+
+
+	#2666.1.3 = {
+    #    effect = {
+	#		change_government = high_republic_government
+	#	}
+    #}
+}
+character_d_nayarit = {
+	name = "Walter"
+	religion = "el_santo"
+	culture = "xepeno"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_d_northwoods = {
+	name = "Lowell"
+	religion = "viking"
+	culture = "dairylander"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+}
+character_d_huasteca_menor = {
+	name = "Domingo"
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_d_barreirinhas = {
+	name = "Catarina"
+	religion = "boi_regio"
+	culture = "ludovicense"
+	female = yes
+	2622.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_oeiras = {
+	name = "Jesu_i_act_no"
+	religion = "ciceritism"
+	culture = "sertanejo"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+}
+character_d_olancho = {
+	name = "Brayan"
+	religion = "darian"
+	culture = "catracho"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+}
+character_d_catemaco = {
+	name = "Piccolo"
+	religion = "santa_muerte"
+	culture = "jarocho"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+}
+character_d_paranapanema = {
+	name = "Moys_e_act_s"
+	religion = "global_throne"
+	culture = "paranaense"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+}
+character_d_peck_lake = {
+	name = "Reg"
+	religion = "sun_dance"
+	culture = "nakota"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_d_peten = {
+	name = "Inka"
+	religion = "hach_kanik"
+	culture = "mopan_itza"
+	female = yes
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_d_pinar_del_rio = {
+	name = "Agust_i_act_n"
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+}
+character_d_piracicaba = {
+	name = "Patr_i_act_cia"
+	religion = "apostolicism"
+	culture = "paulista"
+	female = yes
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_d_piranga = {
+	name = "Jana_i_act_na"
+	religion = "terra_benta"
+	culture = "mineiro"
+	female = yes
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_d_presidency = {
+	name = "Zachary"
+	religion = "constitutionalist"
+	culture = "oldbayer"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+}
+character_d_queretaro = {
+	name = "Mah_i_act_curi"
+	religion = "cristero"
+	culture = "purhepecha"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_d_quetzaltenango = {
+	name = "K_pst_an-Ak"
+	religion = "qabantajik"
+	culture = "kiche"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+}
+character_d_saginaw = {
+	name = "Roband"
+	religion = "galvanist"
+	culture = "michigander"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+}
+character_d_salinas = {
+	name = "Mervyn"
+	religion = "anahata"
+	culture = "bayfolk"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_d_salta = {
+	name = "Gualberto"
+	religion = "santa_diablada"
+	culture = "kolla"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+}
+character_d_san_juan = {
+	name = "Julio"
+	religion = "vendimia_sol"
+	culture = "cuyano"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_d_san_luis = {
+	name = "Liberdad"
+	religion = "radicalista"
+	culture = "cuyano"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+}
+character_d_san_luis_potosi = {
+	name = "Josu_e_act_"
+	religion = "cristero"
+	culture = "abajeno"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_d_san_rafael = {
+	name = "Arturo"
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_d_santa_fe = {
+	name = "Francisco"
+	religion = "federalista"
+	culture = "litoraleno"
+	female = no
+
+	trait = chosen_by_the_hand
+
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_d_scioto = {
+	name = "Marklin"
+	religion = "galvanist"
+	culture = "buckeye"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_d_sevier = {
+	name = "Ken"
+	dynasty = dynn_ephraim_l
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	trait = education_diplomacy_3
+	trait = trusting
+	trait = shy
+	trait = calm
+	diplomacy = 7
+	martial = 2
+	stewardship = 8
+	intrigue = 3
+	learning = 4
+	2635.1.1 = {
+		birth = yes
+	}
+}
+character_d_shasta_cascade = {
+	name = "Beatrice"
+	religion = "phylosian"
+	culture = "jeffersonian"
+	female = yes
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_d_sinaloa = {
+	name = "Magdalena"
+	religion = "cristero"
+	culture = "xepeno"
+	female = yes
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_d_sonora = {
+	name = "Constanza"
+	religion = "saguarorrinche"
+	culture = "xepeno"
+	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_d_los_tuxtlas = {
+	name = "Onesimo"
+	religion = "santa_muerte"
+	culture = "jarocho"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_sweetwater = {
+	name = "Limher"
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_d_tabasco = {
+	name = "Octavio"
+	religion = "neomayan"
+	culture = "yoko_yinikob"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_tapes = {
+	name = "Nilo"
+	religion = "batuque"
+	culture = "gaucho"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+}
+character_d_tarahumara = {
+	name = "Aw_a_act_scina"
+	religion = "raichari"
+	culture = "raramuri"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+}
+character_d_taumaturgia = {
+	name = "Madiano"
+	religion = "shedipawo"
+	culture = "ashaninka"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+}
+character_d_tierra_del_fuego = {
+	name = "Ken_o_act_s"
+	religion = "xoon"
+	culture = "selknam"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_tucuria = {
+	name = "Jo_a_tld_o"
+	religion = "assembleiano"
+	culture = "paraense"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+}
+character_d_upnorth = {
+	name = "Ion"
+	religion = "lakeshore"
+	culture = "upnorther"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+}
+character_d_upper_athabasca = {
+	name = "Abram"
+	religion = "mennonite"
+	culture = "plautsdeutsch"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+}
+character_d_upper_parana = {
+       name = "Alberico"
+       religion = "ypykuera"
+       culture = "yopara"
+       female = no
+       2602.1.1 = {
+               birth = yes
+       }
+       2749.1.1 = {
+               death = yes
+       }
+}
+character_d_us_az_cochise = {
+	name = "Ger_o_act_nima"
+	religion = "saguarorrinche"
+	culture = "arixan"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+}
+character_d_us_ca_placer = {
+	name = "Betsy"
+	religion = "cetic"
+	culture = "valleyan"
+	female = yes
+	2654.1.1 = {
+		birth = yes
+	}
+}
+character_d_us_ca_yolo = {
+	name = "Edward"
+	religion = "humanistic_buddhism"
+	culture = "valleyan"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+}
+character_d_us_fl_escambia = {
+	name = "Terri"
+	religion = "evangelical"
+	culture = "gulfard"
+	female = yes
+	2630.1.1 = {
+		birth = yes
+	}
+}
+character_d_us_nm_san_juan = {
+	name = "Hashk_e_act__Neiniih_i_act_"
+	religion = "hozhooji"
+	culture = "navajo"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2666.7.4 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+}
+character_d_lakefront = {
+	name = "Erasmus"
+	religion = "viking"
+	culture = "dairylander"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+character_d_vale_do_acarau = {
+	name = "Deodato"
+	religion = "ciceritism"
+	culture = "sertanejo"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_d_vale_do_pindare = {
+	name = "Eliseu"
+	religion = "bumba_meu_deus"
+	culture = "ludovicense"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_d_vale_do_rio_doce = {
+	name = "Nelson"
+	religion = "terra_benta"
+	culture = "mineiro"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+}
+character_d_vale_do_rio_pardo = {
+	name = "Aguinaldo"
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+}
+character_d_sierra_madre_del_sur = {
+	name = "Man"
+	religion = "tlaneltokayotl"
+	culture = "binn_i_zaa"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+}
+character_d_cahita = {
+	name = "Heeka"
+	religion = "kojtumbrem"
+	culture = "cahita"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+}
+character_d_zacatecas = {
+	name = "Tom_a_act_s"
+	religion = "cristero"
+	culture = "abajeno"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+}
+character_k_allegheny = {
+	name = "Luman"
+	religion = "galvanist"
+	culture = "steelfolk"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+
+character_k_bolivar = {
+	name = "Nicol_a_act_s"
+	dynasty = dynn_venezuela_ekvall
+	religion = "tres_potencias"
+	culture = "guayanes"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+}
+character_k_cordoba_1 = {
+	name = "Khalil"
+	dynasty = dynn_arg_Nasir
+	religion = "radicalista"
+	culture = "turco"
+	female = no
+	2585.3.12 = {
+		birth = yes
+	}
+	2660.5.16 = {
+		death = yes
+	}
+}
+character_k_cordoba = {
+	name = "Sa_u_act_l"
+	dynasty = dynn_arg_Nasir
+	religion = "radicalista"
+	culture = "cordobes"
+	father = character_k_cordoba_1
+	female = no
+	2629.2.5 = {
+		birth = yes
+	}
+}
+character_c_san_cristobal = {
+	name = "Casim"
+	dynasty = dynn_arg_Nasir
+	religion = "justicialista"
+	culture = "turco"
+	father = character_k_cordoba_1
+	female = no
+	2645.2.5 = {
+		birth = yes
+	}
+}
+character_d_cordoba = {
+	name = "Anxo"
+	dynasty = dynn_arg_Ulloa
+	religion = "radicalista"
+	culture = "cordobes"
+	female = no
+	2649.2.5 = {
+		birth = yes
+	}
+}
+character_k_guerrero = {
+	name = "Jos_e_act_"
+	religion = "tlaneltokayotl"
+	culture = "mexicano"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+}
+character_k_baja_california = {
+	name = "V_i_act_ctor_Manuel"
+	religion = "quetzaltec"
+	culture = "californiano"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+}
+character_k_magnolia = {
+	name = "Herbert"
+	religion = "evangelical"
+	culture = "deltaic"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+}
+character_k_mexico = {
+	name = "Arturo"
+	religion = "cristero"
+	culture = "chilango"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+}
+character_k_michoacan = {
+	name = "Ignacio"
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+}
+character_k_navajoland = {
+	name = "Mark"
+	religion = "mormon"
+	culture = "navajo"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+}
+character_k_altiplano = {
+	name = "Martha"
+	religion = "limpio"
+	culture = "altiplanense"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+}
+character_k_piaui = {
+	name = "Immanuel"
+	religion = "anussim"
+	culture = "piauiense"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2666.1.3 = {
+	effect = {
+            vassal_contract_set_obligation_level = {
+                type = special_contract_brazilian_imperial
+                level = 1
+            }
+        }
+    }
+}
+character_k_roraima = {
+	name = "Adrino"
+	religion = "watunna"
+	culture = "roraimense"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+character_k_sipan = {
+	name = "Milton"
+	religion = "divina_chicha"
+	culture = "costanorteno"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+}
+character_k_yucatan = {
+	name = "Marcial"
+	dna = dna_marcial_ponce
+	dynasty = dynn_yucatan_ponce
+	religion = "neomayan"
+	culture = "yucateco"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+}
+
+character_d_thames = {
+	name = "Robertson"
+	religion = "united_church"
+	culture = "ontarian"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_tehuantepec = {
+	name = "Jorj"
+	religion = "tlaneltokayotl"
+	culture = "binn_i_zaa"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_pochutla = {
+	name = "Rrodriegw"
+	religion = "tlaneltokayotl"
+	culture = "binn_i_zaa"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_zaachila = {
+	name = "Qhoiyo"
+	religion = "tlaneltokayotl"
+	culture = "nuu_savi"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_zihuatenejo_ixtapa = {
+	name = "Yolotli"
+	religion = "tlaneltokayotl"
+	culture = "mexicano"
+	female = yes
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_tlaxiaco = {
+	name = "Sevia"
+	religion = "tlaneltokayotl"
+	culture = "nuu_savi"
+	female = yes
+	2635.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_tacambaro_de_codallos = {
+	name = "Soona"
+	religion = "cristero"
+	culture = "purhepecha"
+	female = yes
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+character_c_isla_guadalupe = {
+	name = "Fermin"
+	religion = "navegante"
+	culture = "californiano"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}

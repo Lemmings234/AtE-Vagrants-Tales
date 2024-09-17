@@ -1,0 +1,5974 @@
+﻿brazil_de_braganca_pedro_9 = { # e_brazil
+	name = "Pedro"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+	mother = 2100014
+
+	trait = gluttonous
+	trait = content
+	trait = wrathful
+
+	2624.3.7 = {
+		birth = yes
+
+	}
+	2658.9.12 = {
+		death = "2658.9.12"
+	}
+}
+brazil_de_braganca_pedro_10 = { # Pedro X from AtE Lore, e_brazil
+	name = "Pedro"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	dna = dna_brazil_de_braganca_pedro_10
+	female = no
+	sexuality = heterosexual
+	disallow_random_traits = yes
+
+	culture = carioca
+	religion = apostolicism
+	father = brazil_de_braganca_pedro_9
+
+	trait = education_diplomacy_3
+	trait = trusting
+	trait = gregarious
+	trait = humble
+	trait = vestibular_2
+
+	2645.11.15 = {
+		birth = yes
+
+	}
+}
+brazil_terra_cambara_erico_1 = { # Érico Verissimo, e_cont_pampa
+	name = "E_act_rico"
+	dynasty = dynn_brazil_terra_cambara
+	female = no
+	disallow_random_traits = no
+
+	culture = gaucho
+	religion = farrapo
+
+
+
+	2604.4.10 = {
+		birth = yes
+
+	}
+}
+brazil_cavalcanti_epitacio_epitacio_cavalcanti = { # AtE Lore / Historical Family, k_paraiba
+	name = "Epit_a_act_cio"
+	dynasty = dynn_brazil_cavalcanti
+	#dna = dna_brazil_cavalcanti_epitacio_epitacio_cavalcanti
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+
+	trait = education_diplomacy_2
+	trait = generous
+	trait = just
+	trait = content
+	trait = journaller
+
+	2604.2.27 = {
+		birth = yes
+		give_nickname = nick_the_beautiful_beard
+	}
+	2666.1.1 = {
+
+	}
+
+}
+brazil_matarazzo_mauricio_1 = { # Stereotype + Historical family, k_sao_paulo
+	name = "Maur_i_act_cio"
+	dynasty = dynn_brazil_matarazzo
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = apostolicism
+	mother = brazil_matarazzo_alzira_1
+
+	trait = education_stewardship_3
+	trait = arrogant
+	trait = diligent
+	trait = ambitious
+	trait = vestibular_3
+
+	2610.12.24 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_rossi_nelson_1 = { # k_cap_paranagua
+	name = "Nelson"
+	dynasty = dynn_brazil_rossi
+	female = no
+	disallow_random_traits = no
+
+	culture = paranaense
+	religion = apostolicism
+
+	trait = education_martial_3
+	trait = bleeder
+
+	2635.10.12 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		# effect = {
+		# 	vassal_contract_set_obligation_level = {
+		# 		type = special_contract_brazilian_imperial
+		# 		level = 2
+		# 	}
+		# }
+	}
+}
+brazil_pena_branca_zeze_1 = { # k_mato_grosso
+	name = "Zez_e_act_"
+	dynasty = dynn_brazil_pena_branca
+	female = no
+	disallow_random_traits = no
+
+	culture = matogrossense
+	religion = boiadist
+	father = brazil_pena_branca_luciano_1
+
+	trait = education_martial_4
+	trait = poet
+
+	2624.9.28 = {
+		birth = yes
+
+	}
+}
+brazil_de_mello_ana_maria_1 = { # k_canastra
+	name = "Ana_Maria"
+	dynasty = dynn_brazil_de_mello
+	female = yes
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = apostolicism
+
+
+
+	2634.7.22 = {
+		birth = yes
+
+	}
+}
+brazil_maciel_jose_claudio_1 = { # Stereotype + Historical family, k_minas_gerais
+	name = "Jos_e_act__Cl_a_act_udio"
+	dynasty = dynn_brazil_maciel
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = apostolicism
+
+	trait = humble
+	trait = patient
+	trait = calm
+	trait = shrewd
+
+	2633.7.4 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_candido_manuel_1 = { # k_triangle
+	name = "Manuel"
+	dynasty = dynn_brazil_candido
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = kardecist
+
+	trait = lifestyle_mystic
+	trait = possessed_1
+
+	2638.10.16 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_laurentino_celso_e_san_laurentino = { # k_espirito_santo
+	name = "Celso"
+	dynasty = dynn_brazil_laurentino
+	female = no
+	disallow_random_traits = no
+
+	culture = ilheense
+	religion = global_throne
+
+	trait = education_stewardship_3
+	trait = trusting
+	trait = arrogant
+	trait = calm
+	trait = wheezing
+
+	2638.1.18 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_espirito_santo }
+	}
+
+	2666.1.3 = {
+	effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+
+}
+brazil_pena_branca_luciano_1 = { # k_mato_grosso
+	name = "Luciano"
+	dynasty = dynn_brazil_pena_branca
+	female = no
+	disallow_random_traits = no
+
+	culture = matogrossense
+	religion = boiadist
+
+	trait = education_diplomacy_3
+	trait = poet
+
+	2582.12.14 = {
+		birth = yes
+
+	}
+	2658.10.25 = {
+		death = "2658.10.25"
+	}
+}
+brazil_albuquerque_pedro_pedro_albuquerque1 = { # AtE Lore / Historical Family, k_recife
+	name = "Pedro"
+	dynasty = dynn_brazil_albuquerque
+	dna = dna_brazil_albuquerque_pedro_pedro_albuquerque1
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = recifolindense
+	religion = ciceritism
+
+	trait = education_martial_4
+	trait = temperate
+	trait = diligent
+	trait = sadistic
+	trait = brave
+	trait = physique_good_2
+	trait = shrewd
+
+	2579.10.5 = {
+		birth = yes
+		give_nickname = nick_the_lion
+	}
+	2666.1.1 = {
+		add_spouse = brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho
+	}
+
+}
+brazil_van_derley_mauricio_jose_cotegipe_7b = { # AtE Lore / Historical Family, k_salvador
+	name = "Mauricio_Jose"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = franciscano
+	religion = candomble
+	father = brazil_van_derley_mauricio_jose_cotegipe_5
+
+	trait = education_martial_2
+	trait = open_terrain_expert
+
+	2645.3.10 = {
+		birth = yes
+
+	}
+}
+brazil_van_derley_jose_mauricio_cotegipe_6b = { # AtE Lore / Historical Family, k_sao_francisco
+	name = "Jos_e_act__Maur_i_act_cio"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = franciscano
+	religion = candomble
+	father = brazil_van_derley_mauricio_jose_cotegipe_5
+
+	trait = education_diplomacy_4
+	trait = ambitious
+
+	2637.1.14 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_laurentino_fernando_ilheus_laurentino = { # k_ilheus
+	name = "Fernando"
+	dynasty = dynn_brazil_laurentino
+	female = no
+	disallow_random_traits = no
+
+	culture = ilheense
+	religion = apostolicism
+
+	trait = education_diplomacy_3
+	trait = forgiving
+	trait = shy
+	trait = gluttonous
+
+	2624.4.22 = {
+		birth = yes
+
+	}
+}
+brazil_dois_irmaos_jorge_1 = { # placeholder, k_para
+	name = "Jorge"
+	dynasty = dynn_brazil_dois_irmaos
+	female = no
+	disallow_random_traits = no
+
+	culture = paraense
+	religion = assembleiano
+
+
+
+	2633.8.23 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_alencar_jose_paulo_jose_alencar = { # AtE Lore , k_ceara
+	name = "Jos_e_act__Paulo"
+	dynasty = dynn_brazil_alencar
+	female = no
+	disallow_random_traits = no
+
+	culture = siarense
+	religion = ciceritism
+	mother = brazil_alencar_maria_benedita_barbara_alencar
+
+	trait = education_learning_4
+	trait = diligent
+	trait = poet
+
+	2623.7.18 = {
+		birth = yes
+
+	}
+	2643.1.1 = {
+		add_spouse = brazil_cochrane_marcia_marcia_cochrane
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_amaral_anita_1 = { # k_seabride
+	name = "Anita"
+	dynasty = dynn_brazil_amaral
+	dna = dna_brazil_brazil_amaral_anita_1
+	female = yes
+	disallow_random_traits = no
+
+	culture = gaucho
+	religion = batuque
+
+	trait = education_martial_4
+	trait = brave
+
+	2643.3.25 = {
+		birth = yes
+
+	}
+}
+
+
+
+brazil_amarante_teresa_cristina_teresa_amarante = { # k_matopiba
+	name = "Teresa_Cristina"
+	dynasty = dynn_brazil_amarante
+	female = yes
+	disallow_random_traits = no
+
+	culture = imperatrizense
+	religion = tambor_de_mina
+
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+
+	2628.6.9 = {
+		birth = yes
+
+	}
+}
+brazil_olympio_luis_luis_olympio = { # d_canavieiras
+	name = "Lu_i_act_s"
+	dynasty = dynn_brazil_olympio
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = reconcavano
+	religion = candomble
+
+	trait = education_martial_2
+	trait = brave
+	trait = wrathful
+	trait = reaver
+
+	2646.1.4 = {
+		birth = yes
+
+	}
+}
+brazil_juruna_kauan_1 = { # d_barra_das_garcas
+	name = "Kauan"
+	dynasty = dynn_brazil_juruna
+	female = no
+	disallow_random_traits = no
+
+	culture = xavante
+	religion = wasahure_sena
+
+
+
+	2637.7.24 = {
+		birth = yes
+
+	}
+}
+brazil_pimenta_mirna_1 = { # d_pontal_do_triangulo
+	name = "Mirna"
+	dynasty = dynn_brazil_pimenta
+	female = yes
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = kardecist
+
+
+
+	2645.6.23 = {
+		birth = yes
+
+	}
+}
+brazil_amaralina_maria_1 = { # d_planalto_central
+	name = "Maria"
+	dynasty = dynn_brazil_amaralina
+	female = yes
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = alternative_society
+	father = brazil_palhoca_caetano_1
+
+
+
+	2643.5.17 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_matrilineal_spouse = brazil_pantera_elvis_1
+	}
+}
+brazil_tartaruga_joao_1 = { # placeholder, d_godfather_santo_daime
+	name = "Jo_a_tld_o"
+	dynasty = dynn_brazil_tartaruga
+	female = no
+	disallow_random_traits = no
+
+	culture = acreano
+	religion = santo_daime
+
+	trait = education_learning_2
+	trait = lifestyle_mystic
+	trait = lifestyle_physician
+
+	2628.2.23 = {
+		birth = yes
+
+	}
+}
+brazil_da_paixao_gabriela_gabi_da_paixao_ba = { # d_soorotema
+	name = "Gabriela"
+	dynasty = dynn_brazil_da_paixao
+	female = yes
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = ilheense
+	religion = candomble
+
+	trait = education_intrigue_1
+	trait = deceitful
+	trait = beauty_good_2
+
+	2638.4.21 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_ilheus }
+	}
+}
+brazil_esteves_marieta_fabiola_esteves = { # d_sertao_da_ressaca
+	name = "Marieta"
+	dynasty = dynn_brazil_esteves
+	female = yes
+	disallow_random_traits = no
+
+	culture = agrestino
+	religion = reisado
+
+	trait = education_martial_2
+	trait = wrathful
+
+	2623.8.15 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_ilheus }
+	}
+	2666.1.3 = {
+	effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_lima_jose_francisco_duque_de_caxias2 = { # Historical Reference - Duque de Caxias, d_caxias
+	name = "Jos_e_act__Francisco"
+	dynasty = dynn_brazil_lima
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = ludovicense
+	religion = tambor_de_mina
+
+	father = brazil_lima_jose_joaquim_luis_duque_de_caxias1
+
+	trait = education_martial_3
+	trait = ambitious
+	trait = intellect_good_2
+
+	2640.8.19 = {
+		birth = yes
+
+	}
+}
+brazil_paraguacu_odorico_1 = { # d_feira_de_santana
+	name = "Odorico"
+	dynasty = dynn_brazil_paraguacu
+	female = no
+	disallow_random_traits = no
+
+	culture = agrestino
+	religion = candomble
+
+	trait = education_diplomacy_2
+	trait = gregarious
+	trait = arbitrary
+	trait = fickle
+
+	2630.2.28 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_salvador }
+	}
+}
+brazil_sardinha_severino_1 = { # Manifesto Antropofágico # Should Start in prison of the King of Salvador, d_primate_candomble
+	name = "Severino"
+	dynasty = dynn_brazil_sardinha
+	female = no
+	disallow_random_traits = no
+
+	culture = reconcavano
+	religion = candomble
+
+	trait = education_learning_3
+	trait = trusting
+	trait = zealous
+
+	2623.5.17 = {
+		birth = yes
+
+	}
+}
+brazil_maranhao_joao_joao_maranhao = { # AtE Lore / Historical Family, d_lencois
+	name = "Jo_a_tld_o"
+	dynasty_house = house_brazil_albuquerque_maranhao
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = recifolindense
+	religion = bumba_meu_deus
+	father = brazil_albuquerque_pedro_pedro_albuquerque1
+	mother = brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho
+
+	trait = education_stewardship_3
+	trait = intellect_good_3
+	trait = one_eyed
+
+	2618.8.16 = {
+		birth = yes
+		give_nickname = nick_the_sea_king
+	}
+	2666.1.1 = {
+		add_spouse = brazil_cavalcanti_giovanna_gio_cavalcanti
+	}
+	2666.1.3 = {
+	effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_meia_noite_manuel_manuel_meianoite = { # d_serra_da_capivara
+	name = "Manuel"
+	dynasty = dynn_brazil_meia_noite
+	female = no
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = sagarana
+
+	trait = education_martial_3
+	trait = sadistic
+	trait = lifestyle_blademaster
+
+	2630.9.26 = {
+		birth = yes
+
+	}
+}
+brazil_bem_querer_deodoro_deodoro_bemquerer = { # AtE Lore / Musical Reference - Djavan, d_alagoas
+	name = "Deodoro"
+	dynasty = dynn_brazil_bem_querer
+	female = no
+	disallow_random_traits = no
+
+	culture = alagoano
+	religion = santeiro
+
+	trait = poet
+
+	2638.6.16 = {
+		birth = yes
+
+	}
+}
+brazil_steinbruch_miguel_miguel_steinbruch = { # d_serra_dos_orgaos
+	name = "Miguel"
+	dynasty = dynn_brazil_steinbruch
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = fluminense
+	religion = apostolicism
+
+	trait = education_stewardship_4
+	trait = chaste
+	trait = gregarious
+	trait = zealous
+
+	2614.9.25 = {
+		birth = yes
+
+	}
+}
+brazil_schroder_angelo_1 = { # d_missoes
+	name = "A_hat_ngelo"
+	dynasty = dynn_brazil_schroder
+	female = no
+	disallow_random_traits = no
+
+	culture = gaucho
+	religion = farrapo
+
+
+
+	2649.11.16 = {
+		birth = yes
+
+	}
+}
+brazil_das_mortes_eduardo_1 = { # d_barreiras
+	name = "Eduardo"
+	dynasty = dynn_brazil_das_mortes
+	female = no
+	disallow_random_traits = no
+
+	culture = barreirano
+	religion = sagarana
+
+	trait = education_martial_4
+	trait = sadistic
+	trait = cynical
+	trait = arbitrary
+	trait = lifestyle_blademaster
+
+	2625.3.5 = {
+		birth = yes
+
+	}
+}
+brazil_rodrigues_cristina_1 = { # d_costa_do_sol
+	name = "Cristina"
+	dynasty = dynn_brazil_rodrigues
+	female = yes
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+
+	trait = education_learning_2
+	trait = forgiving
+	trait = gregarious
+	trait = fickle
+
+	2648.7.24 = {
+		birth = yes
+
+	}
+}
+brazil_pecanha_carlos_1 = { # Porta dos Fundos, d_grande_rio
+	name = "Carlos"
+	dynasty = dynn_brazil_pecanha
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = umbanda
+
+	trait = education_martial_2
+	trait = sadistic
+	trait = arbitrary
+	trait = content
+
+	2619.11.27 = {
+		birth = yes
+
+	}
+}
+brazil_graciosa_eli_1 = { # d_palmas
+	name = "Eli"
+	dynasty = dynn_brazil_graciosa
+	female = no
+	disallow_random_traits = no
+
+	culture = tocantinense
+	religion = architecturalist
+
+
+
+	2649.11.7 = {
+		birth = yes
+
+	}
+}
+brazil_simoes_teodoro_1 = { # d_rio_verde
+	name = "Teodoro"
+	dynasty = dynn_brazil_simoes
+	female = no
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = boiadist
+
+
+
+	2626.6.8 = {
+		birth = yes
+
+	}
+}
+brazil_guarany_tostao_1 = { # d_sicuriu
+	name = "Tost_a_tld_o"
+	dynasty = dynn_brazil_guarany
+	female = no
+	disallow_random_traits = no
+
+	culture = maracaju
+	religion = boiadist
+
+
+
+	2627.3.13 = {
+		birth = yes
+
+	}
+}
+brazil_beleza_sergio_1 = { # d_alternative_society
+	name = "S_e_act_rgio"
+	dynasty = dynn_brazil_beleza
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = alternative_society
+
+	trait = education_learning_3
+	trait = lifestyle_mystic
+	trait = lunatic_1
+
+	2635.4.15 = {
+		birth = yes
+
+	}
+}
+brazil_junqueira_cornelio_1 = { # Historical family, d_alta_mantiqueira
+	name = "Corn_e_act_lio"
+	dynasty = dynn_brazil_junqueira
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = terra_benta
+
+
+
+	2624.3.17 = {
+		birth = yes
+
+	}
+}
+brazil_carneiro_joao_carlos_1 = { # d_alto_jequitinhonha
+	name = "Jo_a_tld_o_Carlos"
+	dynasty = dynn_brazil_carneiro
+	female = no
+	disallow_random_traits = no
+
+	culture = geralista
+	#religion = saudosism
+	religion = terra_benta
+
+
+	2628.12.16 = {
+		birth = yes
+
+	}
+}
+brazil_halfeld_regis_1 = { # d_paraibuna
+	name = "R_e_act_gis"
+	dynasty = dynn_brazil_halfeld
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = terra_benta
+
+
+
+	2628.4.14 = {
+		birth = yes
+
+	}
+}
+brazil_rufino_maria_rita_maria_rufino = { # d_princesa
+	name = "Maria_Rita"
+	dynasty = dynn_brazil_rufino
+	female = yes
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = anussim
+
+
+
+	2648.3.17 = {
+		birth = yes
+
+	}
+}
+brazil_ribeiro_maira_1 = { # d_verde_grande
+	name = "Ma_i_act_ra"
+	dynasty = dynn_brazil_ribeiro
+	female = yes
+	disallow_random_traits = no
+
+	culture = geralista
+	religion = reisado
+
+	trait = education_learning_3
+	trait = lifestyle_mystic
+
+	2633.12.2 = {
+		birth = yes
+	}
+	2666.1.3 = {
+	effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_de_andrade_roseti_1 = { # d_ferroquadro
+	name = "Roseti"
+	dynasty = dynn_brazil_de_andrade
+	female = yes
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = terra_benta
+	mother = brazil_de_andrade_carlota_1
+
+
+
+	2644.7.21 = {
+		birth = yes
+
+	}
+}
+brazil_das_mortes_laerte_1 = { # d_vertentes
+	name = "Laerte"
+	dynasty = dynn_brazil_das_mortes
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = congada
+
+
+
+	2628.11.3 = {
+		birth = yes
+
+	}
+}
+brazil_da_porteira_zeca_1 = { # d_sapucai
+	name = "Zeca"
+	dynasty = dynn_brazil_da_porteira
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = terra_benta
+
+	trait = poet
+
+	2640.12.24 = {
+		birth = yes
+
+	}
+}
+brazil_ghokupu_jean_baptiste_jb_ghokupu = { # AtE Lore, d_oyapock
+	name = "Jean-Baptiste"
+	dynasty = dynn_brazil_ghokupu
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = kheuol
+	religion = potay
+
+	trait = education_martial_2
+
+	2641.1.19 = {
+		birth = yes
+
+	}
+}
+brazil_amazonas_henrique_henrique_amazonas = { # Republic of Recife AtE Lore / Historical Family, d_recife
+	name = "Henrique"
+	dynasty = dynn_brazil_amazonas
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = recifolindense
+	religion = kardecist
+	father = brazil_amazonas_luis_luis_amazonas
+
+	trait = beauty_good_1
+
+	2644.9.2 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+
+	}
+}
+brazil_rio_grande_otelo_1 = { # d_pontal_da_prata
+	name = "Otelo"
+	dynasty = dynn_brazil_rio_grande
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = kardecist
+
+
+
+	2640.12.22 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia20 = { # AtE Lore / Reference to a political family that names their children in french numbers, d_mossoro
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia20
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia19
+
+	trait = education_martial_2
+	trait = vengeful
+	trait = humble
+	trait = ambitious
+	trait = physique_good_3
+	trait = depressed_1
+	trait = lifestyle_hunter
+
+	2594.4.19 = {
+		birth = yes
+
+	}
+}
+brazil_bittencourt_vinicius_1 = { # d_medio_tiete
+	name = "Vinicius"
+	dynasty = dynn_brazil_bittencourt
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = apostolicism
+
+
+
+	2633.9.9 = {
+		birth = yes
+
+	}
+}
+brazil_da_esplanada_leandro_1 = { # d_the_district
+	name = "Leandro"
+	dynasty = dynn_brazil_da_esplanada
+	female = no
+	disallow_random_traits = no
+
+	culture = candango
+	religion = architecturalist
+
+
+
+	2635.8.19 = {
+		birth = yes
+
+	}
+}
+brazil_altestrela_juliana_juju_altestrela = { # AtE Lore, d_macapa
+	name = "Juliana"
+	dynasty = dynn_brazil_altestrela
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = amapaense
+	religion = apostolicism
+
+	trait = education_diplomacy_4
+	trait = intellect_good_3
+
+	2647.8.25 = {
+		birth = yes
+
+	}
+}
+brazil_altestrela_juliano_juliano_altestrela = { # AtE Lore, d_macapa
+	name = "Juliano"
+	dynasty = dynn_brazil_altestrela
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = amapaense
+	religion = apostolicism
+
+	trait = education_martial_4
+
+	2591.12.8 = {
+		birth = yes
+
+	}
+}
+brazil_de_sousa_monica_monica_sousa = { # Literary Reference - Turma da Mônica, d_campinas
+	name = "M_o_hat_nica"
+	dynasty = dynn_brazil_de_sousa
+	dna = dna_brazil_de_sousa_monica_monica_sousa
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = saudosism
+
+	trait = brave
+	trait = wrathful
+	trait = physique_good_2
+	trait = comfort_eater
+
+	2640.9.15 = {
+		birth = yes
+
+	}
+}
+brazil_caramello_victorino_1 = { # d_contestado
+	name = "Victorino"
+	dynasty = dynn_brazil_caramello
+	female = no
+	disallow_random_traits = no
+
+	culture = talian
+	religion = celestism
+
+
+
+	2636.7.22 = {
+		birth = yes
+
+	}
+}
+brazil_swiat_ewa_ewa_s = { # d_nova_rutenia
+	name = "Ewa"
+	dynasty = dynn_brazil_swiat
+	female = yes
+	disallow_random_traits = yes
+
+	culture = ruteno
+	religion = byzantine_rite
+	mother = brazil_swiat_teresa_teresa_s
+
+	trait = education_diplomacy_2
+	trait = content
+	trait = calm
+	trait = trusting
+	trait = shrewd
+
+	2635.10.3 = {
+		birth = yes
+
+	}
+}
+brazil_swiat_teresa_teresa_s = { # d_nova_rutenia
+	name = "Teresa"
+	dynasty = dynn_brazil_swiat
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = ruteno
+	religion = byzantine_rite
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = wrathful
+	trait = stubborn
+	trait = lifestyle_blademaster
+
+	2584.9.5 = {
+		birth = yes
+
+	}
+	2641.2.15 = {
+		death = "2641.2.15"
+	}
+}
+brazil_pato_branco_gaspar_1 = { # d_vale_do_iguacu
+	name = "Gaspar"
+	dynasty = dynn_brazil_pato_branco
+	female = no
+	disallow_random_traits = no
+
+	culture = yguazuano
+	religion = celestism
+
+
+
+	2605.2.8 = {
+		birth = yes
+
+	}
+}
+brazil_bandido_tiao_1 = { # d_rio_preto
+	name = "Ti_a_tld_o"
+	dynasty = dynn_brazil_bandido
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = apostolicism
+
+	trait = education_martial_4
+	trait = brave
+	trait = stubborn
+	trait = impatient
+
+	2631.10.2 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:d_rio_pardo }
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_padovese_alexandre_1 = { # d_aracatuba
+	name = "Alexandre"
+	dynasty = dynn_brazil_padovese
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = apostolicism
+
+	trait = education_martial_3
+
+	2636.10.20 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_weiss_jaqueline_1 = { # d_alto_pontal
+	name = "Jaqueline"
+	dynasty = dynn_brazil_weiss
+	female = yes
+	disallow_random_traits = no
+
+	culture = caipira
+	#religion = saudosism
+	religion = liberationism
+
+	trait = education_martial_4
+
+	2635.3.9 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 2
+			}
+		}
+	}
+}
+brazil_none_washington_1 = { # d_patriarchy_apostolic
+	name = "Washington"
+	#dynasty = none
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = apostolicism
+
+	trait = education_learning_2
+
+	2607.6.2 = {
+		birth = yes
+
+	}
+}
+brazil_fagundes_bruno_1 = { # d_rio_pardo
+	name = "Bruno"
+	dynasty = dynn_brazil_fagundes
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = kardecist
+
+	trait = gregarious
+
+	2610.8.18 = {
+		birth = yes
+
+	}
+}
+brazil_sato_mauro_mauro_sato = { # d_marilia
+	name = "Mauro"
+	dynasty = dynn_brazil_sato
+	female = no
+	disallow_random_traits = no
+
+	culture = burajirujin
+	religion = johrei
+
+
+
+	2638.8.5 = {
+		birth = yes
+
+	}
+}
+brazil_guazzeli_carmela_1 = { # d_guayra
+	name = "Carmela"
+	dynasty = dynn_brazil_guazzeli
+	female = yes
+	disallow_random_traits = no
+
+	culture = talian
+	religion = celestism
+
+
+
+	2645.4.27 = {
+		birth = yes
+
+	}
+}
+brazil_peres_cirilo_1 = { # d_sorocaba
+	name = "Cirilo"
+	dynasty = dynn_brazil_peres
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = saudosism
+
+
+
+	2637.5.13 = {
+		birth = yes
+
+	}
+}
+brazil_schmidt_angela_1 = { # d_passo_do_principe
+	name = "Angela"
+	dynasty = dynn_brazil_schmidt
+	female = yes
+	disallow_random_traits = no
+
+	culture = hunsrickisch
+	religion = celestism
+
+
+
+	2648.9.19 = {
+		birth = yes
+
+	}
+}
+brazil_camargo_gilberto_1 = { # d_architecturalist
+	name = "Gilberto"
+	dynasty = dynn_brazil_camargo
+	female = no
+	disallow_random_traits = no
+
+	culture = candango
+	religion = architecturalist
+
+	trait = education_learning_2
+	trait = architect
+
+	2605.1.26 = {
+		birth = yes
+
+	}
+}
+brazil_vasconcelos_augusto_1 = { # d_itapeva
+	name = "Augusto"
+	dynasty = dynn_brazil_vasconcelos
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = apostolicism
+
+
+
+	2624.7.5 = {
+		birth = yes
+
+	}
+}
+brazil_pantera_zito_1 = { # d_chapada_dos_veadeiros
+	name = "Zito"
+	dynasty = dynn_brazil_pantera
+	female = no
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = alternative_society
+
+	trait = lifestyle_mystic
+
+	2622.12.19 = {
+		birth = yes
+
+	}
+}
+brazil_palhoca_iracema_1 = { # d_catalonia
+	name = "Iracema"
+	dynasty = dynn_brazil_palhoca
+	female = yes
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = architecturalist
+	father = brazil_palhoca_caetano_1
+
+
+
+	2644.12.5 = {
+		birth = yes
+
+	}
+}
+brazil_de_medeiros_artur_1 = { # d_porto_alegre
+	name = "Artur"
+	dynasty = dynn_brazil_de_medeiros
+	female = no
+	disallow_random_traits = no
+
+	culture = piatolino
+	religion = farrapo
+
+
+
+	2639.4.16 = {
+		birth = yes
+
+	}
+}
+brazil_de_oliveira_maria_benedita_1 = { # Sitio do Picapau Amarelo Soft References, d_alto_paraiba
+	name = "Maria_Benedita"
+	dynasty = dynn_brazil_de_oliveira
+	#dna = dna_brazil_de_oliveira_maria_benedita_1
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = fluminense
+	religion = apostolicism
+
+	trait = education_diplomacy_3
+	trait = compassionate
+	trait = generous
+	trait = patient
+	trait = twin
+
+	2606.12.11 = {
+		birth = yes
+
+	}
+}
+brazil_scolari_ferdinando_1 = { # d_campos_de_vacaria
+	name = "Ferdinando"
+	dynasty = dynn_brazil_scolari
+	female = no
+	disallow_random_traits = no
+
+	culture = talian
+	religion = celestism
+
+
+
+	2615.1.2 = {
+		birth = yes
+
+	}
+}
+brazil_kuerten_floriano_1 = { # d_greater_florianopolis
+	name = "Floriano"
+	dynasty = dynn_brazil_kuerten
+	female = no
+	disallow_random_traits = no
+
+	culture = barriga_verde
+	religion = kardecist
+
+
+
+	2633.8.18 = {
+		birth = yes
+		}
+
+#    2666.7.4 = {
+#        effect = {
+#            vassal_contract_set_obligation_level = {
+#                type = special_contract_brazilian_imperial
+#                level = 2
+#            }
+#        }
+#    }
+# He's no longer Imperial Bureaucracy, so shouldn't have any special Brazilian contract.
+}
+
+brazil_schlieckmann_otto_1 = { # d_vale_do_itajai
+	name = "Otto"
+	dynasty = dynn_brazil_schlieckmann
+	female = no
+	disallow_random_traits = no
+
+	culture = hunsrickisch
+	religion = celestism
+
+
+
+	2624.4.25 = {
+		birth = yes
+
+	}
+}
+brazil_botelho_armando_1 = { # d_cuesta
+	name = "Armando"
+	dynasty = dynn_brazil_botelho
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = saudosism
+
+	trait = vestibular_4
+
+	2633.7.12 = {
+		birth = yes
+
+	}
+}
+brazil_de_alcantara_machado_erasmo_1 = { # d_santos
+	name = "Erasmo"
+	dynasty = dynn_brazil_de_alcantara_machado
+	female = no
+	disallow_random_traits = no
+
+	culture = caicara
+	religion = apostolicism
+
+
+
+	2615.8.16 = {
+		birth = yes
+
+	}
+}
+
+brazil_castro_mansur = { # c_taubate
+	name = "Castro"
+	dynasty = dynn_brazil_mansur
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = apostolicism
+
+	2635.12.16 = {
+		birth = yes
+
+	}
+}
+
+
+brazil_isabelinha_silva_leme_e_castro = { # ubatuba
+	name = "Isabelinha"
+	dynasty = dynn_brazil_silva_leme_e_castro
+	female = yes
+	disallow_random_traits = no
+
+	culture = caicara
+	religion = umbanda
+
+	2623.9.9 = {
+		birth = yes
+
+	}
+}
+
+brazil_da_silva_santos_jonas_1 = { # d_ribeira
+	name = "Jonas"
+	dynasty = dynn_brazil_da_silva_santos
+	female = no
+	disallow_random_traits = no
+
+	culture = caicara
+	religion = global_throne
+
+
+
+	2628.11.17 = {
+		birth = yes
+
+	}
+}
+brazil_castellani_joao_vitor_1 = { # c_araraquara
+	name = "Jo_a_tld_o_Vitor"
+	dynasty = dynn_brazil_castellani
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = apostolicism
+
+	trait = education_martial_4
+	trait = brave
+	trait = impatient
+	trait = vengeful
+
+	2638.7.22 = {
+		birth = yes
+
+	}
+}
+brazil_da_onca_lucas_1 = { # c_lucas
+	name = "Lucas"
+	dynasty = dynn_brazil_da_onca
+	female = no
+	disallow_random_traits = no
+
+	culture = terena
+	religion = boiadist
+
+
+
+	2602.9.8 = {
+		birth = yes
+
+	}
+}
+brazil_coelho_miriam_1 = { # c_bauru
+	name = "Miriam"
+	dynasty = dynn_brazil_coelho
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = saudosism
+
+
+
+	2644.4.14 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:c_araraquara }
+	}
+}
+brazil_vergueiro_edmir_1 = { # c_guaratingueta
+	name = "Edmir"
+	dynasty = dynn_brazil_vergueiro
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = apostolicism
+
+
+
+	2620.9.25 = {
+		birth = yes
+
+	}
+}
+brazil_zimmerman_duda_1 = { # c_campos_do_jordao
+	name = "Duda"
+	dynasty = dynn_brazil_zimmerman
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = apostolicism
+
+
+
+	2645.9.2 = {
+		birth = yes
+
+	}
+}
+brazil_de_carvalho_chico_1 = { # c_maringa
+	name = "Chico"
+	dynasty = dynn_brazil_de_carvalho
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = architecturalist
+
+
+
+	2623.4.26 = {
+		birth = yes
+
+	}
+}
+brazil_miguelino_sesnanda_sesnanda_miguelino = { # AtE Lore / Surname refering to one that is from São Miguel, church holding in the county, name also Historical Reference to a Visigothic King_, c_alexandria
+	name = "Sesnanda"
+	dynasty = dynn_brazil_miguelino
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+
+
+
+	2647.10.10 = {
+		birth = yes
+
+	}
+}
+brazil_furtado_sandro_1 = { # c_lages
+	name = "Sandro"
+	dynasty = dynn_brazil_furtado
+	female = no
+	disallow_random_traits = no
+
+	culture = barriga_verde
+	religion = celestism
+
+
+
+	2646.3.6 = {
+		birth = yes
+
+	}
+}
+brazil_fernandes_willa_willa_fernandes = { # AtE Lore / Name in reference to Judeo-Dutch presence in Rio Grande, Surname common to the region, c_apodi
+	name = "Willa"
+	dynasty = dynn_brazil_fernandes
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = seridoense
+	religion = ciceritism
+
+
+
+	2644.9.1 = {
+		birth = yes
+
+	}
+}
+brazil_gusmao_carlos_1 = { # c_ubatuba
+	name = "Carlos"
+	dynasty = dynn_brazil_gusmao
+	female = no
+	disallow_random_traits = no
+
+	culture = caicara
+	religion = apostolicism
+
+	trait = education_intrigue_3
+	trait = cynical
+	trait = gregarious
+	trait = patient
+
+	2614.12.5 = {
+		birth = yes
+
+	}
+}
+brazil_von_zuben_cassio_1 = { # c_jundiai
+	name = "C_a_act_ssio"
+	dynasty = dynn_brazil_von_zuben
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = kardecist
+
+
+
+	2625.9.6 = {
+		birth = yes
+
+	}
+}
+brazil_marandova_tom_1 = { # c_paracatu
+	name = "Tom"
+	dynasty = dynn_brazil_marandova
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = veredista
+	religion = sagarana
+
+	trait = lifestyle_hunter
+
+	2640.4.12 = {
+		birth = yes
+
+	}
+}
+brazil_beiramar_ruan_1 = { # c_macae
+	name = "Ruan"
+	dynasty = dynn_brazil_beiramar
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = candomble
+
+	trait = education_intrigue_3
+
+	2645.11.7 = {
+		birth = yes
+
+	}
+}
+brazil_de_orleans_e_braganca_isabel_1 = { # c_petropolis
+	name = "Isabel"
+	dynasty = dynn_brazil_de_orleans_e_braganca
+	female = yes
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = apostolicism
+
+	trait = education_intrigue_4
+	trait = ambitious
+	trait = gregarious
+	trait = arrogant
+	trait = intellect_good_1
+	trait = seducer
+
+	2647.10.26 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_unpressed_claim = title:e_brazil }
+	}
+}
+brazil_beltrao_leoncio_1 = { # c_japeri
+	name = "Le_o_hat_ncio"
+	dynasty = dynn_brazil_beltrao
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = global_throne
+
+	trait = intellect_bad_1
+
+	2645.7.21 = {
+		birth = yes
+
+	}
+}
+brazil_sales_nathan_1 = { # c_niteroi
+	name = "Nathan"
+	dynasty = dynn_brazil_sales
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = umbanda
+
+	trait = education_intrigue_1
+	trait = cynical
+	trait = callous
+	trait = wrathful
+
+	2629.12.16 = {
+		birth = yes
+
+	}
+}
+brazil_soares_celia_1 = { # c_angra_dos_reis
+	name = "Celia"
+	dynasty = dynn_brazil_soares
+	female = yes
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+
+	trait = beauty_good_1
+
+	2642.4.19 = {
+		birth = yes
+
+	}
+}
+brazil_mendonca_amanda_1 = { # c_rio_verde
+	name = "Amanda"
+	dynasty = dynn_brazil_mendonca
+	female = yes
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = boiadist
+
+
+
+	2650.12.5 = {
+		birth = yes
+
+	}
+}
+brazil_guimaraes_jacinto_1 = { # c_curvelo
+	name = "Jacinto"
+	dynasty = dynn_brazil_guimaraes
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	#religion = saudosism
+	religion = sagarana
+
+
+
+	2619.7.22 = {
+		birth = yes
+
+	}
+}
+brazil_silveira_sandro_sandro_silveira = { # c_campos_dos_goytacazes
+	name = "Sandro"
+	dynasty = dynn_brazil_silveira
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = global_throne
+
+	trait = education_stewardship_3
+	trait = impatient
+	trait = humble
+	trait = temperate
+
+	2624.6.27 = {
+		birth = yes
+
+	}
+}
+brazil_maluf_luis_1 = { # c_piracicaba
+	name = "Luis"
+	dynasty = dynn_brazil_maluf
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = apostolicism
+
+
+
+	2620.8.7 = {
+		birth = yes
+
+	}
+}
+brazil_tilapia_laudivio_1 = { # c_capelinha
+	name = "Laudivio"
+	dynasty = dynn_brazil_tilapia
+	female = no
+	disallow_random_traits = no
+
+	culture = geralista
+	religion = reisado
+
+	2647.12.26 = {
+		birth = yes
+
+	}
+}
+brazil_cortella_giba_1 = { # c_londrina
+	name = "Giba"
+	dynasty = dynn_brazil_cortella
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = apostolicism
+
+
+
+	2647.10.9 = {
+		birth = yes
+
+	}
+}
+brazil_araripe_tristao_tristao_alencar2 = { # AtE Lore , c_sobral
+	name = "Trist_a_tld_o"
+	dynasty_house = house_brazil_alencar_araripe
+	female = no
+	disallow_random_traits = no
+
+	father = brazil_araripe_tristao_tristao_alencar1
+
+	culture = sertanejo
+	religion = global_throne
+
+	trait = education_martial_2
+	trait = ambitious
+
+	2645.3.27 = {
+		birth = yes
+
+	}
+}
+brazil_vidotti_conrado_1 = { # c_assis
+	name = "Conrado"
+	dynasty = dynn_brazil_vidotti
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = apostolicism
+
+	trait = education_martial_2
+
+	2647.8.10 = {
+		birth = yes
+
+	}
+}
+brazil_falcao_marcos_falcao = { # Historical Family / Musical Reference - Falcão, c_quixada
+	name = "Marcos"
+	dynasty = dynn_brazil_falcao
+	female = no
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = alternative_society
+
+	trait = poet
+
+	2643.6.24 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_ceara }
+	}
+}
+brazil_teixeira_elias_1 = { # c_pirapora
+	name = "Elias"
+	dynasty = dynn_brazil_teixeira
+	female = no
+	disallow_random_traits = no
+
+	culture = veredista
+	religion = sagarana
+
+
+
+	2615.4.26 = {
+		birth = yes
+
+	}
+}
+brazil_da_mosca_paulo_paulo_da_mosca = { # c_caetite
+	name = "Paulo"
+	dynasty = dynn_brazil_da_mosca
+	female = no
+	disallow_random_traits = no
+
+	culture = franciscano
+	religion = alternative_society
+
+
+
+	2648.3.17 = {
+		birth = yes
+
+	}
+}
+brazil_da_paixao_flor_1 = { # c_camacari
+	name = "Flor"
+	dynasty = dynn_brazil_da_paixao
+	female = yes
+	disallow_random_traits = no
+
+	culture = reconcavano
+	religion = candomble
+
+
+
+	2641.9.27 = {
+		birth = yes
+
+	}
+}
+brazil_jacare_deusdete_1 = { # c_almenara
+	name = "Deusdete"
+	dynasty = dynn_brazil_jacare
+	female = no
+	disallow_random_traits = no
+
+	culture = geralista
+	religion = reisado
+
+
+
+	2625.7.16 = {
+		birth = yes
+
+	}
+}
+
+brazil_olga_querere = {
+	name = "Olga"
+	dynasty_house = house_brazil_querere
+	#dynasty = dynn_brazil_querere
+	female = yes
+	disallow_random_traits = no
+
+	dna = dna_brazil_olga_querere
+
+	culture = reconcavano
+	religion = candomble
+
+	2641.11.17 = {
+	birth = yes
+	}
+
+}
+
+brazil_pereira_sara_sara_pereira = {
+	name = "Sara"
+	dynasty = dynn_brazil_pereira
+	female = yes
+	disallow_random_traits = no
+
+	culture = ilheense
+	religion = candomble
+
+	2642.3.11 = {
+	birth = yes
+	}
+	2666.7.4 = {
+	employer = brazil_olga_querere
+	}
+}
+
+brazil_joao_quaderna = {
+	name = "Jo_a_tld_o"
+	dynasty = dynn_brazil_quaderna
+	female = no
+	disallow_random_traits = no
+
+	dna = dna_brazil_joao_quaderna
+
+	culture = borboremense
+	religion = sebastianism
+
+	2613.7.9 = {
+	birth = yes
+	}
+
+}
+
+brazil_van_derley_jose_gasparino_cotegipe_1 = { # AtE Lore / Historical Family, c_barra
+	name = "Jose_Gasparino"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = sranan
+	religion = candomble
+
+	trait = education_martial_4
+	trait = ambitious
+	trait = compassionate
+	trait = brave
+	trait = adventurer
+	trait = scarred
+	trait = open_terrain_expert
+
+	2423.5.6 = {
+		birth = yes
+
+	}
+	2491.7.8 = {
+		death = "2491.7.8"
+	}
+}
+brazil_portobello_olegario_olegario_portobello = { # AtE Lore, c_amarante_do_maranhao
+	name = "Oleg_a_act_rio"
+	dynasty = dynn_brazil_portobello
+	female = no
+	disallow_random_traits = no
+
+	culture = parnaibano
+	religion = tambor_de_mina
+
+
+
+	2639.5.17 = {
+		birth = yes
+
+	}
+}
+brazil_cravo_romulo_romulo_cravo = { # AtE Lore, c_juazeiro_do_norte
+	name = "R_o_hat_mulo"
+	dynasty = dynn_brazil_cravo
+	female = no
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = ciceritism
+
+	trait = education_learning_3
+
+	2644.2.16 = {
+		birth = yes
+
+	}
+}
+brazil_nepomuceno_adalberto_adalberto_nepomuceno = { # Historical Reference - Alberto Nepomuceno, c_fortaleza
+	name = "Adalberto"
+	dynasty = dynn_brazil_nepomuceno
+	female = no
+	disallow_random_traits = no
+
+	culture = siarense
+	religion = ciceritism
+
+
+
+	2640.8.24 = {
+		birth = yes
+
+	}
+}
+
+brazil_felipe_camarao = { # Historical Reference, c_mamanguape
+	name = "Felipe"
+	dynasty = dynn_brazil_camar_a_tld_o
+	female = no
+	disallow_random_traits = no
+
+	culture = potiguara
+	religion = ciceritism
+
+
+
+	2631.8.12 = {
+		birth = yes
+
+	}
+
+}
+
+brazil_domiciana = { # Historical Reference, c_br_30_petrol_ndia
+	name = "Domiciana"
+	dynasty = dynn_brazil_palmeiras
+	female = yes
+	disallow_random_traits = no
+
+	culture = pankararu
+	religion = jurema_sagrada
+
+	2600.1.12 = {
+		birth = yes
+
+	}
+
+}
+
+brazil_lisboa_guilhermina_guilhermina_lisboa = { # AtE Lore, c_imperatriz
+	name = "Guilhermina"
+	dynasty = dynn_brazil_lisboa
+	female = yes
+	disallow_random_traits = no
+
+	culture = parnaibano
+	religion = sagarana
+
+
+
+	2644.11.20 = {
+		birth = yes
+
+	}
+}
+brazil_dos_santos_hiroshi_1 = { # c_tupa
+	name = "Hiroshi"
+	dynasty = dynn_brazil_dos_santos
+	female = no
+	disallow_random_traits = no
+
+	culture = burajirujin
+	religion = johrei
+
+	trait = education_martial_1
+
+	2645.3.16 = {
+		birth = yes
+
+	}
+}
+brazil_veromundo_julio_julio_veromundo = { # AtE Lore, c_balsas
+	name = "J_u_act_lio"
+	dynasty = dynn_brazil_veromundo
+	female = no
+	disallow_random_traits = no
+
+	culture = imperatrizense
+	religion = assembleiano
+
+
+
+	2637.1.20 = {
+		birth = yes
+
+	}
+}
+brazil_jenipapo_miguel_miguel_jenipapo = { # AtE Lore / Historical Referente - indigenous revolt in Piauí led by Mandu Ladino, c_teresina
+	name = "Miguel"
+	dynasty = dynn_brazil_jenipapo
+	dna = dna_brazil_jenipapo_miguel_miguel_jenipapo
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = piauiense
+	religion = anussim
+
+	trait = education_martial_2
+	trait = wrathful
+	trait = brave
+	trait = zealous
+	trait = peasant_leader
+	trait = scarred
+
+	2644.4.22 = {
+		birth = yes
+
+	}
+}
+brazil_oaiampi_emyra_emyra_wajapi = { # AtE Lore, c_tumucumaque
+	name = "Emyra"
+	dynasty = dynn_brazil_oaiampi
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = wajapi
+	religion = apostolicism
+
+	trait = education_diplomacy_4
+
+	2639.3.1 = {
+		birth = yes
+
+	}
+}
+brazil_calafate_artur_artur_calafate = { # AtE Lore / Afro religion representation, c_amapa
+	name = "Artur"
+	dynasty = dynn_brazil_calafate
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = amapaense
+	religion = tambor_de_mina
+
+	trait = education_diplomacy_1
+
+	2638.10.12 = {
+		birth = yes
+
+	}
+}
+brazil_mazagao_thiego_thiego_mazagao = { # AtE Lore, c_mazagao
+	name = "Thiego"
+	dynasty = dynn_brazil_mazagao
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = amapaense
+	religion = assembleiano
+
+	trait = education_stewardship_2
+
+	2634.7.15 = {
+		birth = yes
+
+	}
+}
+brazil_corisco_sebastiao_sebastiao_corisco = { # c_bom_jesus_da_lapa
+	name = "Sebasti_a_tld_o"
+	dynasty = dynn_brazil_corisco
+	female = no
+	disallow_random_traits = no
+
+	culture = barreirano
+	religion = reisado
+
+	trait = education_martial_2
+	trait = cynical
+	trait = gregarious
+	trait = vengeful
+	trait = shrewd
+
+	2630.11.16 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_sao_francisco }
+	}
+}
+brazil_passos_renato_1 = { # c_telemaco_borba
+	name = "Renato"
+	dynasty = dynn_brazil_passos
+	female = no
+	disallow_random_traits = no
+
+	culture = paranaense
+	religion = celestism
+
+
+
+	2628.1.16 = {
+		birth = yes
+
+	}
+}
+brazil_pereira_da_silva_fernando_1 = { # c_fernandopolis
+	name = "Fernando"
+	dynasty = dynn_brazil_pereira_da_silva
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	#religion = saudosism
+	religion = architecturalist
+
+	trait = education_martial_2
+
+	2627.9.24 = {
+		birth = yes
+
+	}
+}
+brazil_pinguim_antonio_1 = { # c_sao_jose_do_rio_preto
+	name = "Antonio"
+	dynasty = dynn_brazil_pinguim
+	female = no
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = kardecist
+
+	trait = education_martial_2
+
+	2634.4.17 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:d_rio_preto }
+	}
+}
+brazil_xakriaba_francisco_1 = { # c_januaria
+	name = "Francisco"
+	dynasty = dynn_brazil_xakriaba
+	female = no
+	disallow_random_traits = no
+
+	culture = xakriaba
+	religion = awe_tore
+
+
+
+	2633.8.5 = {
+		birth = yes
+
+	}
+}
+brazil_leite_paulo_vitor_1 = { # c_araxa
+	name = "Paulo_Vitor"
+	dynasty = dynn_brazil_leite
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = kardecist
+
+
+
+	2635.2.15 = {
+		birth = yes
+
+	}
+}
+brazil_cajueiro_leogivilda_leogivilda_cajueiro = { # AtE Lore / Historical Reference to a king of the Visigoths in Iberia, c_touros
+	name = "Leogivilda"
+	dynasty = dynn_brazil_cajueiro
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = sertanejo
+	religion = ciceritism
+	father = brazil_cajueiro_leogivildo_leogivildo_cajueiro
+
+	trait = rowdy
+	trait = calm
+	trait = deceitful
+	trait = intellect_good_3
+	trait = physique_good_2
+
+	2654.2.3 = {
+		birth = yes
+
+	}
+}
+brazil_carneiro_decio_1 = { # c_alfenas
+	name = "D_e_act_cio"
+	dynasty = dynn_brazil_carneiro
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = rationalist
+
+
+
+	2617.1.15 = {
+		birth = yes
+
+	}
+}
+brazil_coelho_daniel_jose_daniel_coelho2 = { # AtE Lore / Historical Family, c_olinda
+	name = "Daniel_Jos_e_act_"
+	dynasty = dynn_brazil_coelho
+	dna = dna_brazil_coelho_daniel_jose_daniel_coelho2
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+	father = brazil_coelho_jose_daniel_jose_coelho
+
+	trait = education_intrigue_4
+	trait = ambitious
+	trait = vengeful
+	trait = shy
+	trait = deceitful
+	trait = physique_good_1
+
+	2598.1.16 = {
+		birth = yes
+		give_nickname = nick_the_crow
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_recife }
+	}
+}
+brazil_jiboia_tulio_1 = { # c_salinas
+	name = "T_u_act_lio"
+	dynasty = dynn_brazil_jiboia
+	female = no
+	disallow_random_traits = no
+
+	culture = geralista
+	religion = apostolicism
+
+
+
+	2643.7.9 = {
+		birth = yes
+
+	}
+}
+brazil_bala_na_agulha_jose_pedro_lampiaozinho = { # Cinema Reference - Onde Nascem of Bravos (2017) "farwest" movie in Nordeste, c_serra_talhada
+	name = "Jos_e_act__Pedro"
+	dynasty = dynn_brazil_bala_na_agulha
+	dna = dna_brazil_bala_na_agulha_jose_pedro_lampiaozinho
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = borboremense
+	religion = jurema_sagrada
+
+	trait = education_martial_2
+	trait = brave
+	trait = callous
+	trait = ambitious
+	trait = lifestyle_blademaster
+	trait = one_eyed
+
+	2641.11.21 = {
+		birth = yes
+
+	}
+}
+brazil_gonzaga_januario_jose_januario_gonzaga = { # AtE Lore / Musical Reference - Luiz Gonzaga's father, c_exu
+	name = "Janu_a_act_rio_Jos_e_act_"
+	dynasty = dynn_brazil_gonzaga
+	dna = dna_brazil_gonzaga_januario_jose_januario_gonzaga
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = sertanejo
+	religion = ciceritism
+
+	trait = education_martial_2
+	trait = brave
+	trait = ambitious
+	trait = lifestyle_blademaster
+	trait = poet
+
+	2646.7.1 = {
+		birth = yes
+
+	}
+}
+brazil_domingos_jose_francisco_jose_domingos = { # Musical Reference - Dominguinhos, c_garanhuns
+	name = "Jos_e_act__Francisco"
+	dynasty = dynn_brazil_domingos
+	dna = dna_brazil_domingos_jose_francisco_jose_domingos
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = sertanejo
+	religion = santeiro
+
+	trait = education_martial_2
+	trait = gregarious
+	trait = intellect_good_3
+	trait = poet
+
+	2643.12.10 = {
+		birth = yes
+
+	}
+}
+brazil_morais_antonio_major_antonio_morais = { # Literary Reference - Ariano Suassuna - Auto da Compadecida, c_patos
+	name = "Ant_o_hat_nio"
+	dynasty = dynn_brazil_morais
+	#dna = dna_brazil_morais_antonio_major_antonio_morais
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+
+	trait = education_martial_3
+	trait = zealous
+	trait = wrathful
+	trait = sadistic
+	trait = gregarious
+	trait = physique_good_3
+	trait = poet
+	trait = reaver
+
+	2640.6.21 = {
+		birth = yes
+
+	}
+}
+brazil_teramoto_erica_kika_teramoto = { # Historical Reference to japanese colony in Pium: http://g1.globo_com/rn/rio-grande-do-norte/noticia/2016/07/colonia-japonesa-de-pium-comemora-60-anos-de-imigracao-no-rn_html, c_mipibu
+	name = "E_act_rica"
+	dynasty = dynn_brazil_teramoto
+	#dna = dna_brazil_teramoto_erica_kika_teramoto
+	female = yes
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = burajirujin
+	religion = johrei
+
+	trait = poet
+
+	2639.7.25 = {
+		birth = yes
+
+	}
+}
+brazil_asturias_viriato_viriato_asturias = { # AtE Lore / Historical Reference to the hero of Lusitania and the Kingdom of Asturias, c_montanhas
+	name = "Viriato"
+	dynasty = dynn_brazil_asturias
+	female = no
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = sertanejo
+	religion = ciceritism
+
+
+
+	2634.7.11 = {
+		birth = yes
+
+	}
+}
+brazil_oliveira_petronilo_petronilo_oliveira = { # AtE Lore / Local Family, c_macau
+	name = "Petronilo"
+	dynasty = dynn_brazil_oliveira
+	#dna = dna_brazil_oliveira_petronilo_petronilo_oliveira
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+
+	trait = education_diplomacy_2
+	trait = gregarious
+	trait = poet
+
+	2621.11.9 = {
+		birth = yes
+		give_nickname = nick_the_bard
+	}
+	2666.1.1 = {
+		add_spouse = brazil_torres_maria_celestina_celestina_torres
+	}
+}
+brazil_tinoco_lucas_lucas_tinoco = { # AtE Lore / Local Family, c_natal
+	name = "Lucas"
+	dynasty = dynn_brazil_tinoco
+	#dna = dna_brazil_tinoco_lucas_lucas_tinoco
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = seridoense
+	religion = candomble
+
+	trait = education_learning_3
+	trait = ambitious
+
+	2628.4.15 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+}
+brazil_ramalho_jose_francisco_zechico_ramalho = { # Musical Reference - Zé Ramalho, c_campina_grande
+	name = "Jos_e_act__Francisco"
+	dynasty = dynn_brazil_ramalho
+	#dna = dna_brazil_ramalho_jose_francisco_zechico_ramalho
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = seridoense
+	religion = ciceritism
+
+	trait = poet
+
+	2639.8.16 = {
+		birth = yes
+		give_nickname = nick_the_bard
+	}
+}
+brazil_mirmidao_aquiles_aquiles_mirmidao = { # c_borborema
+	name = "Aquiles"
+	dynasty = dynn_brazil_mirmidao
+	female = no
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = ciceritism
+
+
+
+	2637.7.18 = {
+		birth = yes
+
+	}
+}
+brazil_saudade_hannah_hannah_saudade = { # c_sousa
+	name = "Hannah"
+	dynasty = dynn_brazil_saudade
+	female = yes
+	disallow_random_traits = no
+
+	culture = seridoense
+	religion = anussim
+
+
+
+	2645.1.20 = {
+		birth = yes
+
+	}
+}
+brazil_sangue_bravo_annamaria_annamaria_sanguebravo = { # c_cajazeiras
+	name = "Annamaria"
+	dynasty = dynn_brazil_sangue_bravo
+	female = yes
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = ciceritism
+
+
+
+	2644.8.24 = {
+		birth = yes
+
+	}
+}
+brazil_brandao_maria_clara_1 = { # c_franca
+	name = "Maria_Clara"
+	dynasty = dynn_brazil_brandao
+	female = yes
+	disallow_random_traits = no
+
+	culture = caipira
+	religion = apostolicism
+
+
+
+	2630.2.20 = {
+		birth = yes
+
+	}
+}
+brazil_castelo_da_viana_francisco_caninde_caninde_viana = { # AtE Lore / Local Family, c_serido
+	name = "Francisco_Caninde"
+	dynasty = dynn_brazil_castelo_da_viana
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = seridoense
+	religion = anussim
+
+
+
+	2642.1.13 = {
+		birth = yes
+
+	}
+}
+brazil_tira_teima_francisco_chico_tirateima = { # Musical and Cultural Reference - Azulão and Boi Tira-Teima, festivals in Caruaru, c_caruaru
+	name = "Francisco"
+	dynasty = dynn_brazil_tira_teima
+	dna = dna_brazil_tira_teima_francisco_chico_tirateima
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = borboremense
+	religion = ciceritism
+
+
+
+	2639.4.20 = {
+		birth = yes
+
+	}
+}
+brazil_da_paixao_lorena_lorena_da_paixao = { # c_itaperuna
+	name = "Lorena"
+	dynasty = dynn_brazil_da_paixao
+	female = yes
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = global_throne
+
+	trait = education_martial_1
+	trait = compassionate
+	trait = lazy
+	trait = ambitious
+
+	2642.6.5 = {
+		birth = yes
+
+	}
+}
+brazil_pinto_fernandes_joao_1 = { # Literary weak reference (poem 'Quadrilha' from Carlos Drummond de Andrade, c_ilhabela
+	name = "Jo_a_tld_o"
+	dynasty = dynn_brazil_pinto_fernandes
+	female = no
+	disallow_random_traits = no
+
+	culture = caicara
+	religion = apostolicism
+
+
+
+	2634.8.4 = {
+		birth = yes
+
+	}
+}
+brazil_druzo_nagila_1 = { # c_teofilo_otoni
+	name = "N_a_act_gila"
+	dynasty = dynn_brazil_druzo
+	female = yes
+	disallow_random_traits = no
+
+	culture = geralista
+	religion = alternative_society
+
+	2640.1.16 = {
+		birth = yes
+		}
+
+	2666.1.3 = {
+	effect = {
+			vassal_contract_set_obligation_level = {
+				type = special_contract_brazilian_imperial
+				level = 1
+			}
+		}
+	}
+
+}
+brazil_borrachudo_tiburcio_1 = { # c_formiga
+	name = "Tiburcio"
+	dynasty = dynn_brazil_borrachudo
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = terra_benta
+
+	trait = education_diplomacy_4
+	trait = peasant_leader
+	trait = intellect_good_1
+
+	2644.2.22 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_sudiminas }
+	}
+}
+brazil_airila_danilo_danilo_airila = { # "AtE Lore", c_resende
+	name = "Danilo"
+	dynasty = dynn_brazil_airila
+	female = no
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = saudosism
+
+	trait = education_diplomacy_2
+	trait = diligent
+	trait = fickle
+	trait = arrogant
+
+	2632.11.13 = {
+		birth = yes
+
+	}
+}
+brazil_neves_wilson_1 = { # c_conselheiro_lafaiete
+	name = "Wilson"
+	dynasty = dynn_brazil_neves
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = congada
+
+
+
+	2624.9.17 = {
+		birth = yes
+
+	}
+}
+brazil_de_andrada_bonifacio_1 = { # Historical family, c_barbacena
+	name = "Bonif_a_act_cio"
+	dynasty = dynn_brazil_de_andrada
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = saudosism
+
+	trait = education_diplomacy_4
+
+	2629.3.8 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_minas_gerais }
+	}
+}
+brazil_blaukugel_edgar_1 = { # c_contrato
+	name = "Edgar"
+	dynasty = dynn_brazil_blaukugel
+	female = no
+	disallow_random_traits = no
+
+	culture = hunsrickisch
+	religion = muckerism
+	father = brazil_kugel_hans_1
+
+
+
+	2635.3.2 = {
+		birth = yes
+
+	}
+}
+brazil_de_braganca_fernao_1 = { # AtE Lore, c_braganca_paulista
+	name = "Fern_a_tld_o"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	female = no
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = apostolicism
+	father = brazil_de_braganca_juscelino
+
+
+
+	2638.11.2 = {
+		birth = yes
+
+	}
+}
+brazil_warwick_magali_1 = { # Confederado weak reference, c_limeira
+	name = "Magali"
+	dynasty = dynn_brazil_warwick
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulista
+	religion = saudosism
+
+
+
+	2637.11.2 = {
+		birth = yes
+
+	}
+}
+brazil_nakahara_maria_do_carmo_1 = { # c_mogi_das_cruzes
+	name = "Maria_do_Carmo"
+	dynasty = dynn_brazil_nakahara
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = global_throne
+
+
+
+	2642.1.3 = {
+		birth = yes
+
+	}
+}
+brazil_haddad_sergio_1 = { # c_osasco
+	name = "Sergio"
+	dynasty = dynn_brazil_haddad
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = johrei
+
+	trait = education_diplomacy_3
+	trait = vestibular_1
+
+	2632.10.28 = {
+		birth = yes
+
+	}
+}
+brazil_pato_lino_1 = { # c_patos_de_minas
+	name = "Lino"
+	dynasty = dynn_brazil_pato
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = apostolicism
+
+
+
+	2625.1.9 = {
+		birth = yes
+
+	}
+}
+
+brazil_duque_donaldo = { # Patos-PB
+	name = "Donaldo"
+	dynasty = dynn_brazil_duque
+	female = no
+	disallow_random_traits = no
+
+	culture = borboremense
+	religion = anussim
+
+	2635.12.9 = {
+	birth = yes
+	}
+}
+
+brazil_barbieri_albino_1 = { # c_erechim
+	name = "Albino"
+	dynasty = dynn_brazil_barbieri
+	female = no
+	disallow_random_traits = no
+
+	culture = talian
+	religion = celestism
+
+
+
+	2610.7.11 = {
+		birth = yes
+
+	}
+}
+brazil_nassif_jose_maria_1 = { # c_pocos_de_caldas
+	name = "Jos_e_act__Maria"
+	dynasty = dynn_brazil_nassif
+	dna = dna_brazil_nassif_jose_maria_1
+	female = no
+	disallow_random_traits = no
+
+	culture = capiau
+	religion = apostolicism
+
+
+
+	2640.10.26 = {
+		birth = yes
+
+	}
+}
+brazil_rotkugel_rita_1 = { # c_passo_fundo
+	name = "Rita"
+	dynasty = dynn_brazil_rotkugel
+	female = yes
+	disallow_random_traits = no
+
+	culture = hunsrickisch
+	religion = celestism
+	father = brazil_kugel_hans_1
+
+
+
+	2636.3.22 = {
+		birth = yes
+
+	}
+}
+brazil_torres_andreia_1 = { # c_andrelandia
+	name = "Andr_e_act_ia"
+	dynasty = dynn_brazil_torres
+	female = yes
+	disallow_random_traits = no
+
+	culture = fluminense
+	religion = alternative_society
+
+
+
+	2639.11.24 = {
+		birth = yes
+
+	}
+}
+brazil_leifert_tobias_tobias_leifert = { # Brazilian TV-Presenter that talked about Crusader Kings on Big Brother Brazil_, b_br_sp_guarulhos
+	name = "Tobias"
+	dynasty = dynn_brazil_leifert
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = anussim
+
+	trait = education_learning_3
+	trait = zealous
+	trait = gregarious
+	trait = fickle
+	trait = intellect_good_1
+	trait = scholar
+
+	2640.10.3 = {
+		birth = yes
+
+	}
+}
+brazil_hammel_lucas_lucas_hammel = { # AtE Lore / Jewish comunity representation, b_br_ap_jari
+	name = "Lucas"
+	dynasty = dynn_brazil_hammel
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = amapaense
+	religion = edah_amazonah
+
+	trait = education_diplomacy_2
+
+	2619.7.10 = {
+		birth = yes
+
+	}
+}
+brazil_amazonas_camila_camila_amazonas = { # Republic of Recife AtE Lore / Historical Family,
+	name = "Camila"
+	dynasty = dynn_brazil_amazonas
+	female = yes
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = kardecist
+	father = brazil_amazonas_luis_luis_amazonas
+
+	trait = beauty_good_3
+
+	2642.5.4 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_gouveia_josinaldo_josinaldo_gouveia
+	}
+}
+brazil_cubas_gregorio_1 = {
+	name = "Gr_e_act_gorio"
+	dynasty = dynn_brazil_cubas
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = global_throne
+
+	trait = education_learning_1
+	trait = cynical
+	trait = ambitious
+	trait = stubborn
+	trait = lifestyle_physician
+
+	2602.6.14 = {
+		birth = yes
+
+	}
+}
+brazil_amaralina_americo_1 = {
+	name = "Am_e_act_rico"
+	dynasty = dynn_brazil_amaralina
+	female = no
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = alternative_society
+	mother = brazil_amaralina_maria_1
+
+
+
+	2663.6.13 = {
+		birth = yes
+
+	}
+}
+brazil_macdowell_gabriel_gabriel_macdowell = { # Republic of Recife AtE Lore / Historical Family / University Teacher from the 50s that studied in Oxford and is grandson of a scottish merchant - Samuel MacDowell,
+	name = "Gabriel"
+	dynasty = dynn_brazil_macdowell
+	dna = dna_brazil_macdowell_gabriel_gabriel_macdowell
+	female = no
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = tambor_de_mina
+
+	trait = intellect_good_1
+
+	2641.8.7 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_amazonas_henrique_henrique_amazonas
+	}
+}
+brazil_santiago_escobar_1 = {
+	name = "Escobar"
+	dynasty = dynn_brazil_santiago
+	female = no
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+
+	trait = cynical
+	trait = paranoid
+	trait = patient
+
+	2633.11.2 = {
+		birth = yes
+
+	}
+}
+brazil_de_braganca_isabel_pedro_sister_2 = {
+	name = "Isabel"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	female = yes
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+	father = brazil_de_braganca_pedro_9
+
+	trait = education_stewardship_2
+	trait = shy
+	trait = patient
+	trait = diligent
+	trait = twin
+
+	2649.8.25 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:e_brazil }
+	}
+}
+brazil_de_braganca_leopoldina_pedro_sister_1 = {
+	name = "Leopoldina"
+	dynasty_house = house_brazil_cantarini_de_braganca
+	female = yes
+	disallow_random_traits = no
+
+	culture = carioca
+	religion = apostolicism
+	father = brazil_de_braganca_pedro_9
+
+	trait = education_martial_2
+	trait = brave
+	trait = ambitious
+	trait = gluttonous
+	trait = twin
+
+	2649.8.25 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:e_brazil }
+	}
+}
+brazil_da_silva_andre_1 = {
+	name = "Andr_e_act_"
+	dynasty = dynn_brazil_da_silva
+	female = no
+	disallow_random_traits = no
+
+	culture = capixaba
+	religion = global_throne
+
+	trait = education_diplomacy_3
+	trait = humble
+	trait = gregarious
+	trait = just
+	trait = diplomat
+
+	2617.12.26 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_espirito_santo }
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia8 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia8
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+	father = brazil_escocia_jeronimo_jeronimoescocia7
+
+	trait = education_martial_2
+	trait = brave
+	trait = humble
+	trait = physique_good_3
+	trait = lifestyle_hunter
+
+	2308.11.11 = {
+		birth = yes
+
+	}
+	2350.7.4 = {
+		death = "2350.7.4"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia9 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia9
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia8
+
+	trait = education_martial_3
+	trait = brave
+	trait = humble
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2330.12.23 = {
+		birth = yes
+
+	}
+	2391.9.12 = {
+		death = "2391.9.12"
+	}
+}
+brazil_rennand_bruno_ricardo_brennand = { # Republic of Recife Historical Family / Arts Reference - Ricardo Brennand,
+	name = "Bruno"
+	dynasty = dynn_brazil_rennand
+	dna = dna_brazil_rennand_bruno_ricardo_brennand
+	female = no
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = apostolicism
+
+	trait = intellect_good_1
+
+	2638.6.24 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_amazonas_henrique_henrique_amazonas
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia10 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia10
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+	father = brazil_escocia_jeronimo_jeronimoescocia9
+
+	trait = education_martial_3
+	trait = brave
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2359.1.14 = {
+		birth = yes
+
+	}
+	2417.9.12 = {
+		death = "2417.9.12"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia11 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia11
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia10
+
+	trait = education_martial_4
+	trait = brave
+	trait = trusting
+	trait = arrogant
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2386.11.10 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia12 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia12
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia11
+
+	trait = education_martial_4
+	trait = just
+	trait = trusting
+	trait = temperate
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2403.3.12 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.1.1 = {
+		add_spouse = brazil_palatinik_sarah_sarah_palatinik
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_palhoca_caetano_1 = {
+	name = "Caetano"
+	dynasty = dynn_brazil_palhoca
+	female = no
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = alternative_society
+
+
+
+	2603.9.25 = {
+		birth = yes
+
+	}
+	2659.11.03 = {
+		death = "2659.11.03"
+	}
+}
+brazil_pantera_elvis_1 = {
+	name = "Elvis"
+	dynasty = dynn_brazil_pantera
+	female = no
+	disallow_random_traits = no
+
+	culture = goiano
+	religion = alternative_society
+	father = brazil_pantera_zito_1
+
+
+
+	2647.1.12 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia13 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia13
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia12
+	mother = brazil_palatinik_sarah_sarah_palatinik
+
+	#trait = bossy
+	#trait = physique_good_3
+	#trait = intellect_good_3
+	#trait = beauty_good_3
+
+	2440.4.25 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia7 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+# dna = dna_brazil_escocia_jeronimo_jeronimoescocia7
+	female = no
+	disallow_random_traits = yes
+	sexuality = asexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia6
+
+	trait = education_martial_2
+	trait = brave
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2296.2.17 = {
+		birth = yes
+
+	}
+	2328.1.8 = {
+		death = "2328.1.8"
+	}
+}
+brazil_escocia_jose_hermenegildo_jeronimoescocia14 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jose_Hermenegildo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jose_hermenegildo_jeronimoescocia14
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_escocia_jeronimo_jeronimoescocia11
+
+	trait = education_martial_4
+	trait = impatient
+	trait = paranoid
+	trait = fickle
+	trait = wrathful
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2441.8.15 = {
+		birth = yes
+		give_nickname = nick_the_peacemaker
+	}
+	2488.7.9 = {
+		death = "2488.7.9"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia16 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia16
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_escocia_jeronimo_jeronimoescocia15
+
+	trait = education_martial_2
+	trait = forgiving
+	trait = paranoid
+	trait = greedy
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2496.4.12 = {
+		birth = yes
+
+	}
+	2537.3.5 = {
+		death = "2537.3.5"
+	}
+}
+brazil_escocia_josefa_maria_jeronimoescocia222 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Josefa_Maria"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_josefa_maria_jeronimoescocia222
+	female = yes
+	disallow_random_traits = yes
+	sexuality = homosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia21
+
+	trait = education_diplomacy_3
+	trait = arrogant
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2644.2.6 = {
+		birth = yes
+
+	}
+}
+brazil_amazonas_luis_luis_amazonas = { # Patrician of Recife AtE Lore / Historical Family,
+	name = "Lu_i_act_s"
+	dynasty = dynn_brazil_amazonas
+	dna = dna_brazil_amazonas_luis_luis_amazonas
+	female = no
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = kardecist
+
+	trait = ill
+
+	2618.2.4 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+
+	}
+}
+brazil_cavalcanti_pedro_pedro_cavalcanti = { # AtE Lore / Historical Family,
+	name = "Pedro"
+	dynasty = dynn_brazil_cavalcanti
+	#dna = dna_brazil_cavalcanti_pedro_pedro_cavalcanti
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = seridoense
+	religion = tambor_de_mina
+	father = brazil_cavalcanti_epitacio_epitacio_cavalcanti
+
+
+
+	2642.7.20 = {
+		birth = yes
+
+	}
+}
+brazil_kuznetsovsky_estefania_1 = {
+	name = "Estefania"
+	dynasty = dynn_brazil_kuznetsovsky
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = ruteno
+	religion = apostolicism
+
+	trait = education_stewardship_2
+	trait = diligent
+
+	2642.4.7 = {
+		birth = yes
+
+	}
+}
+brazil_palatinik_sarah_sarah_palatinik = { # AtE Lore / Reference to a jewish family that immigrated to Natal from Ukraine in the 40s,
+	name = "Sarah"
+	dynasty = dynn_brazil_palatinik
+	#dna = dna_brazil_palatinik_sarah_sarah_palatinik
+	female = yes
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	mother = brazil_kaller_dora_dora_kaller
+
+	trait = education_diplomacy_2
+	trait = chaste
+	trait = humble
+	trait = paranoid
+	trait = journaller
+	trait = scholar
+	trait = improvident
+
+	2420.12.14 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.1.1 = {
+		add_spouse = brazil_escocia_jeronimo_jeronimoescocia12
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_quadros_teresa_teresa_quadros = { # Republic of Recife Historical Family/ Literary Reference - Clarice Lispector,
+	name = "Teresa"
+	dynasty = dynn_brazil_quadros
+	dna = dna_brazil_quadros_teresa_teresa_quadros
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = anussim
+
+	trait = intellect_good_1
+	trait = poet
+
+	2642.11.12 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_amazonas_henrique_henrique_amazonas
+	}
+}
+brazil_cavalcanti_giovanna_gio_cavalcanti = { # Republic of Recife AtE Lore / Historical Family,
+	name = "Giovanna"
+	dynasty = dynn_brazil_cavalcanti
+	dna = dna_brazil_cavalcanti_giovanna_gio_cavalcanti
+	female = yes
+	disallow_random_traits = no
+
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_cavalcanti_epitacio_epitacio_cavalcanti
+
+	trait = beauty_good_2
+
+	2621.7.26 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_maranhao_joao_joao_maranhao
+	}
+}
+brazil_cavalcanti_antonio_antonio_cavalcanti = { # AtE Lore / Historical Family,
+	name = "Ant_o_hat_nio"
+	dynasty = dynn_brazil_cavalcanti
+	#dna = dna_brazil_cavalcanti_antonio_antonio_cavalcanti
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_cavalcanti_epitacio_epitacio_cavalcanti
+
+
+
+	2634.3.22 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia18 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia18
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_escocia_jeronimo_jeronimoescocia17
+
+	trait = education_martial_2
+	trait = brave
+	trait = calm
+	trait = ambitious
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2547.12.13 = {
+		birth = yes
+
+	}
+	2585.7.8 = {
+		death = "2585.7.8"
+	}
+}
+brazil_hime_edilson_1 = {
+	name = "Edilson"
+	dynasty = dynn_brazil_hime
+	female = no
+	disallow_random_traits = no
+
+	culture = matogrossense
+	religion = boiadist
+
+
+
+	2634.12.16 = {
+		birth = yes
+
+	}
+}
+brazil_ii_arnoldo_arnoldo_ii = { # Republic of Recife AtE Lore / Aroldo Ojima: President of the Associação Cultural Japonesa do Recife as of 2021,
+	name = "Arnoldo"
+	dynasty = dynn_brazil_ii
+	dna = dna_brazil_ii_arnoldo_arnoldo_ii
+	female = no
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = johrei
+
+	trait = shrewd
+
+	2639.12.8 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_amazonas_henrique_henrique_amazonas
+	}
+}
+brazil_teixeira_maria_das_gracas_1 = {
+	name = "Maria_das_Gra_c_ced_as"
+	dynasty = dynn_brazil_teixeira
+	female = yes
+	disallow_random_traits = no
+
+	culture = veredista
+	religion = sagarana
+	father = brazil_teixeira_elias_1
+
+
+
+	2650.6.5 = {
+		birth = yes
+
+	}
+}
+brazil_palatinik_tobias_tobias_palatinik = { # AtE Lore / Reference to a jewish family that immigrated to Natal from Ukraine in the 40s,
+	name = "Tobias"
+	dynasty = dynn_brazil_palatinik
+	#dna = dna_brazil_palatinik_tobias_tobias_palatinik
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+
+	trait = education_stewardship_3
+	trait = generous
+	trait = humble
+	trait = temperate
+	trait = intellect_good_1
+	trait = journaller
+	trait = scholar
+
+	2397.2.27 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.1.1 = {
+		add_spouse = brazil_kaller_dora_dora_kaller
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_kaller_dora_dora_kaller = { # AtE Lore / Reference to a jewish family that immigrated to Natal from Ukraine in the 40s,
+	name = "Dora"
+	dynasty = dynn_brazil_kaller
+	#dna = dna_brazil_kaller_dora_dora_kaller
+	female = yes
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+
+	trait = education_diplomacy_2
+	trait = calm
+	trait = chaste
+	trait = shy
+	trait = journaller
+	trait = scholar
+	trait = improvident
+
+	2402.12.5 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.1.1 = {
+
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_palatinik_jose_jose_palatinik = { # AtE Lore / Reference to a jewish family that immigrated to Natal from Ukraine in the 40s,
+	name = "Jos_e_act_"
+	dynasty = dynn_brazil_palatinik
+	#dna = dna_brazil_palatinik_jose_jose_palatinik
+	female = no
+	disallow_random_traits = yes
+	sexuality = asexual
+	culture = seridoense
+	religion = anussim
+	mother = brazil_kaller_dora_dora_kaller
+
+	trait = education_stewardship_2
+	trait = humble
+	trait = just
+	trait = brave
+	trait = intellect_good_1
+	trait = journaller
+	trait = scholar
+	trait = improvident
+
+	2424.5.18 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_albuquerque_luisa_luisa_albuqueque = { # AtE Lore / Historical Family,
+	name = "Lu_i_act_sa"
+	dynasty = dynn_brazil_albuquerque
+	dna = dna_brazil_albuquerque_luisa_luisa_albuqueque
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = global_throne
+	father = brazil_albuquerque_pedro_pedro_albuquerque1
+	mother = brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho
+
+	trait = education_diplomacy_1
+
+	2610.8.3 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_cavalcanti_epitacio_epitacio_cavalcanti
+	}
+}
+brazil_palatinik_esther_esther_palatinik = { # AtE Lore / Reference to a jewish family that immigrated to Natal from Ukraine in the 40s,
+	name = "Esther"
+	dynasty = dynn_brazil_palatinik
+	#dna = dna_brazil_palatinik_esther_esther_palatinik
+	female = yes
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	mother = brazil_kaller_dora_dora_kaller
+
+	trait = education_stewardship_4
+	trait = humble
+	trait = content
+	trait = impatient
+	trait = intellect_good_3
+	trait = journaller
+	trait = scholar
+	trait = improvident
+
+	2426.4.2 = {
+		birth = yes
+		give_nickname = nick_the_martyr
+	}
+	2445.8.1 = {
+		death = "2445.8.1"
+	}
+}
+brazil_teixeira_maria_aparecida_1 = {
+	name = "Maria_Aparecida"
+	dynasty = dynn_brazil_teixeira
+	female = yes
+	disallow_random_traits = no
+
+	culture = veredista
+	religion = apostolicism
+	father = brazil_teixeira_elias_1
+
+
+
+	2650.12.1 = {
+		birth = yes
+
+	}
+}
+brazil_teixeira_maria_das_dores_1 = {
+	name = "Maria_das_Dores"
+	dynasty = dynn_brazil_teixeira
+	female = yes
+	disallow_random_traits = no
+
+	culture = veredista
+	religion = sagarana
+	father = brazil_teixeira_elias_1
+
+
+
+	2650.12.5 = {
+		birth = yes
+
+	}
+}
+brazil_alencar_paulo_jose_paulo_alencar = { # AtE Lore ,
+	name = "Paulo_Jose_e_act_"
+	dynasty = dynn_brazil_alencar
+	female = no
+	disallow_random_traits = no
+
+	culture = siarense
+	religion = ciceritism
+	father = brazil_alencar_jose_paulo_jose_alencar
+	mother = brazil_cavalcanti_giovanna_gio_cavalcanti
+
+	trait = education_learning_3
+	trait = diligent
+	trait = poet
+
+	2643.11.14 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+
+	}
+}
+brazil_araripe_tristao_tristao_alencar1 = { # AtE Lore - KIA at the Revolt of Teresina by Miguel Jenipapo,
+	name = "Trist_a_tld_o"
+	dynasty_house = house_brazil_alencar_araripe
+	female = no
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = ciceritism
+	mother = brazil_alencar_maria_benedita_barbara_alencar
+
+	trait = education_martial_4
+	trait = calm
+	trait = brave
+	trait = maimed
+
+	2625.4.15 = {
+		birth = yes
+
+	}
+	2665.10.28 = {
+		death = "2665.10.28"
+	}
+}
+brazil_coelho_daniel_jose_daniel_coelho = { # AtE Lore / Historical Family,
+	name = "Daniel_Jos_e_act_"
+	dynasty = dynn_brazil_coelho
+	dna = dna_brazil_coelho_daniel_jose_daniel_coelho
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+
+	trait = education_stewardship_4
+	trait = maimed
+
+	2495.8.28 = {
+		birth = yes
+		give_nickname = nick_the_great
+	}
+	2600.2.7 = {
+		death = "2600.2.7"
+	}
+}
+brazil_coelho_jose_daniel_jose_coelho = { # AtE Lore / Historical Family,
+	name = "Jos_e_act__Daniel"
+	dynasty = dynn_brazil_coelho
+	dna = dna_brazil_coelho_jose_daniel_jose_coelho
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+	father = brazil_coelho_daniel_jose_daniel_coelho
+
+	trait = education_stewardship_4
+	trait = brave
+	trait = intellect_good_3
+	trait = maimed
+
+	2512.5.15 = {
+		birth = yes
+		give_nickname = nick_the_valiant
+	}
+	2600.2.7 = {
+		death = "2600.2.7"
+	}
+}
+brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho = { # AtE Lore / Historical Family,
+	name = "JMFLD"
+	dynasty = dynn_brazil_coelho
+	dna = dna_brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = recifolindense
+	religion = apostolicism
+	father = brazil_coelho_daniel_jose_daniel_coelho
+
+
+
+	2581.2.27 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_albuquerque_pedro_pedro_albuquerque1
+	}
+}
+brazil_albuquerque_pedro_pedro_albuquerque2 = { # AtE Lore / Historical Family,
+	name = "Pedro"
+	dynasty = dynn_brazil_albuquerque
+	dna = dna_brazil_albuquerque_pedro_pedro_albuquerque2
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = recifolindense
+	religion = global_throne
+	father = brazil_albuquerque_pedro_pedro_albuquerque1
+	mother = brazil_coelho_joana_maria_francisca_luisa_daniela_joana_coelho
+
+	trait = education_stewardship_2
+
+	2608.12.14 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia17 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia17
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+	father = brazil_escocia_jeronimo_jeronimoescocia16
+
+	trait = education_martial_3
+	trait = humble
+	trait = paranoid
+	trait = gluttonous
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2517.4.26 = {
+		birth = yes
+
+	}
+	2572.3.5 = {
+		death = "2572.3.5"
+	}
+}
+brazil_oliveira_perola_maria_perola_oliveira = { # AtE Lore / Local Family,
+	name = "P_e_act_rola_Maria"
+	dynasty = dynn_brazil_oliveira
+	#dna = dna_brazil_oliveira_perola_maria_perola_oliveira
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_oliveira_petronilo_petronilo_oliveira
+	mother = brazil_torres_maria_celestina_celestina_torres
+
+	trait = education_stewardship_3
+
+	2655.12.26 = {
+		birth = yes
+		give_nickname = nick_the_white
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia19 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia19
+	female = no
+	disallow_random_traits = yes
+	sexuality = asexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia18
+
+	trait = education_martial_2
+	trait = vengeful
+	trait = stubborn
+	trait = ambitious
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2564.1.28 = {
+		birth = yes
+		give_nickname = nick_the_restorer
+	}
+	2656.4.3 = {
+		death = "2656.4.3"
+	}
+}
+brazil_cochrane_marcia_marcia_cochrane = { # AtE Lore / Historical Family,
+	name = "M_a_act_rcia"
+	dynasty = dynn_brazil_cochrane
+	female = yes
+	disallow_random_traits = no
+
+	culture = ludovicense
+	religion = twelve_tribes
+
+
+
+	2612.2.25 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+
+	}
+}
+brazil_alencar_maria_benedita_barbara_alencar = { # AtE Lore ,
+	name = "Maria_Benedita"
+	dynasty = dynn_brazil_alencar
+	female = yes
+	disallow_random_traits = no
+
+	culture = sertanejo
+	religion = ciceritism
+
+	trait = education_stewardship_2
+	trait = wrathful
+
+	2600.11.17 = {
+		birth = yes
+
+	}
+	2645.2.15 = {
+		death = "2645.2.15"
+	}
+}
+brazil_matarazzo_alzira_1 = { # Mama Matarazzo,
+	name = "Alzira"
+	dynasty = dynn_brazil_matarazzo
+	female = yes
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = apostolicism
+
+	trait = education_intrigue_4
+	trait = gregarious
+	trait = diligent
+	trait = ambitious
+	trait = family_first
+	trait = overseer
+	trait = schemer
+
+	2570.12.19 = {
+		birth = yes
+
+	}
+	2650.12.12 = {
+		death = "2650.12.12"
+	}
+}
+brazil_maranhao_tomas_tomas_maranhao = { # AtE Lore / Historical Family,
+	name = "Tom_a_act_s"
+	dynasty_house = house_brazil_albuquerque_maranhao
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+	mother = brazil_cavalcanti_giovanna_gio_cavalcanti
+	father = brazil_maranhao_joao_joao_maranhao
+
+	trait = education_martial_3
+	trait = ambitious
+
+	2645.3.23 = {
+		birth = yes
+
+	}
+}
+brazil_van_derley_jose_mauricio_cotegipe_4 = { # AtE Lore / Historical Family,
+	name = "Jos_e_act__Mauricio"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = franciscano
+	religion = apostolicism
+	father = brazil_van_derley_mauricio_jose_cotegipe_3
+
+	trait = education_stewardship_3
+
+	2529.10.23 = {
+		birth = yes
+
+	}
+	2589.8.9 = {
+		death = "2589.8.9"
+	}
+}
+brazil_matarazzo_tito_1 = {
+	name = "Tito"
+	dynasty = dynn_brazil_matarazzo
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = alternative_society
+	mother = brazil_matarazzo_alzira_1
+
+	trait = education_diplomacy_2
+	trait = gregarious
+	trait = trusting
+	trait = generous
+	trait = gallant
+	trait = lifestyle_reveler
+
+	2625.7.13 = {
+		birth = yes
+
+	}
+}
+brazil_matarazzo_ludovico_1 = {
+	name = "Ludovico"
+	dynasty = dynn_brazil_matarazzo
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = architecturalist
+	mother = brazil_matarazzo_alzira_1
+
+	trait = education_learning_3
+	trait = stubborn
+	trait = diligent
+	trait = ambitious
+	trait = architect
+	trait = open_terrain_expert
+
+	2621.1.26 = {
+		birth = yes
+
+	}
+}
+brazil_matarazzo_giancarlo_1 = {
+	name = "Giancarlo"
+	dynasty = dynn_brazil_matarazzo
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = saudosism
+	mother = brazil_matarazzo_alzira_1
+
+	trait = education_stewardship_4
+	trait = shy
+	trait = diligent
+	trait = ambitious
+	trait = scholar
+	trait = theologian
+
+	2616.10.20 = {
+		birth = yes
+
+	}
+}
+brazil_maranhao_georgia_augusta_geogia_maranhao = { # AtE Lore / Historical Family,
+	name = "Ge_o_act_rgia_Augusta"
+	dynasty_house = house_brazil_albuquerque_maranhao
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+	mother = brazil_cavalcanti_giovanna_gio_cavalcanti
+	father = brazil_maranhao_joao_joao_maranhao
+
+	trait = education_diplomacy_2
+
+	2642.6.1 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_alencar_paulo_jose_paulo_alencar
+	}
+}
+brazil_pompilio_pompeu_1 = { # Castelo Ra-Tim-Bum,
+	name = "Pompeu"
+	dynasty = dynn_brazil_pompilio
+	dna = dna_brazil_pompilio_pompeu_1
+	female = no
+	disallow_random_traits = no
+
+	culture = paulistano
+	religion = saudosism
+
+	trait = education_intrigue_3
+	trait = cynical
+	trait = callous
+	trait = diligent
+	trait = schemer
+
+	2624.7.5 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = {add_unpressed_claim = title:k_sao_paulo}
+	}
+}
+brazil_do_zepelim_geni_1 = {
+	name = "Geni"
+	dynasty = dynn_brazil_do_zepelim
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = carioca
+	religion = alternative_society
+
+	trait = education_diplomacy_4
+	trait = compassionate
+	trait = generous
+	trait = trusting
+	trait = fornicator
+	trait = sodomite
+	trait = deviant
+	trait = adulterer
+	trait = beauty_good_1
+
+	2645.10.24 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_maria_josefa_jeronimoescocia212 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Maria_Josefa"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_maria_josefa_jeronimoescocia212
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia20
+
+	trait = education_diplomacy_2
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2614.2.25 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_albuquerque_pedro_pedro_albuquerque2
+	}
+}
+brazil_do_ribeirao_antonio_1 = {
+	name = "Ant_o_hat_nio"
+	dynasty = dynn_brazil_do_ribeirao
+	female = no
+	disallow_random_traits = no
+
+	culture = barriga_verde
+	religion = celestism
+
+
+
+	2619.9.6 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_kuerten_floriano_1
+	}
+}
+brazil_kugel_hans_1 = {
+	name = "Hans"
+	dynasty = dynn_brazil_kugel
+	female = no
+	disallow_random_traits = no
+
+	culture = hunsrickisch
+	religion = muckerism
+
+
+
+	2595.3.5 = {
+		birth = yes
+
+	}
+}
+brazil_albuquerque_joana_maria_cotegipe_5_w = { # AtE Lore / Historical Family,
+	name = "Joana_Maria"
+	dynasty = dynn_brazil_albuquerque
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = candomble
+	father = brazil_albuquerque_pedro_pedro_albuquerque1
+
+	trait = education_learning_2
+
+	2610.6.23 = {
+		birth = yes
+
+	}
+}
+brazil_van_derley_mauricio_jose_cotegipe_3 = { # AtE Lore / Historical Family,
+	name = "Mauricio_Jose"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = franciscano
+	religion = candomble
+	father = brazil_van_derley_jose_mauricio_cotegipe_2
+
+	trait = education_diplomacy_1
+
+	2495.5.12 = {
+		birth = yes
+
+	}
+	2549.1.2 = {
+		death = "2549.1.2"
+	}
+}
+brazil_lima_jose_joaquim_luis_duque_de_caxias1 = { # Historical Reference - Duque de Caxias Reference - KIA at the Revolt of Teresina by Miguel Jenipapo,
+	name = "Jos_e_act__Joaquim_Lu_i_act_s"
+	dynasty = dynn_brazil_lima
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = ludovicense
+	religion = tambor_de_mina
+
+	trait = education_martial_4
+	trait = brave
+	trait = diligent
+	trait = shrewd
+	trait = intellect_good_3
+	trait = maimed
+
+	2589.7.5 = {
+		birth = yes
+
+	}
+	2665.10.28 = {
+		death = "2665.10.28"
+	}
+}
+
+
+brazil_wendhausen_godofredo_1 = {
+	name = "Godofredo"
+	dynasty = dynn_brazil_wendhausen
+	female = no
+	disallow_random_traits = no
+
+	culture = barriga_verde
+	religion = celestism
+
+
+
+	2594.6.18 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_kuerten_floriano_1
+	}
+}
+brazil_van_derley_jose_mauricio_cotegipe_2 = { # AtE Lore / Historical Family,
+	name = "Jos_e_act__Maur_i_act_cio"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = franciscano
+	religion = apostolicism
+	father = brazil_van_derley_jose_gasparino_cotegipe_1
+
+	trait = education_stewardship_2
+
+	2451.12.14 = {
+		birth = yes
+
+	}
+	2539.9.12 = {
+		death = "2539.9.12"
+	}
+}
+brazil_siqueira_pamela_1 = {
+	name = "Pamela"
+	dynasty = dynn_brazil_siqueira
+	female = yes
+	disallow_random_traits = no
+
+	culture = barriga_verde
+	religion = kardecist
+
+
+
+	2637.4.26 = {
+		birth = yes
+
+	}
+	2666.7.4 = {
+		employer = brazil_kuerten_floriano_1
+	}
+}
+brazil_van_derley_mauricio_jose_cotegipe_5 = { # AtE Lore / Historical Family,
+	name = "Mauricio_Jose"
+	dynasty = dynn_brazil_van_derley
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = franciscano
+	religion = candomble
+
+	father = brazil_van_derley_jose_mauricio_cotegipe_4
+
+	trait = education_diplomacy_4
+
+	2569.10.2 = {
+		birth = yes
+
+	}
+	2657.12.20 = {
+		death = "2657.12.20"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia22 = { # AtE Lore - KIA at the Revolt of Teresina / Reference to a political family that names their children in french numbers ,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia22
+	female = no
+	disallow_random_traits = yes
+	sexuality = bisexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia21
+
+	trait = education_martial_2
+	trait = arrogant
+	trait = zealous
+	trait = deceitful
+	trait = physique_good_3
+	trait = maimed
+	trait = one_legged
+	trait = lifestyle_hunter
+
+	2633.12.21 = {
+		birth = yes
+
+	}
+	2665.10.28 = {
+		death = "2665.10.28"
+	}
+}
+brazil_albuquerque_pedro_pedro_albuquerque3 = { # AtE Lore / Historical Family,
+	name = "Pedro"
+	dynasty = dynn_brazil_albuquerque
+	dna = dna_brazil_albuquerque_pedro_pedro_albuquerque3
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = recifolindense
+	religion = apostolicism
+	father = brazil_albuquerque_pedro_pedro_albuquerque2
+
+	trait = education_stewardship_3
+	trait = physique_good_3
+	trait = shrewd
+
+	2634.3.11 = {
+		birth = yes
+
+	}
+}
+brazil_de_andrade_joao_bosco_1 = {
+	name = "Jo_a_tld_o_Bosco"
+	dynasty = dynn_brazil_de_andrade
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = terra_benta
+	mother = brazil_de_andrade_carlota_1
+
+
+
+	2638.3.16 = {
+		birth = yes
+
+	}
+	2666.1.3 = {
+		effect = { add_pressed_claim = title:k_minas_gerais }
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia3 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia3
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia2
+
+	trait = education_martial_2
+	trait = brave
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2171.11.11 = {
+		birth = yes
+
+	}
+	2200.10.9 = {
+		death = "2200.10.9"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia21 = { # AtE Lore - KIA at the Revolt of Teresina / Reference to a political family that names their children in french numbers ,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia21
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia20
+
+	trait = education_martial_4
+	trait = zealous
+	trait = patient
+	trait = physique_good_2
+	trait = maimed
+	trait = lifestyle_hunter
+
+	2614.9.19 = {
+		birth = yes
+
+	}
+	2665.10.28 = {
+		death = "2665.10.28"
+	}
+}
+brazil_bezerra_manoela_manu_bezerra = { # AtE Contributor - Changed name - religious representation,
+	name = "Manoela"
+	dynasty = dynn_brazil_bezerra
+	#dna = dna_brazil_bezerra_manoela_manu_bezerra
+	female = yes
+	disallow_random_traits = no
+	sexuality = bisexual
+	culture = seridoense
+	religion = assembleiano
+
+
+
+	2647.5.28 = {
+		birth = yes
+
+	}
+}
+brazil_gama_giulia_giu_gama = { # AtE Contributor - Changed name - religious representation,
+	name = "Giulia"
+	dynasty = dynn_brazil_gama
+	#dna = dna_brazil_gama_giulia_giu_gama
+	female = yes
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = paulistano
+	religion = kardecist
+
+	trait = intellect_good_1
+	trait = beauty_good_2
+
+	2647.10.8 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jose_hermenegildo_jeronimoescocia233 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jose_Hermenegildo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jose_hermenegildo_jeronimoescocia233
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia22
+
+	trait = curious
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2662.8.6 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia23 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia23
+	female = no
+	disallow_random_traits = yes
+	sexuality = asexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia22
+
+	trait = rowdy
+	trait = calm
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2656.4.1 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia15 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia15
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = apostolicism
+
+	trait = education_martial_3
+	trait = diligent
+	trait = paranoid
+	trait = chaste
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2470.11.13 = {
+		birth = yes
+
+	}
+	2500.1.3 = {
+		death = "2500.1.3"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia6 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia6
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+	father = brazil_escocia_jeronimo_jeronimoescocia5
+
+	trait = education_martial_2
+	trait = brave
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2261.7.18 = {
+		birth = yes
+
+	}
+	2303.6.8 = {
+		death = "2303.6.8"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia4 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia4
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+	father = brazil_escocia_jeronimo_jeronimoescocia3
+
+	trait = education_martial_4
+	trait = brave
+	trait = humble
+	trait = physique_good_1
+	trait = lifestyle_hunter
+
+	2199.3.15 = {
+		birth = yes
+
+	}
+	2230.1.5 = {
+		death = "2230.1.5"
+	}
+}
+brazil_cajueiro_leogivildo_leogivildo_cajueiro = { # AtE Lore / Historical Reference to a king of the Visigoths in Iberia,
+	name = "Leogivildo"
+	dynasty = dynn_brazil_cajueiro
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = sertanejo
+	religion = ciceritism
+
+	trait = education_martial_4
+	trait = intellect_good_3
+	trait = physique_good_2
+
+	2624.2.13 = {
+		birth = yes
+
+	}
+	2665.10.28 = {
+		death = "2665.10.28"
+	}
+}
+brazil_lange_rodrigo_1 = {
+	name = "Rodrigo"
+	dynasty = dynn_brazil_lange
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = apostolicism
+
+	trait = education_stewardship_4
+
+	2643.8.4 = {
+		birth = yes
+
+	}
+}
+brazil_barcelos_joaquim_1 = { #Quincas Borba
+	name = "Joaquim"
+	dynasty = dynn_brazil_barcelos
+	female = no
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = saudosism
+
+	trait = education_learning_3
+	trait = compassionate
+	trait = patient
+	trait = forgiving
+	trait = scholar
+	trait = lunatic_1
+
+	2626.5.5 = {
+		birth = yes
+
+	}
+}
+brazil_marandova_tonico_1 = {
+	name = "Tonico"
+	dynasty = dynn_brazil_marandova
+	female = no
+	disallow_random_traits = no
+	sexuality = homosexual
+	culture = veredista
+	religion = sagarana
+
+	trait = beauty_good_2
+
+	2647.3.10 = {
+		birth = yes
+
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia5 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia5
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_escocia_jeronimo_jeronimoescocia4
+
+	trait = education_martial_4
+	trait = brave
+	trait = humble
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2220.11.3 = {
+		birth = yes
+
+	}
+	2282.2.22 = {
+		death = "2282.2.22"
+	}
+}
+brazil_de_andrade_carlota_1 = {
+	name = "Carlota"
+	dynasty = dynn_brazil_de_andrade
+	female = yes
+	disallow_random_traits = no
+
+	culture = mineiro
+	religion = terra_benta
+
+
+
+	2611.11.5 = {
+		birth = yes
+
+	}
+}
+brazil_torres_maria_celestina_celestina_torres = { # AtE Lore / Local Family,
+	name = "Maria_Celestina"
+	dynasty = dynn_brazil_torres
+	#dna = dna_brazil_torres_maria_celestina_celestina_torres
+	female = yes
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+
+	trait = education_stewardship_2
+
+	2623.7.13 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_oliveira_petronilo_petronilo_oliveira
+	}
+}
+brazil_oliveira_joao_batista_joaobatista_oliveira = { # AtE Lore / Local Family,
+	name = "Jo_a_tld_o_Batista"
+	dynasty = dynn_brazil_oliveira
+	#dna = dna_brazil_oliveira_joao_batista_joaobatista_oliveira
+	female = no
+	disallow_random_traits = no
+	sexuality = asexual
+	culture = seridoense
+	religion = anussim
+	father = brazil_oliveira_petronilo_petronilo_oliveira
+	mother = brazil_torres_maria_celestina_celestina_torres
+
+	trait = education_martial_3
+	trait = brave
+	trait = twin
+	trait = albino
+
+	2647.1.3 = {
+		birth = yes
+		give_nickname = nick_the_wolf
+	}
+}
+brazil_oliveira_joao_francisco_joaofrancisco_oliveira = { # AtE Lore / Local Family,
+	name = "Jo_a_tld_o_Francisco"
+	dynasty = dynn_brazil_oliveira
+	#dna = dna_brazil_oliveira_joao_francisco_joaofrancisco_oliveira
+	female = no
+	disallow_random_traits = no
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+	father = brazil_oliveira_petronilo_petronilo_oliveira
+	mother = brazil_torres_maria_celestina_celestina_torres
+
+	trait = education_martial_3
+	trait = deceitful
+	trait = twin
+	trait = albino
+
+	2647.9.2 = {
+		birth = yes
+		give_nickname = nick_the_fox
+	}
+}
+brazil_escocia_jeronimo_jeronimorescocia1 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimorescocia1
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = anussim
+
+	trait = education_martial_4
+	trait = brave
+	trait = just
+	trait = humble
+	trait = generous
+	trait = physique_good_3
+	trait = compassionate
+	trait = honest
+	trait = lifestyle_hunter
+
+	1575.2.10 = {
+		birth = yes
+
+	}
+	2141.12.4 = {
+		death = "2141.12.4"
+	}
+}
+brazil_escocia_jeronimo_jeronimoescocia2 = { # AtE Lore / Reference to a political family that names their children in french numbers,
+	name = "Jer_o_hat_nimo"
+	dynasty = dynn_brazil_escocia
+	#dna = dna_brazil_escocia_jeronimo_jeronimoescocia2
+	female = no
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	culture = seridoense
+	religion = ciceritism
+
+	trait = education_martial_3
+	trait = brave
+	trait = gregarious
+	trait = physique_good_2
+	trait = lifestyle_hunter
+
+	2124.11.5 = {
+		birth = yes
+
+	}
+	2191.9.7 = {
+		death = "2191.9.7"
+	}
+}
+brazil_gouveia_josinaldo_josinaldo_gouveia = { # Republic of Recife AtE Lore / Historical Family,
+	name = "Josinaldo"
+	dynasty = dynn_brazil_gouveia
+	dna = dna_brazil_gouveia_josinaldo_josinaldo_gouveia
+	female = no
+	disallow_random_traits = no
+
+	culture = recifolindense
+	religion = assembleiano
+
+	trait = scholar
+
+	2634.3.7 = {
+		birth = yes
+
+	}
+	2666.1.1 = {
+		add_spouse = brazil_amazonas_camila_camila_amazonas
+	}
+	2666.7.4 = {
+		employer = brazil_amazonas_henrique_henrique_amazonas
+	}
+}
+
+brazil_raimundo_manaus = {
+	name = "Raimundo"
+	dynasty = dynn_brazil_solimoes
+	female = no
+	disallow_random_traits = no
+	religion = toadas_bumba
+	culture = manauara
+	2639.11.10 = {
+		birth = yes
+		}
+	2660.10.1 = {
+		add_spouse = brazil_joanna_manaus
+		}
+}
+
+brazil_severino_manaus = {
+	name = "Severino"
+	dynasty = dynn_brazil_negro
+	female = no
+	disallow_random_traits = no
+	religion = global_throne
+	culture = manauara
+	2600.5.5 = {
+		birth = yes
+		}
+	2640.4.4 = {
+		add_spouse = brazil_floriana_manaus
+		}
+}
+
+brazil_floriana_manaus = {
+	name = "Floriana"
+	dynasty = dynn_brazil_negro
+	female = yes
+	disallow_random_traits = no
+	religion = global_throne
+	culture = manauara
+	2610.6.12 = {
+		birth = yes
+		}
+	2640.4.4 = {
+		add_spouse = brazil_severino_manaus
+		}
+}
+
+brazil_joanna_manaus = {
+	name = "Joanna"
+	dynasty = dynn_brazil_negro
+	female = yes
+	disallow_random_traits = no
+	religion = global_throne
+	culture = manauara
+	father = brazil_severino_manaus
+	mother = brazil_floriana_manaus
+	2641.8.9= {
+		birth = yes
+		}
+	2660.10.1 = {
+		add_spouse = brazil_raimundo_manaus
+		}
+}
+
+brazil_teodorico_manaus = {
+	name = "Teodorico"
+	dynasty = dynn_brazil_negro
+	female = no
+	disallow_random_traits = no
+	religion = global_throne
+	culture = manauara
+	father = brazil_severino_manaus
+	mother = brazil_floriana_manaus
+	2647.2.2= {
+		birth = yes
+		}
+	2666.7.3 = {
+		effect = {
+		set_relation_rival = { reason = rival_historical target = character:brazil_raimundo_manaus }
+		}
+		}
+	2666.2.2 = {
+		effect = { add_pressed_claim = title:d_manaus }
+		}
+	2666.3.3 = {
+		effect = { add_pressed_claim = title:c_manaus }
+		}
+}
+
+brazil_jaciendi_munduruku = {
+	name = "Jaciendi"
+	dynasty = dynn_brazil_munduruku
+	female = no
+	disallow_random_traits = no
+
+	culture = wuyjuyu
+	religion = porantimao
+
+	2652.7.13 = {
+		birth = yes
+
+	}
+}
+
+brazil_alfredo_yanomami = {
+	name = "Alfredo"
+	dynasty = dynn_brazil_yanomami
+	female = no
+	disallow_random_traits = no
+
+	culture = yanomami
+	religion = hekura
+
+	trait = patient
+
+	2643.1.1 = {
+		birth = yes
+
+	}
+}
+
+brazil_valencia_araramoru = {
+	name = "Valencia"
+	dynasty = dynn_brazil_arara_moru
+	female = no
+	disallow_random_traits = no
+	culture = ticuna
+	religion = santo_daime
+
+	2610.4.7 = {
+		birth = yes
+	}
+}
+
+brazil_sotil_manguarinau = {
+	name = "S_o_act_til"
+	dynasty = dynn_brazil_manguarinau
+	female = no
+	disallow_random_traits = no
+	culture = ticuna
+	religion = iraacungeguma
+
+	2591.7.12 = {
+		birth = yes
+	}
+}
+
+brazil_taquarece_mura = {
+	name = "Taquarac_e_hat_"
+	dynasty = dynn_brazil_mura
+	female = no
+	disallow_random_traits = no
+	culture = mura
+	religion = iraacungeguma
+
+	2599.8.4 = {
+		birth = yes
+	}
+}
+
+brazil_megaron_xikrin = {
+	name = "Megaron"
+	dynasty = dynn_brazil_xikrin
+	female = no
+	disallow_random_traits = no
+	culture = kayapo
+	religion = wasahure_sena
+
+	2622.6.2 = {
+		birth = yes
+	}
+}
+
+brazil_eli_ponhy_pei = {
+	name = "Eli"
+	dynasty = dynn_brazil_ponhy_pei
+	female = no
+	disallow_random_traits = no
+	religion = wasahure_sena
+	culture = kraho
+	2621.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_upiara_wyriat = {
+	name = "Upiara"
+	dynasty = dynn_brazil_wyriat
+	female = no
+	disallow_random_traits = no
+	religion = porantimao
+	culture = kawaiwete
+
+	2594.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_pindara_kagwahiva = {
+	name = "Pindara"
+	dynasty = dynn_brazil_kagwahiva
+	religion = porantimao
+	culture = kagwahivanga
+	female = no
+	disallow_random_traits = no
+	2642.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_estevam_popukare = {
+	name = "Estevam"
+	dynasty = dynn_brazil_popukare
+	religion = shedipawo
+	culture = apurinan
+	female = no
+	disallow_random_traits = no
+	2625.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_tuire_mentuktire = {
+	name = "Tuire"
+	dynasty = dynn_brazil_mentuktire
+	religion = edah_amazonah
+	culture = kayapo
+	female = yes
+	disallow_random_traits = no
+	2599.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_printxe_hixkaryana = {
+	name = "Printxe"
+	dynasty = dynn_brazil_hixkaryana
+	religion = watunna
+	culture = hixkaryana
+	female = no
+	disallow_random_traits = no
+	2610.2.8 = {
+		birth = yes
+	}
+}
+
+brazil_itatiba_satere = {
+	name = "Itatiba"
+	dynasty = dynn_brazil_satere
+	religion = porantimao
+	culture = mawe
+	female = no
+	disallow_random_traits = no
+	2633.10.10 = {
+		birth = yes
+	}
+}
+
+brazil_ywara_pataxo = {
+	name = "Ywara"
+	dynasty = dynn_brazil_pataxo
+	religion = awe_tore
+	culture = pataxo
+	female = yes
+	disallow_random_traits = no
+	2614.10.1 = {
+		birth = yes
+	}
+}
+
+brazil_oziel_tepe = {
+	name = "Oziel"
+	dynasty = dynn_brazil_tepe
+	religion = hekura
+	culture = yanomami
+	female = no
+	disallow_random_traits = no
+	2625.9.8 = {
+		birth = yes
+	}
+}
+
+brazil_odira_tukano = {
+	name = "Odira"
+	dynasty = dynn_brazil_tukano
+	religion = hekwapienai
+	culture = tukano
+	female = yes
+	disallow_random_traits = no
+	2622.2.12 = {
+		birth = yes
+	}
+}
+
+brazil_jarliz_ahe = {
+	name = "Jarliz"
+	dynasty = dynn_brazil_ahe
+	religion = shedipawo
+	culture = karipuna
+	female = no
+	disallow_random_traits = no
+	2618.9.5 = {
+		birth = yes
+	}
+}
+
+brazil_izidorio_apinaye = {
+	name = "Izidorio"
+	dynasty = dynn_brazil_apinaye
+	religion = wasahure_sena
+	culture = apinaje
+	female = no
+	disallow_random_traits = no
+	2593.10.11 = {
+		birth = yes
+	}
+}
+
+brazil_tanamak_taoiihiha = {
+	name = "Tanamak"
+	dynasty = dynn_brazil_taoiihiha
+	religion = iraacungeguma
+	culture = mura
+	female = yes
+	disallow_random_traits = no
+	2648.7.9 = {
+		birth = yes
+	}
+}
+
+brazil_celso_ferreira_da_pexeira = {
+	name = "Celso"
+	dynasty_house = house_brazil_virgulino_ferreira_ferreira_da_pexeira
+	religion = candomble
+	culture = franciscano
+	female = no
+	disallow_random_traits = no
+	father = brazil_corisco_virgulino_ferreira
+	2644.1.1 = {
+		birth = yes
+	}
+}
+
+brazil_francisco_mariano_virgulino_ferreira = {
+	name = "Francisco_Mariano"
+	dynasty = dynn_brazil_virgulino_ferreira
+	religion = santeiro
+	culture = sergipano
+	female = no
+	disallow_random_traits = no
+	father = brazil_francisco_virgulino_ferreira
+	mother = brazil_maria_francisca_bulhoes
+	dna = dna_brazil_francisco_mariano_virgulino_ferreira
+	2623.6.4 = { birth = yes }
+}
+
+brazil_maria_francisca_bulhoes = {
+	name = "Maria_Francisca"
+	dynasty = dynn_brazil_bulhoes
+	religion = santeiro
+	culture = alagoano
+	female = yes
+	disallow_random_traits = no
+	mother = brazil_bonita_bulhoes
+	dna = dna_brazil_maria_francisca_bulhoes
+	2598.10.10 = { birth = yes }
+}
+
+brazil_bonita_bulhoes = {
+	name = "Bonita"
+	dynasty = dynn_brazil_bulhoes
+	religion = ciceritism
+	culture = alagoano
+	female = yes
+	disallow_random_traits = no
+	2565.2.4 = { birth = yes }
+	2665.2.5 = { death = yes }
+}
+
+brazil_francisco_virgulino_ferreira = {
+	name = "Francisco"
+	dynasty = dynn_brazil_virgulino_ferreira
+	religion = santeiro
+	culture = sergipano
+	female = no
+	disallow_random_traits = no
+	father = brazil_corisco_virgulino_ferreira
+	dna = dna_brazil_francisco_virgulino_ferreira
+	2600.2.12 = { birth = yes }
+	2622.1.1 = { add_spouse = brazil_maria_francisca_bulhoes }
+	2638.6.28 = { death = yes }
+}
+
+brazil_corisco_virgulino_ferreira = {
+	name = "Corisco"
+	dynasty = dynn_brazil_virgulino_ferreira
+	religion = santeiro
+	culture = sergipano
+	female = no
+	disallow_random_traits = no
+	2550.10.5 = { birth = yes }
+	2615.1.1 = { death = yes }
+}
+
+brazil_expedito_ferreira_da_pexeira = {
+	name = "Expedito"
+	dynasty_house = house_brazil_virgulino_ferreira_ferreira_da_pexeira
+	religion = santeiro
+	culture = sergipano
+	female = no
+	disallow_random_traits = no
+	father = brazil_corisco_virgulino_ferreira
+	dna = dna_brazil_expedito_ferreira_da_pexeira
+	2571.6.6 = { birth = yes }
+}
+
+brazil_cristino_bulhoes = {
+	name = "Cristino"
+	dynasty = dynn_brazil_bulhoes
+	religion = ciceritism
+	culture = alagoano
+	female = no
+	disallow_random_traits = no
+	mother = brazil_bonita_bulhoes
+	dna = dna_brazil_cristino_bulhoes
+	2601.1.6 = { birth = yes }
+}
+
+brazil_passaro_tizil = {
+	name = "P_a_act_ssaro"
+	dynasty = dynn_brazil_tizil
+	dna = dna_brazil_passaro_tizil
+	religion = ciceritism
+	culture = alagoano
+	female = no
+	disallow_random_traits = no
+	2640.1.10 = { birth = yes }
+}
+
+## Faroeste Caboclo
+
+brazil_joao_de_santo_cristo = {
+	name = "Jo_a_tld_o"
+	dynasty = dynn_brazil_santo_cristo
+	religion = architecturalist
+	culture = chapadeiro
+	female = no
+
+	disallow_random_traits = no
+	trait = brave
+	trait = physique_good_2
+
+	2632.12.25 = { birth = yes }
+	2666.1.1 = { add_spouse = brazil_maria_de_santo_cristo }
+	2666.2.2 = {
+		effect = {
+		set_relation_rival = { reason = rival_historical target = character:brazil_jeremias_de_renome }
+		}
+		}
+	2662.3.3 = {
+		effect = {
+		set_relation_friend = { reason = friend_generic_history target = character:brazil_primo_pablo }
+		}
+		}
+}
+
+brazil_maria_de_santo_cristo = {
+	name = "Maria_L_u_act_cia"
+	dynasty = dynn_brazil_santo_cristo
+	religion = architecturalist
+	culture = candango
+	female = yes
+
+	disallow_random_traits = no
+
+	2635.1.5 = { birth = yes }
+}
+
+brazil_jeremias_de_renome = {
+	name = "Jeremias"
+	dynasty = dynn_brazil_de_renome
+	religion = valley_of_dawn
+	culture = candango
+	female = no
+
+	disallow_random_traits = no
+	trait = hashishiyah
+
+	2630.10.5 = { birth = yes }
+}
+
+brazil_primo_pablo = {
+	name = "Primo"
+	dynasty = dynn_brazil_pablo
+	religion = architecturalist
+	culture = quechua
+	female = no
+
+	disallow_random_traits = no
+
+	2625.5.8 = { birth = yes }
+}
+
+### Horácio
+
+brazil_horacio_saures = {
+	name = "Hor_a_act_cio"
+	dynasty = dynn_brazil_saures
+	religion = liberationism
+	culture = acreano
+	female = no
+	disallow_random_traits = no
+	2650.1.10 = { birth = yes }
+}
+
+brazil_nhenguiru_mbya = {
+	name = "Nhenguiru"
+	dynasty = dynn_brazil_mbya
+	religion = morangatu
+	culture = mbya
+	female = no
+	disallow_random_traits = no
+	2620.5.5 = { birth = yes }
+}
+
+# Genival Lacerda
+
+brazil_severina_xique_xique = {
+	name = "Severina"
+	dynasty = dynn_brazil_xique_xique
+	religion = apostolicism
+	culture = franciscano
+	female = yes
+
+	trait = education_stewardship_2
+
+	disallow_random_traits = no
+	father = brazil_genival_xique_xique
+	2614.10.1 = { birth = yes }
+	2644.3.2 = { add_spouse = brazil_pedro_caroco }
+}
+
+brazil_genival_xique_xique = {
+	name = "Genival"
+	dynasty = dynn_brazil_xique_xique
+	culture = seridoense
+	religion = ciceritism
+	female = no
+
+	trait = poet
+
+	disallow_random_traits = no
+	2571.5.4 = { birth = yes }
+	2631.1.7 = { death = yes }
+}
+
+brazil_pedro_caroco = {
+	name = "Pedro"
+	dynasty = dynn_brazil_caroco
+	religion = ciceritism
+	culture = barreirano
+	female = no
+
+	trait = education_intrigue_3
+	trait = greedy
+
+	disallow_random_traits = no
+	father = brazil_ze_vagamela
+	2612.8.7 = { birth = yes }
+}
+
+brazil_ze_vagamela = {
+	name = "Z_e_act__Vagamela"
+	dynasty = dynn_brazil_caroco
+	religion = ciceritism
+	culture = barreirano
+	female = no
+	disallow_random_traits = no
+	2590.12.12 = { birth = yes }
+}
+
+#Ziraldo
+
+brazil_eufeidolocio_zizi = {
+	name = "Ziz_i_act"
+	dynasty = dynn_brazil_eufeidolocio
+	religion = terra_benta
+	culture = mineiro
+	female = yes
+	disallow_random_traits = no
+	2628.12.12 = { birth = yes }
+}
+
+brazil_eufeidolocio_geraldo = {
+	name = "Geraldo"
+	dynasty = dynn_brazil_eufeidolocio
+	religion = terra_benta
+	culture = mineiro
+	female = no
+	disallow_random_traits = no
+	2625.10.8 = { birth = yes }
+	2655.2.11 = { add_spouse = brazil_eufeidolocio_zizi }
+}
+
+brazil_eufeidolocio_ziraldo = {
+	name = "Ziraldo"
+	dynasty = dynn_brazil_eufeidolocio
+	religion = terra_benta
+	culture = mineiro
+	female = no
+	disallow_random_traits = no
+	trait = curious
+	trait = eccentric	
+	2658.10.24 = { 
+		birth = yes 
+		give_nickname = nick_maluquinho
+		}
+	father = brazil_eufeidolocio_geraldo
+	mother = brazil_eufeidolocio_zizi
+}
+
+# Luiz Gonzaga
+
+brazil_gonzaga_januario = {
+	name = "Janu_a_act_rio"
+	dynasty = dynn_brazil_gonzaga
+	female = no
+	disallow_random_traits = no
+	
+	dna = dna_brazil_gonzaga_januario
+
+	culture = franciscano
+	religion = ciceritism
+
+	trait = education_learning_3
+	trait = poet
+
+	2612.12.13 = {
+		birth = yes
+
+	}
+}
+
+#Foz do Iguaçu
+
+brazil_chalita_alonzo = {
+	name = "Alonzo"
+	dynasty = dynn_brazil_chalita
+	female = no
+	disallow_random_traits = no
+	
+	culture = yguazuano
+	religion = muhsin
+
+	2625.10.10 = {
+		birth = yes
+	}
+}

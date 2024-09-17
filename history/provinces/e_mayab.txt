@@ -1,0 +1,1471 @@
+#e_mayab
+#k_chiapas
+#d_chiapa_alta
+#c_teapa
+#b_mx_27_teapa
+7098 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_bochil
+7097 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_ixtacomit_n
+7099 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_ocotepec
+7096 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = none
+}
+#c_san_cristobal_de_las_casas
+#b_mx_05_san_crist_bal_de_las_casas
+9031 = {
+	culture = winik_atel
+	religion = tihi_ikoran
+	holding = castle_holding
+}
+#b_mx_05_nachig
+9033 = {
+	culture = winik_atel
+	religion = tihi_ikoran
+	holding = city_holding
+}
+#b_mx_05_simojovel_de_allende
+9032 = {
+	culture = winik_atel
+	religion = tihi_ikoran
+	holding = church_holding
+}
+#b_mx_05_chanal
+9034 = {
+	culture = winik_atel
+	religion = tihi_ikoran
+	holding = none
+}
+#c_comitan
+#b_mx_05_comit_n
+695 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_teopisca
+696 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_las_margaritas
+697 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_las_rosas
+694 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = none
+}
+#b_mx_05_paso_hondo
+698 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = none
+}
+#c_tulija
+#b_mx_05_yajal_n
+8119 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_el_limar
+8121 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_palenque
+8120 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_damasco
+8122 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = none
+}
+#c_ocosingo
+#b_mx_05_ocosingo
+1366 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_taniperla
+1368 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_san_antonio_los_montes
+1369 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_justo_sierra
+1367 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = none
+}
+#d_chiapa_baja
+#c_tapachula
+#b_mx_05_tapachula
+9163 = {
+	culture = chapin
+	religion = cristero
+	holding = castle_holding
+	600.1.1 = {
+		special_building = izapa_complex
+	}
+}
+#b_mx_05_huixtla
+9162 = {
+	culture = chapin
+	religion = cristero
+	holding = city_holding
+}
+#b_mx_05_escuintla
+9164 = {
+	culture = chapin
+	religion = cristero
+	holding = none
+}
+#b_mx_05_mapastepec
+9161 = {
+	culture = chapin
+	religion = cristero
+	holding = none
+}
+#c_tonala
+#b_mx_05_tonal_
+6615 = {
+	culture = chapin
+	religion = cristero
+	holding = castle_holding
+}
+#b_mx_05_arriaga
+6614 = {
+	culture = chapin
+	religion = cristero
+	holding = city_holding
+}
+#b_mx_05_pijijiapan
+6616 = {
+	culture = chapin
+	religion = cristero
+	holding = church_holding
+}
+#c_tuxtla
+#b_mx_05_tuxtla
+3144 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_ocozocoautla_de_espinosa
+3142 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_copainal_
+3145 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_acala
+3143 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = none
+}
+#b_mx_05_san_fernando
+3147 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = none
+}
+#b_mx_05_raudales_malpaso
+3146 = {
+	culture = ode_put
+	religion = votanzapatista
+	holding = none
+}
+#c_la_frailesca
+#b_mx_05_villaflores
+1558 = {
+	culture = ode_put
+	religion = cristero
+	holding = castle_holding
+}
+#b_mx_05_el_parral
+1559 = {
+	culture = ode_put
+	religion = cristero
+	holding = church_holding
+}
+#b_mx_05_jes_s_mar_a_garza
+1557 = {
+	culture = ode_put
+	religion = cristero
+	holding = city_holding
+}
+#b_mx_05_diecis_is_de_septiembre
+1556 = {
+	culture = ode_put
+	religion = cristero
+	holding = none
+}
+#c_cintalapa
+#b_mx_05_cintalapa_de_figueroa
+8107 = {
+	culture = ode_put
+	religion = cristero
+	holding = castle_holding
+}
+#b_mx_05_villamorelos
+8108 = {
+	culture = ode_put
+	religion = cristero
+	holding = city_holding
+}
+#c_jaltenango
+#b_mx_05_jaltenango_de_la_paz
+8325 = {
+	culture = winik_atel
+	religion = cristero
+	holding = castle_holding
+}
+#b_mx_05_comalapa
+8326 = {
+	culture = winik_atel
+	religion = cristero
+	holding = city_holding
+}
+#b_mx_05_el_mbar
+8328 = {
+	culture = winik_atel
+	religion = cristero
+	holding = church_holding
+}
+#b_mx_05_la_concordia
+8327 = {
+	culture = winik_atel
+	religion = cristero
+	holding = none
+}
+#d_chiapa_lacandona
+#c_usumacinta
+#b_mx_27_tenosique
+946 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_mx_27_san_carlos
+945 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = city_holding
+}
+#b_mx_27_mult_
+944 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = church_holding
+}
+#b_mx_27_balanc_n
+947 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = none
+}
+#c_los_zendales
+#b_mx_05_cintalapa
+1393 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_mx_05_san_quint_n
+1395 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = city_holding
+}
+#b_mx_05_benem_rito_de_las_am_ricas
+1394 = {
+	culture = winik_atel
+	religion = votanzapatista
+	holding = church_holding
+}
+#c_el_sibal
+#b_gt_12_el_sibal
+7537 = {
+	culture = mopan_itza
+	religion = votanzapatista
+	holding = castle_holding
+}
+#b_gt_12_la_esperancita
+7535 = {
+	culture = mopan_itza
+	religion = votanzapatista
+	holding = church_holding
+}
+#b_mx_05_balum_canan
+7536 = {
+	culture = mopan_itza
+	religion = votanzapatista
+	holding = city_holding
+}
+#k_yucatan
+#d_riviera_yucatan
+#c_merida
+#b_mx_31_m_rida
+9448 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_31_tixkokob
+9447 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_31_celest_n
+9449 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#c_kanasin
+#b_mx_31_kanas_n
+34 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_31_izamal
+36 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_31_sey_
+35 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_uman
+#b_mx_31_uman
+3592 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_31_maxcan_
+3590 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_31_cepeda
+3591 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_tizimin
+#b_mx_31_tizim_n
+1132 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_31_temozon
+1133 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_31_popolnah
+1131 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_31_dzonot_carretero
+1134 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_motul
+#b_mx_31_motul
+3110 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_31_dzidzantun
+3108 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_31_dzilam_de_bravo
+3109 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_espita
+#b_mx_31_espita
+6466 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_31_buctzotz
+6465 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_31_panab_
+6467 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#d_luuma_ximbal
+#c_cancun
+#b_mx_23_canc_n
+2328 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+	1950.1.1 = {special_building = natural_harbour}
+}
+#b_mx_23_alfredo_v_bonfil
+2327 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_23_ignacio_zaragoza
+2330 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_23_kantunilk_n
+2331 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#b_mx_23_isla_holbox
+2329 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_solidaridad
+#b_mx_23_del_carmen
+7084 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_23_puerto_aventuras
+7083 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_23_coba
+7082 = {
+	culture = yucateco
+	religion = neomayan
+	holding = none
+}
+#c_cozumel
+#b_mx_23_cozumel
+3671 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#d_quintana_roo
+#c_chetumal
+#b_mx_23_chetumal
+4231 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_bz_01_san_pedro
+4230 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_23_reforma
+4228 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_23_maya_balam
+4227 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#b_mx_23_mahahual
+4229 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_xpujil
+#b_mx_04_xpujil
+2591 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_23_nicol_s_bravo
+2588 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#b_mx_23_javier_rojo_g_mez
+2589 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_04_ingeniero_ricardo_payro_jene
+2587 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_23_caobas
+2590 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_chichancanab
+#b_mx_23_jos_mar_a_morelos
+5435 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_31_becanch_n
+5434 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_04_uk_m
+5433 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_23_miguel_alem_n
+5436 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_tulum
+#b_mx_23_tihosuco
+45 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_23_tulum
+47 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_23_chun_yah
+46 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_felipe_carrillo_puerto
+#b_mx_23_felipe_carrillo_puerto
+9497 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_23_x_pichil
+9496 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_23_x_hazil_sur
+9498 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#d_ruta_puuc
+#c_ticul
+#b_mx_31_ticul
+9096 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_31_akil
+9095 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_31_muna
+9097 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#b_mx_31_kantem_
+9094 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_valladolid
+#b_mx_31_valladolid
+6748 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_31_chemax
+6746 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_31_chich_n_itz_
+6745 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+	600.1.1 = {
+		special_building = chichen_itza_complex
+	}
+}
+#b_mx_31_tixcacalcupul
+6747 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_tekax
+#b_mx_31_peto
+2033 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_31_tecax
+2034 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_31_sotuta
+2032 = {
+	culture = maaya
+	religion = cruzob
+	holding = city_holding
+}
+#b_mx_31_yaxcab_
+2031 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#k_peten
+#d_belice
+#c_belize
+#b_bz_01_belize_city
+3376 = {
+	culture = kriol
+	religion = insular_caribbean
+	holding = castle_holding
+}
+#b_bz_05_dangriga
+3374 = {
+	culture = kriol
+	religion = insular_caribbean
+	holding = city_holding
+}
+#b_bz_01_salt_creek
+3375 = {
+	culture = kriol
+	religion = insular_caribbean
+	holding = church_holding
+}
+#c_cayo
+#b_bz_02_san_ignacio
+4977 = {
+	culture = belizonite
+	religion = mennonite
+	holding = castle_holding
+}
+#b_bz_02_belmopan
+4975 = {
+	culture = belizonite
+	religion = mennonite
+	holding = city_holding
+}
+#b_bz_02_valley_of_peace
+4976 = {
+	culture = belizonite
+	religion = mennonite
+	holding = church_holding
+}
+#b_mx_23_la_union
+4978 = {
+	culture = belizonite
+	religion = mennonite
+	holding = none
+}
+#c_orange_walk
+#b_bz_04_orange_walk
+3682 = {
+	culture = kriol
+	religion = anglican
+	holding = castle_holding
+}
+#b_bz_03_corozal
+3681 = {
+	culture = kriol
+	religion = anglican
+	holding = city_holding
+}
+#c_toledo_1
+#b_bz_06_punta_gorda
+2914 = {
+	culture = kriol
+	religion = insular_caribbean
+	holding = castle_holding
+}
+#b_bz_05_placencia
+2915 = {
+	culture = kriol
+	religion = insular_caribbean
+	holding = city_holding
+}
+#d_peten_itza
+#c_peten_itza
+#b_gt_12_san_benito
+6988 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_gt_12_santa_ana
+6990 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = city_holding
+}
+#b_gt_12_san_andr_s
+6991 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = church_holding
+}
+#b_gt_12_la_sonrisa
+6989 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = none
+}
+#c_poptun
+#b_gt_12_popt_n
+7605 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_12_poit_seco
+7606 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_12_santa_mar_a_sechact_
+7607 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = city_holding
+}
+#c_sayaxche
+#b_mx_05_zamora_pico_de_oro
+6942 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_12_sayaxch_
+6943 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = city_holding
+}
+#b_mx_05_roberto_barrios_r_o
+6941 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = church_holding
+}
+#c_machaquila
+#b_gt_12_dolores
+4515 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_12_sesaltut
+4514 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = city_holding
+}
+#d_el_mirador
+#c_tikal
+#b_gt_12_melchor_de_mencos
+1702 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_gt_12_tikal
+1701 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = city_holding
+	200.1.1 = {
+		special_building = tikal_complex
+	}
+}
+#b_mx_04_el_jag_ey
+1703 = {
+	culture = mopan_itza
+	religion = hach_kanik
+	holding = church_holding
+}
+#c_calakmul
+#b_mx_04_miguel_hidalgo_y_costilla
+2182 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_mx_04_monclova
+2184 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = city_holding
+}
+#b_mx_04_miguel_de_la_madrid
+2183 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = church_holding
+}
+#c_laguna_del_tigre
+#b_gt_12_carmelita
+3617 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_gt_12_los_tubos
+3616 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = city_holding
+}
+#k_guatemala
+#d_guatemala
+#c_guatemala
+#b_gt_07_guatemala_city
+4563 = {
+	culture = chapin
+	religion = penitents
+	holding = castle_holding
+	1676.1.31 = {
+		special_building_slot = generic_university
+	}
+}
+#b_gt_18_barberena
+4561 = {
+	culture = chapin
+	religion = penitents
+	holding = castle_holding
+}
+#b_gt_07_san_juan_sacatep_quez
+4560 = {
+	culture = chapin
+	religion = penitents
+	holding = city_holding
+}
+#b_gt_07_chinautla
+4562 = {
+	culture = chapin
+	religion = penitents
+	holding = none
+}
+#c_escuintla
+#b_gt_06_escuintla
+8908 = {
+	culture = kiche
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_gt_06_la_gomera
+8909 = {
+	culture = kiche
+	religion = assembleiano
+	holding = church_holding
+}
+#b_gt_06_santa_luc_a_cotzumalguapa
+8912 = {
+	culture = kiche
+	religion = assembleiano
+	holding = city_holding
+}
+#b_gt_18_chiquimulilla
+8910 = {
+	culture = kiche
+	religion = assembleiano
+	holding = none
+}
+#b_gt_06_puerto_san_jos_
+8911 = {
+	culture = kiche
+	religion = assembleiano
+	holding = none
+}
+#c_jalapa
+#b_gt_22_zacapa
+7121 = {
+	culture = chapin
+	religion = lamanite
+	holding = castle_holding
+}
+#b_gt_04_chiquimula
+7120 = {
+	culture = chapin
+	religion = lamanite
+	holding = city_holding
+}
+#b_gt_10_jalapa
+7122 = {
+	culture = chapin
+	religion = lamanite
+	holding = church_holding
+}
+#b_gt_05_sanarate
+7119 = {
+	culture = chapin
+	religion = lamanite
+	holding = none
+}
+#c_jutiapa
+#b_gt_11_jutiapa
+6017 = {
+	culture = chapin
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_gt_11_jalpatagua
+6016 = {
+	culture = chapin
+	religion = assembleiano
+	holding = church_holding
+}
+#b_gt_11_asunci_n_mita
+6018 = {
+	culture = chapin
+	religion = assembleiano
+	holding = none
+}
+#d_los_altos
+#c_chimaltenango
+#b_gt_19_solol_
+4107 = {
+	culture = kiche
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_03_chimaltenango
+4106 = {
+	culture = kiche
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_21_totonicap_n
+4105 = {
+	culture = kiche
+	religion = qabantajik
+	holding = city_holding
+}
+#b_gt_14_chichicastenango
+4108 = {
+	culture = kiche
+	religion = qabantajik
+	holding = church_holding
+}
+#c_quetzaltenango
+#b_gt_13_quetzaltenango
+3217 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_13_coatepeque
+3215 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_17_malacat_n
+3216 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = none
+}
+#b_gt_17_san_marcos
+3214 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = none
+}
+#c_suchitepequez
+#b_gt_20_mazatenango
+3265 = {
+	culture = kiche
+	religion = assembleiano
+	holding = castle_holding
+}
+#b_gt_15_retalhuleu
+3266 = {
+	culture = kiche
+	religion = assembleiano
+	holding = city_holding
+}
+#b_gt_06_tiquisate
+3264 = {
+	culture = kiche
+	religion = assembleiano
+	holding = none
+}
+#c_huehuetenango
+#b_gt_08_huehuetenango
+9545 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_08_jacaltenango
+9547 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = city_holding
+}
+#b_gt_08_barillas
+9548 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_08_san_miguel_acat_n
+9546 = {
+	culture = wnaqqo
+	religion = qabantajik
+	holding = none
+}
+#d_verapaz
+#c_ixcan
+#b_mx_05_ixcan
+6075 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_14_chactela
+6077 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = none
+}
+#b_gt_01_pasacuc
+6076 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = city_holding
+}
+#c_baja_verapaz
+#b_gt_02_salam_
+9467 = {
+	culture = wnaqqo
+	religion = lamanite
+	holding = castle_holding
+}
+#b_gt_14_nebaj
+9468 = {
+	culture = wnaqqo
+	religion = lamanite
+	holding = none
+}
+#b_gt_02_rabinal
+9466 = {
+	culture = wnaqqo
+	religion = lamanite
+	holding = none
+}
+#c_izabal
+#b_gt_09_puerto_barrios
+251 = {
+	culture = garinagu
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_01_panzos
+250 = {
+	culture = garinagu
+	religion = qabantajik
+	holding = city_holding
+}
+#b_gt_09_el_estor
+253 = {
+	culture = garinagu
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_09_morales
+252 = {
+	culture = garinagu
+	religion = qabantajik
+	holding = none
+}
+#c_alta_verapaz
+#b_gt_01_cob_n
+4477 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = castle_holding
+}
+#b_gt_01_chisec
+4478 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = city_holding
+}
+#b_gt_01_chahal_guatemala
+4476 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = church_holding
+}
+#b_gt_01_cahab_n
+4475 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = none
+}
+#b_gt_01_lanqu_n
+4474 = {
+	culture = kekchi
+	religion = qabantajik
+	holding = none
+}
+#k_campeche
+#d_campeche
+#c_campeche
+#b_mx_04_campeche
+8791 = {
+	culture = maaya
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_04_seybaplaya
+8792 = {
+	culture = maaya
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_04_carrillo_puerto
+8793 = {
+	culture = maaya
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_los_laureles
+8790 = {
+	culture = maaya
+	religion = neomayan
+	holding = none
+}
+#c_calkini
+#b_mx_04_calkin_
+3277 = {
+	culture = yucateco
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_04_hecelchak_n
+3276 = {
+	culture = yucateco
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_pocboc
+3278 = {
+	culture = yucateco
+	religion = neomayan
+	holding = church_holding
+}
+#c_escarcega
+#b_mx_04_esc_rcega
+9373 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_04_constituci_n
+9371 = {
+	culture = maaya
+	religion = cruzob
+	holding = castle_holding
+}
+#b_mx_04_nuevo_conhu_s
+9370 = {
+	culture = maaya
+	religion = cruzob
+	holding = church_holding
+}
+#b_mx_04_justicia_social
+9372 = {
+	culture = maaya
+	religion = cruzob
+	holding = none
+}
+#c_hopelchen
+#b_mx_04_hopelch_n
+3415 = {
+	culture = maaya
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_04_iturbide
+3414 = {
+	culture = maaya
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_dzibalch_n
+3416 = {
+	culture = maaya
+	religion = neomayan
+	holding = church_holding
+}
+#d_laguna_de_terminos
+#c_carmen
+#b_mx_04_del_carmen
+1151 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_04_palizada
+1152 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_el_aguacatal
+1153 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_04_el_juncal
+1150 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = none
+}
+#c_champoton
+#b_mx_04_champot_n
+6107 = {
+	culture = maaya
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_sabancuy
+6105 = {
+	culture = maaya
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_04_chicbul
+6104 = {
+	culture = maaya
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_04_xbacab
+6106 = {
+	culture = maaya
+	religion = neomayan
+	holding = none
+}
+#c_candelaria
+#b_mx_04_candelaria
+2489 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = castle_holding
+}
+#b_mx_04_don_samuel
+2488 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = city_holding
+}
+#b_mx_04_benito_ju_rez_uno
+2490 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = church_holding
+}
+#b_mx_04_mamantel
+2491 = {
+	culture = hach_winik
+	religion = hach_kanik
+	holding = none
+}
+#d_tabasco
+#c_villahermosa
+#b_mx_27_villahermosa
+611 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = castle_holding
+	200.1.1 = {special_building = la_venta_olmec}
+}
+#b_mx_27_r_o_de_teapa
+609 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_27_tacotalpa
+610 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = church_holding
+}
+#c_cardenas
+#b_mx_27_c_rdenas
+5772 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_27_comalcalco
+5771 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_27_huimanguillo
+5769 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = church_holding
+}
+#b_mx_27_la_venta
+5770 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = none
+	100.1.1 = {
+		special_building = la_venta_olmec
+	}
+}
+#b_mx_27_poblado_c_de_noviembre
+5768 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = none
+}
+#c_grijalva
+#b_mx_27_macuspana
+7601 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = castle_holding
+}
+#b_mx_27_frontera
+7599 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = city_holding
+}
+#b_mx_27_jonuta
+7600 = {
+	culture = yoko_yinikob
+	religion = neomayan
+	holding = church_holding
+}

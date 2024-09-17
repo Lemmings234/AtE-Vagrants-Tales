@@ -1,0 +1,1520 @@
+﻿#Mexico
+
+e_mexico = {
+	1821.9.27={holder=agustin_de_iturbide}
+	1823.3.19={holder=guadalupe_victoria}
+	1829.4.1={holder=vicente_guerrero}
+	1829.12.23={holder=anastasio_bustamante}
+	1832.8.14={holder=melchor_muzquiz}
+	1832.12.24={holder=manuel_gomez_pedraza}
+	1833.3.31={holder=antonio_lopez_de_santa_anna}
+	1833.3.31={holder=valentin_gomez_farias}
+	1833.5.16={holder=antonio_lopez_de_santa_anna}
+	1833.6.3={holder=valentin_gomez_farias}
+	1833.6.18={holder=antonio_lopez_de_santa_anna}
+	1833.7.5={holder=valentin_gomez_farias}
+	1833.10.27={holder=antonio_lopez_de_santa_anna}
+	1833.12.15={holder=valentin_gomez_farias}
+	1834.4.24={holder=antonio_lopez_de_santa_anna}
+	1835.1.27={holder=miguel_barragan}
+	1836.2.27={holder=jose_justo_corro}
+	1837.4.19={holder=anastasio_bustamante}
+	1839.3.18={holder=antonio_lopez_de_santa_anna}
+	1839.7.10={holder=nicolas_bravo}
+	1839.7.18={holder=anastasio_bustamante}
+	1841.9.22={holder=francisco_javier_echeverria}
+	1841.10.10={holder=antonio_lopez_de_santa_anna}
+	1842.10.26={holder=nicolas_bravo}
+	1843.5.14={holder=antonio_lopez_de_santa_anna}
+	1843.9.6={holder=valentin_canalizo}
+	1844.6.4={holder=antonio_lopez_de_santa_anna}
+	1844.9.12={holder=jose_joaquin_de_herrera}
+	1844.9.21={holder=valentin_canalizo}
+	1844.12.6={holder=jose_joaquin_de_herrera}
+	1845.12.30={holder=mariano_paredes}
+	1846.7.28={holder=nicolas_bravo}
+	1846.8.6={holder=jose_mariano_salas}
+	1846.12.23={holder=antonio_lopez_de_santa_anna}
+	1846.12.23={holder=valentin_gomez_farias}
+	1847.3.21={holder=antonio_lopez_de_santa_anna}
+	1847.4.2={holder=pedro_maria_anaya}
+	1847.5.20={holder=antonio_lopez_de_santa_anna}
+	1847.9.16={holder=manuel_de_la_pena_y_pena}
+	1847.11.13={holder=pedro_maria_anaya}
+	1848.1.8={holder=manuel_de_la_pena_y_pena}
+	1848.6.2={holder=jose_joaquin_de_herrera}
+	1851.10.15={holder=mariano_arista}
+	1853.1.5={holder=juan_bautista_ceballos}
+	1853.2.8={holder=manuel_maria_lombardini}
+	1853.4.20={holder=antonio_lopez_de_santa_anna}
+	1853.4.20={holder=lucas_alaman}
+	1853.6.2={holder=antonio_lopez_de_santa_anna}
+	1855.8.12={holder=martin_carrera_sabat}
+	1855.9.12={holder=romulo_diaz_de_la_vega}
+	1855.10.3={holder=juan_alvarez}
+	1855.12.11={holder=ignacio_comonfort}
+	1858.1.11={holder=benito_juarez}
+	1858.1.22={holder=felix_maria_zuloaga}
+	1858.12.24={holder=manuel_robles_pezuela}
+	1859.1.21={holder=jose_mariano_salas}
+	1859.2.2={holder=miguel_miramon}
+	1860.8.13={holder=jose_ignacio_pavon}
+	1860.8.15={holder=miguel_miramon}
+	1860.12.24={holder=benito_juarez}
+	1864.3.10={holder=maximilian_von_habsburg}
+	1867.5.15={holder=benito_juarez}
+	1872.7.18={holder=sebastian_lerdo_de_tejada}
+	1876.11.20={holder=jose_maria_iglesias}
+	1876.11.28={holder=porfirio_diaz}
+	1876.11.28={holder=juan_nepomuceno_mendez}
+	1877.2.17={holder=porfirio_diaz}
+	1880.11.20={holder=manuel_gonzalez_flores}
+	1884.12.1={holder=porfirio_diaz}
+	1911.5.25={holder=francisco_ignacio_madero}
+	1911.5.25={holder=francisco_leon_de_la_barra}
+	1911.11.6={holder=francisco_ignacio_madero}
+	1913.2.22={holder=pedro_lascurain}
+	1913.2.22={holder=victoriano_huerta}
+	1914.7.15={holder=francisco_carvajal_y_jual}
+	1914.8.13={holder=venustiano_carranza}
+	1914.11.6={holder=pancho_villa}
+	1914.11.6={holder=emiliano_zapata}
+	1914.11.6={holder=eulalio_gutierrez}
+	1915.1.16={holder=roque_gonzalez_garza}
+	1915.6.10={holder=francisco_lagos_chazaro}
+	1915.10.10={holder=venustiano_carranza}
+	1920.5.21={holder=adolfo_de_la_huerta}
+	1920.12.1={holder=alvaro_obregon}
+	1924.12.1={holder=plutarco_elias_calles}
+	1928.7.17={holder=alvaro_obregon}
+	1928.7.17={holder=plutarco_elias_calles}
+	1928.12.1={holder=emilio_portes_gil}
+	1930.2.5={holder=plutarco_elias_calles}
+	1930.2.5={holder=pascual_ortiz_rubio}
+	1932.9.2={holder=plutarco_elias_calles}
+	1932.9.2={holder=abelardo_rodriguez}
+	1934.12.1={holder=plutarco_elias_calles}
+	1934.12.1={holder=lazaro_cardenas}
+	1940.12.1={holder=manuel_avila_camacho}
+	1946.12.1={holder=miguel_aleman}
+	1952.12.1={holder=adolfo_ruiz_cortines}
+	1958.12.1={holder=adolfo_lopez_mateos}
+	1964.12.1={holder=gustavo_diaz_ordaz}
+	1970.12.1={holder=luis_echeverria_alvarez}
+	1976.12.1={holder=jose_lopez_portillo}
+	1982.12.1={holder=miguel_de_la_madrid_hurtado}
+	1988.12.1={holder=carlos_salinas_de_gortari}
+	1994.12.1={holder=fulano_de_tal}
+	2084.12.1={holder=miguel_aleman_2}
+	2100.12.1={holder=manuel_aleman}
+	2118.11.9={holder=miguel_aleman_3}
+	2124.4.2={holder=adolfo_jacaranda}
+	2133.5.3={holder=emilio_jacaranda}
+	2139.1.18={holder=enrique_aleman}
+	2141.9.26={holder=diego_sircoipan_2}
+	2166.1.6={holder=roberto_aleman}
+	2175.3.16={holder=daniel_aleman}
+	2181.7.18={holder=daniel_aleman_2}
+	2194.2.28={holder=ramon_aleman}
+	2218.7.14={holder=manuel_aleman_2}
+	2222.11.2={holder=julian_de_jesus_jacaranda}
+	2246.10.5={holder=jose_maria_jacaranda}
+	2252.5.4={holder=hector_jacaranda}
+	2264.7.21={holder=fernando_jacaranda}
+	2275.1.19={holder=agustin_jacaranda}
+	2285.11.5={holder=bartolome_jacaranda}
+	2296.2.14={holder=tadeo_jacaranda}
+	2311.3.3={holder=marco_augustin_jacaranda}
+	2325.12.22={holder=nicolas_palafox}
+	2336.2.20={holder=domiciano_palafox}
+	2339.11.14={holder=epifanio_palafox}
+	2345.1.12={holder=salim_chartouni}
+	2353.5.14={holder=epifanio_palafox_fake}
+	2353.10.7={holder=agustin_aguilar}
+	2373.2.23={holder=hector_aguilar}
+	2377.3.30={holder=ulises_aguilar}
+	2381.9.23={holder=aureliano_aguilar}
+	2404.9.36={holder=venustiano_aguilar}
+	2411.5.1={holder=cuauhtemoc_macehual}
+	2426.8.2={holder=tenoch_macehual}
+	2434.11.19={holder=acalan_macehual}
+	2436.7.17={holder=charbel_macehual}
+	2445.3.29={holder=leopoldo_macehual}
+	2446.8.20={holder=doroteo_arango}
+	2446.9.29={holder=cristobal_genoves}
+	2447.1.16={holder=leon_macehual}
+	2447.4.27={holder=pio_labrador}
+	2447.10.19={holder=adolfo_almado}
+	2450.9.27={holder=mariano_almado}
+	2450.12.3={holder=wenceslao_najera}
+	2480.12.3={holder=alejandro_najera}
+	2485.4.26={holder=alejo_areaga}
+	2502.2.21={holder=wenceslao_najera_2}
+	2528.10.30={holder=alejandro_najera_2}
+	2538.2.22={holder=alejo_areaga_2}
+	2540.4.24={holder=bernardo_najera}
+	2542.8.8={holder=aristoteles_areaga}
+	2546.10.6={holder=edilio_areaga}
+	2554.10.26={holder=alejo_areaga_3}
+	2563.2.7={holder=plutarco_jauregui}
+	2575.1.15={holder=esau_aijel_2}
+	2584.6.26={holder=renato_duque}
+	2591.1.12={holder=porfirio_duque}
+	2608.5.13={holder=heliodoro_duque}
+	2616.5.27={holder=renato_duque_2}
+	2624.3.11={holder=aureliano_gabsol}
+	2639.2.17={holder=fernando_gabsol}
+	2644.10.30={holder=alejo_gabsol}
+	2651.3.3={holder=julian_duque}
+	2657.2.20={holder=porfirio_degollado}
+	2660.6.15={
+		holder=wenceslao_p_y_l
+		succession_laws = { feudal_elective_succession_law }
+	}
+}
+
+k_mexico = {
+    2666.7.4 = { change_development_level = 0 }
+}
+k_mexico = {
+    2666.1.1 = {
+		# Conclusion of the initial wave of Islamic conquest, so we settle in for the struggle_
+		effect = {
+			if = {
+				limit = { has_dlc_feature = the_fate_of_iberia }
+				start_struggle = {
+					struggle_type = mexican_struggle
+					start_phase = struggle_mexico_phase_opportunity # TODO: We should add phase changes in History to get two different entry point
+				}
+			}
+		}
+	}
+	2666.7.4 = {
+        holder = misael_aleman
+		government = high_republic_government
+        succession_laws = { populism_elective_succession_law }
+    }
+}
+
+d_valle_de_mexico = {
+    2666.7.4 = {
+        holder = misael_aleman
+    }
+}
+
+c_mexico = {
+    2666.7.4 = { change_development_level = 29 }
+    2666.7.4 = {
+        holder = misael_aleman
+        government = high_republic_government
+    }
+}
+
+c_texcoco = {
+    2666.7.4 = { change_development_level = 25 }
+    2666.7.4 = {
+        holder = misael_aleman
+        government = high_republic_government
+    }
+}
+
+c_morelos = {
+    2666.7.4 = { change_development_level = 16 }
+    2666.7.4= {
+        holder = wenceslao_aijel_1
+        liege = k_mexico
+    }
+}
+
+c_ecatepec = {
+    2666.7.4 = { change_development_level = 23 }
+    2666.7.4 = {
+        holder = urbano_hosking
+    }
+}
+
+d_puebla = {
+    2666.7.4 = {
+        holder = itzli_netza
+		succession_laws = { feudal_elective_succession_law }
+        liege = e_mexico
+    }
+}
+
+c_izucar = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = hilario_oeem
+        liege = k_mexico
+    }
+}
+
+c_puebla = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = itzli_netza
+        liege = e_mexico
+    }
+}
+
+c_cholula = {
+    2666.7.4 = { change_development_level = 18 }
+    2666.7.4 = {
+        holder = larisa_poblano
+        liege = k_mexico
+    }
+}
+
+c_tehuacan = {
+    2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = itzli_netza
+        liege = e_mexico
+    }
+}
+
+c_chiautla = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = hilario_oeem
+        liege = k_mexico
+    }
+}
+
+d_edomex = {
+    2666.7.4 = {
+        holder = manuel_bartolomeo
+		government = high_republic_government
+        liege = k_mexico
+        succession_laws = { populism_elective_succession_law }
+    }
+}
+
+c_toluca = {
+	2541.5.14={holder=esau_aijel}
+	2551.11.12={holder=esau_aijel_2}
+	2613.9.27={holder=wenceslao_aijel}
+	2619.7.10={holder=esau_aijel_1}
+    2666.7.4 = { change_development_level = 23 }
+    2666.7.4 = {
+        liege = d_edomex
+    }
+}
+
+c_nicolas_romero = {
+    2666.7.4 = { change_development_level = 25 }
+    2666.7.4 = {
+        holder = manuel_bartolomeo
+		government = high_republic_government
+        liege = k_mexico
+    }
+}
+
+c_altacomulco = {
+    2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = manuel_bartolomeo
+		government = high_republic_government
+        liege = d_edomex
+    }
+}
+
+c_valle_de_bravo = {
+    2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = aridoamerica_piccolo
+		government = high_republic_government
+        liege = d_edomex
+    }
+}
+
+d_hidalgo = {
+    2666.7.4 = {
+        holder = urbano_hosking
+		government = high_republic_government
+        liege = k_mexico
+        succession_laws = { populism_elective_succession_law
+        populism_succession_election_law }
+    }
+}
+
+c_pachuca = {
+    2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = urbano_hosking
+		government = high_republic_government
+        liege = k_mexico
+    }
+}
+
+c_tula = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = urbano_hosking
+		government = high_republic_government
+        liege = k_mexico
+    }
+}
+
+c_ixmiquilpan = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = doni_botahi
+        liege = e_mexico
+    }
+}
+
+c_huejutla = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = doni_botahi
+        liege = e_mexico
+    }
+}
+
+d_totonacapan = {
+    2666.7.4 = {
+        holder = wenceslao_p_y_l
+		succession_laws = {feudal_elective_succession_law}
+    }
+}
+
+c_poza_rica = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = emilio_wong
+		liege = e_mexico
+    }
+}
+
+c_martinez = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = flor_eduviges
+		liege = e_mexico
+    }
+}
+
+c_xalapa = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = gaston_morris
+        liege = d_totonacapan
+    }
+}
+
+c_tuxpam = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = venustiano_gabsol
+        liege = e_mexico
+    }
+}
+
+c_tantoyuca = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = camila_posadas
+        liege = e_mexico
+    }
+}
+
+c_tamiahua = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = tomas_mejia
+        liege = e_mexico
+    }
+}
+
+d_tlaxcala = {
+    2666.7.4 = {
+        holder = xochiyoh_apanco
+        liege = k_mexico
+		succession_laws = { feudal_elective_succession_law }
+    }
+}
+
+c_tlaxcala = {
+    2666.7.4 = { change_development_level = 21 }
+    2666.7.4 = {
+        holder = xochiyoh_apanco
+        liege = k_mexico
+    }
+}
+
+c_teziutlan = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = tiburcio_del_monte
+        liege = d_tlaxcala
+    }
+}
+
+c_huauchinango = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = tiburcio_del_monte
+        liege = d_tlaxcala
+    }
+}
+
+c_chalchicomula = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = xochiyoh_apanco
+        liege = e_mexico
+    }
+}
+
+#Guerrero
+k_guerrero = {
+    2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = kuau_mika
+    }
+}
+
+d_tierra_caliente = {
+    2666.7.4 = {
+        holder = kuau_mika
+    }
+}
+
+c_altamirano = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = kuau_mika
+    }
+}
+
+c_zihuatenejo_ixtapa = {
+    2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = character_c_zihuatenejo_ixtapa
+        liege = k_guerrero
+    }
+}
+
+c_arcelia = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = kuau_mika
+    }
+}
+
+d_la_montana = {
+    2666.7.4 = {
+        holder = negro_menor
+        liege = k_guerrero
+    }
+}
+
+c_chilpancingo = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = marisol_arista
+        liege = k_guerrero
+    }
+}
+
+c_chilapa = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = marisol_arista
+        liege = k_guerrero
+    }
+}
+
+c_tlapa = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = negro_menor
+        liege = k_guerrero
+    }
+}
+
+c_ometepec = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = negro_menor
+        liege = k_guerrero
+    }
+}
+
+c_huajuapan = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = negro_menor
+        liege = k_guerrero
+    }
+}
+
+c_jamiltepec = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = negro_menor
+        liege = k_guerrero
+    }
+}
+
+c_tlaxiaco = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = diegu_villagomez
+        liege = d_la_montana
+    }
+}
+
+c_putla = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = diegu_villagomez
+        liege = d_la_montana
+    }
+}
+
+c_asuncion_nochixtlan = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = diegu_villagomez
+        liege = d_la_montana
+    }
+}
+
+c_iguala = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = marisol_arista
+        liege = k_guerrero
+    }
+}
+
+
+c_taxco = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = kuau_mika
+    }
+}
+
+d_costa_grande = {
+    2666.7.4 = {
+        holder = aaron_jimenez
+    }
+}
+
+c_acapulco_de_juarez = {
+    2666.7.4 = { change_development_level = 17 }
+    2666.7.4 = {
+        holder = aaron_jimenez
+    }
+}
+
+c_ayutla = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = aaron_jimenez
+    }
+}
+
+c_petatlan = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = aaron_jimenez
+    }
+}
+
+#Michoacan
+k_michoacan = {
+    2666.7.4 = { change_development_level = 0 }
+
+	2650.7.4 = {
+        holder = jorhendani_iurhuri
+    }
+    2660.7.3 = {
+        holder = primo_iurhuri
+    }
+}
+d_michoacan = {
+    2666.7.4 = {
+        holder = primo_iurhuri
+    }
+}
+
+d_pais_monarca = {
+    2666.7.4 = {
+        holder = alvaro_patzcuaro
+		liege = k_michoacan
+    }
+}
+
+c_zitacuaro = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = alvaro_patzcuaro
+		liege = k_michoacan
+    }
+}
+
+c_taximaroa = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = alvaro_patzcuaro
+		liege = k_michoacan
+    }
+}
+
+c_tacambaro_de_codallos = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = character_c_tacambaro_de_codallos
+        liege = d_pais_monarca
+    }
+}
+
+c_maravatio = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = alvaro_patzcuaro
+    }
+}
+
+d_atoyac = {
+    2666.7.4 = {
+        holder = jeronimo_tumbiscatio_1
+        liege = k_michoacan
+    }
+}
+
+c_apatzingan = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = jeronimo_tumbiscatio_1
+        liege = k_michoacan
+    }
+}
+
+c_los_llanitos = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = jeronimo_tumbiscatio_1
+        liege = k_michoacan
+    }
+}
+
+c_coahuayana = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = jeronimo_tumbiscatio_1
+        liege = k_michoacan
+    }
+}
+
+c_sahuayo = {
+    2666.7.4 = { change_development_level = 10 }
+    2666.7.4 = {
+        holder = matilde_arcangel
+		liege = k_michoacan
+    }
+}
+
+c_ocotlan = {
+    2666.7.4 = { change_development_level = 13 }
+    2666.7.4 = {
+        holder = itukua_iurhuri
+		liege = k_michoacan
+    }
+}
+
+c_zacapu = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = primo_iurhuri
+    }
+}
+
+c_patzcuaro = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = primo_iurhuri
+    }
+}
+
+c_zamora = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = itukua_iurhuri
+		liege = k_michoacan
+    }
+}
+
+
+c_uruapan = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = primo_iurhuri
+    }
+}
+
+c_morelia = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = primo_iurhuri
+    }
+}
+
+c_zapotlan_el_grande = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = matilde_arcangel
+		liege = k_michoacan
+    }
+}
+
+#Bajio
+
+k_el_bajio = {
+    2655.10.20 = {
+		holder = gerardo_cervantes
+	}
+	2663.7.14 = {
+        holder = 0
+    }
+}
+
+d_altos_de_jalisco = {
+    2663.7.13 = {
+        holder = melchor_cervantes
+    }
+}
+
+c_aguascalientes = {
+    2666.7.4 = { change_development_level = 4 }
+    2663.7.13 = {
+        holder = s_e_bonagens
+        liege = d_altos_de_jalisco
+    }
+}
+
+c_rincon = {
+    2666.7.4 = { change_development_level = 3 }
+    2663.7.13 = {
+        holder = a_i_bonagens
+        liege = d_altos_de_jalisco
+    }
+}
+
+c_san_juan_de_los_lagos = {
+    2666.7.4 = { change_development_level = 5 }
+    2663.7.13 = {
+        holder = melchor_cervantes
+    }
+}
+
+c_arandas = {
+    2666.7.4 = { change_development_level = 8 }
+    2663.7.13 = {
+        holder = melchor_cervantes
+    }
+}
+
+c_lagos = {
+    2666.7.4 = { change_development_level = 9 }
+    2663.7.13 = {
+        holder = melchor_cervantes
+    }
+}
+
+d_queretaro = {
+    2663.7.13 = {
+        holder = gaspar_cervantes
+    }
+}
+
+c_acambaro = {
+    2666.7.4 = { change_development_level = 6 }
+    2663.7.13 = {
+        holder = gaspar_cervantes
+    }
+}
+
+c_queretaro = {
+    2666.7.4 = { change_development_level = 4 }
+    2663.7.13 = {
+        holder = gaspar_cervantes
+    }
+}
+
+c_san_juan_del_rio = {
+    2666.7.4 = { change_development_level = 9 }
+    2663.7.13 = {
+        holder = gaspar_cervantes
+    }
+}
+
+c_toliman = {
+    2666.7.4 = { change_development_level = 4 }
+    2663.7.13 = {
+        holder = gaspar_cervantes
+    }
+}
+
+d_guanajuato = {
+    2666.7.4 = { change_development_level = 4 }
+    2663.7.13 = {
+        holder = baltasar_cervantes
+    }
+}
+
+c_leon = {
+    2666.7.4 = { change_development_level = 16 }
+    2663.7.13 = {
+        holder = baltasar_cervantes
+    }
+}
+
+c_guanajuato = {
+    2666.7.4 = { change_development_level = 10 }
+    2663.7.13 = {
+        holder = baltasar_cervantes
+    }
+}
+
+c_dolores_hidalgo = {
+    2666.7.4 = { change_development_level = 7 }
+    2663.7.13 = {
+        holder = baltasar_cervantes
+    }
+}
+
+c_iturbide = {
+    2666.7.4 = { change_development_level = 5 }
+	2631.1.1 = {
+		holder = damian_de_iturbide
+		liege = d_guanajuato
+	}
+    2665.4.19 = {
+        holder = agustin_de_iturbide_2
+
+    }
+}
+
+c_celaya = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = diego_sircoipan
+		liege = d_guanajuato
+    }
+}
+
+c_irapuato = {
+    2666.7.4 = { change_development_level = 8 }
+    2666.7.4 = {
+        holder = diego_sircoipan
+		liege = d_guanajuato
+    }
+}
+
+c_salamanca = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = diego_sircoipan
+		liege = d_guanajuato
+    }
+}
+
+#Chichimeca
+k_gran_chichimeca = {
+    2666.7.4 = { change_development_level = 0 }
+}
+d_zacatecas = {
+	2449.11.18={holder=alejo_najera}
+	2460.9.11={holder=elias_jauregui}
+	2543.10.26={holder=ernesto_jauregui}
+	2545.4.24={holder=herodes_jauregui_2}
+	2565.2.17={holder=0}
+	2566.7.24={holder=plutarco_jauregui_3}
+	2617.10.13={holder=elias_jauregui_3}
+	2619.7.10={holder=herodes_jauregui}
+	2619.9.4={holder=0}
+    2666.7.4 = {
+        holder = yuawi_naraacaxi_1
+    }
+}
+
+c_zacatecas = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = david_ricardo
+        liege = d_zacatecas
+    }
+}
+
+c_jerez = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = david_ricardo
+        liege = d_zacatecas
+    }
+}
+
+c_nochistlan = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = aguayo_aguilar
+        liege = d_zacatecas
+    }
+}
+
+c_tlaltenango = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = aguayo_aguilar
+        liege = d_zacatecas
+    }
+}
+
+c_colotlan = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = yuawi_naraacaxi_1
+    }
+}
+
+c_fresnillo = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = eduarda_quintanilla
+        liege = d_zacatecas    }
+}
+
+c_sombrerete = {
+    2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = eduarda_quintanilla
+        liege = d_zacatecas    }
+}
+
+d_san_luis_potosi = {
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_san_luis_potosi = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_matehuala = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = inocencio_lara_1
+        liege = d_san_luis_potosi
+    }
+}
+
+c_loreto = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_reyes = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_salinas = {
+    2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_charcas = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = felipe_canales_1
+    }
+}
+
+c_cedral = {
+    2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = inocencio_lara_1
+        liege = d_san_luis_potosi
+    }
+}
+
+c_aguanaval = {
+    2666.7.4 = { change_development_level = 0 }
+    2666.7.4 = {
+        holder = herodes_jauregui
+        liege = d_san_luis_potosi
+    }
+}
+
+c_mazapil = {
+    2666.7.4 = { change_development_level = 0 }
+	2619.9.4 = {
+        holder = herodes_jauregui
+        liege = d_san_luis_potosi
+    }
+}
+
+d_alta_huasteca = {
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+c_maiz = {
+    2666.7.4 = { change_development_level = 1 }
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+c_rioverde = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+c_cienga = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+c_tamazunchale = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+c_ciudad_valles = {
+    2666.7.4 = { change_development_level 8 }
+    2666.7.4 = {
+        holder = quetzaly_xareni
+    }
+}
+
+#Jalisco
+k_jalisco = {
+    2666.7.4 = { change_development_level = 0 }
+
+	2650.1.1 = {
+        holder = damian_minerva
+    }
+	2664.2.1 = {
+        holder = constantino_minerva
+    }
+	2664.3.30 = {
+        holder = heraclio_minerva
+    }
+}
+d_nayarit = {
+    2666.7.4 = {
+        holder = mascara_dorada
+    }
+}
+
+c_tepic = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = manny_rivera
+        liege = d_nayarit
+    }
+}
+
+c_compostela = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = mascara_dorada
+    }
+}
+
+c_ixcuintla = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = iyari_teuta
+        liege = d_nayarit
+    }
+}
+
+c_ixtlan = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = nakawe_rutuima
+        liege = d_nayarit
+    }
+}
+
+c_acaponeta = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = kukatami_yatamuri
+        liege = d_nayarit
+    }
+}
+
+c_escuinapa = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = aridoamerica_goku
+        liege = d_nayarit
+    }
+}
+
+c_vallarta = {
+    2666.7.4 = { change_development_level = 15 }
+    2666.7.4 = {
+        holder = mascara_dorada
+    }
+}
+
+d_colima = {
+    2666.7.4 = {
+        holder = pedro_paramo
+    }
+}
+
+c_colima = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = pedro_paramo
+    }
+}
+
+c_manzanillo = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = miguel_paramo
+        liege = d_colima
+    }
+}
+
+c_cihuatlan = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = juan_preciado
+        liege = d_colima
+    }
+}
+
+d_guadalajara = {
+    2666.7.4 = {
+        holder = heraclio_minerva
+    }
+}
+
+c_zapotlanejo = {
+    2666.7.4 = { change_development_level = 14 }
+    2666.7.4 = {
+        holder = heraclio_minerva
+    }
+}
+
+c_sayula = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = anacleto_morones
+        liege = d_guadalajara
+    }
+}
+d_tequila={
+	2446.10.12={holder=wenceslao_najera}
+	2480.12.3={holder=alejandro_najera}
+	2485.4.26={holder=alejo_areaga}
+	2502.2.21={holder=0}
+	2538.2.22={holder=alejo_areaga_2}
+	2540.4.24={holder=aristoteles_areaga}
+	2546.10.6={holder=edilio_areaga}
+	2554.10.26={holder=0}
+}
+c_tequila = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = guillermo_totoro
+        liege = d_guadalajara
+    }
+}
+
+c_ameca = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = javier_guisante
+        liege = d_guadalajara
+    }
+}
+
+c_autlan = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = galilea_bernal
+        liege = d_guadalajara
+    }
+}
+
+c_talpa = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = guillermo_totoro
+        liege = d_guadalajara
+    }
+}
+
+c_chapala = {
+    2666.7.4 = { change_development_level = 16 }
+    2666.7.4 = {
+        holder = heraclio_minerva
+    }
+}
+
+c_guadalajara = {
+    2666.7.4 = { change_development_level = 20 }
+    2666.7.4 = {
+        holder = heraclio_minerva
+    }
+}
+
+c_tepatitlan = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = arturo_sircoipan
+        liege = d_guadalajara
+    }
+}
+
+#Oaxaca
+k_oaxaca = {
+    2666.7.4 = { change_development_level = 0 }
+}
+
+k_oaxaca = {
+    2666.7.4 = {
+        holder = pinopiaa_quecuya
+    }
+}
+
+d_sierra_madre_del_sur = {
+    2666.7.4 = {
+        holder = pinopiaa_quecuya
+    }
+}
+
+c_yautepec = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = pinopiaa_quecuya
+    }
+}
+
+c_juchitan = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_tehuantepec
+        liege = k_oaxaca
+    }
+}
+
+c_tehuantepec = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_tehuantepec
+        liege = k_oaxaca
+    }
+}
+
+c_pochutla = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = character_c_pochutla
+        liege = k_oaxaca
+    }
+}
+
+c_juquila = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_c_pochutla
+        liege = k_oaxaca
+    }
+}
+
+c_el_corte = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = bernardina_cortes
+        liege = k_oaxaca
+    }
+}
+
+c_zaachila = {
+    2666.7.4 = { change_development_level = 3 }
+    2666.7.4 = {
+        holder = character_c_zaachila
+        liege = k_oaxaca
+    }
+}
+
+c_miahuatlan = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = pinopiaa_quecuya
+    }
+}
+
+c_oaxaca = {
+    2666.7.4 = { change_development_level = 7 }
+    2666.7.4 = {
+        holder = pinopiaa_quecuya
+    }
+}
+
+c_mixe = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = bernardina_cortes
+        liege = k_oaxaca
+    }
+}
+
+c_sierra_juarez = {
+    2666.7.4 = { change_development_level = 2 }
+    2666.7.4 = {
+        holder = bernardina_cortes
+        liege = k_oaxaca
+    }
+}
+
+#Veracruz
+k_veracruz = {
+    2666.7.4 = { change_development_level = 0 }
+}
+d_olmeca = {
+    2666.7.4 = {
+        holder = turin_cirdano
+    }
+}
+
+c_coatzacoalcos = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = character_d_catemaco
+		liege = d_olmeca
+    }
+}
+
+c_minatitlan = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = character_d_catemaco
+		liege = d_olmeca
+    }
+}
+
+c_acayucan = {
+    2666.7.4 = { change_development_level = 5 }
+    2666.7.4 = {
+        holder = turin_cirdano
+    }
+}
+
+c_las_choapas = {
+    2666.7.4 = { change_development_level = 6 }
+    2666.7.4 = {
+        holder = character_d_catemaco
+ 		liege = d_olmeca
+
+    }
+}
+
+d_sotavento = {
+	2222.11.2 = {
+		holder = miguel_aleman_4
+	}
+	2297.1.1 = {
+		holder = manuel_aleman_3
+	}
+	2362.1.1 = {
+		holder = misael_aleman_0
+	}
+	2436.1.1 = {
+		holder = daniel_aleman_3
+	}
+	2478.2.2 = {
+		holder = daniel_aleman_4
+	}
+	2540.1.1 = {
+		holder = miguel_aleman_5
+	}
+	2602.1.1 = {
+		holder = daniel_aleman_5
+	}
+	2666.7.4 = {
+        holder = wenceslao_p_y_l
+    }
+}
+c_veracruz = {
+    2666.7.4 = { change_development_level = 18 }
+    2666.7.4 = {
+        holder = wenceslao_p_y_l
+    }
+}
+
+c_orizaba = {
+    2666.7.4 = { change_development_level = 11 }
+    2666.7.4 = {
+        holder = wenceslao_p_y_l
+    }
+}
+
+c_huilango = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = carla_del_puerto
+        liege = e_mexico
+    }
+}
+
+c_los_tuxtlas = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = turin_cirdano
+    }
+}
+
+c_cosamaloapan = {
+    2666.7.4 = { change_development_level = 12 }
+    2666.7.4 = {
+        holder = turin_cirdano
+    }
+}
+
+c_tuxtepec = {
+    2666.7.4 = { change_development_level = 9 }
+    2666.7.4 = {
+        holder = marichuy_cig
+        liege = e_mexico
+    }
+}
+
+c_canada = {
+    2666.7.4 = { change_development_level = 4 }
+    2666.7.4 = {
+        holder = marichuy_cig
+        liege = e_mexico
+    }
+}

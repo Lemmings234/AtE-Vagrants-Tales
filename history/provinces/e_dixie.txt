@@ -1,0 +1,1763 @@
+#e_hcc
+	#k_tarheel
+		#d_piedmont_crescent
+			#c_charlotte
+				#b_us_nc_charlotte
+				2504 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+
+					2007.6.5 = {
+						special_building = billy_graham_library
+					}
+
+				}
+				#b_us_nc_concord
+				2505 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_gastonia
+				2503 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_indian_trail
+				2502 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_piedmont_triad
+				#b_us_nc_greensboro
+				1893 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_winston_salem
+				1896 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_high_point
+				1895 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_clemmons
+				1894 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#b_us_nc_eden
+				1897 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_rowan
+				#b_us_nc_hickory
+				3861 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_salisbury
+				3862 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#b_us_nc_statesville
+				3863 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#c_unifour
+				#b_us_nc_morganton
+				4609 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = tribal_holding
+				}
+				#b_us_nc_forest_city
+				4610 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#b_us_nc_marion
+				4611 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_yadkin
+				#b_us_nc_lenoir
+				6686 = {
+					culture = piedmontese
+					religion = omenteller
+					holding = castle_holding
+				}
+				#b_us_nc_mount_airy
+				6687 = {
+					culture = piedmontese
+					religion = omenteller
+					holding = city_holding
+				}
+				#b_us_nc_wilkesboro
+				6688 = {
+					culture = piedmontese
+					religion = omenteller
+					holding = church_holding
+				}
+		#d_triangle
+			#c_raleigh
+				#b_us_nc_raleigh
+				7392 = {
+					culture = southron
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_wilson
+				7389 = {
+					culture = southron
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_goldsboro
+				7390 = {
+					culture = southron
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_clayton
+				7391 = {
+					culture = southron
+					religion = evangelical
+					holding = none
+				}
+			#c_durham
+				#b_us_nc_durham
+				2044 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_chapel_hill
+				2042 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+					1789.12.11 = {
+						special_building = generic_university
+					}
+				}
+				#b_us_nc_roxboro
+				2043 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_rocky_mount
+				#b_us_nc_rocky_mount
+				3684 = {
+					culture = southron
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_roanoke_rapids
+				3685 = {
+					culture = southron
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_henderson
+				3683 = {
+					culture = southron
+					religion = evangelical
+					holding = church_holding
+				}
+		#d_cape_fear
+			#c_fayetteville
+				#b_us_nc_fayetteville
+				7992 = {
+					culture = lumbee
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_fort_bragg
+				7990 = {
+					culture = lumbee
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_dunn
+				7988 = {
+					culture = lumbee
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_lumberton
+				7993 = {
+					culture = lumbee
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_eastover
+				7991 = {
+					culture = lumbee
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_spring_lake
+				7989 = {
+					culture = lumbee
+					religion = evangelical
+					holding = none
+				}
+			#c_new_hanover
+				#b_us_nc_wilmington
+				2728 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_leland
+				2726 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_whiteville
+				2729 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_burgaw
+				2727 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_wake
+				#b_us_nc_apex
+				8890 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_sanford
+				8889 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_asheboro
+				8891 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#b_us_nc_siler_city
+				8888 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_uwharrie
+				#b_us_nc_pinehurst
+				6979 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_albemarle
+				6980 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_wadesboro
+				6978 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_troy
+				6981 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+		#d_inner_banks
+			#c_new_bern
+				#b_us_nc_greenville
+				5172 = {
+					culture = southron
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_new_bern
+				5171 = {
+					culture = southron
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_river_road
+				5170 = {
+					culture = southron
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_beaufort
+				#b_us_nc_tarboro
+				3366 = {
+					culture = southron
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_washington
+				3367 = {
+					culture = southron
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_williamston
+				3365 = {
+					culture = southron
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_hertford
+				#b_us_nc_ahoskie
+				8019 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_murfreesboro
+				8021 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_nc_scotland_neck
+				8020 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_lenoir
+				#b_us_nc_mount_olive
+				4356 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_wallace
+				4357 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_richlands
+				4358 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = none
+				}
+		#d_outer_banks
+			#c_croatan
+				#b_us_nc_havelock
+				4522 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_jacksonville
+				3877 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_nc_hampstead
+				3876 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = none
+				}
+			#c_albemarle
+				#b_us_nc_elizabeth_city
+				8601 = {
+					culture = southron
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_edenton
+				8602 = {
+					culture = southron
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_hatteras
+				#b_us_nc_kill_devil_hills
+				2064 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_nc_plymouth
+				2063 = {
+					culture = hoi_toider
+					religion = evangelical
+					holding = city_holding
+				}
+		#d_blue_ridge
+			#c_asheville
+				#b_us_nc_asheville
+				6118 = {
+					culture = appalachian
+					religion = omenteller
+					holding = tribal_holding
+				}
+				#b_us_nc_boone
+				6120 = {
+					culture = appalachian
+					religion = omenteller
+					holding = none
+				}
+				#b_us_nc_spruce_pine
+				6119 = {
+					culture = appalachian
+					religion = omenteller
+					holding = none
+				}
+			#c_transylvania
+				#b_us_nc_hendersonville
+				2168 = {
+					culture = piedmontese
+					religion = omenteller
+					holding = tribal_holding
+				}
+				#b_us_nc_brevard
+				2167 = {
+					culture = piedmontese
+					religion = omenteller
+					holding = none
+				}
+			#c_nantahala
+				#b_us_nc_waynesville
+				5695 = {
+					culture = cherokee
+					religion = omenteller
+					holding = tribal_holding
+				}
+				#b_us_nc_franklin
+				5692 = {
+					culture = cherokee
+					religion = omenteller
+					holding = none
+				}
+				#b_us_nc_andrews
+				5694 = {
+					culture = cherokee
+					religion = omenteller
+					holding = none
+				}
+				#b_us_tn_mccaysville
+				5693 = {
+					culture = cherokee
+					religion = omenteller
+					holding = none
+				}
+	#k_georgia
+		#d_peachtree
+			#c_atlanta
+				#b_us_ga_atlanta
+				1563 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+					2512.6.29 = {
+						special_building = leonian_walls
+					}
+				}
+			#c_fulton
+				#b_us_ga_roswell
+				5948 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_peachtree_corners
+				5949 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_gainesville
+				5950 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_dahlonega
+				5947 = {
+					culture = atlantan
+					religion = evangelical
+					holding = none
+				}
+			#c_cobb
+				#b_us_ga_marietta
+				1044 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_kennesaw
+				1045 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_rica
+				1043 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_athens
+				#b_us_ga_athens
+				5797 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_winder
+				5795 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_madison
+				5794 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_watkinsville
+				5796 = {
+					culture = atlantan
+					religion = evangelical
+					holding = none
+				}
+			#c_cartersville
+				#b_us_ga_cartersville
+				893 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_jasper
+				894 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_ellijay
+				895 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+		#d_ocmulgee
+			#c_macon
+				#b_us_ga_griffin
+				3819 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_macon
+				3820 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding #castle_holding + make county capital
+				}
+				#b_us_ga_warner_robins
+				3817 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding #city_holding
+				}
+				#b_us_ga_montezuma
+				3818 = {
+					culture = atlantan
+					religion = evangelical
+					holding = none
+				}
+			#c_carroll
+				#b_us_ga_peachtree_city
+				7115 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_carrollton
+				7113 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_newnan
+				7114 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_rockdale
+				#b_us_ga_stockbridge
+				3435 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_conyers
+				3433 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_jackson
+				3434 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_troup
+				#b_us_ga_lagrange
+				8351 = {
+					culture = atlantan
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_la_fayette
+				8348 = {
+					culture = atlantan
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_manchester
+				8350 = {
+					culture = atlantan
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_west_point
+				8349 = {
+					culture = atlantan
+					religion = evangelical
+					holding = none
+				}
+		#d_savannah #Cut a county here, rebalance so there's three baronies per county
+			#c_savannah
+				#b_us_ga_savannah
+				1868 = {
+					culture = gullah
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_rincon
+				1869 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_liberty
+				#b_us_ga_hinesville
+				8763 = {
+					culture = gullah
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_richmond_hill
+				8762 = {
+					culture = gullah
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_darien
+				8764 = {
+					culture = gullah
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_bulloch
+				#b_us_ga_statesboro
+				1252 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_millen
+				1253 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_ohoopee
+				#b_us_ga_vidalia
+				2354 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_wrightsville
+				2355 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+		#d_altamaha #Go over this whole duchy for a rebalance
+			#c_st_marys
+				#b_us_ga_st_marys
+				6350 = {
+					culture = gullah
+					religion = springsearcher
+					holding = castle_holding
+				}
+				#b_us_ga_brunswick
+				6352 = {
+					culture = gullah
+					religion = springsearcher
+					holding = city_holding
+				}
+				#b_us_ga_jesup
+				6351 = {
+					culture = gullah
+					religion = springsearcher
+					holding = church_holding
+				}
+				#b_us_ga_blackshear
+				6349 = {
+					culture = gullah
+					religion = springsearcher
+					holding = none
+				}
+			#c_valdosta
+				#b_us_ga_valdosta
+				9435 = {
+					culture = dixie
+					religion = springsearcher
+					holding = castle_holding
+				}
+				#b_us_ga_waycross
+				9433 = {
+					culture = dixie
+					religion = springsearcher
+					holding = city_holding
+				}
+				#b_us_ga_homerville
+				9437 = {
+					culture = dixie
+					religion = springsearcher
+					holding = church_holding
+				}
+				#b_us_ga_statenville
+				9436 = {
+					culture = dixie
+					religion = springsearcher
+					holding = none
+				}
+				#b_us_ga_toledo
+				9434 = {
+					culture = dixie
+					religion = springsearcher
+					holding = none
+				}
+			#c_laurens
+				#b_us_ga_dublin
+				1835 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_mcrae
+				1836 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_coffee
+				#b_us_ga_douglas
+				4985 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_baxley
+				4987 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_lumber_city
+				4986 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+		#d_sowega
+			#c_dougherty
+				#b_us_ga_albany #Move to be in c_chattahoochee and make a temple holding
+				5207 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_tifton
+				5206 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding #Change to castle_holding, make county capital
+				}
+				#b_us_ga_cordele #Rename Sylvester
+				5209 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_fitzgerald
+				5208 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+			#c_thomasville
+				#b_us_ga_moultrie
+				3808 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_thomasville
+				3807 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_bainbridge
+				3809 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_early
+				#b_us_ga_blakely
+				3570 = {
+					culture = tuskegean
+					religion = springsearcher
+					holding = castle_holding
+				}
+				#b_us_ga_donalsonville
+				3568 = {
+					culture = tuskegean
+					religion = springsearcher
+					holding = city_holding
+				}
+				#b_us_ga_newton
+				3569 = {
+					culture = tuskegean
+					religion = springsearcher
+					holding = church_holding
+				}
+			#c_chattahoochee
+				#b_us_ga_columbus
+				7205 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_buena_vista
+				7206 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+		#d_augusta #Give Augusta an extra barony
+			#c_augusta
+				#b_us_ga_augusta
+				8701 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_evans
+				8700 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_milledgeville
+				#b_us_ga_milledgeville
+				6497 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_sandersville
+				6499 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_gray
+				6498 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_oconee
+				#b_us_ga_eatonton
+				8940 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_greensboro
+				8941 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_west_warrenton
+				8939 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_washington
+				8938 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+				#b_us_ga_sparta
+				8937 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_hartwell
+				#b_us_ga_hartwell
+				2935 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_elberton
+				2938 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_ga_franklin_springs
+				2937 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_crawford
+				2936 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+	#k_alabama
+		#d_birmingham
+			#c_birmingham
+				#b_us_al_hoover
+				1549 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding #church_holding
+				}
+				#b_us_al_birmingham
+				1550 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding #castle_holding + make duchy capital
+				}
+				#b_us_al_alabaster
+				1551 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_trussville
+				11627 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_rome
+				#b_us_al_anniston
+				7387 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_rome
+				7385 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_heflin
+				7386 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_al_lineville
+				7388 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+			#c_auburn
+				#b_us_al_auburn
+				11629 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_opelika
+				4716 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding #church_holding
+				}
+				#b_us_al_tuskegee
+				4715 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_talladega
+				#b_us_al_talladega
+				5004 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding #castle_holding
+				}
+				#b_us_al_sylacauga
+				5002 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_alexander_city
+				5001 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_al_dadeville
+				5003 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+		#d_nickajack
+			#c_huntsville
+				#b_us_al_huntsville
+				5331 = {
+					culture = appalachian
+					religion = revelationist
+					holding = tribal_holding
+				}
+				#b_us_al_florence
+				5330 = {
+					culture = appalachian
+					religion = revelationist
+					holding = none
+				}
+				#b_us_al_estillfork
+				5329 = {
+					culture = appalachian
+					religion = revelationist
+					holding = none
+				}
+				#b_us_al_scottsboro
+				5332 = {
+					culture = appalachian
+					religion = revelationist
+					holding = none
+				}
+			#c_winston
+				#b_us_al_decatur
+				4642 = {
+					culture = appalachian
+					religion = evangelical
+					holding = tribal_holding
+				}
+				#b_us_al_cullman
+				11628 = {
+					culture = appalachian
+					religion = evangelical
+					holding = tribal_holding
+				}
+				#b_us_al_muscle_shoals
+				4643 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+				#b_us_al_haleyville
+				4644 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+			#c_etowah
+				#b_us_al_gadsden
+				6463 = {
+					culture = appalachian
+					religion = evangelical
+					holding = tribal_holding
+				}
+				#b_us_al_oneonta
+				6462 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+				#b_us_al_guntersville
+				6464 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+			#c_chickamauga
+				#b_us_ga_dalton
+				5343 = {
+					culture = appalachian
+					religion = evangelical
+					holding = tribal_holding
+				}
+				#b_us_al_fort_payne
+				5344 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+				#b_us_al_rainsville
+				5345 = {
+					culture = appalachian
+					religion = evangelical
+					holding = none
+				}
+		#d_florabama
+			#c_escambia
+				#b_us_fl_pensacola
+				1668 = {
+					culture = gulfard
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_fl_navarre
+				1667 = {
+					culture = gulfard
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_fl_crestview
+				1669 = {
+					culture = gulfard
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_appalachicola
+				#b_us_fl_panama_city
+				381 = {
+					culture = gulfard
+					religion = evangelical
+					holding = castle_holding #city_holding
+				}
+				#b_us_fl_marianna
+				6170 = {
+					culture = dixie
+					religion = springsearcher
+					holding = castle_holding #city_holding
+				}
+				#b_us_fl_port_saint_joe
+				379 = {
+					culture = gulfard
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_choctawhatchee
+				#b_us_fl_upper_grand_lagoon
+				380 = {
+					culture = gulfard
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_fl_defuniak_springs
+				6171 = {
+					culture = dixie
+					religion = springsearcher
+					holding = city_holding
+				}
+				#b_us_fl_chipley
+				6172 = {
+					culture = dixie
+					religion = springsearcher
+					holding = church_holding
+				}
+		#d_wiregrass
+			#c_barbour
+				#b_us_ga_columbus0
+				8935 = {
+					culture = dixie
+					religion = springsearcher
+					holding = castle_holding
+				}
+				#b_us_al_eufaula
+				8936 = {
+					culture = dixie
+					religion = springsearcher
+					holding = none
+				}
+			#c_montgomery
+				#b_us_al_montgomery
+				2718 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_troy
+				2717 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_luverne
+				2719 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_dothan
+				#b_us_al_dothan
+				7742 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_enterprise
+				11630 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding #city_holding
+				}
+				#b_us_al_hartford
+				7741 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding #church_holding
+				}
+				#b_us_al_headland
+				7743 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_conecuh
+				#b_us_al_andalusia
+				6291 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_brewton
+				6290 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_opp
+				6292 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_butler
+				#b_us_al_greenville
+				584 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_monroeville
+				585 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+				#b_us_al_camden
+				583 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+		#d_gulfcoast
+			#c_mobile
+				#b_us_al_mobile
+				4953 = {
+					culture = gulfard
+					religion = voodoo
+					holding = castle_holding
+					1900.1.1 = {special_building = natural_harbour}
+				}
+				#b_us_al_jackson
+				8365 = {
+					culture = gulfard
+					religion = voodoo
+					holding = castle_holding
+				}
+				#b_us_al_tillmans_corner
+				4952 = {
+					culture = gulfard
+					religion = voodoo
+					holding = church_holding
+				}
+			#c_baldwin
+				#b_us_al_daphne
+				4955 = {
+					culture = gulfard
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_bay_minette
+				4954 = {
+					culture = dixie
+					religion = evangelical
+					holding = none
+				}
+		#d_canebreak
+			#c_tuscaloosa
+				#b_us_al_tuscaloosa
+				7951 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_clanton
+				7950 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_marion
+				7952 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_autauga
+				#b_us_al_prattville
+				6726 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_fort_deposit
+				6724 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_selmont_west_selmont
+				6725 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_walker
+				#b_us_al_jasper
+				821 = {
+					culture = tuskegean
+					religion = revelationist
+					holding = castle_holding
+				}
+				#b_us_al_eutaw
+				820 = {
+					culture = tuskegean
+					religion = revelationist
+					holding = city_holding
+				}
+				#b_us_al_gordo
+				819 = {
+					culture = tuskegean
+					religion = revelationist
+					holding = church_holding
+				}
+			#c_demopolis
+				#b_us_al_demopolis
+				4496 = {
+					culture = dixie
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_al_thomasville
+				4495 = {
+					culture = dixie
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_al_grove_hill
+				4497 = {
+					culture = dixie
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_tenn_tom
+				#b_us_ms_columbus
+				7470 = {
+					culture = dixie
+					religion = revelationist
+					holding = castle_holding
+				}
+				#b_us_ms_amory
+				7471 = {
+					culture = dixie
+					religion = revelationist
+					holding = city_holding
+				}
+				#b_us_ms_iuka
+				7469 = {
+					culture = dixie
+					religion = revelationist
+					holding = church_holding
+				}
+	#k_palmetto
+		#d_lowcountry
+			#c_charleston
+				#b_us_sc_charleston
+				6547 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = castle_holding
+					1900.1.1 = {special_building = natural_harbour}
+				}
+				#b_us_sc_summerville
+				6544 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_goose_creek
+				6545 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_awendaw
+				6546 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = none
+				}
+			#c_sea_islands
+				#b_us_sc_hilton_head_island
+				3541 = {
+					culture = gullah
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_beaufort
+				3540 = {
+					culture = gullah
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_hollywood
+				3542 = {
+					culture = gullah
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_grand_strand
+				#b_us_sc_myrtle_beach
+				6672 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_conway
+				6674 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_georgetown
+				6673 = {
+					culture = sandlapper
+					religion = evangelical
+					holding = none
+				}
+		#d_upcountry
+			#c_greenville
+				#b_us_sc_greenville
+				8986 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_pickens
+				8988 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_spartanburg
+				8987 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_travelers_rest
+				8989 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_rock_hill
+				#b_us_sc_rock_hill
+				1094 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_newberry
+				1091 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_gaffney
+				1093 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_chester
+				1092 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = none
+				}
+			#c_saluda
+				#b_us_sc_greenwood
+				1877 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_edgefield
+				1878 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_abbeville
+				1879 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_clemson
+				#b_us_sc_clemson
+				5047 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_ga_toccoa
+				5045 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_ga_commerce
+				5046 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+		#d_midcountry
+			#c_congaree
+				#b_us_sc_columbia
+				5456 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_lexington
+				5455 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_saint_andrews
+				5454 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_gaston
+				5453 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = none
+				}
+			#c_pee_dee
+				#b_us_sc_florence
+				2855 = {
+					culture = sandlapper
+					religion = bahai
+					holding = castle_holding
+				}
+				#b_us_sc_hartsville
+				2856 = {
+					culture = sandlapper
+					religion = bahai
+					holding = city_holding
+				}
+				#b_us_sc_marion
+				2853 = {
+					culture = sandlapper
+					religion = bahai
+					holding = church_holding
+				}
+				#b_us_sc_bennettsville
+				2854 = {
+					culture = sandlapper
+					religion = bahai
+					holding = none
+				}
+			#c_santee
+				#b_us_sc_sumter
+				8316 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_lake_city
+				8318 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_manning
+				8317 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+			#c_waxhaws
+				#b_us_sc_lancaster
+				1363 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_lugoff
+				1365 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_bethune
+				1364 = {
+					culture = piedmontese
+					religion = evangelical
+					holding = church_holding
+				}
+		#d_sandhills
+			#c_aiken
+				#b_us_sc_aiken
+				8118 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_new_ellenton
+				8117 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+			#c_edisto
+				#b_us_sc_orangeburg
+				7794 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_walterboro
+				7795 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#b_us_sc_ridgeville
+				7796 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = church_holding
+				}
+				#b_us_sc_holly_hill
+				7793 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = none
+				}
+			#c_salkehatchie
+				#b_us_sc_allendale
+				1780 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_varnville
+				1781 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}
+				#c_barnwell
+				#b_us_sc_barnwell
+				1724 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = castle_holding
+				}
+				#b_us_sc_swansea
+				1723 = {
+					culture = tuskegean
+					religion = evangelical
+					holding = city_holding
+				}

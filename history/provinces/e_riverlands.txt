@@ -1,0 +1,1686 @@
+#e_riverlands
+#k_tennessee
+#d_west_tennessee
+#c_memphis
+#b_us_tn_memphis
+335 = {
+	culture = deltaic
+	religion = revelationist
+	holding = tribal_holding
+	1989.8.15 = {
+		special_building = memphis_pyramid_01
+	}
+}
+#b_us_tn_collierville
+336 = {
+	culture = deltaic
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_munford
+334 = {
+	culture = deltaic
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_somerville
+337 = {
+	culture = deltaic
+	religion = revelationist
+	holding = none
+}
+#c_natchez_trace
+#b_us_tn_jackson
+9045 = {
+	culture = riverlander
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_ms_corinth
+9044 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_paris
+9042 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_camden
+9043 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#c_obion
+#b_us_tn_martin
+6153 = {
+	culture = riverlander
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_brownsville
+6152 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_union_city
+6154 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_dyersburg
+6151 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#c_the_purchase
+#b_us_ky_paducah
+1012 = {
+	culture = riverlander
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_ky_murray
+1014 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_ky_hickman
+1013 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_ky_between_the_lakes
+4620 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#d_middle_tennessee
+#c_murfreesboro
+#b_us_tn_murfreesboro
+644 = {
+	culture = riverlander
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_tn_mount_juliet
+641 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_smithville
+643 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#c_tullahoma
+#b_us_tn_tullahoma
+7029 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_tn_columbia
+7027 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_shelbyville
+7030 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_pulaski
+7028 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_caney_fork
+#b_us_tn_cookeville
+5885 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_tn_mcminnville
+5886 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_livingston
+5887 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_nashville
+#b_us_tn_nashville
+642 = {
+	culture = riverlander
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_dickson
+3249 = {
+	culture = riverlander
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_waverly
+3250 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_centerville
+3251 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#c_shoal_creek
+#b_us_tn_savannah
+5668 = {
+	culture = appalachian
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_lawrenceburg
+5669 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_hohenwald
+5667 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+		#d_east_tennessee
+			#c_knox
+				#b_us_tn_knoxville (Knoxville, Knoxville, Knoxville!)
+				2074 = {
+					culture = appalachian
+					religion = revelationist
+					holding = tribal_holding
+					1982.5.1 = {
+						special_building = sunsphere_restored
+					}
+					2372.10.31 = {
+						special_building = sunsphere_ruined
+					}
+				}
+#b_us_tn_maryville
+2072 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_sevierville
+2073 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#c_chattanooga
+#b_us_tn_chattanooga
+1851 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_tn_cleveland
+9578 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_athens
+9579 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_unicoi
+#b_us_tn_johnson_city
+1731 = {
+	culture = appalachian
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_kingsport
+1729 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_greeneville
+1730 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_morristown
+1732 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#c_sequatchie
+#b_us_tn_soddy_daisy
+9580 = {
+	culture = appalachian
+	religion = revelationist
+	holding = tribal_holding
+}
+#b_us_tn_crossville
+1852 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#b_us_tn_jasper
+1850 = {
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+#k_kentucky
+#d_bluegrass
+#c_lexington
+#b_us_ky_lexington_fayette
+2825 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_frankfort
+2824 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_kenton
+#b_us_ky_covington
+7813 = {
+	culture = ohioan
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_williamstown
+7811 = {
+	culture = ohioan
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_owenton
+7812 = {
+	culture = ohioan
+	religion = ophiolatry
+	holding = none
+}
+#c_winchester
+#b_us_ky_winchester
+4960 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_paris
+4959 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_maysville
+4958 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#d_kentucky
+#c_louisville
+#b_us_ky_louisville
+7514 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_shelbyville
+7515 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_shepherdsville
+7516 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_dix
+#b_us_ky_richmond
+7686 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_danville
+7688 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_lawrenceburg
+7687 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_berea
+7689 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_bernheim
+#b_us_ky_elizabethtown
+8632 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+	1861.2.17 = {
+		special_building = fort_knox_01
+	}
+}
+#b_us_ky_leitchfield
+8633 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_hardinsburg
+8631 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_barren
+#b_us_ky_campbellsville
+7177 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_glasgow
+7178 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_columbia
+7174 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_hodgenville
+7175 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_tompkinsville
+7176 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#d_coal_fields
+#c_bowling_green_us
+#b_us_tn_hendersonville
+5385 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_bowling_green
+5387 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_tn_gallatin
+5388 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_russellville
+5386 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_clarksville
+#b_us_tn_clarksville
+4617 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_hopkinsville
+4619 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_princeton
+4618 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#c_owensboro
+#b_us_ky_owensboro
+6210 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = tribal_holding
+}
+#b_us_ky_henderson
+6211 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#b_us_ky_madisonville
+6212 = {
+	culture = riverlander
+	religion = ophiolatry
+	holding = none
+}
+#d_cumberland
+#c_ashland
+#b_us_ky_meads
+3065 = {
+	culture = riverlander
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_ky_morehead
+3066 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_paintsville
+3068 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_frenchburg
+3067 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#c_cumberland_gap
+#b_us_ky_middlesboro
+4406 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_ky_london
+4405 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_tn_oneida
+4404 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_harlan
+4407 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_pike
+#b_us_ky_pikeville
+7774 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_ky_hazard
+7773 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_jackson
+7775 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_hindman
+7772 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_pulaski
+#b_us_ky_somerset
+4079 = {
+	culture = riverlander
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_ky_monticello
+4080 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#b_us_ky_albany
+4078 = {
+	culture = riverlander
+	religion = omenteller
+	holding = none
+}
+#k_kanawha
+#d_shenandoah
+#c_rocky_gap
+#b_us_md_cumberland
+835 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_md_frostburg
+834 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#c_randolph
+#b_us_wv_elkins
+9250 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_wv_marlinton
+9249 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_spruce_knob
+#b_us_wv_moorefield
+679 = {
+	culture = appalachian
+	religion = evangelical
+	holding = tribal_holding
+}
+#b_us_wv_franklin
+678 = {
+	culture = appalachian
+	religion = evangelical
+	holding = none
+}
+#d_monongahela
+#c_monongalia
+#b_us_wv_morgantown
+6148 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_wv_buckhannon
+6150 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#b_us_wv_harrisville
+6149 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#b_us_wv_salem
+6147 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#c_wheeling
+#b_us_wv_weirton
+2007 = {
+	culture = yinzer
+	religion = galvanist
+	holding = tribal_holding
+}
+#b_us_wv_wheeling
+2005 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#b_us_pa_waynesburg
+2006 = {
+	culture = appalachian
+	religion = galvanist
+	holding = none
+}
+#c_tygart
+#b_us_oh_parkersburg
+2632 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_wv_point_pleasant
+2633 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_spencer
+2634 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#d_west_virginia
+#c_kanawha
+#b_us_wv_charleston
+2550 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_wv_huntington
+2548 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_fraziers_bottom
+2551 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_logan
+2549 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_williamson
+2547 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_greenbrier
+#b_us_wv_beckley
+6506 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_wv_lewisburg
+6508 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_oak_hill
+6507 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_gauley
+#b_us_wv_pinch
+2865 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_wv_summersville
+2863 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_glenville
+2864 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_wv_webster_springs
+2866 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#d_clinch
+#c_bristol
+#b_us_va_bristol
+7353 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_tn_church_hill
+7355 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_va_big_stone_gap
+7352 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_va_pennington_gap
+7354 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_galax
+#b_us_va_radford
+936 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_va_marion
+935 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_va_galax
+937 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#c_buchanan
+#b_us_wv_bluefield
+6380 = {
+	culture = appalachian
+	religion = omenteller
+	holding = tribal_holding
+}
+#b_us_va_richlands
+6379 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#b_us_va_wise
+6378 = {
+	culture = appalachian
+	religion = omenteller
+	holding = none
+}
+#k_illinois
+#d_sangamon
+#c_springfield
+#b_us_il_springfield
+4682 = {
+	culture = hoosier
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_lincoln
+4685 = {
+	culture = hoosier
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_beardstown
+4683 = {
+	culture = hoosier
+	religion = catholic
+	holding = none
+}
+#c_bloomington
+#b_us_il_bloomington
+4195 = {
+	culture = hoosier
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_pontiac
+7545 = {
+	culture = hoosier
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_gibson_city
+9482 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_alton
+#b_us_il_upper_alton
+2733 = {
+	culture = gatewayan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_jacksonville
+2735 = {
+	culture = gatewayan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_litchfield
+2736 = {
+	culture = gatewayan
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_carlinville
+2734 = {
+	culture = gatewayan
+	religion = catholic
+	holding = none
+}
+#c_decatur
+#b_us_il_decatur
+4193 = {
+	culture = hoosier
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_mahomet
+4194 = {
+	culture = hoosier
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_clinton
+11651 = {
+	culture = hoosier
+	religion = catholic
+	holding = city_holding
+}
+#d_little_egypt
+#c_st_clair
+#b_us_il_belleville
+6431 = {
+	culture = gatewayan
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_waterloo
+6430 = {
+	culture = gatewayan
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_highland
+6433 = {
+	culture = gatewayan
+	religion = catholic
+	holding = church_holding
+}
+#b_us_il_chester
+6429 = {
+	culture = gatewayan
+	religion = catholic
+	holding = none
+}
+#b_us_il_pinckneyville
+6432 = {
+	culture = gatewayan
+	religion = catholic
+	holding = none
+}
+#c_carbondale
+#b_us_il_carbondale
+322 = {
+	culture = ohioan
+	religion = catholic
+	holding = tribal_holding
+}
+#b_us_il_anna
+323 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#b_us_il_vienna
+321 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#c_shawnee
+#b_us_il_west_frankfort
+4050 = {
+	culture = ohioan
+	religion = catholic
+	holding = tribal_holding
+}
+#b_us_il_harrisburg
+320 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#b_us_il_carmi
+5127 = {
+	culture = riverlander
+	religion = revelationist
+	holding = none
+}
+#c_mount_vernon
+#b_us_il_centralia
+4048 = {
+	culture = hoosier
+	religion = catholic
+	holding = tribal_holding
+}
+#b_us_il_mount_vernon
+4046 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#b_us_il_salem
+4049 = {
+	culture = riverlander
+	religion = catholic
+	holding = none
+}
+#d_chambana
+#c_champaign
+#b_us_il_champaign
+432 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_il_danville
+434 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_il_paris
+431 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_in_clinton
+433 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_kankakee
+#b_us_il_kankakee
+226 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_il_morris
+223 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_il_limestone
+225 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_il_gilman
+224 = {
+	culture = chicagoan
+	religion = galvanist
+	holding = none
+}
+#c_ford
+#b_us_il_rossville
+9483 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_il_watseka
+9481 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_il_hoopeston
+9484 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#d_forgottonia
+#c_rock_island
+#b_us_il_rock_island
+6035 = {
+	culture = heartlander
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_galesburg
+6033 = {
+	culture = heartlander
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_aledo
+6034 = {
+	culture = heartlander
+	religion = catholic
+	holding = church_holding
+}
+#c_quincy
+#b_us_il_quincy
+9204 = {
+	culture = heartlander
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_pittsfield
+9203 = {
+	culture = heartlander
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_rushville
+9205 = {
+	culture = heartlander
+	religion = catholic
+	holding = church_holding
+}
+#c_macomb
+#b_us_il_macomb
+7924 = {
+	culture = heartlander
+	religion = catholic
+	holding = castle_holding
+}
+#b_us_il_hamilton
+7923 = {
+	culture = heartlander
+	religion = catholic
+	holding = city_holding
+}
+#b_us_il_oquawka
+7925 = {
+	culture = heartlander
+	religion = catholic
+	holding = church_holding
+}
+#k_ohio_valley
+#d_indianapolis
+#c_indianapolis
+#b_us_in_indianapolis
+7749 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_carmel
+7748 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_plainfield
+7750 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_in_zionsville
+11660 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_in_fishers
+11661 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#b_us_in_greenfield
+7751 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_kokomo
+#b_us_in_kokomo
+5476 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_marion
+5477 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_elwood
+11655 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_in_frankfort
+5478 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#c_delaware
+#b_us_in_muncie
+3349 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_bluffton
+11639 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_portland
+11641 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_decatur
+3348 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_henry
+#b_us_in_richmond
+3350 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = city_holding
+}
+#b_us_in_new_castle
+11640 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = church_holding
+}
+#b_us_in_connersville
+11638 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = church_holding
+}
+#d_kentuckiana
+#c_vanderburgh
+#b_us_in_evansville
+3762 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_princeton
+3763 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_tell_city
+3760 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_boonville
+11645 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#c_clark
+#b_us_in_jeffersonville
+183 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_new_albany
+185 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_seymour
+180 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#c_patoka
+#b_us_in_bedford
+184 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_jasper
+3761 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_salem
+181 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#d_miami_valley
+#c_cincinnati
+#b_us_oh_cincinnati
+416 = {
+	culture = ohioan
+	religion = reforged
+	holding = castle_holding
+	1933.3.19 = {
+		special_building = union_hall_of_justice
+	}
+}
+#b_us_oh_hamilton
+415 = {
+	culture = ohioan
+	religion = reforged
+	holding = city_holding
+}
+#b_us_oh_oxford
+414 = {
+	culture = ohioan
+	religion = reforged
+	holding = church_holding
+}
+#b_us_oh_goshen
+11636 = {
+	culture = ohioan
+	religion = reforged
+	holding = none
+}
+#c_dayton
+#b_us_oh_dayton
+4276 = {
+	culture = ohioan
+	religion = imaginerian
+	holding = castle_holding
+}
+#b_us_oh_troy
+4275 = {
+	culture = ohioan
+	religion = imaginerian
+	holding = city_holding
+}
+#b_us_oh_xenia
+4274 = {
+	culture = ohioan
+	religion = imaginerian
+	holding = church_holding
+}
+#b_us_oh_eaton
+4273 = {
+	culture = ohioan
+	religion = imaginerian
+	holding = none
+}
+#c_auglaize
+#b_us_oh_lima
+9168 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_sidney
+9170 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_bellefontaine
+9171 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_oh_ada
+9169 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#c_little_miami
+#b_us_oh_springfield
+8970 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_marysville
+8971 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_london
+8969 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#d_olentangy
+#c_columbus
+#b_us_oh_columbus
+6583 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_westerville
+6585 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_lancaster
+6586 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#b_us_oh_reynoldsburg
+6584 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#b_us_oh_mount_vernon
+11657 = {
+	culture = buckeye
+	religion = galvanist
+	holding = none
+}
+#c_mansfield
+#b_us_oh_mansfield
+1521 = {
+	culture = buckeye
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_oh_delaware
+1523 = {
+	culture = buckeye
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_oh_marion
+1522 = {
+	culture = buckeye
+	religion = galvanist
+	holding = church_holding
+}
+#c_licking
+#b_us_oh_newark
+2955 = {
+	culture = buckeye
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_oh_zanesville
+2954 = {
+	culture = buckeye
+	religion = anabaptist
+	holding = city_holding
+}
+#b_us_oh_logan
+2956 = {
+	culture = buckeye
+	religion = anabaptist
+	holding = church_holding
+}
+#c_tuscawaras
+#b_us_oh_new_philadelphia
+3462 = {
+	culture = buckeye
+	religion = anabaptist
+	holding = castle_holding
+}
+#b_us_oh_ashland
+3465 = {
+	culture = buckeye
+	religion = anabaptist
+	holding = city_holding
+}
+#d_wabash
+#c_tippecanoe
+#b_us_in_lafayette
+270 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_rensselaer
+268 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_monticello
+267 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_fowler
+269 = {
+	culture = hoosier
+	religion = galvanist
+	holding = none
+}
+#c_vigo
+#b_us_in_terre_haute
+6588 = {
+	culture = hoosier
+	religion = galvanist
+	holding = castle_holding
+}
+#b_us_in_crawfordsville
+6587 = {
+	culture = hoosier
+	religion = galvanist
+	holding = city_holding
+}
+#b_us_in_covington
+6589 = {
+	culture = hoosier
+	religion = galvanist
+	holding = church_holding
+}
+#c_vincennes
+#b_us_in_vincennes
+4433 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_linton
+4432 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_ellettsville
+4431 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = none
+}
+#d_monroe
+#c_monroe
+#b_us_in_bloomington
+6759 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_franklin
+6758 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_martinsville
+6760 = {
+	culture = hoosier
+	religion = hearthtender
+	holding = none
+}
+#c_bartholomew
+#b_us_in_columbus
+5697 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_in_greensburg
+5698 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_in_rising_sun
+5696 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#d_lower_ohio
+#c_chillicothe
+#b_us_oh_chillicothe
+2405 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_oh_washington_court_house
+2406 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_oh_wilmington
+2404 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#c_portsmouth
+#b_us_oh_portsmouth
+2403 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_oh_georgetown
+2402 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#c_gallia
+#b_us_oh_wheelersburg
+9549 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_oh_jackson
+9550 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_wv_lesage
+9551 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#c_zaleski
+#b_us_oh_athens
+7839 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = tribal_holding
+}
+#b_us_oh_marietta
+7840 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}
+#b_us_oh_gallipolis
+7838 = {
+	culture = ohioan
+	religion = hearthtender
+	holding = none
+}

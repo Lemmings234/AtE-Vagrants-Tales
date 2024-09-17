@@ -1,0 +1,1096 @@
+#e_chile
+#k_chile
+#d_santiago
+#c_santiago_cl
+#b_cl_12_santiago
+4007 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+	1888.6.21 = {
+		special_building = generic_university
+	}
+}
+#c_puente_alto
+#b_cl_12_alto
+6776 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_12_nevado
+6774 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#b_cl_12_campamento_embalse_el_yeso
+6777 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#b_cl_12_corrales
+6775 = {
+	culture = centrino
+	religion = animism
+	holding = none
+}
+#c_talagante
+#b_cl_12_pe_aflor
+2701 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_12_buin
+2700 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#c_melipilla
+#b_cl_12_melipilla
+9015 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_01_colliguay
+9016 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#b_cl_12_santa_mar_a
+9017 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#c_chacabuco
+#b_cl_12_lampa
+8340 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_colina
+8339 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#b_cl_tiltil
+8341 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#d_valparaiso
+#c_valparaiso
+#b_cl_valparaiso
+6938 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+	1900.1.1 = {special_building = natural_harbour}
+}
+#b_cl_villa_alemana
+6940 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#b_cl_01_maitencillo
+6939 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#c_san_felipe_cl
+#b_cl_01_san_felipe
+6936 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_01_complejo_los_libertadores
+6935 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#c_san_antonio
+#b_cl_01_san_antonio
+7129 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_01_el_convento
+7130 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#c_quillota
+#b_cl_01_quillota
+8483 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_01_llaillay
+8482 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#b_cl_01_el_asiento
+8481 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#c_petorca
+#b_cl_01_la_ligua
+3479 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_01_alicahue
+3478 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#b_cl_01_las_palmas
+3480 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#d_maule
+#c_talca
+#b_cl_11_talca
+2577 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_11_san_clemente
+2579 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_11_corinto
+2576 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#b_cl_11_la_mina_fortuna
+2578 = {
+	culture = huaso
+	religion = animism
+	holding = none
+}
+#c_curico
+#b_cl_11_curic_
+3757 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_11_rauco
+3756 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_11_teno
+3758 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#b_cl_11_los_cipreses
+3759 = {
+	culture = huaso
+	religion = animism
+	holding = none
+}
+#c_linares_cl
+#b_cl_11_linares
+6611 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_11_parral
+6609 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_11_san_javier
+6610 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#c_constitucion
+#b_cl_11_constituci_n
+3721 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_11_los_zapallos
+3722 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_11_los_cristales
+3723 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#c_cauquenes
+#b_cl_11_cauquenes
+6250 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_11_bodega
+6249 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#b_cl_11_la_aldea
+6251 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#d_ohiggins
+#c_cachapoal
+#b_cl_08_rancagua
+8957 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+	1800.1.1 = {special_building = el_teniente_mines_01} 
+}
+#b_cl_08_san_vicente_de_tagua_tagua
+8955 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_08_rengo
+8958 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#b_cl_donihue
+8956 = {
+	culture = huaso
+	religion = animism
+	holding = none
+}
+#b_cl_las_cabras
+8959 = {
+	culture = huaso
+	religion = animism
+	holding = none
+}
+#c_colchagua
+#b_cl_08_santa_cruz
+9419 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_08_chimbarongo
+9417 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_san_fernando
+9418 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#c_cardenal_caro
+#b_cl_pichilemu
+3308 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_marchihue
+3307 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#b_cl_navidad
+3309 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#d_nuble
+#c_chillan
+#b_cl_18_chill_n
+1842 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_06_chequenes
+1841 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_06_rinconada
+1843 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#c_quirihue
+#b_cl_18_quirihue
+2393 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_06_el_sauce
+2394 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_06_coyanco_chico
+2395 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#c_punilla
+#b_cl_18_san_carlos
+5638 = {
+	culture = huaso
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_18_coihueco
+5639 = {
+	culture = huaso
+	religion = animism
+	holding = city_holding
+}
+#b_cl_06_los_filos
+5637 = {
+	culture = huaso
+	religion = animism
+	holding = church_holding
+}
+#k_araucania
+#d_biobio
+#c_concepcion_chile
+#b_cl_06_concepcion
+4261 = {
+	culture = huaso
+	religion = syncado
+	holding = castle_holding
+}
+#b_cl_06_coronel
+4260 = {
+	culture = huaso
+	religion = syncado
+	holding = city_holding
+}
+#b_cl_06_hualqui
+4262 = {
+	culture = huaso
+	religion = syncado
+	holding = church_holding
+}
+#c_biobio
+#b_cl_06_los_ngeles
+2840 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_06_nacimiento
+2837 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_06_mulch_n
+2838 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = church_holding
+}
+#b_cl_06_santa_luisa
+2839 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = none
+}
+#c_arauco
+#b_cl_06_curanilahue
+1450 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_06_ca_ete
+1452 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_tirua
+1451 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = church_holding
+}
+#d_araucania
+#c_temuco
+#b_cl_04_temuco
+1057 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_04_loncoche
+1058 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_04_vilc_n
+1059 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = church_holding
+}
+#c_angol
+#b_cl_04_angol
+815 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_04_victoria
+818 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_04_comunidad_colluqueo
+817 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = church_holding
+}
+#b_cl_04_los_coihues
+816 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = none
+}
+#c_villarrica
+#b_cl_04_villarrica
+9502 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_04_ba_os_de_balboa
+9503 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_04_momolluco
+9504 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = church_holding
+}
+#c_carahue
+#b_cl_04_nueva_imperial
+4545 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_cholchol
+4543 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = church_holding
+}
+#b_cl_tolten
+4544 = {
+	culture = reifunche
+	religion = nguillatun
+	holding = city_holding
+}
+#d_los_lagos
+#c_puerto_montt
+#b_cl_14_puerto_montt
+1249 = {
+	culture = chilote
+	religion = archipelagic
+	holding = castle_holding
+}
+#b_cl_14_puerto_varas
+1250 = {
+	culture = chilote
+	religion = archipelagic
+	holding = city_holding
+}
+#b_cl_14_puelo_alto
+1251 = {
+	culture = chilote
+	religion = archipelagic
+	holding = church_holding
+}
+#c_osorno
+#b_cl_14_osorno
+1863 = {
+	culture = chilote
+	religion = archipelagic
+	holding = castle_holding
+}
+#b_cl_14_purranque
+1861 = {
+	culture = chilote
+	religion = archipelagic
+	holding = city_holding
+}
+#b_cl_14_caleta_condor
+1862 = {
+	culture = chilote
+	religion = archipelagic
+	holding = church_holding
+}
+#c_chiloe
+#b_cl_14_castro
+9091 = {
+	culture = chilote
+	religion = archipelagic
+	holding = castle_holding
+}
+#b_cl_14_ancud
+9093 = {
+	culture = chilote
+	religion = archipelagic
+	holding = city_holding
+}
+#b_cl_14_quell_n
+9092 = {
+	culture = chilote
+	religion = archipelagic
+	holding = church_holding
+}
+#c_calbuco
+#b_cl_14_calbuco
+4539 = {
+	culture = chilote
+	religion = archipelagic
+	holding = castle_holding
+}
+#b_cl_14_coligual
+4537 = {
+	culture = chilote
+	religion = archipelagic
+	holding = church_holding
+}
+#b_cl_14_cuatro_vientos
+4538 = {
+	culture = chilote
+	religion = archipelagic
+	holding = city_holding
+}
+#c_chaiten
+#b_cl_14_chait_n
+7267 = {
+	culture = chilote
+	religion = archipelagic
+	holding = castle_holding
+}
+#b_cl_14_futaleuf_
+7268 = {
+	culture = chilote
+	religion = archipelagic
+	holding = city_holding
+}
+#b_cl_14_chequeigua
+7269 = {
+	culture = chilote
+	religion = archipelagic
+	holding = church_holding
+}
+#d_los_rios
+#c_valdivia
+#b_cl_17_valdivia
+6859 = {
+	culture = chilote
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_17_el_arenal
+6860 = {
+	culture = chilote
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_17_cuinco_norte
+6861 = {
+	culture = chilote
+	religion = nguillatun
+	holding = church_holding
+}
+#c_la_union
+#b_cl_17_la_uni_n
+9469 = {
+	culture = chilote
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_17_r_o_bueno
+9470 = {
+	culture = chilote
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_17_puyehue
+9471 = {
+	culture = chilote
+	religion = nguillatun
+	holding = church_holding
+}
+#c_panguipulli
+#b_cl_17_panguipulli
+6019 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = castle_holding
+}
+#b_cl_17_santa_rosa
+6021 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = city_holding
+}
+#b_cl_17_el_dep_sito
+6020 = {
+	culture = pewenche
+	religion = nguillatun
+	holding = church_holding
+}
+#k_atacama
+#d_antofagasta
+#c_antofagasta
+#b_cl_03_antofagasta
+1498 = {
+	culture = atacameno
+	religion = syncado
+	holding = castle_holding
+	
+}
+#b_cl_03_algorta
+1499 = {
+	culture = atacameno
+	religion = syncado
+	holding = city_holding
+}
+#b_cl_03_mejillones
+1500 = {
+	culture = atacameno
+	religion = syncado
+	holding = church_holding
+}
+#c_calama
+#b_cl_03_calama
+630 = {
+	culture = atacameno
+	religion = syncado
+	holding = castle_holding
+}
+#b_cl_03_san_pedro_de_atacama
+631 = {
+	culture = atacameno
+	religion = syncado
+	holding = city_holding
+}
+#b_cl_03_agua_larga
+629 = {
+	culture = atacameno
+	religion = syncado
+	holding = church_holding
+	1800.1.1 = {special_building = collahuasi_mines_01} 
+}
+#c_tocopilla
+#b_cl_03_tocopilla
+1737 = {
+	culture = atacameno
+	religion = syncado
+	holding = castle_holding
+}
+#b_cl_03_chitigua
+1736 = {
+	culture = atacameno
+	religion = syncado
+	holding = city_holding
+}
+#b_cl_03_bomba_vergara
+1738 = {
+	culture = atacameno
+	religion = syncado
+	holding = church_holding
+}
+#c_taltal
+#b_cl_03_taltal
+8111 = {
+	culture = atacameno
+	religion = syncado
+	holding = castle_holding
+}
+#b_cl_03_r_o_fr_o
+8109 = {
+	culture = atacameno
+	religion = syncado
+	holding = city_holding
+	
+}
+#b_cl_03_aguas_blancas
+8110 = {
+	culture = atacameno
+	religion = syncado
+	holding = church_holding
+	1800.1.1 = {special_building = escondida_mines_01}
+}
+#d_coquimbo
+#c_coquimbo
+#b_cl_07_coquimbo
+3431 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_la_serena
+3430 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_07_los_lobitos
+3432 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_ovalle
+#b_cl_07_ovalle
+5657 = {
+	culture = almagreno
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_07_el_guacho
+5658 = {
+	culture = almagreno
+	religion = animism
+	holding = city_holding
+}
+#b_cl_07_socos
+5659 = {
+	culture = almagreno
+	religion = animism
+	holding = church_holding
+}
+#c_illapel
+#b_cl_07_illapel
+6174 = {
+	culture = centrino
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_07_salamanca
+6175 = {
+	culture = centrino
+	religion = animism
+	holding = city_holding
+}
+#b_cl_07_la_posada
+6176 = {
+	culture = centrino
+	religion = animism
+	holding = church_holding
+}
+#b_cl_07_la_raya
+6173 = {
+	culture = centrino
+	religion = animism
+	holding = none
+}
+#c_monte_patria
+#b_cl_07_monte_patria
+3132 = {
+	culture = almagreno
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_07_la_capilla
+3131 = {
+	culture = almagreno
+	religion = animism
+	holding = church_holding
+}
+#b_cl_07_horc_n
+3133 = {
+	culture = almagreno
+	religion = animism
+	holding = city_holding
+}
+#c_elqui
+#b_cl_07_vicu_a
+1514 = {
+	culture = almagreno
+	religion = animism
+	holding = castle_holding
+}
+#b_cl_07_algarrobo
+1513 = {
+	culture = almagreno
+	religion = animism
+	holding = city_holding
+}
+#b_cl_07_los_linderos
+1512 = {
+	culture = almagreno
+	religion = animism
+	holding = church_holding
+}
+#d_tarapaca
+#c_iquique
+#b_cl_15_iquique
+7378 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = castle_holding
+	1800.1.1 = {special_building = guano_mine_1}
+}
+#b_cl_15_soledad
+7379 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_cl_15_salina_pampa_nevada
+7380 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = city_holding
+}
+#c_arica
+#b_cl_16_arica
+3782 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_16_el_morro
+3781 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_cl_16_achuelo
+3783 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = city_holding
+}
+#c_charana
+#b_bo_04_chara_a
+3019 = {
+	culture = atacameno
+	religion = pachamama_religion
+	holding = castle_holding
+}
+#b_cl_16_catanave
+3018 = {
+	culture = atacameno
+	religion = pachamama_religion
+	holding = city_holding
+}
+#b_cl_16_ajata
+3020 = {
+	culture = atacameno
+	religion = pachamama_religion
+	holding = church_holding
+}
+#c_huara
+#b_cl_15_altuza
+8054 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_16_aico
+8052 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_cl_15_luz
+8053 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = city_holding
+}
+#c_almonte
+#b_cl_15_puquio_cumi_a
+5608 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_15_cahuisa
+5605 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_15_porquesa
+5607 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_cl_15_vinto
+5606 = {
+	culture = atacameno
+	religion = camino_estelar
+	holding = none
+}
+#d_copiapo
+#c_copiapo
+#b_cl_05_copiap_
+619 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_05_chulo
+620 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
+#b_cl_05_castillo
+621 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#c_vallenar
+#b_cl_05_vallenar0
+3674 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_05_punta_de_rieles
+3672 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_05_plata_alta
+3673 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_chanaral
+#b_cl_05_diego_de_almagro
+361 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_03_altamira
+360 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_05_cha_aral
+362 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_huasco
+#b_cl_05_huasco
+8370 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_05_palo_blanco
+8369 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_05_miraflores
+8371 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
+#c_caldera
+#b_cl_05_f_rtil
+8878 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = castle_holding
+}
+#b_cl_05_majada_el_tomate
+8876 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = city_holding
+}
+#b_cl_05_cerro_im_n
+8877 = {
+	culture = almagreno
+	religion = camino_estelar
+	holding = church_holding
+}
