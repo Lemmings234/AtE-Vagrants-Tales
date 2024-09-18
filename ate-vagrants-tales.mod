@@ -1,9 +1,7 @@
 version="v0.1.0.1008"
 tags={
 	"Total Conversion"
-}
-dependencies={
-	"ate-ck3"
+	"Cultures"
 }
 name="After the End CK3: Vagrants' Tales"
 picture="thumbnail.png"
