@@ -5,7 +5,6 @@ tags={
 }
 name="After the End CK3: Vagrants' Tales"
 picture="thumbnail.png"
-replace_path="history/characters"
 replace_path="history/cultures"
 supported_version="1.12.5*"
 path="mod/AtE-Vagrants-Tales"
