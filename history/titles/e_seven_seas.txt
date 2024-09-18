@@ -1,8 +1,0 @@
-﻿#Grand Bermuda
-
-c_bermuda = {
-	2666.7.4 = { change_development_level = 2 }
-    2666.7.4 = {
-        holder = character_c_bermuda
-    }
-}
