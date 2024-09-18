@@ -102,6 +102,8 @@ is_african_descended_faith = {
 			hostility_override_tenet_afro_diasporic_syncretism = 2
 			afro_diasporic_syncretic_recipient_opinion_active = yes
 			opinion_of_afro_diasporic_syncretic_actor_opinion_active = 30
+			
+			hostility_override_special_doctrine_is_african_descended_faith = 2
 		}
 	}
 }

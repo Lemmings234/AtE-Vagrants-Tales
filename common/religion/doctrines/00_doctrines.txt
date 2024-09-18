@@ -1012,7 +1012,8 @@ doctrine_head_of_faith = {
 			holy_order_head_of_faith = yes
 			spiritual_head_of_faith_claims = yes
 			spiritual_head_of_faith_gold = yes
-			no_holy_orders_til_hof = yes
+			#experiment: let's see what happens if the first holy order actually becomes the hof
+			#no_holy_orders_til_hof = yes
 		}
 	}
 }
@@ -1554,10 +1555,14 @@ doctrine_holy_building = {
 
 	doctrine_building_cathedral = {
 		is_shown = {
-			faith_building_tradition_cathedral = yes
+			always = yes
+
 		}
 		can_pick = {
-			faith_building_tradition_cathedral = yes
+			custom_description = {
+				text = requires_cathedral_related_tenet
+				faith_building_tradition_cathedral_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1580,7 +1585,10 @@ doctrine_holy_building = {
 			faith_building_tradition_mosque = yes
 		}
 		can_pick = {
-			faith_building_tradition_mosque = yes
+			custom_description = {
+				text = requires_mosque_related_tenet
+				faith_building_tradition_mosque_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1601,10 +1609,13 @@ doctrine_holy_building = {
 
 	doctrine_building_synagogue = {
 		is_shown = {
-			faith_building_tradition_synagogue = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_synagogue = yes
+			custom_description = {
+				text = requires_synagogue_related_tenet
+				faith_building_tradition_synagogue_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1649,10 +1660,13 @@ doctrine_holy_building = {
 
 	doctrine_building_temple_fire = {
 		is_shown = {
-			faith_building_tradition_temple_fire = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_temple_fire = yes
+			custom_description = {
+				text = requires_temple_fire_related_tenet
+				faith_building_tradition_temple_fire_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1673,10 +1687,13 @@ doctrine_holy_building = {
 
 	doctrine_building_temple_harmonic = {
 		is_shown = {
-			faith_building_tradition_temple_harmonic = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_temple_harmonic = yes
+			custom_description = {
+				text = requires_temple_harmonic_related_tenet
+				faith_building_tradition_temple_harmonic_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1697,10 +1714,13 @@ doctrine_holy_building = {
 
 	doctrine_building_temple_pagan = {
 		is_shown = {
-			faith_building_tradition_temple_pagan = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_temple_pagan = yes
+			custom_description = {
+				text = requires_temple_pagan_related_tenet
+				faith_building_tradition_temple_pagan_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1721,10 +1741,13 @@ doctrine_holy_building = {
 
 	doctrine_building_temple_civic = {
 		is_shown = {
-			faith_building_tradition_temple_civic = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_temple_civic = yes
+			custom_description = {
+				text = requires_temple_civic_related_tenet
+				faith_building_tradition_temple_civic_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1745,10 +1768,13 @@ doctrine_holy_building = {
 
 	doctrine_building_temple_other = {
 		is_shown = {
-			faith_building_tradition_temple_other = yes
+			always = yes
 		}
 		can_pick = {
-			faith_building_tradition_temple_other = yes
+			custom_description = {
+				text = requires_temple_other_related_tenet
+				faith_building_tradition_temple_other_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low
@@ -1767,12 +1793,15 @@ doctrine_holy_building = {
 		}
 	}
 
-	doctrine_building_grove = {
+	doctrine_building_grove = { #To be implemented
 		is_shown = {
 			always = no
 		}
 		can_pick = {
-			faith_building_tradition_grove = yes
+			custom_description = {
+				text = requires_grove_related_tenet
+				faith_building_tradition_grove_can_select = yes
+			}
 		}
 		piety_cost = {
 			value = faith_doctrine_cost_low

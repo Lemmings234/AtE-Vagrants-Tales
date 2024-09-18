@@ -118,7 +118,7 @@ doctrine_abbasiyya_tolerance = {
 doctrine_medicine_tolerance = {
 	group = "main_group"
 	is_available_on_create = {
-		religion_tag = medicine_religion
+		religion_tag = woodlands_religion
 	}
 	
 	special_doctrine_seven_fires = {
@@ -141,6 +141,9 @@ doctrine_dene_tolerance = {
 	special_doctrine_na_dene_traditions = {
 		parameters = {
 			hostility_override_special_doctrine_na_dene_traditions = 1
+		}
+		traits = {
+			virtues = { twin }
 		}
 	}
 }
@@ -289,6 +292,22 @@ doctrine_satanism_virsin = {
 		traits = {
 			virtues = { brave }
 			sins = { craven }
+		}
+	}
+}
+
+doctrine_alcohol_virsin_group = {
+	group = "theology"
+
+	is_available_on_create = {
+		OR = {
+			has_doctrine = doctrine_alcohol_virsin
+		}
+	}
+
+	doctrine_alcohol_virsin = {
+		traits = {
+			sins = { drunkard }
 		}
 	}
 }

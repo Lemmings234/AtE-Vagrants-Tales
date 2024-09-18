@@ -46,7 +46,7 @@
 	}
 
 	custom_faith_icons = {
-		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259 custom260 custom261 custom262 custom263
     }
 
 	holy_order_maa = { mounties }
@@ -231,6 +231,8 @@
 			holy_site = charlottetown
 
 			doctrine = special_doctrine_lest_we_forget
+			
+			doctrine = special_doctrine_not_allowed_to_hof
 
 			#tenets
 			doctrine = tenet_jus_ad_bellum
@@ -725,6 +727,142 @@
 				PantheonTermHasHave = pantheon_term_have
 				
 				#holy_order_maa = { Peacekeeper }
+			}
+		}
+		avrodite = {
+			color = { 255 98 98 }
+			icon = avrodite
+			
+			reserved_male_names = { 
+				Aichemes Alexis Amiens Argonne Arras Arthur Avro Belgico Calais Cambrai Crae Dieppe Dunkirk Entente Flanders Fox Gallant General George Holland John Johnny Julien Kapyong Kitchener Lark Laurel Leo Llandovery Lundy Lyon Major Major Marne Mons Moreuil Normandy Ortona Papaver Passchendaele Private Rifles Somme Sorrel Spitfire Terry Triumph Verdun Victor Vimy Wilfrid Wilson Wimereux Ypres Zeppelin
+			}
+			
+			reserved_female_names = {
+				Ally Amienessa Argonnia Armistice Arrasina Belgica Calaisa Cambraia Diepperia Dunkirkia Eleanor Elizabeth Entente Flandra Flowerdew Fox Gallantry Hollina Joan Juno Kapyongela Lark Llandovera Lundina Maple Monsalene Moreuilia Normanna Ortonia Passchendalia Peace Piper Poppy Sommeria Sorrellia Triumph Verdunia Victoria Vimy Ypresina Zeppelina
+			}
+			
+			holy_site = halifax
+			holy_site = ottawa
+			holy_site = toronto
+			holy_site = trenton_cfb
+			holy_site = bagotville_cfb
+			holy_site = cold_lake_cfb
+			
+			doctrine = special_doctrine_hold_the_torch_high
+			
+			#tenets
+			doctrine = tenet_the_guilt_we_bear
+			doctrine = tenet_speaking_to_the_stars
+			doctrine = tenet_exaltation_of_pain
+			
+			#main
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_fundamentalist
+			doctrine = doctrine_theocracy_temporal
+			doctrine = doctrine_holy_order_head
+			
+			#marriage
+			doctrine = doctrine_divorce_approval
+			
+			#Crimes
+			doctrine = doctrine_adultery_men_criminal
+			doctrine = doctrine_adultery_women_criminal
+			doctrine = doctrine_deviancy_criminal
+			doctrine = doctrine_kinslaying_accepted
+			
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_marriage_disallowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			doctrine = doctrine_funeral_cremation
+
+			holy_order_names = {
+				{ name = "holy_order_squadron_of_the_archangel_avro" }
+				{ name = "holy_order_royal_canadian_air_force" }
+				{ name = "holy_order_avros_bombadiers" }
+				{ name = "holy_order_air_command" }
+			}
+			
+			localization = {
+				#HealthGod
+				HealthGodName = avrodite_avro
+				HealthGodNamePossessive = avrodite_avro_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = avrodite_death
+				FateGodNamePossessive = avrodite_death_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_IT
+
+				#WarGod
+				WarGodName = avrodite_avro
+				WarGodNamePossessive = avrodite_avro_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					avrodite_avro
+					remembrant_health_god_name
+					remembrant_fertility_god_name
+					remembrant_wealth_god_name
+					remembrant_household_god_name
+					remembrant_knowledge_god_name
+					remembrant_water_god_name
+					remembrant_war_god_name
+					remembrant_good_god_our_forefathers
+					remembrant_good_god_martyr_majors
+					remembrant_good_god_martyr_coleman
+					remembrant_good_god_maurice_richard
+					remembrant_good_god_gretzky
+				}
+
+				EvilGodNames = {
+					remembrant_devil_name
+					remembrant_trickster_god_name
+					remembrant_evil_god_evil_in_the_hearts_of_man
+					remembrant_evil_god_the_four
+					avrodite_death
+				}
+
+				DeathDeityName = avrodite_death
+				DeathDeityNamePossessive = avrodite_death_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_IT
+				DeathDeityHerHis = CHARACTER_HERHIS_ITS
+				DeathDeityHerHim = CHARACTER_HERHIM_IT
+
+				ReligiousSymbol = avrodite_religious_symbol
+				DevoteeMale = avrodite_devotee
+				DevoteeMalePlural = avrodite_devoteeplural
+				DevoteeFemale = avrodite_devotee
+				DevoteeFemalePlural = avrodite_devoteeplural
+				DevoteeNeuter = avrodite_devotee
+				DevoteeNeuterPlural = avrodite_devoteeplural
+				PriestMale = avrodite_priest
+				PriestMalePlural = avrodite_priest_plural
+				PriestFemale = avrodite_priest
+				PriestFemalePlural = avrodite_priest_plural
+				PriestNeuter = avrodite_priest
+				PriestNeuterPlural = avrodite_priest_plural
+				AltPriestTermPlural = avrodite_priest_plural_alt
+				BishopMale = avrodite_bishop
+				BishopMalePlural = avrodite_bishop_plural
+				BishopFemale = avrodite_bishop
+				BishopFemalePlural = avrodite_bishop_plural
+				BishopNeuter = avrodite_bishop
+				BishopNeuterPlural = avrodite_bishop_plural
+				DivineRealm = avrodite_divine_realm
+				PositiveAfterLife = avrodite_divine_realm
+				ReligiousHeadName = avrodite_religious_head_title
+				ReligiousHeadTitleName = avrodite_religious_head_title_name
+				
+				GHWName = ghw_manuever
+				GHWNamePlural = ghw_manuevers
 			}
 		}
 	}

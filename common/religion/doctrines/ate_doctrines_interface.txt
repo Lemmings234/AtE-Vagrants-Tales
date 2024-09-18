@@ -50,6 +50,19 @@ doctrine_non_chalcedonian_set_picker = {
 	}
 }
 
+doctrine_juxtaposition_activator = {
+	group = "theology"
+	is_available_on_create = {
+		always = yes # this can be removed in an event after faith creation
+	}
+
+	special_doctrine_juxtaposition_activator = {
+		parameters = {
+			juxtaposition_active = yes
+		}
+	}
+}
+
 doctrine_inkarri_salvage_loc = {
 	group = "theology"
 

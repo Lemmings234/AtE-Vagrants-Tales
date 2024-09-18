@@ -308,48 +308,64 @@ doctrine_core_tenets = {
 		can_pick = {
 			custom_description = {
 				text = incompatible_tenet_defensive_shield_trigger
-				NOT = { doctrine:tenet_defensive_shield = { is_in_list = selected_doctrines } }
+				#NOT = { doctrine:tenet_defensive_shield = { is_in_list = selected_doctrines } }
+				NOT = { doctrine:special_doctrine_not_a_place_of_honor = { is_in_list = selected_doctrines } }
 			}
+			NOT = { doctrine:doctrine_pilgrimage_forbidden = { is_in_list = selected_doctrines } }
 		}
 
 		is_shown = {
 			always = yes
+			#TODO should be limited to faiths that have radioactive holy sites - we can actually do that!
 		}
 
 		parameters = {
 			#atom_blessings_active = yes
-			hostility_override_tenet_defensive_shield = 3
-			hostility_override_tenet_atom_worship = 1
-		}
-	}
-	tenet_defensive_shield = {
-		icon = core_tenet_consolamentum
-		piety_cost = {
-			value = faith_tenet_cost_mid
-			# Multiplier for keeping same tenet
-			if = {
-				limit = { has_doctrine = tenet_defensive_shield }
-				multiply = faith_unchanged_doctrine_cost_mult
-			}
-		}
-
-		can_pick = {
-			custom_description = {
-				text = incompatible_tenet_atom_worship_trigger
-				NOT = { doctrine:tenet_atom_worship = { is_in_list = selected_doctrines } }
-			}
+			#TODO add localization: gain scaling trait yada yada
+			power_of_the_atom_active = yes
+			#TODO move the following ones to a doctrine
+			#hostility_override_tenet_defensive_shield = 3
+			hostility_override_tenet_atom_worship = 0
+			hostility_override_special_doctrine_power_of_the_atom = 0
 		}
 		
-		parameters = {
-			hostility_override_tenet_atom_worship = 3
-			hostility_override_tenet_defensive_shield = 1
-			pilgrimage_decision_active_aphite = yes
-		}
-
-		character_modifier = {
-			advantage_against_coreligionists = 5
+		traits = {
+			virtues = { atomic_blessing = 1 }
 		}
 	}
+	#deprecated for now
+	#tenet_defensive_shield = {
+	#	icon = core_tenet_consolamentum
+	#	piety_cost = {
+	#		value = faith_tenet_cost_mid
+	#		# Multiplier for keeping same tenet
+	#		if = {
+	#			limit = { has_doctrine = tenet_defensive_shield }
+	#			multiply = faith_unchanged_doctrine_cost_mult
+	#		}
+	#	}
+	#	
+	#	is_shown = {
+	#		always = no
+	#	}
+	#
+	#	can_pick = {
+	#		custom_description = {
+	#			text = incompatible_tenet_atom_worship_trigger
+	#			NOT = { doctrine:tenet_atom_worship = { is_in_list = selected_doctrines } }
+	#		}
+	#	}
+	#	
+	#	parameters = {
+	#		hostility_override_tenet_atom_worship = 3
+	#		hostility_override_tenet_defensive_shield = 1
+	#		pilgrimage_decision_active_aphite = yes
+	#	}
+	#
+	#	character_modifier = {
+	#		advantage_against_coreligionists = 5
+	#	}
+	#}
 	tenet_volunteer_forces = {
 		icon = core_tenet_communal_identity
 		piety_cost = {
@@ -451,6 +467,21 @@ doctrine_core_tenets = {
 			if = {
 				limit = { has_doctrine = tenet_divine_avatars }
 				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = { 
+						OR = {
+							ROOT = faith:innovatorism
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:innovatorism }
+						}
+					}
+					desc = tenet_living_titans_name
+				}
+				desc = tenet_divine_avatars_name
 			}
 		}
 
@@ -1114,6 +1145,14 @@ doctrine_core_tenets = {
 				triggered_desc = {
 					trigger = {
 						OR = {
+							religion_tag = modernist_religion
+						}
+					}
+					desc = tenet_father_of_the_poor_name
+				}
+				triggered_desc = {
+					trigger = {
+						OR = {
 							religion_tag = protestant_religion
 							doctrine:tenet_protestant_syncretism = { is_in_list = selected_doctrines }
 							has_doctrine = tenet_protestant_syncretism
@@ -1142,6 +1181,12 @@ doctrine_core_tenets = {
 						}
 					}
 					desc = tenet_tikkun_olam_desc
+				}
+				triggered_desc = {
+					trigger = {
+						religion_tag = modernist_religion
+					}
+					desc = tenet_father_of_the_poor_desc
 				}
 				triggered_desc = {
 					trigger = {
@@ -1360,6 +1405,18 @@ doctrine_core_tenets = {
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
+		
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_doctrine = muslim_tolerance_shia_doctrine
+					}
+					desc = tenet_tatbir_name
+				}
+				desc = tenet_the_guilt_we_bear_name
+			}
+		}
 
 		is_shown = {
 			always = yes
@@ -1528,6 +1585,7 @@ doctrine_core_tenets = {
 
 		character_modifier = {
 			monthly_learning_lifestyle_xp_gain_mult = 0.2
+			learning_per_stress_level = 2
 		}
 		
 		traits = {
@@ -1992,6 +2050,12 @@ doctrine_core_tenets = {
 					}
 					desc = tenet_mission_service_name
 				}
+				triggered_desc = {
+					trigger = {
+						religion_tag = islam_religion
+					}
+					desc = tenet_dawah_name
+				}
 				desc = tenet_mendicant_preachers_name
 			}
 		}
@@ -2222,6 +2286,13 @@ doctrine_core_tenets = {
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_openmindedness_trigger
+				NOT = { doctrine:tenet_openmindedness = { is_in_list = selected_doctrines } }
+			}
+		}
 		name = {
 			first_valid = {
 				triggered_desc = {
@@ -2263,6 +2334,55 @@ doctrine_core_tenets = {
 
 		parameters = {
 			clergy_can_fight = yes
+		}
+	}
+	
+	tenet_openmindedness = { # new
+		icon = core_tenet_sky_burials
+
+		piety_cost = {
+			if = {
+				limit = {
+					doctrine:doctrine_pluralism_fundamentalist = { is_in_list = selected_doctrines }
+				}
+				value = faith_tenet_cost_massive
+			}
+			else_if = {
+				limit = {
+					doctrine:doctrine_pluralism_righteous = { is_in_list = selected_doctrines }
+				}
+				value = faith_tenet_cost_high
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_openmindedness }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_unrelenting_faith_trigger
+				NOT = { doctrine:tenet_unrelenting_faith = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			openminded_opinion_active = yes
+			opinion_of_openminded_opinion_active = 10
+			zealous_cynical_piety_effects_nullified = yes
+		}
+
+		character_modifier = {
+			monthly_diplomacy_lifestyle_xp_gain_mult = 0.2
 		}
 	}
 
@@ -2519,6 +2639,15 @@ doctrine_core_tenets = {
 					}
 					desc = tenet_good_thoughts_good_words_good_deeds_name
 				}
+				triggered_desc = {
+					trigger = {
+						OR = {
+							ROOT = faith:cetic
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:cetic }
+						}
+					}
+					desc = tenet_legalism_great_spiritual_accords_name
+				}
 				desc = tenet_legalism_name
 			}
 		}
@@ -2530,6 +2659,15 @@ doctrine_core_tenets = {
 						religion_tag = zoroastrianism_religion
 					}
 					desc = tenet_good_thoughts_good_words_good_deeds_desc
+				}
+				triggered_desc = {
+					trigger = {
+						OR = {
+							ROOT = faith:cetic
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:cetic }
+						}
+					}
+					desc = tenet_legalism_great_spiritual_accords_desc
 				}
 				desc = tenet_legalism_desc
 			}
@@ -2903,12 +3041,62 @@ doctrine_core_tenets = {
 				ate_faith_based_foundational_faith_trigger = { FAITH = faith:insular_caribbean }
 				ROOT = faith:shorashim
 				ate_faith_based_foundational_faith_trigger = { FAITH = faith:shorashim }
+				ROOT = faith:shorashim
+				ate_faith_based_foundational_faith_trigger = { FAITH = faith:shorashim }
 				religion_tag = atlantean_religion
+
+				ROOT = {
+					has_doctrine = special_doctrine_juxtaposition_activator
+				}
+			}
+		}
+
+		can_pick = { 
+			# If you want to write a new restriction for bhakti, you MUST make a separate OR bloc to write a custom description for it, and duplicate the religion_tag = hinduism_religion, afro_diasporic_religion, etc etc
+			# If you do not duplicate this, it will invalidate the tenet for all custom faiths for other categories
+			custom_description = {
+				text = juxtaposition_additional_requirements
+				OR = {
+					religion_tag = hinduism_religion
+					religion_tag = afro_diasporic_religion
+					religion_tag = spiritualist_religion
+					religion_tag = divina_patriota_religion
+					ROOT = faith:kebatinan
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:kebatinan }
+					religion_tag = industrialist_religion
+					religion_tag = trailwalker_religion
+					ROOT = faith:pelagic
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:pelagic }
+					ROOT = faith:santeiro
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:santeiro }
+					ROOT = faith:insular_caribbean
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:insular_caribbean }
+					ROOT = faith:shorashim
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:shorashim }
+					ROOT = faith:shorashim
+					ate_faith_based_foundational_faith_trigger = { FAITH = faith:shorashim }
+					religion_tag = atlantean_religion
+					AND = {
+						ROOT = {
+							has_doctrine = special_doctrine_juxtaposition_activator
+						}
+						NOR = {
+							doctrine:tenet_inner_journey = { is_in_list = selected_doctrines }
+							doctrine:tenet_animal_sacrifice = { is_in_list = selected_doctrines }
+						}
+					}
+				}
 			}
 		}
 
 		name = {
 			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_doctrine = special_doctrine_juxtaposition_activator
+					}
+					desc = tenet_bhakti_juxtaposition
+				}
 				triggered_desc = {
 					trigger = {
 						OR = {
@@ -3004,6 +3192,12 @@ doctrine_core_tenets = {
 		
 		desc = {
 			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_doctrine = special_doctrine_juxtaposition_activator
+					}
+					desc = tenet_bhakti_juxtaposition_desc
+				}
 				triggered_desc = {
 					trigger = {
 						religion_tag = divina_patriota_religion
@@ -3303,7 +3497,10 @@ doctrine_core_tenets = {
 				}
 				triggered_desc = {
 					trigger = {
-						ROOT = faith:qabantajik
+						OR = {
+							ROOT = faith:qabantajik
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:qabantajik }
+						}
 					}
 					desc = tenet_grandparent_veneration_name
 				}
@@ -3532,12 +3729,6 @@ doctrine_core_tenets = {
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						religion_tag = satanism_religion
-					}
-					desc = tenet_left_hand_path_name
-				}
-				triggered_desc = {
-					trigger = {
 						ROOT = faith:celestism
 					}
 					desc = tenet_messianic_figures_name
@@ -3706,7 +3897,7 @@ doctrine_core_tenets = {
 				}
 				triggered_desc = {
 					trigger = {
-						religion_tag = andean_religion
+						religion_tag = petrobaron_religion
 					}
 					desc = tenet_natures_gold_name
 				}
@@ -3747,7 +3938,12 @@ doctrine_core_tenets = {
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						religion_tag = andean_religion
+						OR = {
+							ROOT = faith:inti_religion
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:inti_religion }
+							ROOT = faith:inkarri_religion
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:inkarri_religion }
+						}
 					}
 					desc = tenet_inti_raymi
 				}
@@ -4181,8 +4377,10 @@ doctrine_core_tenets = {
 		traits = {
 			virtues = {
 				# For the Jentillaks et al.
-				giant
+				# Not anymore
+				stubborn
 			}
+			sins = { fickle }
 		}
 	}
 	
@@ -4255,6 +4453,7 @@ doctrine_core_tenets = {
 					doctrine:tenet_armed_pilgrimages = { is_in_list = selected_doctrines }
 					doctrine:tenet_struggle_submission = { is_in_list = selected_doctrines } 
 					doctrine:tenet_pursuit_of_power = { is_in_list = selected_doctrines }
+					doctrine:tenet_holy_tournaments = { is_in_list = selected_doctrines }
 					doctrine:tenet_heroic_stand = { is_in_list = selected_doctrines }
 				}
 			}
@@ -4310,7 +4509,7 @@ doctrine_core_tenets = {
 	tenet_communal_possessions = {
 		icon = core_tenet_communism
 		is_shown = {
-			always = yes # pdx anti-fun?
+			always = yes # pdx anti-fun? #not anymore
 		}
 		can_pick = {
 			always = yes
@@ -4335,6 +4534,12 @@ doctrine_core_tenets = {
 						religion_tag = nanakpanthi_religion
 					}
 					desc = tenet_begumpura
+				}
+				triggered_desc = {
+					trigger = {
+						religion_tag = judaism_religion
+					}
+					desc = tenet_kibbutzim
 				}
 				desc = tenet_communal_possessions_name
 			}
@@ -6181,12 +6386,6 @@ doctrine_core_tenets = {
 				}
 				triggered_desc = {
 					trigger = {
-						religion_tag = lacustrine_religion
-					}
-					desc = tenet_pursuit_of_power_allstar_roster_name
-				}
-				triggered_desc = {
-					trigger = {
 						ROOT = faith:transcendentalist
 					}
 					desc = tenet_self_reliance_name
@@ -6202,12 +6401,6 @@ doctrine_core_tenets = {
 						religion_tag = wellness_religion
 					}
 					desc = tenet_hierarchy_of_needs_desc
-				}
-				triggered_desc = {
-					trigger = {
-						religion_tag = lacustrine_religion
-					}
-					desc = tenet_pursuit_of_power_allstar_roster_desc
 				}
 				desc = tenet_pursuit_of_power_desc
 			}
@@ -6233,6 +6426,72 @@ doctrine_core_tenets = {
 			sins = {
 				content
 				loyal
+			}
+		}
+	}
+
+	tenet_holy_tournaments = {
+		icon = core_tenet_pursuit_of_power
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_holy_tournaments }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			NOT = {
+				has_doctrine = special_doctrine_pursuit_of_power
+			}
+		}
+
+
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = lacustrine_religion
+					}
+					desc = tenet_pursuit_of_power_allstar_roster_name
+				}
+				desc = tenet_holy_tournaments_name
+			}
+		}
+
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = lacustrine_religion
+					}
+					desc = tenet_pursuit_of_power_allstar_roster_desc
+				}
+				desc = tenet_holy_tournaments_desc
+			}
+		}
+
+		parameters = {
+			conquest_cb_enabled = yes
+			can_train_for_tournaments = yes
+			piety_from_tournaments = yes
+			cheaper_tournaments = yes
+		}
+
+		character_modifier = {
+			monthly_piety_gain_mult = -0.2
+		}
+
+		traits = {
+			virtues = {
+				athletic
+				strong
+			}
+			sins = {
+				lazy
 			}
 		}
 	}
@@ -6367,24 +6626,55 @@ doctrine_core_tenets = {
 		}
 	}
 	
-	tenet_equal_exchange = {
-		icon = core_tenet_legal_pronouncements
+	tenet_left_hand_path = {
+		icon = core_tenet_ancestor_worship
 		piety_cost = {
 			value = faith_tenet_cost_mid
 
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = tenet_equal_exchange }
+				limit = { has_doctrine = tenet_left_hand_path }
 				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = {
+					religion_tag = occultist_religion
+					religion_tag = afro_diasporic_religion
+					religion_tag = vernacular_religion
+					religion_tag = sombrism_religion
+					religion_tag = tributist_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else_if = {
+				limit = {
+					religion = {
+						is_in_family = rf_abrahamic
+					}
+				}
+				value = faith_tenet_cost_high
+			}
+			else = {
+				value = faith_tenet_cost_mid
 			}
 		}
 
 		can_pick = {
-			always = yes
+			custom_description = {
+				text = witchcaft_must_be_virtuous_trigger
+				OR = {
+					doctrine:doctrine_witchcraft_accepted = { is_in_list = selected_doctrines }
+					doctrine:doctrine_witchcraft_virtuous = { is_in_list = selected_doctrines }
+				}
+			}
 		}
 
 		parameters = {
-			equal_exchange_active = yes
+			left_hand_path_active = yes
+		}
+		
+		character_modifier = {
+			enemy_personal_scheme_success_chance_add = 5
 		}
 
 	}
@@ -6471,6 +6761,7 @@ doctrine_core_tenets = {
 		parameters = {
 			summer_festivals_active = yes
 			messianic_leveling_active = yes
+			returned_messiah_active = yes
 		}
 
 		traits = {
@@ -6523,6 +6814,7 @@ doctrine_core_tenets = {
 								has_doctrine = tenet_struggle_submission
 								has_doctrine = tenet_warmonger
 								has_doctrine = tenet_pursuit_of_power
+								has_doctrine = tenet_holy_tournaments
 							}
 						}
 					}
@@ -6533,6 +6825,7 @@ doctrine_core_tenets = {
 							doctrine:tenet_struggle_submission = { is_in_list = selected_doctrines }
 							doctrine:tenet_warmonger = { is_in_list = selected_doctrines }
 							doctrine:tenet_pursuit_of_power = { is_in_list = selected_doctrines }
+							doctrine:tenet_holy_tournaments = { is_in_list = selected_doctrines }
 						}
 						religious_head.faith = {
 							OR = {
@@ -6686,6 +6979,15 @@ doctrine_core_tenets = {
 				triggered_desc = {
 					trigger = { religion_tag = gardenerian_religion }
 					desc = tenet_divine_change_name
+				}
+				triggered_desc = {
+					trigger = { 
+						OR = {
+							ROOT = faith:reconstructionism
+							ate_faith_based_foundational_faith_trigger = { FAITH = faith:reconstructionism }
+						}
+					}
+					desc = tenet_evolving_civilization_name
 				}
 				desc = tenet_walking_metamorphosis_name
 			}
@@ -6955,7 +7257,9 @@ doctrine_core_tenets = {
 		}
 
 		is_shown = {
-			always = yes
+			NOT = {
+				has_doctrine = doctrine_no_head
+			}
 		}
 
 		parameters = {
@@ -7140,6 +7444,12 @@ doctrine_core_tenets = {
 						religion_tag = industrialist_religion
 					}
 					desc = tenet_knights_of_labor_name
+				}
+				triggered_desc = {
+					trigger = {
+						religion_tag = islam_religion
+					}
+					desc = tenet_futuwwa_name
 				}
 				desc = tenet_knightly_honor_name
 			}

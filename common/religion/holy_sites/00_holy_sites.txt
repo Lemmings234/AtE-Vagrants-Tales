@@ -415,6 +415,16 @@ recife = {
 	}
 }
 
+maceio = {
+	county = c_maceio
+	character_modifier = {
+		name = holy_site_maceio_effect_name
+		martial = 1
+		stress_loss_mult = 0.1
+	}
+}
+
+
 mazagao = {
 	county = c_mazagao
 	character_modifier = {
@@ -2345,6 +2355,16 @@ logan = {
 	}
 }
 
+harlan = {
+	county = c_cumberland_gap
+	barony = b_us_ky_harlan
+	character_modifier = {
+		name = holy_site_harlan_effect_name
+			diplomacy = 2
+			prestige_level_impact_mult = 0.05
+	}
+}
+
 syracuse = {
 	county = c_onondaga
 	character_modifier = {
@@ -2674,6 +2694,15 @@ san_diego = {
 		martial = 1
 	}
 }
+half_dome = {
+	county = c_yosemite
+	barony = b_us_ca_yosemite_valley
+	character_modifier = {
+		name = holy_site_half_dome_effect_name
+		stewardship = 1
+		character_travel_speed = 10
+	}
+}
 
 #naturalist
 
@@ -2698,8 +2727,8 @@ berkeley = {
 siskiyou = {
 	county = c_siskiyou
 	character_modifier = {
-		forest_advantage = 2
-		stress_loss_mult = 0.025
+		forest_advantage = 4
+		stress_loss_mult = 0.2
 	}
 }
 crater = {
@@ -2716,7 +2745,7 @@ yosemite = {
 	barony = b_us_ca_mariposa
 	character_modifier = {
 		name = holy_site_yosemite_effect_name
-		forest_advantage = 2
+		forest_advantage = 4
 		stress_loss_mult = 0.025
 	}
 }
@@ -2927,7 +2956,7 @@ agua_azul = {
 	county = c_aguazul
 	character_modifier = {
 		name = holy_site_agua_azul_effect_name
-		monthly_learning_lifestyle_xp_gain_mult = 0.05
+		monthly_learning_lifestyle_xp_gain_mult = 0.10
 	}
 }
 eliot = {
@@ -2936,6 +2965,7 @@ eliot = {
 	character_modifier = {
 		name = holy_site_eliot_effect_name
 		direct_vassal_opinion = 5
+		stewardship_per_piety_level = 1
 	}
 }
 
@@ -5178,9 +5208,8 @@ jacinto_arauz = {
 	county = c_carhue
 	barony = b_ar_11_jacinto_arauz
 	character_modifier = {
-		catholic_religion_opinion = 10
-		protestant_religion_opinion = 10
-		eastern_christian_religion_opinion = 10
+		different_faith_opinion = 10
+		same_faith_opinion = 5
 	}
 }
 
@@ -6538,6 +6567,31 @@ sumidero = {
     }
 }
 
+cintalapa = {
+	county = c_cintalapa
+	character_modifier = {
+		name = holy_site_cintalapa_effect_name
+		stewardship = 2
+    }
+}
+
+calakmul = {
+	county = c_calakmul
+	character_modifier = {
+		name = holy_site_calakmul_effect_name
+		monthly_prestige_gain_mult = 0.10
+    }
+}
+
+la_venta = {
+	county = c_cardenas
+	barony = b_mx_27_la_venta
+	character_modifier = {
+		name = holy_site_la_venta_effect_name
+		monthly_county_control_growth_factor = 0.15
+    }
+}
+
 valladolid = {
 	county = c_valladolid
 	character_modifier = {
@@ -6757,6 +6811,7 @@ portland = {
 	character_modifier = {
 		name = holy_site_portland_effect_name
 		direct_vassal_opinion = 5
+		stewardship_per_prestige_level = 1
 	}
 }
 
@@ -7265,5 +7320,182 @@ arlington = {
 	barony = b_us_va_arlington
 	character_modifier = {
 		domain_tax_same_faith_mult = 0.2
+	}
+}
+
+#caribbean natives
+
+boca_araguabisi = {
+	county = c_curiapo
+	barony = b_ve_09_boca_araguabisi
+	character_modifier = {
+		stewardship_per_piety_level = 1
+		prowess = 2
+	}
+}
+
+tucupita = {
+	county = c_tucupita
+	character_modifier = {
+		martial_per_piety_level = 1
+		controlled_province_advantage = 3
+	}
+}
+
+mabaruma = {
+	county = c_barima_waini
+	character_modifier = {
+		stewardship_per_prestige_level = 1
+		coastal_advantage = 3
+	}
+}
+
+st_vincent = {
+	county = c_saint_vincent
+	character_modifier = {
+		monthly_piety_gain_mult = 0.20
+	}
+}
+
+roatan = {
+	county = c_roatan
+	character_modifier = {
+		controlled_province_advantage = 6
+		martial = 1
+	}
+}
+
+rancheria_river = {
+	county = c_riohacha
+	character_modifier = {
+		diplomacy_per_prestige_level = 1
+		same_culture_opinion = 5
+	}
+	
+}
+uribia = {
+	county = c_uribia
+	character_modifier = {
+		learning_per_prestige_level = 1
+		monthly_lifestyle_xp_gain_mult = 0.05
+	}
+}
+
+maicao = {
+	county = c_maicao
+	character_modifier = {
+		stewardship_per_prestige_level = 1
+		domain_tax_same_faith_mult = 0.03
+	}
+}
+
+ponce = {
+	county = c_ponce
+	character_modifier = {
+		stewardship_per_prestige_level = 1
+		cultural_head_fascination_mult = 0.10
+	}
+}
+
+##Eubiosis
+
+barra_do_garcas = { #should be localized as Nova Xavantina, perhaps?
+	county = c_barra_do_garcas
+	character_modifier = {
+		name = holy_site_rio_negro_effect_name
+			hostile_county_attrition = -0.25
+			learning_per_piety_level = 1
+	}
+}
+
+#spirit path dharma
+
+missoula = {
+	county = c_missoula
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+roseville = {
+	county = c_placer
+	character_modifier = {
+		owned_personal_scheme_success_chance_add = 5
+		stewardship_per_piety_level = 1
+	}
+}
+
+#shango baptist
+
+cumana = {
+	county = c_cumana
+	character_modifier = {
+		stewardship_per_piety_level = 1
+		different_culture_opinion = 5
+	}
+}
+
+#Avrodite
+
+trenton_cfb = {
+	county = c_thurlow
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		diplomacy_per_prestige_level = 1
+	}
+}
+
+bagotville_cfb = {
+	county = c_le_fjord
+	character_modifier = {
+		stress_gain_mult = -0.05
+		stewardship_per_piety_level = 1
+	}
+}
+
+cold_lake_cfb = {
+	county = c_cold_lake
+	character_modifier = {
+		siege_phase_time = -0.1
+		martial = 1
+	}
+}
+
+#jesuist
+
+monticello = {
+	county = c_charlottesville
+	barony = b_us_va_lake_monticello
+	character_modifier = {
+		tyranny_gain_mult = 0.1
+		monthly_learning_lifestyle_xp_gain_mult = 0.15
+		monthly_stewardship_lifestyle_xp_gain_mult = 0.15
+	}
+}
+
+tayrona = {
+	county = c_santa_marta
+	character_modifier = {
+		stewardship_per_prestige_level = 1
+		same_culture_opinion = 5
+	}
+}
+
+#traiteurism
+
+mobile = {
+	county = c_mobile
+	character_modifier = {
+		coastal_advantage = 5
+		naval_movement_speed_mult = 0.2
+	}
+}
+
+natchitoches = {
+	county = c_natchitoches
+	character_modifier = {
+		monthly_piety_gain_mult = 0.05
+		diplomacy_per_prestige_level = 1
 	}
 }

@@ -53,7 +53,7 @@
 	}
 
 	custom_faith_icons = {
-		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259 custom260 custom261 custom262 custom263
     }
 
 	holy_order_names = {
@@ -295,7 +295,7 @@
 
 			#Tenet:
 			doctrine = tenet_armed_pilgrimages
-			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_false_conversion_sanction
 			doctrine = tenet_legalism
 			#Divorce allowed
 			doctrine = doctrine_divorce_allowed
@@ -321,9 +321,7 @@
 			doctrine = doctrine_ao_adoption_target_child
 
 			#DOCTRINES:
-			#Traditionalist
 			doctrine = muslim_tolerance_shia_doctrine
-			doctrine = doctrine_clerical_function_recruitment
 
 			#Leadership
 			doctrine = doctrine_temporal_head
@@ -457,40 +455,197 @@
 			}
 		}
 
-		abbasiyya = { 
+		dhahabi = {
+			color = { 10 153 110 }
+
+			icon = dhababi
+			
+			graphical_faith = islam_religion_anglo_gfx
+
+			holy_site = chicago
+			holy_site = manhattan
+			holy_site = detroit
+			holy_site = buenos_aires
+			holy_site = orange
+			holy_site = paramaribo
+
+			#Tenet:
+			doctrine = tenet_mendicant_preachers
+			doctrine = tenet_knightly_honor
+			doctrine = tenet_blessed_miracle_workers
+
+			#Main Group
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_theocracy_temporal
+
+			#Marriage
+			doctrine = doctrine_polygamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_all
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_ao_adoption_prevalence_none
+			doctrine = doctrine_ao_adoption_type_familial
+			doctrine = doctrine_ao_adoption_target_non_orphans
+
+			#Crimes
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+
+			doctrine = muslim_tolerance_sunni_doctrine
+
+			localization = {
+
+
+				#Creator
+				CreatorName = ansari_fertility_god_name
+				CreatorNamePossessive = ansari_fertility_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = dhababi_health_god_name
+				HealthGodNamePossessive = dhababi_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = ilmi_fertility_god_name
+				FertilityGodNamePossessive = ilmi_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = ilmi_wealth_god_name
+				WealthGodNamePossessive = ilmi_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = dhababi_health_god_name
+				HouseholdGodNamePossessive = dhababi_health_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = dhababi_fate_god_name
+				FateGodNamePossessive = dhababi_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = dhababi_knowledge_god_name
+				KnowledgeGodNamePossessive = dhababi_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = dhababi_knowledge_god_name
+				WarGodNamePossessive = dhababi_knowledge_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = ilmi_trickster_god_name
+				TricksterGodNamePossessive = ilmi_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = dhababi_night_god_name
+				NightGodNamePossessive = dhababi_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = dhababi_water_god_name
+				WaterGodNamePossessive = dhababi_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+				GoodGodNames = {
+					islam_high_god_name
+					dhababi_health_god_name
+					ilmi_fertility_god_name
+					ilmi_wealth_god_name
+					dhababi_fate_god_name
+					dhababi_knowledge_god_name
+					ilmi_trickster_god_name
+					dhababi_night_god_name
+					dhababi_water_god_name
+				}
+				DevilName = ansari_devil_name
+				DevilNamePossessive = ansari_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					ansari_devil_name
+				}
+				WitchGodName = ansari_devil_name
+				WitchGodHerHis = CHARACTER_HERHIS_HIS
+				WitchGodSheHe = CHARACTER_SHEHE_HE
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+			}
+		}
+
+		ilmi = { 
 			color = { 25 127 76 }
-			icon = abbasiyya
+			icon = ilmi
 
 			#Holy Sites
 			holy_site = orange
-			holy_site = san_diego
-			holy_site = dar_al_islam
+			holy_site = seattle
+			holy_site = chimayo
 			holy_site = san_francisco
 			holy_site = sacramento
+			holy_site = las_vegas
 
 			#Tenet
-			doctrine = tenet_unrelenting_faith
-			doctrine = tenet_faith_healing
-			doctrine = tenet_inter_faith_services
-			doctrine = ifs_override_doctrine # necessary for IFS to function properly
+			doctrine = tenet_adaptive
+			doctrine = tenet_tax_nonbelievers
+			doctrine = tenet_inner_journey
 			
 			doctrine = special_doctrine_occidental_coexistence
 
 			doctrine = muslim_tolerance_non_denominational_doctrine
 
+			#Main Group
 			doctrine = doctrine_gender_equal
-			doctrine = doctrine_bastardry_all
-			doctrine = doctrine_ao_adoption_prevalence_rare
+
+			#Marriage
+			doctrine = doctrine_ao_adoption_prevalence_none
 			doctrine = doctrine_ao_adoption_type_familial
-			doctrine = doctrine_ao_adoption_target_child
+			doctrine = doctrine_ao_adoption_target_non_orphans
+
+			#Crimes
 			doctrine = doctrine_homosexuality_indifferent
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
 			doctrine = doctrine_kinslaying_close_kin_crime
-			doctrine = doctrine_deviancy_crime
 			doctrine = doctrine_witchcraft_shunned
-			doctrine = doctrine_pluralism_pluralistic
-			doctrine = doctrine_theocracy_lay_clergy
-			doctrine = doctrine_clerical_function_recruitment
-			doctrine = doctrine_temporal_head
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_taxation
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_succession_temporal_appointment
 			
 			holy_order_names = {
 				{ name = "holy_order_knights_of_purity" }
@@ -500,135 +655,110 @@
 			localization = {
 
 				#Creator
-				CreatorName = abbasiyya_creator_god_name
-				CreatorNamePossessive = abbasiyya_creator_god_name_possessive
+				CreatorName = ilmi_creator_god_name
+				CreatorNamePossessive = ilmi_creator_god_name_possessive
 				CreatorSheHe = CHARACTER_SHEHE_HE
 				CreatorHerHis = CHARACTER_HERHIS_HIS
 				CreatorHerHim = CHARACTER_HERHIM_HIM
 
 				#HealthGod
-				HealthGodName = abbasiyya_health_god_name
-				HealthGodNamePossessive = abbasiyya_health_god_name_possessive
+				HealthGodName = ilmi_health_god_name
+				HealthGodNamePossessive = ilmi_health_god_name_possessive
 				HealthGodSheHe = CHARACTER_SHEHE_HE
 				HealthGodHerHis = CHARACTER_HERHIS_HIS
 				HealthGodHerHim = CHARACTER_HERHIM_HIM
 
 				#FertilityGod
-				FertilityGodName = abbasiyya_fertility_god_name
-				FertilityGodNamePossessive = abbasiyya_fertility_god_name_possessive
+				FertilityGodName = ilmi_fertility_god_name
+				FertilityGodNamePossessive = ilmi_fertility_god_name_possessive
 				FertilityGodSheHe = CHARACTER_SHEHE_HE
 				FertilityGodHerHis = CHARACTER_HERHIS_HIS
 				FertilityGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WealthGod
-				WealthGodName = abbasiyya_wealth_god_name
-				WealthGodNamePossessive = abbasiyya_wealth_god_name_possessive
+				WealthGodName = ilmi_wealth_god_name
+				WealthGodNamePossessive = ilmi_wealth_god_name_possessive
 				WealthGodSheHe = CHARACTER_SHEHE_HE
 				WealthGodHerHis = CHARACTER_HERHIS_HIS
 				WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 				#HouseholdGod
-				HouseholdGodName = abbasiyya_household_god_name
-				HouseholdGodNamePossessive = abbasiyya_household_god_name_possessive
+				HouseholdGodName = ilmi_household_god_name
+				HouseholdGodNamePossessive = ilmi_household_god_name_possessive
 				HouseholdGodSheHe = CHARACTER_SHEHE_HE
 				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
 				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
 
 				#FateGod
-				FateGodName = abbasiyya_fate_god_name
-				FateGodNamePossessive = abbasiyya_fate_god_name_possessive
+				FateGodName = ilmi_fate_god_name
+				FateGodNamePossessive = ilmi_fate_god_name_possessive
 				FateGodSheHe = CHARACTER_SHEHE_HE
 				FateGodHerHis = CHARACTER_HERHIS_HIS
 				FateGodHerHim = CHARACTER_HERHIM_HIM
 
 				#KnowledgeGod
-				KnowledgeGodName = abbasiyya_knowledge_god_name
-				KnowledgeGodNamePossessive = abbasiyya_knowledge_god_name_possessive
+				KnowledgeGodName = ilmi_knowledge_god_name
+				KnowledgeGodNamePossessive = ilmi_knowledge_god_name_possessive
 				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
 				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
 				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WarGod
-				WarGodName = abbasiyya_war_god_name
-				WarGodNamePossessive = abbasiyya_war_god_name_possessive
+				WarGodName = ilmi_war_god_name
+				WarGodNamePossessive = ilmi_war_god_name_possessive
 				WarGodSheHe = CHARACTER_SHEHE_HE
 				WarGodHerHis = CHARACTER_HERHIS_HIS
 				WarGodHerHim = CHARACTER_HERHIM_HIM
 
 				#TricksterGod
-				TricksterGodName = abbasiyya_trickster_god_name
-				TricksterGodNamePossessive = abbasiyya_trickster_god_name_possessive
+				TricksterGodName = ilmi_trickster_god_name
+				TricksterGodNamePossessive = ilmi_trickster_god_name_possessive
 				TricksterGodSheHe = CHARACTER_SHEHE_HE
 				TricksterGodHerHis = CHARACTER_HERHIS_HIS
 				TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 				#NightGod
-				NightGodName = abbasiyya_night_god_name
-				NightGodNamePossessive = abbasiyya_night_god_name_possessive
+				NightGodName = ilmi_night_god_name
+				NightGodNamePossessive = ilmi_night_god_name_possessive
 				NightGodSheHe = CHARACTER_SHEHE_HE
 				NightGodHerHis = CHARACTER_HERHIS_HIS
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WaterGod
-				WaterGodName = abbasiyya_water_god_name
-				WaterGodNamePossessive = abbasiyya_water_god_name_possessive
+				WaterGodName = ilmi_water_god_name
+				WaterGodNamePossessive = ilmi_water_god_name_possessive
 				WaterGodSheHe = CHARACTER_SHEHE_HE
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
 
 				GoodGodNames = {
 					islam_high_god_name
-					abbasiyya_creator_god_name
-					abbasiyya_health_god_name
-					abbasiyya_fertility_god_name
-					abbasiyya_wealth_god_name
-					abbasiyya_household_god_name
-					abbasiyya_knowledge_god_name
-					abbasiyya_war_god_name
-					abbasiyya_fate_god_name
-					abbasiyya_night_god_name
-					abbasiyya_water_god_name
+					ilmi_creator_god_name
+					ilmi_health_god_name
+					ilmi_fertility_god_name
+					ilmi_wealth_god_name
+					ilmi_household_god_name
+					ilmi_knowledge_god_name
+					ilmi_war_god_name
+					ilmi_fate_god_name
+					ilmi_night_god_name
+					ilmi_water_god_name
 				}
-				DevilName = abbasiyya_devil_name
-				DevilNamePossessive = abbasiyya_devil_name_possessive
+				DevilName = ilmi_devil_name
+				DevilNamePossessive = ilmi_devil_name_possessive
 				DevilSheHe = CHARACTER_SHEHE_HE
 				DevilHerHis = CHARACTER_HERHIS_HIS
 				DevilHerselfHimself = CHARACTER_HIMSELF
 				EvilGodNames = {
-					abbasiyya_devil_name
-					abbasiyya_witchgodname
+					ilmi_devil_name
+					ilmi_witchgodname
 				}
-				HouseOfWorship = abbasiyya_house_of_worship
-				HouseOfWorshipPlural = abbasiyya_house_of_worship_plural
-				ReligiousSymbol = abbasiyya_religious_symbol
-				ReligiousHeadName = abbasiyya_religious_head_title
-				ReligiousHeadTitleName = abbasiyya_religious_head_title_name
-				DevoteeMale = abbasiyya_devotee
-				DevoteeMalePlural = abbasiyya_devotee_plural
-				DevoteeFemale = abbasiyya_devotee
-				DevoteeFemalePlural = abbasiyya_devotee_plural
-				DevoteeNeuter = abbasiyya_devotee
-				DevoteeNeuterPlural = abbasiyya_devotee_plural
-				PriestMale = islam_shia_priest
-				PriestMalePlural = islam_shia_priest_plural
-				PriestFemale = islam_shia_priest
-				PriestFemalePlural = islam_shia_priest_plural
-				PriestNeuter = islam_shia_priest
-				PriestNeuterPlural = islam_shia_priest_plural
-				BishopMale = islam_shia_priest
-				BishopMalePlural = islam_shia_priest_plural
-				BishopFemale = islam_shia_priest
-				BishopFemalePlural = islam_shia_priest_plural
-				BishopNeuter = islam_shia_priest
-				BishopNeuterPlural = islam_shia_priest_plural
-				DivineRealm = abbasiyya_positive_afterlife
-				PositiveAfterLife = abbasiyya_positive_afterlife
-				DeathDeityName = abbasiyya_death_deity_name
-				DeathDeityNamePossessive = abbasiyya_death_deity_name_possessive
+				DeathDeityName = ilmi_death_deity_name
+				DeathDeityNamePossessive = ilmi_death_deity_name_possessive
 				DeathDeitySheHe = CHARACTER_SHEHE_HE
 				DeathDeityHerHis = CHARACTER_HERHIS_HIS
 				DeathDeityHerHim = CHARACTER_HERHIM_HIM
-				WitchGodName = abbasiyya_witchgodname
+				WitchGodName = ilmi_witchgodname
 				WitchGodHerHis = CHARACTER_HERHIS_THEIR
 				WitchGodSheHe = CHARACTER_SHEHE_THEY
 				WitchGodHerHim = CHARACTER_HERHIM_THEM
@@ -1155,6 +1285,7 @@
 			
 			doctrine = muslim_tolerance_non_denominational_doctrine
 			doctrine = special_doctrine_guianan_spirituality_islam
+			doctrine = guianan_access
 
 			localization = {
 			
@@ -1694,7 +1825,7 @@
 			doctrine = tenet_inter_faith_services
 			doctrine = ifs_override_doctrine # necessary for IFS to function properly
 
-			doctrine = tenet_adaptive
+			doctrine = tenet_openmindedness
 			doctrine = tenet_literalism
 
 			doctrine = muslim_tolerance_non_denominational_doctrine
@@ -1861,5 +1992,323 @@
 
 			}
 		}
+		hosayni = {
+			color = { 122 114 75 }
+			icon = hosayni
+			
+			graphical_faith = islam_religion_anglo_gfx
+			
+			holy_site = kingston
+			holy_site = belize
+			holy_site = paramaribo
+			holy_site = naparima
+			holy_site = georgetown
+
+			doctrine = tenet_inter_faith_services
+			doctrine = ifs_override_doctrine # necessary for IFS to function properly
+			doctrine = tenet_liberty_or_death
+			doctrine = tenet_ritual_hospitality
+
+			doctrine = muslim_tolerance_shia_doctrine
+
+			doctrine = doctrine_kinslaying_extended_family_crime
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_no_head
+			doctrine = doctrine_funeral_water_burial
+			
+			localization = {
+				HouseholdGodName = hosayni_household_god_name
+				HouseholdGodNamePossessive = hosayni_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+				WaterGodName = hosayni_water_god_name
+				WaterGodNamePossessive = hosayni_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
+		}
+		tawwabin = {
+			color = { 10 153 110 }
+
+			icon = tawwabin
+			
+			graphical_faith = islam_religion_anglo_gfx
+
+			holy_site = chicago
+			holy_site = manhattan
+			holy_site = detroit
+			holy_site = houston
+			holy_site = foz_do_iguacu
+			holy_site = paramaribo
+			holy_site = berkeley
+
+			#Tenet:
+			doctrine = tenet_the_guilt_we_bear
+			doctrine = tenet_struggle_submission
+			doctrine = tenet_warmonger
+
+			#Main Group
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_theocracy_temporal
+
+			#Marriage
+			doctrine = doctrine_polygamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_all
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_ao_adoption_prevalence_none
+			doctrine = doctrine_ao_adoption_type_familial
+			doctrine = doctrine_ao_adoption_target_non_orphans
+
+			#Crimes
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+
+			doctrine = muslim_tolerance_shia_doctrine
+
+			localization = {
+
+
+				#Creator
+				CreatorName = ansari_fertility_god_name
+				CreatorNamePossessive = ansari_fertility_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = dhababi_health_god_name
+				HealthGodNamePossessive = dhababi_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = ilmi_fertility_god_name
+				FertilityGodNamePossessive = ilmi_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = ilmi_wealth_god_name
+				WealthGodNamePossessive = ilmi_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = tawwabin_household_god_name
+				HouseholdGodNamePossessive = tawwabin_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = dhababi_fate_god_name
+				FateGodNamePossessive = dhababi_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = dhababi_knowledge_god_name
+				KnowledgeGodNamePossessive = dhababi_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = tawwabin_war_god_name
+				WarGodNamePossessive = tawwabin_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = ilmi_trickster_god_name
+				TricksterGodNamePossessive = ilmi_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = dhababi_night_god_name
+				NightGodNamePossessive = dhababi_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = dhababi_water_god_name
+				WaterGodNamePossessive = dhababi_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+				GoodGodNames = {
+					islam_high_god_name
+					dhababi_health_god_name
+					ilmi_fertility_god_name
+					ilmi_wealth_god_name
+					dhababi_fate_god_name
+					dhababi_knowledge_god_name
+					ilmi_trickster_god_name
+					dhababi_night_god_name
+					dhababi_water_god_name
+					tawwabin_war_god_name
+					tawwabin_household_god_name
+				}
+				DevilName = ansari_devil_name
+				DevilNamePossessive = ansari_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					ansari_devil_name
+				}
+				ReligiousHeadName = ansari_religious_head_title
+				ReligiousHeadTitleName = ansari_religious_head_title_name
+				WitchGodName = ansari_devil_name
+				WitchGodHerHis = CHARACTER_HERHIS_HIS
+				WitchGodSheHe = CHARACTER_SHEHE_HE
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+			}
+		}
+		alawi = {
+			color = { 122 114 75 }
+			icon = alawi
+			
+			graphical_faith = islam_religion_latam_gfx
+			
+			holy_site = buenos_aires
+			holy_site = san_miguel_de_tucuman
+			holy_site = rosario
+			holy_site = villa_union
+			holy_site = junin
+
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_esotericism
+			doctrine = tenet_pentarchy
+
+			doctrine = muslim_tolerance_non_denominational_doctrine
+
+			doctrine = doctrine_kinslaying_extended_family_crime
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_ao_adoption_prevalence_none
+			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+			doctrine = doctrine_pilgrimage_mandatory #To set to Rosario
+
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_adultery_women_crime
+
+			
+			localization = {
+
+				#WarGod
+				WarGodName = alawi_war_god_name
+				WarGodNamePossessive = alawi_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+
+				#HealthGod
+				HealthGodName = alawi_household_god_name
+				HealthGodNamePossessive = alawi_household_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = alawi_household_god_name
+				FertilityGodNamePossessive = alawi_household_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = alawi_household_god_name
+				WealthGodNamePossessive = alawi_household_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = alawi_household_god_name
+				WealthGodNamePossessive = alawi_household_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = alawi_household_god_name
+				HouseholdGodNamePossessive = alawi_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = alawi_fate_god_name
+				FateGodNamePossessive = alawi_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = alawi_knowledge_god_name
+				KnowledgeGodNamePossessive = alawi_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = alawi_trickster_god_name
+				TricksterGodNamePossessive = alawi_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = alawi_trickster_god_name
+				NightGodNamePossessive = alawi_trickster_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				ReligiousHeadName = alawi_religious_head_title
+				ReligiousHeadTitleName = alawi_religious_head_title_name
+				ReligiousSymbol = ansari_religious_symbol
+				DevoteeMale = alawi_devotee
+				DevoteeMalePlural = alawi_devotee_plural
+				DevoteeFemale = alawi_devotee
+				DevoteeFemalePlural = alawi_devotee_plural
+				DevoteeNeuter = alawi_devotee
+				DevoteeNeuterPlural = alawi_devotee_plural
+				PriestMale = alawi_priest
+				PriestMalePlural = alawi_priest_plural
+				PriestFemale = alawi_priest_female
+				PriestFemalePlural = alawi_priest_female_plural
+				PriestNeuter = alawi_priest
+				PriestNeuterPlural = alawi_priest_plural
+				AltPriestTermPlural = islam_priest_alternate_plural
+				BishopMale = alawi_priest
+				BishopMalePlural = alawi_priest_plural
+				BishopFemale = alawi_priest
+				BishopFemalePlural = alawi_priest_plural
+				BishopNeuter = alawi_priest
+				BishopNeuterPlural = alawi_priest_plural
+			}
+		}		
 	}
 }

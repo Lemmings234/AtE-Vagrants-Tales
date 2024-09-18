@@ -220,7 +220,7 @@ doctrine_maya_internal_tolerance = {
 doctrine_californian_internal_tolerance = { 
 	group = "main_group"
 
-	# Still WIP. Will likely be changed to be part of a unified Californian hostility set as Kadmonic, Abbasiyya, and the Naturalists are subsumed
+	# Still WIP. Will likely be changed to be part of a unified Californian hostility set as Kadmonic, Ilmi, and the Naturalists are subsumed
 	# Note that these doctrines DO NOT care about themselves. That duty is instead shunted to the main Christianic set. In other words, hostility between two Render Unto Caesar faiths is determined by the Christianic Set, not this one
 	# Render Unto Caesar is present on: Jesus Freak
 	# Get Behind Me is present on: Navegante, Hermandad
@@ -521,6 +521,42 @@ inca_tolerance = {
 		parameters = {
 			same_hof_hostility_override = 1
 			can_form_ayllu = yes
+		}
+	}
+}
+
+scientific_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		OR = {
+			religion_tag = scientific_religion
+		}
+	}
+
+	special_doctrine_power_of_the_atom = {
+	
+		#is_shown = { has_doctrine = special_doctrine_power_of_the_atom }
+		parameters = {
+			hostility_override_special_doctrine_power_of_the_atom = 0
+			hostility_override_tenet_atom_worship = 0
+			hostility_override_special_doctrine_not_a_place_of_honor = 3
+		}
+	}
+	
+	special_doctrine_not_a_place_of_honor = {
+	
+		#is_shown = { has_doctrine = special_doctrine_not_a_place_of_honor }
+		can_pick = {
+			custom_description = {
+				text = cant_have_tenet_atom_worship
+				NOT = {
+					doctrine:tenet_atom_worship = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_power_of_the_atom = 3
+			hostility_override_special_doctrine_not_a_place_of_honor = 1
 		}
 	}
 }

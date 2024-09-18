@@ -56,7 +56,7 @@
 	}
 
 	custom_faith_icons = {
-		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259 custom260 custom261 custom262 custom263
     }
 
 	holy_order_names = {
@@ -257,7 +257,7 @@
 			icon = reform
 			
 			holy_site = cincinnati
-			holy_site = brooklyn
+			holy_site = manhattan
 			holy_site = charleston_jewish
 			holy_site = palm_beach_jewish
 			holy_site = washington
@@ -275,7 +275,7 @@
 			doctrine = doctrine_gender_equal
 
 			#Doctrines
-			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_no_head
 			doctrine = doctrine_bastardry_legitimization
 			doctrine = doctrine_homosexuality_accepted
 			doctrine = doctrine_deviancy_accepted
@@ -313,11 +313,11 @@
 			color = { 25 76 178 }
 			icon = meshichism
 			
-			holy_site = montefiore
 			holy_site = montreal
 			holy_site = palm_beach_jewish
 			holy_site = lakewood
 			holy_site = boston
+			holy_site = brooklyn
 			
 			#tenets
 			doctrine = tenet_blessed_miracle_workers
@@ -325,9 +325,11 @@
 			doctrine = tenet_mendicant_preachers
 
 			#Doctrines
-			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_temporal_head
 			doctrine = doctrine_bastardry_all
 			doctrine = doctrine_pluralism_fundamentalist
+			
+			doctrine = doctrine_pilgrimage_mandatory
 
 			localization = {
 				GoodGodNames = {
@@ -364,7 +366,7 @@
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_adaptive
 
-			doctrine = special_doctrine_lovingkindness_focus
+			doctrine = special_doctrine_klal_yisrael
 			
 			doctrine = unreformed_faith_doctrine
 			#Cannot HoF
@@ -607,7 +609,7 @@
 			holy_site = boulder
 			
 			doctrine = special_doctrine_righteous_among_gentiles
-			doctrine = special_doctrine_prayer_focus
+			doctrine = special_doctrine_klal_yisrael
 			
 			#Tenets
 			doctrine = tenet_esotericism
@@ -790,7 +792,7 @@
 			holy_site = washington
 			holy_site = manhattan
 			holy_site = toronto
-			holy_site = boston
+			holy_site = buenos_aires
 			holy_site = los_angeles
 			
 			religious_head = d_rabbinical_assembly
@@ -857,6 +859,8 @@
 			doctrine = tenet_ritual_hospitality
 
 			doctrine = special_doctrine_lovingkindness_focus
+			
+			doctrine = special_doctrine_cultos_de_los_heroes_jewish
 			
 			#Main Group
 			doctrine = doctrine_no_head
@@ -948,6 +952,277 @@
 			}
 		}
 		
+		humanistic_judaism = {
+			color = { 77 77 250 }
+			icon = humanistic_judaism
+			
+			holy_site = washington
+			holy_site = berkeley
+			holy_site = manhattan
+			holy_site = toronto
+			holy_site = detroit
+			holy_site = saint_louis
+			
+			#tenets
+			doctrine = tenet_openmindedness
+			doctrine = tenet_liberty_or_death
+			doctrine = tenet_inner_journey
+
+			doctrine = special_doctrine_apostate
+			
+			#Main Group
+			doctrine = doctrine_no_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_theocracy_lay_clergy
+
+			#Marriage
+			doctrine = doctrine_consanguinity_restricted
+
+			#Crimes
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_accepted
+			doctrine = doctrine_witchcraft_shunned
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			doctrine = doctrine_funeral_celebration_of_life
+
+			holy_order_names = {
+				{ name = "holy_order_humanitarian_circle" }
+				{ name = "holy_order_order_of_free_minds" }
+			}
+			localization = {
+				#HighGodName
+				HighGodName = humanistic_jewish_high_god_name
+				HighGodNamePossessive = humanistic_jewish_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_IT
+				HighGodHerselfHimself = CHARACTER_ITSELF
+				HighGodHerHis = CHARACTER_HERHIS_ITS
+				HighGodNameAlternate = humanistic_jewish_high_god_alternate
+				HighGodNameAlternatePossessive = humanistic_jewish_high_god_alternate_possessive
+
+				#Creator
+				CreatorName = humanistic_jewish_creator_god_name
+				CreatorNamePossessive = humanistic_jewish_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_IT
+				CreatorHerHis = CHARACTER_HERHIS_ITS
+				CreatorHerHim = CHARACTER_HERHIM_IT
+
+				#HealthGod
+				HealthGodName = humanistic_jewish_health_god_name
+				HealthGodNamePossessive = humanistic_jewish_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_IT
+				HealthGodHerHis = CHARACTER_HERHIS_ITS
+				HealthGodHerHim = CHARACTER_HERHIM_IT
+				
+				#FertilityGod
+				FertilityGodName = humanistic_jewish_fertility_god_name
+				FertilityGodNamePossessive = humanistic_jewish_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_IT
+				FertilityGodHerHis = CHARACTER_HERHIS_ITS
+				FertilityGodHerHim = CHARACTER_HERHIM_IT
+
+				#WealthGod
+				WealthGodName = humanistic_jewish_wealth_god_name
+				WealthGodNamePossessive = humanistic_jewish_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_IT
+				WealthGodHerHis = CHARACTER_HERHIS_ITS
+				WealthGodHerHim = CHARACTER_HERHIM_IT
+
+				#HouseholdGod
+				HouseholdGodName = humanistic_jewish_household_god_name
+				HouseholdGodNamePossessive = humanistic_jewish_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_IT
+				HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+				HouseholdGodHerHim = CHARACTER_HERHIM_IT
+
+				#FateGod
+				FateGodName = humanistic_jewish_fate_god_name
+				FateGodNamePossessive = humanistic_jewish_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_IT
+
+				#KnowledgeGod
+				KnowledgeGodName = humanistic_jewish_knowledge_god_name
+				KnowledgeGodNamePossessive = humanistic_jewish_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+
+				#WarGod
+				WarGodName = humanistic_jewish_war_god_name
+				WarGodNamePossessive = humanistic_jewish_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_IT
+				WarGodHerHis = CHARACTER_HERHIS_ITS
+				WarGodHerHim = CHARACTER_HERHIM_IT
+
+				#TricksterGod
+				TricksterGodName = humanistic_jewish_trickster_god_name
+				TricksterGodNamePossessive = humanistic_jewish_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_IT
+				TricksterGodHerHis = CHARACTER_HERHIS_ITS
+				TricksterGodHerHim = CHARACTER_HERHIM_IT
+
+				#NightGod
+				NightGodName = humanistic_jewish_night_god_name
+				NightGodNamePossessive = humanistic_jewish_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_IT
+				NightGodHerHis = CHARACTER_HERHIS_ITS
+				NightGodHerHim = CHARACTER_HERHIM_IT
+
+				#WaterGod
+				WaterGodName = humanistic_jewish_water_god_name
+				WaterGodNamePossessive = humanistic_jewish_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_IT
+				WaterGodHerHis = CHARACTER_HERHIS_ITS
+				WaterGodHerHim = CHARACTER_HERHIM_IT
+				
+				PantheonTerm = humanistic_jewish_pantheon
+				PantheonTermHasHave = pantheon_term_has
+				GoodGodNames = {
+					humanistic_jewish_high_god_name
+					humanistic_jewish_high_god_alternate
+					humanistic_jewish_health_god_name
+					humanistic_jewish_fertility_god_name
+					humanistic_jewish_wealth_god_name
+					humanistic_jewish_household_god_name
+					humanistic_jewish_fate_god_name
+					humanistic_jewish_knowledge_god_name
+					humanistic_jewish_trickster_god_name
+					humanistic_jewish_war_god_name
+					humanistic_jewish_water_god_name
+				}
+				DevilName = humanistic_jewish_devil_name
+				DevilNamePossessive = humanistic_jewish_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_IT
+				DevilHerHis = CHARACTER_HERHIS_ITS
+				DevilHerselfHimself = CHARACTER_ITSELF
+				EvilGodNames = {
+					humanistic_jewish_devil_name
+				}
+				HouseOfWorship = humanistic_jewish_house_of_worship
+				HouseOfWorshipPlural = humanistic_jewish_house_of_worship_plural
+				ReligiousSymbol = humanistic_jewish_religious_symbol
+				ReligiousText = humanistic_jewish_religious_text
+				ReligiousHeadName = humanistic_jewish_religious_head_title
+				ReligiousHeadTitleName = humanistic_jewish_religious_head_title_name
+				DevoteeMale = humanistic_jewish_devotee
+				DevoteeMalePlural = humanistic_jewish_devotee_plural
+				DevoteeFemale = humanistic_jewish_devotee
+				DevoteeFemalePlural = humanistic_jewish_devotee_plural
+				DevoteeNeuter = humanistic_jewish_devotee
+				DevoteeNeuterPlural = humanistic_jewish_devotee_plural
+				PriestMale = humanistic_jewish_priest
+				PriestMalePlural = humanistic_jewish_priest_plural
+				PriestFemale = humanistic_jewish_priest
+				PriestFemalePlural = humanistic_jewish_priest_plural
+				PriestNeuter = humanistic_jewish_priest
+				PriestNeuterPlural = humanistic_jewish_priest_plural
+				AltPriestTermPlural = humanistic_jewish_priest_plural
+				BishopMale = humanistic_jewish_bishop
+				BishopMalePlural = humanistic_jewish_bishop_plural
+				BishopFemale = humanistic_jewish_bishop
+				BishopFemalePlural = humanistic_jewish_bishop_plural
+				BishopNeuter = humanistic_jewish_bishop
+				BishopNeuterPlural = humanistic_jewish_bishop_plural
+				DivineRealm = humanistic_jewish_divine_realm
+				PositiveAfterLife = humanistic_jewish_positive_afterlife
+				NegativeAfterLife = humanistic_jewish_negative_afterlife
+				DeathDeityName = humanistic_jewish_death_deity_name
+				DeathDeityNamePossessive = humanistic_jewish_death_deity_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_IT
+				DeathDeityHerHis = CHARACTER_HERHIS_ITS
+				DeathDeityHerHim = CHARACTER_HERHIM_IT
+				WitchGodName = humanistic_jewish_devil_name
+				WitchGodHerHis = CHARACTER_HERHIS_ITS
+				WitchGodSheHe = CHARACTER_SHEHE_IT
+				WitchGodHerHim = CHARACTER_HERHIM_IT
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+
+			}
+		}
+		
+		reconstructionism = {
+			color = { 187 198 204 }
+			icon = reconstructionism
+			
+			holy_site = philadelphia
+			holy_site = san_diego
+			holy_site = manhattan
+			holy_site = boston
+			holy_site = ann_arbor
+			holy_site = atlanta
+			
+			#tenets
+			doctrine = tenet_walking_metamorphosis
+			doctrine = tenet_the_beauty_around_us
+			doctrine = tenet_legalism
+
+			doctrine = special_doctrine_lovingkindness_focus
+			
+			#Main Group
+			doctrine = doctrine_no_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_theocracy_lay_clergy
+
+			#Marriage
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_restricted
+
+			#Crimes
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_kinslaying_any_dymasty_member_crime
+			doctrine = doctrine_deviancy_accepted
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			
+			localization = {
+
+				#HouseholdGod
+				HouseholdGodName = reconstructionist_household_god_name
+				HouseholdGodNamePossessive = reconstructionist_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_IT
+				HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+				HouseholdGodHerHim = CHARACTER_HERHIM_IT
+				
+				#KnowledgeGod
+				KnowledgeGodName = reconstructionist_knowledge_god_name
+				KnowledgeGodNamePossessive = reconstructionist_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+
+				GoodGodNames = {
+					judaism_high_god_name
+					judaism_high_god_alternate
+					judaism_good_god_hashem
+					judaism_good_god_el_shaddai
+					reconstructionist_household_god_name
+				}
+				ReligiousHeadName = reconstructionist_religious_head_title
+				ReligiousHeadTitleName = reconstructionist_religious_head_title_name
+				BishopMale = judaism_priest
+				BishopMalePlural = judaism_priest_plural
+				BishopFemale = judaism_priest
+				BishopFemalePlural = judaism_priest_plural
+				BishopNeuter = judaism_priest
+				BishopNeuterPlural = judaism_priest_plural
+			}
+		}
 		
 		shoftim = {
 			color = { 230 230 250 }
@@ -968,7 +1243,7 @@
 			doctrine = special_doctrine_torah_focus
 
 			#Main Group
-			doctrine = doctrine_temporal_head
+			doctrine = doctrine_holy_order_head
 			doctrine = doctrine_pluralism_righteous
 			doctrine = doctrine_theocracy_lay_clergy
 

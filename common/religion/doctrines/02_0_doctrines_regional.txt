@@ -7,6 +7,7 @@
 			has_doctrine = special_doctrine_cultos_de_los_heroes_platinean
 			has_doctrine = special_doctrine_cultos_de_los_heroes_pampeano
 			has_doctrine = special_doctrine_cultos_de_los_heroes_catholic
+			has_doctrine = special_doctrine_cultos_de_los_heroes_jewish
 			has_doctrine = special_doctrine_cantos_de_los_pueblos
 		}
 	}
@@ -20,6 +21,7 @@
 			hostility_override_special_doctrine_cultos_de_los_heroes_catholic = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_platinean = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_pampeano = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_jewish = 2
 			loc_parameter_cultos_de_los_heroes = 2
 		}
 		traits = {
@@ -37,6 +39,7 @@
 			# hostility_override_special_doctrine_cultos_de_los_heroes_catholic = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_platinean = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_pampeano = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_jewish = 2
 			loc_parameter_cultos_de_los_heroes = 2
 		}
 		traits = {
@@ -54,6 +57,7 @@
 			hostility_override_special_doctrine_cultos_de_los_heroes_catholic = 2
 			# hostility_override_special_doctrine_cultos_de_los_heroes_platinean = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_pampeano = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_jewish = 2
 			loc_parameter_cultos_de_los_heroes = 2
 		}
 		traits = {
@@ -71,6 +75,25 @@
 			hostility_override_special_doctrine_cultos_de_los_heroes_catholic = 2
 			hostility_override_special_doctrine_cultos_de_los_heroes_platinean = 2
 			# hostility_override_special_doctrine_cultos_de_los_heroes_pampeano = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_jewish = 2
+			loc_parameter_cultos_de_los_heroes = 2
+		}
+		traits = {
+			virtues = { brave }
+			sins = { craven }
+		}
+	}
+	
+	special_doctrine_cultos_de_los_heroes_jewish = {
+		is_shown = {
+			religion_tag = judaism_religion
+		}
+		parameters = {
+			hostility_override_special_doctrine_cultos_de_los_heroes_astronomer = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_catholic = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_platinean = 2
+			hostility_override_special_doctrine_cultos_de_los_heroes_pampeano = 2
+			# hostility_override_special_doctrine_cultos_de_los_heroes_jewish = 2
 			loc_parameter_cultos_de_los_heroes = 2
 		}
 		traits = {
@@ -174,6 +197,7 @@ doctrine_amazonian_tolerance = {
 			hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
 			hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
 			hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
 			loc_parameter_guianan_spirituality = 2
 			guianan_spirituality_opinion_active = yes
 			opinion_of_guianan_spirituality_opinion_active = 15
@@ -196,6 +220,7 @@ doctrine_amazonian_tolerance = {
 			hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
 			hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
 			hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
 			loc_parameter_guianan_spirituality = 2
 			guianan_spirituality_opinion_active = yes
 			opinion_of_guianan_spirituality_opinion_active = 15
@@ -218,6 +243,7 @@ doctrine_amazonian_tolerance = {
 			# hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
 			hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
 			hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
 			loc_parameter_guianan_spirituality = 2
 			guianan_spirituality_opinion_active = yes
 			opinion_of_guianan_spirituality_opinion_active = 15
@@ -240,6 +266,7 @@ doctrine_amazonian_tolerance = {
 			hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
 			# hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
 			hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
 			loc_parameter_guianan_spirituality = 2
 			guianan_spirituality_opinion_active = yes
 			opinion_of_guianan_spirituality_opinion_active = 15
@@ -262,6 +289,30 @@ doctrine_amazonian_tolerance = {
 			hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
 			hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
 			# hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
+			loc_parameter_guianan_spirituality = 2
+			guianan_spirituality_opinion_active = yes
+			opinion_of_guianan_spirituality_opinion_active = 15
+		}
+	}
+	
+	special_doctrine_guianan_spirituality_caribbean = {
+		is_shown = {
+			OR = {
+				has_doctrine = special_doctrine_guianan_spirituality_caribbean
+				AND = {
+					has_doctrine = guianan_access
+					religion_tag = caribbean_religion
+				}
+			}
+		}
+		parameters = {
+			hostility_override_special_doctrine_guianan_spirituality_hindu = 2
+			hostility_override_special_doctrine_guianan_spirituality_islam = 2
+			hostility_override_special_doctrine_guianan_spirituality_afro_diasporic = 2
+			hostility_override_special_doctrine_guianan_spirituality_astronomer = 2
+			hostility_override_special_doctrine_guianan_spirituality_reawakened = 2
+			# hostility_override_special_doctrine_guianan_spirituality_caribbean = 2
 			loc_parameter_guianan_spirituality = 2
 			guianan_spirituality_opinion_active = yes
 			opinion_of_guianan_spirituality_opinion_active = 15
