@@ -218,9 +218,44 @@
  israelite_adherent:0 "Israelite"
  israelite_adherent_plural:0 "Israelites"
  israelite_desc:0 "The Evangelical Israelites of the New Universal Pact are a millennarian faith founded in Peru in antediluvian times by the Prophet Ezequiel. They regard themselves as the new chosen people of God, residing in the land given to them by the Almighty in the West like Israel was given to Moses' people in the East. Likewise, Ezequiel is considered the Christ of the West, the reincarnation of the Christ of the East, Jesus of the New Testament. The Inca built Machu Picchu and their kingdom with the aid of God in ther Holy Land of the East, but the people strayed from God's commandments and became separated from Him. The New Universal Pact is a restoration of the covenant God made with His people - Israelites therefore keep to all of the laws described in Leviticus, wearing only clothes described in the Bible and growing their hair and beards long. They believe that God will soon come to judge mankind, but He will spare the people of privileged Peru and grant heaven on earth to those who remain steadfast in their faith." 
- #should give them a unique godlist someday
- 
- 
+
+ israelite_high_god_name:0 "Jehová"
+ israelite_high_god_name_possessive:0 "Jehová's"
+ israelite_high_god_name_alternate:0 "the Lord"
+ israelite_high_god_name_alternate_possessive:0 "the Lord's"
+ israelite_house_of_worship:0 "temple"
+ israelite_house_of_worship_plural:0 "temples"
+ israelite_religious_symbol:0 "tablets"
+ israelite_religious_text:0 "scriptures"
+ israelite_religious_head_title:0 "Prophet"
+ israelite_religious_head_title_name:0 "New World Mission"
+ israelite_priest:0 "elder"
+ israelite_priest_plural:0 "elders"
+ israelite_bishop:0 "apostle"
+ israelite_bishop_plural:0 "apostles"
+
+ israelite_creator_god_name:0 "$israelite_high_god_name$"
+ israelite_creator_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_health_god_name:0 "Jesucristo"
+ israelite_health_god_name_possessive:0 "Jesucristo's"
+ israelite_fertility_god_name:0 "$israelite_high_god_name$"
+ israelite_fertility_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_wealth_god_name:0 "$israelite_high_god_name$"
+ israelite_wealth_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_household_god_name:0 "Christ of the West"
+ israelite_household_god_name_possessive:0 "Christ of the West's"
+ israelite_fate_god_name:0 "$israelite_high_god_name$"
+ israelite_fate_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_knowledge_god_name:0 "$israelite_high_god_name$"
+ israelite_knowledge_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_war_god_name:0 "$israelite_high_god_name$"
+ israelite_war_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_trickster_god_name:0 "$israelite_high_god_name$"
+ israelite_trickster_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_night_god_name:0 "$israelite_high_god_name$"
+ israelite_night_god_name_possessive:0 "$israelite_high_god_name_possessive$"
+ israelite_water_god_name:0 "$israelite_household_god_name$"
+ israelite_water_god_name_possessive:0 "$israelite_household_god_name_possessive$"
  
  
  #Comfa
@@ -374,8 +409,73 @@
  swedenborgian_bishop_neuter:0 "reverend"
  swedenborgian_bishop_neuter_plural:0 "reverends"
  
+ swedenborgian_positive_afterlife:0 "Celestial Heaven"
+ swedenborgian_negative_afterlife:0 "Hell"
+ 
  swedenborgian_death_deity_name:0 "God"
  swedenborgian_death_deity_name_possessive:0 "God's"
+ 
+ 
+ jesuist:0 "Jesuist Movement"
+ jesuist_adj:0 "Jesuist"
+ jesuist_adherent:0 "Jesuist"
+ jesuist_adherent_plural:0 "Jesuists"
+ jesuist_desc:0 "The Jesuist Movement seeks to re-establish the original religious movement of Jesus of Nazareth as they understand it. Believing that Jesus was a wise and admirable spiritual leader, the faith seeks to distance itself from other Christians who see him as part of the supernatural Godhead. Instead, they use their own scripture, which contains Jesus’ words and teachings, but no miracles. This peculiar theology wins them few friends among the rest of Christianity and the faithful in turn see the Nicene and Trinitarian traditions as coming from a corrupted account of Jesus devised by Paul, who they reject as a false prophet. While predominantly deistic, the movement has consistent internal debates over the nature of Jesus and his message; it is also averse to iconographic worship, instead preferring austere ceremonies. The faithful maintain humility and restraint, in order to live as Jesus did." 
+ 
+ jesuist_high_god_name:0 "Supreme Being"
+ jesuist_high_god_name_possessive:0 "Supreme Being's"
+ jesuist_high_god_name_alternate:0 "The Creator"
+ jesuist_high_god_name_alternate_possessive:0 "The Creator's"
+ 
+ jesuist_creator_god_name:0 "The Creator"
+ jesuist_creator_god_name_possessive:0 "The Creator's"
+ 
+ jesuist_health_god_name:0 "Jesus of Nazareth"
+ jesuist_health_god_name_possessive:0 "Jesus of Nazareth's"
+ 
+ jesuist_fertility_god_name:0 "Supreme Being"
+ jesuist_fertility_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_wealth_god_name:0 "Supreme Being"
+ jesuist_wealth_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_household_god_name:0 "Jesus of Nazareth"
+ jesuist_household_god_name_possessive:0 "Jesus of Nazareth's"
+ 
+ jesuist_fate_god_name:0 "Supreme Being"
+ jesuist_fate_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_knowledge_god_name:0 "Supreme Being"
+ jesuist_knowledge_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_war_god_name:0 "Supreme Being"
+ jesuist_war_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_trickster_god_name:0 "Supreme Being"
+ jesuist_trickster_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_night_god_name:0 "Supreme Being"
+ jesuist_night_god_name_possessive:0 "Supreme Being's"
+ 
+ jesuist_water_god_name:0 "Jesus of Nazareth"
+ jesuist_water_god_name_possessive:0 "Jesus of Nazareth's"
+ 
+ jesuist_pantheon:0 "Supreme Being"
+ 
+ jesuist_devil_name:0 "Evil"
+ jesuist_devil_name_possessive:0 "Evil's"
+
+ jesuist_religious_text:0 "Words of Jesus"
+ jesuist_religious_symbol:0 "minibook"
+ 
+ jesuist_priest:0 "reverend"
+ jesuist_priest_plural:0 "reverends"
+ 
+ jesuist_religious_head_title:0 "President"
+ jesuist_religious_head_title_name:0 "Association"
+ 
+ jesuist_death_deity_name:0 "Death"
+ jesuist_death_deity_name_possessive:0 "Death's"
 
  # Pour one out for a real one
  watcher:0 "Tomb Watchers"

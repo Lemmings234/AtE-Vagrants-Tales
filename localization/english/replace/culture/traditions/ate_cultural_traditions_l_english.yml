@@ -22,21 +22,22 @@
  tradition_rogues_will_be_rogues_name:0 "Rogues Will be Rogues"
  tradition_rogues_will_be_rogues_desc:1 "In this [culture|E], individuals are celebrated for their knack for street smarts and resourcefulness. Embracing this quality means valuing adaptability and quick thinking in various life situations. Creatively finding solutions and staying ahead of the game is a prized characteristic in most social circles."
  culture_parameter_courtiers_and_guests_more_likely_to_join_schemes:1 "Courtiers and Guests of this [culture|E] are more likely to join Schemes."
- culture_parameter_rogue_scheme_bonuses:1 "[characters|E] of this [culture|E] gain a bonus to their Schemes against outsiders." ##idk if this is right, the creator of the tradition never replied
- culture_parameter_rogue_scheme_penalties:1 "[characters|E] of this [culture|E] gain a penalty to their Schemes against each other." #ditto
- culture_parameter_intrigue_education_more_valued:1 "This [culture|E] values intrigue educations." #again, not sure if this is the intention here
- culture_parameter_rogue_succession_enabled:1 "[rulers|E] gain access to an intrigue-based succession law." #not sure what that law actually is. It's not implimented yet either
+ culture_parameter_rogue_scheme_bonuses:1 "[characters|E] of this [culture|E] lose stress Schemes when their seduce and fabricate hook Schemes are successful." 
+ culture_parameter_rogue_scheme_penalties:1 "[characters|E] of this [culture|E] gain stress when their seduce and fabricate hook Schemes are unsucessful and discovered."
+ culture_parameter_intrigue_education_more_valued:1 "Intrigue education grants additional bonuses to characters of this [culture|E]." 
+ culture_parameter_rogue_succession_enabled:1 "[rulers|E] gain access to an intrigue-based succession law."
+ culture_parameter_adulterer_spouse_is_shameful:0 "Spouses to characters that gain the [GetTrait('adulterer').GetName( GetNullCharacter )] [trait|E] receive the [GetTrait('horned').GetName( GetNullCharacter )] [trait|E], unless they become adulterers themselves."
  tradition_resourceful_tinkerers_name:0 "Resourceful Tinkerers"
  tradition_resourceful_tinkerers_desc:1 "This [culture|E] is known for its skill at tinkering, repairing, and modifying machinery of both ancient and modern make."
  tradition_exotic_plantations_name:0 "Exotic Plantations"
  tradition_exotic_plantations_desc:1 "Over the centuries, this people has learned how to tame, collect and store tropical fruits and vegetables - all while avoiding excessive damage to the surrounding rainforest."
- cultural_parameter_plantations_building_bonuses:0 ""[characters|E] of this [culture|E] can build plantations in Jungle [terrain|E].""
+ cultural_parameter_can_build_plantations_in_jungles:0 ""[characters|E] of this [culture|E] can build plantations in Jungle and Deep Jungle [terrain|E].""
  tradition_kanaima_sorcery_name:0 "Kanaima Sorcery"
  tradition_kanaima_sorcery_desc:1 "No matter their faith, people from this culture respect and fear a class of mysterious assassin-vigilantes. Many say they have secret knowledge that allows them to brew poisons, disappear in plain sight or even become animals. The fact is that these so called 'Sorcerers' are masters of achieving the objectives through unknown means."
  culture_parameter_witch_trait_more_common:0 "The [GetTrait('witch').GetName( GetNullCharacter )] [trait|E] is more common."
  culture_parameter_witch_trait_intrigue_bonuses:0 "Characters with the [GetTrait('witch').GetName( GetNullCharacter )] [trait|E] have bonuses to intrigue, plot power and dread."
  tradition_materos_name:0 "Materos"
- tradition_materos_desc:1 "Since pre-[Concept('the_event_ate','Event')|E] times, this [culture|E] has produced a tea from the leaves of the 'yerba-mate' or 'erva-mate' plant. Consuming the beverage with friends, families (and even foes) is a communal ritual, following strict rules and etiquette, with deep spiritual, social and political meaning."
+ tradition_materos_desc:1 "Since pre-[Concept('the_event_ate','Event')|E] times, this [culture|E] has produced a tea from the leaves of the 'yerba-maté' or 'erva-mate' plant. Consuming the beverage with friends, family and even foes is a communal ritual, following strict rules and etiquette, with deep spiritual, social and political meaning."
  tradition_cordel_literature_name:0 "Cordel Literature"
  tradition_cordel_literature_desc:1 "This [culture|E] celebrates its ancestors and their heroic deeds in prose and verse, which are spread between villages and market towns by bards, and in inexpensive string pamphlets or booklets called 'cordéis'."
  tradition_carnival_name:0 "Carnival"
@@ -203,7 +204,7 @@
  culture_parameter_can_raid_even_if_non_tribal:0 "[characters|E] of this [culture|E] can go on [raids|E], even if they are [feudal|E]."
  culture_parameter_unlock_tlacololeros_innovation:0 "This tradition allows a [culture|E] to unlock the $innovation_tlacololeros$ [innovation|E] in the $culture_era_tribal$ [era]"
  
- culture_parameter_can_build_farms_in_jungle:0 "The #V $building_type_cereal_fields_01$#! line of [buildings|E] can be constructed in [holdings|E] with Jungle [terrain|E] in [counties|E] of this [culture|E]"
+ culture_parameter_can_build_farms_in_jungle:0 "The #V $building_type_cereal_fields_01$#! line of [buildings|E] can be constructed in [holdings|E] with Jungle or Deep Jungle [terrain|E] in [counties|E] of this [culture|E]"
  
  culture_parameter_can_drink_coffee:0 "[characters|E] of this [culture|E] can drink coffee."
  culture_parameter_can_build_coffee_houses:0 "[characters|E] of this [culture|E] can build coffeehouses in their county capitals."
@@ -377,3 +378,18 @@
  RICE_honey_and_beeswax_option_desc:0 "$RICE_honey_and_beeswax$"
  RICE_mordvin_honey_and_beeswax_option_tooltip:0 "Cost: @gold_icon! #V #Bold [EmptyScope.ScriptValue('RICE_mordvin_honey_and_beeswax_cost')|0]#!#!\n\nGain [GetModifier('RICE_honey_and_beeswax').GetNameWithTooltip] [modifier|E] for 10 years"
  RICE_mordvin_acquire_volga_bee_products_type:0 "Decide what bee product to purchase"
+
+ tradition_frontier_folk_name:0 "Frontier Folk"
+ tradition_frontier_folk_desc:0 "Honoring the legacy of the ancient pioneers of [GetGeographicalRegion('world_us_great_plains').GetName] [region|E], this culture has made a home in the rolling prairies, braving its vast wilderness."
+ culture_in_plains_or_steppe_terrain_desc_1:0 "The [culture|E] does not have #V 40%#! of its [counties|E] in Plains [terrain|E], Prairie [terrain|E], or [GetGeographicalRegion('world_us_great_plains').GetName] [region|E]"
+ culture_in_plains_or_steppe_terrain_percentage_desc_1:0 "The [culture|E] does not have #V 60%#! of its [counties|E] in Plains [terrain|E], Prairie [terrain|E], or [GetGeographicalRegion('world_us_great_plains').GetName] [region|E]"
+ culture_parameter_intrigue_education_worse_outcomes:0 "[children|E] tend to do slightly worse in the [intrigue|E] [education|E]"
+ 
+ tradition_exogamous_marriages_name:1 "Exogamous Marriages"
+ tradition_exogamous_marriages_desc:0 "This culture forbids marriage of people that belong to the same clan and lineage, and encourages people to marry outside of their own blood in order to preserve the health of their offspring and society as a whole."
+ culture_parameter_exogamous_marriage_acceptance_bonus:0 "[marriage|E] Acceptance with characters of different cultures or locations that have Exogamous Marriages: #P +20#!"
+ culture_parameter_exogamous_marriage_acceptance_penalty:2 "[marriage|E] Acceptance with characters from the same dynasty: #N -1000#!"
+ culture_parameter_endogamous_marriages_forbidden:0 "[marriage|E] within the same Dynasty is not permitted."
+ 
+ TRADITION_BONUS_EXOGAMOUS_MARRIAGES:1 "Exogamous Marriages [culture|E]: $VALUE|+=0$"
+ TRADITION_PENALTY_EXOGAMOUS_MARRIAGES:1 "Exogamous Marriages [culture|E]: $VALUE|+=0$"

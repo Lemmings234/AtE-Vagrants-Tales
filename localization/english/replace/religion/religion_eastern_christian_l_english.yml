@@ -121,9 +121,11 @@
  byzantine_rite_adherent:0 "Byzantine"
  byzantine_rite_adherent_plural:0 "Byzantines"
  
+ byzantine_religious_head_title:0 "Major Archeparch"
+ byzantine_religious_head_title_name:0 "Major Archeparchy"
  
  doukhobor_religion:0 "Doukhobor Community" #defunct?
- doukhobor_religion_desc:0 "Stemming from Spiritual Christian beliefs and practices, the Community Doukhobors are a decentralized pacifist denomination that historically originated in a faraway country across the sea. Being followers of the Book of Life, Doukhobors believe God to be a spiritual force that permeates the universe and is synonymous with Love, rather than a personified human-like deity. For centuries, they primarily made their homes in the regions of Old Canada's far western lands; however, at some point after the [Concept('the_event_ate','Deluge')|E], a tranformation occurred within the ethos of the community, and the Freedomite sect, itself an echo of an old movement, emerged triumphant in the hearts and minds of the Doukhobor villages and settlements."
+ doukhobor_religion_desc:0 "Stemming from Spiritual Christian beliefs and practices, the Community Doukhobors are a decentralized pacifist denomination that historically originated in a faraway country across the sea. Being followers of the Book of Life, Doukhobors believe God to be a spiritual force that permeates the universe and is synonymous with Love, rather than a personified human-like deity. For centuries, they primarily made their homes in the regions of Old Canada's far western lands; however, at some point after the [Concept('the_event_ate','Deluge')|E], a transformation occurred within the ethos of the community, and the Freedomite sect, itself an echo of an old movement, emerged triumphant in the hearts and minds of the Doukhobor villages and settlements."
  doukhobor_religion_adj:0 "Doukhobor"
  doukhobor_religion_adherent:0 "Doukhobor"
  doukhobor_religion_adherent_plural:0 "Doukhobors"

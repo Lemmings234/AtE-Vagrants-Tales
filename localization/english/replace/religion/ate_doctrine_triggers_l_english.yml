@@ -12,6 +12,10 @@
  INCOMPATIBLE_TENET_SKY_BURIALS_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_sky_burials').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_SHORELINE_REVERENCE_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_shoreline_reverence').GetName( GetPlayer.GetFaith )]"
  
+ INCOMPATIBLE_TENET_UNRELENTING_FAITH_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_unrelenting_faith').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_OPENMINDEDNESS_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_openmindedness').GetName( GetPlayer.GetFaith )]"
+ 
+ 
  INCOMPATIBLE_TENET_JUS_AD_BELLUM_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_jus_ad_bellum').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_FLICKER_OF_YOUTH_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_flicker_of_youth').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_WARMONGER_TRIGGER:0 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_warmonger').GetName( GetPlayer.GetFaith )]"
@@ -26,7 +30,7 @@
 
  DESTROY_HEAD_OF_FAITH_TITLE_FIRST:0 "Destroy your Head of Faith title before reforming the faith."
 
- WITCHCRAFT_MUST_BE_VIRTUOUS_TRIGGER:0 "Must have [GetFaithDoctrine('doctrine_witchcraft_virtuous').GetName( GetPlayer.GetFaith )]"
+ WITCHCRAFT_MUST_BE_VIRTUOUS_TRIGGER:0 "Must have [GetFaithDoctrine('doctrine_witchcraft_accepted').GetName( GetPlayer.GetFaith )] or [GetFaithDoctrine('doctrine_witchcraft_virtuous').GetName( GetPlayer.GetFaith )] Witchcraft"
 
  # Requires the [core_tenet|E] [GetFaithDoctrine('tenet_pursuit_of_power').GetName( GetPlayer.GetFaith )]
  REQUIRES_OPTION_FOR_THE_POOR_OR_COMMUNAL_POSSESSIONS_TRIGGER:0 "Requires the [core_tenet|E] [GetFaithDoctrine('tenet_option_for_the_poor').GetName( GetPlayer.GetFaith )] or [GetFaithDoctrine('tenet_communal_possessions').GetName( GetPlayer.GetFaith )]"
@@ -41,6 +45,7 @@
  REQUIRES_FREEDOM_OF_SPEECH_TRIGGER:0 "Requires the [doctrine|E] [GetFaithDoctrine('special_doctrine_freedom_of_speech').GetName( GetPlayer.GetFaith )]"
  DOCTRINE_REQUIRES_PACIFISM_TRIGGER:0 "Requires the [core_tenet|E] [GetFaithDoctrine('tenet_pacifism').GetName( GetPlayer.GetFaith )] or [GetFaithDoctrine('tenet_dharmic_pacifism').GetName( GetPlayer.GetFaith )]"
  INQUISITION_REQUIRES_APOSTATE_TO_FUNCTION:0 "Requires the [doctrine|E] [GetFaithDoctrine('special_doctrine_apostate').GetName( GetPlayer.GetFaith )]"
+ JUXTAPOSITION_ADDITIONAL_REQUIREMENTS:0 "[GetFaithDoctrine('tenet_bhakti').GetName( GetPlayer.GetFaith )] contains a decision or activity associated with [GetFaithDoctrine('tenet_inner_journey').GetName( GetPlayer.GetFaith )] and [GetFaithDoctrine('tenet_animal_sacrifice').GetName( GetPlayer.GetFaith )]. If you keep [GetFaithDoctrine('tenet_bhakti').GetName( GetPlayer.GetFaith )], you will be prompted to replace it with one of these two tenets, or retain it."
 
  INCOMPATIBLE_ALREADY_HAVE_AFRO_DIASPORIC_DOCTRINE_TRIGGER:0 "You already have a [doctrine|E] associated with the [GetReligionByKey('afro_diasporic_religion').GetAdjective] [religion|E]"
  INCOMPATIBLE_ALREADY_HAVE_RASTAFARI_DOCTRINE_TRIGGER:0 "You already have a [doctrine|E] associated with the [GetReligionByKey('rastafari_religion').GetAdjective] [religion|E]"
@@ -52,5 +57,22 @@
  INCOMPATIBLE_ALREADY_HAVE_DIVINA_PATRIOTA_DOCTRINE_TRIGGER:0 "You already have a [doctrine|E] associated with the [GetReligionByKey('divina_patriota_religion').GetAdjective] [religion|E]"
  INCOMPATIBLE_ALREADY_HAVE_VETERANIC_DOCTRINE_TRIGGER:0 "You already have a [doctrine|E] associated with the [GetReligionByKey('veteranic_religion').GetAdjective] [religion|E]"
 
-
  INCOMPATIBLE_TENET_SHARED_HOF_ENEMIES_OF_GOD:0 ""$INCOMPATIBLE_TENET_SHARED_HOF_INTRO_UNILATERAL$ antitheism"
+
+ REQUIRES_CATHEDRAL_RELATED_TENET:0 "Your [faith|E] must be associated with a [cathedral_religion|L] or you must select a tenet associated with [cathedral_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_MOSQUE_RELATED_TENET:0 "Your [faith|E] must be associated with a [mosque_religion|L] or you must select a tenet associated with [mosque_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_SYNAGOGUE_RELATED_TENET:0 "Your [faith|E] must be associated with a [synagogue_religion|L] or you must select a tenet associated with [synagogue_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_TEMPLE_FIRE_RELATED_TENET:0 "Your [faith|E] must be associated with a [temple_fire_religion|L] or you must select a tenet associated with [temple_fire_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_TEMPLE_HARMONIC_RELATED_TENET:0 "Your [faith|E] must be associated with a [temple_harmonic_religion|L] or you must select a tenet associated with [temple_harmonic_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_TEMPLE_PAGAN_RELATED_TENET:0 "Your [faith|E] must be associated with a [temple_pagan_religion|L] or you must select a tenet associated with [temple_pagan_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_TEMPLE_CIVIC_RELATED_TENET:0 "Your [faith|E] must be associated with a [temple_civic_religion|L] or you must select a tenet associated with [temple_civic_syncretism|L] in order to select this doctrine."
+
+ REQUIRES_TEMPLE_OTHER_RELATED_TENET:0 "Your [faith|E] must be associated with a [temple_other_religion|L] or you must select a tenet associated with [temple_other_syncretism|L] in order to select this doctrine."
+ 
+ 

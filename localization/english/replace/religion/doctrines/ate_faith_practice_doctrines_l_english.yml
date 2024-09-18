@@ -98,51 +98,62 @@
  doctrine_parameter_loc_parameter_building_inter_faith_tenet:0 "Rulers of this faith can make use of any holy building without needing to convert them"
 
  game_concept_cathedral_religions:0 "Cathedral Religions"
+ game_concept_cathedral_religion:0 "Cathedral Religion"
  game_concept_cathedral_religions_desc:0 "These [religions|E] allow the use of Grand Cathedrals:\nAfro-Diasporic\nCatholic\nChristifornian\nDivina Patriota\nEastern Christian\nExtático\nLatter Day Saints\nOriginario\nProtestant\nRastafari\nReawakened\nRezadeiros\nSombrism\nSpiritualism\nTributism\nVeteranicism"
  game_concept_cathedral_syncretism:0 "Cathedral Syncretism"
  game_concept_cathedral_syncretism_desc:0 "These syncretism tenets allow the use of Grand Cathedrals:\n[GetFaithDoctrine('tenet_afro_diasporic_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_christian_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_divina_patriota_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_catholic_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_eastern_christian_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_mormon_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_protestant_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_rastafari_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_reawakened_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_veteranic_syncretism').GetBaseName]"
 
  game_concept_mosque_religions:0 "Mosque Religions"
+ game_concept_mosque_religion:0 "Mosque Religion"
  game_concept_mosque_religions_desc:0 "These [religions|E] allow the use of Grand Mosques:\nIslam\nMuwahhidun"
  game_concept_mosque_syncretism:0 "Mosque Syncretism"
  game_concept_mosque_syncretism_desc:0 "These syncretism tenets allow the use of Grand Mosques:\n[GetFaithDoctrine('tenet_islamic_syncretism').GetBaseName]"
 
  game_concept_synagogue_religions:0 "Synagogue Religions"
+ game_concept_synagogue_religion:0 "Synagogue Religion"
  game_concept_synagogue_religions_desc:0 "These [religions|E] allow the use of Grand Synagogues:\nJudaism"
  game_concept_synagogue_syncretism:0 "Synagogue Syncretism"
  game_concept_synagogue_syncretism_desc:0 "These syncretism tenets allow the use of Grand Synagogues:\n[GetFaithDoctrine('tenet_jewish_syncretism').GetBaseName]"
 
  game_concept_gurdwara_religions:0 "Gurdwara Religions"
+ game_concept_gurdwara_religion:0 "Gurdwara Religion"
  game_concept_gurdwara_religions_desc:0 "These [religions|E] allow the use of Grand Gurdwaras:\nNanakpanthi"
  game_concept_gurdwara_syncretism:0 "Gurdwara Syncretism"
  game_concept_gurdwara_syncretism_desc:0 "These syncretism tenets allow the use of Grand Gurdwaras"
 
  game_concept_temple_fire_religions:0 "Fire Temple Religions"
+ game_concept_temple_fire_religion:0 "Fire Temple Religion"
  game_concept_temple_fire_religions_desc:0 "These [religions|E] allow the use of Grand Fire Temples:\nVernacular\nOccultist\nWellness\nZoroastrian"
  game_concept_temple_fire_syncretism:0 "Fire Temple Syncretism"
  game_concept_temple_fire_syncretism_desc:0 "These syncretism tenets allow the use of Grand Fire Temples"
 
  game_concept_temple_harmonic_religions:0 "Harmonic Temple Religions"
+ game_concept_temple_harmonic_religion:0 "Harmonic Temple Religion"
  game_concept_temple_harmonic_religions_desc:0 "These [religions|E] allow the use of Grand Harmonic Temples:\nAtlantean\nBuddhism\nCao Dai\nGuruist\nHinduism\nNeoniponic"
  game_concept_temple_harmonic_syncretism:0 "Harmonic Temple Syncretism"
  game_concept_temple_harmonic_syncretism_desc:0 "These syncretism tenets allow the use of Grand Harmonic Temples:\n[GetFaithDoctrine('tenet_harmonic_syncretism').GetBaseName]"
 
  game_concept_temple_pagan_religions:0 "Pagan Temple Religions"
- game_concept_temple_pagan_religions_desc:0 "These [religions|E] allow the use of Grand Pagan Temples:\nAmazonian\nBumbotheism\nCatimbó\nChon\nConterrâneo\nGardenerianism\nGuaranitic\nHaudenosaunee\nInuit\nLlanoism\nMedicine\nMesoamerican\nNaturalism\nNautical\nNavajo\nNeltococayotl\nNorthwestern\nPampeano\nPatagonian\nPeyotism\nPlains\nSeasprayer\nTarahumara\nTrailwalker\nViticulturian"
+ game_concept_temple_pagan_religion:0 "Pagan Temple Religion"
+ game_concept_temple_pagan_religions_desc:0 "These [religions|E] allow the use of Grand Pagan Temples:\nAmazonian\nBumbotheism\nCaribbean\nCatimbó\nChon\nConterrâneo\nGardenerianism\nGuaranitic\nInuit\nLlanoism\nMesoamerican\nNaturalism\nNautical\nNeltococayotl\nNorthwestern\nPampeano\nPatagonian\nPeyotism\nPlains\nSeasprayer\nSouthwestern\nTrailwalker\nViticulturian\nWoodlands"
+
  game_concept_temple_pagan_syncretism:0 "Pagan Temple Syncretism"
  game_concept_temple_pagan_syncretism_desc:0 "These syncretism tenets allow the use of Grand Pagan Temples:\n[GetFaithDoctrine('tenet_native_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_trailwalker_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_unreformed_syncretism').GetBaseName]"
 
  game_concept_temple_civic_religions:0 "Civic Temple Religions"
+ game_concept_temple_civic_religion:0 "Civic Temple Religion"
  game_concept_temple_civic_religions_desc:0 "These [religions|E] allow the use of Grand Civic Temples:\nAmericanism\nBritannic\nCapitalist\nIdiosyncratic\nIndustrialist\nModernist\nPlatinean"
  game_concept_temple_civic_syncretism:0 "Civic Temple Syncretism"
  game_concept_temple_civic_syncretism_desc:0 "These syncretism tenets allow the use of Grand Civic Temples:\n[GetFaithDoctrine('tenet_americanist_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_britannic_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_capitalist_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_idiosyncratic_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_industrialist_syncretism').GetBaseName]\n[GetFaithDoctrine('tenet_modernist_syncretism').GetBaseName]"
 
  game_concept_temple_other_religions:0 "Temple Religions"
+ game_concept_temple_other_religion:0 "Temple Religion"
  game_concept_temple_other_religions_desc:0 "These [religions|E] allow the use of Grand Temples:\nAndean\nArtistic\nAstronomer\nConcentric\nDigital\nNanakpanthi\nScientific\nUniversal"
  game_concept_temple_other_syncretism:0 "Temple Syncretism"
  game_concept_temple_other_syncretism_desc:0 "These syncretism tenets allow the use of Grand Temples:\n[GetFaithDoctrine('tenet_astronomer_syncretism').GetBaseName]"
 
  game_concept_grove_religions:0 "Sacred Grove Religions"
+ game_concept_grove_religion:0 "Sacred Grove Religion"
  game_concept_grove_religions_desc:0 "These [religions|E] allow the use of Sacred Groves"
  game_concept_grove_syncretism:0 "Sacred Grove Syncretism"
  game_concept_grove_syncretism_desc:0 "These syncretism tenets allow the use of Sacred Groves"

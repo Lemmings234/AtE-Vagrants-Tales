@@ -12,6 +12,9 @@
  tenet_bhakti_personal_orisha:0 "Personal Orisha"
  tenet_bhakti_winti_spirits:0 "Winti Spirits"
  tenet_bhakti_ori:0 "Ori"
+ tenet_bhakti_juxtaposition:0 "Juxtaposition"
+ tenet_bhakti_juxtaposition_desc:0 "Our faith is an interlocked mixture of two traditions from radically different lineages, yet united in a common culture."
+ 
  
  tenet_roots_of_rasta_name:0 "Roots of Rasta"
 
@@ -287,9 +290,10 @@
  tenet_blessed_miracle_workers_name:0 "Blessed Miracle Workers"
  tenet_blessed_miracle_workers_desc:0 "Alongside the formal clergy, our faithful also follow the lead of popular preachers and folk mystics, often traveling the land and dispensing their wisdoms and sermons to all believers."
  doctrine_parameter_popular_saints_active:0 "Popular saints and other pious miracle workers might appear"
- tenet_messianic_leadership_name:0 "Messianic Leadership"
+ tenet_messianic_leadership_name:0 "Recurring Saviors"
+ tenet_messianic_leadership_name_br:0 "Messianic Leadership"
  tenet_messianic_leadership_desc:0 "When times are dire, holy men and women will appear to lead the faithful to victory."
- doctrine_parameter_messianic_leadership_active:0 "Saintly people will appear from time to time to lead the faithful, and then return to their life as hermit pilgrims"
+ doctrine_parameter_messianic_leadership_active:0 "Saintly people will appear from time to time to lead the faithful, and then return to their life as hermit pilgrims."
  
  tenet_the_guilt_we_bear_name:0 "The Guilt We Bear"
  doctrine_parameter_enables_piety_from_flagellant:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in self-flagellation, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('flagellant').GetName( GetNullCharacter )]."
@@ -339,7 +343,7 @@
  tenet_divine_change_name:0 "Divine Change"
  
  tenet_inward_perfection_name:0 "Inward Perfection"
- tenet_inward_perfection_desc:0 "The innate human drive for self-improvement is not only laudable, it is sacred. Mastering one's chosen craft is a holy duty of every follower of our faith, and it must be the priority"
+ tenet_inward_perfection_desc:0 "The innate human drive for self-improvement is not only laudable, it is sacred. Mastering one's chosen craft is a holy duty of every follower of our faith."
  tenet_survival_of_the_fittest_name:0 "Survival of the Fittest"
  tenet_survival_of_the_fittest_desc:0 "Only the strongest survive to pass on the next generation; not only through the lineage of life, but also the lineage of ideas and trades. We revere the expertise present in all things."
 
@@ -349,7 +353,10 @@
  tenet_wisdom_of_gurus_desc:0 "Our philosophy incorporates lessons from a diverse array of philosophies and religions. Although we do not fully agree with the conclusions drawn by any of them, we recognize that they are all interpretations of a deep and universal truth."
  doctrine_parameter_wisdom_of_gurus_conversion_active:0 "County Conversion Speed: #N -25%#!"
  doctrine_parameter_select_personal_guru_active:0 "May select a personal Guru to study under" 
- 
+
+ tenet_legalism_great_spiritual_accords_name:0 "Great Spiritual Accords"
+ tenet_legalism_great_spiritual_accords_desc:0 "The tenets of our faith are laid out in a vast, ever-expanding corpus of sacred scriptures, each text guiding believers in their efforts to follow the Totally Righteous Path. Believers who fail to meet these standards will surely accrue negative karma and the distrust of their fellow [ROOT.Faith.DevoteeNeuterPlural]."
+
 #hinduism
 
  tenet_bhajanam_name:0 "Bhajanam"
@@ -367,6 +374,8 @@
  tenet_one_big_union:0 "One Big Union"
  
  tenet_knights_of_labor_name:0 "Knights of Labor"
+ 
+ tenet_living_titans_name:0 "Living Titans"
 
 #inuit
 
@@ -375,6 +384,9 @@
 #islam
 
  tenet_greater_jihad_name:0 "Greater Jihad"
+ tenet_dawah_name: "Dawah"
+ tenet_futuwwa_name: "Futuwwa"
+ tenet_tatbir_name: "Tatbir"
  
  tenet_bhakti_patron_spirits_name:0 "Patron Spirits"
  tenet_bhakti_patron_spirits_desc:0 "We believe a variety of divinely inspired spirits can personally intercede on the behalf of their followers on Earth."
@@ -385,6 +397,9 @@
  tenet_tikkun_olam_desc:0 "'Tikkun olam', or 'repairing the world,' is a concept referring to the obligation for creating a model society. The primary way we do this is through social welfare programs targeting the needy in society, for serving them is how we strengthen faith in [ROOT.Faith.HighGodName]."
  
  tenet_zakat_name:0 "Zakat"
+ 
+ tenet_father_of_the_poor_name:0 "Father of the Poor"
+ tenet_father_of_the_poor_desc:0 "The Great Father, the Old Master whose name has been lost to History, told our people to look for the poor and downtrodden. By caring for the most needy, we will hasten the restoration of the fabled Land of the Future."
 
  tenet_baal_teshuva_name:0 "Ba'al Teshuvah"
  
@@ -393,6 +408,10 @@
  tenet_interfaith_deep_ecumenism_name:0 "Deep Ecumenism"
  
  tenet_nazarite_vows_name:0 "Nazarite Vows"
+ 
+ tenet_kibbutzim:0 "Kibbutzim"
+ 
+ tenet_evolving_civilization_name:0 "Evolving Civilization"
 
  tenet_bhakti_honorable_mentshen_name: "Honorable Mentshen"
  tenet_bhakti_honorable_mentshen_desc: "Our tradition is filled with great heroes, worthy of admiration and serving as exemplars of our ideals.  While all are worthy of emulation, it is often best to focus on one at a time to better take in their lessons."
@@ -416,6 +435,14 @@
 
  tenet_pursuit_of_power_allstar_roster_name:0 "All-Star Roster"
  tenet_pursuit_of_power_allstar_roster_desc:0 "[ragnarok|E] wiped out many of the Gods of old, we must replenish the ranks of [valhallafame|E] by proving our strength here in this realm."
+
+ tenet_holy_tournaments_name:0 "Holy Tournaments"
+ tenet_holy_tournaments_desc:0 "The faithful must be physically strong, heroic and mighty. Thus, we honor those who train and strive via competition to become the worthiest version of themselves."
+ doctrine_parameter_can_train_for_tournaments:0 "Can always take the '$train_for_tournament_decision_name$' [decision|E]"
+ doctrine_parameter_piety_from_tournaments:0 "Completing a [GetActivityType('activity_tournament').GetName] [activity|E] provides [piety_i][piety|E]"
+ doctrine_parameter_cheaper_tournaments:0 "Hosting a [GetActivityType('activity_tournament').GetName] [activity|E] costs less [gold_i][gold|E]"
+ holy_tourney_competitors:0 "Holy Tournament Competitors"
+ tournament_activity_cost_discount_faith_desc:0 "$tenet_holy_tournaments_name$"
 
  tenet_sacrificial_ceremonies_no_sacrifice_too_great_name:0 "No Sacrifice Too Great"
  tenet_sacrificial_ceremonies_no_sacrifice_too_great_desc:0 "Victory in [ragnarok|E] must be achieved at all costs. In order to achieve this we must be prepared to sacrifice everything, including ourselves."
@@ -453,7 +480,7 @@
 #modernist
 
  tenet_walking_metamorphosis_name:0 "Walking Metamorphosis"
- tenet_walking_metamorphosis_desc:0 "Remaining the same way is fundamentally inhuman: true believers should constanstly change their goals in life and their points of view. It is better to be always changing than to grow weak through stagnation."
+ tenet_walking_metamorphosis_desc:0 "Remaining the same way is fundamentally inhuman: true believers should constantly change their goals in life and their points of view. It is better to be always changing than to grow weak through stagnation."
  doctrine_parameter_walking_metamorphosis_active:0 "Every three years, believers may take a decision to randomly select a new lifestyle focus, gaining a #P +50%#! experience bonus for the next three years"
  
  tenet_sacred_architecture_name:0 "Sacred Architecture"
@@ -616,7 +643,7 @@
  
  tenet_sacramental_herbs_name:0 "Sacramental Herbs"
  tenet_sacramental_herbs_desc:0 "Our faith asserts that the use of sacramental herbs is necessary to fully open one's mind to divine truths."
- doctrine_parameter_tenet_sacramental_herbs_active:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in sacrimental herbs, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('hashishiyah').GetName( GetNullCharacter )]"
+ doctrine_parameter_tenet_sacramental_herbs_active:0 "Characters of this [Concept('faiths','Faith')|E] may indulge in sacramental herbs, which grants [piety|E], [stress|E] Loss, and a chance at becoming a [GetTrait('hashishiyah').GetName( GetNullCharacter )]"
  
  tenet_livity_name:0 "Livity"
  tenet_livity_desc:0 "Our faith holds that the divine is present within all of us, and that we must expand this connection through righteous living, meditation, and a strict diet."
@@ -648,13 +675,13 @@
 #satanism
  tenet_black_mass_name:0 "Black Mass"
  tenet_witches_sabbath_name:0 "Witches' Sabbath"
- tenet_left_hand_path_name:0 "Left Hand Path"
  tenet_devils_advocate_name:0 "Devil's Advocate"
  tenet_fp3_satanic_panic_name:0 "Satanic Panic"
 
 #scientific
  tenet_atom_worship_name:0 "Atomic Blessing"
  tenet_atom_worship_desc:0 "The knowledge we have about the fabric of reality has allowed us to harness what the unenlightened shun. Our judge and protector is the incarnate universe, who doles out boons to the worthy and inflicts the unworthy with deserved pestilence."
+ doctrine_parameter_power_of_the_atom_active:0 "Successful pilgrimages allow characters to obtain the Atomic Blessing and the [GetTrait('atomic_blessing').GetName(GetNullCharacter)] [trait|E]"
  
  tenet_defensive_shield_name:0 "Not A Place of Honor"
  tenet_defensive_shield_desc:0 "The loss of knowledge after the [Concept('the_event_ate','Event')|E] has unfortunately made many ignorant of the great evil that plauges our land. We must do what we can to keep them safe and to cleanse those already afflicted."
@@ -785,9 +812,11 @@
 
  tenet_bhakti_orixan_protectors_name:0 "Orixán Protectors"
 
- tenet_messianic_leveling_name:0 "Messianic Leveling"
- tenet_messianic_leveling_desc:0 "Our religion believes that the Messiah is bound to arrive and deliver us salvation, as has happened many times before. Only a truly faithful believer bound by righteous death will spare us of our suffering."
- doctrine_parameter_messianic_leveling_active:0 "Martyrized paragons of virtue might be identified as the Messiah, reforming the faith. Their close friends, wards and relatives might become Apostles"
+ tenet_messianic_leveling_name:0 "True Messianism"
+ tenet_messianic_leveling_desc:0 "Our religion believes that the Messiah is bound to arrive and deliver us salvation, as was foretold. The hour and day of their return is unknown, as is their form: from a powerful king to a humble carpenter, the Messiah can take any form."
+ doctrine_parameter_messianic_leveling_active:0 "Martyrized paragons of virtue might be identified as the Messiah, reforming the faith. Their close friends, wards and relatives might become Apostles. Reformers of the faith and founders of a head of faith title will also be identified as the Messiah. The Messiah may appear only once."
+ doctrine_parameter_returned_messiah_active:0 "Once the Messiah has been identified, County Conversion Speed is improved by #P +33#!"
+ COURT_CHAPLAIN_CONVERSION_RETURNED_MESSIAH_MODIFIER:2 "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_messianic_leveling').GetBaseName]"
 
  tenet_medicine_society_name:0 "Medicine Society"
  tenet_medicine_society_desc:0 "Our faith inextricably ties the function of our spiritual leaders with those of healing. To protect the sanctity of these traditions, we closely guard the secrets and practices that our [ROOT.Faith.BishopNeuterPlural] gain their power and training from by creating organized societies that teach them in these sacred methods."
@@ -813,4 +842,12 @@
  tenet_toquidom_generic_desc:0 "It is right and just that the ruler most physically able to spread the faith should also lead it."
 
  tenet_communal_possessions_name:0 "Communal Possessions"
- tenet_communal_possessions_desc:0 "[ROOT.Faith.HighGodName|U] intended for us all an equal share of the resources on earth. We should hold all things in common, and re-distribute the stolen wealth of the powerful." 
+ tenet_communal_possessions_desc:0 "[ROOT.Faith.HighGodName|U] intended for us all an equal share of the resources on earth. We should hold all things in common, and re-distribute the stolen wealth of the powerful."
+
+ tenet_openmindedness_name:0 "Open-Mindedness" 
+ tenet_openmindedness_desc:0 "Part of what makes a good [ROOT.Faith.BishopNeuter] and indeed, a good [ROOT.Faith.GetAdherentNameNoTooltip] is being willing to question your own beliefs and reasons for having them. Even ancient and esteemed theology cannot be above new challenges." 
+ doctrine_parameter_openminded_opinion_active:0 ""
+ doctrine_parameter_opinion_of_openminded_opinion_active:0 "[opinion|E] of fellow Open-Minded: $VALUE|+=0$"
+ doctrine_parameter_zealous_cynical_piety_effects_nullified:0 "The [GetTrait('zealous').GetName( GetNullCharacter )] and [GetTrait('cynical').GetName( GetNullCharacter )] traits' effects on piety gain are nullified"
+ openminded_opinion_active_opinion_name:0 "Fellow Open-Minded"
+ openminded_opinion_active_county_opinion_name:0 "Fellow Open-Minded County"

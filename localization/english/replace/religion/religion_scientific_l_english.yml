@@ -129,4 +129,13 @@
  ghw_nuclear_devastation:0 "Nuclear Devastation"
  ghw_nuclear_devastations:0 "Nuclear Devastations"
  
+ special_doctrine_power_of_the_atom_name:0 "Power of the Atom"
+ special_doctrine_power_of_the_atom_desc:0 "The Atom is a divine force that can bless the world with its emanations."
+ special_doctrine_not_a_place_of_honor_name:0 "Not a Place of Honor"
+ special_doctrine_not_a_place_of_honor_desc:0 "The desecrated places tainted with Atomic energies should be avoided at all costs."
+ 
+ doctrine_parameter_hostility_override_special_doctrine_power_of_the_atom:1 "Considers faiths with Power of the Atom to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_hostility_override_special_doctrine_not_a_place_of_honor:1 "Considers faiths with Not A Place Of Honor to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ 
+ scientific_tolerance_name:0 "Scientific Tolerance"
 

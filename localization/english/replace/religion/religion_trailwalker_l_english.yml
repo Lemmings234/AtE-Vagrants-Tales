@@ -29,7 +29,7 @@
  trailwalker_divine_realm:0 "the Homestead"
  trailwalker_negative_afterlife:0 "the Boneyard"
  witchgodname_trailwalker:0 "Calamity Jane"
- 
+
  trailwalker_house_of_worship:0 "post"
  trailwalker_house_of_worship_plural:0 "posts"
  trailwalker_religious_head_title:0 "Fastest"
@@ -42,7 +42,7 @@
  trailwalker_priest_female_plural:0 "gunwomen"
  trailwalker_priest:0 "gunslinger"
  trailwalker_priest_plural:0 "gunslingers"
- 
+
  trailwalker_great_council_name:0 "the Great Council"
  trailwalker_creator_god_name:0 "$trailwalker_high_god_name$"
  trailwalker_creator_god_name_possessive:0 "$trailwalker_high_god_name_possessive$"
@@ -70,7 +70,7 @@
  trailwalker_night_god_name_possessive:0 "Ol' Bear's"
  trailwalker_water_god_name:0 "Ol' Miss"
  trailwalker_water_god_name_possessive:0 "Ol' Miss's"
- 
+
  trailwalker_marshal_god_name:0 "the Marshal"
  trailwalker_marshal_name_possessive:0 "the Marshal's"
  trailwalker_sureshot_god_name:0 "Miss Sureshot"
@@ -78,21 +78,21 @@
  trailwalker_thunderhead_god_name:0 "Thunderhead"
  trailwalker_thunderhead_god_name_possessive:0 "Thunderhead's"
  trailwalker_eastson_god_name:0 "Eastson"
- trailwalker_eastson_god_name_possessive:0 "Eastson's" 
- 
- trailwalker_charro_negro_god_name:0 "el Charro Negro" 
+ trailwalker_eastson_god_name_possessive:0 "Eastson's"
+
+ trailwalker_charro_negro_god_name:0 "el Charro Negro"
  trailwalker_charro_negro_god_name_possessive:0 "el Charro Negro's"
  trailwalker_masked_fox_god_name:0 "the Masked Fox"
  trailwalker_masked_fox_god_name_possessive:0 "the Masked Fox's"
  trailwalker_the_trio_god_name:0 "the Trio"
  trailwalker_the_trio_god_name_possessive:0 "the Trio's"
  trailwalker_blondie_god_name:0 "the Good"
- trailwalker_blondie_god_name_possessive:0 "the Good's" 
+ trailwalker_blondie_god_name_possessive:0 "the Good's"
  trailwalker_angel_eyes_god_name:0 "the Bad"
  trailwalker_angel_eyes_god_name_possessive:0 "the Bad's"
  trailwalker_ugly_god_name:0 "the Ugly"
  trailwalker_ugly_god_name_possessive:0 "the Ugly's"
- 
+
  trailwalker_pagan:0 "Trailwalker"
  trailwalker_pagan_adj:0 "Trailwalker"
  trailwalker_pagan_adherent:1 "Trailwalker"
@@ -104,7 +104,7 @@
  trailwalker_pagan_old_adherent_plural:1 "Ol' Trailwalker"
 
  trailwalker_ways_name:0 "Trailwalker Ways"
-  
+
  midnight_sun:0 "Midnight Sun"
  midnight_sun_adj:0 "Midnighter"
  midnight_sun_desc:0 "Rooted in the rugged expanse of the northern Arctic, the Midnighters hold a deep reverence for the celestial dance of the Northern Lights which illuminates their world. To them, the mesmerizing spectacle of colors represents the battle between Ol’Bear and the Fearsome Critters while the sun is spirited to safety by the trickster Raven-Crow. In the darkness, the Critters grow strong, but Ol’Bear is as unrelenting in their defense as the biting cold, keeping the Critters and the menace they pose at bay until the sun returns to its throne at dawn. Emulating the struggle of their gods, the [Concept('trails','Trails')|E] undertaken by Midnighters demand resilience and determination, regardless of the formidable obstacles adherents might encounter on their journey."
@@ -114,7 +114,7 @@
  midnight_sun_old_adj:0 "Ol' Midnighter"
  midnight_sun_old_religion_adherent:1 "Ol' Midnighter"
  midnight_sun_old_adherent_plural:1 "Ol' Midnighters"
- 
+
  dustrider:0 "Loneranger"
  dustrider_adj:0 "Loneranger"
  dustrider_desc:0 "Lonerangers perceive the courage and resilience of the cowboys of yore to be the greatest of [Concept('trails','Trails')|E] one can walk. These iconic figures, mythical in their stature, stand as enduring paragons of honor, justice, and determination, having through their devotion earned ascension to the mystical [Concept('range_frontier','Fontier')|E] where they reside alongside other deities like Lewison Clark and Bull Moose Teddy. By venerating their heroes and following in the Trails they set, Lonerangers seek to secure a place beside them in their Homesteads. From there, they shall live in their own piece of the Frontier, acting as heroes to the next generation of cowboys as their heroes did for them."
@@ -124,7 +124,38 @@
  dustrider_old_adj:0 "Ol' Loneranger"
  dustrider_old_adherent:1 "Ol' Loneranger"
  dustrider_old_adherent_plural:1 "Ol' Lonerangers"
- 
+ loneranger_high_god_name_alt:0 "Spirit of the West"
+ loneranger_high_god_name_alt_poss:0 "Spirit's"
+ loneranger_health_god_name:0 "Doc Holliday"
+ loneranger_health_god_name_poss:0 "Doc Holliday's"
+ loneranger_fertility_god_name:0 "Bonnie and Clyde"
+ loneranger_fertility_god_name_poss:0 "Bonnie and Clyde's"
+ loneranger_wealth_god_name:0 "Wells Fargo"
+ loneranger_wealth_god_name_poss:0 "Wells Fargo's"
+ loneranger_household_god_name:0 "Sam Houston"
+ loneranger_household_god_name_poss:0 "Sam Houston's"
+ loneranger_fate_god_name:0 "Lone Ranger"
+ loneranger_fate_god_name_poss:0 "Lone Ranger's"
+ loneranger_knowledge_god_name:0 "Aggie"
+ loneranger_knowledge_god_name_poss:0 "Aggie's"
+ loneranger_war_god_name:0 "Ghost Riders"
+ loneranger_war_god_name_poss:0 "Ghost Riders'"
+ loneranger_trickster_god_name:0 "Davy Crockett"
+ loneranger_trickster_god_name_poss:0 "Davy Crockett's"
+ loneranger_night_god_name:0 "$loneranger_fate_god_name$"
+ loneranger_night_god_name_poss:0 "$loneranger_fate_god_name_poss$"
+ loneranger_water_god_name:0 "Rio Grande"
+ loneranger_water_god_name_poss:0 "Rio Grande's"
+
+ #Good Gods
+ loneranger_bowie:0 "Bowie"
+ loneranger_billy_the_kid:0 "Billy the Kid"
+ loneranger_wyatt_earp:0 "Wyatt Earp"
+ loneranger_butch_cassidy:0 "Butch Cassidy"
+ loneranger_wild_bill_hickok:0 "Wild Bill Hickok"
+ loneranger_buffalo_bill:0 "Buffalo Bill"
+ loneranger_buffalo_god:0 "Buffalo God"
+
  interranger:0 "Interranger"
  interranger_adj:0 "Interranger"
  interranger_desc:0 "Interrangers believe that even after death, a person does not leave the [Concept('trails','Trails')|E]. A person's spirit will continue to traverse the Trails even after death, carrying on the memories of their past lives with them as they walk a path back and forth between the [Concept('range_frontier','Range and Frontier')|E]. For this reason, there is a greater focus on community and shared solidarity in the face of the difficulties they face than most other Trailwalkers."
@@ -143,13 +174,13 @@
  real_road_old_adj:0 "Ol' Real Roader"
  real_road_old_adherent:1 "Ol' Traveler"
  real_road_old_adherent_plural:1 "Ol' Travelers"
- 
+
  trait_witch_trailwalker:0 "Gunslinger"
  trait_witch_trailwalker_male:0 "Gunman"
  trait_witch_trailwalker_female:0 "Gunwoman"
  trait_witch_trailwalker_desc:0 "This character engages with the powers of the [Concept('range_frontier','Frontier')|E]."
  trait_witch_trailwalker_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] engages with the powers of the [Concept('range_frontier','Frontier')|E]."
- 
+
  sagestepper:0 "Sagestepper"
  sagestepper_adj:0 "Sagestepper"
  sagestepper_desc:0 "Sagesteppers reject the notion of a distinction between the material and spiritual world. Instead, they assert that nature, places of old wood and ancient rock, are locations where the [Concept('range_frontier','Range')|E] and [Concept('range_frontier','Frontier')|E] intermingle. Their Trails focus on preserving and honoring these spaces and the Critters which dwell there through rituals such as controlled fires and the burning of holy sage, hence their name. Unlike other Trailwalkers, who fear the Critters as monsters who breached the ethereal boundaries between the realms, Sagesteppers venerate them. Greatest among the Critters are the Hairymen, enigmatic beings who act as guardians and guides to their brother humans. The Hairymen saved humanity from the ominous End and continue to assist the devout in their efforts to follow the Trails today."
@@ -159,7 +190,7 @@
  sagestepper_old_adj:0 "Ol' Sagestepper"
  sagestepper_old_adherent:1 "Ol' Sagebrusher"
  sagestepper_old_adherent_plural:1 "Ol' Sagebrusher"
- 
+
  sagestepper_health_god_name:0 "Spirit of the Sage"
  sagestepper_health_god_name_possessive:0 "Spirit of the Sage's"
  sagestepper_fertility_god_name:0 "the Ol' Camel"
@@ -184,7 +215,7 @@
  sagestepper_evil_god_critters:0 "the Fearsome Critters"
  sagestepper_devil_name:0 "the Bureau"
  sagestepper_devil_name_possessive:0 "the Bureau's"
- 
+
  saguarorrinche:0 "Saguarorrinche"
  saguarorrinche_adj:0 "Saguarorrinche"
  saguarorrinche_desc:0 "During the times of Aquellas Épocas, El Centauro, son of El Mero Mero and La Adelita, was struck down by an unknown evil while watering the incomplete gardens, known as Camposantos, he was creating from the barren sand dunes of the desert to make mankind’s life easier and their afterlife peaceful. However, El Centauro is not yet gone, as a tiny cactus managed to save one droplet of his blood and, forever imbued with the divine’s blood, managed to grow strong as a rock, tall as a mountain, and spread all across the land. And so El Mero Mero and La Adelita sang a song of legend, claiming that El Centauro may once again return after enough Saguaros grow tall and strong across the land. Anyone who listened to the song and took it into their heart became a protector of the Saguaro, a Saguarorrinche, tasked with protecting the Camposantos from those that defile them by creating trails to El Otro Lado while under the spell of the seducer, La Bestia, and her mistress, La Migra."
@@ -194,8 +225,8 @@
  saguarorrinche_old_adj:0 "Ol' Saguarorrinche"
  saguarorrinche_old_adherent:1 "Ol' Saguarista"
  saguarorrinche_old_adherent_plural:1 "Ol' Saguaristas"
- 
- 
+
+
  saguarorrinche_high_god_name:0 "el Mero Mero"
  saguarorrinche_high_god_name_possessive:0 "el Mero Mero's"
  saguarorrinche_creator_god_name:0 "el Centauro"
@@ -222,11 +253,11 @@
  saguarorrinche_water_god_name_possessive:0 "el Saguaro's"
  saguarorrinche_devil_name:0 "la Bestia"
  saguarorrinche_devil_name_possessive:0 "la Bestia's"
- 
+
  voces_del_camposanto:0 "Voces del Camposanto"
  ghw_expansion_de_los_camposantos:0 "Expansión de los Camposantos"
  ghw_expansions_de_los_camposantos:0 "Expansións de los Camposantos"
- 
+
  saguarorrinche_divine_realm:0 "la Jaula de Oro"
  saguarorrinche_negative_afterlife:0 "el Otro Lado"
  saguarorrinche_religious_symbol:0 "Saguaro"

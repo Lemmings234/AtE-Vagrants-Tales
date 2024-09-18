@@ -26,10 +26,13 @@
  special_doctrine_cultos_de_los_heroes_platinean_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
  special_doctrine_cultos_de_los_heroes_pampeano_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
  special_doctrine_cultos_de_los_heroes_pampeano_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
+ special_doctrine_cultos_de_los_heroes_jewish_name:0 "$special_doctrine_cultos_de_los_heroes_name$"
+ special_doctrine_cultos_de_los_heroes_jewish_desc:0 "$special_doctrine_cultos_de_los_heroes_desc$"
  doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_astronomer:0 ""
  doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_catholic:0 ""
  doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_platinean:0 ""
  doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_pampeano:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_cultos_de_los_heroes_jewish:0 ""
 
  doctrine_parameter_loc_parameter_cultos_de_los_heroes:2  "Considers [faiths|E] of different religions with the $special_doctrine_cultos_de_los_heroes_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
  special_doctrine_cantos_de_los_pueblos_name:0 "Cantos de los Pueblos"
@@ -50,6 +53,8 @@
  special_doctrine_guianan_spirituality_astronomer_desc:0 "$special_doctrine_guianan_spirituality_desc$"
  special_doctrine_guianan_spirituality_reawakened_name:0 "$special_doctrine_guianan_spirituality_name$"
  special_doctrine_guianan_spirituality_reawakened_desc:0 "$special_doctrine_guianan_spirituality_desc$"
+ special_doctrine_guianan_spirituality_caribbean_name:0 "$special_doctrine_guianan_spirituality_name$"
+ special_doctrine_guianan_spirituality_caribbean_desc:0 "$special_doctrine_guianan_spirituality_desc$"
 
  doctrine_parameter_opinion_of_guianan_spirituality_opinion_active:0 ""
  doctrine_parameter_guianan_spirituality_opinion_active:0 "Mutual #positive_value +15#! [opinion|E] bonus with [faiths|E] that have the [GetFaithDoctrine('special_doctrine_guianan_spirituality_hindu').GetBaseName] or [GetFaithDoctrine('special_doctrine_amazonian_spirituality_amazonian').GetBaseName] doctrines"
@@ -59,6 +64,7 @@
  doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_afro_diasporic:0 ""
  doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_astronomer:0 ""
  doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_reawakened:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_guianan_spirituality_caribbean:0 ""
  doctrine_parameter_loc_parameter_guianan_spirituality:0 "Considers [faiths|E] of different religions with the $special_doctrine_guianan_spirituality_name$ doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
 
  special_doctrine_amazonian_spirituality_name:0 "Amazonian Spirituality"
@@ -393,11 +399,11 @@
 
  # Petrobaron doctrines 
  special_doctrine_black_gold_name:0 "Black Gold"
- special_doctrine_black_gold_desc:0 "temp desc"
+ special_doctrine_black_gold_desc:0 "The bounty of the natural world is what fueled the Old World's majesty and power. We must strive to tap into that source once again."
  special_doctrine_industry_trust_name:0 "Industry Trust"
- special_doctrine_industry_trust_desc:0 "temp desc"
+ special_doctrine_industry_trust_desc:0 "History is written by those with the power and wherewithal to carve their names into it. There are those who lead, and those who follow."
  special_doctrine_national_reserve_name:0 "National Reserve"
- special_doctrine_national_reserve_desc:0 "temp desc"
+ special_doctrine_national_reserve_desc:0 "Those who ruled these lands understood its sacred power and took steps to protect their control of it - we must follow their lead."
  doctrine_parameter_hostility_override_special_doctrine_black_gold:0 ""
  doctrine_parameter_hostility_override_special_doctrine_industry_trust:0 ""
  doctrine_parameter_hostility_override_special_doctrine_national_reserve:0 ""
@@ -405,21 +411,21 @@
  # Petrobaron loc parameters
  doctrine_parameter_loc_parameter_petrobaron_shared_evil:0 "Considers [faiths|E] with the [GetFaithDoctrine('special_doctrine_frigid_preservation').GetBaseName], [GetFaithDoctrine('special_doctrine_the_midnight_sun').GetBaseName], or [GetFaithDoctrine('special_doctrine_the_polar_night').GetBaseName] doctrine to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
 
- doctrine_parameter_loc_parameter_black_gold_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_black_gold_desc:0 "Our faith worships the glory and splendor which ran the Old World - and the power upon which it ran. Though many others consider this power lost, we understand it is merely hidden, nestled beyond our reach. It is therefore our duty to retake what is ours, and reclaim mankind's lost glory. Those who would seek to keep us from our divine right view us as irredeemably $hostility_evil_tooltippable$, but what can a few fools do in the face of progress?"
  doctrine_parameter_loc_parameter_black_gold_astray:0 "Click here to view what doctrines [black_gold_astray|L] considers to be Astray"
  doctrine_parameter_black_gold_opinion_active:0 ""
  doctrine_parameter_opinion_of_black_gold_opinion_active:0 ""
  doctrine_parameter_loc_parameter_black_gold_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_executive_overreach').GetBaseName] doctrine"
  doctrine_parameter_loc_parameter_black_gold_negative_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_industry_trust').GetBaseName] doctrine"
 
- doctrine_parameter_loc_parameter_industry_trust_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_industry_trust_desc:0 "Our faith understands that it was man who built the Old World, taking what he can to realize his ambition. Those with the ability to pull up their bootstraps and seize what is theirs serve as exemplars for those too weak to do as such. This philosophy earns us much favor among the Capitalist faiths, resulting in them seeing us as $hostility_astray_tooltippable$, but our fellow Petrobarons consider our methods to focus too much on man and not enough on the source of man's power."
  doctrine_parameter_loc_parameter_industry_trust_astray:0 "Click here to view what doctrines [industry_trust_astray|L] considers to be Astray"
  doctrine_parameter_industry_trust_opinion_active:0 ""
  doctrine_parameter_opinion_of_industry_trust_opinion_active:0 ""
  doctrine_parameter_loc_parameter_industry_trust_positive_opinions:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the [GetFaithDoctrine('special_doctrine_executive_overreach').GetBaseName] doctrine"
  doctrine_parameter_loc_parameter_industry_trust_negative_opinions:0 "Mutual #negative_value -15#! [opinion|E] malus with faiths that have the [GetFaithDoctrine('special_doctrine_black_gold').GetBaseName] doctrine"
 
- doctrine_parameter_loc_parameter_national_reserve_desc:0 "temp desc"
+ doctrine_parameter_loc_parameter_national_reserve_desc:0 "Our faith recognizes that the great authorities of the Old World understood the divine power which granted them prosperity was both something to use and something to protect. Where others might myopically drain their power, burning twice as bright but for half as long, the wise steward their strength and use it only when necessary. As a result of our shared reverence, mainstream Americanists and Petrobarons see us as $hostility_astray_tooltippable$ alongside the more orderly of Idiosyncratics."
  doctrine_parameter_loc_parameter_national_reserve_astray:0 "Click here to view what doctrines [national_reserve_astray|L] considers to be Astray"
  doctrine_parameter_national_reserve_reply_to_capitalist:0 ""
  doctrine_parameter_opinion_of_capitalist_reply_to_national_reserve:0 "Mutual #positive_value +15#! [opinion|E] bonus with Capitalist faiths"
@@ -447,7 +453,7 @@
 
  # Platinean loc parameters
  doctrine_parameter_loc_parameter_unity_for_unification_desc:0 "Our faith understands that the principle purpose of the Competencia Mundial is to unite the people, not further the interests of individuals. While we may disagree on how to achieve victory, that victory cannot come at the expense of those we are fighting for. Our mission of unity means that other Platineans who respect the Heroes and the Competencia Mundial see us as  $hostility_astray_tooltippable$, but relations with other Anachronous traditions are worsened as a result."
- doctrine_parameter_loc_parameter_masters_of_competition_desc:0 "Our faith acknowledges that the Heroes are not the sole repository of guidance on how to win in the cosmic competition for unity. The Old Masters of Brazil to our north and their teachings are equally useful as those of our own Heroes. As a result, we regard those who elevate the Masters as  $hostility_astray_tooltippable$, while those who do not revere them to the same degree are seen in a better light."
+ doctrine_parameter_loc_parameter_masters_of_competition_desc:0 "Our faith acknowledges that the Heroes are not the sole repository of guidance on how to win in the cosmic competition for unity. The Old Masters of Brazil to our north and their teachings are equally useful as those of our own Heroes. As a result, we regard those who elevate the Masters as $hostility_astray_tooltippable$, while those who do not revere them to the same degree are seen in a better light."
  doctrine_parameter_loc_parameter_masters_of_competition_astray:0 "Click here to view what doctrines [masters_of_competition_astray|L] considers to be Astray"
  doctrine_parameter_loc_parameter_popular_justice_desc:0 "Our faith strives to unite all the followers of the Man of Destiny under a single creed, transcending traditional barriers like ideology or nation under the guidance of Perón. Those who share our vision are seen as $hostility_righteous_tooltippable$, while the rest of the Peronist movement is regarded as $hostility_astray_tooltippable$."
  doctrine_parameter_loc_parameter_renovation_of_justice_desc:0 "Our faith recognizes that the Justicialist movement must have structure and clarity in order to best serve the people of Argentina, and cannot be distracted by stretching itself too thin or appealing to the interests of extremists. Those who share our vision are seen as $hostility_righteous_tooltippable$, while the rest of the Peronist movement is regarded as $hostility_astray_tooltippable$."
@@ -520,13 +526,13 @@
  doctrine_parameter_hostility_override_special_doctrine_worship_of_the_past:0 ""
  doctrine_parameter_hostility_override_special_doctrine_the_hidden_truth:0 ""
  # Modernist loc parameters
- doctrine_parameter_loc_parameter_quest_for_the_future_desc:0 "Our faith seeks to uncover the deep truths behind the nature of existence and the turmoil of change through the embrace of that change. Innovation and imagination is the key to unlocking the secrets of the world. Those who agree with our pursuit of change are viewed as $hostility_astray_tooltippable$, while those who stick to rigidity and the status quo are seen as $hostility_hostile_tooltippable$, albeit misguided."
+ doctrine_parameter_loc_parameter_quest_for_the_future_desc:0 "Our faith seeks to uncover the deep truths behind the nature of existence and the turmoil of change through the embrace of that change. Innovation and imagination are the keys to unlocking the secrets of the world. Those who agree with our pursuit of change are viewed as $hostility_astray_tooltippable$, while those who stick to rigidity and the status quo are seen as $hostility_hostile_tooltippable$, albeit misguided."
  doctrine_parameter_loc_parameter_quest_for_the_future_astray:0 "Click here to view what doctrines [quest_for_the_future_astray|L] considers to be Astray"
  doctrine_parameter_loc_parameter_quest_for_the_future_hostile:0 "Click here to view what doctrines [quest_for_the_future_hostile|L] considers to be Hostile"
  doctrine_parameter_loc_parameter_worship_of_the_past_desc:0 "Our faith recognizes that though it may appear that change is the only norm, the substance of the world remains, fundamentally, the same. The wise of the antediluvian age were able to comprehend and master this constancy, and it is through their teachings that we can as well. Those who agree with our veneration of the old knowledge are considered $hostility_astray_tooltippable$, while those who foolishly embrace the illusion of change are looked down upon."
  doctrine_parameter_loc_parameter_worship_of_the_past_astray:0 "Click here to view what doctrines [worship_of_the_past_astray|L] considers to be Astray"
  doctrine_parameter_loc_parameter_worship_of_the_past_hostile:0 "Click here to view what doctrines [worship_of_the_past_hostile|L] considers to be Hostile"
- doctrine_parameter_loc_parameter_the_hidden_truth_desc:0 "Our faith understands that #italic true#! knowledge cannot be found through the limited conceptions of constancy or change bound to pervasive norms. In order to truly discover the divine, those norms must be flouted and destroyed, and in their destruction the Truth can be found. Othe denominations which accept the supernatural nature of the divine are considered $hostility_astray_tooltippable$, but those who worship the past are seen as the enforcers of the norm and considered $hostility_evil_tooltippable$."
+ doctrine_parameter_loc_parameter_the_hidden_truth_desc:0 "Our faith understands that #italic true#! knowledge cannot be found through the limited conceptions of constancy or change bound to pervasive norms. In order to truly discover the divine, those norms must be flouted and destroyed, and in their destruction the Truth can be found. Other denominations which accept the supernatural nature of the divine are considered $hostility_astray_tooltippable$, but those who worship the past are seen as the enforcers of the norm and considered $hostility_evil_tooltippable$."
  doctrine_parameter_loc_parameter_the_hidden_truth_astray:0 "Click here to view what doctrines [the_hidden_truth_astray|L] considers to be Astray"
  doctrine_parameter_loc_parameter_the_hidden_truth_hostile:0 "Click here to view what doctrines [the_hidden_truth_hostile|L] considers to be Hostile"
 

@@ -240,3 +240,23 @@
  tetramorphic_bishop_plural:0 "legion archchaplains"
  
  tetramorphic_witch_god_name:0 "the Tempter"
+
+ avrodite:0 "Squadron of the Archangel Avro"
+ avrodite_adj:0 "Avrodite"
+ avrodite_adherent:0 "Avrodite"
+ avrodite_adherent_plural:0 "Avrodites"
+ avrodite_desc:0 "Scouring the sins of mankind from the surface of the earth, the Avrodites believe that the death of the [Concept('unknown_saviour','Unknown Saviour')|E] was caused by humanity playing an intentional, if ignorant, role. According to the faithful, whilst the [Concept('war_to_end_all','War')|E] raged and the Saviour was dying, the Archangel Avro descended from the heavens to save the fading Soldier. Cruelly, this triumphant rescue attempt was cut-short when a commander on the battlefield, jealous of the glory before him, ordered the Archangel shot down with arrows. The soldiers mindlessly obeyed, dazed by the Archangel's innocence, and slew Avro, dooming both the Saviour and mankind. For this immense crime, the Squadron devotes itself to atoning for the sins of man by inflicting punishment on themselves and others, while petitioning the skies for forgiveness with intricate patterns and sigils, praying for a day where humanity may finally be absolved."
+
+ avrodite_religious_symbol: "wings"
+ avrodite_devotee: "recruit"
+ avrodite_devoteeplural: "recruits"
+ avrodite_priest: "aviator"
+ avrodite_priest_plural: "aviators"
+ avrodite_priest_plural_alt: "pilots"
+ avrodite_bishop: "sergeant-aviator"
+ avrodite_bishop_plural: "sergeant-aviators"
+ avrodite_divine_realm: "the Heavens"
+ avrodite_religious_head_title: "Squadron of Avro"
+ avrodite_religious_head_title_name: "Squadron Commander"
+ ghw_manuever: "Manuever"
+ ghw_manuevers: "Manuevers"

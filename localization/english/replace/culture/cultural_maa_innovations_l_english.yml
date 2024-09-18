@@ -93,7 +93,7 @@
  innovation_engolo_desc:0 "Lately, our professional troops have started to incorporate traditional Engolo martial arts in their training, developing them into various unique schools of combat."
 
  pracinha:0 "Pracinhas"
- pracinha_flavor:0 "#F "Pracinhas embody a diverse assembly of heavily armored foot soldiers recruited from every corner of Brazil, each representing unique creeds and cultures. This intentional assembly safeguards against partiality or favoritism, fostering only unwavering loyalty to their liege. #!"
+ pracinha_flavor:0 "#F Pracinhas embody a diverse assembly of heavily armored foot soldiers recruited from every corner of Brazil, each representing unique creeds and cultures. This intentional assembly safeguards against partiality or favoritism, fostering only unwavering loyalty to their liege. #!"
 
  husares:0 "Húsares"
  husares_flavor:0 "Mounted upon sturdy steeds, the Húsars command th upmost attention with their vibrant attire adorned with howler monkeys tails upon their helmets. With lances raised high and swords agleam, they epitomize the valor and fortitude inherent to our ancient land. #!"
@@ -101,7 +101,7 @@
  innovation_peruvian_paso_desc:0 "Peruvian Pasos are better at traveling and fighting in rough terrain than other breeds of horses. We can train specialized cavalry regiments which take advantage of this."
 
  derby_riders:0 "Derbymen"
- derby_riders_flavor:0 "#F Kentucky has been long been renowned for its swift Thoroughbred horses and the skill of thier riders, who gather yearly to pit thier abilities against each other in a harrowing race. The skills honed in these contests gives these fearsome warriors a trained edge in combat. #!"
+ derby_riders_flavor:0 "#F Kentucky has been long been renowned for its swift Thoroughbred horses and the skill of their riders, who gather yearly to pit their abilities against each other in a harrowing race. The skills honed in these contests gives these fearsome warriors a trained edge in combat. #!"
  innovation_thoroughbred_horses:0 "Thoroughbred Horses"
  innovation_thoroughbred_horses_desc:0 "Thoroughbreds are bold, spirited horses, bred for maximum agility and speed." 
 
@@ -121,7 +121,7 @@
  cowboy:0 "Cowboys"
  cowboy_flavor:0 "#F The skills involved in wrangling cattle translate well towards the freeflowing freewheeling combat common to the various scrublands and plains of the Americas. #!"
  innovation_cowboys:0 "Cowboys"
- innovation_cowboys_desc:0 "Throughout the Americas, ranchers and rangers have use thier horses to control large herds of cows. Long days on horseback herding cattle create a distinct set of martial skills."
+ innovation_cowboys_desc:0 "Throughout the Americas, ranchers and rangers have use their horses to control large herds of cows. Long days on horseback herding cattle create a distinct set of martial skills."
  
  mounties:0 "Mounties"
  mounties_flavor:0 "#F Mounties served as the elite guardsmen of the ancient empires of Canada. Now, these skilled horsemen are as adept at running down fleeing criminals as they are at breaking enemy lines in the service of Canadian Lords. #!"

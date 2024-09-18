@@ -62,7 +62,7 @@
  witchgodname_peyotist:0 "Night Spirits"
  witchgodname_peyotist_plural:0 "Night Spirits"
 
- half_moon:0 "Half Moon Hearth Peyotism"
+ half_moon:0 "Half Moon Hearth"
  half_moon_adj:0 "Half Moon"
  half_moon_adherent:0 "Half Moon Peyotist"
  half_moon_adherent_plural:0 "Half Moon Peyotists"
@@ -98,7 +98,7 @@
 
 
  #fire_cross
- fire_cross:0 "Fire Cross Hearth Peyotism"
+ fire_cross:0 "Fire Cross Hearth"
  fire_cross_adj:0 "Fire Cross"
  fire_cross_adherent:0 "Fire Cross Peyotist"
  fire_cross_adherent_plural:0 "Fire Cross Peyotists"

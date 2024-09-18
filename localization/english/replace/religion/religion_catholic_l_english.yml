@@ -23,7 +23,7 @@
  catholic_adj:0 "Conclavian"
  catholic_adherent:0 "Conclavian"
  catholic_adherent_plural:0 "Conclavians"
- catholic_desc:0 "After the [Concept('the_event_ate','Deluge')|E], the surviving Catholic hierarchy in America was given a miraculous sign at the Council of Chicago that confirmed the destruction of the Papacy in Rome; giving the surviving American cardinals the right to hold a papal conclave. The new American Popes lacked a permanent temporal seat for over a century- a period known as "the Wandering Papacy" - until control over the city of St. Louis in Missouri was finally achieved. With this newfound authority came a gradual solidification of power, with many formerly independent churches of varying denominations entering communion with the Papacy for various reasons; their traditions being subsumed in the process."
+ catholic_desc:0 "After the [Concept('the_event_ate','Deluge')|E], the surviving Catholic hierarchy in America was given a miraculous sign at the Council of Chicago that confirmed the destruction of the Papacy in Rome; giving the surviving American cardinals the right to hold a papal conclave. The new American Popes lacked a permanent temporal seat for over a century - a period known as "the Wandering Papacy" - until control over the city of St. Louis in Missouri was finally achieved. With this newfound authority came a gradual solidification of power, with many formerly independent churches of varying denominations entering communion with the Papacy for various reasons; their traditions being subsumed in the process."
  catholic_religious_head_title:0 "Pope"
  catholic_religious_head_title_name:0 "Papacy"
  k_papal_state_article:0 "the "
@@ -76,11 +76,11 @@
  particularist_adherent_plural:0 "Particularists"
  particularist_desc:0 "Particularists are heirs of the once unquestionably dominant faith of the continent, Catholicism, which was battered by the chaos and the change brought by the [Concept('the_event_ate','Deluge')|E]. In need of greater unity and direction than ever, a union of South American archbishops put their political differences aside and decided to unite as a sui iuris particular Catholic Church, and elected the Patriarch of South America to lead them. Originally based in Buenos Aires, the rise of other faiths has displaced the Patriarchy north of the Paraná, to Asunción. While the Particularists have maintained their Catholic Latin rites, traditional folk practices of the River Plate Basin have deeply permeated it. The autonomous ecclesiastical leadership has sanctioned many of its venerated local saints as canonical, as well as the devotions to Gauchito Gil, San La Muerte, and San Roque Gonzalez de Santa Cruz."
 
- animism:0 "Animist Catholic Church"
+ animism:0 "Catholic Episcopal Church"
  animism_adj:0 "Animist"
  animism_adherent:0 "Animist"
  animism_adherent_plural:0 "Animists"
- animism_desc:0 "The Animist Catholic Church, as the name implies, descends from antediluvian Catholicism. While the Animists have maintained their Catholic Latin rites, folk practices such as veneration of the souls, or “Ánimas”, of the tragically departed have become part of the traditional rites as well. This was done chiefly through the construction and maintenance of “Ánimitas”, small shrines they use to remember and venerate these souls. The devout reverence for these souls gave Animists their name, as they believe that the souls, with their lives unfulfilled, serve as a bridge between the mortal and the divine, enabling them to intercede in the name of the faithful and cause miracles. While most shrines are dedicated to local souls, some Ánimas have gained large followings, being regarded as saintly, hallowed spirits that are willing to help the faithful far across the land. Among these are La Difunta Correa, San Balmaceda, and Ceferino Namuncurá. The Animists were originally in communion with the Patriarch in Asunción, but as the Particularist states kept pushing for further power, the western South American churches left communion to establish their own autonomous patriarchs, led as equals by the Ecumenical Patriarch in Santiago."
+ animism_desc:0 "The Catholic Episcopal Church, often known as the Animist Church due to its official endorsement of local traditions such as Santiguadoras, [animas|E], and others, the Santiago Patriarchy has solidified a strong sphere of influence in western South America. In the past, these practices were viewed with respect but cautious distance by the mandamases, bosses of the church. However, after a movement of archbishops, supported by the lower echelons of the priesthood, [Concept('schism2578','broke off')|E] from the Asunción Patriarchy and published acts by the restored, albeit weakened, Patriarch of Santiago, the folk practices have become dogma."
 
  ursuline:0 "Ursuline Catholic Church"
  ursuline_adj:0 "Ursuline"
@@ -91,11 +91,11 @@
  ursuline_religious_head_title:0 "Abbess-General"
  b_ursuline_abbey:0 "General Abbey of St. Ursula"
 
- insular_caribbean:0 "Insular Christianity"
+ insular_caribbean:0 "Insular Canon"
  insular_caribbean_adj:0 "Insular"
  insular_caribbean_adherent:0 "Insularist"
  insular_caribbean_adherent_plural:0 "Insularists"
- insular_caribbean_desc:1 "The Catholics of the Caribbean are unique among non-American Catholics for being in full communion with the Conclavian Catholic Church. In return for this recognition, the Conclavian Church allows the archdioceses of the Caribbean to operate with a great deal of autonomy as the "Caribbean Insular Rite", which was formalized by the churches of the Caribbean after the [Concept('the_event_ate','Deluge')|E]. The Caribbean Insular Rite amounts to almost a full canon unto itself, containing both functional law and local saints. Most lay practitioners trust that their bishops do their due diligence and consider their local traditions to be in line with mainstream Catholicism. Other Catholics would note that many Insular Christians venerate "African saints" that are suspiciously similar to figures from other nearby religions."
+ insular_caribbean_desc:1 "The Insular Canon claims descent from Catholicism, but is in reality much changed from the religion of pre-[Concept('the_event_ate','Deluge')|E] Rome. Altered by the dynamism and diversity of the Caribbean, the tradition is an umbrella that encompasses countless local Catholic practices, each complete with its own rituals and local saints influenced by the many cultures and creeds that call the Caribbean home. Due to the fractured nature of the region, the faith's identity has more to do with a shared theological lineage with the oldest church of the Americas rather than one of bureaucracy or rigid structure. This tends to be viewed positively by adherents, who view their lack of subjugation beneath any foreign authority as a mark of pride."
 
  insular_caribbean_health_god_name:0 "St. Lazarus"
  insular_caribbean_health_god_name_possessive:0 "St. Lazarus's"
@@ -166,6 +166,8 @@
  ciceritism_desc:0 "Devout followers of Father Cicero’s teachings and the works of other notable religious men from the Brazilian Northeast, Cicerites adhere to the Latin rites, perform charity works, and follow special processions in Romaria. Both Cicerites and mainline Apostolics revere and praise the work of Cicero towards the church, but Cicerites have a particular reverence for his words."
  ciceritism_war_god_name:0 "Antônio Conselheiro"
  ciceritism_war_god_name_possessive:0 "Antônio Conselheiro's"
+ ciceritism_religious_head_title:0 "Padim"
+ ciceritism_religious_head_title_name:0 "Padimarchy"
 
  celestism:0 "Celestism"
  celestism_adj:0 "Celeste"
@@ -186,7 +188,7 @@
  cristero_adj:0 "Cristero"
  cristero_adherent:0 "Cristero"
  cristero_adherent_plural:0 "Cristeros"
- cristero_desc:0 ""La Iglesia Católica Cristera", or the Cristero Catholic Church, is a uniquely Mexican variety of Catholicism that survived after the [Concept('the_event_ate','Deluge')|E] and subsequently consolidated power. They are distinguished from other Catholic descended faiths by giving special focus to Our Lady of Guadalupe, Empress of the Americas and mother of Christ the King, alongside the Holy Trinity and the saints. They reject any attempt of establishing a new Papacy as heresy and claim that the Popes of old had given the Mexican Church Primature over the rest of the Catholic churches in the continent, and thus the Cristeros are charged with the protection of all the faithful in the Americas. In order to accomplish this task, all Holy and Lay Orders are placed under the command of the Prelate of Cristo Rey who, due to the continued absence of the Bishop of Rome, only answers to Cristo Rey himself."
+ cristero_desc:0 ""La Iglesia Católica Cristera", or the Cristero Catholic Church, is a uniquely Mexican variety of Catholicism that survived after the [Concept('the_event_ate','Deluge')|E] and subsequently consolidated power. They are distinguished from other Catholic descended faiths by giving special focus to Our Lady of Guadalupe, Empress of the Americas and mother of Christ the King, alongside the Holy Trinity and the saints. They reject any attempt of establishing a new Papacy as heresy and claim that the Popes of old had given the Mexican Church primacy over the rest of the Catholic churches in the continent, and thus the Cristeros are charged with the protection of all the faithful in the Americas. In order to accomplish this task, all Holy and Lay Orders are placed under the command of the Prelate of Cristo Rey who, due to the continued absence of the Bishop of Rome, only answers to Cristo Rey himself."
  
  cristero_high_god_name:0 "Dios"
  cristero_high_god_name_possessive:0 "Dios'"
@@ -740,6 +742,9 @@
  santeiro_divine_realm:0 "Heaven"
  santeiro_positive_afterlife:0 "Paradise"
  santeiro_negative_afterlife:0 "Hell"
+ 
+ santeiro_religious_head_title:0 "Archbishop"
+ santeiro_religious_head_title_name:0 "Primacy of Brazil"
 
  ghw_saintly_war:0 "Saintly War"
  ghw_saintly_wars:0 "Saintly Wars"
@@ -858,3 +863,39 @@
  
  renewalist_religious_head_title:0 "Patriarch"
  renewalist_religious_head_title_name:0 "Catholic Patriarchy"
+
+ #Traiteurism
+
+ traiteur:0 "Traiteurism"
+ traiteur_adj:0 "Traiteurist"
+ traiteur_adherent:0 "Traiteuriste"
+ traiteur_adherent_plural:0 "Traiteuristes"
+ traiteur_desc:0 "Surviving for centuries despite oppression and adversity, Traiteurists believe that the tribulations delivered upon mankind, be it through pestilence or desolation, purify the souls of the faithful and bring them closer to their Lord through His grace. In reward for their endurance, God grants believers the natural bounties of the Earth as a refuge. Named after their method for treating and cleansing the souls of the suffering with prayer and local herbs called "traitement", traiteurs and traiteuses fulfill the spiritual needs of their community. These skilled healers administer the seven sacraments and absolve the sins of the sick through traitement so that they may go directly to Heaven. Additionally, many folk beliefs have been integrated into the faith's canon, such as Jesus being born in Acadia and the veneration of the Archangel Gabriel Lajeunesse."
+
+ traiteur_high_god_name:0 "$christianity_high_god_name$"
+ traiteur_high_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ traiteur_creator_god_name:0 "$christianity_high_god_name$"
+ traiteur_creator_god_name_possessive:0 "$christianity_high_god_name_possessive$"
+ traiteur_health_god_name:0 "St. Charlene Richard"
+ traiteur_health_god_name_possessive:0 "St. Charlene Richard's"
+ traiteur_fertility_god_name:0 "St. Evangeline"
+ traiteur_fertility_god_name_possessive:0 "St. Evangeline's"
+ traiteur_wealth_god_name:0 "St. Expedite" #
+ traiteur_wealth_god_name_possessive:0 "St. Expedite's"
+ traiteur_household_god_name:0 "St. Joseph"
+ traiteur_household_god_name_possessive:0 "St. Joseph's"
+ traiteur_knowledge_god_name:0 "Archangel Gabriel Lajeunesse" #Archangel Gabriel mixed with Gabriel Lajeunesse from Evangeline
+ traiteur_knowledge_god_name_possessive:0 "Archangel Gabriel Lajeunesse's"
+ traiteur_fate_god_name:0 "Our Lady of Prompt Succor" #Patron of New Orleans, aspect of Mary
+ traiteur_fate_god_name_possessive:0 "Our Lady of Prompt Succor's"
+ traiteur_war_god_name:0 "$conclavian_war_god_name$"
+ traiteur_war_god_name_possessive:0 "$conclavian_war_god_name_possessive$" 
+ traiteur_trickster_god_name:0 "$traiteur_night_god_name$"
+ traiteur_trickster_god_name_possessive:0 "$traiteur_night_god_name_possessive$"
+ traiteur_night_god_name:0 "Rougarou"
+ traiteur_night_god_name_possessive:0 "Rougarou's"
+ traiteur_water_god_name:0 "St. Anthony" #Popular in Louisiana, patron of fishermen and sailors
+ traiteur_water_god_name_possessive:0 "St. Anthony's"
+ traiteur_death_deity_name:0 "Our Lady of Holy Death"
+ traiteur_death_deity_name_possessive:0 "Our Lady of Holy Death's"
+ traiteur_saints:0 "Saints"

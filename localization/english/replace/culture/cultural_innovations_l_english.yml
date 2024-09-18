@@ -36,7 +36,7 @@
  unlock_late_medieval_fortification_buildings:0 "Unlocks all Golden Age [fortification_buildings|E]"
  unlocks_naval_raiding:0 "Unlocks the ability to [raid|E] over seas, if you can already [raid|E]"
  unlocks_sailable_major_rivers:1 "Unlocks the ability to sail in Major Rivers"
- 
+
  unlock_march_contract:0 "Unlocks the #high $special_contract_march_short$#! [feudal_contract|E]"
  unlock_scutage_contract:0 "Unlocks the #high $special_contract_scutage_short$#! [feudal_contract|E]"
  unlock_palatinate_contract:0 "Unlocks the #high $special_contract_palatinate_short$#! [feudal_contract|E]"
@@ -99,7 +99,7 @@
  #Regional
  innovation_viking_tradition:0 "Viking Tactics"
  innovation_viking_tradition_desc:0 "The people of the north have a long tradition of trade, but also of piracy. Few are prepared to fight a threat that appears without warning from the banks of a river, and these warriors are masters of such tactics."
- 
+
  innovation_longboats:1 "Canoes"
  innovation_longboats_desc:1 "Our canoes are flexible and robust watercraft which can travel almost anywhere and brave the roughest weather, giving us exceptional mobility on the seas."
 
@@ -113,12 +113,13 @@
  eligible_accolade_elephantry_attribute_ACCOLADES_DLC:0 "[knights|E] of this [culture|E] become eligible for [GetAccoladeType('elephantry_attribute').GetName] [accolades|E]"
  eligible_accolade_elephantry_attribute:1 "[AddLocalizationIf( HasDlcFeature( 'accolades' ), 'eligible_accolade_elephantry_attribute_ACCOLADES_DLC')]"
 
- innovation_wootz_steel:0 "Wootz Steel"
- innovation_wootz_steel_desc:0 "Also known as Damascus steel, this carbon-rich metal is excellent for making weapons. Wootz steel is widely traded and is deemed the finest steel in the world. Throughout most of history, it has drawn the attention of Arab, Egyptian, Chinese, and even Roman traders."
- 
+ innovation_pittsburgh_steel:0 "Pittsburgh Steel"
+ innovation_pittsburgh_steel_desc:0 "Also known as Bessemer steel, this carbon-rich metal is excellent for making weapons. Pittsburgh steel is widely traded and is deemed the finest steel in the world. Some say that the technique to create it was passed down from before the [Concept('the_event_ate','Event')|E], although many others find this unlikely."
+ unlock_wind_furnaces:0 "Unlocks the $building_type_wind_furnace_01$ line of [buildings|E] in coastal [holdings|E] in [GetGeographicalRegion('world_us_great_lakes').GetName]"
+
 #  innovation_african_canoes:0 "West African Canoes"
 #  innovation_african_canoes_desc:0 "The great canoes of West Africa are excellent for navigating rivers and allows us to quickly ferry troops to where we need them."
- 
+
  innovation_table_of_princes:0 "Table of Princes"
  innovation_table_of_princes_desc:0 "The Table of Princes is the royal seat of Bohemian rulers, with the one sitting at the table being recognized as the rightful ruler. Under the code of house seniority, titles were given to the eldest living member of the ruling dynasty."
  unlock_single_heir_dynasty_house_changing:0 "Can enact $single_heir_dynasty_house$ at any [crown_authority|E]"
@@ -129,18 +130,18 @@
  innovation_visigothic_codes:0 "Visigothic Codes"
  innovation_visigothic_codes_desc:0 "Although many of the older traditions of the Visigoths have long been wiped from the world, the children of the Pyrenees remember the ancient ways, and how land was divided between sons and daughters practically but fairly."
  unlock_equal_succession_changing:0 "Can enact $equal_law$ [law|E] at any [crown_authority|E]"
- 
+
  innovation_river_boats:0 "River Boats"
  innovation_river_boats_desc:0 "Rivers have been the lifeblood of the Americas since far before the [Concept('the_event_ate','Event')|E]. Sailing, paddling, or rowing their waters is a part of every culture in the Americas."
 
  innovation_fazenda:0 "Fazenda"
  innovation_fazenda_desc:0 "Integral to the agricultural bounty of Brazil, these enormous estates that dot the rural provinces and urban hinterlands put large swathes of the peasantry to work, growing a variety of valuable cash crops. Many say that both Magnanimous Brazil and the bountious Coffee Current begin in these estates."
- 
+
 ######################
 # Early Medieval Era #
-###################### 
- 
- #Military 
+######################
+
+ #Military
  innovation_battlements:0 "Battlements"
  innovation_battlements_desc:0 "Beyond fortifying just the keep itself, building a durable outer wall which can be safely manned by our archers will give our castles an extra layer of protection against attackers."
 
@@ -202,7 +203,7 @@
 
  innovation_ghilman:0 "Ghilman"
  innovation_ghilman_desc:0 "Slave-soldiers taken as prisoners of war, ghilman are dedicated fighters who are both more loyal to us and cheaper to pay than common mercenaries."
- 
+
   innovation_caribbean_shipbuilding:0 "Caribbean Sloop"
   innovation_caribbean_shipbuilding_desc:0 "The great sloops of West Indies are excellent for navigating rivers and allows us to safely ferry troops to where we need them."
 
@@ -219,7 +220,7 @@
 
  innovation_castle_baileys:0 "Castle Baileys"
  innovation_castle_baileys_desc:0 "While the keep serves as the heart of a castle, it is far from the only important building. Constructing buildings like the stables and armory in a protected bailey will ensure we can properly garrison and equip our levies no matter the circumstances."
- 
+
  innovation_men-at-arms:0 "National Guard"
  innovation_men-at-arms_desc:0 "Those skilled in the horse and the lance will always be in demand, but are not always available. Keeping groups of national guardsmen on retainer will ensure that we do not lack experienced fighters when war inevitably breaks out."
 
@@ -273,8 +274,8 @@
 
 #####################
 # Late Medieval Era #
-##################### 
- 
+#####################
+
  #Military
  innovation_machicolations:0 "Bastion Forts"
  innovation_machicolations_desc:0 "A design of antediluvian origin, utilising the techniques of these Forts will allow us to improve our forts in an increasingly technologically advanced battlefield."
@@ -332,7 +333,7 @@
  innovation_deccan_unity_desc:0 "The influx of new beliefs and religions into our society has made it clear that our past focus on regionalism has been a mistake. We should band together with others of our faith and ensure a strong and enduring state that can stand up to external pressures."
 
  students_of_knighthood:0 "Children completing their education with a [martial|E] [education_focus|E] gain a $trait_education_martial_prowess$ [trait|E]."
- 
+
 #  innovation_kayaks:0 "Kayaks and Canoes"
 #  innovation_kayaks_desc:1 "Although terminology varies, these sturdy vessels can travel almost anywhere and even brave rough weather, giving northern cultures exceptional mobility on the seas and rivers."
 

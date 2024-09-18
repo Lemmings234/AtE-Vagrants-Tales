@@ -253,7 +253,7 @@
  doctrine_parameter_capitalist_syncretic_recipient_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have the $tenet_capitalist_syncretism_name$ [core_tenet|E]"
  doctrine_parameter_opinion_of_capitalist_syncretic_actor_opinion_active:0 ""
  doctrine_parameter_capitalist_reply_to_national_reserve:0 ""
- doctrine_parameter_opinion_of_national_reserve_reply_to_capitalist:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the $special_doctrine_national_reserve$ doctrine"
+ doctrine_parameter_opinion_of_national_reserve_reply_to_capitalist:0 "Mutual #positive_value +15#! [opinion|E] bonus with faiths that have the $special_doctrine_national_reserve_name$ doctrine"
 
 
  capitalist_syncretic_recipient_opinion_active_opinion_name:0 "$faith_syncretic_opinion_active_control$"
@@ -269,9 +269,9 @@
  doctrine_parameter_capitalist_syncretism_doctrines_alert:0 "#N This doctrine will remove itself on faith creation/reformation. If the resulting faith still has Capitalist Syncretism, the reformer will be able to select a new doctrine to replace this one#!"
 
  # IDIOSYNCRATIC
- special_doctrine_is_idiosyncratic_faith_name:0 "Teachings of the Cosmos"
+ special_doctrine_is_idiosyncratic_faith_name:0 "Teachings of the [cosmos|E]"
  is_idiosyncratic_faith_name:0 "$special_doctrine_is_idiosyncratic_faith_name$"
- special_doctrine_is_idiosyncratic_faith_desc:0 "El Cosmos resides within us all, and the ties of brotherhood bind those who recognize this fact."
+ special_doctrine_is_idiosyncratic_faith_desc:0 "The [cosmic_destiny|E] of Mexico pulls us in uncanny and strange ways, and so those who accept our idiosyncracies deserve respect."
  doctrine_parameter_hostility_override_tenet_idiosyncratic_syncretism:3 ""
  doctrine_parameter_loc_parameter_idiosyncratic_syncretism:3 "Non-Idiosyncratic Non-Anachronous [faiths|E] with the $tenet_idiosyncratic_syncretism_name$ tenet are considered $hostility_hostile_tooltippable$, while Anachronous [faiths|E] with the $tenet_idiosyncratic_syncretism_name$ tenet are considered $hostility_astray_tooltippable$"
 
