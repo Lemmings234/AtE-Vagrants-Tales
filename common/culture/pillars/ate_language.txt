@@ -7719,11 +7719,11 @@ language_scots = {
     }
 	color = { 0 36 125 }
 }
-language_irish = {
+language_gaelige = {
 	type = language
     is_shown = {
         language_is_shown_trigger = {
-            LANGUAGE = language_irish
+            LANGUAGE = language_gaelige
         }
     }
     parameters = {
@@ -7733,7 +7733,7 @@ language_irish = {
     ai_will_do = {
         value = 10
         if = {
-            limit = { has_cultural_pillar = language_irish }
+            limit = { has_cultural_pillar = language_gaelige }
             multiply = same_language_choice_factor
         }
         else_if = {

@@ -3,13 +3,14 @@
 	
 	ethos = ethos_courtly
 	heritage = heritage_britannic
-	language = language_irish
+	language = language_gaelige
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_pastoralists
+		tradition_zealous_people
 		tradition_poetry
-		tradition_maritime_mercantilism
-		tradition_monastic_communities
+		tradition_brewmasters
+		tradition_stand_and_fight
+		tradition_language_scholars
 	}
 	dlc_tradition = {
 		trait = tradition_fp3_fierce_independence

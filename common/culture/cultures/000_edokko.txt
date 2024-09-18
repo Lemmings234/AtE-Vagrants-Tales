@@ -2,7 +2,7 @@
 	color = hsv { 0.9 0.9 0.9 }
 	
 	ethos = ethos_stoic
-	heritage = heritage_nihonjin
+	heritage = heritage_yamato
 	language = language_nihongo
 	martial_custom = martial_custom_male_only
 	name_list = name_list_edokko

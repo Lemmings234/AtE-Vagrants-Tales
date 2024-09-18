@@ -9,6 +9,7 @@
 		tradition_poetry
 		tradition_highland_warriors
 		tradition_longbow_competitions
+		tradition_language_scholars
 	}
 	
 	name_list = name_list_welsh

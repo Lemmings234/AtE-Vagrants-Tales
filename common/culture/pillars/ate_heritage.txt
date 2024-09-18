@@ -1521,11 +1521,11 @@ heritage_britannic = {
 	}
 	audio_parameter = european
 }
-heritage_nihonjin = {
+heritage_yamato = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_nihonjin
+			HERITAGE = heritage_yamato
 		}
 	}
 	parameters = {
