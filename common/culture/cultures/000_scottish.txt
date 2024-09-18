@@ -10,7 +10,7 @@ scottish = {
 	traditions = {
 		tradition_mountain_homes
 		tradition_language_scholars
-		tradition_staunch_traditionalist
+		tradition_staunch_traditionalists
 	}
 	coa_gfx = {
 		yankee_coa_gfx
