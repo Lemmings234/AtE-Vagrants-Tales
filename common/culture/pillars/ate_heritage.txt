@@ -1521,3 +1521,16 @@ heritage_britannic = {
 	}
 	audio_parameter = european
 }
+heritage_nihonjin = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_nihonjin
+		}
+	}
+	parameters = {
+		heritage_group_pacific = yes
+		heritage_family_japonic = yes
+	}
+	audio_parameter = european
+}
