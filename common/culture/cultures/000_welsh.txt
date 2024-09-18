@@ -1,4 +1,4 @@
-welsh = {
+﻿welsh = {
 	color = welsh
 	
 	ethos = ethos_stoic

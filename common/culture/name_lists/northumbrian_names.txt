@@ -1,4 +1,4 @@
-name_list_anglish = {
+﻿name_list_anglish = {
 	male_names = {
 		Adam Adelard Adelgar Adrian Ahmed Ainsley Ajax Alan Albert Albus Alexander Alfred Algernon Ali Ambrose Andio Andrew Andwise Angus Anselm Anson Anthony Apodemus Archibald Arnold Arthur Attwell Aubrey Augustus Austell Awen
 		Baldrick Balian Bandobras Baravorn Barlow Barnaby Basso Bedivere Benedict Benjamin Berilac Bernard Bertram Bertrand Bilbo Bledric Bodger Boris Borogove Bounder Bowman Bracewell Branok Brian Bruno Brutus Bryok

@@ -1,4 +1,4 @@
-scottish = {
+﻿scottish = {
 	color = hsv { 0.3 0.7 0.7 }
 	
 	ethos = ethos_bellicose
