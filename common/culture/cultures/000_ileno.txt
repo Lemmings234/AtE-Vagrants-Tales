@@ -8,7 +8,7 @@
 	name_list = name_list_ileno
 	
 	traditions = {
-		#TODO
+		tradition_esteemed_hospitality
 		tradition_castle_keepers
 		tradition_mountaineers
 	}

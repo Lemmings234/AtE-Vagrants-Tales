@@ -9,7 +9,7 @@
 		D_e_act_lio Dalvo Danilo Delfim Deodoro Dion_i_act_sio Divaldo
 		Edgar Edival Eduardo Em_i_act_lio Emerson Enrico Epit_a_act_cio Eraldo Ernesto Eros Euclides Eurico Euro Ezequias Ezequiel
 		Fabiano Fel_i_act_cio Ferdinando Fernandino Firmo Floriano Francisco Frederico
-		Ger_o_hat_nimo Geraldo Get_u_act_lio Gibran Gilvan Givaldo Graciliano Guilherme
+		Ger_o_hat_nimo Geraldo Get_u_act_lio Gibran Gilvan Givaldo Givanildo Graciliano Guilherme
 		H_i_act_meros Hades Hefesto Helenildo Her_o_act_doto Hermes Hipnos Hugo Humberto
 		Ianko In_a_act_cio Inoc_e_hat_ncio Iracir Iranildo Ismar_G_o_act_is Isnaldo Itamar
 		J_a_hat_nio J_u_act_lio Jadson Jair Jameson Jeckson Jeferson Jo_a_tld_o Jo_a_tld_o_Jos_e_act_ Joaquim Jos_e_act_ Jos_e_act__C_i_act_cero Jos_e_act__In_a_act_cio Jos_e_act__J_u_act_lio Jos_e_act__L_u_act_cio Jos_e_act__R_e_act_gis Jota Judson Juscelino
@@ -251,6 +251,7 @@
 		"dynn_Ursulino"
 		"dynn_Valen_c_ced_a"
 		"dynn_Valentim"
+		"dynn_vanDerley"
 		"dynn_Ver_c_ced_osa"
 		"dynn_Vergel"
 		"dynn_Vilar"
@@ -258,6 +259,33 @@
 		"dynn_Virginio"
 		"dynn_Vital"
 		"dynn_Viturino"
+		"dynn_Wanderley"
+		"dynn_da_Alapenha"
+		"dynn_da_Concei_c_ced__a_tld_o"
+		"dynn_da_Hora"
+		"dynn_da_Paz"
+		"dynn_da_Silva_Santos"
+		"dynn_das_Dores"
+		"dynn_de_Albuquerque"
+		"dynn_de_Alc_a_hat_ntara"
+		"dynn_de_Amorim"
+		"dynn_de_Barros"
+		"dynn_de_Farias"
+		"dynn_de_Fran_c_ced_a"
+		"dynn_de_G_o_act_is"
+		"dynn_de_Gusm_a_tld_o"
+		"dynn_de_L_o_act_ssio_e_Seiblitz"
+		"dynn_de_Lima"
+		"dynn_de_Lira"
+		"dynn_de_Lourdes"
+		"dynn_de_Melo"
+		"dynn_de_Mendon_c_ced_a"
+		"dynn_de_Omena"
+		"dynn_de_Solidade"
+		"dynn_do_Carmo_da_Silva"
+		"dynn_do_Monte"
+		"dynn_do_Nascimento"
+
 	}
 	dynasty_names = {
 		"dynn_Abreu"
@@ -426,6 +454,7 @@
 		"dynn_Ursulino"
 		"dynn_Valen_c_ced_a"
 		"dynn_Valentim"
+		"dynn_vanDerley"
 		"dynn_Ver_c_ced_osa"
 		"dynn_Vergel"
 		"dynn_Vilar"
@@ -459,6 +488,7 @@
 		"dynn_do_Carmo_da_Silva"
 		"dynn_do_Monte"
 		"dynn_do_Nascimento"
+		"dynn_Wanderley"
 	}
 
 	dynasty_of_location_prefix = "dynnp_de"

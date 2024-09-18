@@ -1,5 +1,5 @@
 ﻿nambikwara = {
-	color = { 143 196 58 }
+	color = { 201 156 127 }
 	
 	ethos = ethos_spiritual
 	heritage = heritage_southern_amazonian
@@ -8,7 +8,7 @@
 	name_list = name_list_nambikwara
 	
 	traditions = {
-		#TODO
+		tradition_jungle_warriors
 		tradition_jungle_dwellers
 		tradition_caravaneers
 		tradition_xenophilic

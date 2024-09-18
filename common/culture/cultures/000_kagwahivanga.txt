@@ -8,10 +8,11 @@
 	name_list = name_list_kagwahivanga
 	
 	traditions = {
-		#TODO
+		#tradition_wedding_ceremonies
 		tradition_deep_jungle_dwellers
 		tradition_sacred_hunts
 		tradition_quarrelsome
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

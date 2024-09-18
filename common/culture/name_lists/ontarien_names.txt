@@ -88,6 +88,7 @@
 		"dynn_Briand"
 		"dynn_Brisson"
 		"dynn_Brochu"
+		"dynn_Bromilow"
 		"dynn_Brousseau"
 		"dynn_Brown"
 		"dynn_Cadieux"
@@ -147,6 +148,7 @@
 		"dynn_Filion"
 		"dynn_Firlotte"
 		"dynn_Fortin"
+		"dynn_Foubert"
 		"dynn_G_e_act_linas"
 		"dynn_Gagn_e_act_"
 		"dynn_Gagnier"
@@ -305,6 +307,7 @@
 		"dynn_Vaillancourt"
 		"dynn_Viau"
 		"dynn_Villeneuve"
+		"dynn_Ziebarth"
 	}
 	dynasty_names = {
 		"dynn_Aubut"
@@ -342,6 +345,7 @@
 		"dynn_Briand"
 		"dynn_Brisson"
 		"dynn_Brochu"
+		"dynn_Bromilow"
 		"dynn_Brousseau"
 		"dynn_Brown"
 		"dynn_Cadieux"
@@ -401,6 +405,7 @@
 		"dynn_Filion"
 		"dynn_Firlotte"
 		"dynn_Fortin"
+		"dynn_Foubert"
 		"dynn_G_e_act_linas"
 		"dynn_Gagn_e_act_"
 		"dynn_Gagnier"
@@ -559,6 +564,7 @@
 		"dynn_Vaillancourt"
 		"dynn_Viau"
 		"dynn_Villeneuve"
+		"dynn_Ziebarth"
 	}
 
 	dynasty_of_location_prefix = "dynnp_de"

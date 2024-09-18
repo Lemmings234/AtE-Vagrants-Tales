@@ -12,6 +12,7 @@
 		tradition_hunters
 		tradition_forest_folk
 		tradition_xenophilic
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

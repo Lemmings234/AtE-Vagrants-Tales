@@ -12,6 +12,7 @@
 		tradition_collective_lands
 		tradition_medicinal_plants
 		tradition_three_sisters
+		tradition_exogamous_marriages
 	}
 	dlc_tradition = {
 		trait = tradition_artisans

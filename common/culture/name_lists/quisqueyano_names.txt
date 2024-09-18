@@ -13,7 +13,7 @@
 		H_e_act_ctor Hatuey Heinz Henry Hern_a_act_n Hip_o_act_lito Hochiminh Hugo 
 		Ignacio Irvin Isidro Ismael Israel
 		Jacinto Jacobo Jadiel Jaime Jarlin Javier Jefry Jenofonte Jes_u_act_s Joaqu_i_act_n Jorge Jos_e_act_ Jos_e_act__Mar_i_act_a Jos_e_act__Miguel Juan Juan_Isidro Juli_a_act_n Julio Junior
-		Kelvin Kelvyn
+		Kelvin Kelvyn Klaus
 		Leandro Leo Le_o_act_n Le_o_act_nidas Leoncio Leonel Lorenzo Luis
 		Manuel Marcos Mario Mart_i_act_n Mateo Massimo Massimiliano Maximiliano Melit_o_act_n Melqu_i_act_ades Miguel Milc_i_act_ades Milton
 		Nelson Nicacio Nicol_a_act_s Nicomedes Nu_n_tld_o
@@ -80,6 +80,7 @@
 		"dynn_Amador"
 		"dynn_And_u_act_jar"
 		"dynn_Anderson"
+		"dynn_Angeles"
 		"dynn_Angulo"
 		"dynn_Antigua"
 		"dynn_Aponte"
@@ -114,6 +115,7 @@
 		"dynn_Beltr_e_act_"
 		"dynn_Beltran"
 		"dynn_Benavidez"
+		"dynn_Bencosme"
 		"dynn_Benitez"
 		"dynn_Berg_e_act_s"
 		"dynn_Beriguete"
@@ -188,7 +190,6 @@
 		"dynn_Cibao"
 		"dynn_Cid"
 		"dynn_Ciprian"
-		"dynn_Citizen"
 		"dynn_Clase"
 		"dynn_Cocco"
 		"dynn_Codik"
@@ -378,7 +379,7 @@
 		"dynn_Iznaga"
 		"dynn_Jackson"
 		"dynn_Jansen"
-		"dynn_Jaquez"
+		"dynn_J_a_act_quez"
 		"dynn_Jean"
 		"dynn_Jiminian"
 		"dynn_Johnson"
@@ -431,6 +432,7 @@
 		"dynn_Languasco"
 		"dynn_Lantigua"
 		"dynn_Lapaix"
+		"dynn_Lappost"
 		"dynn_Lazaro"
 		"dynn_Lebr_o_act_n"
 		"dynn_Ledesma"
@@ -616,7 +618,6 @@
 		"dynn_Rosario"
 		"dynn_Rosso"
 		"dynn_Rubio"
-		"dynn_Rubsamen"
 		"dynn_Ruggiero"
 		"dynn_Rymer"
 		"dynn_Sa"
@@ -793,6 +794,7 @@
 		"dynn_Amador"
 		"dynn_And_u_act_jar"
 		"dynn_Anderson"
+		"dynn_Angeles"
 		"dynn_Angulo"
 		"dynn_Antigua"
 		"dynn_Aponte"
@@ -827,6 +829,7 @@
 		"dynn_Beltr_e_act_"
 		"dynn_Beltran"
 		"dynn_Benavidez"
+		"dynn_Bencosme"
 		"dynn_Benitez"
 		"dynn_Berg_e_act_s"
 		"dynn_Beriguete"
@@ -901,7 +904,6 @@
 		"dynn_Cibao"
 		"dynn_Cid"
 		"dynn_Ciprian"
-		"dynn_Citizen"
 		"dynn_Clase"
 		"dynn_Cocco"
 		"dynn_Codik"
@@ -1091,7 +1093,7 @@
 		"dynn_Iznaga"
 		"dynn_Jackson"
 		"dynn_Jansen"
-		"dynn_Jaquez"
+		"dynn_J_a_act_quez"
 		"dynn_Jean"
 		"dynn_Jiminian"
 		"dynn_Johnson"
@@ -1144,6 +1146,7 @@
 		"dynn_Languasco"
 		"dynn_Lantigua"
 		"dynn_Lapaix"
+		"dynn_Lappost"
 		"dynn_Lazaro"
 		"dynn_Lebr_o_act_n"
 		"dynn_Ledesma"
@@ -1329,7 +1332,6 @@
 		"dynn_Rosario"
 		"dynn_Rosso"
 		"dynn_Rubio"
-		"dynn_Rubsamen"
 		"dynn_Ruggiero"
 		"dynn_Rymer"
 		"dynn_Sa"

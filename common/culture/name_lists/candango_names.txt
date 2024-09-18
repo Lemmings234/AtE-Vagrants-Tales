@@ -16,7 +16,7 @@
 		M_a_act_rcio Manoel Marcelo Marco Marcos Marivaldo Martins Matheus Maur_i_act_lio Murilo
 		Oct_a_act_vio Odilon Olair Os_o_act_rio Oscar
 		Paulo Pedro Peniel
-		Raad Rafael Raimundo Reginaldo Reinier Renato Ricardo Rob_e_act_rio Rodrigo Rog_e_act_rio Roosevelt
+		Raad Rafael Raimundo Reginaldo Reinier Renato Ricardo Rob_e_act_rio Rodrigo Rog_e_act_rio Rom_a_act_rio Roosevelt Ruan
 		S_e_act_rgio Salviano Sidney Sirleide
 		T_u_act_lio Tadeu Tiago
 		Valdelino
@@ -27,7 +27,7 @@
 		B_a_act_rbara Basilia Beatriz Benedita Bianca Bruna
 		Camila Camilly Carmen Cl_a_act_udia Cristiane
 		Daniela D_e_act_bora Denise
-		E_act_rika Edna Eduarda Eliane Elza Ester Eunice
+		E_act_rika Edna Eduarda Elane Eliane Elza Ester Eunice
 		Fabiana F_a_act_tima Fernanda Fl_a_act_via Francisca
 		Gabriela Geovana Geralda
 		Helena
@@ -35,7 +35,7 @@
 		Jaqueline Jessica Jhenyffer Joana Josefa J_u_act_lia Juliana
 		Karine
 		Larissa Leila Let_i_act_cia Luana L_u_act_cia Luciana Lu_i_act_za Luzia
-		M_a_act_rcia Margarida Maria Maria_F_a_act_tima Maria_Jos_e_act_ Maria_Laura Maria_Lu_i_act_za Maria_Paula Maria_de_Lourdes Mariana Marlene
+		M_a_act_rcia Margarida Maria Maria_F_a_act_tima Maria_Jos_e_act_ Maria_Laura Maria_Lu_i_act_za Maria_Paula Maria_de_Lourdes Mariana Marlene Marilza
 		Nair Nat_a_act_lia
 		Patr_i_act_cia Paula Priscila
 		Rafaela Raimunda Raquel Rebeca Regina Renata Rita Roberta Rosa Ros_a_hat_ngela
@@ -72,6 +72,7 @@
 		"dynn_Batista"
 		"dynn_Brito"
 		"dynn_Brunelli"
+		"dynn_Buitrago"
 		"dynn_Bulc_a_tld_o"
 		"dynn_Cadete"
 		"dynn_Caixeta"
@@ -105,6 +106,7 @@
 		"dynn_Fernandes"
 		"dynn_Ferreira"
 		"dynn_Filippelli"
+		"dynn_Fleury"
 		"dynn_Foresti"
 		"dynn_Franc_e_hat_s"
 		"dynn_Francisco"
@@ -202,6 +204,7 @@
 		"dynn_Rufino"
 		"dynn_Sabi_a_act_"
 		"dynn_Sampaio"
+		"dynn_Saraiva"
 		"dynn_Sardento"
 		"dynn_Sardinha"
 		"dynn_Satake"
@@ -216,7 +219,9 @@
 		"dynn_Tatico"
 		"dynn_Tatu"
 		"dynn_Tavares"
+		"dynn_Tolentino"
 		"dynn_Torres"
+		"dynn_Uchigasaki"
 		"dynn_Ulysses"
 		"dynn_Urso"
 		"dynn_Vallim"
@@ -297,6 +302,7 @@
 		"dynn_Batista"
 		"dynn_Brito"
 		"dynn_Brunelli"
+		"dynn_Buitrago"
 		"dynn_Bulc_a_tld_o"
 		"dynn_Cadete"
 		"dynn_Caixeta"
@@ -330,6 +336,7 @@
 		"dynn_Fernandes"
 		"dynn_Ferreira"
 		"dynn_Filippelli"
+		"dynn_Fleury"
 		"dynn_Foresti"
 		"dynn_Franc_e_hat_s"
 		"dynn_Francisco"
@@ -337,9 +344,9 @@
 		"dynn_Galego"
 		"dynn_Garla"
 		"dynn_Goiabeira"
-		"dynn_Gomes"
 		"dynn_Gomes_Ferreira"
 		"dynn_Gomes_Naves"
+		"dynn_Gomes"
 		"dynn_Gontijo"
 		"dynn_Grass"
 		"dynn_Grisalho"
@@ -427,6 +434,7 @@
 		"dynn_Rufino"
 		"dynn_Sabi_a_act_"
 		"dynn_Sampaio"
+		"dynn_Saraiva"
 		"dynn_Sardento"
 		"dynn_Sardinha"
 		"dynn_Satake"
@@ -441,7 +449,9 @@
 		"dynn_Tatico"
 		"dynn_Tatu"
 		"dynn_Tavares"
+		"dynn_Tolentino"
 		"dynn_Torres"
+		"dynn_Uchigasaki"
 		"dynn_Ulysses"
 		"dynn_Urso"
 		"dynn_Vallim"

@@ -1,5 +1,5 @@
 ﻿guaro = {
-	color = { 14 99 99 }
+	color = { 230 133 142 }
 	
 	ethos = ethos_courtly
 	heritage = heritage_venezuelan

@@ -8,9 +8,9 @@
 	name_list = name_list_karipuna
 	
 	traditions = {
-		#TODO
+		tradition_equitable
 		tradition_deep_jungle_dwellers
-		tradition_fishermen
+		tradition_festivities
 		tradition_zealous_people
 	}
 	

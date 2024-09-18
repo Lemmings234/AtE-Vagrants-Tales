@@ -12,7 +12,7 @@
 		Gastelo Genaro George Gregorio 
 		H_e_act_ctor Hamilton Harold Herder Hermenegildo Horacio Hugo
 		Jairo Javier Jefferson Jerson Jes_u_act_s Johnny Jorge Jos_e_act_ Jos_e_act__Alberto Jos_e_act__Alfredo Jos_e_act__Luis Jos_e_act__Mart_i_act_n Josu_e_act_ Juan Juan_Carlos Juan_Daniel Juan_Manuel Juan_Miguel Julio Julio_C_e_act_sar Junior
-		Klever
+		Klaus Klever
 		Ladislao Lenin Limber Luis 
 		Mamerto Manuel Mariano Marilia Marvin Mauro Mercy Miguel Mirko Mois_e_act_s
 		Nicol_a_act_s Nilson Nixon Nolberto
@@ -26,7 +26,7 @@
 		Zenon
 	}
 	female_names = {
-		A_act_urea Ana Andrea
+		A_act_urea Alina Ana Andrea
 		Benilda Blanca
 		Carmela Carmen Clementina
 		Daniella Diana Dionisia Dolibeth 
@@ -35,14 +35,15 @@
 		Gisela Gloria Gricelda
 		Ingrid Isabel Ivonne
 		Jackeline Janet Julia Julissa
-		Leonor Luisa Luz
-		Mar_i_act_a Marina Martha Martina Mercedes Milagros
+		Leonor Linda Luisa Luz
+		Mar_i_act_a Marina Martha Martina Mercedes Milagros Mirsa
 		Noem_i_act_
 		Ofelia Olga Orfa Ortencia 
 		Patricia Petronila
 		Redelinda Rita Rosa Ruth
 		Sally Sof_i_act_a Sonia
 		Tania Teresa
+		U_act_rsula
 		Victoria Vivian
 		Yaremi Yolanda
 		Zoraida Zulmira
@@ -50,6 +51,7 @@
 
 	cadet_dynasty_names = {
 		"dynn_Abanto"
+		"dynn_Abensur"
 		"dynn_Aching"
 		"dynn_Acho"
 		"dynn_Achong"
@@ -76,6 +78,7 @@
 		"dynn_Astigarraga"
 		"dynn_Ayambo"
 		"dynn_Ayarza"
+		"dynn_Babilonia"
 		"dynn_Bacalla"
 		"dynn_Barbar_a_act_n"
 		"dynn_Barboza"
@@ -83,6 +86,8 @@
 		"dynn_Bartra"
 		"dynn_Bashukat"
 		"dynn_Becerra"
+		"dynn_Benday_a_act_n"
+		"dynn_Bohabot"
 		"dynn_Bones"
 		"dynn_Bosmediano"
 		"dynn_Brown"
@@ -110,6 +115,7 @@
 		"dynn_Chang"
 		"dynn_Charpentier"
 		"dynn_Chau"
+		"dynn_Chavez"
 		"dynn_Checkley"
 		"dynn_Chichipe"
 		"dynn_Chinchay"
@@ -123,12 +129,14 @@
 		"dynn_Chumbe"
 		"dynn_Chung"
 		"dynn_Chuquipiondo"
+		"dynn_Chuquizuta"
 		"dynn_Cieza"
 		"dynn_Claussi"
 		"dynn_Coblentz"
 		"dynn_Coelho"
 		"dynn_Coello"
 		"dynn_Cohelo"
+		"dynn_Cohen"
 		"dynn_Collantes"
 		"dynn_Collazos"
 		"dynn_Coquinche"
@@ -151,6 +159,7 @@
 		"dynn_Do_n_tld_ez"
 		"dynn_Donayre"
 		"dynn_Durand"
+		"dynn_Edery"
 		"dynn_Elaluf"
 		"dynn_Elescano"
 		"dynn_Elespuru"
@@ -162,6 +171,7 @@
 		"dynn_Ferry"
 		"dynn_G_u_uml_mack"
 		"dynn_Gaviola"
+		"dynn_Gime"
 		"dynn_Go_n_tld_as"
 		"dynn_Go_n_tld_ez"
 		"dynn_Goicochea"
@@ -170,6 +180,7 @@
 		"dynn_Gr_a_act_ndez"
 		"dynn_Graicht"
 		"dynn_Gratelly"
+		"dynn_Guabloche"
 		"dynn_Guevara"
 		"dynn_Guimack"
 		"dynn_Guimet"
@@ -188,6 +199,7 @@
 		"dynn_Holff"
 		"dynn_Horna"
 		"dynn_Hoyos"
+		"dynn_Hualinga"
 		"dynn_Huanchini"
 		"dynn_Huatangari"
 		"dynn_Huayamba"
@@ -214,8 +226,11 @@
 		"dynn_Kunchikui"
 		"dynn_L_o_act_pez"
 		"dynn_La_Torre"
+		"dynn_Laichi"
 		"dynn_Lao"
+		"dynn_Lavy"
 		"dynn_Lecca"
+		"dynn_Levi"
 		"dynn_Levy"
 		"dynn_Llaja"
 		"dynn_Llanos"
@@ -233,6 +248,7 @@
 		"dynn_Manuyama"
 		"dynn_Marayahua"
 		"dynn_Marchand"
+		"dynn_Marill"
 		"dynn_Mashigkash"
 		"dynn_Mashingashi"
 		"dynn_Mathews"
@@ -243,6 +259,8 @@
 		"dynn_Miyashiro"
 		"dynn_Mondrag_o_act_n"
 		"dynn_Montenegro"
+		"dynn_Morey"
+		"dynn_Mori"
 		"dynn_Mozombite"
 		"dynn_Mu_n_tld_oz"
 		"dynn_Mun_a_act_rriz"
@@ -280,11 +298,14 @@
 		"dynn_Pinasco"
 		"dynn_Pinedo"
 		"dynn_Pinon"
+		"dynn_Pinto"
 		"dynn_Pisango"
 		"dynn_Pizango"
 		"dynn_Pizarro"
+		"dynn_Polocena"
 		"dynn_Portocarrero"
 		"dynn_Prada"
+		"dynn_Prentice"
 		"dynn_Puerta"
 		"dynn_Pusc_a_act_n"
 		"dynn_Puyo"
@@ -315,6 +336,7 @@
 		"dynn_Segura"
 		"dynn_Sejekan"
 		"dynn_Serv_a_act_n"
+		"dynn_Sevillano"
 		"dynn_Shapiama"
 		"dynn_Shardin"
 		"dynn_Shawit"
@@ -337,19 +359,21 @@
 		"dynn_Tagkamash"
 		"dynn_Talexi"
 		"dynn_Tananta"
+		"dynn_Tanchiva"
 		"dynn_Tang"
 		"dynn_Tangoa"
 		"dynn_Tantale_a_act_n"
 		"dynn_Tapia"
 		"dynn_Tapullima"
 		"dynn_Tarrillo"
+		"dynn_Teixeira"
 		"dynn_Tello"
 		"dynn_Tenazoa"
 		"dynn_Terrones"
+		"dynn_Toledano"
 		"dynn_Tong"
 		"dynn_Torrej_o_act_n"
 		"dynn_Trigoso"
-		"dynn_Tsuchiya"
 		"dynn_Tsajuput"
 		"dynn_Tserem"
 		"dynn_Tsuchiya"
@@ -357,6 +381,7 @@
 		"dynn_Upiachihuay"
 		"dynn_Uruki"
 		"dynn_Ushi_n_tld_ahua"
+		"dynn_Usseglio"
 		"dynn_Utazu"
 		"dynn_Uwak"
 		"dynn_Valle"
@@ -369,6 +394,7 @@
 		"dynn_Villacorta"
 		"dynn_Villavicencio"
 		"dynn_Villegas"
+		"dynn_Vizcarra"
 		"dynn_Wampagkit"
 		"dynn_Wampash"
 		"dynn_Watanave"
@@ -405,6 +431,7 @@
 	}
 	dynasty_names = {
 		"dynn_Abanto"
+		"dynn_Abensur"
 		"dynn_Aching"
 		"dynn_Acho"
 		"dynn_Achong"
@@ -431,6 +458,7 @@
 		"dynn_Astigarraga"
 		"dynn_Ayambo"
 		"dynn_Ayarza"
+		"dynn_Babilonia"
 		"dynn_Bacalla"
 		"dynn_Barbar_a_act_n"
 		"dynn_Barboza"
@@ -438,6 +466,8 @@
 		"dynn_Bartra"
 		"dynn_Bashukat"
 		"dynn_Becerra"
+		"dynn_Benday_a_act_n"
+		"dynn_Bohabot"
 		"dynn_Bones"
 		"dynn_Bosmediano"
 		"dynn_Brown"
@@ -465,6 +495,7 @@
 		"dynn_Chang"
 		"dynn_Charpentier"
 		"dynn_Chau"
+		"dynn_Chavez"
 		"dynn_Checkley"
 		"dynn_Chichipe"
 		"dynn_Chinchay"
@@ -478,12 +509,14 @@
 		"dynn_Chumbe"
 		"dynn_Chung"
 		"dynn_Chuquipiondo"
+		"dynn_Chuquizuta"
 		"dynn_Cieza"
 		"dynn_Claussi"
 		"dynn_Coblentz"
 		"dynn_Coelho"
 		"dynn_Coello"
 		"dynn_Cohelo"
+		"dynn_Cohen"
 		"dynn_Collantes"
 		"dynn_Collazos"
 		"dynn_Coquinche"
@@ -506,6 +539,7 @@
 		"dynn_Do_n_tld_ez"
 		"dynn_Donayre"
 		"dynn_Durand"
+		"dynn_Edery"
 		"dynn_Elaluf"
 		"dynn_Elescano"
 		"dynn_Elespuru"
@@ -517,6 +551,7 @@
 		"dynn_Ferry"
 		"dynn_G_u_uml_mack"
 		"dynn_Gaviola"
+		"dynn_Gime"
 		"dynn_Go_n_tld_as"
 		"dynn_Go_n_tld_ez"
 		"dynn_Goicochea"
@@ -525,6 +560,7 @@
 		"dynn_Gr_a_act_ndez"
 		"dynn_Graicht"
 		"dynn_Gratelly"
+		"dynn_Guabloche"
 		"dynn_Guevara"
 		"dynn_Guimack"
 		"dynn_Guimet"
@@ -543,6 +579,7 @@
 		"dynn_Holff"
 		"dynn_Horna"
 		"dynn_Hoyos"
+		"dynn_Hualinga"
 		"dynn_Huanchini"
 		"dynn_Huatangari"
 		"dynn_Huayamba"
@@ -569,8 +606,11 @@
 		"dynn_Kunchikui"
 		"dynn_L_o_act_pez"
 		"dynn_La_Torre"
+		"dynn_Laichi"
 		"dynn_Lao"
+		"dynn_Lavy"
 		"dynn_Lecca"
+		"dynn_Levi"
 		"dynn_Levy"
 		"dynn_Llaja"
 		"dynn_Llanos"
@@ -588,6 +628,7 @@
 		"dynn_Manuyama"
 		"dynn_Marayahua"
 		"dynn_Marchand"
+		"dynn_Marill"
 		"dynn_Mashigkash"
 		"dynn_Mashingashi"
 		"dynn_Mathews"
@@ -598,6 +639,8 @@
 		"dynn_Miyashiro"
 		"dynn_Mondrag_o_act_n"
 		"dynn_Montenegro"
+		"dynn_Morey"
+		"dynn_Mori"
 		"dynn_Mozombite"
 		"dynn_Mu_n_tld_oz"
 		"dynn_Mun_a_act_rriz"
@@ -635,11 +678,14 @@
 		"dynn_Pinasco"
 		"dynn_Pinedo"
 		"dynn_Pinon"
+		"dynn_Pinto"
 		"dynn_Pisango"
 		"dynn_Pizango"
 		"dynn_Pizarro"
+		"dynn_Polocena"
 		"dynn_Portocarrero"
 		"dynn_Prada"
+		"dynn_Prentice"
 		"dynn_Puerta"
 		"dynn_Pusc_a_act_n"
 		"dynn_Puyo"
@@ -670,6 +716,7 @@
 		"dynn_Segura"
 		"dynn_Sejekan"
 		"dynn_Serv_a_act_n"
+		"dynn_Sevillano"
 		"dynn_Shapiama"
 		"dynn_Shardin"
 		"dynn_Shawit"
@@ -692,15 +739,18 @@
 		"dynn_Tagkamash"
 		"dynn_Talexi"
 		"dynn_Tananta"
+		"dynn_Tanchiva"
 		"dynn_Tang"
 		"dynn_Tangoa"
 		"dynn_Tantale_a_act_n"
 		"dynn_Tapia"
 		"dynn_Tapullima"
 		"dynn_Tarrillo"
+		"dynn_Teixeira"
 		"dynn_Tello"
 		"dynn_Tenazoa"
 		"dynn_Terrones"
+		"dynn_Toledano"
 		"dynn_Tong"
 		"dynn_Torrej_o_act_n"
 		"dynn_Trigoso"
@@ -710,6 +760,7 @@
 		"dynn_Upiachihuay"
 		"dynn_Uruki"
 		"dynn_Ushi_n_tld_ahua"
+		"dynn_Usseglio"
 		"dynn_Utazu"
 		"dynn_Uwak"
 		"dynn_Valle"
@@ -722,6 +773,7 @@
 		"dynn_Villacorta"
 		"dynn_Villavicencio"
 		"dynn_Villegas"
+		"dynn_Vizcarra"
 		"dynn_Wampagkit"
 		"dynn_Wampash"
 		"dynn_Watanave"

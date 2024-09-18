@@ -11,6 +11,7 @@
 		tradition_mountain_homes
 		tradition_adaptive_skirmishing
 		tradition_mountaineers
+		tradition_zealous_people
 	}
 	
 	coa_gfx = {

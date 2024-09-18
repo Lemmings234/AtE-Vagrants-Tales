@@ -12,6 +12,7 @@
 		tradition_isolationist
 		tradition_warrior_culture
 		tradition_reverence_for_veterans
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

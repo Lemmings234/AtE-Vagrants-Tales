@@ -38,7 +38,7 @@
 		In_e_act_s Ingrid Isabel
 		Juana Julia Juliana
 		Karina Katherine Katia
-		Lisbeth Luz Luz_Mar_i_act_a
+		Linda Lisbeth Luz Luz_Mar_i_act_a
 		Malvina Mar_i_act_a Mar_i_act_a_Elena Maritza Martha Maximina Menc_i_act_a Mercedes Milagros
 		Nancy Natalia Nilda Noem_i_act_ Norma
 		Olga Olinda
@@ -64,6 +64,7 @@
 		"dynn_Alfaro"
 		"dynn_Amez"
 		"dynn_Andagua"
+		"dynn_Angeles"
 		"dynn_Ape_n_tld_a"
 		"dynn_Aqui_n_tld_o"
 		"dynn_Aranda"
@@ -84,6 +85,7 @@
 		"dynn_Bed_o_act_n"
 		"dynn_Benites"
 		"dynn_Bernuy"
+		"dynn_Bibiano"
 		"dynn_Blanquillo"
 		"dynn_Blas"
 		"dynn_Bobadilla"
@@ -152,6 +154,7 @@
 		"dynn_Falla"
 		"dynn_Falvy"
 		"dynn_Figueroa"
+		"dynn_Fujimura"
 		"dynn_Fung"
 		"dynn_Gamarra"
 		"dynn_Gambini"
@@ -225,6 +228,7 @@
 		"dynn_Moreno"
 		"dynn_Mori"
 		"dynn_Morillo"
+		"dynn_Mundaca"
 		"dynn_Murga"
 		"dynn_Napur_i_act_"
 		"dynn_Ninatanta"
@@ -297,6 +301,7 @@
 		"dynn_Valverde"
 		"dynn_Varillas"
 		"dynn_Vega"
+		"dynn_Venegas"
 		"dynn_Venturo"
 		"dynn_Veramendi"
 		"dynn_Vergaray"
@@ -330,6 +335,7 @@
 		"dynn_Alfaro"
 		"dynn_Amez"
 		"dynn_Andagua"
+		"dynn_Angeles"
 		"dynn_Ape_n_tld_a"
 		"dynn_Aqui_n_tld_o"
 		"dynn_Aranda"
@@ -350,6 +356,7 @@
 		"dynn_Bed_o_act_n"
 		"dynn_Benites"
 		"dynn_Bernuy"
+		"dynn_Bibiano"
 		"dynn_Blanquillo"
 		"dynn_Blas"
 		"dynn_Bobadilla"
@@ -418,6 +425,7 @@
 		"dynn_Falla"
 		"dynn_Falvy"
 		"dynn_Figueroa"
+		"dynn_Fujimura"
 		"dynn_Fung"
 		"dynn_Gamarra"
 		"dynn_Gambini"
@@ -491,6 +499,7 @@
 		"dynn_Moreno"
 		"dynn_Mori"
 		"dynn_Morillo"
+		"dynn_Mundaca"
 		"dynn_Murga"
 		"dynn_Napur_i_act_"
 		"dynn_Ninatanta"
@@ -563,6 +572,7 @@
 		"dynn_Valverde"
 		"dynn_Varillas"
 		"dynn_Vega"
+		"dynn_Venegas"
 		"dynn_Venturo"
 		"dynn_Veramendi"
 		"dynn_Vergaray"

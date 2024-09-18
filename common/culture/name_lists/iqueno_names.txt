@@ -44,6 +44,7 @@
 		Raquel Rita Rosa Rosario Ruth
 		Sandra Sara Sof_i_act_a Sonia
 		Teresa
+		U_act_rsula
 		Ver_o_act_nica Virginia
 		Waldetrudis
 		Yanet Yesica Yolanda
@@ -287,6 +288,7 @@
 		"dynn_Sotelo"
 		"dynn_Sotteccani"
 		"dynn_Sulca"
+		"dynn_Taber"
 		"dynn_Tasayco"
 		"dynn_Tataje"
 		"dynn_Tintaya"
@@ -565,6 +567,7 @@
 		"dynn_Sotelo"
 		"dynn_Sotteccani"
 		"dynn_Sulca"
+		"dynn_Taber"
 		"dynn_Tasayco"
 		"dynn_Tataje"
 		"dynn_Tintaya"

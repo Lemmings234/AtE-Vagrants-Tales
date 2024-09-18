@@ -11,7 +11,7 @@
 		tradition_horse_breeder
 		tradition_storytellers
 		tradition_mountaineers
-		tradition_horse_breeder
+		tradition_sacred_hunts
 	}
 	
 	coa_gfx = {

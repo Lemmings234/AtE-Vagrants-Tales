@@ -8,7 +8,7 @@
 	name_list = name_list_maracaju
 	
 	traditions = {
-		#TODO
+		tradition_wetlanders
 		tradition_boiadeiros
 		tradition_welcoming
 		tradition_materos

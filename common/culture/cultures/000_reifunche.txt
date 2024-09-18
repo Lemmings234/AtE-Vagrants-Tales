@@ -12,6 +12,7 @@
 		tradition_zealous_people
 		tradition_newentun
 		tradition_ad_mapu
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

@@ -10,7 +10,7 @@
 	name_list = name_list_camba
 	
 	traditions = {
-		#TODO
+		tradition_sacred_groves
 		tradition_materos
 		tradition_agrarian
 		tradition_stalwart_defenders

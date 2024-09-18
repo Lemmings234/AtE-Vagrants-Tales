@@ -1,9 +1,12 @@
 ﻿trifinio = {
 	color = { 17 120 73 }
+
+	created = 2066.1.1
+	parents = { charapa manauara }
 	
 	ethos = ethos_communal
-	heritage = heritage_ciclico
-	language = language_amazonico
+	heritage = heritage_selvatico
+	language = language_fronterizo
 	martial_custom = martial_custom_male_only
 	name_list = name_list_trifinio
 	
@@ -21,10 +24,10 @@
 	}
 	building_gfx = {
 		trifinio_building_gfx
-		brazilian_equatorial_building_gfx #Architecture-style
+		peru_bolivian_building_gfx #Architecture-style
 		brazilian_building_gfx #Style
 		latam_building_gfx #Super-style
-		heritage_ciclico_building_gfx
+		heritage_selvatico_building_gfx
 		mediterranean_building_gfx
 		amazonico_building_gfx
 		amazonian_tribal_gfx

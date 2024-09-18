@@ -5,7 +5,7 @@
 	male_names = {
 		A_act_lvaro A_hat_ngelo Ad_a_tld_o Adair Adelg_i_act_cio Adriano Alberto Alcindo Alessandro Alonso Am_e_act_rico Andr_e_act_ Anfr_i_act_sio Ant_o_hat_nio Arthur At_e_hat_ncio Augusto
 		Baltasar Barcelo Bartolomeu Batista Bento Beto Bock Breno Bruno
-		C_a_act_ssio C_i_act_cero Cabral Caco Caio Caique Carlos Casarin Cau_a_tld_ Celso Cl_a_act_udio Cl_o_act_vis Clodoaldo Costa Crist_o_act_v_a_tld_o
+		C_a_act_ssio C_i_act_cero Cabral Caco Caio Caique Carlos Casarin Cau_a_tld_ Celso Cl_a_act_udio Cleverson Cl_o_act_vis Clodoaldo Costa Crist_o_act_v_a_tld_o
 		Dami_a_tld_o Daniel Darc_i_act_lio Davi Dem_e_act_trio Dem_o_act_crito Di_o_act_genes Dimas Dinis Diogo Dion_i_act_sio Duarte Dudi
 		E_act_rico Eduardo Eg_i_act_dio Elias Elp_i_act_dio Emanuel Em_i_act_lio Enzo Epit_a_act_cio Erc_i_act_lio Ermenegildo Ernani Ernesto Est_e_hat_v_a_tld_o Eug_e_hat_nio Eul_a_hat_mpio Eumir Eus_e_act_bio Eust_a_act_quio Everton Ezequiel
 		F_a_act_bio Fabr_i_act_cio Fausto Feliciano Fernando Filipe Fl_a_act_vio Flor_e_hat_ncio Francisco Frederico
@@ -19,7 +19,7 @@
 		Olavo Oliveira Olyntho Osvaldo Ot_a_act_vio Otac_i_act_lio
 		Patr_i_act_cio Paulo Peaga Pedro Petr_o_hat_nio Pl_i_act_nio
 		Queiroz
-		Rafael Raimundo Raul Reinaldo Renan Renato Ricardo Roberto Robson Rodolfo Rodrigo Rog_e_act_rio Ronaldo Ruan
+		Rafael Raimundo Raul Reinaldo Renan Renato Ricardo Roberto Robson Rodolfo Rodrigo Rog_e_act_rio Ronaldo Rosimar Ruan
 		S_e_act_rgio S_i_act_lvio Sabiniano Salom_a_tld_o Samuel Santos Sauka Sebasti_a_tld_o Severino Sim_a_tld_o Sousa
 		T_a_act_cito Tadeu Tales Teobaldo Teod_o_act_sio Tiago Tim_o_act_teo Trajano
 		Ulisses Umberto
@@ -42,7 +42,7 @@
 		J_e_act_ssica J_u_act_lia Jacqueline Jade Jennifer Joana Josefa Judith Juliana
 		K_a_act_tia Karina Keila
 		L_i_act_dia L_i_act_via La_i_act_s L_u_act_cia Laila Lara Larissa Laura Lav_i_act_nia Leandra Let_i_act_cia Lorena Lorraine Lu_i_act_sa Luana Luciane Lucineia
-		M_o_hat_nica Ma_i_act_sa Magda Manuela Mar_i_act_lia Marcela Margarida Maria Maria_Eduarda Maria_do_Socorro Mariana Marta Mayara Melisa Mercedes Micaela Mirela Morgana
+		M_o_hat_nica Ma_i_act_sa Magda Manuela Mar_i_act_lia Marcela Margarida Maria Maria_Eduarda Maria_do_Socorro Mariana Marilza Marta Mayara Melisa Mercedes Micaela Mirela Morgana
 		N_a_act_dia Nat_a_act_lia Natasha Nayara Neusa Nicole Nilda
 		Odete Ol_i_act_via Olga Ot_a_act_via
 		Pamela Patr_i_act_cia Paula Pen_e_act_lope Pietra Poliana Priscila
@@ -210,6 +210,7 @@
 		"dynn_Cascudo"
 		"dynn_Cassemiro"
 		"dynn_Cassiano"
+		"dynn_Cassin"
 		"dynn_Castelhane"
 		"dynn_Castilho"
 		"dynn_Castor"
@@ -346,6 +347,7 @@
 		"dynn_El_o_act_i"
 		"dynn_Eleoterio"
 		"dynn_Elesbao"
+		"dynn_Eliezer"
 		"dynn_Elis"
 		"dynn_Emiliano"
 		"dynn_Espeschit"
@@ -386,6 +388,7 @@
 		"dynn_Fiochi"
 		"dynn_Firmino"
 		"dynn_Flautim"
+		"dynn_Fleming"
 		"dynn_Florentino"
 		"dynn_Florenzano"
 		"dynn_Flores"
@@ -405,6 +408,7 @@
 		"dynn_Fratini"
 		"dynn_Freire"
 		"dynn_Freitas"
+		"dynn_Freixo"
 		"dynn_Froes"
 		"dynn_Frossard"
 		"dynn_Fu"
@@ -490,6 +494,7 @@
 		"dynn_Kaiser"
 		"dynn_Kanno"
 		"dynn_Kicis"
+		"dynn_Klayn"
 		"dynn_Klem"
 		"dynn_Knop"
 		"dynn_Kozlowski"
@@ -511,6 +516,7 @@
 		"dynn_Leite_Ribeiro"
 		"dynn_Leite"
 		"dynn_Leopoldino"
+		"dynn_Lessa"
 		"dynn_Letrado"
 		"dynn_Liberato"
 		"dynn_Ligabo"
@@ -533,6 +539,7 @@
 		"dynn_Machado"
 		"dynn_Maciel"
 		"dynn_Magalh_a_tld_es"
+		"dynn_Magierek"
 		"dynn_Majella"
 		"dynn_Makiyama"
 		"dynn_Malaquias"
@@ -633,7 +640,9 @@
 		"dynn_Orlando"
 		"dynn_Ortiz"
 		"dynn_Oscar"
+		"dynn_Otaviano"
 		"dynn_Otoni"
+		"dynn_Ottoni"
 		"dynn_Ourives"
 		"dynn_Ouverney"
 		"dynn_Padilha"
@@ -791,6 +800,7 @@
 		"dynn_Stagi"
 		"dynn_Stambassi"
 		"dynn_Stefani"
+		"dynn_Streitenberger"
 		"dynn_Suassuna"
 		"dynn_Surian"
 		"dynn_Suni"
@@ -808,6 +818,7 @@
 		"dynn_Terra"
 		"dynn_Terto"
 		"dynn_Theodoro"
+		"dynn_Theophilo"
 		"dynn_Thielmann"
 		"dynn_Thomaz"
 		"dynn_Tiburcio"
@@ -1043,6 +1054,7 @@
 		"dynn_Cascudo"
 		"dynn_Cassemiro"
 		"dynn_Cassiano"
+		"dynn_Cassin"
 		"dynn_Castelhane"
 		"dynn_Castilho"
 		"dynn_Castor"
@@ -1179,6 +1191,7 @@
 		"dynn_El_o_act_i"
 		"dynn_Eleoterio"
 		"dynn_Elesbao"
+		"dynn_Eliezer"
 		"dynn_Elis"
 		"dynn_Emiliano"
 		"dynn_Espeschit"
@@ -1219,6 +1232,7 @@
 		"dynn_Fiochi"
 		"dynn_Firmino"
 		"dynn_Flautim"
+		"dynn_Fleming"
 		"dynn_Florentino"
 		"dynn_Florenzano"
 		"dynn_Flores"
@@ -1238,6 +1252,7 @@
 		"dynn_Fratini"
 		"dynn_Freire"
 		"dynn_Freitas"
+		"dynn_Freixo"
 		"dynn_Froes"
 		"dynn_Frossard"
 		"dynn_Fu"
@@ -1323,6 +1338,7 @@
 		"dynn_Kaiser"
 		"dynn_Kanno"
 		"dynn_Kicis"
+		"dynn_Klayn"
 		"dynn_Klem"
 		"dynn_Knop"
 		"dynn_Kozlowski"
@@ -1344,6 +1360,7 @@
 		"dynn_Leite_Ribeiro"
 		"dynn_Leite"
 		"dynn_Leopoldino"
+		"dynn_Lessa"
 		"dynn_Letrado"
 		"dynn_Liberato"
 		"dynn_Ligabo"
@@ -1366,6 +1383,7 @@
 		"dynn_Machado"
 		"dynn_Maciel"
 		"dynn_Magalh_a_tld_es"
+		"dynn_Magierek"
 		"dynn_Majella"
 		"dynn_Makiyama"
 		"dynn_Malaquias"
@@ -1466,7 +1484,9 @@
 		"dynn_Orlando"
 		"dynn_Ortiz"
 		"dynn_Oscar"
+		"dynn_Otaviano"
 		"dynn_Otoni"
+		"dynn_Ottoni"
 		"dynn_Ourives"
 		"dynn_Ouverney"
 		"dynn_Padilha"
@@ -1624,6 +1644,7 @@
 		"dynn_Stagi"
 		"dynn_Stambassi"
 		"dynn_Stefani"
+		"dynn_Streitenberger"
 		"dynn_Suassuna"
 		"dynn_Surian"
 		"dynn_Suni"
@@ -1641,6 +1662,7 @@
 		"dynn_Terra"
 		"dynn_Terto"
 		"dynn_Theodoro"
+		"dynn_Theophilo"
 		"dynn_Thielmann"
 		"dynn_Thomaz"
 		"dynn_Tiburcio"

@@ -13,6 +13,7 @@
 		tradition_esteemed_hospitality
 		tradition_medicinal_plants
 		tradition_three_sisters
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

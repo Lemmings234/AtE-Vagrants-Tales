@@ -13,6 +13,7 @@
 		tradition_isolationist
 		tradition_newentun
 		tradition_ad_mapu
+		tradition_exogamous_marriages
 	}
 
 	coa_gfx = {

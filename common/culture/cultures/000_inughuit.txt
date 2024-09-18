@@ -1,4 +1,4 @@
-inughuit = {
+﻿inughuit = {
         color = { 105 99 99 }
         
         

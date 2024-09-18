@@ -11,6 +11,7 @@
 		tradition_hunters
 		tradition_mountaineers
 		tradition_resourceful_tinkerers
+		tradition_philosopher_culture
 	}
 	
 	coa_gfx = {

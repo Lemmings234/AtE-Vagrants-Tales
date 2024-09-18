@@ -8,7 +8,7 @@
 	name_list = name_list_matses
 	
 	traditions = {
-		#TODO
+		tradition_language_scholars
 		tradition_deep_jungle_dwellers
 		tradition_medicinal_plants
 		tradition_polygamous

@@ -14,6 +14,7 @@
 		tradition_hunters
 		tradition_zealous_people
 		tradition_equitable
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

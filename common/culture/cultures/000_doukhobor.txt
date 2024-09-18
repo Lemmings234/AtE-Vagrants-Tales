@@ -8,7 +8,6 @@
 	name_list = name_list_doukhobor
 	
 	traditions = {
-		#TODO
 		tradition_collective_lands
 		tradition_pacifism
 		tradition_vegetarianism

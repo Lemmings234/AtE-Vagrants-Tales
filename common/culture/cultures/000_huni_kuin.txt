@@ -8,7 +8,7 @@
 	name_list = name_list_huni_kuin
 	
 	traditions = {
-		#TODO
+		tradition_ce1_ritual_washing
 		tradition_deep_jungle_dwellers
 		tradition_hunters
 		tradition_isolationist

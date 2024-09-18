@@ -40,7 +40,7 @@
 		J_e_act_ssica Jaqueline Joana Josefa Ju Juliana Julinha
 		Kamilly Karla
 		L_a_act_rissa L_i_act_via L_u_act_cia Laluna Lara Laura Leila Leonarda Let_i_act_cia Levita Liu Lorena Lorival Luana Luciana Luiza
-		M_a_act_rcia Mafalda Maiara Mandi Manu Mara Maraisa Marciana Maria Maria_Aparecida Maria_Cec_i_act_lia Maria_Izabel Maria_L_u_act_cia Mariana Marlene Marli Martha Matutina Miriam
+		M_a_act_rcia Mafalda Maiara Mandi Manu Mara Maraisa Marciana Maria Maria_Aparecida Maria_Cec_i_act_lia Maria_Izabel Maria_L_u_act_cia Mariana Marlene Marilza Marli Martha Matutina Michelly Miriam
 		N_i_act_vea Nair Nanda Nat_a_act_lia Neide Neuza Nh_a_act_ No_e_hat_mia
 		Ol_i_act_mpia
 		Patr_i_act_cia Paulinha Priscila
@@ -228,6 +228,7 @@
 		"dynn_Damacena"
 		"dynn_Damaceno"
 		"dynn_Dambros"
+		"dynn_Dapper"
 		"dynn_David"
 		"dynn_de_Andrade"
 		"dynn_de_Anunciacao"
@@ -323,6 +324,7 @@
 		"dynn_Galego"
 		"dynn_Galli"
 		"dynn_Galvao"
+		"dynn_Gama"
 		"dynn_Garcia"
 		"dynn_Gaspar"
 		"dynn_Gasparini"
@@ -617,6 +619,7 @@
 		"dynn_Scamparini"
 		"dynn_Scandiussi"
 		"dynn_Schenkel"
+		"dynn_Schleicher"
 		"dynn_Schmidt"
 		"dynn_Schmitz"
 		"dynn_Schneider"
@@ -906,6 +909,7 @@
 		"dynn_Damacena"
 		"dynn_Damaceno"
 		"dynn_Dambros"
+		"dynn_Dapper"
 		"dynn_David"
 		"dynn_de_Andrade"
 		"dynn_de_Anunciacao"
@@ -1001,6 +1005,7 @@
 		"dynn_Galego"
 		"dynn_Galli"
 		"dynn_Galvao"
+		"dynn_Gama"
 		"dynn_Garcia"
 		"dynn_Gaspar"
 		"dynn_Gasparini"
@@ -1295,6 +1300,7 @@
 		"dynn_Scamparini"
 		"dynn_Scandiussi"
 		"dynn_Schenkel"
+		"dynn_Schleicher"
 		"dynn_Schmidt"
 		"dynn_Schmitz"
 		"dynn_Schneider"

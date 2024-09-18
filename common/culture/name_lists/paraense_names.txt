@@ -3,16 +3,16 @@
 	#compiled by Lahom, Nullpointer, W
 
 	male_names = {
-		A_act_lvaro Aar_a_tld_o Abel Abra_a_tld_o Acau_a_tld_ Adailton Adriel Alan Alexandre Almir Ajax Anderson Andr_e_act_ Ant_o_hat_nio Ariel Artur Aruna Augusto Aylton
+		A_act_lvaro Aar_a_tld_o Abel Abra_a_tld_o Acau_a_tld_ Adailton Adriel Alan Alexandre Almir Ajax Amadeus Anderson Andr_e_act_ Ant_o_hat_nio Ariel Artur Aruna Augusto Aylton
 		Baldu_i_act_no Bartolomeu Bas_i_act_lio Benedito Benjamin Bezaleel Breno
 		C_e_act_sar Caetano Carlos Casimiro Cassiano Cipriano Cl_a_act_udio Claudiano Clayton Clodoaldo Colombo
-		Delmiro Dilair Dinarte Diocl_e_act_cio Dion_i_act_sio Domiciniano Domingos Douglas Duarte
+		Delmiro Diemison Dilair Dinarte Diocl_e_act_cio Dion_i_act_sio Domiciniano Domingos Douglas Duarte
 		Edelson Edenilson Edinei Efraim Elenilson Eli_e_act_ser Eliel Eliseu Eraldo Euclides Eudes Everaldo Ezequiel
-		F_a_act_bio Fabiano Ferdinando Firmino Fl_o_act_ris Frederico
+		F_a_act_bio Fabiano Ferdinando Firmino Fl_o_act_ris Francivaldo Frederico
 		Gabriel Galdino Gaud_e_hat_ncio Gede_a_tld_o Ger_o_hat_nimo Geraldino Geraldo Get_u_act_lio Gilberto Gleidson Gleison Graciliano Guilherme Gustavo Guy
 		H_e_act_lder H_e_act_lio Heitaro Heitor Henrique Hiroshi Hoichi Hudson
 		I_act_caro I_act_talo Ichiro In_a_act_cio Irismar Isaac Ismael Isidro Itamar Itsuo Ivaldo Izaac
-		Jader Jair Jameson Jandir Jander Jayme Jedaias Jess_e_act_ Jirozo Jo_a_tld_o Jo_a_tld_o_Ant_o_hat_nio Jo_a_tld_o_Batista Jo_a_tld_o_de_Jesus Jociclei Jonas Jos_e_act_ Jos_e_act__Manoel Jos_e_act__Maria Jos_e_act__de_Nazar_e_act_ Josiel Josimar Juliano Junichi J_u_act_nior
+		Jader Jair Jameson Jandir Jander Jayme Jedaias Jess_e_act_ Jirozo Jo_a_tld_o Jo_a_tld_o_Ant_o_hat_nio Jo_a_tld_o_Batista Jo_a_tld_o_de_Jesus Jociclei Jonas Jos_e_act_ Jos_e_act__Manoel Jos_e_act__Maria Jos_e_act__de_Nazar_e_act_ Josiel Josimar Josinaldo Juliano Junichi J_u_act_nior
 		Kaique Kanzaburo Kau_a_tld_ Kazuo Keisuke Kelvin Kl_e_act_ber Kotaro Koyuki
 		L_i_act_vio L_u_act_cio Laerte Lauro Leandro Lennon Leopoldo Licurgo Lineu Lionel Lisandro Lopo Lu_i_act_z Lucas Luciano
 		M_a_act_rio Madson Magnus Manass_e_act_s Manoel Maom_e_act_ Marlon Martim Masaru Mateus Matsuno Maur_i_act_lio Maurino Maxilimiano Michel Milton Mitsugoro Mitsuo Mizael
@@ -20,11 +20,11 @@
 		O_act_scar Oceano Odin Olin Omar Onofre Oriano Orlandino Orlando Os_o_act_rio Ot_a_act_vio Oto Oziel
 		P_a_act_ris Pascoal Patrique Paulo Paulo_de_Tarso Pedro Pedro_Paulo Percival Porf_i_act_rio
 		Querubim Quintino
-		R_e_act_gis Rafael Raimundo Ramiro Raoni Reim_a_tld_o Rem_i_act_gio Renan Renato Richarlison Roberto Rodney Romeu Roni Roosevelt Rubens Ruberval Rui
+		R_e_act_gis Rafael Raimundo Ramiro Raoni Reim_a_tld_o Rem_i_act_gio Renan Renato Richarlison Roberto Rodney Romeu Roni Roosevelt Rom_a_act_rio Rosimar Rubens Ruberval Rui
 		S_a_act_vio S_i_act_lvio Sa_u_act_l Saladino Salom_a_tld_o Samuel Sans_a_tld_o Satoru Sebasti_a_tld_o Sert_o_act_rio Shizuo Sidinei Silas Sim_a_tld_o
 		T_a_act_cito T_u_act_lio Taciano Takeyoshi Tales Tarique Tito Tokuhisa Tom_e_act_ Tomoshiro Toshio Trist_a_tld_o Tsui
 		Ubirajara Ubirat_a_tld_
-		V_i_act_ctor Valdemar Valdemir Valentino Vanderlei Ven_a_hat_ncio Vincente Virg_i_act_lio Vladimir
+		V_i_act_ctor Valdemar Valdemir Valentino Vanderlei Vanderson Ven_a_hat_ncio Vincente Virg_i_act_lio Vladimir
 		Wallacy Wagner Waldiney Washington Wellington Wilton
 		Xavier Xerxes
 		Yasuharu Yasuo Yoshiji Yoshimi Yoshio Yukio Yves
@@ -34,16 +34,16 @@
 		A_act_gata A_c_ced_ucena Abigail Abna Abril Ac_a_act_cia Adalgisa Adelaide Adelina Adosinda Adriana Agatha Aimara Aimee Al_e_act_ssia Alba Albana Alcione Aleteia Almira Ambrosina Ant_o_hat_nia Ariel Augustina Ausayo
 		B_e_act_tica Bas_i_act_lia Basilissa Beatriz Belarmina Belosinda Benvinda Bernadete Bertilda Bianca Br_i_act_gida Brunilda
 		C_a_act_cia C_a_hat_ndida C_i_act_nara Caia Carissa Carm_e_act_lia Carmelinda Carmezinda Camilly Castelina Caterine Celine Ceres Coraline Corina Cyane
-		D_a_act_diva Dafne Dalinda Daniana Dayse Delmira Delzuita Denko Deodata Desid_e_act_ria Diana Dido Dinarta Doralice Duartina Dulcina
-		E_a_act_rine E_act_tel Edilene Edmunda Elana Eleni Elissandra Elizabeta Em_i_act_lia Esm_e_act_ria Especiosa Eunice Evelina Excelsia
+		D_a_act_diva Dafne Dalinda Daniana Dayse Delmira Delzuita Denko Deodata Desid_e_act_ria Diana Dido Dinarta Dione Doralice Duartina Dulcina
+		E_a_act_rine E_act_tel Edilene Edmunda Elana Elane Eleni Elissandra Elizabeta Eloise Em_i_act_lia Esm_e_act_ria Especiosa Eunice Evelina Excelsia
 		Fab_i_act_ola Fabiana Faia Faustina Felisbela Fernanda Fernandina Filipa Fiorella Florentina Francinete Freya Fumi Fumiko Fusako Futazo
 		Gabriella Gardela Georgeta Geovana Geralda Geselmina Giana Gislene Gregoriana Guilhermina Guilherminda Guiomar
 		H_e_act_lia Hama Hana Helena Helo_i_act_sa Henriqueta Hermenegilda Hort_e_hat_nsia
 		Iana Iasmin Idalina Ilana In_e_hat_s Inara Ineko Iracema Iriana Is_a_act_lia Isabela Isolda Ivanoela Ivone
 		J_e_hat_nifer J_u_act_lia Jackline Jaciara Jainara Jamila Jana_i_act_na Jandira Janine Jhenyffer Joana Joanina Joaquina Joelma Josecleia Josefa Jovelina Judite Justina
 		Karine Katiana Kimiyo Koko
-		L_e_act_ia Lariana Laurentina Laurine Leonor Leopoldina Let_i_act_tia Liberdade Lilah Lo-Ruama Lua Lucineia Luzia
-		Mabel Macati Madalena Mafalda Magaline Magn_o_act_lia Magna Marcela Maresia Maria Maria_Aparecidinha Maria_Auxiliadora Maria_Encarna_c_ced__a_tld_o Maria_Esperan_c_ced__a_tld Maria_Exterminadora Maria_Formosa Maria_Lampadosa Maria_Medianeira Maria_Milagrosa Maria_Pastora Maria_Rainha_do_C_e_act_u Maria_Terceira Maria_Tr_e_hat_s_Vezes_Admir_a_act_vel Maria_Vencedora Maria_da_Abadia Maria_da_Ajuda Maria_da_Anuncia_c_ced__a_tld_tld_o Maria_da_Apresenta_c_ced__a_tld_tld_o Maria_da_Assun_c_ced__a_tld_tld_o Maria_da_Consola_c_ced__a_tld_o Maria_da_Correia Maria_da_Estrela Maria_da_F_e_act Maria_da_Guia Maria_da_Luz Maria_da_Miseric_o_act_rdia Maria_da_Natividade Maria_da_Paz Maria_da_Pena Maria_da_Penha Maria_da_Piedade Maria_da_Pomp_e_act_ia Maria_da_Purifica_c_ced__a_tld_o Maria_da_Quieta_c_ced__a_tld_o Maria_da_Rosa_M_i_act_stica Maria_da_Sa_u_act_de Maria_da_Salva_c_ced__a_tld_o Maria_da_Soledade Maria_da_Visita_c_ced__a_tld_o Maria_da_Vit_o_act_ria Maria_das_Grotas Maria_das_L_a_act_grimas Maria_das_Maravilhas Maria_das_Merc_e_hat_s Maria_das_Oliveiras Maria_das_Virtudes Maria_de_Deus Maria_de_Fran_c_ced_a Maria_de_Nazar_e_act Maria_de_Sallete Maria_do_Amparo Maria_do_Bom_Conselho Maria_do_Bom_Pastor Maria_do_Bom_Sucesso Maria_do_Brasil Maria_do_Carmo Maria_do_Livramento Maria_do_Loreto Maria_do_Monte Maria_do_Natal Maria_do_O_act Maria_do_Patroc_i_act_nio Maria_do_Perp_e_act_tuo_Socorro Maria_do_Pilar Maria_do_Porto Maria_do_Povo Maria_do_Pres_e_act_pio Maria_do_Rocio Maria_do_Sagrado_Cora_c_ced__a_tld_o Maria_do_Si_a_tld_o Maria_do_Ter_c_ced_o Maria_do_Trabalho Maria_dos_Amores Maria_dos_Anjos Maria_dos_Ap_o_act_stolos Maria_dos_M_a_act_rtires Maria_dos_Mares Maria_dos_Milagres Maria_dos_Navegantes Maria_dos_Prazeres Maria_dos_Rem_e_act_dios Maximiliana Militana
+		L_e_act_ia Lariana Laurentina Laurine Leidiane Leonor Leopoldina Let_i_act_tia Liberdade Lilah Lo-Ruama Lua Lucineia Luzia
+		Mabel Macati Madalena Mafalda Magaline Magn_o_act_lia Magna Marcela Maresia Maria Maria_Aparecidinha Maria_Auxiliadora Maria_Encarna_c_ced__a_tld_o Maria_Esperan_c_ced__a_tld Maria_Exterminadora Maria_Formosa Maria_Lampadosa Maria_Medianeira Maria_Milagrosa Maria_Pastora Maria_Rainha_do_C_e_act_u Maria_Terceira Maria_Tr_e_hat_s_Vezes_Admir_a_act_vel Maria_Vencedora Maria_da_Abadia Maria_da_Ajuda Maria_da_Anuncia_c_ced__a_tld_tld_o Maria_da_Apresenta_c_ced__a_tld_tld_o Maria_da_Assun_c_ced__a_tld_tld_o Maria_da_Consola_c_ced__a_tld_o Maria_da_Correia Maria_da_Estrela Maria_da_F_e_act Maria_da_Guia Maria_da_Luz Maria_da_Miseric_o_act_rdia Maria_da_Natividade Maria_da_Paz Maria_da_Pena Maria_da_Penha Maria_da_Piedade Maria_da_Pomp_e_act_ia Maria_da_Purifica_c_ced__a_tld_o Maria_da_Quieta_c_ced__a_tld_o Maria_da_Rosa_M_i_act_stica Maria_da_Sa_u_act_de Maria_da_Salva_c_ced__a_tld_o Maria_da_Soledade Maria_da_Visita_c_ced__a_tld_o Maria_da_Vit_o_act_ria Maria_das_Grotas Maria_das_L_a_act_grimas Maria_das_Maravilhas Maria_das_Merc_e_hat_s Maria_das_Oliveiras Maria_das_Virtudes Maria_de_Deus Maria_de_Fran_c_ced_a Maria_de_Nazar_e_act Maria_de_Sallete Maria_do_Amparo Maria_do_Bom_Conselho Maria_do_Bom_Pastor Maria_do_Bom_Sucesso Maria_do_Brasil Maria_do_Carmo Maria_do_Livramento Maria_do_Loreto Maria_do_Monte Maria_do_Natal Maria_do_O_act Maria_do_Patroc_i_act_nio Maria_do_Perp_e_act_tuo_Socorro Maria_do_Pilar Maria_do_Porto Maria_do_Povo Maria_do_Pres_e_act_pio Maria_do_Rocio Maria_do_Sagrado_Cora_c_ced__a_tld_o Maria_do_Si_a_tld_o Maria_do_Ter_c_ced_o Maria_do_Trabalho Maria_dos_Amores Maria_dos_Anjos Maria_dos_Ap_o_act_stolos Maria_dos_M_a_act_rtires Maria_dos_Mares Maria_dos_Milagres Maria_dos_Navegantes Maria_dos_Prazeres Maria_dos_Rem_e_act_dios Marilza Maximiliana Militana
 		N_a_act_iade N_a_act_tally N_a_hat_nci N_u_act_bia N_u_act_ria Nadina Naeko Naiara Nami Naomi Nibuana
 		Od_i_act_lia Olga Olympia On_o_act_fria Orlanda Orrana Ot_i_act_lia Otelina Ourena
 		P_a_hat_mela P_e_act_rola Palmira Patroc_i_act_nia Paula Paulina Pietra Preciosa Pureza
@@ -71,16 +71,17 @@
 		"dynn_Aragaki"
 		"dynn_Aranha"
 		"dynn_Araripe"
+		"dynn_Assad"
 		"dynn_Azevedo"
 		"dynn_Azulay"
 		"dynn_Bacellar"
 		"dynn_Baena"
 		"dynn_Barata"
 		"dynn_Barbalho"
-		"dynn_Benoliel"
 		"dynn_Barbosa"
 		"dynn_Barradas"
 		"dynn_Barreira"
+		"dynn_Benoliel"
 		"dynn_Barreto"
 		"dynn_Bassalo"
 		"dynn_Beaurepaire-Rohan"
@@ -118,7 +119,9 @@
 		"dynn_Carneiro"
 		"dynn_Carr_a_tld_o"
 		"dynn_Carreira"
+		"dynn_Carvalhal"
 		"dynn_Carvalho"
+		"dynn_Cascalheira"
 		"dynn_Casseb"
 		"dynn_Castelo_Branco"
 		"dynn_Cavalcanti"
@@ -204,6 +207,7 @@
 		"dynn_Favacho"
 		"dynn_Ferreira"
 		"dynn_Figueiredo"
+		"dynn_Foinquinos"
 		"dynn_Franca"
 		"dynn_Franco"
 		"dynn_Fraz_a_tld_o"
@@ -219,8 +223,10 @@
 		"dynn_Gama"
 		"dynn_Garcia"
 		"dynn_Garro"
+		"dynn_Godinho"
 		"dynn_Gon_c_ced_alves"
 		"dynn_Gonzaga"
+		"dynn_Gorayeb"
 		"dynn_Gorj_a_tld_o"
 		"dynn_Gra_c_ced_a"
 		"dynn_Grangense"
@@ -243,6 +249,7 @@
 		"dynn_Igreja"
 		"dynn_Isshiki"
 		"dynn_Italiano"
+		"dynn_Itaparica"
 		"dynn_Ito"
 		"dynn_Jardim"
 		"dynn_Jardin"
@@ -264,6 +271,7 @@
 		"dynn_Lima"
 		"dynn_Lira"
 		"dynn_Lisboa"
+		"dynn_Livramento"
 		"dynn_Lobato"
 		"dynn_Lobo"
 		"dynn_Luczynski"
@@ -292,12 +300,14 @@
 		"dynn_Montenegro"
 		"dynn_Moreira"
 		"dynn_Moreno"
+		"dynn_Morhy"
 		"dynn_Mota"
 		"dynn_Mufarrej"
 		"dynn_Murakami"
 		"dynn_Naiff"
 		"dynn_Nascimento"
 		"dynn_Natividade"
+		"dynn_Nazareno"
 		"dynn_Negrao"
 		"dynn_Noguchi"
 		"dynn_Norat"
@@ -319,6 +329,7 @@
 		"dynn_Parij_o_act_s"
 		"dynn_Passarinho"
 		"dynn_Passos"
+		"dynn_Patrocinio"
 		"dynn_Pedreira"
 		"dynn_Pedrosa"
 		"dynn_Pena"
@@ -335,6 +346,7 @@
 		"dynn_Pontes"
 		"dynn_Portella"
 		"dynn_Praxedes"
+		"dynn_Prazeres"
 		"dynn_Printes"
 		"dynn_Prist"
 		"dynn_Quaresma"
@@ -351,6 +363,7 @@
 		"dynn_Rozo"
 		"dynn_Ruffeil"
 		"dynn_Sabb_a_act_"
+		"dynn_Saboia"
 		"dynn_Sacramenta"
 		"dynn_Sales"
 		"dynn_Sanchez"
@@ -368,8 +381,10 @@
 		"dynn_Seawright"
 		"dynn_Sefer"
 		"dynn_Segtowick"
+		"dynn_Serruya"
 		"dynn_Shigeizumi"
 		"dynn_Shimizu"
+		"dynn_Sinimbu"
 		"dynn_Siqueira"
 		"dynn_Skeete"
 		"dynn_Soares"
@@ -377,11 +392,14 @@
 		"dynn_Sodr_e_act_"
 		"dynn_Sousa"
 		"dynn_Sozinho"
+		"dynn_Squires"
 		"dynn_Stone"
 		"dynn_Storch"
 		"dynn_Suzuki"
 		"dynn_Taketa"
 		"dynn_Tanaka"
+		"dynn_Taniyama"
+		"dynn_Tapaj_o_act_s"
 		"dynn_Tasca"
 		"dynn_Tavares"
 		"dynn_Taveira"
@@ -393,10 +411,11 @@
 		"dynn_Tocantins"
 		"dynn_Toutenge"
 		"dynn_Trov_a_tld_o"
+		"dynn_Trzeciak"
 		"dynn_Tsuji"
 		"dynn_Tuji"
 		"dynn_Tunas"
-		"dynn_Uchoa"
+		"dynn_Uch_o_hat_a"
 		"dynn_Upton"
 		"dynn_Valente"
 		"dynn_Vari"
@@ -404,6 +423,7 @@
 		"dynn_Ventura"
 		"dynn_Venturieiri"
 		"dynn_Vi_e_act_gas"
+		"dynn_Vilhena"
 		"dynn_Villeigagnon"
 		"dynn_Vinagre"
 		"dynn_Vinhote"
@@ -433,6 +453,7 @@
 		"dynn_Aragaki"
 		"dynn_Aranha"
 		"dynn_Araripe"
+		"dynn_Assad"
 		"dynn_Azevedo"
 		"dynn_Azulay"
 		"dynn_Bacellar"
@@ -480,7 +501,9 @@
 		"dynn_Carneiro"
 		"dynn_Carr_a_tld_o"
 		"dynn_Carreira"
+		"dynn_Carvalhal"
 		"dynn_Carvalho"
+		"dynn_Cascalheira"
 		"dynn_Casseb"
 		"dynn_Castelo_Branco"
 		"dynn_Cavalcanti"
@@ -526,6 +549,7 @@
 		"dynn_de_Bittencourt"
 		"dynn_de_Carvalho"
 		"dynn_de_Chermont"
+		"dynn_de_Deus"
 		"dynn_de_Frias"
 		"dynn_de_Lamare"
 		"dynn_de_Lucena"
@@ -565,6 +589,7 @@
 		"dynn_Favacho"
 		"dynn_Ferreira"
 		"dynn_Figueiredo"
+		"dynn_Foinquinos"
 		"dynn_Franca"
 		"dynn_Franco"
 		"dynn_Fraz_a_tld_o"
@@ -580,8 +605,10 @@
 		"dynn_Gama"
 		"dynn_Garcia"
 		"dynn_Garro"
+		"dynn_Godinho"
 		"dynn_Gon_c_ced_alves"
 		"dynn_Gonzaga"
+		"dynn_Gorayeb"
 		"dynn_Gorj_a_tld_o"
 		"dynn_Gra_c_ced_a"
 		"dynn_Grangense"
@@ -604,6 +631,7 @@
 		"dynn_Igreja"
 		"dynn_Isshiki"
 		"dynn_Italiano"
+		"dynn_Itaparica"
 		"dynn_Ito"
 		"dynn_Jardim"
 		"dynn_Jardin"
@@ -625,6 +653,7 @@
 		"dynn_Lima"
 		"dynn_Lira"
 		"dynn_Lisboa"
+		"dynn_Livramento"
 		"dynn_Lobato"
 		"dynn_Lobo"
 		"dynn_Luczynski"
@@ -653,12 +682,14 @@
 		"dynn_Montenegro"
 		"dynn_Moreira"
 		"dynn_Moreno"
+		"dynn_Morhy"
 		"dynn_Mota"
 		"dynn_Mufarrej"
 		"dynn_Murakami"
 		"dynn_Naiff"
 		"dynn_Nascimento"
 		"dynn_Natividade"
+		"dynn_Nazareno"
 		"dynn_Negrao"
 		"dynn_Noguchi"
 		"dynn_Norat"
@@ -680,6 +711,7 @@
 		"dynn_Parij_o_act_s"
 		"dynn_Passarinho"
 		"dynn_Passos"
+		"dynn_Patrocinio"
 		"dynn_Pedreira"
 		"dynn_Pedrosa"
 		"dynn_Pena"
@@ -696,6 +728,7 @@
 		"dynn_Pontes"
 		"dynn_Portella"
 		"dynn_Praxedes"
+		"dynn_Prazeres"
 		"dynn_Printes"
 		"dynn_Prist"
 		"dynn_Quaresma"
@@ -712,6 +745,7 @@
 		"dynn_Rozo"
 		"dynn_Ruffeil"
 		"dynn_Sabb_a_act_"
+		"dynn_Saboia"
 		"dynn_Sacramenta"
 		"dynn_Sales"
 		"dynn_Sanchez"
@@ -729,8 +763,10 @@
 		"dynn_Seawright"
 		"dynn_Sefer"
 		"dynn_Segtowick"
+		"dynn_Serruya"
 		"dynn_Shigeizumi"
 		"dynn_Shimizu"
+		"dynn_Sinimbu"
 		"dynn_Siqueira"
 		"dynn_Skeete"
 		"dynn_Soares"
@@ -738,11 +774,15 @@
 		"dynn_Sodr_e_act_"
 		"dynn_Sousa"
 		"dynn_Sozinho"
+		"dynn_Squires"
 		"dynn_Stone"
 		"dynn_Storch"
 		"dynn_Suzuki"
 		"dynn_Taketa"
 		"dynn_Tanaka"
+		"dynn_Taniyama"
+		"dynn_Tapaj_o_act_s"
+		"dynn_Tapajos"
 		"dynn_Tasca"
 		"dynn_Tavares"
 		"dynn_Taveira"
@@ -754,10 +794,11 @@
 		"dynn_Tocantins"
 		"dynn_Toutenge"
 		"dynn_Trov_a_tld_o"
+		"dynn_Trzeciak"
 		"dynn_Tsuji"
 		"dynn_Tuji"
 		"dynn_Tunas"
-		"dynn_Uchoa"
+		"dynn_Uch_o_hat_a"
 		"dynn_Upton"
 		"dynn_Valente"
 		"dynn_Vari"
@@ -765,6 +806,7 @@
 		"dynn_Ventura"
 		"dynn_Venturieiri"
 		"dynn_Vi_e_act_gas"
+		"dynn_Vilhena"
 		"dynn_Villeigagnon"
 		"dynn_Vinagre"
 		"dynn_Vinhote"

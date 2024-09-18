@@ -11,6 +11,7 @@
 		tradition_bentwood_crafts
 		tradition_potlatch
 		tradition_female_only_inheritance
+		tradition_exogamous_marriages
 	}
 	dlc_tradition = {
 		trait = tradition_artisans

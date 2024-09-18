@@ -8,7 +8,7 @@
 	name_list = name_list_grangelander
 	
 	traditions = {
-		tradition_agrarian
+		tradition_frontier_folk
 		tradition_wedding_ceremonies
 		tradition_staunch_traditionalists
 		tradition_cowboys

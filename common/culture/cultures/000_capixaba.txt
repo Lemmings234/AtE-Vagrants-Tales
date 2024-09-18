@@ -8,7 +8,7 @@
 	name_list = name_list_capixaba
 	
 	traditions = {
-		#TODO
+		tradition_fishermen
 		tradition_exotic_plantations
 		tradition_brazilian_cosmopolitanism
 		tradition_castle_keepers

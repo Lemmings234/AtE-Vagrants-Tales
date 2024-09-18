@@ -39,7 +39,7 @@
 		11 = mediterranean
 		11 = asian
 		11 = african
-		13 = indian
+		11 = indian
 		8 = multiracial
 		6 = arab
 		5 = south_indian

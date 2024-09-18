@@ -8,7 +8,6 @@
 	name_list = name_list_costanorteno
 	
 	traditions = {
-		#TODO
 		tradition_horse_breeder
 		tradition_warriors_of_the_dry
 	}
@@ -16,6 +15,11 @@
 	dlc_tradition = {
 		trait = tradition_culture_blending
 		requires_dlc_flag = hybridize_culture
+	}
+	
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = royal_court
 	}
 	
 	coa_gfx = {

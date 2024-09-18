@@ -8,10 +8,11 @@
 	name_list = name_list_tukano
 	
 	traditions = {
-		#TODO
+		tradition_welcoming
 		tradition_deep_jungle_dwellers
 		tradition_language_scholars
-		tradition_xenophilic
+		#tradition_xenophilic
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

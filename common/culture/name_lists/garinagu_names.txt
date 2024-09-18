@@ -35,7 +35,7 @@
 		Ibagari Idaba Ignacia Igundani Irufugu Isawelu Isidra
 		Jazm_i_act_n Julia
 		Leonarda Linda Lisa Lonia
-		Mar_i_act_a Mariana Maribel Marla Matilda Maude Mayuri Melissa Micaela Mirtha
+		Mar_i_act_a Mariana Maribel Marla Matilda Maude Mayuri Melissa Micaela Mirsa Mirtha
 		Nanigi Nen Nimsi Nisani Nuku
 		Paula
 		Reina Rita Rosita
@@ -151,6 +151,7 @@
 		"dynn_Dixon"
 		"dynn_Dolmo"
 		"dynn_Dorian"
+		"dynn_Doubleday"
 		"dynn_Ducker"
 		"dynn_Dugall"
 		"dynn_Duque"
@@ -623,6 +624,7 @@
 		"dynn_Dixon"
 		"dynn_Dolmo"
 		"dynn_Dorian"
+		"dynn_Doubleday"
 		"dynn_Ducker"
 		"dynn_Dugall"
 		"dynn_Duque"

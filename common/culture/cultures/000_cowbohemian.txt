@@ -9,7 +9,7 @@
 	
 	traditions = {
 		tradition_talent_acquisition
-		tradition_agrarian
+		tradition_frontier_folk
 		tradition_cowboys
 		tradition_culinary_art
 	}

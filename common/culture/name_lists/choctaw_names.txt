@@ -47,7 +47,7 @@
 		Patricia Paula Peggy Philistia Phoebe Phyllis Priscilla
 		Rachel Rebecca Rhoda Rosa Ruth
 		Sallie Samantha Sarah Sophia Stella Susanna
-		Talowa Teresa Thelma Tillie Tioka
+		Talowa Tallulah Teresa Thelma Tillie Tioka
 		Valerie Valjean Vera Vernona Viola Virginia Vivian Vonda
 		Wanda Wilma
 	}
@@ -317,6 +317,7 @@
 		"dynn_Impson"
 		"dynn_Ishcomer"
 		"dynn_Jacob"
+		"dynn_Jamerson"
 		"dynn_James"
 		"dynn_Janway"
 		"dynn_Jayroe"

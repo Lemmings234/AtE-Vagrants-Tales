@@ -10,7 +10,7 @@
 	name_list = name_list_candango
 	
 	traditions = {
-		#TODO
+		tradition_loyal_soldiers
 		tradition_city_keepers
 		tradition_fervent_temple_builders
 		tradition_parochialism

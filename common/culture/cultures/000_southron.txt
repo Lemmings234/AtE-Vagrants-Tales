@@ -1,5 +1,5 @@
 ﻿southron = {
-	color = { 24 103 63 }
+	color = { 227 148 109 }
 	
 	ethos = ethos_courtly
 	heritage = heritage_old_south

@@ -13,6 +13,12 @@
 		tradition_pastoralists
 	}
 	
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_loyal_soldiers
+	}
+	
 	coa_gfx = {
 		matogrossense_coa_gfx
 		centrestino_group_gfx

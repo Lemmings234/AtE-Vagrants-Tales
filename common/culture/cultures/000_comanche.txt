@@ -2,7 +2,7 @@
 	color = { 204 204 229 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_plains_sequoyan
+	heritage = heritage_plains
 	language = language_numu_tekwapu
 	martial_custom = martial_custom_male_only
 	name_list = name_list_comanche

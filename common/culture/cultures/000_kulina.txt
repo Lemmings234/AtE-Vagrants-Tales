@@ -16,6 +16,10 @@
 		trait = tradition_music_theory
 		requires_dlc_flag = royal_court
 	}
+	dlc_tradition = {
+		trait = tradition_artisans
+		requires_dlc_flag = royal_court
+	}
 	
 	coa_gfx = {
 		kulina_coa_gfx

@@ -1,7 +1,5 @@
 ﻿wladfaeg = {
 	color = { 171 19 42 }
-	created = 2066.1.1
-	parents = { welsh }
 	
 	ethos = ethos_stoic
 	heritage = heritage_patagon

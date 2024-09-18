@@ -10,7 +10,8 @@
 	traditions = {
 		tradition_bbqs
 		tradition_materos
-		tradition_cosmopolitan_elitism
+		#tradition_cosmopolitan_elitism
+		tradition_RICE_expert_apiculture
 		tradition_chivalry
 		tradition_coffee_making
 	}

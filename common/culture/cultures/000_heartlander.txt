@@ -9,7 +9,7 @@
 	
 	traditions = {
 		#TODO
-		tradition_agrarian
+		tradition_frontier_folk
 		tradition_pastoralists
 		tradition_horse_breeder
 	}

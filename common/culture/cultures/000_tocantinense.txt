@@ -12,6 +12,7 @@
 	traditions = {
 		tradition_caatinga_dwellers
 		tradition_pastoralists
+		tradition_hit_and_run
 		tradition_boiadeiros
 	}
 	

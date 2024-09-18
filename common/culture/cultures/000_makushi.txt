@@ -8,7 +8,7 @@
 	name_list = name_list_makushi
 	
 	traditions = {
-		#TODO
+		tradition_gardening
 		tradition_deep_jungle_dwellers
 		tradition_kanaima_sorcery
 		tradition_warrior_monks

@@ -13,6 +13,8 @@
 		tradition_mystical_ancestors
 		tradition_medicinal_plants
 		tradition_winter_warriors
+		tradition_exogamous_marriages
+		tradition_forest_folk
 	}
 	
 	coa_gfx = {

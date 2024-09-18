@@ -14,6 +14,7 @@
 		tradition_tribe_unity
 		tradition_festivities
 		tradition_language_scholars
+		tradition_exogamous_marriages
 	}
 	
 	dlc_tradition = {

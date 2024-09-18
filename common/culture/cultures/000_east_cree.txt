@@ -9,6 +9,8 @@
 	
 	traditions = {
 		tradition_hunters
+		tradition_exogamous_marriages
+		tradition_collective_lands
 	}
 	dlc_tradition = {
 		trait = tradition_artisans

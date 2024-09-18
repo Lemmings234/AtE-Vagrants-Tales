@@ -12,6 +12,7 @@
 		tradition_materos
 		tradition_isolationist
 		tradition_sacred_groves
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

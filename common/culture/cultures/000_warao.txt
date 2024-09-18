@@ -8,7 +8,7 @@
 	name_list = name_list_warao
 	
 	traditions = {
-		#TODO
+		tradition_spartan
 		tradition_wetlanders
 		tradition_zealous_people
 		tradition_tribe_unity

@@ -2,13 +2,13 @@
 	color = { 99 96 36 }
 	
 	ethos = ethos_communal
-	heritage = heritage_indigenous_guyanan
+	heritage = heritage_tocantins
 	language = language_waiapi
 	martial_custom = martial_custom_male_only
 	name_list = name_list_wajapi
 	
 	traditions = {
-		#TODO
+		tradition_exotic_plantations
 		tradition_deep_jungle_dwellers
 		tradition_festivities
 		tradition_tribe_unity

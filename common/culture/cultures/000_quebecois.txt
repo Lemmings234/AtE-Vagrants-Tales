@@ -4,7 +4,7 @@
 	ethos = ethos_stoic
 	heritage = heritage_canayen
 	language = language_canadien
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	name_list = name_list_quebecois
 	
 	traditions = {

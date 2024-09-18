@@ -10,6 +10,7 @@
 	traditions = {
 		tradition_culinary_art
 		tradition_jungle_dwellers
+		tradition_castle_keepers
 	}
 	dlc_tradition = {
 		trait = tradition_music_theory

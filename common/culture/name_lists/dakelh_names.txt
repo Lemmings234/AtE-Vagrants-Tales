@@ -69,6 +69,7 @@
 		"dynn_Frederick"
 		"dynn_French"
 		"dynn_Gagnon"
+		"dynn_Gairdner"
 		"dynn_George"
 		"dynn_Gladue"
 		"dynn_Glaim"
@@ -171,6 +172,7 @@
 		"dynn_Frederick"
 		"dynn_French"
 		"dynn_Gagnon"
+		"dynn_Gairdner"
 		"dynn_George"
 		"dynn_Gladue"
 		"dynn_Glaim"
@@ -267,7 +269,7 @@
 		{ name = mercenary_company_roughriders }
 		{ name = mercenary_company_tri_river }
 		{ name = mercenary_company_timber_cats }
-		{ name = mercenary_wizards_coast }
+		{ name = mercenary_company_wizards_coast }
 	}
 	
 }

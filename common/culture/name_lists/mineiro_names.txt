@@ -3,7 +3,7 @@
 	#compiled by Lahom, Nullpointer
 
 	male_names = {
-		A_act_lvaro A_e_act_cio A_hat_ngelo Abel Adailton Adauto Adelmo Ademir Adri_a_tld_o Aelton Afonso Agostinho Alberto Alexandre Alo_i_act_sio Altair Alysson Am_e_act_rico An_i_act_bal Anderson Andr_e_act_ Ant_o_hat_nio Aquiles Armando Armstrong Arnaldo Artur Athos Augusto Aureliano Austreg_e_act_silo Avelino
+		A_act_lvaro A_e_act_cio A_hat_ngelo Abel Adailton Adauto Adelmo Ademir Adri_a_tld_o Aelton Afonso Agostinho Alberto Alexandre Alo_i_act_sio Altair Alysson Am_e_act_rico An_i_act_bal Anderson Andr_e_act_ Ant_o_hat_nio Aquiles Armando Armstrong Arnaldo Arquimedes Artur Athos Augusto Aureliano Austreg_e_act_silo Avelino
 		Beethoven Bento Bernardo Bias Bonif_a_act_cio Br_a_act_s Brayan Bruce Bruno
 		C_a_act_ssio C_e_act_lio C_e_act_sar Caetano Caio Carlos Celso Chico Charlton Christovam Ciro Clarimundo Claudionor Clayton Cleiton Clemente Cleuber Cleverson Clodoaldo Cristiano Cust_o_act_dio
 		Dalton Daniel Dario Delfim Delson Diego Dilermando Dimas Dimitri Diony Domingos Douglas Dorn_e_act_lio Du_i_act_lio Dumont
@@ -13,17 +13,17 @@
 		H_e_act_lio Herc_i_act_lio Hendrix Herculano Hildebrando Hip_o_act_lito Homero Hugo Hudson Humberto
 		I_act_talo Ibrahim Igor Isa_i_act_as Israel Ivo
 		Kassioscley Kelvin Kelvyn Kildare Klaus Kl_e_act_ber Klever
-		J_o_hat_ J_u_act_lio Jaci Jaeder Jailson Jaime Jairo Jander Jo_a_tld_o Jo_a_tld_o_Batista Jo_a_tld_o_Paulo Joaquim Jorge Jos_e_act_ Jos_e_act__Ant_o_hat_nio Jos_e_act__Bento Jos_e_act__Carlos Jos_e_act__Geraldo Jos_e_act__Gerardo Jos_e_act__In_a_act_cio Jos_e_act_Joaquim Jos_e_act__M_a_act_rcio Jos_e_act__Maria Jos_e_act__Nelson Jos_e_act__Pedro Juarez Junior Juscelino Juvenil
+		J_o_hat_ J_u_act_lio Jaci Jaeder Jailson Jaime Jairo Jander Jo_a_tld_o Jo_a_tld_o_Batista Jo_a_tld_o_Paulo Joaquim Jorge Jos_e_act_ Jos_e_act__Ant_o_hat_nio Jos_e_act__Bento Jos_e_act__Carlos Jos_e_act__Geraldo Jos_e_act__Gerardo Jos_e_act__In_a_act_cio Jos_e_act_Joaquim Jos_e_act__M_a_act_rcio Jos_e_act__Maria Jos_e_act__Nelson Jos_e_act__Pedro Juarez Julianderson Junior Juscelino Juvenil
 		L_e_act_o L_u_act_cio La_e_act_rcio Lael Lafayette Laudivio Lennon Leonardo Leopoldo Lery Licurgo Lincoln Lineker Lopes Lucas Luiz
-		M_a_act_rcio M_a_act_rio Machado Madson Magalh_a_tld_es Manoel Marcelo Marley Marlombrando Marco_Aur_e_act_lio Marcos Martins Marx Matheus Matusalem Matuzalem Maur_i_act_cio Mauro Melchior Melo Mendes Menelick Miguel Milton Misael Monteiro Mozart Murilo
+		M_a_act_rcio M_a_act_rio Machado Madson Magalh_a_tld_es Manoel Marcelo Marley Marlombrando Marco_Aur_e_act_lio Marcos Martins Marx Matheus Matusalem Matuzalem Maur_i_act_cio Mauro Maycom Melchior Melo Mendes Menelick Miguel Milton Misael Monteiro Mozart Murilo
 		Nacip Narcio Navarro Neemias Neif Nelson Newton Nicolau Nilm_a_act_rio Nilton Noraldino
 		Oct_a_act_vio Odair Odelmo Ol_i_act_mpio Olavo Olinto Ormeu Oscar Osm_a_hat_nio Osvaldo Otac_i_act_lio Ov_i_act_dio Ozanam
 		Patrus Paulino Paulo Pedro Petronilho Pl_i_act_nio Presley
-		Rafael Railander Raimundo Rander Ranieri Raul Raylander Reginaldo Remington Renato Renzo Richarlyson Roberto Rodney Rodrigo Rodrigues Rog_e_act_rio Roliston Romel Romeu Ronaldo Ronan Ronaro Rondon Roosevelt Rosemburgo
+		Rafael Railander Raimundo Rander Ranieri Raul Rayan Raylander Reginaldo Remington Renato Renzo Richarlyson Roberto Rodney Rodrigo Rodrigues Rog_e_act_rio Roliston Romel Romeu Ronaldo Ronan Ronaro Rondon Roosevelt Rosemburgo Rosimar Ruan
 		S_e_act_rgio S_i_act_lvio Samir San Saymom Saulo Sebasti_a_tld_o Severino Silas Silv_e_act_rio Sim_a_tld_o Sinval Souza Stefano
 		T_u_act_lio Tancredo Tarc_i_act_sio Te_o_act_filo Tel_e_hat_maco Tchaikovsky Tiago Tilden Tim_o_act_teo Tom_e_act_ Toninho Trist_a_tld_o
-		Ultimo Uriel
-		Vasconcelos Vicente Virg_i_act_lio Vittorio Vladimir
+		Ulisses Ultimo Uriel
+		Valdir Vanderson Vasconcelos Vicente Virg_i_act_lio Vittorio Vladimir
 		Wagner Waldiney Walfrido Walter Wander Warley Weeferson Weligton Weliton Welinton Wescley Wellington Wilderson Wilson Wilton Windson
 		Xisto
 		Z_e_act_ Zaire Zez_e_act_ Ziraldo Ziz_i_act Ziraldo
@@ -31,21 +31,21 @@
 	female_names = {
 		A_act_gata A_hat_ngela Ad_e_act_lia Adriana Agatha Alessa Aline Am_e_act_lia Amanda Ana Ana_Am_e_act_lia Ana_Aur_e_act_lia Ana_Beatriz Ana_Cl_a_act_udia Ana_Eliza Ana_Gabriela Ana_Helena Ana_Irene Ana_Laura Ana_Let_i_act_cia Ana_Maria Ana_Paula Ana_Rosa Ana_S_i_act_lvia Ana_Teresa Ang_e_act_lica Ant_o_hat_nia Aur_e_act_lia
 		B_a_act_rbara Bartolina Beatriz Bebiana Bela Belina Benedita Benilde Benita Berenice Bernadete Bet_a_hat_nia Bete Betina Bianca Br_i_act_gida Branca Brenda Bruna Brunhilde
-		C_a_act_ssia C_a_hat_ndida Caetana Camila Camilly Carla Carlinda Carmela Carolina Castelina Catalina Cec_i_act_lia Celeste Chica Chiquinha Cinderela Circe Cl_a_act_udia Clara Clarice Cleusa Cleuza Clotilde Cl_o_act_vis Const_a_hat_ncia Cord_e_act_lia Cris_a_act_lia Cristina Cristolinda
-		D_a_act_cia D_a_act_lia D_e_act_bora D_o_act_ris D_u_act_lia Dafne Daiana Dalva Damares Daniela Darcila Darla Darnela Dejanira Delfina Dem_e_act_tria Desiree Denisa Dorot_e_act_ia Dulce Dulcin_e_act_ia
-		E_act_rica Edilene Edelweiss Edite Efig_e_hat_nia Elda Elga Eliana Elis_a_hat_ngela Eliz_a_hat_ngela Eliz_a_hat_ngela Elizabete Elmira Elo_a_act_ Elva Elza Em_i_act_lia Emanuela Erm_i_act_nia Estef_a_hat_nia Estela Ester Eug_e_act_nia Euz_e_act_bia Evanilde Eveline
+		C_a_act_ssia C_a_hat_ndida Caetana Camila Camilly Carla Carlinda Carmela Carolina Castelina Catalina Cec_i_act_lia Celeste Chica Chiquinha Cinderela Circe Cl_a_act_udia Clara Clarice Cleusa Cleuza Clotilde Cl_o_act_vis Const_a_hat_ncia Cord_e_act_lia Cornelia Cris_a_act_lia Cristina Cristolinda
+		D_a_act_cia D_a_act_lia D_e_act_bora D_o_act_ris D_u_act_lia Dafne Daiana Dalva Damares Daniela Darcila Darla Darnela Dejanira Delfina Dem_e_act_tria Desiree Denisa Dione Dorot_e_act_ia Dulce Dulcin_e_act_ia
+		E_act_rica Edilene Edelweiss Edite Efig_e_hat_nia Elane Elda Elga Eliana Elis_a_hat_ngela Eliz_a_hat_ngela Eliz_a_hat_ngela Elizabete Elmira Elo_a_act_ Elva Elza Em_i_act_lia Emanuela Erm_i_act_nia Estef_a_hat_nia Estela Ester Eug_e_act_nia Euz_e_act_bia Evanilde Eveline
 		F_a_act_tima F_a_hat_nia Fabiana Fabr_i_act_cia Farleide Feliciana Felipa Fernandinha Fid_e_act_lia Filipa Fiona Flavinha Flora Francisca Frederica
 		Gabi Ge_i_act_sa Gen_e_act_sia Georgina Geraldina Gerberta Gerv_a_act_sia Gilberta Gilda Giovana Gisela Giulia Giuliana Gl_a_act_ucia Gl_o_act_ria Gra_c_ced_a Greg_o_act_ria Greiziele Guilhermina
-		H_e_act_lia H_e_act_lvia Harolda Hedviges Hel_a_act_dia Helena Heliodora Hemit_e_act_ria Her_e_act_nia Heralda Heriberta Hilma Hip_o_act_lita Hor_a_act_cia Hort_e_hat_ncia
-		I_act_ris Iara Id_a_act_lia Idalina Igelcemina Il_i_act_dia Ilda In_e_hat_s Indaleta India Indira Ingeburga Ingride Inoc_e_hat_ncia Iracema Irene Isabela Isalda Iv_a_hat_nia Ivete Izaura
+		H_e_act_lia H_e_act_lvia Harolda Hedviges Hel_a_act_dia Helena Heliodora Heloise Hemit_e_act_ria Her_e_act_nia Heralda Heriberta Hilma Hip_o_act_lita Hor_a_act_cia Hort_e_hat_ncia
+		I_act_ris Iara Iasmin Id_a_act_lia Idalina Igelcemina Il_i_act_dia Ilda In_e_hat_s Indaleta India Indira Ingeburga Ingride Inoc_e_hat_ncia Iracema Irene Isabela Isalda Iv_a_hat_nia Ivete Izaura
 		J_a_hat_nia J_e_act_ssica J_u_act_lia Jacira Jade Jamila Jana_i_act_na Janete Janice Jaque Jaqueline Jasmina Joana Jocelina Joelma Joice Jorgina Jos_e_act_fa Jos_e_act_lia Josana Jovelina Judite Juliana Jussara
 		Kamilly Karina Karollyne Karine Katia Kika
 		L_e_act_lia L_i_act_cia L_i_act_dia L_i_act_via La_i_act_sa Laila Laira Larissa Laura Leandra Lena Leom_e_act_nia Leona Leonida Leonor Let_i_act_cia Liana Liliana Linete Lira Lisandra Lorena Lu_i_act_sa Luc_e_act_lia Lucineia Ludmila Lurdes Lurdite Luzia
-		M_o_hat_nica Madalena Magali Maj_u_act_ Malu Manuela Mar_i_act_lia Mara Marcilene Margarida Mari Marilia Maria Maria_Ana Maria_A_hat_ngela Maria_Ant_o_hat_nia Maria_Am_e_act_lia Maria_Aur_e_act_lia Maria_Bela Maria_Clara Maria_Gabriela Maria_Helena Maria_In_e_hat_s Maria_Laura Maria_Let_i_act_cia Maria_Madalena Maria_Neusa Maria_Odete Maria_Paula Maria_Rosa Maria_S_i_act_lvia Maria_Teresa Maria_Vit_o_act_ria Mariane Marisa Marta Matilda Maura Melinda Mercedes Michele Milena
+		M_o_hat_nica Madalena Magali Maj_u_act_ Malu Manuela Mar_i_act_lia Mara Marcilene Margarida Mari Marilia Maria Maria_Ana Maria_A_hat_ngela Maria_Ant_o_hat_nia Maria_Am_e_act_lia Maria_Aur_e_act_lia Maria_Bela Maria_Clara Maria_Gabriela Maria_Helena Maria_In_e_hat_s Maria_Laura Maria_Let_i_act_cia Maria_Madalena Maria_Neusa Maria_Odete Maria_Paula Maria_Rosa Maria_S_i_act_lvia Maria_Teresa Maria_Vit_o_act_ria Mariane Marilza Marisa Marta Matilda Maura Melinda Mercedes Michele Michelly Milena
 		N_a_act_dia N_e_act_lia Nat_a_act_lia Neusa Nicole
 		Odete Olga Oliveira Ot_a_act_via
 		Palmirinha Pamela Patr_i_act_cia Paula Pen_e_act_lope Petra Philomena Polliane
-		Rafaela Rainy Raquel Rebeca Regina Rejane Rita Rosa Rosana Rosang_e_hat_la Ruth
+		Rafaela Rainy Ranielle Raquel Rebeca Regina Rejane Rita Rosa Rosana Rosang_e_hat_la Ruth
 		S_i_act_lvia S_o_hat_nia Sabrina Safira Samanta Samara Sancha Sandra Sara Saula Sayonara Selena Selma Serena Silmara Sione Simone Simon_e_act_sia Sintia Sirleide Sofia Solange Soraia Suely Susana
 		T_a_act_bata T_o_hat_nia Ta_i_act_sa Tain_a_act_ Talita Tamires Tat_a_act_ Tatiana Taynara Telma Tereza Thayanne Therezinha
 		V_a_hat_nia Val_e_act_ria Valentina Vanderleia Ver_o_hat_nica Vera Vicenta Vit_a_act_lia Vit_o_act_ria Viviana
@@ -81,6 +81,7 @@
 		"dynn_Amorim"
 		"dynn_An_i_act_sio"
 		"dynn_Ananias"
+		"dynn_Anacleto"
 		"dynn_Andorinha"
 		"dynn_Andrada"
 		"dynn_Andrade"
@@ -146,6 +147,7 @@
 		"dynn_Braz"
 		"dynn_Breij_a_tld_o"
 		"dynn_Brigenti"
+		"dynn_Brigido"
 		"dynn_Brito"
 		"dynn_Burgarelli"
 		"dynn_Butters"
@@ -161,6 +163,7 @@
 		"dynn_Canabrava"
 		"dynn_Canalli"
 		"dynn_Candida"
+		"dynn_Capistrano"
 		"dynn_Carelli"
 		"dynn_Carvalho"
 		"dynn_Cassemiro"
@@ -219,13 +222,16 @@
 		"dynn_de_Almeida"
 		"dynn_de_Ara_u_act_jo"
 		"dynn_de_Assis"
+		"dynn_De_Bortoli"
 		"dynn_de_Brand_a_tld_o"
 		"dynn_de_Carvalho"
 		"dynn_de_Castro"
+		"dynn_de_Deus"
 		"dynn_de_Franco"
 		"dynn_de_Lima"
 		"dynn_de_Luca"
 		"dynn_de_Melo"
+		"dynn_de_Meneses"
 		"dynn_de_Miranda"
 		"dynn_de_Morais"
 		"dynn_de_Moura"
@@ -241,9 +247,11 @@
 		"dynn_de_S_a_act_"
 		"dynn_de_Souza"
 		"dynn_de_Tassis"
+		"dynn_Debien"
 		"dynn_Delgado"
 		"dynn_Deodato"
 		"dynn_Deslandes"
+		"dynn_Di_e_act_guez"
 		"dynn_Dias"
 		"dynn_Dib"
 		"dynn_Diniz"
@@ -268,8 +276,10 @@
 		"dynn_El_i_act_sio"
 		"dynn_Elias"
 		"dynn_Eliziario"
+		"dynn_Eller"
 		"dynn_Eloy"
 		"dynn_Escaleira"
+		"dynn_Esselin"
 		"dynn_Estacio"
 		"dynn_Estevam"
 		"dynn_Esteves"
@@ -296,6 +306,7 @@
 		"dynn_Fleury"
 		"dynn_Florentino"
 		"dynn_Fonseca"
+		"dynn_Fontoura"
 		"dynn_Fortes"
 		"dynn_Franca"
 		"dynn_Franco"
@@ -380,6 +391,7 @@
 		"dynn_Izidoro"
 		"dynn_J_u_act_lio"
 		"dynn_Jabur"
+		"dynn_Jacobis"
 		"dynn_Jakitsch"
 		"dynn_Januario"
 		"dynn_Jo_a_tld_o"
@@ -394,17 +406,21 @@
 		"dynn_Knupp"
 		"dynn_Kobayashi"
 		"dynn_Krolman"
+		"dynn_Kubitschek"
 		"dynn_Kuramitsu"
 		"dynn_Laborne"
 		"dynn_Lacerda"
 		"dynn_Ladislau"
 		"dynn_Lagares"
 		"dynn_Lamounier"
+		"dynn_Landes"
 		"dynn_Lara"
 		"dynn_Lawall"
 		"dynn_Le_a_tld_o"
 		"dynn_Leal"
+		"dynn_Lehner"
 		"dynn_Leite"
+		"dynn_Lessa"
 		"dynn_Letrado"
 		"dynn_Lib_a_hat_nio"
 		"dynn_Lima"
@@ -443,6 +459,7 @@
 		"dynn_Matos"
 		"dynn_Mattioli"
 		"dynn_Mattos"
+		"dynn_Mayrinck"
 		"dynn_Mayrink"
 		"dynn_Mazzoni"
 		"dynn_Medeiros"
@@ -456,9 +473,11 @@
 		"dynn_Menicucci"
 		"dynn_Mesquita"
 		"dynn_Messias"
+		"dynn_Millard"
 		"dynn_Miranda"
 		"dynn_Mirim"
 		"dynn_Mitraud"
+		"dynn_Moitinha"
 		"dynn_Monlevade"
 		"dynn_Montandon"
 		"dynn_Monteiro"
@@ -467,6 +486,7 @@
 		"dynn_Morais"
 		"dynn_Moreira"
 		"dynn_Moreno"
+		"dynn_Morici"
 		"dynn_Morine"
 		"dynn_Mortimer"
 		"dynn_Mosconi"
@@ -482,6 +502,8 @@
 		"dynn_Nasser"
 		"dynn_Natividade"
 		"dynn_Naya"
+		"dynn_Nazareno"
+		"dynn_Nazareth"
 		"dynn_Neiva"
 		"dynn_Nepomuceno"
 		"dynn_Neri"
@@ -493,22 +515,27 @@
 		"dynn_Nobre"
 		"dynn_Nogueira"
 		"dynn_Nonato"
+		"dynn_Novato"
 		"dynn_Nunes"
 		"dynn_Oliveira"
 		"dynn_Orsini"
+		"dynn_Otaviano"
 		"dynn_Otoni"
+		"dynn_Ottone"
 		"dynn_Ottoni"
 		"dynn_Ozorio"
 		"dynn_P_a_act_dua"
-		"dynn_Pacheco"
 		"dynn_Paceli"
+		"dynn_Pacheco"
 		"dynn_Paganelli"
 		"dynn_Palhares"
 		"dynn_Palm_e_act_rio"
 		"dynn_Paolinelli"
 		"dynn_Paraguassu"
+		"dynn_Paschoal"
 		"dynn_Passoni"
 		"dynn_Passos"
+		"dynn_Patrocinio"
 		"dynn_Paula"
 		"dynn_Paulinelli"
 		"dynn_Paulo"
@@ -549,7 +576,9 @@
 		"dynn_Ramos"
 		"dynn_Rangazzi"
 		"dynn_Raposo"
+		"dynn_Ratton"
 		"dynn_Raydan"
+		"dynn_Rebello"
 		"dynn_Reis"
 		"dynn_Renault"
 		"dynn_Renn_o_act_"
@@ -588,6 +617,7 @@
 		"dynn_Schiavo"
 		"dynn_Schietti"
 		"dynn_Seabra"
+		"dynn_Seixas"
 		"dynn_Senhorinho"
 		"dynn_Silva"
 		"dynn_Silveira"
@@ -602,6 +632,7 @@
 		"dynn_Spindola"
 		"dynn_Starling"
 		"dynn_Stevanatto"
+		"dynn_Sucupira"
 		"dynn_Tadeu"
 		"dynn_Tamm"
 		"dynn_Tannus"
@@ -618,6 +649,7 @@
 		"dynn_Tito"
 		"dynn_Todde"
 		"dynn_Toledo"
+		"dynn_Tolentino"
 		"dynn_Tollendal"
 		"dynn_Tomaz"
 		"dynn_Torriani"
@@ -639,6 +671,7 @@
 		"dynn_Vaz"
 		"dynn_Veiga"
 		"dynn_Veloso"
+		"dynn_Velloso"
 		"dynn_Venancio"
 		"dynn_Verissimo"
 		"dynn_Versiani"
@@ -691,6 +724,7 @@
 		"dynn_Amorim"
 		"dynn_An_i_act_sio"
 		"dynn_Ananias"
+		"dynn_Anacleto"
 		"dynn_Andorinha"
 		"dynn_Andrada"
 		"dynn_Andrade"
@@ -756,6 +790,7 @@
 		"dynn_Braz"
 		"dynn_Breij_a_tld_o"
 		"dynn_Brigenti"
+		"dynn_Brigido"
 		"dynn_Brito"
 		"dynn_Burgarelli"
 		"dynn_Butters"
@@ -771,6 +806,7 @@
 		"dynn_Canabrava"
 		"dynn_Canalli"
 		"dynn_Candida"
+		"dynn_Capistrano"
 		"dynn_Carelli"
 		"dynn_Carvalho"
 		"dynn_Cassemiro"
@@ -829,13 +865,16 @@
 		"dynn_de_Almeida"
 		"dynn_de_Ara_u_act_jo"
 		"dynn_de_Assis"
+		"dynn_de_Bortoli"
 		"dynn_de_Brand_a_tld_o"
 		"dynn_de_Carvalho"
 		"dynn_de_Castro"
+		"dynn_de_Deus"
 		"dynn_de_Franco"
 		"dynn_de_Lima"
 		"dynn_de_Luca"
 		"dynn_de_Melo"
+		"dynn_de_Meneses"
 		"dynn_de_Miranda"
 		"dynn_de_Morais"
 		"dynn_de_Moura"
@@ -851,9 +890,11 @@
 		"dynn_de_S_a_act_"
 		"dynn_de_Souza"
 		"dynn_de_Tassis"
+		"dynn_Debien"
 		"dynn_Delgado"
 		"dynn_Deodato"
 		"dynn_Deslandes"
+		"dynn_Di_e_act_guez"
 		"dynn_Dias"
 		"dynn_Dib"
 		"dynn_Diniz"
@@ -878,8 +919,10 @@
 		"dynn_El_i_act_sio"
 		"dynn_Elias"
 		"dynn_Eliziario"
+		"dynn_Eller"
 		"dynn_Eloy"
 		"dynn_Escaleira"
+		"dynn_Esselin"
 		"dynn_Estacio"
 		"dynn_Estevam"
 		"dynn_Esteves"
@@ -906,6 +949,7 @@
 		"dynn_Fleury"
 		"dynn_Florentino"
 		"dynn_Fonseca"
+		"dynn_Fontoura"
 		"dynn_Fortes"
 		"dynn_Franca"
 		"dynn_Franco"
@@ -918,36 +962,6 @@
 		"dynn_Galego"
 		"dynn_Gallo"
 		"dynn_Gama"
-		"dynn_Gamero"
-		"dynn_Garcia"
-		"dynn_Gaspar"
-		"dynn_Germano"
-		"dynn_Giannetti"
-		"dynn_Godfredsen"
-		"dynn_Gois"
-		"dynn_Gomes"
-		"dynn_Gon_c_ced_alves"
-		"dynn_Gondim"
-		"dynn_Gonzaga"
-		"dynn_Gonzalez"
-		"dynn_Graziani"
-		"dynn_Gregorio"
-		"dynn_Greyck"
-		"dynn_Gripp"
-		"dynn_Grossi"
-		"dynn_Gualberto"
-		"dynn_Guedes"
-		"dynn_Guerra"
-		"dynn_Guia"
-		"dynn_Freire"
-		"dynn_Freitas"
-		"dynn_Furtado"
-		"dynn_Galassi"
-		"dynn_Galdino"
-		"dynn_Galego"
-		"dynn_Gallo"
-		"dynn_Gama"
-		"dynn_Gamero"
 		"dynn_Garcia"
 		"dynn_Gaspar"
 		"dynn_Germano"
@@ -993,6 +1007,7 @@
 		"dynn_Izidoro"
 		"dynn_J_u_act_lio"
 		"dynn_Jabur"
+		"dynn_Jacobis"
 		"dynn_Jakitsch"
 		"dynn_Januario"
 		"dynn_Jo_a_tld_o"
@@ -1007,17 +1022,21 @@
 		"dynn_Knupp"
 		"dynn_Kobayashi"
 		"dynn_Krolman"
+		"dynn_Kubitschek"
 		"dynn_Kuramitsu"
 		"dynn_Laborne"
 		"dynn_Lacerda"
 		"dynn_Ladislau"
 		"dynn_Lagares"
 		"dynn_Lamounier"
+		"dynn_Landes"
 		"dynn_Lara"
 		"dynn_Lawall"
 		"dynn_Le_a_tld_o"
 		"dynn_Leal"
+		"dynn_Lehner"
 		"dynn_Leite"
+		"dynn_Lessa"
 		"dynn_Letrado"
 		"dynn_Lib_a_hat_nio"
 		"dynn_Lima"
@@ -1056,6 +1075,7 @@
 		"dynn_Matos"
 		"dynn_Mattioli"
 		"dynn_Mattos"
+		"dynn_Mayrinck"
 		"dynn_Mayrink"
 		"dynn_Mazzoni"
 		"dynn_Medeiros"
@@ -1069,9 +1089,11 @@
 		"dynn_Menicucci"
 		"dynn_Mesquita"
 		"dynn_Messias"
+		"dynn_Millard"
 		"dynn_Miranda"
 		"dynn_Mirim"
 		"dynn_Mitraud"
+		"dynn_Moitinha"
 		"dynn_Monlevade"
 		"dynn_Montandon"
 		"dynn_Monteiro"
@@ -1080,6 +1102,7 @@
 		"dynn_Morais"
 		"dynn_Moreira"
 		"dynn_Moreno"
+		"dynn_Morici"
 		"dynn_Morine"
 		"dynn_Mortimer"
 		"dynn_Mosconi"
@@ -1095,6 +1118,8 @@
 		"dynn_Nasser"
 		"dynn_Natividade"
 		"dynn_Naya"
+		"dynn_Nazareno"
+		"dynn_Nazareth"
 		"dynn_Neiva"
 		"dynn_Nepomuceno"
 		"dynn_Neri"
@@ -1106,10 +1131,13 @@
 		"dynn_Nobre"
 		"dynn_Nogueira"
 		"dynn_Nonato"
+		"dynn_Novato"
 		"dynn_Nunes"
 		"dynn_Oliveira"
 		"dynn_Orsini"
+		"dynn_Otaviano"
 		"dynn_Otoni"
+		"dynn_Ottone"
 		"dynn_Ottoni"
 		"dynn_Ozorio"
 		"dynn_P_a_act_dua"
@@ -1120,8 +1148,10 @@
 		"dynn_Palm_e_act_rio"
 		"dynn_Paolinelli"
 		"dynn_Paraguassu"
+		"dynn_Paschoal"
 		"dynn_Passoni"
 		"dynn_Passos"
+		"dynn_Patrocinio"
 		"dynn_Paula"
 		"dynn_Paulinelli"
 		"dynn_Paulo"
@@ -1162,7 +1192,9 @@
 		"dynn_Ramos"
 		"dynn_Rangazzi"
 		"dynn_Raposo"
+		"dynn_Ratton"
 		"dynn_Raydan"
+		"dynn_Rebello"
 		"dynn_Reis"
 		"dynn_Renault"
 		"dynn_Renn_o_act_"
@@ -1201,6 +1233,7 @@
 		"dynn_Schiavo"
 		"dynn_Schietti"
 		"dynn_Seabra"
+		"dynn_Seixas"
 		"dynn_Senhorinho"
 		"dynn_Silva"
 		"dynn_Silveira"
@@ -1215,6 +1248,7 @@
 		"dynn_Spindola"
 		"dynn_Starling"
 		"dynn_Stevanatto"
+		"dynn_Sucupira"
 		"dynn_Tadeu"
 		"dynn_Tamm"
 		"dynn_Tannus"
@@ -1231,6 +1265,7 @@
 		"dynn_Tito"
 		"dynn_Todde"
 		"dynn_Toledo"
+		"dynn_Tolentino"
 		"dynn_Tollendal"
 		"dynn_Tomaz"
 		"dynn_Torriani"
@@ -1252,6 +1287,7 @@
 		"dynn_Vaz"
 		"dynn_Veiga"
 		"dynn_Veloso"
+		"dynn_Velloso"
 		"dynn_Venancio"
 		"dynn_Verissimo"
 		"dynn_Versiani"
@@ -1291,6 +1327,7 @@
 	mother_name_chance = 5
 	
 	mercenary_names = {
+		{ name = mercenary_company_guardians_of_inconfidence coat_of_arms = mc_company_guardians_of_inconfidence }
 		{ name = mercenary_company_cruzeiro_fc coat_of_arms = mc_company_cruzeiro_fc }
 		{ name = mercenary_company_america_fc coat_of_arms = mc_company_america_mg_fc }
 		{ name = mercenary_company_place_fc_1 }

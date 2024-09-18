@@ -10,6 +10,7 @@
 	traditions = {
 		tradition_deep_jungle_dwellers
 		tradition_mystical_ancestors
+		tradition_exogamous_marriages
 	}
 	dlc_tradition = {
 		trait = tradition_artisans

@@ -159,7 +159,6 @@
 	mother_name_chance = 15
 
 	mercenary_names = {
-		{ name = mercenary_company_cahuilla }
 		{ name = mercenary_company_cahuilla_coyotes }
 		{ name = mercenary_company_cahuilla_arabians }
 	}

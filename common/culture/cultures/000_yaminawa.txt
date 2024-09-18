@@ -11,6 +11,7 @@
 		#TODO
 		tradition_deep_jungle_dwellers
 		tradition_zealous_people
+		tradition_metal_craftsmanship
 	}
 	dlc_tradition = {
 		trait = tradition_music_theory

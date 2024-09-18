@@ -44,7 +44,7 @@
 		Nadia Nawal Neida Nolvia Nora Norma Nury
 		Olga Orfa
 		Pamela Pastor Patricia Petrona
-		Rita Roc_i_act_o Rosa Rosa_Elena Rosa_Mar_i_act_a Rosalina Rosario Roxana Ruth
+		Raimunda Rita Roc_i_act_o Rosa Rosa_Elena Rosa_Mar_i_act_a Rosalina Rosario Roxana Ruth
 		Sadia Sagrario Samia Sandra Sara Sayda Silvia Sintia Sof_i_act_a Soledad Sonia Suad Suany Susana Suyapa
 		Teresa Tesla Thelma
 		Veneranda Victoria Vilma Visitaci_o_act_n
@@ -88,6 +88,7 @@
 		"dynn_Barralaga"
 		"dynn_Bascha"
 		"dynn_Behar"
+		"dynn_Bejarano"
 		"dynn_Beltrand"
 		"dynn_Bendeck"
 		"dynn_Beneth"
@@ -326,6 +327,7 @@
 		"dynn_Barralaga"
 		"dynn_Bascha"
 		"dynn_Behar"
+		"dynn_Bejarano"
 		"dynn_Beltrand"
 		"dynn_Bendeck"
 		"dynn_Beneth"

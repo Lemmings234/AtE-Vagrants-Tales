@@ -8,7 +8,7 @@
 	name_list = name_list_kolla
 	
 	traditions = {
-		#TODO
+		tradition_collective_lands
 		tradition_incaic_legacy
 		tradition_zealous_people
 		tradition_warrior_monks

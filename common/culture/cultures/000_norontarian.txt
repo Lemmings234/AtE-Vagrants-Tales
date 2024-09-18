@@ -12,6 +12,7 @@
 		tradition_forest_folk
 		tradition_ancient_miners
 		tradition_maritime_mercantilism
+		tradition_staunch_traditionalists
 		#tradition_syrup_makers
 	}
 	

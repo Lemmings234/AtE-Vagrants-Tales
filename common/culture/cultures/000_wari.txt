@@ -8,7 +8,7 @@
 	name_list = name_list_wari
 	
 	traditions = {
-		#TODO
+		tradition_hit_and_run
 		tradition_deep_jungle_dwellers
 		tradition_warrior_culture
 		tradition_isolationist

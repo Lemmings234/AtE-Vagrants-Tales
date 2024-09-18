@@ -61,7 +61,7 @@
 		{ name = mercenary_company_roughriders }
 		{ name = mercenary_company_tri_river }
 		{ name = mercenary_company_timber_cats }
-		{ name = mercenary_wizards_coast }
+		{ name = mercenary_company_wizards_coast }
 	}
 
 }

@@ -12,12 +12,13 @@
 		tradition_deep_jungle_dwellers
 		tradition_stalwart_defenders
 		tradition_fishermen
+		tradition_exogamous_marriages
 	}
 	
-	dlc_tradition = {
-		trait = tradition_culture_blending
-		requires_dlc_flag = hybridize_culture
-	}
+	#dlc_tradition = {
+	#	trait = tradition_culture_blending
+	#	requires_dlc_flag = hybridize_culture
+	#}
 	
 	coa_gfx = {
 		mura_coa_gfx

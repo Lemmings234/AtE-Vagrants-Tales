@@ -3,7 +3,7 @@
 	#compiled by Lahom, Nullpointer, W
 
 	male_names = {
-		A_act_lvaro Abel Adailton Adalberto Ademar Adolfinho Adriano Airo Aladim Alan Albano Alcides Aldo Alexandre Alfredo Almir Althair An_i_act_sio Anapolino Andr_e_act_ Anilton Ant_o_hat_nio Armando Ary
+		A_act_lvaro Abel Adailton Adalberto Ademar Adolfinho Adriano Airo Aladim Alan Albano Alcides Aldo Alexandre Alfredo Alessandro Almir Althair Amadeus An_i_act_sio Anapolino Andr_e_act_ Anilton Ant_o_hat_nio Armando Ary
 		Barbosa Belarmino Benedito Bi_e_act_ Bob Bras_i_act_lio Bruninho Bruno
 		C_a_act_cio C_e_act_lio C_e_act_sar Caim Camargo Carlos Carlos_Cezar Cassiano Castro Celestino Chico Chit_a_tld_ozinho Chrystian Clayton Cleiton Clodoaldo Conrado Cravinho Cristiano
 		D_a_act_rio D_e_act_lio Dablio Dalvan Daniel Davi Day Dem_o_act_stenes Di_o_act_genes Diego Dieimisson Dino Djalma Domingos Don Douglas Durval
@@ -19,10 +19,10 @@
 		Nair Nando Nh_o_hat_ Nicanor Nion Norberto
 		Oleg_a_act_rio Onofre Orcino Orivaldo Os_o_act_rio Osires Osmailson Osmar
 		Paulinho Paulino Paulo Pedrinho Pedro Pedro_Bento Pedro_Paulo Phillipe Pl_i_act_nio
-		Racyne Rafael Rahony Ralf Ramon Rander Raul Ravel Ren_e_hat_ Renner Rezende Rick Rico Rivelino Robertinho Roberto Robison Robson Rodolfo Rodrigo Romair Ronaldo Rony Ruan Rubens Rud
+		Racyne Rafael Rahony Ralf Ramon Rander Raul Ravel Ren_e_hat_ Renner Rezende Rick Rico Rivelino Robertinho Roberto Robison Robson Rodolfo Rodrigo Rom_a_act_rio Romair Ronaldo Rony Rosimar Ruan Rubens Rud
 		Salim Salmon Samuel Sandes Sandro Serginho Siqueira Sizenando Sulino Suely
 		Taciano Teodoro Thalyta Thayne Thiago Ti_a_tld_o Tinoco Tobias Tonico Torres
-		Valdemir Vanderlan Venerando Victor_Hugo Vilmar Vin_i_act_cius Virmondes Vitor
+		Valdemir Valdir Vanderlan Vanderley Venerando Victor_Hugo Vilmar Vin_i_act_cius Virmondes Vitor
 		Wagner Waldiney Wallacy Wander Warley Wilkinson Wilson Wilton Wolney
 		Z_e_act_ Z_e_act__Henrique Z_e_act__Paulo Z_e_act__Ricardo Zacarias Zalo Zez_e_act_ Zico
 	}
@@ -30,16 +30,16 @@
 		Adria Adriana Alessandra Alexandra Alice Aline Amanda Am_e_act_lia Ana Andr_e_act_ia Ant_o_hat_nia Aparecida Azize
 		Beatriz Benedita Bi_a_act_ Bruna
 		C_e_act_lia Camila Camilly Carolina Celina Celma Chica Chiquinha Cl_a_act_udia Cleusa Cristiane
-		D_e_act_bora Daniela Delinha Diony Divina Duda Duduca
+		D_e_act_bora Daniela Delinha Dione Diony Divina Duda Duduca
 		Edilene Eduarda Eliane Erc_i_act_lia Eva
 		Fabiana Fer Fernanda Fl_a_act_via Flor Francisca
 		Gabriela Geovana Geralda Gina Goian_e_act_sia Goiandira
 		Helena
-		Idalina Ilda Iordana Isabel Isabela Isadora Ivone
+		Iasmin Idalina Ilda Iordana Isabel Isabela Isadora Ivone
 		J_u_act_lia Jaqueline Jessica Jhenyffer Joana Josefa Juliana Julinha
 		Kamilly Karla
-		L_u_act_cia Laluna Lara Larissa Leonarda Let_i_act_cia Levita Liliane Liu Lorena Luana Luciana Lucineia Luiza Luzia
-		M_a_act_rcia Maiara Mandi Manu Mara Maraisa Marciana Mari_a_hat_ngela Maria Maria_Cec_i_act_lia Mariana Marilia Marlene Marli Marta Mayara
+		L_u_act_cia Laluna Lara Larissa Leidiane Leonarda Let_i_act_cia Levita Liliane Liu Lorena Luana Luciana Lucineia Luiza Luzia
+		M_a_act_rcia Maiara Mandi Manu Mara Maraisa Marciana Mari_a_hat_ngela Maria Maria_Cec_i_act_lia Mariana Marilia Marlene Marli Marta Mayara Michelly
 		Nair Nanda Natalia Nh_a_act_
 		Patr_i_act_cia Paulinha
 		Rafaela Raimunda Raquel Rayssa Rejane Renata Rita Rosa Ros_a_hat_ngela Rosinha
@@ -62,6 +62,7 @@
 		"dynn_Alvarenga"
 		"dynn_Alves"
 		"dynn_Alves_de_Sousa"
+		"dynn_Alvim"
 		"dynn_Amante"
 		"dynn_Andorinha"
 		"dynn_Andrade"
@@ -69,8 +70,10 @@
 		"dynn_Arantes"
 		"dynn_Ariranha"
 		"dynn_Avelar"
+		"dynn_Badauy"
 		"dynn_Baldy"
 		"dynn_Balestra"
+		"dynn_Barbacena"
 		"dynn_Barbosa"
 		"dynn_Barreiro"
 		"dynn_Barreto"
@@ -90,6 +93,7 @@
 		"dynn_Bessa"
 		"dynn_Bicudo"
 		"dynn_Bittencourt"
+		"dynn_Boaventura"
 		"dynn_Borges"
 		"dynn_Borges_da_Silva"
 		"dynn_Bosco"
@@ -145,9 +149,11 @@
 		"dynn_Di_Paullo"
 		"dynn_Dias"
 		"dynn_Divino"
+		"dynn_Dragalzew"
 		"dynn_Duarte"
 		"dynn_Esp_i_act_ndola"
 		"dynn_Estelita"
+		"dynn_Fagundes"
 		"dynn_Faiad"
 		"dynn_Falc_a_tld_o"
 		"dynn_Faleiro"
@@ -167,6 +173,7 @@
 		"dynn_Gabiroba"
 		"dynn_Gaier"
 		"dynn_Galego"
+		"dynn_Gama"
 		"dynn_Godoi"
 		"dynn_Goiano"
 		"dynn_Gomes"
@@ -181,6 +188,7 @@
 		"dynn_Hajjar"
 		"dynn_Hamu"
 		"dynn_Hayashida"
+		"dynn_Helou"
 		"dynn_Hezim"
 		"dynn_Hosokawa"
 		"dynn_Hugo"
@@ -189,6 +197,7 @@
 		"dynn_J_u_act_nior"
 		"dynn_Kajuru"
 		"dynn_Kalugin"
+		"dynn_Lajovic"
 		"dynn_Lamounier"
 		"dynn_Landim"
 		"dynn_Laureano"
@@ -229,6 +238,7 @@
 		"dynn_Mirim"
 		"dynn_Mococa"
 		"dynn_Mofatto"
+		"dynn_Moitinha"
 		"dynn_Montalv_a_tld_o"
 		"dynn_Monteirinho"
 		"dynn_Monteiro"
@@ -244,10 +254,13 @@
 		"dynn_Nato"
 		"dynn_Naves"
 		"dynn_Nelto"
+		"dynn_Nery"
 		"dynn_Neto"
 		"dynn_Neves"
+		"dynn_Nobre"
 		"dynn_Noleto"
 		"dynn_Nonato"
+		"dynn_Novato"
 		"dynn_Otoni"
 		"dynn_P_o_act_voa"
 		"dynn_Paj_e_act_"
@@ -256,6 +269,7 @@
 		"dynn_Pardal"
 		"dynn_Pardinho"
 		"dynn_Parreira"
+		"dynn_Patrocinio"
 		"dynn_Pe_a_tld_o"
 		"dynn_Pedreiro"
 		"dynn_Peixoto"
@@ -316,6 +330,7 @@
 		"dynn_Teles"
 		"dynn_Teodoro"
 		"dynn_Tibagi"
+		"dynn_Tipple"
 		"dynn_Torres"
 		"dynn_Torrinha"
 		"dynn_Umbelino"
@@ -372,6 +387,7 @@
 		"dynn_Alvarenga"
 		"dynn_Alves"
 		"dynn_Alves_de_Sousa"
+		"dynn_Alvim"
 		"dynn_Amante"
 		"dynn_Andorinha"
 		"dynn_Andrade"
@@ -379,8 +395,10 @@
 		"dynn_Arantes"
 		"dynn_Ariranha"
 		"dynn_Avelar"
+		"dynn_Badauy"
 		"dynn_Baldy"
 		"dynn_Balestra"
+		"dynn_Barbacena"
 		"dynn_Barbosa"
 		"dynn_Barreiro"
 		"dynn_Barreto"
@@ -400,6 +418,7 @@
 		"dynn_Bessa"
 		"dynn_Bicudo"
 		"dynn_Bittencourt"
+		"dynn_Boaventura"
 		"dynn_Borges"
 		"dynn_Borges_da_Silva"
 		"dynn_Bosco"
@@ -455,9 +474,11 @@
 		"dynn_Di_Paullo"
 		"dynn_Dias"
 		"dynn_Divino"
+		"dynn_Dragalzew"
 		"dynn_Duarte"
 		"dynn_Esp_i_act_ndola"
 		"dynn_Estelita"
+		"dynn_Fagundes"
 		"dynn_Faiad"
 		"dynn_Falc_a_tld_o"
 		"dynn_Faleiro"
@@ -477,6 +498,7 @@
 		"dynn_Gabiroba"
 		"dynn_Gaier"
 		"dynn_Galego"
+		"dynn_Gama"
 		"dynn_Godoi"
 		"dynn_Goiano"
 		"dynn_Gomes"
@@ -491,6 +513,7 @@
 		"dynn_Hajjar"
 		"dynn_Hamu"
 		"dynn_Hayashida"
+		"dynn_Helou"
 		"dynn_Hezim"
 		"dynn_Hosokawa"
 		"dynn_Hugo"
@@ -499,6 +522,7 @@
 		"dynn_J_u_act_nior"
 		"dynn_Kajuru"
 		"dynn_Kalugin"
+		"dynn_Lajovic"
 		"dynn_Lamounier"
 		"dynn_Landim"
 		"dynn_Laureano"
@@ -539,6 +563,7 @@
 		"dynn_Mirim"
 		"dynn_Mococa"
 		"dynn_Mofatto"
+		"dynn_Moitinha"
 		"dynn_Montalv_a_tld_o"
 		"dynn_Monteirinho"
 		"dynn_Monteiro"
@@ -554,10 +579,13 @@
 		"dynn_Nato"
 		"dynn_Naves"
 		"dynn_Nelto"
+		"dynn_Nery"
 		"dynn_Neto"
 		"dynn_Neves"
+		"dynn_Nobre"
 		"dynn_Noleto"
 		"dynn_Nonato"
+		"dynn_Novato"
 		"dynn_Otoni"
 		"dynn_P_o_act_voa"
 		"dynn_Paj_e_act_"
@@ -566,6 +594,7 @@
 		"dynn_Pardal"
 		"dynn_Pardinho"
 		"dynn_Parreira"
+		"dynn_Patrocinio"
 		"dynn_Pe_a_tld_o"
 		"dynn_Pedreiro"
 		"dynn_Peixoto"
@@ -626,6 +655,7 @@
 		"dynn_Teles"
 		"dynn_Teodoro"
 		"dynn_Tibagi"
+		"dynn_Tipple"
 		"dynn_Torres"
 		"dynn_Torrinha"
 		"dynn_Umbelino"

@@ -13,6 +13,7 @@
 		tradition_bentwood_crafts
 		tradition_potlatch
 		tradition_RICE_whalers
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

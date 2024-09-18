@@ -36,14 +36,10 @@
 	
 	ethnicities = {
 		
-		35 = african
-		2 = caucasian
-		1 = mediterranean
+		5 = african
 		35 = amazonian
-		1 = mesoamerican_yuto_aztec
-		1 = white_indigenous
-		15 = black_white
-		10 = black_indigenous
+		15 = mesoamerican_yuto_aztec
+		30 = black_indigenous
 	
 	}
 }

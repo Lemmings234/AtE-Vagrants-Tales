@@ -17,13 +17,12 @@
         mother_name_chance = 25
         
         mercenary_names = {
-            { name = mercenary_company_walla_walla_warriors }
-    { name = mercenary_company_sasquatch }
-     { name = mercenary_company_sca }
-     { name = mercenary_company_roughriders }
-     { name = mercenary_company_tri_river }
-     { name = mercenary_company_timber_cats }
-     { name = mercenary_wizards_coast }
-        }
-        
+			{ name = mercenary_company_walla_walla_warriors }
+			{ name = mercenary_company_sasquatch }
+			{ name = mercenary_company_sca }
+			{ name = mercenary_company_roughriders }
+			{ name = mercenary_company_tri_river }
+			{ name = mercenary_company_timber_cats }
+			{ name = mercenary_company_wizards_coast }
+        } 
 }

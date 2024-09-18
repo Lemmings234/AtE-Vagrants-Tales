@@ -8,7 +8,7 @@
 	name_list = name_list_nortechicano
 	
 	traditions = {
-		#TODO
+		tradition_festivities
 		tradition_fishermen
 		tradition_maritime_mercantilism
 		tradition_ancient_miners

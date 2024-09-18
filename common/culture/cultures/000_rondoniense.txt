@@ -10,6 +10,7 @@
 	traditions = {
 		tradition_jungle_dwellers
 		tradition_warrior_culture
+		tradition_pastoralists
 		tradition_ruling_caste
 	}
 	

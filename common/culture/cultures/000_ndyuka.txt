@@ -2,7 +2,7 @@
 	color = { 173 142 5 }
 	
 	ethos = ethos_stoic
-	heritage = heritage_guyanan
+	heritage = heritage_maroon
 	language = language_ndyuka
 	martial_custom = martial_custom_female_only
 	name_list = name_list_ndyuka

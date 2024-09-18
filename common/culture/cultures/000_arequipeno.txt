@@ -8,7 +8,7 @@
 	name_list = name_list_arequipeno
 	
 	traditions = {
-		#TODO
+		tradition_poetry
 		tradition_isolationist
 		tradition_city_keepers
 		tradition_mountaineers

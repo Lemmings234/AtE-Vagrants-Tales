@@ -3,11 +3,11 @@
 	#compiled by Lahom, Nico, Null, W
 
 	male_names = {
-		A_act_lvaro Adailton Adriano Afonso Aguinaldo Alexandre Anito Ant_o_hat_nio Ant_o_hat_nio_Geraldo Ant_o_hat_nio_Jos_e_act_ Ant_o_hat_nio_Manuel Argemiro Artur Austreg_e_act_silo
+		A_act_lvaro Adailton Adelmario Adriano Afonso Aguinaldo Alexandre Anito Ant_o_hat_nio Ant_o_hat_nio_Geraldo Ant_o_hat_nio_Jos_e_act_ Ant_o_hat_nio_Manuel Argemiro Artur Austreg_e_act_silo
 		Bruno
 		C_a_act_ssio C_a_hat_ndido Carlos Cl_a_act_udio Cl_o_act_vis
-		Dami_a_tld_o David Deodato
-		E_act_rico
+		Dami_a_tld_o David Deodato Dernevaldo
+		E_act_rico Evanilson
 		F_a_act_bio F_e_act_lix Fabr_i_act_cio Fernando Fl_a_act_vio Francisco
 		Gilbran Givanildo
 		Henrique Hernaldo
@@ -38,7 +38,7 @@
 		M_a_act_rcio M_a_act_rio Manoel Marcelo Marcos
 		Ol_i_act_mpio Onildo
 		Paulo Pedro
-		Rafael Ricardo Rinaldo Roberto Rog_e_act_rio
+		Rafael Ricardo Rinaldo Roberto Rog_e_act_rio Rom_a_act_rio
 		S_e_act_rgio Severino Sivanildo
 		Uelinton
 		Valmir
@@ -51,7 +51,8 @@
 		Daniella Delzuita
 		Edith Eleni Elissandra Elizabeth Eva
 		F_a_act_tima Fabiana Fernanda Francinete
-		Idalina Ilana
+		Heloise
+		Idalina Ilana Isla
 		Jainara Josefa Juliana
 		Karine
 		L_i_act_gia L_i_act_via L_u_act_cia Lourdes Luciana
@@ -109,6 +110,7 @@
 		"dynn_Bicudo"
 		"dynn_Bigodinho"
 		"dynn_Bispo"
+		"dynn_Boaventura"
 		"dynn_Bocanegra"
 		"dynn_Bola"
 		"dynn_Bonaparte"
@@ -177,6 +179,8 @@
 		"dynn_Cutia"
 		"dynn_Dantas"
 		"dynn_Davi"
+		"dynn_de_Deus"
+	    "dynn_de_Holanda"
 		"dynn_Ded_e_act_"
 		"dynn_Delegado"
 		"dynn_Deus-me-Guia"
@@ -190,6 +194,7 @@
 		"dynn_Estandarte-de-Sangue"
 		"dynn_Estrela"
 		"dynn_Fa_i_act_sca"
+		"dynn_Fagundes"
 		"dynn_Faustino"
 		"dynn_Faz-Tudo"
 		"dynn_Feitosa"
@@ -207,6 +212,7 @@
 		"dynn_Gadelha"
 		"dynn_Galdino"
 		"dynn_Galego"
+		"dynn_Gama"
 		"dynn_Gamb_a_act_"
 		"dynn_Gamb_e_act_"
 		"dynn_Gato"
@@ -240,6 +246,7 @@
 		"dynn_La_c_ced_o"
 		"dynn_Labareda"
 		"dynn_Lampi_a_tld_o"
+		"dynn_Laranjeira"
 		"dynn_Latada"
 		"dynn_Lear"
 		"dynn_Leite"
@@ -248,8 +255,8 @@
 		"dynn_Lombada"
 		"dynn_Lua-Branca"
 		"dynn_Lucena"
-		"dynn_M_a_tld_o-de-Grelha"
 		"dynn_M_a_tld_o_Foveira"
+		"dynn_M_a_tld_o-de-Grelha"
 		"dynn_Ma_c_ced_arico"
 		"dynn_Mal_i_act_cia"
 		"dynn_Mamoeira"
@@ -267,29 +274,31 @@
 		"dynn_Martins"
 		"dynn_Mec_a_hat_nico"
 		"dynn_Meia-Noite"
-		"dynn_Mel-com-Terra"
 		"dynn_Mel_a_tld_o"
+		"dynn_Mel-com-Terra"
 		"dynn_Mergulh_a_tld_o"
 		"dynn_Miranda"
 		"dynn_Mirim"
 		"dynn_Moderno"
 		"dynn_Moeda"
 		"dynn_Moita-Braba"
-		"dynn_Moitinha"
 		"dynn_Monteiro"
 		"dynn_Morais"
 		"dynn_Moreira"
 		"dynn_Moreno"
 		"dynn_Morma_c_ced_o"
 		"dynn_Mour_a_tld_o"
+		"dynn_Muritiba"
 		"dynn_Naro"
 		"dynn_Naufragado"
 		"dynn_Navieiro"
+		"dynn_Nery"
 		"dynn_Nogueira"
 		"dynn_Olheiro"
 		"dynn_P_e_act_-de-Pano"
 		"dynn_Paje_u_act_"
 		"dynn_Pancada"
+		"dynn_Paraguassu"
 		"dynn_Passarinho"
 		"dynn_Pau-dos-Ferros"
 		"dynn_Paulino"
@@ -327,6 +336,7 @@
 		"dynn_Ramos-Verdes"
 		"dynn_Raposa"
 		"dynn_Reboli_c_ced_o"
+		"dynn_Rebou_c_ced_as"
 		"dynn_Rei_do_Gado"
 		"dynn_Rei_do_Gelo"
 		"dynn_Rel_a_hat_mpago"
@@ -346,6 +356,7 @@
 		"dynn_Sapato"
 		"dynn_Saracura"
 		"dynn_Sardento"
+		"dynn_Seixas"
 		"dynn_Senhor-de-Cavalos"
 		"dynn_Sereno"
 		"dynn_Serra-Branca"
@@ -358,6 +369,7 @@
 		"dynn_Suassuna"
 		"dynn_Tabaqueiro"
 		"dynn_Tamandu_a_act_"
+		"dynn_Tanajura"
 		"dynn_Targino"
 		"dynn_Tatu"
 		"dynn_Teles-Pires"
@@ -452,6 +464,7 @@
 		"dynn_Bicudo"
 		"dynn_Bigodinho"
 		"dynn_Bispo"
+		"dynn_Boaventura"
 		"dynn_Bocanegra"
 		"dynn_Bola"
 		"dynn_Bonaparte"
@@ -514,12 +527,14 @@
 		"dynn_Corisco"
 		"dynn_Correia"
 		"dynn_Corrupi_a_tld_o"
-		"dynn_Costa"
 		"dynn_Costa-Verde"
+		"dynn_Costa"
 		"dynn_Cravo-Roxo"
 		"dynn_Cutia"
 		"dynn_Dantas"
 		"dynn_Davi"
+		"dynn_de_Deus"
+		"dynn_de_Holanda"
 		"dynn_Ded_e_act_"
 		"dynn_Delegado"
 		"dynn_Deus-me-Guia"
@@ -533,6 +548,7 @@
 		"dynn_Estandarte-de-Sangue"
 		"dynn_Estrela"
 		"dynn_Fa_i_act_sca"
+		"dynn_Fagundes"
 		"dynn_Faustino"
 		"dynn_Faz-Tudo"
 		"dynn_Feitosa"
@@ -550,6 +566,7 @@
 		"dynn_Gadelha"
 		"dynn_Galdino"
 		"dynn_Galego"
+		"dynn_Gama"
 		"dynn_Gamb_a_act_"
 		"dynn_Gamb_e_act_"
 		"dynn_Gato"
@@ -583,6 +600,7 @@
 		"dynn_La_c_ced_o"
 		"dynn_Labareda"
 		"dynn_Lampi_a_tld_o"
+		"dynn_Laranjeira"
 		"dynn_Latada"
 		"dynn_Lear"
 		"dynn_Leite"
@@ -591,8 +609,8 @@
 		"dynn_Lombada"
 		"dynn_Lua-Branca"
 		"dynn_Lucena"
-		"dynn_M_a_tld_o-de-Grelha"
 		"dynn_M_a_tld_o_Foveira"
+		"dynn_M_a_tld_o-de-Grelha"
 		"dynn_Ma_c_ced_arico"
 		"dynn_Mal_i_act_cia"
 		"dynn_Mamoeira"
@@ -618,21 +636,23 @@
 		"dynn_Moderno"
 		"dynn_Moeda"
 		"dynn_Moita-Braba"
-		"dynn_Moitinha"
 		"dynn_Monteiro"
 		"dynn_Morais"
 		"dynn_Moreira"
 		"dynn_Moreno"
 		"dynn_Morma_c_ced_o"
 		"dynn_Mour_a_tld_o"
+		"dynn_Muritiba"
 		"dynn_Naro"
 		"dynn_Naufragado"
 		"dynn_Navieiro"
+		"dynn_Nery"
 		"dynn_Nogueira"
 		"dynn_Olheiro"
 		"dynn_P_e_act_-de-Pano"
 		"dynn_Paje_u_act_"
 		"dynn_Pancada"
+		"dynn_Paraguassu"
 		"dynn_Passarinho"
 		"dynn_Pau-dos-Ferros"
 		"dynn_Paulino"
@@ -670,6 +690,7 @@
 		"dynn_Ramos-Verdes"
 		"dynn_Raposa"
 		"dynn_Reboli_c_ced_o"
+		"dynn_Rebou_c_ced_as"
 		"dynn_Rei_do_Gado"
 		"dynn_Rei_do_Gelo"
 		"dynn_Rel_a_hat_mpago"
@@ -689,6 +710,7 @@
 		"dynn_Sapato"
 		"dynn_Saracura"
 		"dynn_Sardento"
+		"dynn_Seixas"
 		"dynn_Senhor-de-Cavalos"
 		"dynn_Sereno"
 		"dynn_Serra-Branca"
@@ -701,6 +723,7 @@
 		"dynn_Suassuna"
 		"dynn_Tabaqueiro"
 		"dynn_Tamandu_a_act_"
+		"dynn_Tanajura"
 		"dynn_Targino"
 		"dynn_Tatu"
 		"dynn_Teles-Pires"

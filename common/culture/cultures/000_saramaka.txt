@@ -2,7 +2,7 @@
 	color = { 195 219 9 }
 	
 	ethos = ethos_spiritual
-	heritage = heritage_guyanan
+	heritage = heritage_maroon
 	language = language_saramaccan
 	martial_custom = martial_custom_female_only
 	name_list = name_list_saramaka

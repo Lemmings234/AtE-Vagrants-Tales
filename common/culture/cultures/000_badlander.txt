@@ -9,6 +9,7 @@
 	
 	traditions = {
 		tradition_pastoralists
+		tradition_frontier_folk
 		tradition_caravaneers
 		tradition_tribe_unity
 		tradition_RICE_expert_apiculture

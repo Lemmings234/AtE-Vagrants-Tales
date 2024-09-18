@@ -15,7 +15,7 @@
 		Jes_u_act_s Jorge Jos_e_act_ Jos_e_act__Luis Jos_e_act__Miguel Josel_i_act_n Juan Juan_Miguel Julio Junior Justo
 		Leandro Lindolfo Luis
 		M_a_act_ximo Manuel Mariano Mario Mart_i_act_n Medardo Miguel Modesto
-		N_e_act_stor Napole_o_act_n Nasario Neptal_i_act_
+		N_e_act_stor Napole_o_act_n Nasario Neptal_i_act_ Nilton
 		O_act_scar Oswaldo
 		P_a_act_nfilo Paolo Pascual Pedro Percy Porfirio Primitivo
 		Quintiliano
@@ -140,6 +140,7 @@
 		"dynn_Guill_e_act_n"
 		"dynn_Guti_e_act_rrez"
 		"dynn_Hernani"
+		"dynn_Hinojosa"
 		"dynn_Huac_a_act_n"
 		"dynn_Huacho"
 		"dynn_Huallpa"
@@ -350,6 +351,7 @@
 		"dynn_Guill_e_act_n"
 		"dynn_Guti_e_act_rrez"
 		"dynn_Hernani"
+		"dynn_Hinojosa"
 		"dynn_Huac_a_act_n"
 		"dynn_Huacho"
 		"dynn_Huallpa"

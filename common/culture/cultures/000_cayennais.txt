@@ -2,7 +2,7 @@
 	color = { 204 130 63 }
 	
 	ethos = ethos_communal
-	heritage = heritage_guyanan
+	heritage = heritage_cayennais
 	language = language_kriyol
 	martial_custom = martial_custom_male_only
 	name_list = name_list_cayennais

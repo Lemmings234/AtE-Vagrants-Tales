@@ -38,10 +38,9 @@
 	ethnicities = {
 		
 		5 = african
-		5 = mediterranean
-		5 = mesoamerican_yuto_aztec
+		55 = amazonian
+		15 = mesoamerican_yuto_aztec
 		5 = black_indigenous
-		50 = med_black_ind
 	
 	}
 }

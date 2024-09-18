@@ -13,7 +13,7 @@
 		H_e_act_ctor Harding Harmodio Harold Herasto Hilario Hugo Humberto
 		Ignacio Ildefonso Irving Isidro Ismael Iv_a_act_n
 		Jaci_a_act_n Jaime Jairo Javier Jerem_i_act_as Joaqu_i_act_n Joel Jonathan Jordan Jorge Jos_e_act_ Jos_e_act__Domingo Jos_e_act__Gabriel Jos_e_act__Gilberto Jos_e_act__Luis Jos_e_act__Mar_i_act_a Juan Juan_Alberto Juan_Carlos Juan_Manuel Juan_Ram_o_act_n Julio
-		Kaiser Kevin Keylor
+		Kaiser Kenzo Kevin Keylor
 		Laurentino Leonardo Leopoldo Levi Luis Luis_Ernesto Luis_Rafael
 		Manuel Marcelo Marco Marco_Aurelio Mariano Marlon Mart_i_act_n Mateo Mauricio Maykol Melchor Miguel Mois_e_act_s
 		Neftal_i_act_ Nelson Nicol_a_act_s Nidio
@@ -43,8 +43,9 @@
 		Ofelia Olga Otilia
 		Paola Patricia Petita
 		Raiza Raquel Rebeca Reina Rosa Rosa_Mar_i_act_a Rosario
-		Sandra Sara Sheldry Silvia Sof_i_act_a Sorangel Stefanie Susana
+		Sandra Sara Sayuri Sheldry Silvia Sof_i_act_a Sorangel Stefanie Susana
 		Tania Tanisha Teresa
+		Ursula
 		Victoria Virginia Vivian
 		Yamilka Yanibel Yanina Yaxenia Yazm_i_act_n Yesenia Yolanda Yomatzy Yoselyn
 		Zoraida Zulay
@@ -112,6 +113,7 @@
 		"dynn_Beckford"
 		"dynn_Beitia"
 		"dynn_Beker"
+		"dynn_Belanger"
 		"dynn_Bello"
 		"dynn_Beluche"
 		"dynn_Berenguer"
@@ -136,6 +138,7 @@
 		"dynn_Britton"
 		"dynn_Broce"
 		"dynn_Browne"
+		"dynn_Buitrago"
 		"dynn_Buitr_o_act_n"
 		"dynn_Burac"
 		"dynn_Bustamante"
@@ -177,8 +180,10 @@
 		"dynn_Cleghorn"
 		"dynn_Cobham"
 		"dynn_Codrington"
+		"dynn_Coley"
 		"dynn_Collado"
 		"dynn_Combe"
+		"dynn_Conquista"
 		"dynn_Coparropa"
 		"dynn_Coronado"
 		"dynn_Coronel"
@@ -207,6 +212,7 @@
 		"dynn_Downer"
 		"dynn_Drakes"
 		"dynn_Duarte"
+		"dynn_Ducreux"
 		"dynn_Dur_a_act_n"
 		"dynn_Dutton"
 		"dynn_Echeverria"
@@ -448,6 +454,7 @@
 		"dynn_Quir_o_act_s"
 		"dynn_Racine"
 		"dynn_Rawlins"
+		"dynn_Raven"
 		"dynn_Reece"
 		"dynn_Reefer"
 		"dynn_Regueira"
@@ -484,6 +491,7 @@
 		"dynn_Scott"
 		"dynn_Sealey"
 		"dynn_Segundo"
+		"dynn_Seixas"
 		"dynn_Selles"
 		"dynn_Serrac_i_act_n"
 		"dynn_Sevillano"
@@ -497,6 +505,7 @@
 		"dynn_Snape"
 		"dynn_Sobed"
 		"dynn_Sobenis"
+		"dynn_Sobers"
 		"dynn_Sol_i_act_s"
 		"dynn_Solanilla"
 		"dynn_Solano"
@@ -508,6 +517,7 @@
 		"dynn_Stevenson"
 		"dynn_Stonestreet"
 		"dynn_Suazo"
+		"dynn_Sugar"
 		"dynn_Sugasti"
 		"dynn_Surgeon"
 		"dynn_Tafoya"
@@ -658,6 +668,7 @@
 		"dynn_Beckford"
 		"dynn_Beitia"
 		"dynn_Beker"
+		"dynn_Belanger"
 		"dynn_Bello"
 		"dynn_Beluche"
 		"dynn_Berenguer"
@@ -682,6 +693,7 @@
 		"dynn_Britton"
 		"dynn_Broce"
 		"dynn_Browne"
+		"dynn_Buitrago"
 		"dynn_Buitr_o_act_n"
 		"dynn_Burac"
 		"dynn_Bustamante"
@@ -723,8 +735,10 @@
 		"dynn_Cleghorn"
 		"dynn_Cobham"
 		"dynn_Codrington"
+		"dynn_Coley"
 		"dynn_Collado"
 		"dynn_Combe"
+		"dynn_Conquista"
 		"dynn_Coparropa"
 		"dynn_Coronado"
 		"dynn_Coronel"
@@ -753,6 +767,7 @@
 		"dynn_Downer"
 		"dynn_Drakes"
 		"dynn_Duarte"
+		"dynn_Ducreux"
 		"dynn_Dur_a_act_n"
 		"dynn_Dutton"
 		"dynn_Echeverria"
@@ -993,6 +1008,7 @@
 		"dynn_Quir_o_act_s"
 		"dynn_Racine"
 		"dynn_Rawlins"
+		"dynn_Raven"
 		"dynn_Reece"
 		"dynn_Reefer"
 		"dynn_Regueira"
@@ -1029,6 +1045,7 @@
 		"dynn_Scott"
 		"dynn_Sealey"
 		"dynn_Segundo"
+		"dynn_Seixas"
 		"dynn_Selles"
 		"dynn_Serrac_i_act_n"
 		"dynn_Sevillano"
@@ -1042,6 +1059,7 @@
 		"dynn_Snape"
 		"dynn_Sobed"
 		"dynn_Sobenis"
+		"dynn_Sobers"
 		"dynn_Sol_i_act_s"
 		"dynn_Solanilla"
 		"dynn_Solano"
@@ -1053,6 +1071,7 @@
 		"dynn_Stevenson"
 		"dynn_Stonestreet"
 		"dynn_Suazo"
+		"dynn_Sugar"
 		"dynn_Sugasti"
 		"dynn_Surgeon"
 		"dynn_Tafoya"

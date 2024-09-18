@@ -7,14 +7,14 @@
 		Benjamim Berg Brendo
 		C_e_act_sar Caciano Carlos Cl_a_act_udio Cl_e_act_ber Cleitor
 		Dennys Deric Djalma Donato
-		E_hat_nio Edson Edouard Edvaldo Eridjonson Esperidi_a_tld_o Estevam Evens
+		E_hat_nio Edson Edouard Edvaldo Eridjonson Ernilson Esperidi_a_tld_o Estevam Evens
 		Felipe Fl_a_act_vio Francimar Frantz Francisco
 		Gabriel Geraldo Gleison
 		H_e_act_lio Hil_a_act_rio Hildebrando
 		Ildefon_c_ced_o Isaac Isnard Izaquel
 		Jailson Jarbas Jarliz Jean Jean-Baptiste Jean-Bart Jean-B_e_act_lony Jean-Bertrand Jean-Claude Jo_a_tld_o Joaquim Jorge Jos_e_act_ Jos_e_act__Aldemir Jos_e_act__Estevam Jos_e_act__Guilherme Jos_e_act__Rui Josu_e_act_ Judson
 		L_u_act_cio Laudo Leonardo Lourenzo Lucas Luhan Luckner Luiz
-		M_a_act_rio Madiano Maik Manoel Marcelo Marcos Marcos_Paulo Marlon Marx Mateus Maur_i_act_cio Milton Mustaf_a_act_
+		M_a_act_rio Mackenson Madiano Maik Manoel Marcelo Marcos Marcos_Paulo Marlon Marx Mateus Maur_i_act_cio Milton Mustaf_a_act_
 		Nabor Nelson
 		Olavo Omar
 		Paulo Pedro Pl_i_act_nio
@@ -79,6 +79,7 @@
 		"dynn_Cadaxo"
 		"dynn_Calixto"
 		"dynn_Campello"
+		"dynn_Capper"
 		"dynn_Castelo-Branco"
 		"dynn_Cavalcante"
 		"dynn_Chaar"
@@ -108,6 +109,7 @@
 		"dynn_Giancotti"
 		"dynn_Giustini"
 		"dynn_Gomes"
+		"dynn_Granjeiro"
 		"dynn_Gueye"
 		"dynn_Guiomard"
 		"dynn_Gurgel"
@@ -209,7 +211,7 @@
 		"dynn_Tangar_a_act_"
 		"dynn_Taquari"
 		"dynn_Taumaturgo"
-		"dynn_Uchoa"
+		"dynn_Uch_o_hat_a"
 		"dynn_Urbano"
 		"dynn_Vale"
 		"dynn_Vargas"
@@ -278,6 +280,7 @@
 		"dynn_Cadaxo"
 		"dynn_Calixto"
 		"dynn_Campello"
+		"dynn_Capper"
 		"dynn_Castelo-Branco"
 		"dynn_Cavalcante"
 		"dynn_Chaar"
@@ -307,6 +310,7 @@
 		"dynn_Giancotti"
 		"dynn_Giustini"
 		"dynn_Gomes"
+		"dynn_Granjeiro"
 		"dynn_Gueye"
 		"dynn_Guiomard"
 		"dynn_Gurgel"
@@ -408,7 +412,7 @@
 		"dynn_Tangar_a_act_"
 		"dynn_Taquari"
 		"dynn_Taumaturgo"
-		"dynn_Uchoa"
+		"dynn_Uch_o_hat_a"
 		"dynn_Urbano"
 		"dynn_Vale"
 		"dynn_Vargas"

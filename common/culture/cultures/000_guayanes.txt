@@ -8,10 +8,11 @@
 	name_list = name_list_guayanes
 	
 	traditions = {
-		#TODO
+		tradition_ancient_miners
 		tradition_cheesemongers
 		tradition_pastoralists
-		tradition_horse_breeder
+		tradition_llaneros
+
 	}
 	
 	coa_gfx = {

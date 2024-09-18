@@ -8,9 +8,10 @@
 	name_list = name_list_paresi
 	
 	traditions = {
-		#TODO
+		tradition_xenophilic
 		tradition_jungle_dwellers
 		tradition_concubines
+		tradition_wedding_ceremonies
 	}
 	dlc_tradition = {
 		trait = tradition_artisans

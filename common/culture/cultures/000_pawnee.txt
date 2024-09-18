@@ -2,7 +2,7 @@
 	color = { 40 80 144 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_plains_sequoyan
+	heritage = heritage_plains
 	language = language_pawnee
 	martial_custom = martial_custom_equal
 	name_list = name_list_pawnee

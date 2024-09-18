@@ -12,6 +12,7 @@
 		tradition_horse_breeder
 		tradition_hit_and_run
 		tradition_staunch_traditionalists
+		tradition_hereditary_hierarchy
 	}
 	
 	coa_gfx = {

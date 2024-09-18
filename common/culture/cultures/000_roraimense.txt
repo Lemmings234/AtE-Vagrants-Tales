@@ -10,6 +10,7 @@
 	traditions = {
 		tradition_jungle_dwellers
 		tradition_charitable
+		tradition_religious_patronage
 	}
 	
 	dlc_tradition = {

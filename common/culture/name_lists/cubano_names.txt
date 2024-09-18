@@ -7,10 +7,10 @@
 		B_a_act_rbaro Baldomero Belarmino Benigno Bernaldo Bienvenido Blas Boris
 		C_a_act_ndido C_e_act_sar Calixto Camilo Carlos Che Claro
 		Dagoberto David Demetrio Desiderio Disney
-		Eberto Edelmiro Edilberto Eduardo Efra_i_act_n El_i_act_as Eli_a_act_n Eli_e_act_cer Eliades Eliomar Eliseo Elvis Eloy Elpidio Emerio Emeterio Emilio Enrique Erick Ernesto Estanislao Esteban Eusebio Evelio Evidio
+		Eberto Edelmiro Edilberto Eduardo Efra_i_act_n El_i_act_as Eli_a_act_n Eli_e_act_cer Eliades Elieser Eliomar Eliseo Elvis Eloy Elpidio Emerio Emeterio Emilio Enrique Erick Ernesto Estanislao Esteban Eusebio Evelio Evidio
 		F_e_act_lix Federico Feliberto Felino Felipe Ferm_i_act_n Fernando Fidel Frank
 		Gerardo Germ_a_act_n Gervasio Gilberto Giraldo Gonzalo Gualberto Guido Guillermo Gumersindo Gustavo
-		Hanoi H_e_act_ctor Heriberto Hermenegildo Herminio Huber Humberto
+		H_e_act_ctor Heriberto Hermenegildo Herminio Huber Humberto
 		Ibrahim Ignacio Israel Iv_a_act_n
 		Javier Jes_u_act_s Jorge Jos_e_act_ Jos_e_act__Giraldo Jos_e_act__Luis Josel_i_act_n Juan Julio
 		L_a_act_zaro Leobaldo Leonardo Leonel Leopoldo Leovigildo Limbano Lorenzo Luis Luis_Alberto Luis_Giraldo
@@ -25,18 +25,18 @@
 		Ubaldo Ulises Ulpiano
 		V_i_act_ctor Vicente Vladimir
 		Waldo Walfrido Walter Wilber Wilder Wilfredo
-		Yaniel Yasiel Yasmani Yasser Yoel Yordan Yosvany Yuniel Yuniesky Yunior Yuri
+		Yaniel Yasiel Yasmani Yasser Yoel Yordan Yosvani Yosvany Yuniel Yuniesky Yunior Yuri
 		Zoilo
 	}
 	female_names = {
-		Ada Adela Adelaida Adolfina Aimee Albertina Aleida Alicia Amarilis Ana Ana_Elena Ana_Mar_i_act_a Ana_i_act_s Anisia Antonia Argelia Ariadna Arlenys Arminda Aurelia
-		B_a_act_rbara Beatriz Belkis Blanquita
+		Ada Adela Adelaida Adolfina Aimee Albertina Aleida Alicia Alina Amarilis Ana Ana_Elena Ana_Mar_i_act_a Ana_i_act_s Anisia Antonia Argelia Ariadna Arlenys Arminda Aurelia
+		B_a_act_rbara Beatriz Belkis Bertha Blanquita
 		Caridad Carilda Carmen Catalina Cecilia Celia Cira Clara Cristina
-		Damaris Dania Dayesi Digna Dignora Dolores Dulce
+		Dainerys Damaris Dania Dayesi Digna Dignora Dolores Dulce
 		E_act_vora Edelmira Eglis Elena Elo_i_act_na Emilia Eneida Engracia Erlinda Esmeralda Esther
 		Fidelina Fredesvinda
 		Gertrudis Gisela Gloria Grisel
-		Heidy Herminia Hilda Hortencia
+		Hanoi Heidy Herminia Hilda Hortencia
 		Idalia Ileana Iraida Irene Isabel Isolina Isora
 		Josefina Juana Julia
 		Katia Katiana Katiuska
@@ -90,6 +90,7 @@
 		"dynn_Aristica"
 		"dynn_Armenteros"
 		"dynn_Arocha"
+		"dynn_Arozarena"
 		"dynn_Asencio"
 		"dynn_Aulet"
 		"dynn_Averhoff"
@@ -118,6 +119,7 @@
 		"dynn_Bell_a_act_n"
 		"dynn_Ben_i_act_tez"
 		"dynn_Bencomo"
+		"dynn_Bencosme"
 		"dynn_Berbert"
 		"dynn_Bergery"
 		"dynn_Berm_u_act_dez"
@@ -159,6 +161,7 @@
 		"dynn_Cal_a_act_"
 		"dynn_Calderon"
 		"dynn_Calleja"
+		"dynn_Calvet"
 		"dynn_Calvo"
 		"dynn_Calzada"
 		"dynn_Camejo"
@@ -230,7 +233,9 @@
 		"dynn_Cuadrado"
 		"dynn_Cuello"
 		"dynn_Cuesta"
+		"dynn_Culley"
 		"dynn_Cumb_a_act_"
+		"dynn_Cumberbatch"
 		"dynn_Cun_i_act_"
 		"dynn_Curbelo"
 		"dynn_Cuti_n_tld_o"
@@ -251,6 +256,7 @@
 		"dynn_del_Sol"
 		"dynn_Delgado"
 		"dynn_Despaigne"
+		"dynn_Destrade"
 		"dynn_Desvernine"
 		"dynn_Deulofeu"
 		"dynn_Di_e_act_guez"
@@ -292,10 +298,12 @@
 		"dynn_Escalona"
 		"dynn_Escarra"
 		"dynn_Espinosa"
+		"dynn_Espronceda"
 		"dynn_Esquijarosa"
 		"dynn_Estopi_n_tld__a_act_n"
 		"dynn_Estrada"
 		"dynn_Estruch"
+		"dynn_Estuche"
 		"dynn_Exp_o_act_sito"
 		"dynn_F_u_act_ster"
 		"dynn_Faife"
@@ -355,6 +363,7 @@
 		"dynn_Gort"
 		"dynn_Gottardi"
 		"dynn_Grajales"
+		"dynn_Granadillo"
 		"dynn_Grau"
 		"dynn_Grobart"
 		"dynn_Groero"
@@ -365,6 +374,7 @@
 		"dynn_Guilbeaux"
 		"dynn_Guill_e_act_n"
 		"dynn_Guillot"
+		"dynn_Guinart"
 		"dynn_Guti_e_act_rrez"
 		"dynn_Hechavarr_i_act_a"
 		"dynn_Hechevarr_i_act_a"
@@ -372,6 +382,7 @@
 		"dynn_Hierrezuelo"
 		"dynn_Hijuelos"
 		"dynn_Himely"
+		"dynn_Hinojosa"
 		"dynn_Hondal"
 		"dynn_Hong"
 		"dynn_Horruitiner"
@@ -525,6 +536,7 @@
 		"dynn_Naranjo"
 		"dynn_Neninger"
 		"dynn_Noblet"
+		"dynn_Nobrega"
 		"dynn_Nocedo"
 		"dynn_Noda"
 		"dynn_Nodarse"
@@ -648,6 +660,7 @@
 		"dynn_Tartabull"
 		"dynn_Tas_e_act"
 		"dynn_Teller_i_act_a"
+		"dynn_Tendero"
 		"dynn_Terry"
 		"dynn_Teurbe"
 		"dynn_Thaureaux"
@@ -689,6 +702,7 @@
 		"dynn_Veiglie"
 		"dynn_Veit_i_act_a"
 		"dynn_Velozo"
+		"dynn_Venegas"
 		"dynn_Ventosa"
 		"dynn_Verdaguer"
 		"dynn_Verdec_i_act_a"
@@ -766,6 +780,7 @@
 		"dynn_Aristica"
 		"dynn_Armenteros"
 		"dynn_Arocha"
+		"dynn_Arozarena"
 		"dynn_Asencio"
 		"dynn_Aulet"
 		"dynn_Averhoff"
@@ -794,6 +809,7 @@
 		"dynn_Bell_a_act_n"
 		"dynn_Ben_i_act_tez"
 		"dynn_Bencomo"
+		"dynn_Bencosme"
 		"dynn_Berbert"
 		"dynn_Bergery"
 		"dynn_Berm_u_act_dez"
@@ -835,6 +851,7 @@
 		"dynn_Cal_a_act_"
 		"dynn_Calderon"
 		"dynn_Calleja"
+		"dynn_Calvet"
 		"dynn_Calvo"
 		"dynn_Calzada"
 		"dynn_Camejo"
@@ -906,7 +923,9 @@
 		"dynn_Cuadrado"
 		"dynn_Cuello"
 		"dynn_Cuesta"
+		"dynn_Culley"
 		"dynn_Cumb_a_act_"
+		"dynn_Cumberbatch"
 		"dynn_Cun_i_act_"
 		"dynn_Curbelo"
 		"dynn_Cuti_n_tld_o"
@@ -927,6 +946,7 @@
 		"dynn_del_Sol"
 		"dynn_Delgado"
 		"dynn_Despaigne"
+		"dynn_Destrade"
 		"dynn_Desvernine"
 		"dynn_Deulofeu"
 		"dynn_Di_e_act_guez"
@@ -968,10 +988,12 @@
 		"dynn_Escalona"
 		"dynn_Escarra"
 		"dynn_Espinosa"
+		"dynn_Espronceda"
 		"dynn_Esquijarosa"
 		"dynn_Estopi_n_tld__a_act_n"
 		"dynn_Estrada"
 		"dynn_Estruch"
+		"dynn_Estuche"
 		"dynn_Exp_o_act_sito"
 		"dynn_F_u_act_ster"
 		"dynn_Faife"
@@ -1031,6 +1053,7 @@
 		"dynn_Gort"
 		"dynn_Gottardi"
 		"dynn_Grajales"
+		"dynn_Granadillo"
 		"dynn_Grau"
 		"dynn_Grobart"
 		"dynn_Groero"
@@ -1041,6 +1064,7 @@
 		"dynn_Guilbeaux"
 		"dynn_Guill_e_act_n"
 		"dynn_Guillot"
+		"dynn_Guinart"
 		"dynn_Guti_e_act_rrez"
 		"dynn_Hechavarr_i_act_a"
 		"dynn_Hechevarr_i_act_a"
@@ -1048,6 +1072,7 @@
 		"dynn_Hierrezuelo"
 		"dynn_Hijuelos"
 		"dynn_Himely"
+		"dynn_Hinojosa"
 		"dynn_Hondal"
 		"dynn_Hong"
 		"dynn_Horruitiner"
@@ -1201,6 +1226,7 @@
 		"dynn_Naranjo"
 		"dynn_Neninger"
 		"dynn_Noblet"
+		"dynn_Nobrega"
 		"dynn_Nocedo"
 		"dynn_Noda"
 		"dynn_Nodarse"
@@ -1324,6 +1350,7 @@
 		"dynn_Tartabull"
 		"dynn_Tas_e_act"
 		"dynn_Teller_i_act_a"
+		"dynn_Tendero"
 		"dynn_Terry"
 		"dynn_Teurbe"
 		"dynn_Thaureaux"
@@ -1365,6 +1392,7 @@
 		"dynn_Veiglie"
 		"dynn_Veit_i_act_a"
 		"dynn_Velozo"
+		"dynn_Venegas"
 		"dynn_Ventosa"
 		"dynn_Verdaguer"
 		"dynn_Verdec_i_act_a"

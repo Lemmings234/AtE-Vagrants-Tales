@@ -15,18 +15,19 @@
 		J_a_act_mison Jaider Jairo Javier Jefferson Jeison Jer_o_act_nimo Jerrald Jhon Joaqu_i_act_n Jonathan Jos_e_act_ Josu_e_act_ Juan Juan_Camilo Juan_David Juan_Diego Juan_Esteban Juan_Gabriel Juan_Jos_e_act_ Juan_Pablo Juan_Sebasti_a_act_n Juli_a_act_n Justo
 		Lantz Laurentino Leandro Le_o_act_n Leonel Lis_i_act_maco Lucas Luis
 		Macario Manuel Mariano Marley Mart_i_act_n Mat_i_act_as Matro Mauricio Maximiliano Menelao Metelo Miguel Miguel_A_act_ngel Montealegre Montrel
-		N_e_act_stor Neider Nelson Nic_a_act_tor Nicanor Nicol_a_act_s Nixon Nizias
+		Napole_o_act_n N_e_act_stor Neider Nelson Nic_a_act_tor Nicanor Nicol_a_act_s Nixon Nizias
 		O_act_scar Obdulio Onix
 		Pablo Pal_e_act_fato Pancho Parmenio Pedro Plinio Plutarco Plut_o_act_n Porfirio Pupieno
 		Radamel Rafael Ram_o_act_n Rs Ren_e_act_ Rodrigo Roosevelt Rubiano Rudecindo
 		S_o_act_crates Sabino Samuel Santander Santiago Sebasti_a_act_n Sejano Seleuco Sergio Sim_o_act_n Stefan Sol_o_act_n
 		Tem_i_act_stocles Te_o_act_filo Timole_o_act_n Tom_a_act_s Tulio
+		Uldarico
 		V_i_act_ctor Victorino Vladimir
 		Weimar Wilder Wilver Willington Wilmar Wladimir
 		Y_e_act_iler Yeison Yesid Yuli_a_act_n Yohn Yunior
-	}emedio
+	}
 	female_names = {
-		Adriana Agripina Albaluc_i_act_a Albira Alejandra Amaya Ana Anastasia Antonella Artemisa Astrid Atenea
+		Adriana Agripina Albaluc_i_act_a Albira Alejandra Alexa Amaya Ana Anastasia Antonella Araminta Artemisa Astrid Atenea
 		Basa Beatriz Belita Bethania
 		Camila Carlotta Carmi_n_tld_a Carola Cassandra Catalina Clareta Cleotilde Cristina Custodia
 		D_e_act_bora Daniela Darling Deisy Delia Dem_e_act_ter Despena Diana Digna Dita Dulcea
@@ -36,7 +37,7 @@
 		Helena
 		Ignacia Iria Iris Isabel Isidora Ivonne
 		Jaiden Jessenia Juanita Julieta
-		Landrada Laura Lavina Leocadia Liliana Lina Lourdes Luc_i_act_a Luciana Luisa
+		Landrada Laura Lavina Leocadia Liliana Lina Lourdes Luc_i_act_a Luciana Luisa Luz
 		Magda Manuela Margarita Mar_i_act_a Mar_i_act_a_Dulcea Mar_i_act_a_Fernanda Mar_i_act_a_Jos_e_act_ Mar_i_act_a_Paula Mar_i_act_a_Victoria Mariana Mariangel Marina Mercy Milena
 		Nereida Noem_i_act_ Nydia
 		P_i_act_a Paloma Paula Paz Pers_e_act_fone Piedad Pietatea Proserpina Pura
@@ -83,6 +84,7 @@
 		"dynn_Bechara"
 		"dynn_Bedoya"
 		"dynn_Behrentz"
+		"dynn_Bejarano"
 		"dynn_Beltr_a_act_n"
 		"dynn_Benjumea"
 		"dynn_Bernal"
@@ -120,6 +122,7 @@
 		"dynn_Chavarr_i_act_a"
 		"dynn_Chavarriaga"
 		"dynn_Cheveroni"
+		"dynn_Chiguasuque"
 		"dynn_Ciro"
 		"dynn_Cock"
 		"dynn_Cogollo"
@@ -128,8 +131,8 @@
 		"dynn_Cuadrado"
 		"dynn_Cuartas"
 		"dynn_Cuero"
-		"dynn_Daleman"
 		"dynn_D_i_act_az"
+		"dynn_Daleman"
 		"dynn_Devera"
 		"dynn_Due_n_tld_as"
 		"dynn_Duque"
@@ -149,11 +152,13 @@
 		"dynn_Gal_a_act_n"
 		"dynn_Galeano"
 		"dynn_Gallego"
+		"dynn_Gallo"
 		"dynn_Galvis"
 		"dynn_Garson"
 		"dynn_Garz_o_act_n"
 		"dynn_Gaviria"
 		"dynn_Giraldo"
+		"dynn_Girardot"
 		"dynn_Grisales"
 		"dynn_Guar_i_act_n"
 		"dynn_Guerrero"
@@ -194,6 +199,7 @@
 		"dynn_Manco"
 		"dynn_Manzur"
 		"dynn_Marulanda"
+		"dynn_Matajudios"
 		"dynn_Matiz"
 		"dynn_Mazo"
 		"dynn_Mazuera"
@@ -201,6 +207,7 @@
 		"dynn_Mej_i_act_a"
 		"dynn_Mendoza"
 		"dynn_Meneses"
+		"dynn_Misnaza"
 		"dynn_Mockus"
 		"dynn_Molina"
 		"dynn_Moncada"
@@ -249,6 +256,7 @@
 		"dynn_Pulgar_i_act_n"
 		"dynn_Querub_i_act_n"
 		"dynn_Quiceno"
+		"dynn_Quimbayo"
 		"dynn_Quintero"
 		"dynn_Rachez"
 		"dynn_Raigoza"
@@ -270,6 +278,7 @@
 		"dynn_Saldarriaga"
 		"dynn_Salvatierra"
 		"dynn_San_i_act_n"
+		"dynn_Severiche"
 		"dynn_Sierra"
 		"dynn_Skafidas"
 		"dynn_Skinner"
@@ -282,6 +291,8 @@
 		"dynn_Taborda"
 		"dynn_Tamayo"
 		"dynn_Tangarife"
+		"dynn_Tibabisco"
+		"dynn_Tiguaque"
 		"dynn_Tob_o_act_n"
 		"dynn_Tordecilla"
 		"dynn_Toro"
@@ -292,6 +303,7 @@
 		"dynn_Ur_a_act_n"
 		"dynn_Uribe"
 		"dynn_Urisarri"
+		"dynn_Urquijo"
 		"dynn_Urrego"
 		"dynn_Urue_n_tld_a"
 		"dynn_Usma"
@@ -308,6 +320,7 @@
 		"dynn_Vidales"
 		"dynn_Villa"
 		"dynn_Villada"
+		"dynn_Villescas"
 		"dynn_Vinasco"
 		"dynn_Vinchery"
 		"dynn_Voidonikolas"
@@ -358,6 +371,7 @@
 		"dynn_Bechara"
 		"dynn_Bedoya"
 		"dynn_Behrentz"
+		"dynn_Bejarano"
 		"dynn_Beltr_a_act_n"
 		"dynn_Benjumea"
 		"dynn_Bernal"
@@ -395,6 +409,7 @@
 		"dynn_Chavarr_i_act_a"
 		"dynn_Chavarriaga"
 		"dynn_Cheveroni"
+		"dynn_Chiguasuque"
 		"dynn_Ciro"
 		"dynn_Cock"
 		"dynn_Cogollo"
@@ -424,11 +439,13 @@
 		"dynn_Gal_a_act_n"
 		"dynn_Galeano"
 		"dynn_Gallego"
+		"dynn_Gallo"
 		"dynn_Galvis"
 		"dynn_Garson"
 		"dynn_Garz_o_act_n"
 		"dynn_Gaviria"
 		"dynn_Giraldo"
+		"dynn_Girardot"
 		"dynn_Grisales"
 		"dynn_Guar_i_act_n"
 		"dynn_Guerrero"
@@ -469,6 +486,7 @@
 		"dynn_Manco"
 		"dynn_Manzur"
 		"dynn_Marulanda"
+		"dynn_Matajudios"
 		"dynn_Matiz"
 		"dynn_Mazo"
 		"dynn_Mazuera"
@@ -476,6 +494,7 @@
 		"dynn_Mej_i_act_a"
 		"dynn_Mendoza"
 		"dynn_Meneses"
+		"dynn_Misnaza"
 		"dynn_Mockus"
 		"dynn_Molina"
 		"dynn_Moncada"
@@ -524,6 +543,7 @@
 		"dynn_Pulgar_i_act_n"
 		"dynn_Querub_i_act_n"
 		"dynn_Quiceno"
+		"dynn_Quimbayo"
 		"dynn_Quintero"
 		"dynn_Rachez"
 		"dynn_Raigoza"
@@ -545,6 +565,7 @@
 		"dynn_Saldarriaga"
 		"dynn_Salvatierra"
 		"dynn_San_i_act_n"
+		"dynn_Severiche"
 		"dynn_Sierra"
 		"dynn_Skafidas"
 		"dynn_Skinner"
@@ -557,6 +578,8 @@
 		"dynn_Taborda"
 		"dynn_Tamayo"
 		"dynn_Tangarife"
+		"dynn_Tibabisco"
+		"dynn_Tiguaque"
 		"dynn_Tob_o_act_n"
 		"dynn_Tordecilla"
 		"dynn_Toro"
@@ -567,6 +590,7 @@
 		"dynn_Ur_a_act_n"
 		"dynn_Uribe"
 		"dynn_Urisarri"
+		"dynn_Urquijo"
 		"dynn_Urrego"
 		"dynn_Urue_n_tld_a"
 		"dynn_Usma"
@@ -583,6 +607,7 @@
 		"dynn_Vidales"
 		"dynn_Villa"
 		"dynn_Villada"
+		"dynn_Villescas"
 		"dynn_Vinasco"
 		"dynn_Vinchery"
 		"dynn_Voidonikolas"

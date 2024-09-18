@@ -8,11 +8,12 @@
 		C_e_act_lio C_e_act_sar Caetano Caio Carlos Cl_a_act_udio Clayton Claudomiro Cleber
 		Diogo
 		E_act_cio Edelson Ednilson Edson Eduardo Eraldo Evanderson Evandro
-		Felipe Francisco
-		Gabriel Gener Gilberto Guilherme
+		Felipe Francisco Francivaldo
+ 		Gabriel Gener Gilberto Guilherme
 		Hugo
 		Igor Isa_i_act_as Ivan
-		Jadilson Jo_a_tld_o Jo_a_tld_o_Batista Jo_a_tld_o_Bosco Jo_a_tld_o_Henrique Joaquim Jorge Jos_e_act_ Jos_e_act__Ant_o_hat_nio Josiel Jonathan Johnson Jurobola
+		Jadilson Jo_a_tld_o Jo_a_tld_o_Batista Jo_a_tld_o_Bosco Jo_a_tld_o_Henrique Joaquim Jorge Jos_e_act_ Jos_e_act__Ant_o_hat_nio Josiel Josinaldo Jonathan Johnson Jurobola
+		Kaio
 		Laerte Lucas Luiz
 		M_a_act_rio Manoel Marcos Mateus Maur_i_act_cio Murilo
 		Nelson
@@ -29,7 +30,7 @@
 		B_a_act_rbara Bruna
 		Carla Caroline Christianne Cristina
 		Danyelle Deyse
-		E_act_len Edna Ester
+		E_act_len Edna Elane Ester
 		F_a_act_tima Fabiana Fernanda Fl_a_act_via
 		Gabriela Guilhermina
 		Hadassa Hysla
@@ -111,7 +112,9 @@
 		"dynn_David"
 		"dynn_Dias"
 		"dynn_do_Egito"
+		"dynn_Duchene"
 		"dynn_Endrygo"
+		"dynn_Escalona"
 		"dynn_Esteves"
 		"dynn_Euzebio"
 		"dynn_Fa_c_ced_anha"
@@ -130,6 +133,7 @@
 		"dynn_G_o_act_es"
 		"dynn_Gadelha"
 		"dynn_Galibi"
+		"dynn_Gama"
 		"dynn_Gantuss"
 		"dynn_Garcia"
 		"dynn_Giusti"
@@ -170,6 +174,7 @@
 		"dynn_Magno"
 		"dynn_Malafaia"
 		"dynn_Malcher"
+		"dynn_Malheiro"
 		"dynn_Marco-Zero"
 		"dynn_Marinho"
 		"dynn_Martins"
@@ -372,7 +377,9 @@
 		"dynn_David"
 		"dynn_Dias"
 		"dynn_do_Egito"
+		"dynn_Duchene"
 		"dynn_Endrygo"
+		"dynn_Escalona"
 		"dynn_Esteves"
 		"dynn_Euzebio"
 		"dynn_Fa_c_ced_anha"
@@ -391,6 +398,7 @@
 		"dynn_G_o_act_es"
 		"dynn_Gadelha"
 		"dynn_Galibi"
+		"dynn_Gama"
 		"dynn_Gantuss"
 		"dynn_Garcia"
 		"dynn_Giusti"
@@ -431,6 +439,7 @@
 		"dynn_Magno"
 		"dynn_Malafaia"
 		"dynn_Malcher"
+		"dynn_Malheiro"
 		"dynn_Marco-Zero"
 		"dynn_Marinho"
 		"dynn_Martins"

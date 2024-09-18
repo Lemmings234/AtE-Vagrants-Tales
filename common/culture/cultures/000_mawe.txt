@@ -12,6 +12,7 @@
 		tradition_deep_jungle_dwellers
 		tradition_initiation_rites
 		tradition_exotic_plantations
+		tradition_exogamous_marriages
 	}
 	
 	coa_gfx = {

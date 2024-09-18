@@ -10,7 +10,7 @@
 	name_list = name_list_veredista
 	
 	traditions = {
-		#TODO
+		tradition_religion_blending
 		tradition_cangaco
 		tradition_boiadeiros
 		tradition_hunters

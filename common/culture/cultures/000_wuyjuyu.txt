@@ -8,7 +8,7 @@
 	name_list = name_list_wuyjuyu
 	
 	traditions = {
-		#TODO
+		tradition_festivities
 		tradition_deep_jungle_dwellers
 		tradition_strength_in_numbers
 		tradition_sacred_hunts

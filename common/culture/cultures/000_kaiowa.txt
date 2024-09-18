@@ -11,6 +11,7 @@
 		tradition_jungle_dwellers
 		tradition_materos
 		tradition_tribe_unity
+		tradition_astute_diplomats
 	}
 	
 	coa_gfx = {

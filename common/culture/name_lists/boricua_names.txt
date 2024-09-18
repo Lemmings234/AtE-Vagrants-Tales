@@ -44,7 +44,7 @@
 		Olga Olguita Olivia
 		Paola Perza Petronila Pura
 		Quiara
-		Raquel Rebeca Rosa Rosario
+		Raquel Rebeca Rosa Rosario Roxanne
 		Sara Silo_e_act_ Sof_i_act_a Soledad Stephanie Sylvia
 		Teresa Trinidad
 		Valentina Vanessa Victoria
@@ -95,7 +95,6 @@
 		"dynn_Antonetty"
 		"dynn_Antongiorgi"
 		"dynn_Antonmattei"
-		"dynn_Aoyama"
 		"dynn_Aponte"
 		"dynn_Aranzamendi"
 		"dynn_Arbizu"
@@ -174,6 +173,7 @@
 		"dynn_Bruno"
 		"dynn_Buenahora"
 		"dynn_Burgos"
+		"dynn_Busquets"
 		"dynn_Cab_a_act_n"
 		"dynn_Caballero"
 		"dynn_Cabassa"
@@ -228,6 +228,7 @@
 		"dynn_Constain"
 		"dynn_Consuegra"
 		"dynn_Cordero"
+		"dynn_Cornier"
 		"dynn_Corretjer"
 		"dynn_Corsino"
 		"dynn_Cosme"
@@ -717,7 +718,6 @@
 		"dynn_Antonetty"
 		"dynn_Antongiorgi"
 		"dynn_Antonmattei"
-		"dynn_Aoyama"
 		"dynn_Aponte"
 		"dynn_Aranzamendi"
 		"dynn_Arbizu"
@@ -796,6 +796,7 @@
 		"dynn_Bruno"
 		"dynn_Buenahora"
 		"dynn_Burgos"
+		"dynn_Busquets"
 		"dynn_Cab_a_act_n"
 		"dynn_Caballero"
 		"dynn_Cabassa"
@@ -850,6 +851,7 @@
 		"dynn_Constain"
 		"dynn_Consuegra"
 		"dynn_Cordero"
+		"dynn_Cornier"
 		"dynn_Corretjer"
 		"dynn_Corsino"
 		"dynn_Cosme"
@@ -1312,7 +1314,7 @@
 	mother_name_chance = 5
 
 	mercenary_names = {
-		{ name = mercenary_company_chupacabra }
+		{ name = mercenary_company_chupacabras }
 	}
 
 }
