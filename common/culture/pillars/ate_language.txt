@@ -7775,3 +7775,31 @@ language_nihongo = {
     }
 	color = { 188 0 45 }
 }
+language_darija = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_darija
+        }
+    }
+    parameters = {
+        language_group_pacific = yes
+        language_family_japonic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_darija }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_arabic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}

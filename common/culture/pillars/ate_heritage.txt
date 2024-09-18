@@ -1534,3 +1534,16 @@ heritage_yamato = {
 	}
 	audio_parameter = european
 }
+heritage_maghrebi = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_maghrebi
+		}
+	}
+	parameters = {
+		heritage_group_atlantic = yes
+		heritage_family_arabic = yes
+	}
+	audio_parameter = european
+}
