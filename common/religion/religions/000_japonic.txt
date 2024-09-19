@@ -220,7 +220,7 @@ japonic_religion = {
 			holy_site = los_angeles
 			
 			doctrine = tenet_ancestor_worship
-			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_ritual_celebrations
 			doctrine = tenet_sanctity_of_nature
 		}
 	}
