@@ -1,0 +1,61 @@
+hawaiian = {
+	color = hsv { 0.16 0.26 0.53 }
+	
+	ethos = ethos_communal #'Ohana
+	heritage = heritage_polynesian
+	language = language_hawaiian
+	martial_custom = martial_custom_equal
+	name_list = name_list_hawaiian
+	
+	traditions = {
+		tradition_religion_blending
+		tradition_culture_blending
+		tradition_seafaring
+		tradition_festivities
+		tradition_storytellers
+	}
+	coa_gfx = {
+		yankee_coa_gfx
+		north_atlantic_coa_gfx
+	}
+	building_gfx = {
+		mediterranean_building_gfx
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	ethnicities = {
+		
+		11 = caucasian
+		11 = mediterranean
+		11 = asian
+		11 = african
+		13 = indian
+		8 = multiracial
+		6 = arab
+		5 = south_indian
+		5 = black_white
+		5 = white_asian
+		5 = slavic
+		3 = east_african
+		3 = mesoamerican_yuto_aztec
+		2 = asian_austronesian
+		1 = andean
+		1 = amazonian
+		1 = patagonian
+		1 = white_indigenous
+		1 = med_black_ind
+		1 = black_indigenous
+		1 = northwest
+		1 = yupik
+		1 = byzantine
+		1 = mesoamerican_maya
+		1 = circumpolar 
+		1 = asian_southern_han
+		1 = asian_southeast_asian
+		1 = melanesian
+	}
+}

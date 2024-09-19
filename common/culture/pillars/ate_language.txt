@@ -7755,7 +7755,7 @@ language_nihongo = {
         }
     }
     parameters = {
-        language_group_pacific = yes
+        language_group_japanese = yes
         language_family_japonic = yes
     }
     ai_will_do = {
@@ -7765,7 +7765,7 @@ language_nihongo = {
             multiply = same_language_choice_factor
         }
         else_if = {
-            limit = { has_cultural_parameter = language_group_pacific }
+            limit = { has_cultural_parameter = language_group_japanese }
             multiply = same_language_group_choice_factor
         }
         else_if = {
@@ -7798,6 +7798,34 @@ language_darija = {
         }
         else_if = {
             limit = { has_cultural_parameter = language_family_arabic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}
+language_hawaiian = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_hawaiian
+        }
+    }
+    parameters = {
+        language_group_marquesan = yes
+        language_family_polynesian = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_hawaiian }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_marquesan }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_polynesian }
             multiply = same_language_family_choice_factor
         }
     }

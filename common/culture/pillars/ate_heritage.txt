@@ -1547,3 +1547,16 @@ heritage_maghrebi = {
 	}
 	audio_parameter = european
 }
+heritage_polynesian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_polynesian
+		}
+	}
+	parameters = {
+		heritage_group_pacific = yes
+		heritage_family_polynesian = yes
+	}
+	audio_parameter = european
+}

@@ -1125,6 +1125,8 @@ edokko:0 "Edokko"
 edokko_collective_noun:0 "Edokko"
 maghrebi_group:0 "Maghrebi"
 maghrebi_group_collective_noun:0 "Maghrebi"
+polynesian_group:0 "Polynesian"
+polynesian_group_collective_noun:0 "Polynesian"
 
 #Pre Event Dead Cultures
 dead_pre_event_group:0 "Pre-[Concept('the_event_ate','Event')|E]"
