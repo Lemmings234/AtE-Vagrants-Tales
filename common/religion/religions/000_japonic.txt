@@ -216,8 +216,11 @@ japonic_religion = {
 			icon = shinto
 			
 			holy_site = sao_paulo
+			holy_site = curitiba
 			holy_site = san_francisco
 			holy_site = los_angeles
+			holy_site = seattle
+			holy_site = lima
 			
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_ritual_celebrations
