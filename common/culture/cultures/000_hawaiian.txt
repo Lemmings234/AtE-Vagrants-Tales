@@ -1,4 +1,4 @@
-hawaiian = {
+﻿hawaiian = {
 	color = hsv { 0.16 0.26 0.53 }
 	
 	ethos = ethos_communal #'Ohana
