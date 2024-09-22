@@ -11,3 +11,75 @@ shinto_adj:0 "Shinto"
 shinto_adherent:0 "Shinto"
 shinto_adherent_plural:0 "Japonics"
 shinto_desc:0 "Shinto is a vast and ancient system of customs, rituals and traditions that have blossomed from the sleepy abode of the many spirits that call Japan home. These spirits known as kami represent a myriad of forces both natural and manmade with no clear concise definitions that can be attributed to all kami. While the cosmology and myths are replete with the kamis' divine and sometimes ferocious power, in practice the common people simply pray to them for a calm and peaceful life admist the turmoil brought forth by The Event."
+
+ shinto_high_god_name:0 "Amaterasu"
+ shinto_high_god_name_possessive:0 "Amaterasu's"
+ shinto_high_god_name_alternate:0 "Amaterasu Ōmikami"
+ shinto_high_god_name_alternate_possessive:0 "Amaterasu Ōmikami's"
+
+ shinto_creator_god_name:0 "Izanagi and Izanami"
+ shinto_creator_god_name_possessive:0 "Izanagi and Izanami's"
+
+ shinto_health_god_name:0 ""
+ shinto_health_god_name_possessive:0 "'s"
+
+ shinto_fertility_god_name:0 ""
+ shinto_fertility_god_name_possessive:0 "'s"
+
+ shinto_wealth_god_name:0 ""
+ shinto_wealth_god_name_possessive:0 "'s"
+
+ shinto_household_god_name:0 ""
+ shinto_household_god_name_possessive:0 "'s"
+
+ shinto_fate_god_name:0 ""
+ shinto_fate_god_name_possessive:0 "'s"
+
+ shinto_knowledge_god_name:0 ""
+ shinto_knowledge_god_name_possessive:0 "'s"
+
+ shinto_war_god_name:0 ""
+ shinto_war_god_name_possessive:0 "'s"
+
+ shinto_trickster_god_name:0 ""
+ shinto_trickster_god_name_possessive:0 "'s"
+
+ shinto_night_god_name:0 ""
+ shinto_night_god_name_possessive:0 "'s"
+
+ shinto_water_god_name:0 ""
+ shinto_water_god_name_possessive:0 "'s"
+
+ shinto_pantheon:0 ""
+
+ shinto_good_god_example:0 ""
+
+ shinto_devil_name:0 ""
+ shinto_devil_name_possessive:0 "'s"
+
+ shinto_evil_god_example:0 ""
+
+ shinto_house_of_worship:0 ""
+ shinto_house_of_worship_plural:0 ""
+ shinto_religious_symbol:0 ""
+ shinto_religious_text:0 ""
+ shinto_religious_head_title:0 ""
+ shinto_religious_head_title_name:0 ""
+
+ shinto_devotee:0 ""
+ shinto_devotee_plural:0 ""
+
+ shinto_priest:0 ""
+ shinto_priest_plural:0 ""
+ shinto_bishop:0 ""
+ shinto_bishop_plural:0 ""
+
+ shinto_divine_realm:0 ""
+ shinto_positive_afterlife:0 ""
+ shinto_negative_afterlife:0 ""
+
+ shinto_death_deity_name:0 ""
+ shinto_death_deity_name_possessive:0 "'s"
+
+ ghw_shinto:0 ""
+ ghws_shinto:0 ""
