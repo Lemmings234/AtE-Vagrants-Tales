@@ -1,4 +1,4 @@
-name_list_hawaiian = {
+﻿name_list_hawaiian = {
 	male_names = {
 		A_pst_alona
 	}
