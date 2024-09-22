@@ -5,7 +5,7 @@ moroccan = {
 	heritage = heritage_maghrebi
 	language = language_darija
 	martial_custom = martial_custom_male_only
-	name_list = name_list_moroccan
+	name_list = name_list_maghrebi
 	
 	traditions = {
 		tradition_ce1_ritual_washing
