@@ -16,7 +16,7 @@ japonic_religion = {
 	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
 
 	#Crimes
-	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_homosexuality_indifferent
 	doctrine = doctrine_adultery_men_shunned
 	doctrine = doctrine_adultery_women_shunned
 	doctrine = doctrine_kinslaying_shunned
@@ -52,11 +52,10 @@ japonic_religion = {
 	localization = {
 		#HighGodName
 		HighGodName = shinto_high_god_name
-		HighGodName2 = shinto_high_god_name
 		HighGodNamePossessive = shinto_high_god_name_possessive
-		HighGodNameSheHe = CHARACTER_SHEHE_THEY
-		HighGodHerselfHimself = CHARACTER_THEMSELVES
-		HighGodHerHis = CHARACTER_HERHIS_THEIR
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
 		HighGodNameAlternate = shinto_high_god_alternate
 		HighGodNameAlternatePossessive = shinto_high_god_alternate_possessive
 
@@ -105,9 +104,9 @@ japonic_religion = {
 		#KnowledgeGod
 		KnowledgeGodName = shinto_knowledge_god_name
 		KnowledgeGodNamePossessive = shinto_knowledge_god_name_possessive
-		KnowledgeGodSheHe = CHARACTER_SHEHE_THEY
-		KnowledgeGodHerHis = CHARACTER_HERHIS_THEIR
-		KnowledgeGodHerHim = CHARACTER_HERHIM_THEM
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WarGod
 		WarGodName = shinto_war_god_name
@@ -187,9 +186,9 @@ japonic_religion = {
 		DivineRealm = shinto_divine_realm
 		DivineRealm2 = shinto_divine_realm
 		DivineRealm3 = shinto_divine_realm
-		PositiveAfterLife = shinto_afterlife
-		PositiveAfterLife2 = shinto_afterlife
-		PositiveAfterLife3 = shinto_afterlife
+		PositiveAfterLife = shinto_positive_afterlife
+		PositiveAfterLife2 = shinto_positive_afterlife
+		PositiveAfterLife3 = shinto_positive_afterlife
 		NegativeAfterLife = shinto_negative_afterlife
 		NegativeAfterLife2 = shinto_negative_afterlife
 		NegativeAfterLife3 = shinto_negative_afterlife
@@ -207,8 +206,8 @@ japonic_religion = {
 		WitchGodMotherFather = father
 
 
-		GHWName = ghw_purification
-		GHWNamePlural = ghw_purifications
+		GHWName = ghw_shinto
+		GHWNamePlural = ghws_shinto
 	}
 	faiths = {
 		shinto = {
