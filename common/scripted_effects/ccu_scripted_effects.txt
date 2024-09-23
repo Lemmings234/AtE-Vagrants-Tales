@@ -1,0 +1,317 @@
+﻿#############################################
+# CCU Patcher
+# by Vertimnus
+# This file was compiled by a machine.
+# It should never be manually edited.
+#############################################
+
+ccu_initialize_culture = {
+	ccu_initialize_heritage_group = yes
+	ccu_initialize_heritage_family = yes
+	ccu_initialize_language_group = yes
+	ccu_initialize_language_family = yes
+	ccu_initialize_language_union = yes
+}
+
+ccu_initialize_heritage_group = {
+	if = { limit = { has_cultural_parameter = heritage_group_amazonian } set_variable = { name = heritage_group value = flag:amazonian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_andean } set_variable = { name = heritage_group value = flag:andean } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_archipelagic } set_variable = { name = heritage_group value = flag:archipelagic } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_arctic } set_variable = { name = heritage_group value = flag:arctic } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_banda_oriental } set_variable = { name = heritage_group value = flag:banda_oriental } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_basin_and_range } set_variable = { name = heritage_group value = flag:basin_and_range } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_boswash } set_variable = { name = heritage_group value = flag:boswash } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_californian } set_variable = { name = heritage_group value = flag:californian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_caribbean } set_variable = { name = heritage_group value = flag:caribbean } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_central_brazilian } set_variable = { name = heritage_group value = flag:central_brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_chacoan } set_variable = { name = heritage_group value = flag:chacoan } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_chilean } set_variable = { name = heritage_group value = flag:chilean } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_mapuche } set_variable = { name = heritage_group value = flag:mapuche } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_chukotkan } set_variable = { name = heritage_group value = flag:chukotkan } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_colombian } set_variable = { name = heritage_group value = flag:colombian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_columbian } set_variable = { name = heritage_group value = flag:columbian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_dixieland } set_variable = { name = heritage_group value = flag:dixieland } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_eastern_brazilian } set_variable = { name = heritage_group value = flag:eastern_brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_eastern_canadian } set_variable = { name = heritage_group value = flag:eastern_canadian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_gran_colombian } set_variable = { name = heritage_group value = flag:gran_colombian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_great_plains } set_variable = { name = heritage_group value = flag:great_plains } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_great_white_north } set_variable = { name = heritage_group value = flag:great_white_north } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_guyanese } set_variable = { name = heritage_group value = flag:guyanese } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_indigisthmus } set_variable = { name = heritage_group value = flag:indigisthmus } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_isthmus } set_variable = { name = heritage_group value = flag:isthmus } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_lacustrine } set_variable = { name = heritage_group value = flag:lacustrine } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_lusitanian } set_variable = { name = heritage_group value = flag:lusitanian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_mennonite } set_variable = { name = heritage_group value = flag:mennonite } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_mexican } set_variable = { name = heritage_group value = flag:mexican } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_mississippian } set_variable = { name = heritage_group value = flag:mississippian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_montane } set_variable = { name = heritage_group value = flag:montane } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_northeast_brazilian } set_variable = { name = heritage_group value = flag:northeast_brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_northeast_woodlands } set_variable = { name = heritage_group value = flag:northeast_woodlands } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_northern_brazilian } set_variable = { name = heritage_group value = flag:northern_brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_patagonian } set_variable = { name = heritage_group value = flag:patagonian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_peruvian } set_variable = { name = heritage_group value = flag:peruvian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_plains_and_prairies } set_variable = { name = heritage_group value = flag:plains_and_prairies } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_plateau } set_variable = { name = heritage_group value = flag:plateau } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_platine } set_variable = { name = heritage_group value = flag:platine } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_sequoyan } set_variable = { name = heritage_group value = flag:sequoyan } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_shield } set_variable = { name = heritage_group value = flag:shield } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_southeast_brazilian } set_variable = { name = heritage_group value = flag:southeast_brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_southwest } set_variable = { name = heritage_group value = flag:southwest } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_subarctic } set_variable = { name = heritage_group value = flag:subarctic } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_texan } set_variable = { name = heritage_group value = flag:texan } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_trans_appalachian } set_variable = { name = heritage_group value = flag:trans_appalachian } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_western_coast } set_variable = { name = heritage_group value = flag:western_coast } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_pacific } set_variable = { name = heritage_group value = flag:pacific } }
+}
+
+
+
+ccu_initialize_heritage_family = {
+	if = { limit = { has_cultural_parameter = heritage_family_bolivarian } set_variable = { name = heritage_family value = flag:bolivarian } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_brazilian } set_variable = { name = heritage_family value = flag:brazilian } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_central_american } set_variable = { name = heritage_family value = flag:central_american } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_east_coast } set_variable = { name = heritage_family value = flag:east_coast } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_eastern_indigenous } set_variable = { name = heritage_family value = flag:eastern_indigenous } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_european } set_variable = { name = heritage_family value = flag:european } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_great_guyanese } set_variable = { name = heritage_family value = flag:great_guyanese } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_indigenous_sa } set_variable = { name = heritage_family value = flag:indigenous_sa } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_isthmus } set_variable = { name = heritage_family value = flag:isthmus } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_mennonite_fam } set_variable = { name = heritage_family value = flag:mennonite_fam } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_mesoamerican } set_variable = { name = heritage_family value = flag:mesoamerican } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_mountain_central } set_variable = { name = heritage_family value = flag:mountain_central } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_siberian } set_variable = { name = heritage_family value = flag:siberian } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_southern_cone } set_variable = { name = heritage_family value = flag:southern_cone } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_west_coast } set_variable = { name = heritage_family value = flag:west_coast } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_western_indigenous } set_variable = { name = heritage_family value = flag:western_indigenous } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_polynesian } set_variable = { name = heritage_family value = flag:polynesian } }
+}
+
+
+
+ccu_initialize_language_group = {
+	if = { limit = { has_cultural_parameter = language_group_akuwe } set_variable = { name = language_group value = flag:akuwe } }
+	else_if = { limit = { has_cultural_parameter = language_group_aleut } set_variable = { name = language_group value = flag:aleut } }
+	else_if = { limit = { has_cultural_parameter = language_group_ancient_portuguese } set_variable = { name = language_group value = flag:ancient_portuguese } }
+	else_if = { limit = { has_cultural_parameter = language_group_andino } set_variable = { name = language_group value = flag:andino } }
+	else_if = { limit = { has_cultural_parameter = language_group_apachean } set_variable = { name = language_group value = flag:apachean } }
+	else_if = { limit = { has_cultural_parameter = language_group_atlantic } set_variable = { name = language_group value = flag:atlantic } }
+	else_if = { limit = { has_cultural_parameter = language_group_aymaran } set_variable = { name = language_group value = flag:aymaran } }
+	else_if = { limit = { has_cultural_parameter = language_group_brittonic } set_variable = { name = language_group value = flag:brittonic } }
+	else_if = { limit = { has_cultural_parameter = language_group_cahitan } set_variable = { name = language_group value = flag:cahitan } }
+	else_if = { limit = { has_cultural_parameter = language_group_central_algonquian } set_variable = { name = language_group value = flag:central_algonquian } }
+	else_if = { limit = { has_cultural_parameter = language_group_central_quechua } set_variable = { name = language_group value = flag:central_quechua } }
+	else_if = { limit = { has_cultural_parameter = language_group_central_siouan } set_variable = { name = language_group value = flag:central_siouan } }
+	else_if = { limit = { has_cultural_parameter = language_group_centrino } set_variable = { name = language_group value = flag:centrino } }
+	else_if = { limit = { has_cultural_parameter = language_group_chinantecan } set_variable = { name = language_group value = flag:chinantecan } }
+	else_if = { limit = { has_cultural_parameter = language_group_chinookan } set_variable = { name = language_group value = flag:chinookan } }
+	else_if = { limit = { has_cultural_parameter = language_group_chiquitano } set_variable = { name = language_group value = flag:chiquitano } }
+	else_if = { limit = { has_cultural_parameter = language_group_cholan } set_variable = { name = language_group value = flag:cholan } }
+	else_if = { limit = { has_cultural_parameter = language_group_chukotkan } set_variable = { name = language_group value = flag:chukotkan } }
+	else_if = { limit = { has_cultural_parameter = language_group_chumashan } set_variable = { name = language_group value = flag:chumashan } }
+	else_if = { limit = { has_cultural_parameter = language_group_coastal_salish } set_variable = { name = language_group value = flag:coastal_salish } }
+	else_if = { limit = { has_cultural_parameter = language_group_corachol } set_variable = { name = language_group value = flag:corachol } }
+	else_if = { limit = { has_cultural_parameter = language_group_cree } set_variable = { name = language_group value = flag:cree } }
+	else_if = { limit = { has_cultural_parameter = language_group_dutch } set_variable = { name = language_group value = flag:dutch } }
+	else_if = { limit = { has_cultural_parameter = language_group_eastern_algonquian } set_variable = { name = language_group value = flag:eastern_algonquian } }
+	else_if = { limit = { has_cultural_parameter = language_group_eastern_muskogean } set_variable = { name = language_group value = flag:eastern_muskogean } }
+	else_if = { limit = { has_cultural_parameter = language_group_embera } set_variable = { name = language_group value = flag:embera } }
+	else_if = { limit = { has_cultural_parameter = language_group_englocreolic } set_variable = { name = language_group value = flag:englocreolic } }
+	else_if = { limit = { has_cultural_parameter = language_group_francocanadian } set_variable = { name = language_group value = flag:francocanadian } }
+	else_if = { limit = { has_cultural_parameter = language_group_francocreolic } set_variable = { name = language_group value = flag:francocreole } }
+	else_if = { limit = { has_cultural_parameter = language_group_goidelic } set_variable = { name = language_group value = flag:goidelic } }
+	else_if = { limit = { has_cultural_parameter = language_group_goyaz_je } set_variable = { name = language_group value = flag:goyaz_je } }
+	else_if = { limit = { has_cultural_parameter = language_group_guaicuruan } set_variable = { name = language_group value = flag:guaicuruan } }
+	else_if = { limit = { has_cultural_parameter = language_group_guarani } set_variable = { name = language_group value = flag:guarani } }
+	else_if = { limit = { has_cultural_parameter = language_group_guaymi } set_variable = { name = language_group value = flag:guaymi } }
+	else_if = { limit = { has_cultural_parameter = language_group_haida } set_variable = { name = language_group value = flag:haida } }
+	else_if = { limit = { has_cultural_parameter = language_group_highgerman } set_variable = { name = language_group value = flag:highgerman } }
+	else_if = { limit = { has_cultural_parameter = language_group_hopi } set_variable = { name = language_group value = flag:hopi } }
+	else_if = { limit = { has_cultural_parameter = language_group_huastecan } set_variable = { name = language_group value = flag:huastecan } }
+	else_if = { limit = { has_cultural_parameter = language_group_interior_salish } set_variable = { name = language_group value = flag:interior_salish } }
+	else_if = { limit = { has_cultural_parameter = language_group_inuit } set_variable = { name = language_group value = flag:inuit } }
+	else_if = { limit = { has_cultural_parameter = language_group_japanese } set_variable = { name = language_group value = flag:japanese } }
+	else_if = { limit = { has_cultural_parameter = language_group_karaja } set_variable = { name = language_group value = flag:karaja } }
+	else_if = { limit = { has_cultural_parameter = language_group_kawahib } set_variable = { name = language_group value = flag:kawahib } }
+	else_if = { limit = { has_cultural_parameter = language_group_kelpic } set_variable = { name = language_group value = flag:kelpic } }
+	else_if = { limit = { has_cultural_parameter = language_group_keresan } set_variable = { name = language_group value = flag:keresan } }
+	else_if = { limit = { has_cultural_parameter = language_group_kiowa } set_variable = { name = language_group value = flag:kiowa } }
+	else_if = { limit = { has_cultural_parameter = language_group_korean } set_variable = { name = language_group value = flag:korean } }
+	else_if = { limit = { has_cultural_parameter = language_group_kulina } set_variable = { name = language_group value = flag:kulina } }
+	else_if = { limit = { has_cultural_parameter = language_group_kuna } set_variable = { name = language_group value = flag:kuna } }
+	else_if = { limit = { has_cultural_parameter = language_group_kutenai } set_variable = { name = language_group value = flag:kutenai } }
+	else_if = { limit = { has_cultural_parameter = language_group_lake_iroquoian } set_variable = { name = language_group value = flag:lake_iroquoian } }
+	else_if = { limit = { has_cultural_parameter = language_group_lowgerman } set_variable = { name = language_group value = flag:lowgerman } }
+	else_if = { limit = { has_cultural_parameter = language_group_lusocreole } set_variable = { name = language_group value = flag:lusocreole } }
+	else_if = { limit = { has_cultural_parameter = language_group_mainline_panoan } set_variable = { name = language_group value = flag:mainline_panoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_mamean } set_variable = { name = language_group value = flag:mamean } }
+	else_if = { limit = { has_cultural_parameter = language_group_mapuche } set_variable = { name = language_group value = flag:mapuche } }
+	else_if = { limit = { has_cultural_parameter = language_group_mascoy } set_variable = { name = language_group value = flag:mascoy } }
+	else_if = { limit = { has_cultural_parameter = language_group_maweti } set_variable = { name = language_group value = flag:maweti } }
+	else_if = { limit = { has_cultural_parameter = language_group_mayoruna } set_variable = { name = language_group value = flag:mayoruna } }
+	else_if = { limit = { has_cultural_parameter = language_group_metropolitan } set_variable = { name = language_group value = flag:metropolitan } }
+	else_if = { limit = { has_cultural_parameter = language_group_middlegerman } set_variable = { name = language_group value = flag:middlegerman } }
+	else_if = { limit = { has_cultural_parameter = language_group_midwestern } set_variable = { name = language_group value = flag:midwestern } }
+	else_if = { limit = { has_cultural_parameter = language_group_miskito } set_variable = { name = language_group value = flag:miskito } }
+	else_if = { limit = { has_cultural_parameter = language_group_missouri_river_siouan } set_variable = { name = language_group value = flag:missouri_river_siouan } }
+	else_if = { limit = { has_cultural_parameter = language_group_mixean } set_variable = { name = language_group value = flag:mixean } }
+	else_if = { limit = { has_cultural_parameter = language_group_mixtecan } set_variable = { name = language_group value = flag:mixtecan } }
+	else_if = { limit = { has_cultural_parameter = language_group_munduruku } set_variable = { name = language_group value = flag:munduruku } }
+	else_if = { limit = { has_cultural_parameter = language_group_muran } set_variable = { name = language_group value = flag:muran } }
+	else_if = { limit = { has_cultural_parameter = language_group_nahuan } set_variable = { name = language_group value = flag:nahuan } }
+	else_if = { limit = { has_cultural_parameter = language_group_nambikwaran } set_variable = { name = language_group value = flag:nambikwaran } }
+	else_if = { limit = { has_cultural_parameter = language_group_nivacle } set_variable = { name = language_group value = flag:nivacle } }
+	else_if = { limit = { has_cultural_parameter = language_group_norteamericano } set_variable = { name = language_group value = flag:norteamericano } }
+	else_if = { limit = { has_cultural_parameter = language_group_northern_arawakan } set_variable = { name = language_group value = flag:northern_arawakan } }
+	else_if = { limit = { has_cultural_parameter = language_group_northern_athabaskan } set_variable = { name = language_group value = flag:northern_athabaskan } }
+	else_if = { limit = { has_cultural_parameter = language_group_northern_caddoan } set_variable = { name = language_group value = flag:northern_caddoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_northern_zamucoan } set_variable = { name = language_group value = flag:northern_zamucoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_nortista } set_variable = { name = language_group value = flag:nortista } }
+	else_if = { limit = { has_cultural_parameter = language_group_norwegian } set_variable = { name = language_group value = flag:norwegian } }
+	else_if = { limit = { has_cultural_parameter = language_group_numic } set_variable = { name = language_group value = flag:numic } }
+	else_if = { limit = { has_cultural_parameter = language_group_oodham } set_variable = { name = language_group value = flag:oodham } }
+	else_if = { limit = { has_cultural_parameter = language_group_oto_pamean } set_variable = { name = language_group value = flag:oto_pamean } }
+	else_if = { limit = { has_cultural_parameter = language_group_parukutoan } set_variable = { name = language_group value = flag:parukutoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_peripheral_quechua } set_variable = { name = language_group value = flag:peripheral_quechua } }
+	else_if = { limit = { has_cultural_parameter = language_group_persian } set_variable = { name = language_group value = flag:persian } }
+	else_if = { limit = { has_cultural_parameter = language_group_plains_algonquian } set_variable = { name = language_group value = flag:plains_algonquian } }
+	else_if = { limit = { has_cultural_parameter = language_group_pomoan } set_variable = { name = language_group value = flag:pomoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_purepecha } set_variable = { name = language_group value = flag:purepecha } }
+	else_if = { limit = { has_cultural_parameter = language_group_quichean } set_variable = { name = language_group value = flag:quichean } }
+	else_if = { limit = { has_cultural_parameter = language_group_rio } set_variable = { name = language_group value = flag:rio } }
+	else_if = { limit = { has_cultural_parameter = language_group_russian } set_variable = { name = language_group value = flag:russian } }
+	else_if = { limit = { has_cultural_parameter = language_group_sahaptian } set_variable = { name = language_group value = flag:sahaptian } }
+	else_if = { limit = { has_cultural_parameter = language_group_southern } set_variable = { name = language_group value = flag:southern } }
+	else_if = { limit = { has_cultural_parameter = language_group_southern_arawakan } set_variable = { name = language_group value = flag:southern_arawakan } }
+	else_if = { limit = { has_cultural_parameter = language_group_southern_caddoan } set_variable = { name = language_group value = flag:southern_caddoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_southern_iroquoian } set_variable = { name = language_group value = flag:southern_iroquoian } }
+	else_if = { limit = { has_cultural_parameter = language_group_southern_je } set_variable = { name = language_group value = flag:southern_je } }
+	else_if = { limit = { has_cultural_parameter = language_group_sulista } set_variable = { name = language_group value = flag:sulista } }
+	else_if = { limit = { has_cultural_parameter = language_group_talamanca } set_variable = { name = language_group value = flag:talamanca } }
+	else_if = { limit = { has_cultural_parameter = language_group_tarahumaran } set_variable = { name = language_group value = flag:tarahumaran } }
+	else_if = { limit = { has_cultural_parameter = language_group_tenetehara } set_variable = { name = language_group value = flag:tenetehara } }
+	else_if = { limit = { has_cultural_parameter = language_group_ticuna } set_variable = { name = language_group value = flag:ticuna } }
+	else_if = { limit = { has_cultural_parameter = language_group_tierrasaltanos } set_variable = { name = language_group value = flag:tierrasaltanos } }
+	else_if = { limit = { has_cultural_parameter = language_group_tierrasbajanas } set_variable = { name = language_group value = flag:tierrasbajanas } }
+	else_if = { limit = { has_cultural_parameter = language_group_tlingit } set_variable = { name = language_group value = flag:tlingit } }
+	else_if = { limit = { has_cultural_parameter = language_group_totonac } set_variable = { name = language_group value = flag:totonac } }
+	else_if = { limit = { has_cultural_parameter = language_group_tshimshianic } set_variable = { name = language_group value = flag:tshimshianic } }
+	else_if = { limit = { has_cultural_parameter = language_group_tucanoan } set_variable = { name = language_group value = flag:tucanoan } }
+	else_if = { limit = { has_cultural_parameter = language_group_tupi } set_variable = { name = language_group value = flag:tupi } }
+	else_if = { limit = { has_cultural_parameter = language_group_ukrainian } set_variable = { name = language_group value = flag:ukrainian } }
+	else_if = { limit = { has_cultural_parameter = language_group_venetic } set_variable = { name = language_group value = flag:venetic } }
+	else_if = { limit = { has_cultural_parameter = language_group_venezuelan } set_variable = { name = language_group value = flag:venezuelan } }
+	else_if = { limit = { has_cultural_parameter = language_group_wakashan } set_variable = { name = language_group value = flag:wakashan } }
+	else_if = { limit = { has_cultural_parameter = language_group_warao } set_variable = { name = language_group value = flag:warao } }
+	else_if = { limit = { has_cultural_parameter = language_group_wari } set_variable = { name = language_group value = flag:wari } }
+	else_if = { limit = { has_cultural_parameter = language_group_wayampi } set_variable = { name = language_group value = flag:wayampi } }
+	else_if = { limit = { has_cultural_parameter = language_group_western } set_variable = { name = language_group value = flag:western } }
+	else_if = { limit = { has_cultural_parameter = language_group_western_muskogean } set_variable = { name = language_group value = flag:western_muskogean } }
+	else_if = { limit = { has_cultural_parameter = language_group_wichi } set_variable = { name = language_group value = flag:wichi } }
+	else_if = { limit = { has_cultural_parameter = language_group_yanomam } set_variable = { name = language_group value = flag:yanomam } }
+	else_if = { limit = { has_cultural_parameter = language_group_yawaperi } set_variable = { name = language_group value = flag:yawaperi } }
+	else_if = { limit = { has_cultural_parameter = language_group_yiddish } set_variable = { name = language_group value = flag:yiddish } }
+	else_if = { limit = { has_cultural_parameter = language_group_yucatecan } set_variable = { name = language_group value = flag:yucatecan } }
+	else_if = { limit = { has_cultural_parameter = language_group_yuman } set_variable = { name = language_group value = flag:yuman } }
+	else_if = { limit = { has_cultural_parameter = language_group_yupik } set_variable = { name = language_group value = flag:yupik } }
+	else_if = { limit = { has_cultural_parameter = language_group_zapotecan } set_variable = { name = language_group value = flag:zapotecan } }
+	else_if = { limit = { has_cultural_parameter = language_group_zoquean } set_variable = { name = language_group value = flag:zoquean } }
+	else_if = { limit = { has_cultural_parameter = language_group_zuni } set_variable = { name = language_group value = flag:zuni } }
+	else_if = { limit = { has_cultural_parameter = language_group_nordeste } set_variable = { name = language_group value = flag:nordeste } }
+	else_if = { limit = { has_cultural_parameter = language_group_estino } set_variable = { name = language_group value = flag:estino } }
+	else_if = { limit = { has_cultural_parameter = language_group_chileno } set_variable = { name = language_group value = flag:chileno } }
+	else_if = { limit = { has_cultural_parameter = language_group_rioplatense } set_variable = { name = language_group value = flag:rioplatense } }
+	else_if = { limit = { has_cultural_parameter = language_group_caribeno } set_variable = { name = language_group value = flag:caribeno } }
+	else_if = { limit = { has_cultural_parameter = language_group_marquesan } set_variable = { name = language_group value = flag:marquesan } }
+}
+
+
+
+ccu_initialize_language_family = {
+	if = { limit = { has_cultural_parameter = language_family_algic } set_variable = { name = language_family value = flag:algic } }
+	else_if = { limit = { has_cultural_parameter = language_family_arauan } set_variable = { name = language_family value = flag:arauan } }
+	else_if = { limit = { has_cultural_parameter = language_family_araucanian } set_variable = { name = language_family value = flag:araucanian } }
+	else_if = { limit = { has_cultural_parameter = language_family_arawakan } set_variable = { name = language_family value = flag:arawakan } }
+	else_if = { limit = { has_cultural_parameter = language_family_aymaran_fam } set_variable = { name = language_family value = flag:aymaran_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_caddoan } set_variable = { name = language_family value = flag:caddoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_cariban } set_variable = { name = language_family value = flag:cariban } }
+	else_if = { limit = { has_cultural_parameter = language_family_celtic } set_variable = { name = language_family value = flag:celtic } }
+	else_if = { limit = { has_cultural_parameter = language_family_chapacuran } set_variable = { name = language_family value = flag:chapacuran } }
+	else_if = { limit = { has_cultural_parameter = language_family_chibchan } set_variable = { name = language_family value = flag:chibchan } }
+	else_if = { limit = { has_cultural_parameter = language_family_chinookan_fam } set_variable = { name = language_family value = flag:chinookan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_chiquitano_fam } set_variable = { name = language_family value = flag:chiquitano_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_chocoan } set_variable = { name = language_family value = flag:chocoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_chukotko_kamchatkan } set_variable = { name = language_family value = flag:chukotko_kamchatkan } }
+	else_if = { limit = { has_cultural_parameter = language_family_chumashan_fam } set_variable = { name = language_family value = flag:chumashan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_englic } set_variable = { name = language_family value = flag:englic } }
+	else_if = { limit = { has_cultural_parameter = language_family_eskaleut } set_variable = { name = language_family value = flag:eskaleut } }
+	else_if = { limit = { has_cultural_parameter = language_family_francophonic } set_variable = { name = language_family value = flag:francophonic } }
+	else_if = { limit = { has_cultural_parameter = language_family_germanic } set_variable = { name = language_family value = flag:germanic } }
+	else_if = { limit = { has_cultural_parameter = language_family_guaicuruan_fam } set_variable = { name = language_family value = flag:guaicuruan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_haida_fam } set_variable = { name = language_family value = flag:haida_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_hispanophonic } set_variable = { name = language_family value = flag:hispanophonic } }
+	else_if = { limit = { has_cultural_parameter = language_family_iranian } set_variable = { name = language_family value = flag:iranian } }
+	else_if = { limit = { has_cultural_parameter = language_family_iroquoian } set_variable = { name = language_family value = flag:iroquoian } }
+	else_if = { limit = { has_cultural_parameter = language_family_italophonic } set_variable = { name = language_family value = flag:italophonic } }
+	else_if = { limit = { has_cultural_parameter = language_family_japonic } set_variable = { name = language_family value = flag:japonic } }
+	else_if = { limit = { has_cultural_parameter = language_family_keresan } set_variable = { name = language_family value = flag:keresan } }
+	else_if = { limit = { has_cultural_parameter = language_family_koreanic } set_variable = { name = language_family value = flag:koreanic } }
+	else_if = { limit = { has_cultural_parameter = language_family_kutenai_fam } set_variable = { name = language_family value = flag:kutenai_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_lepitan } set_variable = { name = language_family value = flag:lepitan } }
+	else_if = { limit = { has_cultural_parameter = language_family_lusophonic } set_variable = { name = language_family value = flag:lusophonic } }
+	else_if = { limit = { has_cultural_parameter = language_family_macro_je } set_variable = { name = language_family value = flag:macro_je } }
+	else_if = { limit = { has_cultural_parameter = language_family_mascoian } set_variable = { name = language_family value = flag:mascoian } }
+	else_if = { limit = { has_cultural_parameter = language_family_matacoan } set_variable = { name = language_family value = flag:matacoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_mayan } set_variable = { name = language_family value = flag:mayan } }
+	else_if = { limit = { has_cultural_parameter = language_family_misumalpan } set_variable = { name = language_family value = flag:misumalpan } }
+	else_if = { limit = { has_cultural_parameter = language_family_mixe_zoque } set_variable = { name = language_family value = flag:mixe_zoque } }
+	else_if = { limit = { has_cultural_parameter = language_family_muran_fam } set_variable = { name = language_family value = flag:muran_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_muskogean } set_variable = { name = language_family value = flag:muskogean } }
+	else_if = { limit = { has_cultural_parameter = language_family_na_dene } set_variable = { name = language_family value = flag:na_dene } }
+	else_if = { limit = { has_cultural_parameter = language_family_nambikwaran_fam } set_variable = { name = language_family value = flag:nambikwaran_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_necromance } set_variable = { name = language_family value = flag:necromance } }
+	else_if = { limit = { has_cultural_parameter = language_family_oto_manguean } set_variable = { name = language_family value = flag:oto_manguean } }
+	else_if = { limit = { has_cultural_parameter = language_family_panoan } set_variable = { name = language_family value = flag:panoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_pomoan_fam } set_variable = { name = language_family value = flag:pomoan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_purepecha_fam } set_variable = { name = language_family value = flag:purepecha_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_quechuan } set_variable = { name = language_family value = flag:quechuan } }
+	else_if = { limit = { has_cultural_parameter = language_family_salishan } set_variable = { name = language_family value = flag:salishan } }
+	else_if = { limit = { has_cultural_parameter = language_family_siouan } set_variable = { name = language_family value = flag:siouan } }
+	else_if = { limit = { has_cultural_parameter = language_family_slavic } set_variable = { name = language_family value = flag:slavic } }
+	else_if = { limit = { has_cultural_parameter = language_family_tanoan } set_variable = { name = language_family value = flag:tanoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_ticuna_yuri } set_variable = { name = language_family value = flag:ticuna_yuri } }
+	else_if = { limit = { has_cultural_parameter = language_family_totonacan } set_variable = { name = language_family value = flag:totonacan } }
+	else_if = { limit = { has_cultural_parameter = language_family_tsimshianic_fam } set_variable = { name = language_family value = flag:tsimshianic_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_tucanoan_fam } set_variable = { name = language_family value = flag:tucanoan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_tupian } set_variable = { name = language_family value = flag:tupian } }
+	else_if = { limit = { has_cultural_parameter = language_family_uto_aztecan } set_variable = { name = language_family value = flag:uto_aztecan } }
+	else_if = { limit = { has_cultural_parameter = language_family_wakashan_fam } set_variable = { name = language_family value = flag:wakashan_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_warao_fam } set_variable = { name = language_family value = flag:warao_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_yanomaman } set_variable = { name = language_family value = flag:yanomaman } }
+	else_if = { limit = { has_cultural_parameter = language_family_yuman_cochimi } set_variable = { name = language_family value = flag:yuman_cochimi } }
+	else_if = { limit = { has_cultural_parameter = language_family_zamucoan } set_variable = { name = language_family value = flag:zamucoan } }
+	else_if = { limit = { has_cultural_parameter = language_family_zuni_fam } set_variable = { name = language_family value = flag:zuni_fam } }
+	else_if = { limit = { has_cultural_parameter = language_family_polynesian } set_variable = { name = language_family value = flag:polynesian } }
+}
+
+
+
+ccu_initialize_language_union = {
+	if = { limit = { has_cultural_parameter = language_union_amazon } set_variable = { name = language_union value = flag:amazon } }
+	else_if = { limit = { has_cultural_parameter = language_union_andean } set_variable = { name = language_union value = flag:andean } }
+	else_if = { limit = { has_cultural_parameter = language_union_gulf } set_variable = { name = language_union value = flag:gulf } }
+	else_if = { limit = { has_cultural_parameter = language_union_inglanol } set_variable = { name = language_union value = flag:inglanol } }
+	else_if = { limit = { has_cultural_parameter = language_union_jargon } set_variable = { name = language_union value = flag:jargon } }
+	else_if = { limit = { has_cultural_parameter = language_union_louisianan } set_variable = { name = language_union value = flag:louisianan } }
+	else_if = { limit = { has_cultural_parameter = language_union_maritime } set_variable = { name = language_union value = flag:maritime } }
+	else_if = { limit = { has_cultural_parameter = language_union_mesoamerican } set_variable = { name = language_union value = flag:mesoamerican } }
+	else_if = { limit = { has_cultural_parameter = language_union_northwest } set_variable = { name = language_union value = flag:northwest } }
+	else_if = { limit = { has_cultural_parameter = language_union_orinoco_amazon } set_variable = { name = language_union value = flag:orinoco_amazon } }
+	else_if = { limit = { has_cultural_parameter = language_union_plains } set_variable = { name = language_union value = flag:plains } }
+	else_if = { limit = { has_cultural_parameter = language_union_plateau } set_variable = { name = language_union value = flag:plateau } }
+	else_if = { limit = { has_cultural_parameter = language_union_portunol } set_variable = { name = language_union value = flag:portunol } }
+	else_if = { limit = { has_cultural_parameter = language_union_pueblo } set_variable = { name = language_union value = flag:pueblo } }
+	else_if = { limit = { has_cultural_parameter = language_union_sequoyan } set_variable = { name = language_union value = flag:sequoyan } }
+	else_if = { limit = { has_cultural_parameter = language_union_southern_cone } set_variable = { name = language_union value = flag:southern_cone } }
+	else = { set_variable = { name = language_union value = flag:none } }
+}
+
