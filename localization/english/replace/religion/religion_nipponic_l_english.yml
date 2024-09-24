@@ -1,10 +1,10 @@
 ﻿l_english:
 
-japonic_religion:0 "Japonic"
-japonic_religion_adj:0 "Japonic"
-japonic_religion_adherent:0 "Japonic"
-japonic_religion_adherent_plural:0 "Japonics"
-japonic_religion_desc:0 "The Japonic faiths consist of the many folk religions of Japan."
+nipponic_religion:0 "Nipponic"
+nipponic_religion_adj:0 "Nipponic"
+nipponic_religion_adherent:0 "Nipponic"
+nipponic_religion_adherent_plural:0 "Nipponics"
+nipponic_religion_desc:0 "The Nipponic religion consistf of the many folk beliefs existing in Japan. Historically, these faiths have syncretized with Buddhism while retaining their distinct Japanese characteristics with the worship of local deities alongside Buddhist deities."
 
 shinto:0 "Shinto"
 shinto_adj:0 "Shinto"
@@ -67,8 +67,8 @@ shinto_religious_head_title_name:0 "Guji"
 shinto_devotee:0 ""
 shinto_devotee_plural:0 ""
 
-shinto_priest:0 "kannushi"
-shinto_priest_plural:0 "kannushis"
+shinto_priest:0 "Kannushi"
+shinto_priest_plural:0 "Kannushis"
 shinto_bishop:0 "Ō-kannushi"
 shinto_bishop_plural:0 "Ō-kannushis"
 

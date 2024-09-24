@@ -1,4 +1,4 @@
-japonic_religion = {
+nipponic_religion = {
 	family = rf_harmonic
 	graphical_faith = japonic_religion_gfx
 	doctrine = harmonic_hostility_doctrine
