@@ -69,23 +69,23 @@ nipponic_religion = {
 		#HealthGod
 		HealthGodName = shinto_health_god_name
 		HealthGodNamePossessive = shinto_health_god_name_possessive
-		HealthGodSheHe = CHARACTER_SHEHE_THEY
-		HealthGodHerHis = CHARACTER_HERHIS_THEIR
-		HealthGodHerHim = CHARACTER_HERHIM_THEM
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
 		FertilityGodName = shinto_fertility_god_name
 		FertilityGodNamePossessive = shinto_fertility_god_name_possessive
-		FertilityGodSheHe = CHARACTER_SHEHE_THEY
-		FertilityGodHerHis = CHARACTER_HERHIS_THEIR
-		FertilityGodHerHim = CHARACTER_HERHIM_THEM
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
 		WealthGodName = shinto_wealth_god_name
 		WealthGodNamePossessive = shinto_wealth_god_name_possessive
-		WealthGodSheHe = CHARACTER_SHEHE_THEY
-		WealthGodHerHis = CHARACTER_HERHIS_THEIR
-		WealthGodHerHim = CHARACTER_HERHIM_THEM
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
 		HouseholdGodName = shinto_household_god_name
