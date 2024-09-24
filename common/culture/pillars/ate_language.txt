@@ -7831,3 +7831,31 @@ language_hawaiian = {
     }
 	color = { 193 39 45 }
 }
+language_rapanui = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_rapanui
+        }
+    }
+    parameters = {
+        language_group_eastern_polynesian = yes
+        language_family_polynesian = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_rapanui }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_eastern_polynesian }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_polynesian }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}

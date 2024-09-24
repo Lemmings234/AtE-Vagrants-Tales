@@ -1555,7 +1555,7 @@ heritage_polynesian = {
 		}
 	}
 	parameters = {
-		heritage_group_pacific = yes
+		heritage_group_pacific_islander = yes
 		heritage_family_polynesian = yes
 	}
 	audio_parameter = european
