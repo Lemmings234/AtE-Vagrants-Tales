@@ -5,6 +5,6 @@ kamehameha_male = { Kamehameha }
 kauikeaouli_male = { Kauikeaouli }
 kaumalii_male = { Kaumali_pst_i }
 keeaumoku_male = { Ke_pst_eaumoku}
-kealiiahonui_male = {Keali_pst_iahonui}
+kealiiahonui_male = { Keali_pst_iahonui }
 liholiho_male = { Liholiho }
 lunalilo_male = { Lunalilo }
