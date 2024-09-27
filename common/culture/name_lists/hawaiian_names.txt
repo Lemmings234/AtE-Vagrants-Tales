@@ -27,17 +27,17 @@
 	}
 	female_names = {
 		Apika_pst_ila Apikaka Aka Akelaika Akelina Akela Akaka Akeneki Ahinoama Ailina Alepeka Alekia Alekanekalia Aleka Alema Alamila
-		Alawina Amanaka Amelia Eme Anakakia Anakalia Anela Anika Anikala Ana Anapela_Anabelle Aneka Anakonia Alapela Akenaka Akalia Aukele Aukaka Aulelia Alola 
-		Palapala Pakekepa Peakalika Pela Pelenakeka Pelanakino Berenike Peleka Pelulo Peke Peula Pileha Poni Pilikika
-		Kaloka Kamelia Kalamela Kamila Kalola Kalolaina Kakalina Kikilia Kelekina Kilia Halaki Kelia Koloe Kilikina Kilikipine Kinikalela Kalala Kalalika Kalaukia Kalaukina Kaleopakala Kelokilaka Kopina Konokuelo Kokelia Kolina Kolenelia Kinikia Kakama
-		Wana_pst_ao Kepola Kelia Kela Kelepine Kenike Kiana Kina Kokoleke Kolina Kolika Kolokea Kelaukila 
+		Alawina Amanaka Amelia Eme Anakakia Anakalia Anela Anika Anikala Ana Anapela Aneka Anakonia Alapela Akenaka Akalia Aukele Aukaka Aulelia Alola 
+		Palapala Pakekepa Peakalika Pela Pelenakeka Pelanakino Pelenike Peleka Pelulo Peke Peula Pileha Poni Pilikika
+		Kaloka Kamelia Kalamela Kamila Kalola Kalolaina Kakalina Kikilia Kelekina Kilia Halaki Kelela Koloe Kilikina Kilikipine Kinikalela Kalala Kalalika Kalaukia Kalaukina Kaleopakala Kelokilaka Kopina Konokuelo Kokelia Kolina Kolenelia Kinikia Kakama
+		Wana_pst_ao Kepola Kelilaha Kela Kelepine Kenike Kiana Kina Kokoleke Kolina Kolika Kolokea Kelaukila 
 		Ekika Ekena Eluina Ileina Elepeka Elenoa Laika Elikapeka Ela Elena Elemila Eloika Eleki Elewila Emelia Emele Ema Emalaina Elika Elenekina Ekekela Ekela Iukinia Ulalia Eunike Eupemia Iwa Ewalina Mana_pst_o_pst_i_pst_o 
 		Pane Paukekina Pikelia Polola Pololena Pelolina Palakika Pelika 
 		Keokiana Keokina Kelekukuke Kololia 
 		Hakala Hana Haliaka Hakela Heiki Helena Heneliaka Hepeziba Helokia Hekekela Heke Hilalia Hileka Mana_pst_olana Holekeneke Huleka Aika Aina Aineki 
 		Ikapela Kini 
 		Ianeke Ienipa Keluka Iezebela Io_pst_ana Iokepine Ioke Wanika Iukika Iulia Kuliana Iune Iuno Iukikina Kalini Keke Kekula Kimi 
-		Lala Lea Lina Leonola Lekikia Lipe Lipeka Liliana Lilia Lika Loika Lolikaa Loleka Loleina Luika Lukia Lukila Lukina 
+		Lala Lea Lina Leonola Lekikia Lipe Lipeka Liliana Lilia Lika Loika Lolika Loleka Loleina Luika Lukia Lukila Lukina 
 		Meipala Makelina Malawina Mame Makela Makaleka Makalika Malaea Maliana Malia Meliaka Malilaka Melelina Malina Maleka Malakina Meleana Mei Meipela
 		Melika Mekeke Mikala Mileka Milikeleka Milikena Minewa Miliama Mona Monika Miuliela Maila Milena Makaka 
 		Nanekia Naneka Naomi Nakeli Nele Neki Nina Nola Nolina Noma
