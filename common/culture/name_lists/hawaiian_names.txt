@@ -43,10 +43,10 @@
 		Nanekia Naneka Naomi Nakeli Nele Neki Nina Nola Nolina Noma
 		Oleka Oliwa Oliwia Olumepia Orepa Pamila Paneki 
 		Ahonui Pakelekia Poleke Polina Momi Peleki Pilipa Pilomena Po_pst_ipe Piliki Pole Polekia Pelekila Pelukuna 
-		Lahela Lahapa Lepeka Leina Lina Looke Lopeka Lomelia Loka Lokapela Lokalia Lokamona Loke Lokelina Lokeleme Lokina Lowena Lupe Luka 
+		Lahela Lahapa Lepeka Leina Lina_2 Looke Lopeka Lomelia Loka Lokapela Lokalia Lokamona Loke Lokelina Lokeleme Lokina Lowena Lupe_2 Luka 
 		Kale Kalome Kala Kalai Kelina Kalana Kipila Konia Kopia
 		Kekepania Kukana Kepila Kiliwia Kapika Kalula Kamala Keleka Komakina Milimili Kelupaina 
-		Ulalika Ulukula Walelia Wila Welena Walonika Wikolia Waiola Waioleka Wilikinia Wiwiana Wanaka Wilemina Wila Winipeleke Iolana Iwone Kenopia Kilepa Kipola
+		Ulalika Ulukula Walelia Wila Welena Walonika Wikolia Waiola Waioleka Wilikinia Wiwiana Wanaka Wilemina Wila_2 Winipeleke Iolana Iwone Kenopia Kilepa Kipola
 		Ka_pst_ahumanu Kalama Ka_pst_iulani Kamamalu Kapiolani Keopuolani Likelike Lili_pst_uokalani Noelani Lilo
 	}
 	cadet_dynasty_names = {
