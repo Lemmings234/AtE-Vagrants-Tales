@@ -8,6 +8,8 @@
 #############################################
 
 culture_parameter_language_family_algic:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Algic [language_family|E]"
+culture_parameter_language_family_arabic:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Arabic [language_family|E]"
+culture_parameter_language_family_araucanian:0 "#P 
 culture_parameter_language_family_arauan:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Arauan [language_family|E]"
 culture_parameter_language_family_araucanian:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Araucanian [language_family|E]"
 culture_parameter_language_family_arawakan:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Arawakan [language_family|E]"

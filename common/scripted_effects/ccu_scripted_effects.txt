@@ -61,7 +61,10 @@ ccu_initialize_heritage_group = {
 	else_if = { limit = { has_cultural_parameter = heritage_group_texan } set_variable = { name = heritage_group value = flag:texan } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_trans_appalachian } set_variable = { name = heritage_group value = flag:trans_appalachian } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_western_coast } set_variable = { name = heritage_group value = flag:western_coast } }
-	else_if = { limit = { has_cultural_parameter = heritage_group_pacific } set_variable = { name = heritage_group value = flag:pacific } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_pacific_islander } set_variable = { name = heritage_group value = flag:pacific_islander } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_yamato } set_variable = { name = heritage_group value = flag:yamato } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_britannic } set_variable = { name = heritage_group value = flag:britannic } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_north_african } set_variable = { name = heritage_group value = flag:north_african } }
 }
 
 
@@ -84,6 +87,8 @@ ccu_initialize_heritage_family = {
 	else_if = { limit = { has_cultural_parameter = heritage_family_west_coast } set_variable = { name = heritage_family value = flag:west_coast } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_western_indigenous } set_variable = { name = heritage_family value = flag:western_indigenous } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_polynesian } set_variable = { name = heritage_family value = flag:polynesian } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_arabic } set_variable = { name = heritage_family value = flag:arabic } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_japonic } set_variable = { name = heritage_family value = flag:japonic } }
 }
 
 
@@ -222,6 +227,8 @@ ccu_initialize_language_group = {
 	else_if = { limit = { has_cultural_parameter = language_group_rioplatense } set_variable = { name = language_group value = flag:rioplatense } }
 	else_if = { limit = { has_cultural_parameter = language_group_caribeno } set_variable = { name = language_group value = flag:caribeno } }
 	else_if = { limit = { has_cultural_parameter = language_group_marquesan } set_variable = { name = language_group value = flag:marquesan } }
+	else_if = { limit = { has_cultural_parameter = language_group_eastern_polynesian } set_variable = { name = language_group value = flag:eastern_polynesian } }
+	else_if = { limit = { has_cultural_parameter = language_group_north_african } set_variable = { name = language_group value = flag:north_african } }
 }
 
 
@@ -291,6 +298,7 @@ ccu_initialize_language_family = {
 	else_if = { limit = { has_cultural_parameter = language_family_zamucoan } set_variable = { name = language_family value = flag:zamucoan } }
 	else_if = { limit = { has_cultural_parameter = language_family_zuni_fam } set_variable = { name = language_family value = flag:zuni_fam } }
 	else_if = { limit = { has_cultural_parameter = language_family_polynesian } set_variable = { name = language_family value = flag:polynesian } }
+	else_if = { limit = { has_cultural_parameter = language_family_arabic } set_variable = { name = language_family value = flag:arabic } }
 }
 
 

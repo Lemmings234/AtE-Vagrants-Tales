@@ -7727,8 +7727,8 @@ language_gaelige = {
         }
     }
     parameters = {
-        language_group_atlantic = yes
-        language_family_gaelic = yes
+        language_group_goidelic = yes
+        language_family_celtic = yes
     }
     ai_will_do = {
         value = 10
@@ -7737,11 +7737,11 @@ language_gaelige = {
             multiply = same_language_choice_factor
         }
         else_if = {
-            limit = { has_cultural_parameter = language_group_atlantic }
+            limit = { has_cultural_parameter = language_group_goidelic }
             multiply = same_language_group_choice_factor
         }
         else_if = {
-            limit = { has_cultural_parameter = language_family_gaelic }
+            limit = { has_cultural_parameter = language_family_celtic }
             multiply = same_language_family_choice_factor
         }
     }
@@ -7783,8 +7783,8 @@ language_darija = {
         }
     }
     parameters = {
-        language_group_pacific = yes
-        language_family_japonic = yes
+        language_group_north_african = yes
+        language_family_arabic = yes
     }
     ai_will_do = {
         value = 10
@@ -7793,7 +7793,7 @@ language_darija = {
             multiply = same_language_choice_factor
         }
         else_if = {
-            limit = { has_cultural_parameter = language_group_atlantic }
+            limit = { has_cultural_parameter = language_group_north_african }
             multiply = same_language_group_choice_factor
         }
         else_if = {

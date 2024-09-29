@@ -141,3 +141,4 @@ culture_parameter_language_group_estino:0 "#P +[EmptyScope.ScriptValue('same_lan
 culture_parameter_language_group_chileno:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Chileno [language_group|E]"
 culture_parameter_language_group_rioplatense:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Rioplatense [language_group|E]"
 culture_parameter_language_group_caribeno:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Caribeño [language_group|E]"
+culture_parameter_language_group_north_african:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the North African [language_group|E]"

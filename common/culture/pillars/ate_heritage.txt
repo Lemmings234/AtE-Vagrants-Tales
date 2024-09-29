@@ -1529,7 +1529,7 @@ heritage_yamato = {
 		}
 	}
 	parameters = {
-		heritage_group_pacific = yes
+		heritage_group_yamato = yes
 		heritage_family_japonic = yes
 	}
 	audio_parameter = european
@@ -1542,7 +1542,7 @@ heritage_maghrebi = {
 		}
 	}
 	parameters = {
-		heritage_group_atlantic = yes
+		heritage_group_north_african = yes
 		heritage_family_arabic = yes
 	}
 	audio_parameter = european
