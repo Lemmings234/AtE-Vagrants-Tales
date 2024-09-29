@@ -1,4 +1,4 @@
-﻿northumbrian = {
+﻿norfie = {
 	color = hsv { 0.8 0.3 0.3 }
 	
 	ethos = ethos_egalitarian
