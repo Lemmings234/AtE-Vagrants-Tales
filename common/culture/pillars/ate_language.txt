@@ -7695,7 +7695,7 @@ language_scots = {
 	type = language
 	is_shown = {
         language_is_shown_trigger = {
-            LANGUAGE = language_scottish
+            LANGUAGE = language_scots
         }
     }
     parameters = {
@@ -7705,7 +7705,7 @@ language_scots = {
     ai_will_do = {
         value = 10
         if = {
-            limit = { has_cultural_pillar = language_scottish }
+            limit = { has_cultural_pillar = language_scots }
             multiply = same_language_choice_factor
         }
         else_if = {
