@@ -6,7 +6,6 @@
 	language = language_gaelige
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_zealous_people
 		tradition_poetry
 		tradition_brewmasters
 		tradition_stand_and_fight
