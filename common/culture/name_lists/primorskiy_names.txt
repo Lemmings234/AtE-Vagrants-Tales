@@ -1,0 +1,268 @@
+﻿name_list_primorskiy = {
+	
+	male_names = {
+		Abakum Abram Abrosim Adam Agapon Aggei Aldokim Aleksandr Alexei Ambrosi Amrovsii Andrei Andrei Anikei Anton Antoni Artemi Asei Avdei 
+		Baran Bol_pst_shak Boris Borodach Bubun 
+		Chernyi Chulok 
+		Danilo David Denis Dimitri 
+		Egor Elizar Erast Evlan 
+		Faddei Feodor Filipp 
+		Gordei Gorshok Gregori Gubun 
+		Herasim 
+		Igor Ilarion Iosif Ipat Isai Ishak Isidor Ivan Ivin 
+		John Jurilchuk 
+		Kalach Kalina Kalmachuk Karp Khariton Khrisanf Khrol Khromoi Khuda Kipiran Kirian Konon Konstantin Kotik Kotik Kozel Krasnii Krasnyi Krigin Kutnyak 
+		Larion Lawren Leo Leon Levon Longin 
+		Makar Makari Makon Marc Mark Martin Mikhail Mikolai Mir Miron 
+		Naum Nazar Nemoi Nick Nikifor Nikolai Nikolai 
+		Oleg Orest 
+		Pakhom Paramon Parfen Pavel Peter Petr Petro Petrov Platon Prokhor Pyotr 
+		Richarda Rodion Roman 
+		Samson Samuil Savin Selifont Selivan Semyon Sergei Sidor Sila Simeon Slepoi Starichok Stefan Stepan 
+		Taras Terenti Tikhon Trifan Trifon Trofim Tsar 
+		Ustin 
+		Vakul Vanin Vasili Veregin Viktor Vladimir Vlas Voron 
+		Yablochnik Yakov Yuri Yustin 
+		Zahkari Zakhar Zhikhar Zinovi Zolotoi
+	}
+	
+	female_names = {
+		Afimiya Agafiya Agrafena Agrippina Akilina Akulina Aleksandra Alyona Ana Anastasiya Anikusha Anisiya Anisya Anna Arina Avdotya 
+		Bulanka 
+		Daria Darika Dariya Domna Domnika Doska 
+		Efimiya Ekaterina Elena Elisaveta Evdokiya 
+		Fedora Fedosiya Fekla Feodora Feodosiya 
+		Glikeriya 
+		Ira Irina Irisha 
+		Katerina Katlya Kharitina Khavrona Khavroniya Khristina Khuda Kozela Kristina Kseniya Kulina Kunya 
+		Larisa Liana Lida Lidiya Lizaveta Lukerya Lyubova 
+		Malaniya Mara Marfa Maria Marina Marinka Mariya Mariya Matrona Matryona Mavra Mavrushka Melaiya Melania Melaniya 
+		Nadezha Nastyushka Nataliya Natasiya Nina 
+		Olga 
+		Palaha Pelageya Pelagia Praskovya 
+		Rena 
+		Sashura Serafimia Sofia Sophia Sophiya Solomonida Stefanida Stepanida 
+		Tamara Tatyana Trifena Tusya 
+		Ulyana Ustina Utya 
+		Varvara Vasilia Vera Versha 
+		Yuliana Yustina 
+		Zinoviya
+	}
+	cadet_dynasty_names = {
+		"dynn_Mesyats"
+		"dynn_Blanter"
+		"dynn_Yevdokimov"
+		"dynn_Vasilyev"
+		"dynn_Shchedrin"
+		"dynn_Sokoloff"
+		"dynn_Korolyov"
+		"dynn_Ustimovich"
+		"dynn_Burtsov"
+		"dynn_Kozel"
+		"dynn_Dultsev"
+		"dynn_Kurepin"
+		"dynn_Shirokov"
+		"dynn_Budny"
+		"dynn_Ipatyev"
+		"dynn_Frolov"
+		"dynn_Baranovsky"
+		"dynn_Sochinsky"
+		"dynn_Kirigin"
+		"dynn_Bazhanov"
+		"dynn_Sukhorukov"
+		"dynn_Orlov"
+		"dynn_Filipov"
+		"dynn_Shwetz"
+		"dynn_Poltorak"
+		"dynn_Zykin"
+		"dynn_Alkaev"
+		"dynn_Barinov"
+		"dynn_Petrov"
+		"dynn_Tikhvinsky"
+		"dynn_Leonov"
+		"dynn_Alenin"
+		"dynn_Sokolov"
+		"dynn_Rubashkin"
+		"dynn_Marinov"
+		"dynn_Chuzhinov"
+		"dynn_Maksimov"
+		"dynn_Kuznetsov"
+		"dynn_Lagunov"
+		"dynn_Karchagin"
+		"dynn_Ivanov"
+		"dynn_Wasylyk"
+		"dynn_Ushakov"
+		"dynn_Kohut"
+		"dynn_Tsarsko"
+		"dynn_Lagounov"
+		"dynn_Batrutdinov"
+		"dynn_Flyorov"
+		"dynn_Bovarin"
+		"dynn_Bogomolov"
+		"dynn_Wasylyshyn"
+		"dynn_Protasov"
+		"dynn_Belorusov"
+		"dynn_Uglov"
+		"dynn_Tryndin"
+		"dynn_Zolnerowich"
+		"dynn_Guryanov"
+		"dynn_Kharlamov"
+		"dynn_Yakovlev"
+		"dynn_Sarnychev"
+		"dynn_Ulyanin"
+		"dynn_Kollerov"
+		"dynn_Korovin"
+		"dynn_Perevyortov"
+		"dynn_Slobozhanin"
+		"dynn_Balakirev"
+		"dynn_Wolanski"
+		"dynn_Lebedev"
+		"dynn_Shishko"
+		"dynn_Lisov"
+		"dynn_Menshikov"
+		"dynn_Kozlov"
+		"dynn_Dorokhin"
+		"dynn_Fyodorov"
+		"dynn_Siyanskikh"
+		"dynn_Romanov"
+		"dynn_Polzin"
+		"dynn_Teryoshin"
+		"dynn_Rostovtsev"
+		"dynn_Rudnikov"
+		"dynn_Zelenko"
+		"dynn_Mukhortov"
+		"dynn_Krupin"
+		"dynn_Matveev"
+		"dynn_Perevalov"
+		"dynn_Shpak"
+		"dynn_Kapriyanov"
+		"dynn_Babikov"
+		"dynn_Ryzhkov"
+		"dynn_Mikhailov"
+		"dynn_Ananyev"
+		"dynn_Pajari"
+		"dynn_Holub"
+		"dynn_Voronkov"
+		"dynn_Pasternak"
+		"dynn_Druganin"
+		"dynn_Konstantinov"
+		"dynn_Glazkov"
+	}
+	dynasty_names = {
+		"dynn_Mesyats"
+		"dynn_Blanter"
+		"dynn_Yevdokimov"
+		"dynn_Vasilyev"
+		"dynn_Shchedrin"
+		"dynn_Sokoloff"
+		"dynn_Korolyov"
+		"dynn_Ustimovich"
+		"dynn_Burtsov"
+		"dynn_Kozel"
+		"dynn_Dultsev"
+		"dynn_Kurepin"
+		"dynn_Shirokov"
+		"dynn_Budny"
+		"dynn_Ipatyev"
+		"dynn_Frolov"
+		"dynn_Baranovsky"
+		"dynn_Sochinsky"
+		"dynn_Kirigin"
+		"dynn_Bazhanov"
+		"dynn_Sukhorukov"
+		"dynn_Orlov"
+		"dynn_Filipov"
+		"dynn_Shwetz"
+		"dynn_Poltorak"
+		"dynn_Zykin"
+		"dynn_Alkaev"
+		"dynn_Barinov"
+		"dynn_Petrov"
+		"dynn_Tikhvinsky"
+		"dynn_Leonov"
+		"dynn_Alenin"
+		"dynn_Sokolov"
+		"dynn_Rubashkin"
+		"dynn_Marinov"
+		"dynn_Chuzhinov"
+		"dynn_Maksimov"
+		"dynn_Kuznetsov"
+		"dynn_Lagunov"
+		"dynn_Karchagin"
+		"dynn_Ivanov"
+		"dynn_Wasylyk"
+		"dynn_Ushakov"
+		"dynn_Kohut"
+		"dynn_Tsarsko"
+		"dynn_Lagounov"
+		"dynn_Batrutdinov"
+		"dynn_Flyorov"
+		"dynn_Bovarin"
+		"dynn_Bogomolov"
+		"dynn_Wasylyshyn"
+		"dynn_Protasov"
+		"dynn_Belorusov"
+		"dynn_Uglov"
+		"dynn_Tryndin"
+		"dynn_Zolnerowich"
+		"dynn_Guryanov"
+		"dynn_Kharlamov"
+		"dynn_Yakovlev"
+		"dynn_Sarnychev"
+		"dynn_Ulyanin"
+		"dynn_Kollerov"
+		"dynn_Korovin"
+		"dynn_Perevyortov"
+		"dynn_Slobozhanin"
+		"dynn_Balakirev"
+		"dynn_Wolanski"
+		"dynn_Lebedev"
+		"dynn_Shishko"
+		"dynn_Lisov"
+		"dynn_Menshikov"
+		"dynn_Kozlov"
+		"dynn_Dorokhin"
+		"dynn_Fyodorov"
+		"dynn_Siyanskikh"
+		"dynn_Romanov"
+		"dynn_Polzin"
+		"dynn_Teryoshin"
+		"dynn_Rostovtsev"
+		"dynn_Rudnikov"
+		"dynn_Zelenko"
+		"dynn_Mukhortov"
+		"dynn_Krupin"
+		"dynn_Matveev"
+		"dynn_Perevalov"
+		"dynn_Shpak"
+		"dynn_Kapriyanov"
+		"dynn_Babikov"
+		"dynn_Ryzhkov"
+		"dynn_Mikhailov"
+		"dynn_Ananyev"
+		"dynn_Pajari"
+		"dynn_Holub"
+		"dynn_Voronkov"
+		"dynn_Pasternak"
+		"dynn_Druganin"
+		"dynn_Konstantinov"
+		"dynn_Glazkov"
+	}
+
+	dynasty_of_location_prefix = ""
+	bastard_dynasty_prefix = ""
+	patronym_suffix_male = "ovich"
+	patronym_suffix_female = "ovna"
+	
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 40
+	father_name_chance = 0
+	pat_grm_name_chance = 30
+	mat_grm_name_chance = 70
+	mother_name_chance = 0
+	
+	mercenary_names = {
+		
+	}
+	
+}

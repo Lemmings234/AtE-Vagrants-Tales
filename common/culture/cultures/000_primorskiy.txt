@@ -31,9 +31,7 @@ primorskiy = {
 	}
 	
 	ethnicities = {
-		
 		20 = caucasian
 		80 = slavic
-	
 	}
 }
