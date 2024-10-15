@@ -65,7 +65,7 @@ ccu_initialize_heritage_group = {
 	else_if = { limit = { has_cultural_parameter = heritage_group_yamato } set_variable = { name = heritage_group value = flag:yamato } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_britannic } set_variable = { name = heritage_group value = flag:britannic } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_north_african } set_variable = { name = heritage_group value = flag:north_african } }
-	else_if = { limit = { has_cultural_parameter = heritage_group_russian } set_variable = { name = heritage_group value = flag:russian_cultural } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_russian } set_variable = { name = heritage_group value = flag:russian } }
 }
 
 
@@ -90,7 +90,7 @@ ccu_initialize_heritage_family = {
 	else_if = { limit = { has_cultural_parameter = heritage_family_polynesian } set_variable = { name = heritage_family value = flag:polynesian } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_arabic } set_variable = { name = heritage_family value = flag:arabic } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_japonic } set_variable = { name = heritage_family value = flag:japonic } }
-	else_if = { limit = { has_cultural_parameter = heritage_family_slavic } set_variable = { name = heritage_family value = flag:slavic_cultural } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_slavic } set_variable = { name = heritage_family value = flag:slavic } }
 }
 
 
