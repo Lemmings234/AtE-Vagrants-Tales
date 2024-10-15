@@ -1127,6 +1127,12 @@ maghrebi_group:0 "Maghrebi"
 maghrebi_group_collective_noun:0 "Maghrebi"
 polynesian_group:0 "Polynesian"
 polynesian_group_collective_noun:0 "Polynesian"
+primorskiy:0 "Primorskiy"
+primorskiy_group_collective_noun:0 "Primorskiye"
+petropavlovskiy:0 "Petropavlovskiy"
+petropavlovskiy_group_collective_noun:0 "Petropavlovskiye"
+novorusskiy_group:0 "Novorusskiy"
+novorusskiy_group_collective_noun:0 "Novorusskiye"
 
 #Pre Event Dead Cultures
 dead_pre_event_group:0 "Pre-[Concept('the_event_ate','Event')|E]"

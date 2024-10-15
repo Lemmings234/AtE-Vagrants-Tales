@@ -1560,3 +1560,16 @@ heritage_polynesian = {
 	}
 	audio_parameter = european
 }
+heritage_novorusskiy = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_novorusskiy
+		}
+	}
+	parameters = {
+		heritage_group_russian = yes
+		heritage_family_slavic = yes
+	}
+	audio_parameter = european
+}

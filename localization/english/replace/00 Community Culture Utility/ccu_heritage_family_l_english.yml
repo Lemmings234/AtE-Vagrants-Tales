@@ -26,3 +26,4 @@ culture_parameter_heritage_family_siberian:0 "#P +[EmptyScope.ScriptValue('same_
 culture_parameter_heritage_family_southern_cone:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Southern Cone [heritage_family|E]"
 culture_parameter_heritage_family_west_coast:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the West Coast [heritage_family|E]"
 culture_parameter_heritage_family_western_indigenous:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Western Indigenous [heritage_family|E]"
+culture_parameter_heritage_family_slavic:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Slavic [heritage_family|E]"

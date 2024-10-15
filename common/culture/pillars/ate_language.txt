@@ -7859,3 +7859,31 @@ language_rapanui = {
     }
 	color = { 193 39 45 }
 }
+language_russian = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_russian
+        }
+    }
+    parameters = {
+        language_group_russian = yes
+        language_family_slavic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_russian }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_russian }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_slavic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 30 112 206 }
+}
