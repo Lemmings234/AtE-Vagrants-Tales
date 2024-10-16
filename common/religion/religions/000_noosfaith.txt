@@ -56,9 +56,9 @@
 		#HighGodName
 		HighGodName = nousthreskeia_high_god_name
 		HighGodNamePossessive = nousthreskeia_high_god_name_possessive
-		HighGodNameSheHe = CHARACTER_SHEHE_SHE
-		HighGodHerselfHimself = CHARACTER_HERSELF
-		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameSheHe = CHARACTER_SHEHE_THEY
+		HighGodHerselfHimself = CHARACTER_THEMSELVES
+		HighGodHerHis = CHARACTER_HERHIS_THEIR
 		HighGodNameAlternate = nousthreskeia_high_god_alternate
 		HighGodNameAlternatePossessive = nousthreskeia_high_god_alternate_possessive
 
@@ -72,72 +72,72 @@
 		#HealthGod
 		HealthGodName = nousthreskeia_health_god_name
 		HealthGodNamePossessive = nousthreskeia_health_god_name_possessive
-		HealthGodSheHe = CHARACTER_SHEHE_HE
-		HealthGodHerHis = CHARACTER_HERHIS_HIS
-		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		HealthGodSheHe = CHARACTER_SHEHE_THEY
+		HealthGodHerHis = CHARACTER_HERHIS_THEIR
+		HealthGodHerHim = CHARACTER_HERHIM_THEM
 		
 		#FertilityGod
 		FertilityGodName = nousthreskeia_fertility_god_name
 		FertilityGodNamePossessive = nousthreskeia_fertility_god_name_possessive
-		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodSheHe = CHARACTER_SHEHE_THEY
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
-		FertilityGodHerHim = CHARACTER_HERHIM_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_THEM
 
 		#WealthGod
 		WealthGodName = nousthreskeia_wealth_god_name
 		WealthGodNamePossessive = nousthreskeia_wealth_god_name_possessive
-		WealthGodSheHe = CHARACTER_SHEHE_HE
-		WealthGodHerHis = CHARACTER_HERHIS_HIS
-		WealthGodHerHim = CHARACTER_HERHIM_HIM
+		WealthGodSheHe = CHARACTER_SHEHE_THEY
+		WealthGodHerHis = CHARACTER_SHEHE_THEIR
+		WealthGodHerHim = CHARACTER_HERHIM_THEM
 
 		#HouseholdGod
 		HouseholdGodName = nousthreskeia_household_god_name
 		HouseholdGodNamePossessive = nousthreskeia_household_god_name_possessive
-		HouseholdGodSheHe = CHARACTER_SHEHE_HE
-		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
-		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+		HouseholdGodHerHis = CHARACTER_SHEHE_THEIR
+		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
 
 		#FateGod
 		FateGodName = nousthreskeia_fate_god_alternate
 		FateGodNamePossessive = nousthreskeia_fate_god_alternate_possessive
-		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodSheHe = CHARACTER_SHEHE_THEY
 		FateGodHerHis = CHARACTER_HERSHIS_HIS
-		FateGodHerHim = CHARACTER_HERHIM_HIM
+		FateGodHerHim = CHARACTER_SHEHE_THEM
 
 		#KnowledgeGod
 		KnowledgeGodName = nousthreskeia_knowledge_god_name
 		KnowledgeGodNamePossessive = nousthreskeia_knowledge_god_name_possessive
-		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
-		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
-		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+		KnowledgeGodSheHe = CHARACTER_SHEHE_THEY
+		KnowledgeGodHerHis = CHARACTER_SHEHE_THEIR
+		KnowledgeGodHerHim = CHARACTER_SHEHE_THEM
 
 		#WarGod
 		WarGodName = nousthreskeia_war_god_name
 		WarGodNamePossessive = nousthreskeia_war_god_name_possessive
-		WarGodSheHe = CHARACTER_SHEHE_HE
-		WarGodHerHis = CHARACTER_HERHIS_HIS
-		WarGodHerHim = CHARACTER_HERHIM_HIM
+		WarGodSheHe = CHARACTER_SHEHE_THEY
+		WarGodHerHis = CHARACTER_SHEHE_THEIR
+		WarGodHerHim = CHARACTER_SHEHE_THEM
 
 		#TricksterGod
 		TricksterGodName = nousthreskeia_trickster_god_name
 		TricksterGodNamePossessive = nousthreskeia_trickster_god_name_possessive
-		TricksterGodSheHe = CHARACTER_SHEHE_HE
-		TricksterGodHerHis = CHARACTER_HERHIS_HIS
-		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+		TricksterGodSheHe = CHARACTER_SHEHE_THEY
+		TricksterGodHerHis = CHARACTER_SHEHE_THEIR
+		TricksterGodHerHim = CHARACTER_SHEHE_THEM
 
 		#NightGod
 		NightGodName = nousthreskeia_night_god_name
 		NightGodNamePossessive = nousthreskeia_night_god_name_possessive
-		NightGodSheHe = CHARACTER_SHEHE_HE
-		NightGodHerHis = CHARACTER_HERHIS_HIS
-		NightGodHerHim = CHARACTER_HERHIM_HIM
+		NightGodSheHe = CHARACTER_SHEHE_THEY
+		NightGodHerHis = CHARACTER_SHEHE_THEIR
+		NightGodHerHim = CHARACTER_SHEHE_THEM
 
 		#WaterGod
 		WaterGodName = nousthreskeia_water_god_name
 		WaterGodNamePossessive = nousthreskeia_water_god_name_possessive
-		WaterGodSheHe = CHARACTER_SHEHE_HE
-		WaterGodHerHis = CHARACTER_HERHIS_HIS
-		WaterGodHerHim = CHARACTER_HERHIM_HIM
+		WaterGodSheHe = CHARACTER_SHEHE_THEY
+		WaterGodHerHis = CHARACTER_SHEHE_THEIR
+		WaterGodHerHim = CHARACTER_SHEHE_THEM
 		
 		PantheonTerm = nousthreskeia_pantheon
 		PantheonTerm2 = nousthreskeia_pantheon
@@ -197,14 +197,14 @@
 		NegativeAfterLife3 = nousthreskeia_negative_afterlife
 		DeathDeityName = nousthreskeia_death_god_name
 		DeathDeityNamePossessive = nousthreskeia_death_god_name_possessive
-		DeathDeitySheHe = CHARACTER_SHEHE_HE
-		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		DeathDeityHerHim = CHARACTER_HERHIM_HIM
+		DeathDeitySheHe = CHARACTER_SHEHE_THEY
+		DeathDeityHerHis = CHARACTER_SHEHE_THEIR
+		DeathDeityHerHim = CHARACTER_SHEHE_THEM
 		WitchGodName = nousthreskeia_witch_god_name
 		WitchGodNamePossessive = nousthreskeia_witch_god_name_possessive
-		WitchGodHerHis = CHARACTER_HERHIS_HIS
-		WitchGodSheHe = CHARACTER_SHEHE_HE
-		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodHerHis = CHARACTER_SHEHE_THEIR
+		WitchGodSheHe = CHARACTER_SHEHE_THEY
+		WitchGodHerHim = CHARACTER_SHEHE_THEM
 		WitchGodMistressMaster = master
 		WitchGodMotherFather = father
 	}
