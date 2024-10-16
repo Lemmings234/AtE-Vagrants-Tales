@@ -207,15 +207,4 @@ noosfaith_religion = {
 		WitchGodHerHim = CHARACTER_HERHIM_HIM
 		WitchGodMistressMaster = master
 		WitchGodMotherFather = father
-	
-	faiths = {
-		nousthreskeia = {
-			color = { 0.44 0.39 0.33 }
-			icon = nousthreskeia
-			
-			doctrine = tenet_gnosticism
-			doctrine = tenet_asceticism
-			doctrine = tenet_adaptive
-		}
-	}
 }
