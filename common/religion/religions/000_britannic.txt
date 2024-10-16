@@ -1,0 +1,260 @@
+﻿britannic_religion = {
+	family = rf_anachronous
+	graphical_faith = britannic_religion_gfx
+	doctrine = anachronous_hostility_doctrine
+
+	# KEEP IN MIND - THESE DOCTRINES AND LOCALIZATION ARE FOR WAVERULER. FUTURE BRITISH FAITHS WILL LIKELY NOT USE THESE
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_pilgrimage_encouraged
+	
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+
+	#Adoption
+	doctrine = doctrine_ao_adoption_prevalence_uncommon
+	doctrine = doctrine_ao_adoption_type_familial
+	doctrine = doctrine_ao_adoption_target_young_adult
+	
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_female_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_appointment
+	doctrine = doctrine_building_temple_civic
+	doctrine = doctrine_funeral_water_burial
+	
+
+	doctrine = special_doctrine_is_britannic_faith
+
+	traits = {
+		virtues = { forder loyal brave stubborn calm }
+		sins = { craven fickle impatient }
+	}
+
+	custom_faith_icons = {
+		custom1 custom2 custom3 custom4 custom5 custom6 custom7 custom8 custom9 custom10 custom11 custom12 custom13 custom14 custom15 custom16 custom17 custom18 custom19 custom20 custom21 custom22 custom23 custom24 custom25 custom26 custom27 custom28 custom29 custom30 custom31 custom32 custom33 custom34 custom35 custom36 custom37 custom38 custom39 custom40 custom41 custom42 custom43 custom44 custom45 custom46 custom47 custom48 custom49 custom50 custom51 custom52 custom53 custom54 custom55 custom56 custom57 custom58 custom59 custom60 custom61 custom62 custom63 custom64 custom65 custom66 custom67 custom68 custom69 custom70 custom71 custom72 custom73 custom74 custom75 custom76 custom77 custom78 custom79 custom80 custom81 custom82 custom83 custom84 custom85 custom86 custom87 custom88 custom89 custom90 custom91 custom92 custom93 custom94 custom95 custom96 custom97 custom98 custom99 custom100 custom101 custom102 custom103 custom104 custom105 custom106 custom107 custom108 custom109 custom110 custom111 custom112 custom113 custom114 custom115 custom116 custom117 custom118 custom119 custom120 custom121 custom122 custom123 custom124 custom125 custom126 custom127 custom128 custom129 custom130 custom131 custom132 custom133 custom134 custom135 custom136 custom137 custom138 custom139 custom140 custom141 custom142 custom143 custom144 custom145 custom146 custom147 custom148 custom149 custom150 custom151 custom152 custom153 custom154 custom155 custom156 custom157 custom158 custom159 custom160 custom161 custom162 custom163 custom164 custom165 custom166 custom167 custom168 custom169 custom170 custom171 custom172 custom173 custom174 custom175 custom176 custom177 custom178 custom179 custom180 custom181 custom182 custom183 custom184 custom185 custom186 custom187 custom188 custom189 custom190 custom191 custom192 custom193 custom194 custom195 custom196 custom197 custom198 custom199 custom200 custom201 custom202 custom203 custom204 custom205 custom206 custom207 custom208 custom209 custom210 custom211 custom212 custom213 custom214 custom215 custom216 custom217 custom218 custom219 custom220 custom221 custom222 custom223 custom224 custom225 custom226 custom227 custom228 custom229 custom230 custom231 custom232 custom233 custom234 custom235 custom236 custom237 custom238 custom239 custom240 custom241 custom242 custom243 custom244 custom245 custom246 custom247 custom248 custom249 custom250 custom251 custom252 custom253 custom254 custom255 custom256 custom257 custom258 custom259 custom260 custom261 custom262 custom263
+    }
+
+	holy_order_names = {
+		{ name = "holy_order_royal_marines" }
+		{ name = "holy_order_british_commandos" }
+	}
+
+	holy_order_maa = { bush_hunter }
+
+	reserved_male_names = {
+		Beagle Charles Cook Dickens Disraeli Drake Dreadnought Earl Fitz George Gladstone Horatio Icenii Nelson Peel Pitt Sandwich Shire Sidney Sir Stanley Tommy Tory Viscount Whig
+	}
+	
+	reserved_female_names = {
+		Albia Anglia Anne Annevictoria Atropos Boudica Britannia Catherine Elisa Elizabeth Georgia Haitchemess Hermajesties Lady Liz London Margaret Mary Maryrose Pallas Peggy Pheobe Pride Royalnavy Rule Scatha Scotia Sidney Sophie Vicountess Victoria Virginia
+	}
+
+	localization = {
+		#HighGodName
+		HighGodName = waveruler_high_god_name
+		HighGodNamePossessive = waveruler_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameAlternate = waveruler_high_god_alternate
+		HighGodNameAlternatePossessive = waveruler_high_god_alternate_possessive
+
+		#Creator
+		CreatorName = waveruler_creator_god_name
+		CreatorNamePossessive = waveruler_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = waveruler_health_god_name
+		HealthGodNamePossessive = waveruler_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = waveruler_fertility_god_name
+		FertilityGodNamePossessive = waveruler_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = waveruler_wealth_god_name
+		WealthGodNamePossessive = waveruler_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_SHE
+		WealthGodHerHis = CHARACTER_HERHIS_HER
+		WealthGodHerHim = CHARACTER_HERHIM_HER
+
+		#HouseholdGod
+		HouseholdGodName = waveruler_household_god_name
+		HouseholdGodNamePossessive = waveruler_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = waveruler_fate_god_name
+		FateGodNamePossessive = waveruler_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_SHE
+		FateGodHerHis = CHARACTER_HERHIS_HER
+		FateGodHerHim = CHARACTER_HERHIM_HER
+
+		#KnowledgeGod
+		KnowledgeGodName = waveruler_knowledge_god_name
+		KnowledgeGodNamePossessive = waveruler_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = waveruler_war_god_name
+		WarGodNamePossessive = waveruler_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_SHE
+		WarGodHerHis = CHARACTER_HERHIS_HER
+		WarGodHerHim = CHARACTER_HERHIM_HER
+
+		#TricksterGod
+		TricksterGodName = waveruler_trickster_god_name
+		TricksterGodNamePossessive = waveruler_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_SHE
+		TricksterGodHerHis = CHARACTER_HERHIS_HER
+		TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+		#NightGod
+		NightGodName = waveruler_night_god_name
+		NightGodNamePossessive = waveruler_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_SHE
+		NightGodHerHis = CHARACTER_HERHIS_HER
+		NightGodHerHim = CHARACTER_HERHIM_HER
+
+		#WaterGod
+		WaterGodName = waveruler_water_god_name
+		WaterGodNamePossessive = waveruler_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+		PantheonTerm = waveruler_divine_realm
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			waveruler_high_god_name
+			waveruler_creator_god_name
+			waveruler_fertility_god_name
+			waveruler_wealth_god_name
+		}
+		DevilName = waveruler_devil_name
+		DevilNamePossessive = waveruler_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = CHARACTER_THEMSELF
+		EvilGodNames = {
+			waveruler_devil_name
+		}
+		HouseOfWorship = waveruler_house_of_worship
+		HouseOfWorshipPlural = waveruler_house_of_worship_plural
+		ReligiousSymbol = waveruler_religious_symbol
+		ReligiousText = waveruler_religious_text
+		ReligiousHeadName = waveruler_religious_head_title
+		ReligiousHeadTitleName = waveruler_religious_head_title_name
+		DevoteeMale = waveruler_devotee
+		DevoteeMalePlural = waveruler_devotee_plural
+		DevoteeFemale = waveruler_devotee_female
+		DevoteeFemalePlural = waveruler_devotee_female_plural
+		DevoteeNeuter = waveruler_devotee
+		DevoteeNeuterPlural = waveruler_devotee_plural
+		PriestMale = waveruler_priest_male
+		PriestMalePlural = waveruler_priest_male_plural
+		PriestFemale = waveruler_priest_female
+		PriestFemalePlural = waveruler_priest_female_plural
+		PriestNeuter = waveruler_priest_male
+		PriestNeuterPlural = waveruler_priest_male_plural
+		AltPriestTermPlural = waveruler_priest_male_plural
+		BishopMale = waveruler_bishop_male
+		BishopMalePlural = waveruler_bishop_male_plural
+		BishopFemale = waveruler_bishop_female
+		BishopFemalePlural = waveruler_bishop_female_plural
+		BishopNeuter = waveruler_bishop_male
+		BishopNeuterPlural = waveruler_bishop_male_plural
+		DivineRealm = waveruler_divine_realm
+		PositiveAfterLife = waveruler_positive_afterlife
+		NegativeAfterLife = waveruler_negative_afterlife
+		DeathDeityName = waveruler_death_deity_name
+		DeathDeityNamePossessive = waveruler_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_SHE
+		DeathDeityHerHis = CHARACTER_HERHIS_HER
+		DeathDeityHerHim = CHARACTER_HERHIM_HER
+		WitchGodName = waveruler_witchgod
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = mistress
+		WitchGodMotherFather = mother
+
+
+		GHWName = ghw_imperial_expansion
+		GHWNamePlural = ghw_imperial_expansions
+	}
+
+	faiths = {
+		waveruler = {
+			color = { 255 30 30 } 
+
+			icon = waveruler
+			reformed_icon = waveruler_reformed
+
+			pagan_roots = yes
+			
+			holy_site = stanley
+			holy_site = port_howard
+			holy_site = buenos_aires
+			holy_site = trelew
+			holy_site = bahia_thetis
+			holy_site = rio_gallegos
+			
+
+			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_cthonic_redoubts
+			doctrine = tenet_shoreline_reverence
+		}
+		
+		glorian = {
+			color = { 200 16 46 }
+			icon = glorian
+			
+			doctrine = tenet_esotericism
+			doctrine = tenet_religious_legal_pronouncements
+			doctrine = tenet_astrology
+		}
+		thelema = {
+			color = { 134 66 165 }
+			icon = thelema
+			
+			doctrine = tenet_esotericism
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_polyamory
+		}
+	}
+}
