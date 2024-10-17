@@ -1,0 +1,10 @@
+﻿d_nousthreskeia = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 212 227 254 }
+	color2=white
+}
+d_glorian = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 102 120 102 }
+	color2=red
+}

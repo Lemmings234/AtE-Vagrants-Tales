@@ -243,10 +243,46 @@
 		glorian = {
 			color = { 200 16 46 }
 			icon = glorian
+			religious_head = d_glorian
 			
 			doctrine = tenet_esotericism
 			doctrine = tenet_religious_legal_pronouncements
 			doctrine = tenet_astrology
+			
+			#Glorian
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_righteous
+			doctrine = doctrine_theocracy_temporal
+			doctrine = doctrine_pilgrimage_encouraged
+			
+			#Marriage
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_cousins
+
+			#Adoption
+			doctrine = doctrine_ao_adoption_prevalence_uncommon
+			doctrine = doctrine_ao_adoption_type_familial
+			doctrine = doctrine_ao_adoption_target_young_adult
+			
+
+			#Crimes
+			doctrine = doctrine_homosexuality_indifferent
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_witchcraft_accepted
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			doctrine = doctrine_building_temple_civic
+			doctrine = doctrine_funeral_water_burial
 		}
 		thelema = {
 			color = { 134 66 165 }

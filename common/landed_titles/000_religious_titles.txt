@@ -1,0 +1,34 @@
+﻿d_nousthreskeia = {
+	color={ 204 229 255 }
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = no
+	
+	capital = c_juneau
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+}
+d_glorian = {
+	color={ 102 120 102 }
+	
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = no
+	
+	capital = c_boston
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	destroy_if_invalid_heir = yes
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+}
