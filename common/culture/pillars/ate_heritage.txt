@@ -1530,7 +1530,7 @@ heritage_yamato = {
 	}
 	parameters = {
 		heritage_group_yamato = yes
-		heritage_family_japonic = yes
+		heritage_family_japonic_fam = yes
 	}
 	audio_parameter = european
 }
@@ -1568,7 +1568,7 @@ heritage_novorusskiy = {
 		}
 	}
 	parameters = {
-		heritage_group_russian = yes
+		heritage_group_russian_group = yes
 		heritage_family_slavic = yes
 	}
 	audio_parameter = european

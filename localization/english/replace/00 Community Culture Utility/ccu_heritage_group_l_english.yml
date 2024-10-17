@@ -57,4 +57,4 @@ culture_parameter_heritage_group_texan:0 "#P +[EmptyScope.ScriptValue('same_heri
 culture_parameter_heritage_group_trans_appalachian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Trans-Appalachian [heritage_group|E]"
 culture_parameter_heritage_group_western_coast:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Western-Coast [heritage_group|E]"
 culture_parameter_heritage_group_yamato:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Yamato [heritage_group|E]"
-culture_parameter_heritage_group_russian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Russian [heritage_group|E]"
+culture_parameter_heritage_group_russian_group:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Russian [heritage_group|E]"
