@@ -5,6 +5,19 @@
 }
 d_glorian = {
 	pattern="pattern_solid.dds"
-	color1=rgb { 102 120 102 }
-	color2=red
+	color1="red"
+	
+	sub = {
+		parent = "k_england_norman" 
+		instance = { scale = { 0.5 0.5 } offset = { 0.0 0.0 } } # top left
+		instance = { scale = { 0.5 0.5 } offset = { 0.5 0.5 } } # bottom right
+	} 
+	sub = {
+		parent = "k_scotland" 
+		instance = { scale = { 0.5 0.5 } offset = { 0.5 0.0 } } # top right
+	} 
+	sub = {
+		parent = "k_ireland" 
+		instance = { scale = { 0.5 0.5 } offset = { 0.0 0.5 } } # bottom left
+	} 
 }
