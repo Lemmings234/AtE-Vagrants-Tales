@@ -90,7 +90,7 @@ ccu_initialize_heritage_family = {
 	else_if = { limit = { has_cultural_parameter = heritage_family_polynesian } set_variable = { name = heritage_family value = flag:polynesian } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_arabic } set_variable = { name = heritage_family value = flag:arabic } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_japonic_fam } set_variable = { name = heritage_family value = flag:japonic_fam } }
-	else_if = { limit = { has_cultural_parameter = heritage_family_slavic } set_variable = { name = heritage_family value = flag:slavic } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_slavic_fam } set_variable = { name = heritage_family value = flag:slavic_fam } }
 }
 
 

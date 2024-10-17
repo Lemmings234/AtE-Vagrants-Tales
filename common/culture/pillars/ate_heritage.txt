@@ -1569,7 +1569,7 @@ heritage_novorusskiy = {
 	}
 	parameters = {
 		heritage_group_russian_group = yes
-		heritage_family_slavic = yes
+		heritage_family_slavic_fam = yes
 	}
 	audio_parameter = european
 }
