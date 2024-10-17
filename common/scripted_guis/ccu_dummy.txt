@@ -276,7 +276,7 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:pueblo } set_variable = { name = temp value = flag:pueblo } }
 		if = { limit = { var:temp = flag:sequoyan } set_variable = { name = temp value = flag:sequoyan } }
 		if = { limit = { var:temp = flag:russian_group } set_variable = { name = temp value = flag:russian_group } }
-		if = { limit = { var:temp = flag:slavic } set_variable = { name = temp value = flag:slavic } }
+		if = { limit = { var:temp = flag:slavic_fam } set_variable = { name = temp value = flag:slavic_fam } }
 		if = { limit = { var:temp = flag:yamato } set_variable = { name = temp value = flag:yamato } }
 		if = { limit = { var:temp = flag:japonic_fam } set_variable = { name = temp value = flag:japonic_fam } }
 		if = { limit = { var:temp = flag:pacific_islander } set_variable = { name = temp value = flag:pacific_islander } }
