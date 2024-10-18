@@ -1,7 +1,10 @@
 ﻿d_nousthreskeia = {
 	pattern="pattern_solid.dds"
 	color1=rgb { 212 227 254 }
-	color2=white
+	
+	textured_emblem = {
+		texture = "d_nousthreskeia.dds"
+	}
 }
 d_glorian = {
 	pattern="pattern_solid.dds"
