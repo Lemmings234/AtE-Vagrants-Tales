@@ -284,13 +284,5 @@
 			doctrine = doctrine_building_temple_civic
 			doctrine = doctrine_funeral_water_burial
 		}
-		thelema = {
-			color = { 134 66 165 }
-			icon = thelema
-			
-			doctrine = tenet_esotericism
-			doctrine = tenet_pursuit_of_power
-			doctrine = tenet_polyamory
-		}
 	}
 }

@@ -1,0 +1,15 @@
+﻿e_redcoat_dominion = {
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+	
+	sub = {
+		parent = "e_united_kingdom"
+		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_cross_thinnest.dds"
+		color1=color3
+		color2=color3
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}

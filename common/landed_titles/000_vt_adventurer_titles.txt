@@ -1,6 +1,6 @@
-﻿# d_redcoats_band = {
-	#
-# }
+﻿d_redcoat_band = {
+	
+}
 # d_edokko_band = {
 	#
 # }

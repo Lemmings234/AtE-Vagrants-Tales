@@ -1,0 +1,9 @@
+﻿e_redcoat_dominion = {
+	
+}
+# e_new_russia = {
+	
+# }
+# e_edokko = {
+	
+# }
