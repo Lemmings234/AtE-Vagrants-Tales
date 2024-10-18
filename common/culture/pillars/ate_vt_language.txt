@@ -1,0 +1,224 @@
+﻿language_anglish = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_anglish
+        }
+    }
+    parameters = {
+        language_group_atlantic = yes
+        language_family_englic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_anglish }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_englic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 207 20 43 }
+}
+language_scots = {
+	type = language
+	is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_scots
+        }
+    }
+    parameters = {
+        language_group_atlantic = yes
+        language_family_englic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_scots }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_atlantic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_englic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 0 36 125 }
+}
+language_gaelige = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_gaelige
+        }
+    }
+    parameters = {
+        language_group_goidelic = yes
+        language_family_celtic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_gaelige }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_goidelic }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_celtic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 22 155 98 }
+}
+language_nihongo = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_nihongo
+        }
+    }
+    parameters = {
+        language_group_japanese = yes
+        language_family_japonic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_nihongo }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_japanese }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_japonic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 188 0 45 }
+}
+language_darija = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_darija
+        }
+    }
+    parameters = {
+        language_group_north_african = yes
+        language_family_arabic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_darija }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_north_african }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_arabic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}
+language_hawaiian = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_hawaiian
+        }
+    }
+    parameters = {
+        language_group_marquesan = yes
+        language_family_polynesian = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_hawaiian }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_marquesan }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_polynesian }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}
+language_rapanui = {
+	type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_rapanui
+        }
+    }
+    parameters = {
+        language_group_eastern_polynesian = yes
+        language_family_polynesian = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_rapanui }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_eastern_polynesian }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_polynesian }
+            multiply = same_language_family_choice_factor
+        }
+    }
+	color = { 193 39 45 }
+}
+language_russian = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_russian
+        }
+    }
+    parameters = {
+        language_group_russian = yes
+        language_family_slavic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_russian }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_russian }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_slavic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 30 112 206 }
+}

@@ -1,0 +1,65 @@
+﻿heritage_britannic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_britannic
+		}
+	}
+	parameters = {
+		heritage_group_britannic = yes
+		heritage_family_european = yes
+	}
+	audio_parameter = european
+}
+heritage_yamato = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_yamato
+		}
+	}
+	parameters = {
+		heritage_group_yamato = yes
+		heritage_family_japonic_fam = yes
+	}
+	audio_parameter = european
+}
+heritage_maghrebi = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_maghrebi
+		}
+	}
+	parameters = {
+		heritage_group_north_african = yes
+		heritage_family_arabic = yes
+	}
+	audio_parameter = european
+}
+heritage_polynesian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_polynesian
+		}
+	}
+	parameters = {
+		heritage_group_pacific_islander = yes
+		heritage_family_polynesian = yes
+	}
+	audio_parameter = european
+}
+heritage_novorusskiy = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_novorusskiy
+		}
+	}
+	parameters = {
+		heritage_group_russian_group = yes
+		heritage_family_slavic_fam = yes
+	}
+	audio_parameter = european
+}
