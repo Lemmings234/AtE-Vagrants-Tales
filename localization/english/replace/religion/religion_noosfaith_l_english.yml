@@ -44,13 +44,13 @@ nousthreskeia_war_god_name_possessive:0 "'s"
 nousthreskeia_trickster_god_name:0 ""
 nousthreskeia_trickster_god_name_possessive:0 "'s"
 
-nousthreskeia_night_god_name:0 ""
-nousthreskeia_night_god_name_possessive:0 "'s"
+nousthreskeia_night_god_name:0 "Deneb"
+nousthreskeia_night_god_name_possessive:0 "Deneb's"
 
 nousthreskeia_water_god_name:0 ""
 nousthreskeia_water_god_name_possessive:0 "'s"
 
-nousthreskeia_pantheon:0 ""
+nousthreskeia_pantheon:0 "The Noosphere"
 
 nousthreskeia_devil_name:0 "The Dark One"
 nousthreskeia_devil_name_possessive:0 "The Dark One's"
@@ -59,10 +59,10 @@ nousthreskeia_evil_god_name:0 "The Dark One"
 
 nousthreskeia_house_of_worship:0 "jinja"
 nousthreskeia_house_of_worship_plural:0 "jinjas"
-nousthreskeia_religious_symbol:0 ""
+nousthreskeia_religious_symbol:0 "The Noosphere"
 nousthreskeia_religious_text:0 "Cosmogenesis"
-nousthreskeia_religious_head_title:0 ""
-nousthreskeia_religious_head_title_name:0 ""
+nousthreskeia_religious_head_title:0 "Gubyenator"
+nousthreskeia_religious_head_title_name:0 "Gubyenator"
 
 nousthreskeia_devotee:0 "Nousthreskeia"
 nousthreskeia_devotee_plural:0 "Nousthreskeias"
