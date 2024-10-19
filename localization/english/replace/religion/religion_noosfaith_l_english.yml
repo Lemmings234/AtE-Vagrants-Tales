@@ -1,11 +1,5 @@
 ﻿l_english:
 
-noosfaith_religion:0 "Noosfaith"
-noosfaith_religion_adj:0 "Noosfaith"
-noosfaith_religion_adherent:0 "Noosfaith"
-noosfaith_religion_adherent_plural:0 "Noosfaith"
-noosfaith_religion_desc:0 "The Noosfaith religion consists of the belief of the Noosphere as the central tenet of the faith. This faith originates from the Far Eastern region of Siberia brought by Russians and find its way to adapt to its new land."
-
 nousthreskeia:0 "Nousthreskeia"
 nousthreskeia_adj:0 "Nousthreskeia"
 nousthreskeia_adherent:0 "Nousthreskeia"
@@ -17,38 +11,38 @@ nousthreskeia_high_god_name_possessive:0 "The Noosphere's"
 nousthreskeia_high_god_name_alternate:0 "The Noosphere"
 nousthreskeia_high_god_name_alternate_possessive:0 "The Noosphere's"
 
-nousthreskeia_creator_god_name:0 ""
-nousthreskeia_creator_god_name_possessive:0 "'s"
+nousthreskeia_creator_god_name:0 "The Noosphere"
+nousthreskeia_creator_god_name_possessive:0 "The Noosphere's"
 
-nousthreskeia_health_god_name:0 ""
-nousthreskeia_health_god_name_possessive:0 "'s"
+nousthreskeia_health_god_name:0 "The Wish Granter"
+nousthreskeia_health_god_name_possessive:0 "The Wish Granter's"
 
-nousthreskeia_fertility_god_name:0 ""
-nousthreskeia_fertility_god_name_possessive:0 "'s"
+nousthreskeia_fertility_god_name:0 "The Wish Granter"
+nousthreskeia_fertility_god_name_possessive:0 "The Wish Granter's"
 
-nousthreskeia_wealth_god_name:0 ""
-nousthreskeia_wealth_god_name_possessive:0 "'s"
+nousthreskeia_wealth_god_name:0 "The Wish Granter"
+nousthreskeia_wealth_god_name_possessive:0 "The Wish Granter's"
 
-nousthreskeia_household_god_name:0 ""
-nousthreskeia_household_god_name_possessive:0 "'s"
+nousthreskeia_household_god_name:0 "The Monolith"
+nousthreskeia_household_god_name_possessive:0 "The Monolith's"
 
-nousthreskeia_fate_god_name:0 ""
-nousthreskeia_fate_god_name_possessive:0 "'s"
+nousthreskeia_fate_god_name:0 "The Golden Sphere"
+nousthreskeia_fate_god_name_possessive:0 "The Golden Sphere's"
 
-nousthreskeia_knowledge_god_name:0 ""
-nousthreskeia_knowledge_god_name_possessive:0 "'s"
+nousthreskeia_knowledge_god_name:0 "The Wish Granter"
+nousthreskeia_knowledge_god_name_possessive:0 "The Wish Granter's"
 
-nousthreskeia_war_god_name:0 ""
-nousthreskeia_war_god_name_possessive:0 "'s"
+nousthreskeia_war_god_name:0 "The Monolith"
+nousthreskeia_war_god_name_possessive:0 "The Monolith's"
 
-nousthreskeia_trickster_god_name:0 ""
-nousthreskeia_trickster_god_name_possessive:0 "'s"
+nousthreskeia_trickster_god_name:0 "The Wish Granter"
+nousthreskeia_trickster_god_name_possessive:0 "The Wish Granter's"
 
 nousthreskeia_night_god_name:0 "Deneb"
 nousthreskeia_night_god_name_possessive:0 "Deneb's"
 
-nousthreskeia_water_god_name:0 ""
-nousthreskeia_water_god_name_possessive:0 "'s"
+nousthreskeia_water_god_name:0 "The Monolith"
+nousthreskeia_water_god_name_possessive:0 "The Monolith's"
 
 nousthreskeia_pantheon:0 "The Noosphere"
 
@@ -57,27 +51,30 @@ nousthreskeia_devil_name_possessive:0 "The Dark One's"
 
 nousthreskeia_evil_god_name:0 "The Dark One"
 
-nousthreskeia_house_of_worship:0 "jinja"
-nousthreskeia_house_of_worship_plural:0 "jinjas"
+nousthreskeia_house_of_worship:0 "laboratory"
+nousthreskeia_house_of_worship_plural:0 "laboratory"
 nousthreskeia_religious_symbol:0 "The Noosphere"
 nousthreskeia_religious_text:0 "Cosmogenesis"
 nousthreskeia_religious_head_title:0 "Gubyenator"
 nousthreskeia_religious_head_title_name:0 "Gubyenator"
 
-nousthreskeia_devotee:0 "Nousthreskeia"
-nousthreskeia_devotee_plural:0 "Nousthreskeias"
+nousthreskeia_devotee:0 "Nousthrestkeists"
+nousthreskeia_devotee_plural:0 "Nousthrestkeists"
 
-nousthreskeia_priest:0 "preacher"
-nousthreskeia_priest_plural:0 "preachers"
+nousthreskeia_priest_neuter:0 "preacher"
+nousthreskeia_priest_neuter_plural:0 "preachers"
 nousthreskeia_bishop:0 "preachers"
 nousthreskeia_bishop_plural:0 "preachers"
 
-nousthreskeia_divine_realm:0 ""
-nousthreskeia_positive_afterlife:0 ""
-nousthreskeia_negative_afterlife:0 ""
+nousthreskeia_divine_realm:0 "The Golden Sphere"
+nousthreskeia_positive_afterlife:0 "Light"
+nousthreskeia_negative_afterlife:0 "Darkness"
 
-nousthreskeia_death_deity_name:0 ""
-nousthreskeia_death_deity_name_possessive:0 ""
+nousthreskeia_death_deity_name:0 "The Dark One"
+nousthreskeia_death_deity_name_possessive:0 "The Dark One's"
+
+nousthreskeia_witch_god_name:0 "The Wish Granter"
+nousthreskeia_witch_god_name_possessive:0 "The Wish Granter's"
 
 ghw_nousthreskeia:0 "Great Holy War"
 ghws_nousthreskeia:0 "Great Holy Wars"
