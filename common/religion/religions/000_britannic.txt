@@ -283,6 +283,151 @@
 			doctrine = doctrine_clerical_succession_spiritual_appointment
 			doctrine = doctrine_building_temple_civic
 			doctrine = doctrine_funeral_water_burial
+			
+			localization = {
+				#HighGodName
+				HighGodName = glorian_high_god_name
+				HighGodNamePossessive = glorian_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_SHE
+				HighGodHerselfHimself = CHARACTER_HERSELF
+				HighGodHerHis = CHARACTER_HERHIS_HER
+				HighGodNameAlternate = glorian_high_god_alternate
+				HighGodNameAlternatePossessive = glorian_high_god_alternate_possessive
+
+				#Creator
+				CreatorName = glorian_creator_god_name
+				CreatorNamePossessive = glorian_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = glorian_health_god_name
+				HealthGodNamePossessive = glorian_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+				
+				#FertilityGod
+				FertilityGodName = glorian_fertility_god_name
+				FertilityGodNamePossessive = glorian_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = glorian_wealth_god_name
+				WealthGodNamePossessive = glorian_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#HouseholdGod
+				HouseholdGodName = glorian_household_god_name
+				HouseholdGodNamePossessive = glorian_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = glorian_fate_god_name
+				FateGodNamePossessive = glorian_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_SHE
+				FateGodHerHis = CHARACTER_HERHIS_HER
+				FateGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = glorian_knowledge_god_name
+				KnowledgeGodNamePossessive = glorian_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = glorian_war_god_name
+				WarGodNamePossessive = glorian_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#TricksterGod
+				TricksterGodName = glorian_trickster_god_name
+				TricksterGodNamePossessive = glorian_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_SHE
+				TricksterGodHerHis = CHARACTER_HERHIS_HER
+				TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = glorian_night_god_name
+				NightGodNamePossessive = glorian_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = glorian_water_god_name
+				WaterGodNamePossessive = glorian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+				PantheonTerm = glorian_divine_realm
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					glorian_high_god_name
+					glorian_creator_god_name
+					glorian_fertility_god_name
+					glorian_wealth_god_name
+				}
+				DevilName = glorian_devil_name
+				DevilNamePossessive = glorian_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_THEY
+				DevilHerHis = CHARACTER_HERHIS_THEIR
+				DevilHerselfHimself = CHARACTER_THEMSELF
+				EvilGodNames = {
+					glorian_devil_name
+				}
+				HouseOfWorship = glorian_house_of_worship
+				HouseOfWorshipPlural = glorian_house_of_worship_plural
+				ReligiousSymbol = glorian_religious_symbol
+				ReligiousText = glorian_religious_text
+				ReligiousHeadName = glorian_religious_head_title
+				ReligiousHeadTitleName = glorian_religious_head_title_name
+				DevoteeMale = glorian_devotee
+				DevoteeMalePlural = glorian_devotee_plural
+				DevoteeFemale = glorian_devotee_female
+				DevoteeFemalePlural = glorian_devotee_female_plural
+				DevoteeNeuter = glorian_devotee
+				DevoteeNeuterPlural = glorian_devotee_plural
+				PriestMale = glorian_priest_male
+				PriestMalePlural = glorian_priest_male_plural
+				PriestFemale = glorian_priest_female
+				PriestFemalePlural = glorian_priest_female_plural
+				PriestNeuter = glorian_priest_male
+				PriestNeuterPlural = glorian_priest_male_plural
+				AltPriestTermPlural = glorian_priest_male_plural
+				BishopMale = glorian_bishop_male
+				BishopMalePlural = glorian_bishop_male_plural
+				BishopFemale = glorian_bishop_female
+				BishopFemalePlural = glorian_bishop_female_plural
+				BishopNeuter = glorian_bishop_male
+				BishopNeuterPlural = glorian_bishop_male_plural
+				DivineRealm = glorian_divine_realm
+				PositiveAfterLife = glorian_positive_afterlife
+				NegativeAfterLife = glorian_negative_afterlife
+				DeathDeityName = glorian_death_deity_name
+				DeathDeityNamePossessive = glorian_death_deity_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_SHE
+				DeathDeityHerHis = CHARACTER_HERHIS_HER
+				DeathDeityHerHim = CHARACTER_HERHIM_HER
+				WitchGodName = glorian_witchgod
+				WitchGodHerHis = CHARACTER_HERHIS_HIS
+				WitchGodSheHe = CHARACTER_SHEHE_HE
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = mistress
+				WitchGodMotherFather = mother
+			}
 		}
 	}
 }
