@@ -387,6 +387,9 @@
 				DevilHerselfHimself = CHARACTER_THEMSELF
 				EvilGodNames = {
 					glorian_devil_name
+					glorian_death_deity_name
+					glorian_trickster_god_name
+					glorian_witchgod
 				}
 				HouseOfWorship = glorian_house_of_worship
 				HouseOfWorshipPlural = glorian_house_of_worship_plural
@@ -418,13 +421,13 @@
 				NegativeAfterLife = glorian_negative_afterlife
 				DeathDeityName = glorian_death_deity_name
 				DeathDeityNamePossessive = glorian_death_deity_name_possessive
-				DeathDeitySheHe = CHARACTER_SHEHE_SHE
-				DeathDeityHerHis = CHARACTER_HERHIS_HER
-				DeathDeityHerHim = CHARACTER_HERHIM_HER
+				DeathDeitySheHe = CHARACTER_SHEHE_IT
+				DeathDeityHerHis = CHARACTER_HERHIS_ITS
+				DeathDeityHerHim = CHARACTER_HERHIM_IT
 				WitchGodName = glorian_witchgod
-				WitchGodHerHis = CHARACTER_HERHIS_HIS
-				WitchGodSheHe = CHARACTER_SHEHE_HE
-				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodHerHis = CHARACTER_HERHIS_HER
+				WitchGodSheHe = CHARACTER_SHEHE_SHE
+				WitchGodHerHim = CHARACTER_HERHIM_HER
 				WitchGodMistressMaster = mistress
 				WitchGodMotherFather = mother
 			}
