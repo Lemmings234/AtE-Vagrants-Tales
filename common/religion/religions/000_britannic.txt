@@ -311,16 +311,16 @@
 				#FertilityGod
 				FertilityGodName = glorian_fertility_god_name
 				FertilityGodNamePossessive = glorian_fertility_god_name_possessive
-				FertilityGodSheHe = CHARACTER_SHEHE_SHE
-				FertilityGodHerHis = CHARACTER_HERHIS_HER
-				FertilityGodHerHim = CHARACTER_HERHIM_HER
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WealthGod
 				WealthGodName = glorian_wealth_god_name
 				WealthGodNamePossessive = glorian_wealth_god_name_possessive
-				WealthGodSheHe = CHARACTER_SHEHE_SHE
-				WealthGodHerHis = CHARACTER_HERHIS_HER
-				WealthGodHerHim = CHARACTER_HERHIM_HER
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 				#HouseholdGod
 				HouseholdGodName = glorian_household_god_name
@@ -346,9 +346,9 @@
 				#WarGod
 				WarGodName = glorian_war_god_name
 				WarGodNamePossessive = glorian_war_god_name_possessive
-				WarGodSheHe = CHARACTER_SHEHE_SHE
-				WarGodHerHis = CHARACTER_HERHIS_HER
-				WarGodHerHim = CHARACTER_HERHIM_HER
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
 
 				#TricksterGod
 				TricksterGodName = glorian_trickster_god_name
@@ -360,9 +360,9 @@
 				#NightGod
 				NightGodName = glorian_night_god_name
 				NightGodNamePossessive = glorian_night_god_name_possessive
-				NightGodSheHe = CHARACTER_SHEHE_SHE
-				NightGodHerHis = CHARACTER_HERHIS_HER
-				NightGodHerHim = CHARACTER_HERHIM_HER
+				NightGodSheHe = CHARACTER_SHEHE_THEY
+				NightGodHerHis = CHARACTER_HERHIS_THEIR
+				NightGodHerHim = CHARACTER_HERHIM_THEM
 
 				#WaterGod
 				WaterGodName = glorian_water_god_name
@@ -379,6 +379,11 @@
 					glorian_creator_god_name
 					glorian_fertility_god_name
 					glorian_wealth_god_name
+					glorian_health_god_name
+					glorian_war_god_name
+					glorian_water_god_name
+					glorian_fate_god_name
+					glorian_household_god_name
 				}
 				DevilName = glorian_devil_name
 				DevilNamePossessive = glorian_devil_name_possessive
