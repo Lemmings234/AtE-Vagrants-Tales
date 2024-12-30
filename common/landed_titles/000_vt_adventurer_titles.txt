@@ -10,9 +10,9 @@
 # d_moroccan_band = {
 	#
 # }
-# d_hawaiian_band = {
-	#
-# }
+d_hawaiian_band = {
+	
+}
 # d_rapa_nui_band {
 	#
 # }
