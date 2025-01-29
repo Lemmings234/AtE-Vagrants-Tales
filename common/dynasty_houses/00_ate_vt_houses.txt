@@ -1,0 +1,4 @@
+﻿house_wyvern={
+	name = "dynn_Wyvern"
+	dynasty = dynn_anglish_wyvern
+}

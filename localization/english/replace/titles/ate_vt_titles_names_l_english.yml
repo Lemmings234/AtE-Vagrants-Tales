@@ -8,9 +8,9 @@ d_glorian:0 "Governor Generalship"
 d_glorian_adj:0 "Glorian"
 d_glorian_article:0 "The "
 
-d_redcoat_band:0 "Redcoat Band"
-d_redcoat_band_adj:0 "Redcoat"
-d_redcoat_band_article:0 "The "
+d_laamp_redcoat_band:0 "Redcoat Band"
+d_laamp_redcoat_band_adj:0 "Redcoat"
+d_laamp_redcoat_band_article:0 "The "
 
 e_redcoat_dominion:0 "Redcoat Dominion"
 e_redcoat_dominion_adj:0 "Redcoat"

@@ -1,0 +1,893 @@
+﻿dynn_anglish_abdallah = {
+    name = "dynn_Abdallah"
+    culture = anglish
+}
+dynn_anglish_agyeman = {
+    name = "dynn_Agyeman"
+    culture = anglish
+}
+dynn_anglish_ajayi = {
+    name = "dynn_Ajayi"
+    culture = anglish
+}
+dynn_anglish_wyvern = {
+    name = "dynn_Wyvern"
+    culture = anglish
+}
+dynn_anglish_altamont = {
+    name = "dynn_Altamont"
+    culture = anglish
+}
+dynn_anglish_anglesey = {
+    name = "dynn_Anglesey"
+    culture = anglish
+}
+dynn_anglish_arcton = {
+    name = "dynn_Arcton"
+    culture = anglish
+}
+dynn_anglish_arundell = {
+    name = "dynn_Arundell"
+    culture = anglish
+}
+dynn_anglish_aubyn = {
+    name = "dynn_Aubyn"
+    culture = anglish
+}
+dynn_anglish_azeem = {
+    name = "dynn_Azeem"
+    culture = anglish
+}
+dynn_anglish_bannerman = {
+    name = "dynn_Bannerman"
+    culture = anglish
+}
+dynn_anglish_barrymore = {
+    name = "dynn_Barrymore"
+    culture = anglish
+}
+dynn_anglish_baskerville = {
+    name = "dynn_Baskerville"
+    culture = anglish
+}
+dynn_anglish_basset = {
+    name = "dynn_Basset"
+    culture = anglish
+}
+dynn_anglish_beaufort = {
+    name = "dynn_Beaufort"
+    culture = anglish
+}
+dynn_anglish_bellinger = {
+    name = "dynn_Bellinger"
+    culture = anglish
+}
+dynn_anglish_beresford = {
+    name = "dynn_Beresford"
+    culture = anglish
+}
+dynn_anglish_berkeley = {
+    name = "dynn_Berkeley"
+    culture = anglish
+}
+dynn_anglish_bertram = {
+    name = "dynn_Bertram"
+    culture = anglish
+}
+dynn_anglish_blair = {
+    name = "dynn_Blair"
+    culture = anglish
+}
+dynn_anglish_blathwayt = {
+    name = "dynn_Blathwayt"
+    culture = anglish
+}
+dynn_anglish_bloodworth = {
+    name = "dynn_Bloodworth"
+    culture = anglish
+}
+dynn_anglish_boase = {
+    name = "dynn_Boase"
+    culture = anglish
+}
+dynn_anglish_boateng = {
+    name = "dynn_Boateng"
+    culture = anglish
+}
+dynn_anglish_bolstrood = {
+    name = "dynn_Bolstrood"
+    culture = anglish
+}
+dynn_anglish_bonham_carter = {
+    name = "dynn_Bonham-Carter"
+    culture = anglish
+}
+dynn_anglish_booth = {
+    name = "dynn_Booth"
+    culture = anglish
+}
+dynn_anglish_boscawen = {
+    name = "dynn_Boscawen"
+    culture = anglish
+}
+dynn_anglish_boyce = {
+    name = "dynn_Boyce"
+    culture = anglish
+}
+dynn_anglish_bannerman = {
+    name = "dynn_Bridgeman"
+    culture = anglish
+}
+dynn_anglish_brown = {
+    name = "dynn_Brown"
+    culture = anglish
+}
+dynn_anglish_brunton = {
+    name = "dynn_Brunton"
+    culture = anglish
+}
+dynn_anglish_bullamore = {
+    name = "dynn_Bullamore"
+    culture = anglish
+}
+dynn_anglish_butcher = {
+    name = "dynn_Butcher"
+    culture = anglish
+}
+dynn_anglish_byford = {
+    name = "dynn_Byford"
+    culture = anglish
+}
+dynn_anglish_campbell = {
+    name = "dynn_Campbell"
+    culture = anglish
+}
+dynn_anglish_cardew = {
+    name = "dynn_Cardew"
+    culture = anglish
+}
+dynn_anglish_carlowski = {
+    name = "dynn_Carlowski"
+    culture = anglish
+}
+dynn_anglish_carlyon = {
+    name = "dynn_Carlyon"
+    culture = anglish
+}
+dynn_anglish_cavendish = {
+    name = "dynn_Cavendish"
+    culture = anglish
+}
+dynn_anglish_chard = {
+    name = "dynn_Chard"
+    culture = anglish
+}
+dynn_anglish_chicheley = {
+    name = "dynn_Chicheley"
+    culture = anglish
+}
+dynn_anglish_childers = {
+    name = "dynn_Childers"
+    culture = anglish
+}
+dynn_anglish_fitzspatstone = {
+    name = "dynn_FitzSpatstone"
+    culture = anglish
+}
+dynn_anglish_chowdhury = {
+    name = "dynn_Chowdhury"
+    culture = anglish
+}
+dynn_anglish_christie = {
+    name = "dynn_Christie"
+    culture = anglish
+}
+dynn_anglish_cockayne = {
+    name = "dynn_Cockayne"
+    culture = anglish
+}
+dynn_anglish_compton = {
+    name = "dynn_Compton"
+    culture = anglish
+}
+dynn_anglish_constable = {
+    name = "dynn_Constable"
+    culture = anglish
+}
+dynn_anglish_counsel = {
+    name = "dynn_Counsel"
+    culture = anglish
+}
+dynn_anglish_cowalsky = {
+    name = "dynn_Cowalsky"
+    culture = anglish
+}
+dynn_anglish_crawley = {
+    name = "dynn_Crawley"
+    culture = anglish
+}
+dynn_anglish_darwall = {
+    name = "dynn_Darwall"
+    culture = anglish
+}
+dynn_anglish_dashwood = {
+    name = "dynn_Dashwood"
+    culture = anglish
+}
+dynn_anglish_day_lewis = {
+    name = "dynn_Day-Lewis"
+    culture = anglish
+}
+dynn_anglish_defoe = {
+    name = "dynn_Defoe"
+    culture = anglish
+}
+dynn_anglish_delderfield = {
+    name = "dynn_Delderfield"
+    culture = anglish
+}
+dynn_anglish_desai = {
+    name = "dynn_Desai"
+    culture = anglish
+}
+dynn_anglish_devereux = {
+    name = "dynn_Devereux"
+    culture = anglish
+}
+dynn_anglish_durnford = {
+    name = "dynn_Durnford"
+    culture = anglish
+}
+dynn_anglish_dyson = {
+    name = "dynn_Dyson"
+    culture = anglish
+}
+dynn_anglish_edgcumbe = {
+    name = "dynn_Edgcumbe"
+    culture = anglish
+}
+dynn_anglish_eliot = {
+    name = "dynn_Eliot"
+    culture = anglish
+}
+dynn_anglish_erisey = {
+    name = "dynn_Erisey"
+    culture = anglish
+}
+dynn_anglish_evershed = {
+    name = "dynn_Evershed"
+    culture = anglish
+}
+dynn_anglish_farah = {
+    name = "dynn_Farah"
+    culture = anglish
+}
+dynn_anglish_faudel_philips = {
+    name = "dynn_Faudel-Philips"
+    culture = anglish
+}
+dynn_anglish_featherstonehaugh = {
+    name = "dynn_Featherstonehaugh"
+    culture = anglish
+}
+dynn_anglish_feversham = {
+    name = "dynn_Feversham"
+    culture = anglish
+}
+dynn_anglish_fielding = {
+    name = "dynn_Fielding"
+    culture = anglish
+}
+dynn_anglish_norton = {
+    name = "dynn_Norton"
+    culture = anglish
+}
+dynn_anglish_fowler = {
+    name = "dynn_Fowler"
+    culture = anglish
+}
+dynn_anglish_fox = {
+    name = "dynn_Fox"
+    culture = anglish
+}
+dynn_anglish_frankland = {
+    name = "dynn_Frankland"
+    culture = anglish
+}
+dynn_anglish_gainsborough = {
+    name = "dynn_Gainsborough"
+    culture = anglish
+}
+dynn_anglish_bloodhound = {
+    name = "dynn_Bloodhound"
+    culture = anglish
+}
+dynn_anglish_gorot = {
+    name = "dynn_Gorot"
+    culture = anglish
+}
+dynn_anglish_grantley = {
+    name = "dynn_Grantley"
+    culture = anglish
+}
+dynn_anglish_gregory = {
+    name = "dynn_Gregory"
+    culture = anglish
+}
+dynn_anglish_gregson = {
+    name = "dynn_Gregson"
+    culture = anglish
+}
+dynn_anglish_grenfell = {
+    name = "dynn_Grenfell"
+    culture = anglish
+}
+dynn_anglish_greville = {
+    name = "dynn_Greville"
+    culture = anglish
+}
+dynn_anglish_grigson = {
+    name = "dynn_Grigson"
+    culture = anglish
+}
+dynn_anglish_gurney = {
+    name = "dynn_Gurney"
+    culture = anglish
+}
+dynn_anglish_guyton = {
+    name = "dynn_Guyton"
+    culture = anglish
+}
+dynn_anglish_gwinnet = {
+    name = "dynn_Gwinnet"
+    culture = anglish
+}
+dynn_anglish_gwynn = {
+    name = "dynn_Gwynn"
+    culture = anglish
+}
+dynn_anglish_hakeswill = {
+    name = "dynn_Hakeswill"
+    culture = anglish
+}
+dynn_anglish_hardy = {
+    name = "dynn_Hardy"
+    culture = anglish
+}
+dynn_anglish_harker = {
+    name = "dynn_Harker"
+    culture = anglish
+}
+dynn_anglish_hawley = {
+    name = "dynn_Hawley"
+    culture = anglish
+}
+dynn_anglish_hayward = {
+    name = "dynn_Hayward"
+    culture = anglish
+}
+dynn_anglish_heathcote = {
+    name = "dynn_Heathcote"
+    culture = anglish
+}
+dynn_anglish_heppell = {
+    name = "dynn_Heppell"
+    culture = anglish
+}
+dynn_anglish_herschel = {
+    name = "dynn_Herschel"
+    culture = anglish
+}
+dynn_anglish_hine_haycock = {
+    name = "dynn_Hine-Haycock"
+    culture = anglish
+}
+dynn_anglish_hoare = {
+    name = "dynn_Hoare"
+    culture = anglish
+}
+dynn_anglish_hoblyn = {
+    name = "dynn_Hoblyn"
+    culture = anglish
+}
+dynn_anglish_holdhurst = {
+    name = "dynn_Holdhurst"
+    culture = anglish
+}
+dynn_anglish_hopkins = {
+    name = "dynn_Hopkins"
+    culture = anglish
+}
+dynn_anglish_hornblower = {
+    name = "dynn_Hornblower"
+    culture = anglish
+}
+dynn_anglish_horrocks= {
+    name = "dynn_Horrocks"
+    culture = anglish
+}
+dynn_anglish_howell = {
+    name = "dynn_Howell"
+    culture = anglish
+}
+dynn_anglish_hoxton = {
+    name = "dynn_Hoxton"
+    culture = anglish
+}
+dynn_anglish_hudson = {
+    name = "dynn_Hudson"
+    culture = anglish
+}
+dynn_anglish_hylley = {
+    name = "dynn_Hylley"
+    culture = anglish
+}
+
+dynn_anglish_ingleby = {
+    name = "dynn_Ingleby"
+    culture = anglish
+}
+dynn_anglish_jeffreys = {
+    name = "dynn_Jeffreys"
+    culture = anglish
+}
+dynn_anglish_jenkins = {
+    name = "dynn_Jenkins"
+    culture = anglish
+}
+dynn_anglish_jenner = {
+    name = "dynn_Jenner"
+    culture = anglish
+}
+dynn_anglish_johnson = {
+    name = "dynn_Johnson"
+    culture = anglish
+}
+dynn_anglish_kedward = {
+    name = "dynn_Kedward"
+    culture = anglish
+}
+dynn_anglish_kelly = {
+    name = "dynn_Kelly"
+    culture = anglish
+}
+dynn_anglish_killigrew = {
+    name = "dynn_Killigrew"
+    culture = anglish
+}
+dynn_anglish_korzenioff = {
+    name = "dynn_Korzenioff"
+    culture = anglish
+}
+dynn_anglish_kratides = {
+    name = "dynn_Kratides"
+    culture = anglish
+}
+dynn_anglish_kray = {
+    name = "dynn_Kray"
+    culture = anglish
+}
+dynn_anglish_kynaston = {
+    name = "dynn_Kynaston"
+    culture = anglish
+}
+dynn_anglish_lanner = {
+    name = "dynn_Lanner"
+    culture = anglish
+}
+dynn_anglish_le_neve = {
+    name = "dynn_Le_Neve"
+    culture = anglish
+}
+dynn_anglish_lee = {
+    name = "dynn_Lee"
+    culture = anglish
+}
+dynn_anglish_lestrade = {
+    name = "dynn_Lestrade"
+    culture = anglish
+}
+dynn_anglish_lestrange = {
+    name = "dynn_Lestrange"
+    culture = anglish
+}
+dynn_anglish_lillywhite = {
+    name = "dynn_Lillywhite"
+    culture = anglish
+}
+dynn_anglish_lumley = {
+    name = "dynn_Lumley"
+    culture = anglish
+}
+dynn_anglish_macmillan_khan = {
+    name = "dynn_Macmillan-Khan"
+    culture = anglish
+}
+dynn_anglish_marchant = {
+    name = "dynn_Marchant"
+    culture = anglish
+}
+dynn_anglish_marshall = {
+    name = "dynn_Marshall"
+    culture = anglish
+}
+dynn_anglish_mertyns = {
+    name = "dynn_Mertyns"
+    culture = anglish
+}
+dynn_anglish_milverton = {
+    name = "dynn_Milverton"
+    culture = anglish
+}
+dynn_anglish_morant = {
+    name = "dynn_Morant"
+    culture = anglish
+}
+dynn_anglish_mordaunt = {
+    name = "dynn_Mordaunt"
+    culture = anglish
+}
+dynn_anglish_nancarrow = {
+    name = "dynn_Nancarrow"
+    culture = anglish
+}
+dynn_anglish_neeve = {
+    name = "dynn_Neeve"
+    culture = anglish
+}
+dynn_anglish_neligan = {
+    name = "dynn_Neligan"
+    culture = anglish
+}
+dynn_anglish_okonkwo = {
+    name = "dynn_Okonkwo"
+    culture = anglish
+}
+dynn_anglish_paget = {
+    name = "dynn_Paget"
+    culture = anglish
+}
+dynn_anglish_palmer = {
+    name = "dynn_Palmer"
+    culture = anglish
+}
+dynn_anglish_patch = {
+    name = "dynn_Patch"
+    culture = anglish
+}
+dynn_anglish_pegg = {
+    name = "dynn_Pegg"
+    culture = anglish
+}
+dynn_anglish_phillpotts = {
+    name = "dynn_Phillpotts"
+    culture = anglish
+}
+dynn_anglish_godolphin = {
+    name = "dynn_Godolphin"
+    culture = anglish
+}
+dynn_anglish_pilkington = {
+    name = "dynn_Pilkington"
+    culture = anglish
+}
+dynn_anglish_pitkeathley = {
+    name = "dynn_Pitkeathley"
+    culture = anglish
+}
+dynn_anglish_pitt = {
+    name = "dynn_Pitt"
+    culture = anglish
+}
+dynn_anglish_pollard = {
+    name = "dynn_Pollard"
+    culture = anglish
+}
+dynn_anglish_polwhele = {
+    name = "dynn_Polwhele"
+    culture = anglish
+}
+dynn_anglish_pratchett = {
+    name = "dynn_Pratchett"
+    culture = anglish
+}
+dynn_anglish_prior = {
+    name = "dynn_Prior"
+    culture = anglish
+}
+dynn_anglish_rahman = {
+    name = "dynn_Rahman"
+    culture = anglish
+}
+dynn_anglish_raikes = {
+    name = "dynn_Raikes"
+    culture = anglish
+}
+dynn_anglish_ramkin = {
+    name = "dynn_Ramkin"
+    culture = anglish
+}
+dynn_anglish_ramprakash = {
+    name = "dynn_Ramprakash"
+    culture = anglish
+}
+dynn_anglish_rashleigh = {
+    name = "dynn_Rashleigh"
+    culture = anglish
+}
+dynn_anglish_rawlinson = {
+    name = "dynn_Rawlinson"
+    culture = anglish
+}
+dynn_anglish_redruth = {
+    name = "dynn_Redruth"
+    culture = anglish
+}
+dynn_anglish_reed = {
+    name = "dynn_Reed"
+    culture = anglish
+}
+dynn_anglish_reynardson = {
+    name = "dynn_Reynardson"
+    culture = anglish
+}
+dynn_anglish_reynolds = {
+    name = "dynn_Reynolds"
+    culture = anglish
+}
+dynn_anglish_ridley = {
+    name = "dynn_Ridley"
+    culture = anglish
+}
+dynn_anglish_robartes = {
+    name = "dynn_Robartes"
+    culture = anglish
+}
+dynn_anglish_roland_jones = {
+    name = "dynn_Roland-Jones"
+    culture = anglish
+}
+dynn_anglish_rosenthal = {
+    name = "dynn_Rosenthal"
+    culture = anglish
+}
+dynn_anglish_ross = {
+    name = "dynn_Ross"
+    culture = anglish
+}
+dynn_anglish_roylott = {
+    name = "dynn_Roylott"
+    culture = anglish
+}
+dynn_anglish_rucastle = {
+    name = "dynn_Rucastle"
+    culture = anglish
+}
+dynn_anglish_russell = {
+    name = "dynn_Russell"
+    culture = anglish
+}
+dynn_anglish_sainsbury = {
+    name = "dynn_Sainsbury"
+    culture = anglish
+}
+dynn_anglish_salah = {
+    name = "dynn_Salah"
+    culture = anglish
+}
+dynn_anglish_salomons = {
+    name = "dynn_Salomons"
+    culture = anglish
+}
+dynn_anglish_scawen = {
+    name = "dynn_Scawen"
+    culture = anglish
+}
+dynn_anglish_scott = {
+    name = "dynn_Scott"
+    culture = anglish
+}
+dynn_anglish_shackleton = {
+    name = "dynn_Shackleton"
+    culture = anglish
+}
+dynn_anglish_shaftoe = {
+    name = "dynn_Shaftoe"
+    culture = anglish
+}
+dynn_anglish_shepstone = {
+    name = "dynn_Shepstone"
+    culture = anglish
+}
+dynn_anglish_shoscombe = {
+    name = "dynn_Shoscombe"
+    culture = anglish
+}
+dynn_anglish_sinclair = {
+    name = "dynn_Sinclair"
+    culture = anglish
+}
+dynn_anglish_singh = {
+    name = "dynn_Singh"
+    culture = anglish
+}
+dynn_anglish_snaphance = {
+    name = "dynn_Snaphance"
+    culture = anglish
+}
+dynn_anglish_snow = {
+    name = "dynn_Snow"
+    culture = anglish
+}
+dynn_anglish_spangler = {
+    name = "dynn_Spangler"
+    culture = anglish
+}
+dynn_anglish_spry = {
+    name = "dynn_Spry"
+    culture = anglish
+}
+dynn_anglish_st_clair = {
+    name = "dynn_St_Clair"
+    culture = anglish
+}
+dynn_anglish_stapleton = {
+    name = "dynn_Stapleton"
+    culture = anglish
+}
+dynn_anglish_statham = {
+    name = "dynn_Statham"
+    culture = anglish
+}
+dynn_anglish_straker = {
+    name = "dynn_Straker"
+    culture = anglish
+}
+dynn_anglish_streynsham = {
+    name = "dynn_Streynsham"
+    culture = anglish
+}
+dynn_anglish_symons = {
+    name = "dynn_Symons"
+    culture = anglish
+}
+dynn_anglish_tanfield = {
+    name = "dynn_Tanfield"
+    culture = anglish
+}
+dynn_anglish_templer = {
+    name = "dynn_Templer"
+    culture = anglish
+}
+dynn_anglish_tichborne = {
+    name = "dynn_Tichborne"
+    culture = anglish
+}
+dynn_anglish_tippett_richardson = {
+    name = "dynn_Tippett-Richardson"
+    culture = anglish
+}
+dynn_anglish_townsend = {
+    name = "dynn_Townsend"
+    culture = anglish
+}
+dynn_anglish_traweek = {
+    name = "dynn_Traweek"
+    culture = anglish
+}
+dynn_anglish_trigg = {
+    name = "dynn_Trigg"
+    culture = anglish
+}
+dynn_anglish_trimnell = {
+    name = "dynn_Trimnell"
+    culture = anglish
+}
+dynn_anglish_turner = {
+    name = "dynn_Turner"
+    culture = anglish
+}
+dynn_anglish_tyacke = {
+    name = "dynn_Tyacke"
+    culture = anglish
+}
+dynn_anglish_varma = {
+    name = "dynn_Varma"
+    culture = anglish
+}
+dynn_anglish_vertue = {
+    name = "dynn_Vertue"
+    culture = anglish
+}
+dynn_anglish_villiers = {
+    name = "dynn_Villiers"
+    culture = anglish
+}
+dynn_anglish_vyner = {
+    name = "dynn_Vyner"
+    culture = anglish
+}
+dynn_anglish_wagstaffe = {
+    name = "dynn_Wagstaffe"
+    culture = anglish
+}
+dynn_anglish_wakefield = {
+    name = "dynn_Wakefield"
+    culture = anglish
+}
+dynn_anglish_walton = {
+    name = "dynn_Walton"
+    culture = anglish
+}
+dynn_anglish_warnock = {
+    name = "dynn_Warnock"
+    culture = anglish
+}
+dynn_anglish_waterhouse = {
+    name = "dynn_Waterhouse"
+    culture = anglish
+}
+dynn_anglish_waugh = {
+    name = "dynn_Waugh"
+    culture = anglish
+}
+dynn_anglish_webber = {
+    name = "dynn_Webber"
+    culture = anglish
+}
+dynn_anglish_welch = {
+    name = "dynn_Welch"
+    culture = anglish
+}
+dynn_anglish_welles = {
+    name = "dynn_Welles"
+    culture = anglish
+}
+dynn_anglish_whetter = {
+    name = "dynn_Whetter"
+    culture = anglish
+}
+dynn_anglish_wilberforce = {
+    name = "dynn_Wilberforce"
+    culture = anglish
+}
+dynn_anglish_wimbush = {
+    name = "dynn_Wimbush"
+    culture = anglish
+}
+dynn_anglish_wood = {
+    name = "dynn_Wood"
+    culture = anglish
+}
+dynn_anglish_de_Staunton = {
+    name = "dynn_de_Staunton"
+    culture = anglish
+}
+dynn_anglish_de_stoke_on_trent = {
+    name = "dynn_de_Stoke-on-Trent"
+    culture = anglish
+}
+dynn_anglish_de_walthamstow = {
+    name = "dynn_de_Walthamstow"
+    culture = anglish
+}
+dynn_anglish_de_worde = {
+    name = "dynn_de_Worde"
+    culture = anglish
+}
+dynn_anglish_cholmondeley = {
+    name = "dynn_Cholmondeley"
+    culture = anglish
+}
+dynn_anglish_flamank = {
+    name = "dynn_Flamank"
+    culture = anglish
+}
+dynn_anglish_glasman = {
+    name = "dynn_Glasman"
+    culture = anglish
+}
+dynn_anglish_white = {
+    name = "dynn_White"
+    culture = anglish
+}

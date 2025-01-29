@@ -1,0 +1,14 @@
+﻿@smErmine = 0.27
+@smLysX = 0.23
+@smLysY = 0.26
+
+dynn_anglish_wyvern = {
+	pattern = "pattern_solid.dds"
+    color1 = "red"
+	
+	sub = {
+		parent = "k_great_britain"
+		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 } }
+	}
+}
+house_wyvern = dynn_anglish_wyvern
