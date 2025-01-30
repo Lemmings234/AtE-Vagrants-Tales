@@ -12,3 +12,14 @@ dynn_anglish_wyvern = {
 	}
 }
 house_wyvern = dynn_anglish_wyvern
+
+dynn_rapanui_hotu = {
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+	
+	colored_emblem = {
+		texture = "ce_rapa_nui.dds"
+		color1 = "red"
+	}
+}
+house_hotu = dynn_rapanui_hotu

@@ -2,3 +2,7 @@
 	name = "dynn_Wyvern"
 	dynasty = dynn_anglish_wyvern
 }
+house_hotu={
+	name = "dynn_Hotu"
+	dynasty = dynn_rapanui_hotu
+}

@@ -1,0 +1,25 @@
+﻿laamp_rapanui_hotu = { # Timeone Hotu
+    name = "Timeone"
+    dynasty = dynn_rapanui_hotu
+    female = no
+    disallow_random_traits = yes
+    diplomacy = 5
+	stewardship = 5
+	martial = 5
+	intrigue = 5
+	learning = 5
+    prowess = 5
+    culture = rapanui
+    religion = animism
+
+	trait = education_martial_3
+	trait=adventurer
+	trait=ambitious
+	trait=shrewd
+    trait=lifestyle_blademaster
+    
+	2640.4.2 = {
+        birth = yes
+    }
+	
+}
