@@ -948,3 +948,30 @@ kanaka = {
 	}
 	hybrid = yes
 }
+alyaskinskiy = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_novorusskiy }
+		OR = {
+			scope:other_culture = culture:alaskan
+			scope:other_culture = culture:tlingit
+		}
+	}
+	hybrid = yes
+}
+neo_british = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_britannic }
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_yankee }
+			scope:other_culture = { has_cultural_pillar = heritage_mid_atlantic }
+		}
+	}
+	hybrid = yes
+}
+rebeu = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_maghrebi }
+		scope:other_culture = { has_cultural_pillar = language_family_francophonic }
+	}
+	hybrid = yes
+}
