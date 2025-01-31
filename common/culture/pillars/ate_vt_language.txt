@@ -146,7 +146,7 @@ language_hawaiian = {
         }
     }
     parameters = {
-        language_group_marquesan = yes
+        language_group_eastern_polynesian = yes
         language_family_polynesian = yes
     }
     ai_will_do = {
@@ -156,7 +156,7 @@ language_hawaiian = {
             multiply = same_language_choice_factor
         }
         else_if = {
-            limit = { has_cultural_parameter = language_group_marquesan }
+            limit = { has_cultural_parameter = language_group_eastern_polynesian }
             multiply = same_language_group_choice_factor
         }
         else_if = {

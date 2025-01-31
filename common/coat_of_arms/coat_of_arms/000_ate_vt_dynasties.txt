@@ -23,3 +23,19 @@ dynn_rapanui_hotu = {
 	}
 }
 house_hotu = dynn_rapanui_hotu
+dynn_hawaiian_kaluhiokalani = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_stripes_08_hawaii.dds"
+		color1 = "red"
+		color2 = "blue"
+	}
+	
+	sub = {
+		parent = "e_united_kingdom"
+		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 } }
+	}
+}
+house_kaluhiokalani = dynn_hawaiian_kaluhiokalani

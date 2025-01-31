@@ -895,3 +895,7 @@ dynn_rapanui_hotu = {
     name = "dynn_Hotu"
     culture = rapanui
 }
+dynn_hawaiian_kaluhiokalani = {
+    name = "dynn_Kaluhiokalani"
+    culture = hawaiian
+}

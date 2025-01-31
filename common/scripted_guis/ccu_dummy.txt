@@ -280,7 +280,6 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:yamato } set_variable = { name = temp value = flag:yamato } }
 		if = { limit = { var:temp = flag:japonic_fam } set_variable = { name = temp value = flag:japonic_fam } }
 		if = { limit = { var:temp = flag:pacific_islander } set_variable = { name = temp value = flag:pacific_islander } }
-		if = { limit = { var:temp = flag:marquesan } set_variable = { name = temp value = flag:marquesan } }
 		if = { limit = { var:temp = flag:eastern_polynesian } set_variable = { name = temp value = flag:eastern_polynesian } }
 		if = { limit = { var:temp = flag:polynesian } set_variable = { name = temp value = flag:polynesian } }
 		if = { limit = { var:temp = flag:britannic } set_variable = { name = temp value = flag:britannic } }

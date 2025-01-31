@@ -228,7 +228,6 @@ ccu_initialize_language_group = {
 	else_if = { limit = { has_cultural_parameter = language_group_chileno } set_variable = { name = language_group value = flag:chileno } }
 	else_if = { limit = { has_cultural_parameter = language_group_rioplatense } set_variable = { name = language_group value = flag:rioplatense } }
 	else_if = { limit = { has_cultural_parameter = language_group_caribeno } set_variable = { name = language_group value = flag:caribeno } }
-	else_if = { limit = { has_cultural_parameter = language_group_marquesan } set_variable = { name = language_group value = flag:marquesan } }
 	else_if = { limit = { has_cultural_parameter = language_group_eastern_polynesian } set_variable = { name = language_group value = flag:eastern_polynesian } }
 	else_if = { limit = { has_cultural_parameter = language_group_north_african } set_variable = { name = language_group value = flag:north_african } }
 }

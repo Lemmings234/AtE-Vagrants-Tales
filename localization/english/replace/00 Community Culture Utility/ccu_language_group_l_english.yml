@@ -65,7 +65,6 @@ culture_parameter_language_group_mainline_panoan:0 "#P +[EmptyScope.ScriptValue(
 culture_parameter_language_group_mamean:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Mamean [language_group|E]"
 culture_parameter_language_group_mapuche:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Mapuche [language_group|E]"
 culture_parameter_language_group_mascoy:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Mascoy [language_group|E]"
-culture_parameter_language_group_marquesan:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Marquesan [language_group|E]"
 culture_parameter_language_group_maweti:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Maweti [language_group|E]"
 culture_parameter_language_group_mayoruna:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Mayoruna [language_group|E]"
 culture_parameter_language_group_metropolitan:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Metropolitan [language_group|E]"
