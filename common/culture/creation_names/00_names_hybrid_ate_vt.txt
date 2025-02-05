@@ -1,0 +1,79 @@
+﻿ninth_islander = {
+	trigger = {
+		scope:culture = culture:hawaiian
+		scope:other_culture = culture:mojavean
+	}
+	hybrid = yes
+}
+kariforuniajin = {
+	trigger = {
+		scope:culture = culture:edokko
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
+		}
+	}
+	hybrid = yes
+}
+kanaka = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_polynesian }
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_north_pacific }
+			scope:other_culture = { has_cultural_pillar = heritage_upper_coast }
+			scope:other_culture = { has_cultural_pillar = heritage_lower_coast }
+			scope:other_culture = { has_cultural_pillar = heritage_interior }
+			scope:other_culture = { has_cultural_pillar = heritage_californian_indigenous }
+			scope:other_culture = { has_cultural_pillar = heritage_chileno }
+		}
+		NAND = { 
+			scope:culture = culture:hawaiian
+			scope:other_culture = culture:mojavean 
+		}
+	}
+	hybrid = yes
+}
+alyaskinskiy = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_novorusskiy }
+		OR = {
+			scope:other_culture = culture:alaskan
+			scope:other_culture = culture:tlingit
+		}
+	}
+	hybrid = yes
+}
+neo_british = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_britannic }
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_yankee }
+			scope:other_culture = { has_cultural_pillar = heritage_mid_atlantic }
+			scope:other_culture = { has_cultural_pillar = heritage_old_south }
+			scope:other_culture = { has_cultural_pillar = heritage_deep_south }
+			scope:other_culture = { has_cultural_pillar = heritage_lakelander }
+			scope:other_culture = { has_cultural_pillar = heritage_laurentian }
+			scope:other_culture = { has_cultural_pillar = heritage_floridian }
+			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_north_pacific }
+		}
+	}
+	hybrid = yes
+}
+rebeu = {
+	trigger = {
+		scope:culture = { has_cultural_pillar = heritage_maghrebi }
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_canayen }
+			scope:other_culture = { has_cultural_pillar = heritage_louisianais }
+			scope:other_culture = { has_cultural_pillar = language_kweyol }
+			scope:other_culture = { has_cultural_pillar = language_kreyol }
+			scope:other_culture = { has_cultural_pillar = language_kriyol }
+			scope:other_culture = { has_cultural_pillar = language_kheuol }
+		}
+	}
+	hybrid = yes
+}
