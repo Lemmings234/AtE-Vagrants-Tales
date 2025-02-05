@@ -1,0 +1,11 @@
+﻿l_english:
+
+#############################################
+# CCU Patcher
+# by Vertimnus
+# This file was compiled by a machine.
+# It should never be manually edited.
+#############################################
+
+culture_parameter_language_group_eastern_polynesian:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Eastern-Polynesian [language_group|E]"
+culture_parameter_language_group_north_african:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the North African [language_group|E]"

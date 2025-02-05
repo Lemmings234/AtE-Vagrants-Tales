@@ -1,7 +1,0 @@
-﻿l_english:
- ethos_egalitarian_name:0 "Cosmopolitan"
-
- not_communal_egalitarian_or_stoic_desc:0 "The [culture|E] does not have the Communal, $ethos_egalitarian_name$ or Stoic [ethos|E]"
- not_communal_or_egalitarian_desc:0 "The [culture|E] does not have the Communal or $ethos_egalitarian_name$ [ethos|E]"
-
- culture_notification.1111.ethos.egalitatian:0 "Acknowledging that different cultures can live and prosper side by side, the [new_culture.GetCollectiveNounNoTooltip] are becoming more $ethos_egalitarian_name$ and open as a society."

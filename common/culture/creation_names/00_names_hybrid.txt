@@ -971,7 +971,11 @@ neo_british = {
 rebeu = {
 	trigger = {
 		scope:culture = { has_cultural_pillar = heritage_maghrebi }
-		scope:other_culture = { has_cultural_pillar = language_family_francophonic }
+		OR = {
+			scope:other_culture = { has_cultural_pillar = heritage_canayen }
+			scope:other_culture = { has_cultural_pillar = heritage_louisianais }
+			scope:other_culture = { has_cultural_pillar = language_kweyol }
+		}
 	}
 	hybrid = yes
 }

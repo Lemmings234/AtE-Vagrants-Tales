@@ -1,0 +1,14 @@
+﻿l_english:
+
+#############################################
+# CCU Patcher
+# by Vertimnus
+# This file was compiled by a machine.
+# It should never be manually edited.
+#############################################
+
+culture_parameter_heritage_group_britannic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Britannic [heritage_group|E]"
+culture_parameter_heritage_group_yamato:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Yamato [heritage_group|E]"
+culture_parameter_heritage_group_russian_group:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Russian [heritage_group|E]"
+culture_parameter_heritage_group_north_african:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the North-African [heritage_group|E]"
+culture_parameter_heritage_group_pacific_islander:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Pacific Islander [heritage_group|E]"
