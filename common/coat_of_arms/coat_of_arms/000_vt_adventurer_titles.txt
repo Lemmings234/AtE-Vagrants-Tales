@@ -1,3 +1,4 @@
 d_laamp_redcoat_band = dynn_anglish_wyvern
 d_laamp_hawaiian_band = dynn_hawaiian_kaluhiokalani
 d_laamp_rapa_nui_band = dynn_rapanui_hotu
+d_laamp_edokko_band = dynn_edokko_nashi

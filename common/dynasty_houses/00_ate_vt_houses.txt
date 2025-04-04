@@ -10,3 +10,7 @@ house_kaluhiokalani = {
 	name = "dynn_Kaluhiokalani"
 	dynasty = dynn_hawaiian_kaluhiokalani
 }
+house_nashi = {
+	name = "dynn_Nashi"
+	dynasty = dynn_edokko_nashi
+}

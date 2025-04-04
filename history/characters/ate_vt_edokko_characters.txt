@@ -1,0 +1,28 @@
+﻿laamp_edokko_tomomi = { # Nashi Tomomi
+    name = "Tomomi"
+    dynasty = dynn_edokko_nashi
+    female = no
+    disallow_random_traits = yes
+    diplomacy = 5
+	stewardship = 5
+	martial = 5
+	intrigue = 5
+	learning = 5
+    prowess = 5
+    culture = edokko
+    religion = shinto
+
+	trait = education_martial_3
+	trait=adventurer
+	trait=ambitious
+	trait=shrewd
+	trait=deceitful
+	trait=wrathful
+	trait=drunkard
+    trait=lifestyle_blademaster
+    
+	2630.1.19 = {
+        birth = yes
+    }
+	
+}

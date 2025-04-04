@@ -39,3 +39,12 @@ dynn_hawaiian_kaluhiokalani = {
 	}
 }
 house_kaluhiokalani = dynn_hawaiian_kaluhiokalani
+dynn_edokko_nashi = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 75 0 130 }
+	
+	textured_emblem = {
+		texture = "d_edokko_band.dds"
+	}
+}
+house_tomomi = dynn_edokko_nashi
