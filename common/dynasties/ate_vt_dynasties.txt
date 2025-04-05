@@ -907,3 +907,7 @@ dynn_primorskiy_polikarpov = {
 	name = "dynn_Polikarpov"
 	culture = primorskiy
 }
+dynn_moroccan_al_shaykhi = {
+	name = "dynn_al_Shaykhi"
+	culture = moroccan
+}

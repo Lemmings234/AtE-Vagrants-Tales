@@ -18,3 +18,7 @@ house_polikarpov = {
 	name = "dynn_Polikarpov"
 	dynasty = dynn_primorskiy_polikarpov
 }
+house_al_shaykhi = {
+	name = "dynn_al_Shaykhi"
+	dynasty = dynn_moroccan_al_shaykhi
+}

@@ -34,9 +34,18 @@ d_laamp_new_russia_band = {
 
 	ai_primary_priority = { add = @never_primary_score }
 }
-# d_moroccan_band = {
-	#
-# }
+d_laamp_moroccan_band = {
+	color = { 193 39 45 }
+	capital = c_georgetown
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
 d_laamp_hawaiian_band = {
 	color = { 202 26 26 }
 	capital = c_san_diego

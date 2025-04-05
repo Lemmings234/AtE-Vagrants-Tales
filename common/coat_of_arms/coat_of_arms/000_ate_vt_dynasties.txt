@@ -57,3 +57,14 @@ dynn_primorskiy_polikarpov = {
 	}
 }
 house_polikarpov = dynn_primorskiy_polikarpov
+dynn_moroccan_al_shaykhi = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 193 39 45 }
+	
+	colored_emblem = {
+		texture = "ce_star_05_morocco.dds"
+		color1=rgb { 0 98 51 }
+		color2=color1
+	}
+}
+house_al_shaykhi = dynn_moroccan_al_shaykhi
