@@ -247,6 +247,7 @@
 		"dynn_Druganin"
 		"dynn_Konstantinov"
 		"dynn_Glazkov"
+		"dynn_Polikarpov"
 	}
 
 	dynasty_of_location_prefix = ""

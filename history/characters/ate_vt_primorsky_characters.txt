@@ -1,0 +1,25 @@
+﻿laamp_primorskiy_sergei = { # Sergei Polikarpov
+    name = "Sergei"
+    dynasty = dynn_primorskiy_polikarpov
+    female = no
+    disallow_random_traits = yes
+    diplomacy = 5
+	stewardship = 5
+	martial = 5
+	intrigue = 5
+	learning = 5
+    prowess = 5
+    culture = primorskiy
+    religion = nousthreskeia
+
+	trait = education_stewardship_4
+	trait=adventurer
+	trait=diligent
+	trait=shrewd
+	trait=architect
+    
+	2636.3.21 = {
+        birth = yes
+    }
+	
+}

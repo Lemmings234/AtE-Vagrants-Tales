@@ -47,4 +47,13 @@ dynn_edokko_nashi = {
 		texture = "d_edokko_band.dds"
 	}
 }
-house_tomomi = dynn_edokko_nashi
+house_nashi = dynn_edokko_nashi
+dynn_primorskiy_polikarpov = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 188 44 44 }
+	
+	textured_emblem = {
+		texture = "d_new_russia_band.dds"
+	}
+}
+house_polikarpov = dynn_primorskiy_polikarpov

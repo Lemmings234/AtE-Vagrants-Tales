@@ -903,3 +903,7 @@ dynn_edokko_nashi = {
 	name = "dynn_Nashi"
 	culture = edokko
 }
+dynn_primorskiy_polikarpov = {
+	name = "dynn_Polikarpov"
+	culture = primorskiy
+}
