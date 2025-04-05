@@ -8,7 +8,9 @@ primorskiy = {
 	name_list = name_list_primorskiy
 	
 	traditions = {
-		tradition_staunch_traditionalists
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
 	}
 	
 	coa_gfx = {
