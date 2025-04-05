@@ -63,3 +63,16 @@ heritage_novorusskiy = {
 	}
 	audio_parameter = european
 }
+heritage_celtic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_celtic
+		}
+	}
+	parameters = {
+		heritage_group_celtic_group = yes
+		heritage_family_european = yes
+	}
+	audio_parameter = european
+}

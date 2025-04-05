@@ -66,6 +66,7 @@ ccu_initialize_heritage_group = {
 	else_if = { limit = { has_cultural_parameter = heritage_group_britannic } set_variable = { name = heritage_group value = flag:britannic } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_north_african } set_variable = { name = heritage_group value = flag:north_african } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_russian_group } set_variable = { name = heritage_group value = flag:russian_group } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_celtic_group } set_variable = { name = heritage_group value = flag:celtic_group } }
 }
 
 

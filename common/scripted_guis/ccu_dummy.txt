@@ -285,5 +285,6 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:britannic } set_variable = { name = temp value = flag:britannic } }
 		if = { limit = { var:temp = flag:arabic } set_variable = { name = temp value = flag:arabic } }
 		if = { limit = { var:temp = flag:north_african } set_variable = { name = temp value = flag:north_african } }
+		if = { limit = { var:temp = flag:celtic_group } set_variable = { name = temp value = flag:celtic_group } }
 	}
 }

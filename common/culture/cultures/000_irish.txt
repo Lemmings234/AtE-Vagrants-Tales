@@ -2,7 +2,7 @@
 	color = hsv { 0.43 0.86 0.61 }
 	
 	ethos = ethos_courtly
-	heritage = heritage_britannic
+	heritage = heritage_celtic
 	language = language_gaelige
 	martial_custom = martial_custom_male_only
 	traditions = {
