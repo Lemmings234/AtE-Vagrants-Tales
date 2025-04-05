@@ -49,7 +49,7 @@ neo_british = {
 	trigger = {
 		scope:culture = { has_cultural_pillar = heritage_britannic }
 		OR = {
-			scope:other_culture = { has_cultural_pillar = heritage_yankee }
+			scope:other_culture = { has_cultural_pillar = heritage_new_englander }
 			scope:other_culture = { has_cultural_pillar = heritage_mid_atlantic }
 			scope:other_culture = { has_cultural_pillar = heritage_old_south }
 			scope:other_culture = { has_cultural_pillar = heritage_deep_south }

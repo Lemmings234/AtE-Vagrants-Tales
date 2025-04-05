@@ -8,7 +8,7 @@ dynn_anglish_wyvern = {
 	
 	sub = {
 		parent = "k_great_britain"
-		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 } }
+		instance = { scale = { 0.5 0.5 } }
 	}
 }
 house_wyvern = dynn_anglish_wyvern
@@ -35,7 +35,7 @@ dynn_hawaiian_kaluhiokalani = {
 	
 	sub = {
 		parent = "e_united_kingdom"
-		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 } }
+		instance = { scale = { 0.5 0.5 } }
 	}
 }
 house_kaluhiokalani = dynn_hawaiian_kaluhiokalani
