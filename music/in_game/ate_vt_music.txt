@@ -1,0 +1,64 @@
+﻿###AtE Vagrants' Tales Soundtrack###
+
+God_Saves_the_King = {
+	music = "file:/music/ATE_VT_Soundtrack/God_Save_the_Queen.ogg"
+	pause_factor = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+
+	group = group_ate_vt
+	
+	name = "God_Saves_the_King"
+	
+	is_valid = {
+		OR = {
+			culture = { has_cultural_pillar = heritage_britannic }
+			religion = religion:britannic_religion
+		}
+	}
+}
+Hawaii_Ponoi = {
+	music = "file:/music/ATE_VT_Soundtrack/Hawai'i_Pono'ī.ogg"
+	pause_factor = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+
+	group = group_ate_vt
+	
+	name = "Hawaii_Ponoi"
+	
+	is_valid = {
+		OR = {
+			culture = culture:hawaiian
+			culture = { has_cultural_pillar = language_hawaiian }
+		}
+	}
+}
+Kimigayo = {
+	music = "file:/music/ATE_VT_Soundtrack/Kimi_ga_Yo.ogg"
+	pause_factor = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+
+	group = group_ate_vt
+	
+	name = "Kimigayo"
+	
+	is_valid = {
+		OR = {
+			culture = { has_cultural_pillar = heritage_yamato }
+			religion = religion:nipponic_religion
+		}
+	}
+}
+group_ate_vt = {
+	subsequent_playback_chance = { 0.80 0.40 0.2 }
+	mood = yes
+	trigger_prio_override = yes
+    can_be_interrupted = yes
+    is_prioritized_mood = yes
+    pause_factor = 30
+}

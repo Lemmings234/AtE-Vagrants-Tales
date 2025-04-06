@@ -1,0 +1,11 @@
+﻿###ATE Vagrants' Tales Soundtrack###
+
+category = {
+	id = "ate_vt_soundtrack"
+	name = "ate_vt_soundtrack_list"
+	tracks = {
+		"God_Saves_the_King"
+		"Hawaii_Ponoi"
+		"Kimigayo"
+	}
+}
