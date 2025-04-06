@@ -76,3 +76,16 @@ heritage_celtic = {
 	}
 	audio_parameter = european
 }
+heritage_chinese = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chinese
+		}
+	}
+	parameters = {
+		heritage_group_han = yes
+		heritage_family_han_fam = yes
+	}
+	audio_parameter = european
+}

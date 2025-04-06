@@ -1,0 +1,28 @@
+﻿hongkonger = {
+	color = { 0.9 0.3 0.5 }
+	created = 2066.1.1
+	
+	ethos = ethos_courtly
+	heritage = heritage_chinese
+	language = language_yue
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_religion_blending
+		tradition_culture_blending
+		tradition_maritime_mercantilism
+		tradition_culinary_art
+		tradition_city_keepers
+	}
+	parents = { yue anglish }
+	
+	name_list = name_list_han
+	
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		10 = asian
+	}
+}
