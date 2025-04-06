@@ -1,0 +1,12 @@
+﻿l_english:
+ 
+ establish_the_redcoat_dominion_decision: "Establish the Redcoat Dominion"
+ establish_the_redcoat_dominion_desc: "We have fortified our position in the New World enough to signal back home. Send for troops from the isles!"
+ establish_the_redcoat_dominion_tooltip: "We have fortified our position in the New World enough to signal back home. Send for troops from the isles!"
+ establish_the_redcoat_dominion_tt: "Your culture has British Heritage, or your faith is part of the Britannic religious group, or your culture is descended from Welsh"
+ establish_the_redcoat_dominion_decision_confirm: "May all lands praise her majesty!!!"
+ establish_redcoat_dominion_decision_effect_tooltip: "Britannia rules the waves!"
+ 
+ vt_redcoat_dominion.1.t: "The Arrival of Her Majesty's Army"
+ vt_redcoat_dominion.1.desc: "Years ago, a colonial party was sent out from the British heartland to survey the lands of the New World. And yet, what they found there was a land of great empires and kingdoms, of technology and culture, and perhaps most importantly — of wealth. After being "personally" notified of the worth of this land by the highest priests of the Glorian creed, her Majesty has declared an invasion of the New World, sending tens of thousands of men to fortify her outpost."
+ vt_redcoat_dominion.1.a: "May all lands praise her majesty!!!"

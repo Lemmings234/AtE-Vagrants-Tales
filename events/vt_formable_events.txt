@@ -1,0 +1,21 @@
+﻿namespace = vt_redcoat_dominion
+
+vt_redcoat_dominion.1 = {
+	type = character_event
+	title = vt_redcoat_dominion.1.t
+	desc = {
+		desc = vt_redcoat_dominion.1.desc
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		save_scope_as = scoped_emperor
+	}
+	option = {
+		name = vt_redcoat_dominion.1.a
+	}
+}

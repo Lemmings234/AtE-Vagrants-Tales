@@ -1,5 +1,8 @@
 ﻿e_redcoat_dominion = {
-	
+	color = { 202 26 26 }
+
+	capital = c_boston
+	definite_form = yes
 }
 # e_new_russia = {
 	

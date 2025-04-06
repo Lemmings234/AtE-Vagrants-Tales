@@ -1,0 +1,142 @@
+﻿establish_redcoat_dominion_decision_effects = {
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:e_redcoat_dominion = {
+		change_title_holder = {
+			holder = root
+			change = scope:title_change
+		}
+	}
+	resolve_title_and_vassal_change = scope:title_change
+	every_held_title = {  # For custom empires
+		limit = {
+			tier = tier_empire
+			NOR = {
+				this = title:e_canada
+				this = title:e_nunangat
+				this = title:e_borealia
+				this = title:e_seven_seas
+				this = title:e_caribbean
+			}
+		}
+		every_in_de_jure_hierarchy = {
+			limit = { tier = tier_kingdom }
+			set_de_jure_liege_title = title:e_redcoat_dominion
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_atlantica
+				NOT = { exists = title:e_atlantica.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_atlantica }
+			destroy_title = title:e_atlantica
+		}
+		else = {
+			title:e_atlantica = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_redcoat_dominion
+				}
+			}
+			title:e_redcoat_dominion = {
+				set_realm_capital = c_new_york
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_new_england
+				NOT = { exists = title:e_new_england.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_new_england }
+			destroy_title = title:e_new_england
+		}
+		else = {
+			title:e_new_england = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_redcoat_dominion
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_hcc
+				NOT = { exists = title:e_hcc.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_hcc }
+			destroy_title = title:e_hcc
+		}
+		else = {
+			title:e_hcc = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_redcoat_dominion
+				}
+			}
+			title:e_redcoat_dominion = {
+				set_realm_capital = c_atlanta
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_canada
+				NOT = { exists = title:e_canada.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_canada }
+			destroy_title = title:e_canada
+		}
+		else = {
+			title:e_canada = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_redcoat_dominion
+				}
+			}
+			title:e_redcoat_dominion = {
+				set_realm_capital = c_ottawa
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_caribbean
+				NOT = { exists = title:e_caribbean.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_caribbean }
+			destroy_title = title:e_caribbean
+		}
+		else = {
+			title:e_caribbean = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_redcoat_dominion
+				}
+			}
+			title:e_redcoat_dominion = {
+				set_realm_capital = c_surrey
+			}
+		}
+	}
+}

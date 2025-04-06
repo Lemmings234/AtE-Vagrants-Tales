@@ -1,0 +1,115 @@
+﻿# Establish the Redcoat Dominion
+establish_the_redcoat_dominion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+	}
+
+	desc = establish_the_redcoat_dominion_desc
+	selection_tooltip = establish_the_redcoat_dominion_tooltip
+	decision_group_type = major
+
+	ai_check_interval = 8
+
+	is_shown = {
+		is_ruler = yes
+		is_independent_ruler = yes
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:establish_redcoat_dominion_decision
+			}
+		}
+		NOT = { government_has_flag = government_is_tribal }
+		OR = {
+			religion = religion:britannic_religion
+			faith = { has_doctrine = tenet_britannic_syncretism }
+			culture = { has_cultural_pillar = heritage_britannic }
+			AND = {
+				highest_held_title_tier >= tier_kingdom
+				OR = {
+					culture = culture:welsh
+					culture = {
+						any_parent_culture_or_above = {
+							this = culture:welsh
+						}
+					}
+				}
+			}
+		}
+	}
+
+	is_valid = {
+		prestige_level >= max_prestige_level
+
+		custom_description = {
+			text = establish_the_redcoat_dominion_tt
+			OR = {
+				religion = religion:britannic_religion
+				faith = { has_doctrine = tenet_britannic_syncretism }
+				culture = { has_cultural_pillar = heritage_britannic }
+				culture = culture:welsh
+				culture = {
+					any_parent_culture_or_above = {
+						this = culture:welsh
+					}
+				}
+			}
+		}
+		OR = {
+			has_title = title:e_hcc
+			has_title = title:e_atlantica
+			has_title = title:e_new_england
+			has_title = title:e_caribbean
+			has_title = title:e_canada
+		}
+
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+	}
+
+	effect = {
+		custom_tooltip = establish_redcoat_dominion_decision_effect_tooltip
+		hidden_effect = { establish_redcoat_dominion_decision_effects = yes }
+		trigger_event = {
+			id = vt_redcoat_dominion.1
+		}
+		add_legitimacy = 1000
+		if = {
+			limit = { has_dlc_feature = legends }
+			create_legend_seed = {
+				type = legitimizing
+				quality = illustrious
+				chronicle = new_title
+				properties = {
+					title = title:e_redcoat_dominion
+					founder = root
+				}
+			}
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:establish_redcoat_dominion_decision
+			}
+			set_global_variable = {
+				name = establish_redcoat_dominion_decision
+				value = root
+			}
+		}
+	}
+	cost = { 
+		gold = { value = 300 } 
+		prestige = { value = 2000 }
+	}
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
