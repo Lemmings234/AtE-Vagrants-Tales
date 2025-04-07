@@ -254,7 +254,7 @@ language_patua = {
     type = language
     is_shown = {
         language_is_shown_trigger = {
-            LANGUAGE = language_macanese_patua
+            LANGUAGE = language_patua
         }
     }
     parameters = {
@@ -264,7 +264,7 @@ language_patua = {
     ai_will_do = {
         value = 10
         if = {
-            limit = { has_cultural_pillar = language_macanese_patua }
+            limit = { has_cultural_pillar = language_patua }
             multiply = same_language_choice_factor
         }
         else_if = {
@@ -276,5 +276,89 @@ language_patua = {
             multiply = same_language_family_choice_factor
         }
     }
-    color = { 138 122 45 }
+    color = { 220 40 10 }
+}
+language_min = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_min
+        }
+    }
+    parameters = {
+        language_group_chinese = yes
+        language_family_sinitic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_min }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_chinese }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_sinitic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 53 0 0 }
+}
+language_hakka = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_hakka
+        }
+    }
+    parameters = {
+        language_group_chinese = yes
+        language_family_sinitic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_hakka }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_chinese }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_sinitic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 53 0 0 }
+}
+language_guanhua = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_guanhua
+        }
+    }
+    parameters = {
+        language_group_chinese = yes
+        language_family_sinitic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_guanhua }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_chinese }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_sinitic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = han
 }

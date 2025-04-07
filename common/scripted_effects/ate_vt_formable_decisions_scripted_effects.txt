@@ -45,9 +45,7 @@
 					set_de_jure_liege_title = title:e_redcoat_dominion
 				}
 			}
-			title:e_redcoat_dominion = {
-				set_realm_capital = c_new_york
-			}
+			set_realm_capital = title:c_new_york
 		}
 	}
 	if = {
@@ -88,9 +86,7 @@
 					set_de_jure_liege_title = title:e_redcoat_dominion
 				}
 			}
-			title:e_redcoat_dominion = {
-				set_realm_capital = c_atlanta
-			}
+			set_realm_capital = title:c_atlanta
 		}
 	}
 	if = {
@@ -111,9 +107,7 @@
 					set_de_jure_liege_title = title:e_redcoat_dominion
 				}
 			}
-			title:e_redcoat_dominion = {
-				set_realm_capital = c_ottawa
-			}
+			set_realm_capital = title:c_ottawa
 		}
 	}
 	if = {
@@ -134,9 +128,7 @@
 					set_de_jure_liege_title = title:e_redcoat_dominion
 				}
 			}
-			title:e_redcoat_dominion = {
-				set_realm_capital = c_surrey
-			}
+			set_realm_capital = title:c_surrey
 		}
 	}
 }
