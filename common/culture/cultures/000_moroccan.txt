@@ -1,4 +1,4 @@
-moroccan = {
+﻿moroccan = {
 	color = { 0.4 0.9 0.5 }
 	
 	ethos = ethos_spiritual
