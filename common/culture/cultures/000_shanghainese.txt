@@ -1,0 +1,27 @@
+﻿shanghainese = {
+	color = { 155 200 105 }
+	created = 1943.1.1
+	parents = { wu }
+	ethos = ethos_courtly
+	heritage = heritage_chinese
+	language = language_wu
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_religion_blending
+		tradition_culture_blending
+		tradition_equal_inheritance
+		tradition_maritime_mercantilism
+		tradition_city_keepers
+	}
+	
+	name_list = name_list_han
+	
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		10 = asian
+	}
+}

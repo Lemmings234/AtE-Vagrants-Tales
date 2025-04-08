@@ -362,3 +362,31 @@ language_guanhua = {
     }
     color = han
 }
+language_wu = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_wu
+        }
+    }
+    parameters = {
+        language_group_chinese = yes
+        language_family_sinitic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_wu }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_chinese }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_sinitic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 213 124 124 }
+}
