@@ -4,9 +4,13 @@
 	capital = c_boston
 	definite_form = yes
 }
-# e_new_russia = {
-	
-# }
-# e_edokko = {
-	
-# }
+e_new_russia = {
+	color = { 238 10 10 }
+
+	capital = c_juneau
+}
+e_beikoku = {
+	color = { 221 22 0 }
+
+	capital = c_san_francisco
+}

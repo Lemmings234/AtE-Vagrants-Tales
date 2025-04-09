@@ -15,11 +15,9 @@
 		limit = {
 			tier = tier_empire
 			NOR = {
-				this = title:e_canada
 				this = title:e_nunangat
 				this = title:e_borealia
 				this = title:e_seven_seas
-				this = title:e_caribbean
 			}
 		}
 		every_in_de_jure_hierarchy = {
@@ -129,6 +127,186 @@
 				}
 			}
 			set_realm_capital = title:c_surrey
+		}
+	}
+}
+establish_novorossiya_decision_effects = {
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:e_new_russia = {
+		change_title_holder = {
+			holder = root
+			change = scope:title_change
+		}
+	}
+	resolve_title_and_vassal_change = scope:title_change
+	every_held_title = {  # For custom empires
+		limit = {
+			tier = tier_empire
+			NOR = {
+				this = title:e_canada
+				this = title:e_nunangat
+				this = title:e_borealia
+				this = title:e_seven_seas
+				this = title:e_caribbean
+			}
+		}
+		every_in_de_jure_hierarchy = {
+			limit = { tier = tier_kingdom }
+			set_de_jure_liege_title = title:e_new_russia
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_beringia
+				NOT = { exists = title:e_beringia.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_beringia }
+			destroy_title = title:e_beringia
+		}
+		else = {
+			title:e_beringia = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_new_russia
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_cascadia
+				NOT = { exists = title:e_cascadia.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_cascadia }
+			destroy_title = title:e_cascadia
+		}
+		else = {
+			title:e_cascadia = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_new_russia
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_california
+				NOT = { exists = title:e_california.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_california }
+			destroy_title = title:e_california
+		}
+		else = {
+			title:e_california = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_new_russia
+				}
+			}
+		}
+	}
+}
+establish_beikoku_decision_effects = {
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:e_beikoku = {
+		change_title_holder = {
+			holder = root
+			change = scope:title_change
+		}
+	}
+	resolve_title_and_vassal_change = scope:title_change
+	every_held_title = {  # For custom empires
+		limit = {
+			tier = tier_empire
+			NOR = {
+				this = title:e_canada
+				this = title:e_nunangat
+				this = title:e_borealia
+				this = title:e_seven_seas
+				this = title:e_caribbean
+			}
+		}
+		every_in_de_jure_hierarchy = {
+			limit = { tier = tier_kingdom }
+			set_de_jure_liege_title = title:e_beikoku
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_beringia
+				NOT = { exists = title:e_beringia.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_beringia }
+			destroy_title = title:e_beringia
+		}
+		else = {
+			title:e_beringia = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_beikoku
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_cascadia
+				NOT = { exists = title:e_cascadia.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_cascadia }
+			destroy_title = title:e_cascadia
+		}
+		else = {
+			title:e_cascadia = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_beikoku
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				has_title = title:e_california
+				NOT = { exists = title:e_california.holder }
+			}
+		}
+		if = {
+			limit = { has_title = title:e_california }
+			destroy_title = title:e_california
+		}
+		else = {
+			title:e_california = {
+				every_in_de_jure_hierarchy = {
+					limit = { tier = tier_kingdom }
+					set_de_jure_liege_title = title:e_beikoku
+				}
+			}
 		}
 	}
 }

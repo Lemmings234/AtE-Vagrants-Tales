@@ -8,5 +8,27 @@
  establish_redcoat_dominion_decision_effect_tooltip: "Britannia rules the waves!"
  
  vt_redcoat_dominion.1.t: "The Arrival of Her Majesty's Army"
- vt_redcoat_dominion.1.desc: "Years ago, a colonial party was sent out from the British heartland to survey the lands of the New World. And yet, what they found there was a land of great empires and kingdoms, of technology and culture, and perhaps most importantly — of wealth. After being "personally" notified of the worth of this land by the highest priests of the Glorian creed, her Majesty has declared an invasion of the New World, sending tens of thousands of men to fortify her outpost."
+ vt_redcoat_dominion.1.desc: "Years ago, a colonial party was sent out from the British heartland to survey the lands of the New World. And yet, what they found there was a land of great empires and kingdoms, of technology and culture, and perhaps most importantly — of wealth. After being "personally" notified of the worth of this land by the highest priests of the land, her Majesty has declared an invasion of the New World, sending tens of thousands of men to fortify her outpost."
  vt_redcoat_dominion.1.a: "May all lands praise her majesty!!!"
+ 
+ establish_new_russia_decision: "Establish New Russia"
+ establish_new_russia_desc: "We have fortified our position in the New World enough to signal back home. Send for troops from the Motherland!"
+ establish_new_russia_tooltip: "We have fortified our position in the New World enough to signal back home. Send for troops from the Motherland!"
+ establish_new_russia_tt: "Your culture has Novorusskiy Heritage or Russian Language."
+ establish_new_russia_decision_confirm: "Glory to New Russa! Ura!"
+ establish_new_russia_decision_effect_tooltip: "Glory to New Russia!"
+ 
+ vt_new_russia.1.t: "The Arrival of the New Russian Army"
+ vt_new_russia.1.desc: "Years ago, a colonial party was sent out from the Russian heartland to survey the lands of the New World. And yet, what they found there was a land of great empires and kingdoms, of technology and culture, and perhaps most importantly — of wealth. After being "personally" notified of the worth of this land by the highest priests of the land, the Motherland has declared an invasion of the New World, sending tens of thousands of men to fortify her outpost."
+ vt_new_russia.1.a: "Glory to New Russia! Ura!"
+ 
+ establish_beikoku_decision: "Establish Beikoku"
+ establish_beikoku_desc: "We have fortified our position in the New World enough to signal back home. Send for troops from Japan!"
+ establish_beikoku_tooltip: "We have fortified our position in the New World enough to signal back home. Send for troops from the Japan!"
+ establish_beikoku_tt: "Your culture has Yamato Heritage or Nihongo Language."
+ establish_beikoku_decision_confirm: "Tennō Heika Banzai!"
+ establish_beikoku_decision_effect_tooltip: "Tennō Heika Banzai!"
+ 
+ vt_beikoku.1.t: "The Arrival of the Beikoku Army"
+ vt_beikoku.1.desc: "Years ago, a colonial party was sent out from the Japanese heartland to survey the lands of the New World. And yet, what they found there was a land of great empires and kingdoms, of technology and culture, and perhaps most importantly — of wealth. After being "personally" notified of the worth of this land by the highest priests of the land, Japan has declared an invasion of the New World, sending tens of thousands of men to fortify her outpost."
+ vt_beikoku.1.a: "Tennō Heika Banzai!"

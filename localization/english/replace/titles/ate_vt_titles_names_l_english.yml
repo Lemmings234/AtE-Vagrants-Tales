@@ -16,6 +16,12 @@ e_redcoat_dominion:0 "Redcoat Dominion"
 e_redcoat_dominion_adj:0 "Redcoat"
 e_redcoat_dominion_article:0 "The "
 
+e_new_russia:0 "Novorossiya"
+e_new_russia_adj:0 "New Russian"
+
+e_beikoku:0 "Beikoku"
+e_beikoku_adj:0 "Beikoku"
+
 d_laamp_hawaiian_band:0 "Hawaiian Band"
 d_laamp_hawaiian_band_adj:0 "Hawaiian"
 d_laamp_hawaiian_band_article:0 "The "

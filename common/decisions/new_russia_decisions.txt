@@ -1,0 +1,94 @@
+﻿# Establish New Russia
+establish_new_russia_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+	}
+
+	desc = establish_new_russia_desc
+	selection_tooltip = establish_new_russia_tooltip
+	decision_group_type = major
+
+	ai_check_interval = 8
+
+	is_shown = {
+		is_ruler = yes
+		is_independent_ruler = yes
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:establish_new_russia_decision
+			}
+		}
+		NOT = { government_has_flag = government_is_tribal }
+		OR = {
+			culture = { has_cultural_pillar = heritage_novorusskiy }
+			culture = { has_cultural_pillar = language_russian }
+		}
+	}
+
+	is_valid = {
+		prestige_level >= max_prestige_level
+
+		custom_description = {
+			text = establish_new_russia_tt
+			OR = {
+				culture = { has_cultural_pillar = heritage_novorusskiy }
+				culture = { has_cultural_pillar = language_russian }
+			}
+		}
+		OR = {
+			has_title = title:e_beringia
+			has_title = title:e_cascadia
+			has_title = title:e_california
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_independent_ruler = yes
+	}
+
+	effect = {
+		custom_tooltip = establish_new_russia_decision_effect_tooltip
+		hidden_effect = { establish_new_russia_decision_effects = yes }
+		trigger_event = {
+			id = vt_new_russia.1
+		}
+		add_trait = conqueror
+		add_legitimacy = 1000
+		if = {
+			limit = { has_dlc_feature = legends }
+			create_legend_seed = {
+				type = legitimizing
+				quality = illustrious
+				chronicle = new_title
+				properties = {
+					title = title:e_new_russia
+					founder = root
+				}
+			}
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:establish_new_russia_decision
+			}
+			set_global_variable = {
+				name = establish_new_russia_decision
+				value = root
+			}
+		}
+	}
+	cost = { 
+		gold = { value = 300 } 
+		prestige = { value = 2000 }
+	}
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}

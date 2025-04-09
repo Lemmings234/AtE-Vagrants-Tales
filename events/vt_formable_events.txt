@@ -1,4 +1,6 @@
 ﻿namespace = vt_redcoat_dominion
+namespace = vt_new_russia
+namespace = vt_beikoku
 
 vt_redcoat_dominion.1 = {
 	type = character_event
@@ -17,5 +19,43 @@ vt_redcoat_dominion.1 = {
 	}
 	option = {
 		name = vt_redcoat_dominion.1.a
+	}
+}
+vt_new_russia.1 = {
+	type = character_event
+	title = vt_new_russia.1.t
+	desc = {
+		desc = vt_new_russia.1.desc
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		save_scope_as = scoped_emperor
+	}
+	option = {
+		name = vt_new_russia.1.a
+	}
+}
+vt_beikoku.1 = {
+	type = character_event
+	title = vt_beikoku.1.t
+	desc = {
+		desc = vt_beikoku.1.desc
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		save_scope_as = scoped_emperor
+	}
+	option = {
+		name = vt_beikoku.1.a
 	}
 }
