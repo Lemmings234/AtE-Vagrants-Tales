@@ -1,9 +1,7 @@
 ﻿sinic_religion = {
 	family = rf_anachronous
-	graphical_faith = britannic_religion_gfx
+	graphical_faith = dharmic_gfx
 	doctrine = anachronous_hostility_doctrine
-
-	# KEEP IN MIND - THESE DOCTRINES AND LOCALIZATION ARE FOR WAVERULER. FUTURE BRITISH FAITHS WILL LIKELY NOT USE THESE
 
 	#Main Group
 	doctrine = doctrine_no_head
@@ -19,7 +17,7 @@
 	doctrine = doctrine_consanguinity_cousins
 
 	#Adoption
-	doctrine = doctrine_ao_adoption_prevalence_uncommon
+	doctrine = doctrine_ao_adoption_prevalence_common
 	doctrine = doctrine_ao_adoption_type_familial
 	doctrine = doctrine_ao_adoption_target_young_adult
 	
@@ -34,14 +32,14 @@
 
 	#Clerical Functions
 	doctrine = doctrine_clerical_function_recruitment
-	doctrine = doctrine_clerical_gender_female_only
+	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_spiritual_appointment
 	doctrine = doctrine_building_temple_civic
-	doctrine = doctrine_funeral_water_burial
+	doctrine = doctrine_funeral_consecrative
 	
 
-	doctrine = special_doctrine_is_britannic_faith
+	#doctrine = special_doctrine_is_sinic_faith
 
 	traits = {
 		virtues = { forder loyal brave stubborn calm }
@@ -53,150 +51,150 @@
     }
 
 	holy_order_names = {
-		{ name = "holy_order_royal_marines" }
-		{ name = "holy_order_british_commandos" }
+		{ name = "holy_order_red_guards" }
+		{ name = "holy_order_peoples_army" }
 	}
 
 	holy_order_maa = { bush_hunter }
 
 	localization = {
 		#HighGodName
-		HighGodName = waveruler_high_god_name
-		HighGodNamePossessive = waveruler_high_god_name_possessive
-		HighGodNameSheHe = CHARACTER_SHEHE_SHE
-		HighGodHerselfHimself = CHARACTER_HERSELF
-		HighGodHerHis = CHARACTER_HERHIS_HER
-		HighGodNameAlternate = waveruler_high_god_alternate
-		HighGodNameAlternatePossessive = waveruler_high_god_alternate_possessive
+		HighGodName = jibenyuanze_high_god_name
+		HighGodNamePossessive = jibenyuanze_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_IT
+		HighGodNameAlternate = jibenyuanze_high_god_alternate
+		HighGodNameAlternatePossessive = jibenyuanze_high_god_alternate_possessive
 
 		#Creator
-		CreatorName = waveruler_creator_god_name
-		CreatorNamePossessive = waveruler_creator_god_name_possessive
+		CreatorName = jibenyuanze_creator_god_name
+		CreatorNamePossessive = jibenyuanze_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_HE
 		CreatorHerHis = CHARACTER_HERHIS_HIS
 		CreatorHerHim = CHARACTER_HERHIM_HIM
 
 		#HealthGod
-		HealthGodName = waveruler_health_god_name
-		HealthGodNamePossessive = waveruler_health_god_name_possessive
+		HealthGodName = jibenyuanze_health_god_name
+		HealthGodNamePossessive = jibenyuanze_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_SHE
 		HealthGodHerHis = CHARACTER_HERHIS_HER
 		HealthGodHerHim = CHARACTER_HERHIM_HER
 		
 		#FertilityGod
-		FertilityGodName = waveruler_fertility_god_name
-		FertilityGodNamePossessive = waveruler_fertility_god_name_possessive
+		FertilityGodName = jibenyuanze_fertility_god_name
+		FertilityGodNamePossessive = jibenyuanze_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = waveruler_wealth_god_name
-		WealthGodNamePossessive = waveruler_wealth_god_name_possessive
+		WealthGodName = jibenyuanze_wealth_god_name
+		WealthGodNamePossessive = jibenyuanze_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_SHE
 		WealthGodHerHis = CHARACTER_HERHIS_HER
 		WealthGodHerHim = CHARACTER_HERHIM_HER
 
 		#HouseholdGod
-		HouseholdGodName = waveruler_household_god_name
-		HouseholdGodNamePossessive = waveruler_household_god_name_possessive
+		HouseholdGodName = jibenyuanze_household_god_name
+		HouseholdGodNamePossessive = jibenyuanze_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_HE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
 		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
 
 		#FateGod
-		FateGodName = waveruler_fate_god_name
-		FateGodNamePossessive = waveruler_fate_god_name_possessive
+		FateGodName = jibenyuanze_fate_god_name
+		FateGodNamePossessive = jibenyuanze_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_SHE
 		FateGodHerHis = CHARACTER_HERHIS_HER
 		FateGodHerHim = CHARACTER_HERHIM_HER
 
 		#KnowledgeGod
-		KnowledgeGodName = waveruler_knowledge_god_name
-		KnowledgeGodNamePossessive = waveruler_knowledge_god_name_possessive
+		KnowledgeGodName = jibenyuanze_knowledge_god_name
+		KnowledgeGodNamePossessive = jibenyuanze_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WarGod
-		WarGodName = waveruler_war_god_name
-		WarGodNamePossessive = waveruler_war_god_name_possessive
+		WarGodName = jibenyuanze_war_god_name
+		WarGodNamePossessive = jibenyuanze_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_SHE
 		WarGodHerHis = CHARACTER_HERHIS_HER
 		WarGodHerHim = CHARACTER_HERHIM_HER
 
 		#TricksterGod
-		TricksterGodName = waveruler_trickster_god_name
-		TricksterGodNamePossessive = waveruler_trickster_god_name_possessive
+		TricksterGodName = jibenyuanze_trickster_god_name
+		TricksterGodNamePossessive = jibenyuanze_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_SHE
 		TricksterGodHerHis = CHARACTER_HERHIS_HER
 		TricksterGodHerHim = CHARACTER_HERHIM_HER
 
 		#NightGod
-		NightGodName = waveruler_night_god_name
-		NightGodNamePossessive = waveruler_night_god_name_possessive
+		NightGodName = jibenyuanze_night_god_name
+		NightGodNamePossessive = jibenyuanze_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_SHE
 		NightGodHerHis = CHARACTER_HERHIS_HER
 		NightGodHerHim = CHARACTER_HERHIM_HER
 
 		#WaterGod
-		WaterGodName = waveruler_water_god_name
-		WaterGodNamePossessive = waveruler_water_god_name_possessive
+		WaterGodName = jibenyuanze_water_god_name
+		WaterGodNamePossessive = jibenyuanze_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_SHE
 		WaterGodHerHis = CHARACTER_HERHIS_HER
 		WaterGodHerHim = CHARACTER_HERHIM_HER
 
 
-		PantheonTerm = waveruler_divine_realm
+		PantheonTerm = jibenyuanze_divine_realm
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = {
-			waveruler_high_god_name
-			waveruler_creator_god_name
-			waveruler_fertility_god_name
-			waveruler_wealth_god_name
+			jibenyuanze_high_god_name
+			jibenyuanze_creator_god_name
+			jibenyuanze_fertility_god_name
+			jibenyuanze_wealth_god_name
 		}
-		DevilName = waveruler_devil_name
-		DevilNamePossessive = waveruler_devil_name_possessive
+		DevilName = jibenyuanze_devil_name
+		DevilNamePossessive = jibenyuanze_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_THEY
 		DevilHerHis = CHARACTER_HERHIS_THEIR
 		DevilHerselfHimself = CHARACTER_THEMSELF
 		EvilGodNames = {
-			waveruler_devil_name
+			jibenyuanze_devil_name
 		}
-		HouseOfWorship = waveruler_house_of_worship
-		HouseOfWorshipPlural = waveruler_house_of_worship_plural
-		ReligiousSymbol = waveruler_religious_symbol
-		ReligiousText = waveruler_religious_text
-		ReligiousHeadName = waveruler_religious_head_title
-		ReligiousHeadTitleName = waveruler_religious_head_title_name
-		DevoteeMale = waveruler_devotee
-		DevoteeMalePlural = waveruler_devotee_plural
-		DevoteeFemale = waveruler_devotee_female
-		DevoteeFemalePlural = waveruler_devotee_female_plural
-		DevoteeNeuter = waveruler_devotee
-		DevoteeNeuterPlural = waveruler_devotee_plural
-		PriestMale = waveruler_priest_male
-		PriestMalePlural = waveruler_priest_male_plural
-		PriestFemale = waveruler_priest_female
-		PriestFemalePlural = waveruler_priest_female_plural
-		PriestNeuter = waveruler_priest_male
-		PriestNeuterPlural = waveruler_priest_male_plural
-		AltPriestTermPlural = waveruler_priest_male_plural
-		BishopMale = waveruler_bishop_male
-		BishopMalePlural = waveruler_bishop_male_plural
-		BishopFemale = waveruler_bishop_female
-		BishopFemalePlural = waveruler_bishop_female_plural
-		BishopNeuter = waveruler_bishop_male
-		BishopNeuterPlural = waveruler_bishop_male_plural
-		DivineRealm = waveruler_divine_realm
-		PositiveAfterLife = waveruler_positive_afterlife
-		NegativeAfterLife = waveruler_negative_afterlife
-		DeathDeityName = waveruler_death_deity_name
-		DeathDeityNamePossessive = waveruler_death_deity_name_possessive
+		HouseOfWorship = jibenyuanze_house_of_worship
+		HouseOfWorshipPlural = jibenyuanze_house_of_worship_plural
+		ReligiousSymbol = jibenyuanze_religious_symbol
+		ReligiousText = jibenyuanze_religious_text
+		ReligiousHeadName = jibenyuanze_religious_head_title
+		ReligiousHeadTitleName = jibenyuanze_religious_head_title_name
+		DevoteeMale = jibenyuanze_devotee
+		DevoteeMalePlural = jibenyuanze_devotee_plural
+		DevoteeFemale = jibenyuanze_devotee_female
+		DevoteeFemalePlural = jibenyuanze_devotee_female_plural
+		DevoteeNeuter = jibenyuanze_devotee
+		DevoteeNeuterPlural = jibenyuanze_devotee_plural
+		PriestMale = jibenyuanze_priest_male
+		PriestMalePlural = jibenyuanze_priest_male_plural
+		PriestFemale = jibenyuanze_priest_female
+		PriestFemalePlural = jibenyuanze_priest_female_plural
+		PriestNeuter = jibenyuanze_priest_male
+		PriestNeuterPlural = jibenyuanze_priest_male_plural
+		AltPriestTermPlural = jibenyuanze_priest_male_plural
+		BishopMale = jibenyuanze_bishop_male
+		BishopMalePlural = jibenyuanze_bishop_male_plural
+		BishopFemale = jibenyuanze_bishop_female
+		BishopFemalePlural = jibenyuanze_bishop_female_plural
+		BishopNeuter = jibenyuanze_bishop_male
+		BishopNeuterPlural = jibenyuanze_bishop_male_plural
+		DivineRealm = jibenyuanze_divine_realm
+		PositiveAfterLife = jibenyuanze_positive_afterlife
+		NegativeAfterLife = jibenyuanze_negative_afterlife
+		DeathDeityName = jibenyuanze_death_deity_name
+		DeathDeityNamePossessive = jibenyuanze_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_SHE
 		DeathDeityHerHis = CHARACTER_HERHIS_HER
 		DeathDeityHerHim = CHARACTER_HERHIM_HER
-		WitchGodName = waveruler_witchgod
+		WitchGodName = jibenyuanze_witchgod
 		WitchGodHerHis = CHARACTER_HERHIS_HIS
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HIM
@@ -210,15 +208,24 @@
 
 	faiths = {
 		sanmin = {
-			color = { 200 16 46 }
+			color = { 0 0 149 }
 			icon = sanmin
 			
-			doctrine = tenet_esotericism
-			doctrine = tenet_religious_legal_pronouncements
-			doctrine = tenet_astrology
+			doctrine = tenet_liberty_or_death
+			doctrine = tenet_communal_identity
+			doctrine = tenet_harmonic_syncretism
+			
+			holy_site = boston
+			holy_site = san_francisco
+			holy_site = seattle
+			holy_site = los_angeles
+			holy_site = toronto
+			holy_site = manhattan
+			holy_site = vancouver
+			holy_site = asuncion
 			
 			#Glorian
-			doctrine = doctrine_temporal_head
+			doctrine = doctrine_no_head
 			doctrine = doctrine_gender_equal
 			doctrine = doctrine_pluralism_righteous
 			doctrine = doctrine_theocracy_temporal
@@ -231,7 +238,7 @@
 			doctrine = doctrine_consanguinity_cousins
 
 			#Adoption
-			doctrine = doctrine_ao_adoption_prevalence_uncommon
+			doctrine = doctrine_ao_adoption_prevalence_common
 			doctrine = doctrine_ao_adoption_type_familial
 			doctrine = doctrine_ao_adoption_target_young_adult
 			
@@ -242,7 +249,7 @@
 			doctrine = doctrine_adultery_women_shunned
 			doctrine = doctrine_kinslaying_any_dynasty_member_crime
 			doctrine = doctrine_deviancy_shunned
-			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_witchcraft_shunned
 
 			#Clerical Functions
 			doctrine = doctrine_clerical_function_recruitment
@@ -250,7 +257,7 @@
 			doctrine = doctrine_clerical_marriage_allowed
 			doctrine = doctrine_clerical_succession_spiritual_appointment
 			doctrine = doctrine_building_temple_civic
-			doctrine = doctrine_funeral_water_burial
+			doctrine = doctrine_funeral_consecrative
 			
 			localization = {
 				#HighGodName
@@ -286,23 +293,23 @@
 				#WealthGod
 				WealthGodName = sanmin_wealth_god_name
 				WealthGodNamePossessive = sanmin_wealth_god_name_possessive
-				WealthGodSheHe = CHARACTER_SHEHE_HE
-				WealthGodHerHis = CHARACTER_HERHIS_HIS
-				WealthGodHerHim = CHARACTER_HERHIM_HIM
+				WealthGodSheHe = CHARACTER_SHEHE_THEY
+				WealthGodHerHis = CHARACTER_HERHIS_THEIR
+				WealthGodHerHim = CHARACTER_HERHIM_THEM
 
 				#HouseholdGod
 				HouseholdGodName = sanmin_household_god_name
 				HouseholdGodNamePossessive = sanmin_household_god_name_possessive
-				HouseholdGodSheHe = CHARACTER_SHEHE_HE
-				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
-				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+				HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+				HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+				HouseholdGodHerHim = CHARACTER_HERHIM_THEM
 
 				#FateGod
 				FateGodName = sanmin_fate_god_name
 				FateGodNamePossessive = sanmin_fate_god_name_possessive
-				FateGodSheHe = CHARACTER_SHEHE_SHE
-				FateGodHerHis = CHARACTER_HERHIS_HER
-				FateGodHerHim = CHARACTER_HERHIM_HER
+				FateGodSheHe = CHARACTER_SHEHE_THEY
+				FateGodHerHis = CHARACTER_HERHIM_THEM
+				FateGodHerHim = CHARACTER_HERHIM_THEM
 
 				#KnowledgeGod
 				KnowledgeGodName = sanmin_knowledge_god_name
@@ -321,9 +328,9 @@
 				#TricksterGod
 				TricksterGodName = sanmin_trickster_god_name
 				TricksterGodNamePossessive = sanmin_trickster_god_name_possessive
-				TricksterGodSheHe = CHARACTER_SHEHE_SHE
-				TricksterGodHerHis = CHARACTER_HERHIS_HER
-				TricksterGodHerHim = CHARACTER_HERHIM_HER
+				TricksterGodSheHe = CHARACTER_SHEHE_IT
+				TricksterGodHerHis = CHARACTER_HERHIS_ITS
+				TricksterGodHerHim = CHARACTER_HERHIM_IT
 
 				#NightGod
 				NightGodName = sanmin_night_god_name
@@ -355,9 +362,9 @@
 				}
 				DevilName = sanmin_devil_name
 				DevilNamePossessive = sanmin_devil_name_possessive
-				DevilSheHe = CHARACTER_SHEHE_THEY
-				DevilHerHis = CHARACTER_HERHIS_THEIR
-				DevilHerselfHimself = CHARACTER_THEMSELF
+				DevilSheHe = CHARACTER_SHEHE_IT
+				DevilHerHis = CHARACTER_HERHIS_ITS
+				DevilHerselfHimself = CHARACTER_ITSELF
 				EvilGodNames = {
 					sanmin_devil_name
 					sanmin_death_deity_name
@@ -398,11 +405,11 @@
 				DeathDeityHerHis = CHARACTER_HERHIS_ITS
 				DeathDeityHerHim = CHARACTER_HERHIM_IT
 				WitchGodName = sanmin_witchgod
-				WitchGodHerHis = CHARACTER_HERHIS_HER
-				WitchGodSheHe = CHARACTER_SHEHE_SHE
-				WitchGodHerHim = CHARACTER_HERHIM_HER
-				WitchGodMistressMaster = mistress
-				WitchGodMotherFather = mother
+				WitchGodHerHis = CHARACTER_HERHIS_IT
+				WitchGodSheHe = CHARACTER_SHEHE_ITS
+				WitchGodHerHim = CHARACTER_HERHIM_IT
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
 			}
 		}
 	}
