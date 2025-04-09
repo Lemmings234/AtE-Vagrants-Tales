@@ -7,5 +7,6 @@ category = {
 		"God_Saves_the_King"
 		"Hawaii_Ponoi"
 		"Kimigayo"
+		"Rule_Britannia"
 	}
 }

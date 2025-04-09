@@ -1644,6 +1644,14 @@
 			doctrine = tenet_pursuit_of_power
 			doctrine = tenet_polyamory
 			
+			holy_site = boston
+			holy_site = ottawa
+			holy_site = stanley
+			holy_site = st_johns_nf
+			holy_site = bermuda
+			holy_site = manhattan
+			holy_site = port_royal_jamaica
+			
 			#Main Doctrines
 			doctrine = doctrine_gender_equal
 			doctrine = doctrine_pluralism_pluralistic

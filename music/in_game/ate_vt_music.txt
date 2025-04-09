@@ -14,7 +14,25 @@ God_Saves_the_King = {
 	is_valid = {
 		OR = {
 			culture = { has_cultural_pillar = heritage_britannic }
-			religion = religion:britannic_religion
+			has_religion = religion:britannic_religion
+		}
+	}
+}
+Rule_Britannia = {
+	music = "file:/music/ATE_VT_Soundtrack/Rule_Britannia.oga"
+	pause_factor = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+
+	group = group_ate_vt
+	
+	name = "Rule_Britannia"
+	
+	is_valid = {
+		OR = {
+			culture = { has_cultural_pillar = heritage_britannic }
+			has_religion = religion:britannic_religion
 		}
 	}
 }
@@ -30,10 +48,7 @@ Hawaii_Ponoi = {
 	name = "Hawaii_Ponoi"
 	
 	is_valid = {
-		OR = {
-			culture = culture:hawaiian
-			culture = { has_cultural_pillar = language_hawaiian }
-		}
+		culture = { has_cultural_pillar = language_hawaiian }
 	}
 }
 Kimigayo = {
@@ -50,7 +65,7 @@ Kimigayo = {
 	is_valid = {
 		OR = {
 			culture = { has_cultural_pillar = heritage_yamato }
-			religion = religion:nipponic_religion
+			has_religion = religion:nipponic_religion
 		}
 	}
 }
