@@ -53,7 +53,7 @@ establish_beikoku_decision = {
 		custom_tooltip = establish_beikoku_decision_effect_tooltip
 		hidden_effect = { establish_beikoku_decision_effects = yes }
 		trigger_event = {
-			id = vt_new_russia.1
+			id = vt_beikoku.1
 		}
 		add_trait = conqueror
 		add_legitimacy = 1000
