@@ -6,4 +6,3 @@ tags={
 name="After the End CK3: Vagrants' Tales"
 picture="thumbnail.png"
 supported_version="1.15.*"
-path="mod/AtE-Vagrants-Tales"
