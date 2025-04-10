@@ -99,6 +99,7 @@
  glorian_positive_afterlife:0 "Albion"
  glorian_negative_afterlife:0 "No Man's Land"
  glorian_witchgod:0 "Bloody Mary"
+ glorian_witchgod_possessive:0 "Bloody Mary's"
  glorian_house_of_worship:0 "court"
  glorian_house_of_worship_plural:0 "courts"
  glorian_devotee:0 "Glorian"

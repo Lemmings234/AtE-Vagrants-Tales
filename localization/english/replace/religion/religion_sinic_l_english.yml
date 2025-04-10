@@ -29,6 +29,7 @@
  sanmin_positive_afterlife:0 "Datong"
  sanmin_negative_afterlife:0 "Chaos"
  sanmin_witchgod:0 "$jibenyuanze_high_god_name$"
+ sanmin_witchgod_possessive:0 "$jibenyuanze_high_god_name_possessive$"
  sanmin_house_of_worship:0 "court"
  sanmin_house_of_worship_plural:0 "courts"
  sanmin_devotee:0 "Sanmin"

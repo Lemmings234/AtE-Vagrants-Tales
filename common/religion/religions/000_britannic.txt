@@ -290,7 +290,7 @@
 			doctrine = doctrine_clerical_marriage_allowed
 			doctrine = doctrine_clerical_succession_spiritual_appointment
 			doctrine = doctrine_building_temple_civic
-			doctrine = doctrine_funeral_water_burial
+			doctrine = doctrine_funeral_consecrative
 			
 			localization = {
 				#HighGodName
@@ -381,6 +381,8 @@
 
 
 				PantheonTerm = glorian_divine_realm
+				PantheonTerm2 = glorian_divine_realm
+				PantheonTerm3 = glorian_divine_realm
 				PantheonTermHasHave = pantheon_term_have
 				GoodGodNames = {
 					glorian_high_god_name
@@ -405,9 +407,15 @@
 					glorian_witchgod
 				}
 				HouseOfWorship = glorian_house_of_worship
+				HouseOfWorship2 = glorian_house_of_worship
+				HouseOfWorship3 = glorian_house_of_worship
 				HouseOfWorshipPlural = glorian_house_of_worship_plural
 				ReligiousSymbol = glorian_religious_symbol
+				ReligiousSymbol2 = glorian_religious_symbol
+				ReligiousSymbol3 = glorian_religious_symbol
 				ReligiousText = glorian_religious_text
+				ReligiousText2 = glorian_religious_text
+				ReligiousText3 = glorian_religious_text
 				ReligiousHeadName = glorian_religious_head_title
 				ReligiousHeadTitleName = glorian_religious_head_title_name
 				DevoteeMale = glorian_devotee
@@ -430,14 +438,21 @@
 				BishopNeuter = glorian_bishop_male
 				BishopNeuterPlural = glorian_bishop_male_plural
 				DivineRealm = glorian_divine_realm
+				DivineRealm2 = glorian_divine_realm
+				DivineRealm3 = glorian_divine_realm
 				PositiveAfterLife = glorian_positive_afterlife
+				PositiveAfterLife2 = glorian_positive_afterlife
+				PositiveAfterLife3 = glorian_positive_afterlife
 				NegativeAfterLife = glorian_negative_afterlife
+				NegativeAfterLife2 = glorian_negative_afterlife
+				NegativeAfterLife3 = glorian_negative_afterlife
 				DeathDeityName = glorian_death_deity_name
 				DeathDeityNamePossessive = glorian_death_deity_name_possessive
 				DeathDeitySheHe = CHARACTER_SHEHE_IT
 				DeathDeityHerHis = CHARACTER_HERHIS_ITS
 				DeathDeityHerHim = CHARACTER_HERHIM_IT
 				WitchGodName = glorian_witchgod
+				WitchGodNamePossessive = glorian_witchgod_possessive
 				WitchGodHerHis = CHARACTER_HERHIS_HER
 				WitchGodSheHe = CHARACTER_SHEHE_SHE
 				WitchGodHerHim = CHARACTER_HERHIM_HER

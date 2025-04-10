@@ -348,6 +348,8 @@
 
 
 				PantheonTerm = sanmin_divine_realm
+				PantheonTerm2 = sanmin_divine_realm
+				PantheonTerm3 = sanmin_divine_realm
 				PantheonTermHasHave = pantheon_term_have
 				GoodGodNames = {
 					sanmin_high_god_name
@@ -372,9 +374,15 @@
 					sanmin_witchgod
 				}
 				HouseOfWorship = sanmin_house_of_worship
+				HouseOfWorship2 = sanmin_house_of_worship
+				HouseOfWorship3 = sanmin_house_of_worship
 				HouseOfWorshipPlural = sanmin_house_of_worship_plural
 				ReligiousSymbol = sanmin_religious_symbol
+				ReligiousSymbol2 = sanmin_religious_symbol
+				ReligiousSymbol3 = sanmin_religious_symbol
 				ReligiousText = sanmin_religious_text
+				ReligiousText2 = sanmin_religious_text
+				ReligiousText3 = sanmin_religious_text
 				ReligiousHeadName = sanmin_religious_head_title
 				ReligiousHeadTitleName = sanmin_religious_head_title_name
 				DevoteeMale = sanmin_devotee
@@ -397,14 +405,21 @@
 				BishopNeuter = sanmin_bishop_male
 				BishopNeuterPlural = sanmin_bishop_male_plural
 				DivineRealm = sanmin_divine_realm
+				DivineRealm2 = sanmin_divine_realm
+				DivineRealm3 = sanmin_divine_realm
 				PositiveAfterLife = sanmin_positive_afterlife
+				PositiveAfterLife2 = sanmin_positive_afterlife
+				PositiveAfterLife3 = sanmin_positive_afterlife
 				NegativeAfterLife = sanmin_negative_afterlife
+				NegativeAfterLife2 = sanmin_negative_afterlife
+				NegativeAfterLife3 = sanmin_negative_afterlife
 				DeathDeityName = sanmin_death_deity_name
 				DeathDeityNamePossessive = sanmin_death_deity_name_possessive
 				DeathDeitySheHe = CHARACTER_SHEHE_IT
 				DeathDeityHerHis = CHARACTER_HERHIS_ITS
 				DeathDeityHerHim = CHARACTER_HERHIM_IT
 				WitchGodName = sanmin_witchgod
+				WitchGodNamePossessive = sanmin_witchgod_possessive
 				WitchGodHerHis = CHARACTER_HERHIS_IT
 				WitchGodSheHe = CHARACTER_SHEHE_ITS
 				WitchGodHerHim = CHARACTER_HERHIM_IT
