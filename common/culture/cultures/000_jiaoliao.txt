@@ -1,18 +1,16 @@
-﻿dongbei = {
-	color = { 211 44 44 }
-	created = 1911.1.1
-	parents = { jilu jiaoliao }
+﻿jiaoliao = {
+	color = { 84 200 84 }
 	
-	ethos = ethos_stoic
+	ethos = ethos_bureaucratic
 	heritage = heritage_chinese
 	language = language_guanhua
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_religion_blending
 		tradition_culture_blending
-		tradition_horse_lords
-		tradition_martial_admiration
-		tradition_stalwart_defenders
+		tradition_culinary_art
+		tradition_legalistic
+		tradition_seafaring
 	}
 	name_list = name_list_han
 	

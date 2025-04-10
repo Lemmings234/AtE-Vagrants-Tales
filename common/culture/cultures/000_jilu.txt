@@ -1,4 +1,4 @@
-﻿ji_lu = {
+﻿jilu = {
 	color = { 55 33 200 }
 	
 	ethos = ethos_bureaucratic
