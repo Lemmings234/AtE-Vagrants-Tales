@@ -1633,5 +1633,190 @@
 				GHWNamePlural = ghw_left_hand_wars
 			}
 		}
+		thelema = {
+			color = { 134 66 165 }
+			icon = thelema
+			
+			doctrine = tenet_esotericism
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_polyamory
+			
+			holy_site = boston
+			holy_site = ottawa
+			holy_site = stanley
+			holy_site = st_johns_nf
+			holy_site = bermuda
+			holy_site = manhattan
+			holy_site = port_royal_jamaica
+			
+			#Main Doctrines
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_spiritual_head
+			
+			#Marriage
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_divorce_allowed
+
+			#Crimes
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_witchcraft_shunned
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_homosexuality_accepted
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_funeral_cremation
+			localization = {
+				HighGodName = thelema_high_god_name
+				HighGodNamePossessive = thelema_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_THEY
+				HighGodHerHis = CHARACTER_HERHIS_THEIR
+				HighGodNameAlternate = thelema_high_god_name
+				HighGodNameAlternatePossessive = thelema_high_god_name_possessive
+
+				#Creator
+				CreatorName = thelema_creator_god_name
+				CreatorNamePossessive = thelema_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_THEY
+				CreatorHerHis = CHARACTER_HERHIS_THEIR
+				CreatorHerHim = CHARACTER_HERHIM_THEM
+
+				#HealthGod
+				HealthGodName = thelema_health_god_name
+				HealthGodNamePossessive = thelema_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_THEY
+				HealthGodHerHis = CHARACTER_HERHIS_THEIR
+				HealthGodHerHim = CHARACTER_HERHIM_THEM
+				
+				#FertilityGod
+				FertilityGodName = thelema_fertility_god_name
+				FertilityGodNamePossessive = thelema_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_THEY
+				FertilityGodHerHis = CHARACTER_HERHIS_THEIR
+				FertilityGodHerHim = CHARACTER_HERHIM_THEM
+
+				#WealthGod
+				WealthGodName = thelema_wealth_god_name
+				WealthGodNamePossessive = thelema_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_THEY
+				WealthGodHerHis = CHARACTER_HERHIS_THEIR
+				WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+				#HouseholdGod
+				HouseholdGodName = thelema_household_god_name
+				HouseholdGodNamePossessive = thelema_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+				HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+				HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+				#FateGod
+				FateGodName = thelema_fate_god_name
+				FateGodNamePossessive = thelema_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_THEY
+				FateGodHerHis = CHARACTER_HERHIS_THEIR
+				FateGodHerHim = CHARACTER_HERHIM_THEM
+
+				#KnowledgeGod
+				KnowledgeGodName = thelema_knowledge_god_name
+				KnowledgeGodNamePossessive = thelema_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = thelema_war_god_name
+				WarGodNamePossessive = thelema_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = thelema_trickster_god_name
+				TricksterGodNamePossessive = thelema_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = thelema_night_god_name
+				NightGodNamePossessive = thelema_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = thelema_water_god_name
+				WaterGodNamePossessive = thelema_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_THEY
+				WaterGodHerHis = CHARACTER_HERHIS_THEIR
+				WaterGodHerHim = CHARACTER_HERHIM_THEM
+
+				GoodGodNames = { 
+					thelema_high_god_name
+				}
+				PantheonTerm = thelema_pantheon
+				PantheonTermHasHave = pantheon_term_have
+				DevilName = thelema_devil_name
+				DevilNamePossessive = thelema_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_THEY
+				DevilHerHis = CHARACTER_HERHIS_THEIR
+				EvilGodNames = { 
+					thelema_devil_name
+					thelema_death_god_name
+				}
+				HouseOfWorship = thelema_house_of_worship
+				HouseOfWorshipPlural = thelema_house_of_worship_plural
+				ReligiousSymbol = thelema_religious_symbol
+				ReligiousText = thelema_religious_text
+				ReligiousHeadName = thelema_religious_head_title
+				ReligiousHeadTitleName = thelema_religious_head_title_name
+				DevoteeMale = thelema_adherent
+				DevoteeMalePlural = thelema_adherent_plural
+				DevoteeFemale = thelema_adherent
+				DevoteeFemalePlural = thelema_adherent_plural
+				DevoteeNeuter = thelema_adherent
+				DevoteeNeuterPlural = thelema_adherent_plural
+				PriestMale = thelema_priest
+				PriestMalePlural = thelema_priest_plural
+				PriestFemale = thelema_priest
+				PriestFemalePlural = thelema_priest_plural
+				PriestNeuter = thelema_priest
+				PriestNeuterPlural = thelema_priest_plural
+				AltPriestTermPlural = thelema_priest_plural
+				BishopMale = thelema_bishop
+				BishopMalePlural = thelema_bishop_plural
+				BishopFemale = thelema_bishop
+				BishopFemalePlural = thelema_bishop_plural
+				BishopNeuter = thelema_bishop
+				BishopNeuterPlural = thelema_bishop_plural
+				DivineRealm = thelema_divine_realm
+				PositiveAfterLife = thelema_positive_afterlife
+				NegativeAfterLife = thelema_negative_afterlife
+				DeathDeityName = thelema_death_god_name
+				DeathDeityNamePossessive = thelema_death_god_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_THEY
+				DeathDeityHerHis = CHARACTER_HERHIS_THEIR
+				DeathDeityHerHim = CHARACTER_HERHIM_THEM
+				WitchGodName = thelema_witch_god_name
+				WitchGodHerHis = CHARACTER_HERHIS_HIS
+				WitchGodSheHe = CHARACTER_SHEHE_HE
+				WitchGodHerHim = CHARACTER_HERHIM_HIM
+				WitchGodMistressMaster = master
+				WitchGodMotherFather = father
+
+				GHWName = ghw_left_hand_war
+				GHWNamePlural = ghw_left_hand_wars
+			}
+
+		}
 	}
 }
