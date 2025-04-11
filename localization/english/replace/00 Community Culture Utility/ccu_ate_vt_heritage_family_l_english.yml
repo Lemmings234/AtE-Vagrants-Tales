@@ -12,3 +12,4 @@ culture_parameter_heritage_family_japonic_fam:0 "#P +[EmptyScope.ScriptValue('sa
 culture_parameter_heritage_family_polynesian:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Polynesian [heritage_family|E]"
 culture_parameter_heritage_family_slavic_fam:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Slavic [heritage_family|E]"
 culture_parameter_heritage_family_han_fam:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Han [heritage_family|E]"
+culture_parameter_heritage_family_korean_fam:0 "#P +[EmptyScope.ScriptValue('same_heritage_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Korean [heritage_family|E]"

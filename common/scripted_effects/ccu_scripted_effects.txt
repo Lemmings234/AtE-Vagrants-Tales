@@ -68,6 +68,7 @@ ccu_initialize_heritage_group = {
 	else_if = { limit = { has_cultural_parameter = heritage_group_russian_group } set_variable = { name = heritage_group value = flag:russian_group } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_celtic_group } set_variable = { name = heritage_group value = flag:celtic_group } }
 	else_if = { limit = { has_cultural_parameter = heritage_group_han } set_variable = { name = heritage_group value = flag:han } }
+	else_if = { limit = { has_cultural_parameter = heritage_group_korean } set_variable = { name = heritage_group value = flag:joseon } }
 }
 
 
@@ -94,6 +95,7 @@ ccu_initialize_heritage_family = {
 	else_if = { limit = { has_cultural_parameter = heritage_family_japonic_fam } set_variable = { name = heritage_family value = flag:japonic_fam } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_slavic_fam } set_variable = { name = heritage_family value = flag:slavic_fam } }
 	else_if = { limit = { has_cultural_parameter = heritage_family_han_fam } set_variable = { name = heritage_family value = flag:han_fam } }
+	else_if = { limit = { has_cultural_parameter = heritage_family_korean_fam } set_variable = { name = heritage_family value = flag:joseonic } }
 }
 
 

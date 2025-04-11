@@ -390,3 +390,59 @@ language_wu = {
     }
     color = { 213 124 124 }
 }
+language_hangugeo = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_hangugeo
+        }
+    }
+    parameters = {
+        language_group_korean = yes
+        language_family_koreanic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_hangugeo }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_korean }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_koreanic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 213 124 124 }
+}
+language_chosono = {
+    type = language
+    is_shown = {
+        language_is_shown_trigger = {
+            LANGUAGE = language_chosono
+        }
+    }
+    parameters = {
+        language_group_korean = yes
+        language_family_koreanic = yes
+    }
+    ai_will_do = {
+        value = 10
+        if = {
+            limit = { has_cultural_pillar = language_chosono }
+            multiply = same_language_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_group_korean }
+            multiply = same_language_group_choice_factor
+        }
+        else_if = {
+            limit = { has_cultural_parameter = language_family_koreanic }
+            multiply = same_language_family_choice_factor
+        }
+    }
+    color = { 213 124 124 }
+}
