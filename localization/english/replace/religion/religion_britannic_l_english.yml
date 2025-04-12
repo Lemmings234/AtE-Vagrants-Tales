@@ -168,6 +168,8 @@
  thelema_priest_male_plural:0 "ministers"
  thelema_priest_female:0 "minister"
  thelema_priest_female_plural:0 "ministers"
+ thelema_priest:0 "minister"
+ thelema_priest_plural:0 "ministers"
  thelema_bishop_male:0 "priest"
  thelema_bishop_male_plural:0 "priests"
  thelema_bishop_female:0 "priestess"

@@ -1639,7 +1639,7 @@
 			
 			doctrine = tenet_esotericism
 			doctrine = tenet_pursuit_of_power
-			doctrine = tenet_polyamory
+			doctrine = tenet_liberty_or_death
 			
 			holy_site = boston
 			holy_site = ottawa
@@ -1656,17 +1656,17 @@
 			doctrine = doctrine_spiritual_head
 			
 			#Marriage
-			doctrine = doctrine_monogamy
+			doctrine = doctrine_polygamy
 			doctrine = doctrine_bastardry_legitimization
 			doctrine = doctrine_consanguinity_cousins
 			doctrine = doctrine_divorce_allowed
 
 			#Crimes
 			doctrine = doctrine_kinslaying_any_dynasty_member_crime
-			doctrine = doctrine_deviancy_shunned
-			doctrine = doctrine_witchcraft_shunned
-			doctrine = doctrine_adultery_men_shunned
-			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_deviancy_accepted
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_adultery_men_accepted
+			doctrine = doctrine_adultery_women_accepted
 			doctrine = doctrine_homosexuality_accepted
 
 			#Clerical Functions
@@ -1785,19 +1785,19 @@
 				DevoteeFemalePlural = thelema_adherent_plural
 				DevoteeNeuter = thelema_adherent
 				DevoteeNeuterPlural = thelema_adherent_plural
-				PriestMale = thelema_priest
-				PriestMalePlural = thelema_priest_plural
-				PriestFemale = thelema_priest
-				PriestFemalePlural = thelema_priest_plural
+				PriestMale = thelema_priest_male
+				PriestMalePlural = thelema_priest_male_plural
+				PriestFemale = thelema_priest_female
+				PriestFemalePlural = thelema_priest_female_plural
 				PriestNeuter = thelema_priest
 				PriestNeuterPlural = thelema_priest_plural
 				AltPriestTermPlural = thelema_priest_plural
-				BishopMale = thelema_bishop
-				BishopMalePlural = thelema_bishop_plural
-				BishopFemale = thelema_bishop
-				BishopFemalePlural = thelema_bishop_plural
-				BishopNeuter = thelema_bishop
-				BishopNeuterPlural = thelema_bishop_plural
+				BishopMale = thelema_bishop_male
+				BishopMalePlural = thelema_bishop_male_plural
+				BishopFemale = thelema_bishop_female
+				BishopFemalePlural = thelema_bishop_female_plural
+				BishopNeuter = thelema_bishop_male
+				BishopNeuterPlural = thelema_bishop_male_plural
 				DivineRealm = thelema_divine_realm
 				PositiveAfterLife = thelema_positive_afterlife
 				NegativeAfterLife = thelema_negative_afterlife
