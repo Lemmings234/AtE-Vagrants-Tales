@@ -1,5 +1,5 @@
 ﻿hangugin = {
-	color = { 243 0 60 }
+	color = hsv { 0.1 0.2 0.1 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_korean

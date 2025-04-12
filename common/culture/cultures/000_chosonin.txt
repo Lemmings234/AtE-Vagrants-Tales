@@ -1,5 +1,5 @@
 ﻿chosonin = {
-	color = { 243 0 60 }
+	color = hsv { 0.1 0.7 0.4 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_korean
@@ -9,7 +9,7 @@
 		tradition_hereditary_hierarchy
 		tradition_isolationist
 	}
-	name_list = name_list_chosonin
+	name_list = name_list_korean
 	
 	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
