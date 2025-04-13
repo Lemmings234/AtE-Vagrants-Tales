@@ -14,7 +14,7 @@
 		requires_dlc_flag = legacy_of_persia
 		fallback = tradition_poetry
 	}
-	name_list = name_list_hangugin
+	name_list = name_list_korean
 	
 	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
