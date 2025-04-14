@@ -309,7 +309,7 @@
 		Saem Sang Sang_Eun Sang_Hoon Sang_Hyun Sang_Won Sang_Woo Sang_Wook Se_Bin Se_Hoon Seong Seulki Se_Yeon Se_Yoon Se_Young Seo_Yun Seung_Eun Seung_Gi Seung_Min Si_Eon Seung_Han Seung_Hyun Seung_Ho Seung_Hwan Seung_Hoon Seung_Jae Seung_Soo Seung_Won Seung_Yeon Seung_Yoon Seok_Ho Seok_Jin Si_Won Si_Young Sin_Young Sol So_Hyun Soo_Geun Soo_Bin Soo_Min Soo_Hee Soo_Young Sun_Yup Sung_Ha Sung_Hoon Sung_Hyun Sung_Bin Sung_Soo Sung_Gi Sung_Jae Sung_Il Sung_Hee Sung_Ho Sung_Keun Sung_Ki Sung_Kyung Sung_Min Sung_Nam Sung_Won Sung_Yong Seung_Yong Soo_Yeon Syngman
 		Tae_Il Tae_Hee Tae_Ho Tae_Hyun Tae_Min Tae_Seok Tae_Sung Tae_Soo Tae_Woo Tae_Won Tae_Wook Tae_Woong Tae_Yeon Tae_Young Tae_Yong
 		Woo_Sung Woo_Tae Won_Chul Won_Ho Won_Il Won_Sik Won_Yong Woori
-		Yeon_Hee Yeon_Seok Yeon_Woo Ye_Jun Yi_Soo Yo_Han Yong_Gi Yong_Nam Yoon_Gi Yoo_Jin Yoo_Jung Yoon_Jung Yoo_Suk Yoon_Suk Yong_Joon Yong_Ho Young_Bae Young_Chul Young_Nam Young_Gi Young_Ha Young_Hee Young_Ho Young_Hoon Young_Hwan Young_Joo Young_Jin Young_Min Young_Sik Young_Soo Young_Shin Young_Wook Young_Tae Yu_Bin Yun_Hui Yun_Seong
+		Yeon_Hee Yeon_Seok Yeon_Woo Ye_Jun Yi_Soo Yo_Han Yong_Gi Yong_Nam Yoon_Gi Yoo_Jin Yoo_Jung Yoon_Jung Yoo_Suk Yoon_Suk Yong_Joon Yong_Ho Young_Bae Young_Chul Young_Nam Young_Gi Young_Ha Young_Hee Young_Ho Young_Hoon Young_Hwan Young_Joo Young_Jin Young_Keun Young_Min Young_Sik Young_Soo Young_Shin Young_Wook Young_Tae Yu_Bin Yun_Hui Yun_Seong
 	}
 	
 	female_names = {
@@ -330,7 +330,7 @@
 		Sandara Saebyok Saetbyol Saeron Saerom Sang Sang_Eun Sang_Mi Sarang Seong Seung_Ah Seung_Hee Seung_Hun Seung_Min Se_Bin Se_Yoon Se_Young Seung_Yeon Sook_Ja Seo_Yeon Se_Yeon Seon_Hwa Seon_Ok Seok_Ju Si_Eon Seulki Si_Eun Si_Won Si_Young Sin_Young Si_Yeon Sol Songyi Sora Sori So_Hee Soo_Hee Soon_Hee Soo_Bin Soo_Jin Soo_Kyung So_Won So_Yeon So_Young Soo_Young Soo_Ah Soo_Mi Soo_Min Soo_Jung Sun_Mi Sun_Ok Sun_Young Sun_Ja Sung_Mi Sung_Min Sung_Hee Sung_Kyung Sung_Nam Sung_Sook Seung_Yong Soo_Yeon
 		Tae_Yeon Tae_Young Tae_Yong
 		Won Woo_Jin Woori
-		Ye_Bin Ye_Eun Ye_Ji Ye_Jin Yeoreum Ye_Won Yeon_Hee Yeong_Ok Yeon_Woo Yeo_Jin Yi_Soo Yoo_Jin Yoo_Jung Yoon_Jung Yoo_Kyung Young_Ae Young_Ha Young_Hee Young_Ja Young_Jae Young_Joo Young_Jin Young_Keun Young_Mi Young_Min Young_Soo Young_Sik Young_Shin Yu_Bin Yu_Mi Yu_Min Yun_Hui Yu_Ri
+		Ye_Bin Ye_Eun Ye_Ji Ye_Jin Yeoreum Ye_Won Yeon_Hee Yeong_Ok Yeon_Woo Yeo_Jin Yi_Soo Yoo_Jin Yoo_Jung Yoon_Jung Yoo_Kyung Young_Ae Young_Ha Young_Hee Young_Ja Young_Jae Young_Joo Young_Jin Young_Mi Young_Min Young_Soo Young_Sik Young_Shin Yu_Bin Yu_Mi Yu_Min Yun_Hui Yu_Ri
 	}
 	dynasty_name_first = yes
 }

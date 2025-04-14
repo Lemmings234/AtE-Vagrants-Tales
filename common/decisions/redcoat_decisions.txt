@@ -15,7 +15,7 @@ establish_the_redcoat_dominion_decision = {
 		is_independent_ruler = yes
 		NOT = {  #Can only do it once.
 			is_target_in_global_variable_list = {
-				name = unavailable_unique_decisions
+				name = establish_redcoat_dominion_decision
 				target = flag:establish_redcoat_dominion_decision
 			}
 		}
@@ -93,7 +93,7 @@ establish_the_redcoat_dominion_decision = {
 		}
 		hidden_effect = {
 			add_to_global_variable_list = {
-				name = unavailable_unique_decisions
+				name = establish_redcoat_dominion_decision
 				target = flag:establish_redcoat_dominion_decision
 			}
 			set_global_variable = {
