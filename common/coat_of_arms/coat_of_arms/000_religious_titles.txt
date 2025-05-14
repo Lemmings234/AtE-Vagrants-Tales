@@ -24,3 +24,11 @@ d_glorian = {
 		instance = { scale = { 0.5 0.5 } offset = { 0.0 0.5 } } # bottom left
 	} 
 }
+d_thelema = {
+	pattern="pattern_solid.dds"
+	color1=rgb { 75 19 42 }
+	
+	textured_emblem = {
+		texture = "d_thelema.dds"
+	}
+}

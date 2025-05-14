@@ -1636,6 +1636,7 @@
 		thelema = {
 			color = { 134 66 165 }
 			icon = thelema
+			religious_head = d_thelema
 			
 			doctrine = tenet_esotericism
 			doctrine = tenet_pursuit_of_power
@@ -1664,7 +1665,7 @@
 			#Crimes
 			doctrine = doctrine_kinslaying_any_dynasty_member_crime
 			doctrine = doctrine_deviancy_accepted
-			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_witchcraft_virtuous
 			doctrine = doctrine_adultery_men_accepted
 			doctrine = doctrine_adultery_women_accepted
 			doctrine = doctrine_homosexuality_accepted
