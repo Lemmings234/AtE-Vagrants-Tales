@@ -35,7 +35,7 @@ d_glorian = {
 	de_jure_drift_disabled = yes
 }
 d_thelema = {
-	color1=rgb { 75 19 42 }
+	color= { 75 19 42 }
 	
 	definite_form = yes
 	ruler_uses_title_name = no
