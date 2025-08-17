@@ -35,6 +35,7 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:caribbean } set_variable = { name = temp value = flag:caribbean } }
 		if = { limit = { var:temp = flag:central_brazilian } set_variable = { name = temp value = flag:central_brazilian } }
 		if = { limit = { var:temp = flag:chacoan } set_variable = { name = temp value = flag:chacoan } }
+		if = { limit = { var:temp = flag:chacoan } set_variable = { name = temp value = flag:je } }
 		if = { limit = { var:temp = flag:chilean } set_variable = { name = temp value = flag:chilean } }
 		if = { limit = { var:temp = flag:chukotkan } set_variable = { name = temp value = flag:chukotkan } }
 		if = { limit = { var:temp = flag:colombian } set_variable = { name = temp value = flag:colombian } }
@@ -286,5 +287,15 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:arabic } set_variable = { name = temp value = flag:arabic } }
 		if = { limit = { var:temp = flag:north_african } set_variable = { name = temp value = flag:north_african } }
 		if = { limit = { var:temp = flag:celtic_group } set_variable = { name = temp value = flag:celtic_group } }
+		if = { limit = { var:temp = flag:han } set_variable = { name = temp value = flag:han } }
+		if = { limit = { var:temp = flag:han_fam } set_variable = { name = temp value = flag:han_fam } }
+		if = { limit = { var:temp = flag:chinese } set_variable = { name = temp value = flag:chinese } }
+		if = { limit = { var:temp = flag:sinitic } set_variable = { name = temp value = flag:sinitic } }
+		if = { limit = { var:temp = flag:joseon } set_variable = { name = temp value = flag:joseon } }
+		if = { limit = { var:temp = flag:joseonic } set_variable = { name = temp value = flag:joseonic } }
+		if = { limit = { var:temp = flag:vietnamese } set_variable = { name = temp value = flag:vietnamese } }
+		if = { limit = { var:temp = flag:southeast_asian } set_variable = { name = temp value = flag:southeast_asian } }
+		if = { limit = { var:temp = flag:vietic } set_variable = { name = temp value = flag:vietic } }
+		if = { limit = { var:temp = flag:austroasiatic } set_variable = { name = temp value = flag:austroasiatic } }
 	}
 }

@@ -10,3 +10,4 @@
 culture_parameter_language_family_arabic:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Arabic [language_family|E]"
 culture_parameter_language_family_polynesian:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Polynesian [language_family|E]"
 culture_parameter_language_family_sinitic:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Sinitic [language_family|E]"
+culture_parameter_language_family_austroasiatic:0 "#P +[EmptyScope.ScriptValue('same_language_family_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Austroasiatic [language_family|E]"

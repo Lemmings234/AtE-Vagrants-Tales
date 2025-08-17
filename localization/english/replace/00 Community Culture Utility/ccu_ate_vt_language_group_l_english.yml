@@ -10,3 +10,4 @@
 culture_parameter_language_group_eastern_polynesian:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Eastern-Polynesian [language_group|E]"
 culture_parameter_language_group_north_african:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the North African [language_group|E]"
 culture_parameter_language_group_chinese:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Chinese [language_group|E]"
+culture_parameter_language_group_vietic:0 "#P +[EmptyScope.ScriptValue('same_language_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Vietic [language_group|E]"

@@ -15,3 +15,4 @@ culture_parameter_heritage_group_pacific_islander:0 "#P +[EmptyScope.ScriptValue
 culture_parameter_heritage_group_celtic_group:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Celtic [heritage_group|E]"
 culture_parameter_heritage_group_han:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Han [heritage_group|E]"
 culture_parameter_heritage_group_korean:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Korean [heritage_group|E]"
+culture_parameter_heritage_group_vietnamese:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] with Cultures sharing the Vietnamese [heritage_group|E]"

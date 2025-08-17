@@ -102,3 +102,16 @@ heritage_korean = {
 	}
 	audio_parameter = european
 }
+heritage_vietnamese = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_korean
+		}
+	}
+	parameters = {
+		heritage_group_vietnamese = yes
+		heritage_family_southeast_asian = yes
+	}
+	audio_parameter = european
+}
