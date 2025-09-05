@@ -4,10 +4,13 @@
 	ethos = ethos_bureaucratic
 	heritage = heritage_korean
 	language = language_chosono
-	martial_custom = martial_custom_male_only
+	martial_custom = martial_custom_equal
 	traditions = {
 		tradition_hereditary_hierarchy
 		tradition_isolationist
+		tradition_equal_inheritance
+		tradition_mountain_homes
+		tradition_mountaineers
 	}
 	name_list = name_list_korean
 	

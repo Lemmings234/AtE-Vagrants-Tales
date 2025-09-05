@@ -8,6 +8,8 @@
 	traditions = {
 		tradition_hereditary_hierarchy
 		tradition_maritime_mercantilism
+		tradition_city_keepers
+		tradition_cosmopolitan_elitism
 	}
 	dlc_tradition = {
 		trait = tradition_fp3_enlightened_magnates
