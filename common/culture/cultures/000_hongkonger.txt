@@ -2,10 +2,12 @@
 	color = { 0.9 0.3 0.5 }
 	created = 2066.1.1
 	
+	name_order_convention = dynasty_always_first
 	ethos = ethos_courtly
 	heritage = heritage_chinese
 	language = language_yue
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_religion_blending
 		tradition_culture_blending
@@ -18,11 +20,12 @@
 	name_list = name_list_han
 	
 	coa_gfx = { chinese_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-	
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_china
+
 	ethnicities = {
-		10 = asian
+		10 = asian_han_chinese
 	}
 }

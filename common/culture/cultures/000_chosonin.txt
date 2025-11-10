@@ -1,25 +1,32 @@
 ﻿chosonin = {
 	color = hsv { 0.1 0.7 0.4 }
 	
-	ethos = ethos_bureaucratic
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose
 	heritage = heritage_korean
 	language = language_chosono
 	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
 	traditions = {
-		tradition_hereditary_hierarchy
 		tradition_isolationist
 		tradition_equal_inheritance
 		tradition_mountain_homes
 		tradition_mountaineers
 	}
+	dlc_tradition = {
+		trait = tradition_stratified_society
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_hereditary_hierarchy
+	}
 	name_list = name_list_korean
 	
 	coa_gfx = { chinese_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-	
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+
 	ethnicities = {
-		10 = asian
+		10 = asian_manchu_korean
 	}
 }

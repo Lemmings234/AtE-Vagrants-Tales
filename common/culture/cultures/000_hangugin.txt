@@ -1,15 +1,21 @@
 ﻿hangugin = {
 	color = hsv { 0.1 0.2 0.1 }
 	
-	ethos = ethos_bureaucratic
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
 	heritage = heritage_korean
 	language = language_hangugeo
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
-		tradition_hereditary_hierarchy
 		tradition_maritime_mercantilism
 		tradition_city_keepers
 		tradition_cosmopolitan_elitism
+	}
+	dlc_tradition = {
+		trait = tradition_stratified_society
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_hereditary_hierarchy
 	}
 	dlc_tradition = {
 		trait = tradition_fp3_enlightened_magnates
@@ -19,11 +25,12 @@
 	name_list = name_list_korean
 	
 	coa_gfx = { chinese_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-	
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+
 	ethnicities = {
-		10 = asian
+		10 = asian_manchu_korean
 	}
 }
