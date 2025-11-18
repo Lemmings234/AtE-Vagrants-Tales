@@ -1059,7 +1059,18 @@
 		Uka Umeki Una Urako Urano Urara Uta
 		Yachi Yasu Yayoi Yomiko Yoriko Yoshe Yoshike Yoshiko Yotsuba Yufu Yui Yuina Yuki Yukika Yukishiro Yumako Yuna Yuno Yuria Yuro Yutsuko Yuuko
 	}
+	house_based_map_names = yes
 	dynasty_name_first = yes
+	suggest_family_names = no
+	suggest_ancestor_names = no
+	
+	# Keep names changing
+	pat_grf_name_chance = 0
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 0
+	mat_grm_name_chance = 0
+	mother_name_chance = 0
 
 	mercenary_names = {
 		{ name = mercenary_company_dojo }

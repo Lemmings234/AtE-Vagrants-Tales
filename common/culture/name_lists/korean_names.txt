@@ -333,4 +333,14 @@
 		Ye_Bin Ye_Eun Ye_Ji Ye_Jin Yeoreum Ye_Won Yeon_Hee Yeong_Ok Yeon_Woo Yeo_Jin Yi_Soo Yoo_Jin Yoo_Jung Yoon_Jung Yoo_Kyung Young_Ae Young_Ha Young_Hee Young_Ja Young_Jae Young_Joo Young_Jin Young_Mi Young_Min Young_Soo Young_Sik Young_Shin Yu_Bin Yu_Mi Yu_Min Yun_Hui Yu_Ri
 	}
 	dynasty_name_first = yes
+	suggest_family_names = no
+	suggest_ancestor_names = no
+	
+	# Keep names changing
+	pat_grf_name_chance = 0
+	mat_grf_name_chance = 0
+	father_name_chance = 0
+	pat_grm_name_chance = 0
+	mat_grm_name_chance = 0
+	mother_name_chance = 0
 }
