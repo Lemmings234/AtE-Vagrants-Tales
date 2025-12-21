@@ -59,7 +59,11 @@ mood_Kimigayo = {
 }
 group_ate_vt_british = {
 	subsequent_playback_chance = { 0.80 0.40 0.2 }
-    pause_factor = 30
+    mood = yes
+	trigger_prio_override = yes
+    can_be_interrupted = yes
+    is_prioritized_mood = yes
+	pause_factor = 30
 	
 	is_valid = {
 		should_use_british_music_trigger = yes
