@@ -5,6 +5,7 @@
 	heritage = heritage_britannic
 	language = language_anglish
 	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
 	name_list = name_list_norfie
 	
 	traditions = {

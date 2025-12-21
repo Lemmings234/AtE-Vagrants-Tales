@@ -5,6 +5,7 @@
 	heritage = heritage_celtic
 	language = language_gaelige
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_poetry
 		tradition_brewmasters
