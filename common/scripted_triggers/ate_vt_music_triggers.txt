@@ -2,15 +2,15 @@
 	OR = {
 		culture = { has_cultural_pillar = heritage_britannic }
 		culture = { any_parent_culture_or_above = { has_cultural_pillar = heritage_britannic } }
-		culture = culture:welsh
-		culture = { any_parent_culture_or_above = { this = culture:welsh } }
+		culture = { has_cultural_pillar = language_cymraeg }
+		culture = { any_parent_culture_or_above = { has_cultural_pillar = language_cymraeg } }
 		religion = religion:britannic_religion
 	}
 }
 should_use_hawaiian_music_trigger = {
 	OR = {
-		culture = culture:hawaiian
-		culture = { any_parent_culture_or_above = { culture:hawaiian } }
+		culture = { has_cultural_pillar = language_hawaiian }
+		culture = { any_parent_culture_or_above = { has_cultural_pillar = language_hawaiian } }
 	}
 }
 should_use_japanese_music_trigger = {

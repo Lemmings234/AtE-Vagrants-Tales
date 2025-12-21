@@ -4,9 +4,10 @@ category = {
 	id = "ate_vt_soundtrack"
 	name = "ate_vt_soundtrack_list"
 	tracks = {
-		"God_Saves_the_King"
-		"Hawaii_Ponoi"
-		"Kimigayo"
-		"Rule_Britannia"
+		"mood_God_Saves_the_King"
+		"mood_Hawaii_Ponoi"
+		"mood_Kimigayo"
+		"mood_Rule_Britannia"
+		"mood_Aloha_Oe"
 	}
 }

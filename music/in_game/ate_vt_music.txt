@@ -1,70 +1,91 @@
 ﻿###AtE Vagrants' Tales Soundtrack###
 
-God_Saves_the_King = {
+mood_God_Saves_the_King = {
 	music = "file:/music/ATE_VT_Soundtrack/God_Save_the_Queen.ogg"
-	pause_factor = 20
+	pause_factor = 15
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = yes
 
-	group = group_ate_vt
+	group = group_ate_vt_british
 	
 	name = "God_Saves_the_King"
-	
-	is_valid = {
-		should_use_british_music_trigger = yes
-	}
 }
-Rule_Britannia = {
+mood_Rule_Britannia = {
 	music = "file:/music/ATE_VT_Soundtrack/Rule_Britannia.oga"
 	pause_factor = 20
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = yes
 
-	group = group_ate_vt
+	group = group_ate_vt_british
 	
 	name = "Rule_Britannia"
-	
-	is_valid = {
-		should_use_british_music_trigger = yes
-	}
 }
-Hawaii_Ponoi = {
+mood_Hawaii_Ponoi = {
 	music = "file:/music/ATE_VT_Soundtrack/Hawai'i_Pono'ī.ogg"
 	pause_factor = 20
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = yes
 
-	group = group_ate_vt
+	group = group_ate_vt_hawaiian
 	
 	name = "Hawaii_Ponoi"
 	
-	is_valid = {
-		should_use_hawaiian_music_trigger = yes
-	}
 }
-Kimigayo = {
+mood_Aloha_Oe = {
+	music = "file:/music/ATE_VT_Soundtrack/Aloha_'Oe.ogg"
+	pause_factor = 20
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+
+	group = group_ate_vt_hawaiian
+	
+	name = "Aloha_Oe"
+	
+}
+mood_Kimigayo = {
 	music = "file:/music/ATE_VT_Soundtrack/Kimi_ga_Yo.ogg"
 	pause_factor = 20
 	mood = yes
 	can_be_interrupted = yes
 	is_prioritized_mood = yes
 
-	group = group_ate_vt
+	group = group_ate_vt_japanese
 	
 	name = "Kimigayo"
+}
+group_ate_vt_british = {
+	subsequent_playback_chance = { 0.80 0.40 0.2 }
+    pause_factor = 30
 	
 	is_valid = {
-		should_use_japanese_music_trigger = yes
+		should_use_british_music_trigger = yes
 	}
 }
-group_ate_vt = {
+group_ate_vt_hawaiian = {
 	subsequent_playback_chance = { 0.80 0.40 0.2 }
 	mood = yes
 	trigger_prio_override = yes
     can_be_interrupted = yes
     is_prioritized_mood = yes
     pause_factor = 30
+	
+	is_valid = {
+		should_use_hawaiian_music_trigger = yes
+	}
+}
+group_ate_vt_japanese = {
+	subsequent_playback_chance = { 0.8 0.4 0.2 }
+	mood = yes
+	trigger_prio_override = yes
+    can_be_interrupted = yes
+    is_prioritized_mood = yes
+    pause_factor = 30
+	
+	is_valid = {
+		should_use_japanese_music_trigger = yes
+	}
 }
