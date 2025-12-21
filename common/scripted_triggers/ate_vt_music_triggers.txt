@@ -1,0 +1,22 @@
+﻿should_use_british_music_trigger = {
+	OR = {
+		culture = { has_cultural_pillar = heritage_britannic }
+		culture = { any_parent_culture_or_above = { has_cultural_pillar = heritage_britannic } }
+		culture = culture:welsh
+		culture = { any_parent_culture_or_above = { this = culture:welsh } }
+		religion = religion:britannic_religion
+	}
+}
+should_use_hawaiian_music_trigger = {
+	OR = {
+		culture = culture:hawaiian
+		culture = { any_parent_culture_or_above = { culture:hawaiian } }
+	}
+}
+should_use_japanese_music_trigger = {
+	OR = {
+		culture = { has_cultural_pillar = heritage_yamato }
+		culture = { any_parent_culture_or_above = { has_cultural_pillar = heritage_yamato } }
+		religion = religion:nipponic_religion
+	}
+}

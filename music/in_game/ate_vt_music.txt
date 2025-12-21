@@ -12,10 +12,7 @@ God_Saves_the_King = {
 	name = "God_Saves_the_King"
 	
 	is_valid = {
-		OR = {
-			culture = { has_cultural_pillar = heritage_britannic }
-			has_religion = religion:britannic_religion
-		}
+		should_use_british_music_trigger = yes
 	}
 }
 Rule_Britannia = {
@@ -30,10 +27,7 @@ Rule_Britannia = {
 	name = "Rule_Britannia"
 	
 	is_valid = {
-		OR = {
-			culture = { has_cultural_pillar = heritage_britannic }
-			has_religion = religion:britannic_religion
-		}
+		should_use_british_music_trigger = yes
 	}
 }
 Hawaii_Ponoi = {
@@ -48,7 +42,7 @@ Hawaii_Ponoi = {
 	name = "Hawaii_Ponoi"
 	
 	is_valid = {
-		culture = { has_cultural_pillar = language_hawaiian }
+		should_use_hawaiian_music_trigger = yes
 	}
 }
 Kimigayo = {
@@ -63,10 +57,7 @@ Kimigayo = {
 	name = "Kimigayo"
 	
 	is_valid = {
-		OR = {
-			culture = { has_cultural_pillar = heritage_yamato }
-			has_religion = religion:nipponic_religion
-		}
+		should_use_japanese_music_trigger = yes
 	}
 }
 group_ate_vt = {
