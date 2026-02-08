@@ -1,4 +1,4 @@
-﻿e_redcoat_dominion = {
+﻿h_redcoat_dominion = {
 	pattern = "pattern_solid.dds"
     color1 = "white"
 	
@@ -13,7 +13,7 @@
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
 	}
 }
-e_new_russia = {
+h_new_russia = {
 	pattern = "pattern_solid.dds"
     color1 = { 215 30 6 }
 	
@@ -21,7 +21,7 @@ e_new_russia = {
 		texture = "e_new_russia.dds"
 	}
 }
-e_beikoku = {
+h_beikoku = {
 	pattern = "pattern_solid.dds"
     color1 = { 221 22 0 }
 	

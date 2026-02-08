@@ -19,6 +19,42 @@ vt_redcoat_dominion.1 = {
 	}
 	option = {
 		name = vt_redcoat_dominion.1.a
+		trigger_event = vt_redcoat_dominion.2
+	}
+}
+vt_redcoat_dominion.2 = {
+	type = character_event
+	title = vt_redcoat_dominion.2.t
+	desc = {
+		desc = vt_redcoat_dominion.2.desc
+	}
+	theme = realm
+	left_portrait = {
+		character = scope:scoped_emperor
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		save_scope_as = scoped_emperor
+	}
+	option = {
+		name = vt_redcoat_dominion.2.a
+		set_realm_capital = title:c_ottawa
+	}
+	option = {
+		name = vt_redcoat_dominion.2.b
+		set_realm_capital = title:c_new_york
+	}
+	option = {
+		name = vt_redcoat_dominion.2.c
+		set_realm_capital = title:c_atlanta
+	}
+	option = {
+		name = vt_redcoat_dominion.2.d
+		set_realm_capital = title:c_surrey
+	}
+	option = {
+		name = vt_redcoat_dominion.2.e
 	}
 }
 vt_new_russia.1 = {
