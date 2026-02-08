@@ -38,3 +38,43 @@
 		80 = slavic
 	}
 }
+primorskiy = {
+	color = hsv { 0.2 0.4 0.1 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_novorusskiy
+	language = language_russian
+	martial_custom = martial_custom_male_only
+	name_list = name_list_primorskiy
+	head_determination = head_determination_domain
+	
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
+	}
+	
+	coa_gfx = {
+		doukhobor_coa_gfx
+		prairie_group_gfx
+	}
+	building_gfx = {
+		doukhobor_building_gfx
+		cascadian_building_gfx #Style
+		frontier_building_gfx #Super-style
+		heritage_north_pacific_building_gfx
+		prairie_building_gfx
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	unit_gfx = {
+		eastern_unit_gfx
+	}
+	
+	ethnicities = {
+		20 = caucasian
+		80 = slavic
+	}
+}
