@@ -23,7 +23,7 @@ establish_the_redcoat_dominion_decision = {
 		OR = {
 			religion = religion:britannic_religion
 			faith = { has_doctrine = tenet_britannic_syncretism }
-			culture = { has_cultural_pillar = heritage_britannic }
+			culture = { has_cultural_pillar = heritage_briton }
 			AND = {
 				highest_held_title_tier >= tier_kingdom
 				OR = {
@@ -46,7 +46,7 @@ establish_the_redcoat_dominion_decision = {
 			OR = {
 				religion = religion:britannic_religion
 				faith = { has_doctrine = tenet_britannic_syncretism }
-				culture = { has_cultural_pillar = heritage_britannic }
+				culture = { has_cultural_pillar = heritage_briton }
 				culture = culture:welsh
 				culture = {
 					any_parent_culture_or_above = {

@@ -283,7 +283,6 @@ ccu_dummy = {
 		if = { limit = { var:temp = flag:pacific_islander } set_variable = { name = temp value = flag:pacific_islander } }
 		if = { limit = { var:temp = flag:eastern_polynesian } set_variable = { name = temp value = flag:eastern_polynesian } }
 		if = { limit = { var:temp = flag:polynesian } set_variable = { name = temp value = flag:polynesian } }
-		if = { limit = { var:temp = flag:britannic } set_variable = { name = temp value = flag:britannic } }
 		if = { limit = { var:temp = flag:arabic } set_variable = { name = temp value = flag:arabic } }
 		if = { limit = { var:temp = flag:north_african } set_variable = { name = temp value = flag:north_african } }
 		if = { limit = { var:temp = flag:celtic_group } set_variable = { name = temp value = flag:celtic_group } }

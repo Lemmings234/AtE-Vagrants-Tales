@@ -8,10 +8,7 @@
 kariforuniajin = {
 	trigger = {
 		scope:culture = culture:edokko
-		OR = {
-			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
-			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
-		}
+		scope:other_culture = { has_cultural_pillar = heritage_californine }
 	}
 	hybrid = yes
 }
@@ -19,8 +16,7 @@ kanaka = {
 	trigger = {
 		scope:culture = { has_cultural_pillar = heritage_polynesian }
 		OR = {
-			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
-			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_californine }
 			scope:other_culture = { has_cultural_pillar = heritage_north_pacific }
 			scope:other_culture = { has_cultural_pillar = heritage_upper_coast }
 			scope:other_culture = { has_cultural_pillar = heritage_lower_coast }
@@ -47,7 +43,7 @@ alyaskinskiy = {
 }
 neo_british = {
 	trigger = {
-		scope:culture = { has_cultural_pillar = heritage_britannic }
+		scope:culture = { has_cultural_pillar = heritage_briton }
 		OR = {
 			scope:other_culture = { has_cultural_pillar = heritage_new_englander }
 			scope:other_culture = { has_cultural_pillar = heritage_mid_atlantic }
@@ -56,8 +52,7 @@ neo_british = {
 			scope:other_culture = { has_cultural_pillar = heritage_lakelander }
 			scope:other_culture = { has_cultural_pillar = heritage_laurentian }
 			scope:other_culture = { has_cultural_pillar = heritage_floridian }
-			scope:other_culture = { has_cultural_pillar = heritage_norcalifornine }
-			scope:other_culture = { has_cultural_pillar = heritage_socalifornine }
+			scope:other_culture = { has_cultural_pillar = heritage_californine }
 			scope:other_culture = { has_cultural_pillar = heritage_north_pacific }
 		}
 	}

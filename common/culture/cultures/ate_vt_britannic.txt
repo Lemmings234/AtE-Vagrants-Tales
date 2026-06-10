@@ -2,7 +2,7 @@ anglish = {
 	color = hsv { 0.8 0.2 0.2 }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_britannic
+	heritage = heritage_briton
 	language = language_anglish
 	martial_custom = martial_custom_equal
 	name_list = name_list_anglish
@@ -67,7 +67,7 @@ norfie = {
 	color = hsv { 0.8 0.3 0.3 }
 	
 	ethos = ethos_egalitarian
-	heritage = heritage_britannic
+	heritage = heritage_briton
 	language = language_anglish
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -133,7 +133,7 @@ scottish = {
 	color = hsv { 0.3 0.7 0.7 }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_britannic
+	heritage = heritage_briton
 	language = language_scots
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain

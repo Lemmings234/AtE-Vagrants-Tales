@@ -14,75 +14,10 @@
 	every_held_title = {  # For custom empires
 		limit = {
 			tier = tier_empire
-			NOR = {
-				this = title:e_nunangat
-				this = title:e_borealia
-				this = title:e_seven_seas
-			}
 		}
 		every_in_de_jure_hierarchy = {
 			limit = { tier = tier_empire }
 			set_de_jure_liege_title = title:h_redcoat_dominion
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_atlantica
-				NOT = { exists = title:e_atlantica.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_atlantica }
-			destroy_title = title:e_atlantica
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_new_england
-				NOT = { exists = title:e_new_england.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_new_england }
-			destroy_title = title:e_new_england
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_hcc
-				NOT = { exists = title:e_hcc.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_hcc }
-			destroy_title = title:e_hcc
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_canada
-				NOT = { exists = title:e_canada.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_canada }
-			destroy_title = title:e_canada
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_caribbean
-				NOT = { exists = title:e_caribbean.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_caribbean }
-			destroy_title = title:e_caribbean
 		}
 	}
 }
@@ -102,77 +37,10 @@ establish_new_russia_decision_effects = {
 	every_held_title = {  # For custom empires
 		limit = {
 			tier = tier_empire
-			NOR = {
-				this = title:e_canada
-				this = title:e_nunangat
-				this = title:e_borealia
-				this = title:e_seven_seas
-				this = title:e_caribbean
-			}
 		}
 		every_in_de_jure_hierarchy = {
 			limit = { tier = tier_empire }
 			set_de_jure_liege_title = title:h_new_russia
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_beringia
-				NOT = { exists = title:e_beringia.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_beringia }
-			destroy_title = title:e_beringia
-		}
-		else = {
-			title:e_beringia = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_new_russia
-				}
-			}
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_cascadia
-				NOT = { exists = title:e_cascadia.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_cascadia }
-			destroy_title = title:e_cascadia
-		}
-		else = {
-			title:e_cascadia = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_new_russia
-				}
-			}
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_california
-				NOT = { exists = title:e_california.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_california }
-			destroy_title = title:e_california
-		}
-		else = {
-			title:e_california = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_new_russia
-				}
-			}
 		}
 	}
 }
@@ -192,77 +60,10 @@ establish_beikoku_decision_effects = {
 	every_held_title = {  # For custom empires
 		limit = {
 			tier = tier_empire
-			NOR = {
-				this = title:e_canada
-				this = title:e_nunangat
-				this = title:e_borealia
-				this = title:e_seven_seas
-				this = title:e_caribbean
-			}
 		}
 		every_in_de_jure_hierarchy = {
 			limit = { tier = tier_empire }
 			set_de_jure_liege_title = title:h_beikoku
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_beringia
-				NOT = { exists = title:e_beringia.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_beringia }
-			destroy_title = title:e_beringia
-		}
-		else = {
-			title:e_beringia = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_beikoku
-				}
-			}
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_cascadia
-				NOT = { exists = title:e_cascadia.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_cascadia }
-			destroy_title = title:e_cascadia
-		}
-		else = {
-			title:e_cascadia = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_beikoku
-				}
-			}
-		}
-	}
-	if = {
-		limit = {
-			OR = {
-				has_title = title:e_california
-				NOT = { exists = title:e_california.holder }
-			}
-		}
-		if = {
-			limit = { has_title = title:e_california }
-			destroy_title = title:e_california
-		}
-		else = {
-			title:e_california = {
-				every_in_de_jure_hierarchy = {
-					limit = { tier = tier_empire }
-					set_de_jure_liege_title = title:h_beikoku
-				}
-			}
 		}
 	}
 }

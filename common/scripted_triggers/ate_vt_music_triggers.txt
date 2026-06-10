@@ -1,7 +1,7 @@
 ﻿should_use_british_music_trigger = {
 	OR = {
-		culture = { has_cultural_pillar = heritage_britannic }
-		culture = { any_parent_culture_or_above = { has_cultural_pillar = heritage_britannic } }
+		culture = { has_cultural_pillar = heritage_briton }
+		culture = { any_parent_culture_or_above = { has_cultural_pillar = heritage_briton } }
 		culture = culture:welsh
 		culture = { any_parent_culture_or_above = { this = culture:welsh } }
 		religion = religion:britannic_religion
