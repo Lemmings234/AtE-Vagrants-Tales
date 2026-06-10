@@ -6,6 +6,7 @@ anglish = {
 	language = language_anglish
 	martial_custom = martial_custom_equal
 	name_list = name_list_anglish
+	head_determination = head_determination_domain
 	
 	traditions = {
 		tradition_cosmopolitan_elitism
