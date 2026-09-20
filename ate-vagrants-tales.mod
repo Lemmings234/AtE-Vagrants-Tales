@@ -3,8 +3,8 @@ tags={
 	"Total Conversion"
 	"Cultures"
 }
-replace_path="common/religion/religions/000_atlantean.txt"
-replace_path="common/religion/religions/000_britannic.txt"
+replace_path="common/religion/religion_types/000_atlantean.txt"
+replace_path="common/religion/religion_types/000_britannic.txt"
 name="After the End CK3: Vagrants' Tales"
 picture="thumbnail.png"
 supported_version="1.19.*"
